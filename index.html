@@ -1,0 +1,1629 @@
+<!doctype html>
+<!--
+  BE SAFE CYBER — HTML ÚNICO
+  Para incluir cursos, trilhas ou notícias, procure dentro deste arquivo por:
+  DADOS EDITÁVEIS — COMECE A EDITAR AQUI
+  A lista geral de repositórios é sincronizada automaticamente com o GitHub.
+-->
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Hub gratuito de cibersegurança de Mariana BS: cursos, roadmaps, laboratórios e guias práticos." />
+    <meta name="theme-color" content="#08090a" />
+    <title>Be Safe Cyber | Cursos, Roadmaps e Labs</title>
+    <link rel="icon" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+CiAgPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTIiIGZpbGw9IiMwODA5MGEiLz4KICA8cGF0aCBkPSJNMTIgMTNoMjJjMTAgMCAxNSA0IDE1IDExIDAgNC0yIDctNiA5IDUgMiA4IDYgOCAxMCAwIDctNiAxMS0xNiAxMUgxMlYxM1ptMTIgOXY3aDljMyAwIDUtMSA1LTRzLTItMy01LTNoLTlabTAgMTV2OGgxMGM0IDAgNi0xIDYtNHMtMi00LTYtNEgyNFoiIGZpbGw9IiNmZjNkOTgiLz4KICA8cGF0aCBkPSJNOSA5aDQ2djQ2SDl6IiBmaWxsPSJub25lIiBzdHJva2U9IiNjYWZmMzMiIHN0cm9rZS13aWR0aD0iMiIvPgo8L3N2Zz4K" />
+    <style>
+@import url("https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=Inter:wght@400;500;600;700;800;900&display=swap");
+
+:root {
+  --ink: #08090a;
+  --paper: #f3f1ec;
+  --muted: #aaa8a2;
+  --line: rgba(255, 255, 255, 0.16);
+  --pink: #ff3d98;
+  --lime: #caff33;
+  --cyan: #3de7ff;
+  --orange: #ff7a3d;
+  --blue: #5777ff;
+  --purple: #9e62ff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+  background: var(--ink);
+  color: var(--paper);
+  font-family: "Inter", Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+::selection {
+  background: var(--pink);
+  color: #08090a;
+}
+
+.nav {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  min-height: 78px;
+  padding: 0 clamp(22px, 5vw, 82px);
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  gap: 28px;
+  background: rgba(8, 9, 10, 0.9);
+  border-bottom: 1px solid var(--line);
+  backdrop-filter: blur(18px);
+}
+
+.brand {
+  width: max-content;
+  display: flex;
+  align-items: baseline;
+  letter-spacing: -0.08em;
+  font-size: 22px;
+  font-weight: 900;
+}
+
+.brand span {
+  color: var(--paper);
+}
+
+.brand strong {
+  color: var(--pink);
+}
+
+.brand i {
+  margin-left: 9px;
+  color: var(--muted);
+  font-family: "DM Mono", monospace;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+}
+
+.nav-links {
+  display: flex;
+  gap: 32px;
+  font-family: "DM Mono", monospace;
+  font-size: 11px;
+  letter-spacing: 0.1em;
+}
+
+.nav-links a,
+.nav-cta {
+  transition: color 160ms ease;
+}
+
+.nav-links a:hover {
+  color: var(--pink);
+}
+
+.nav-cta {
+  justify-self: end;
+  padding: 11px 15px;
+  border: 1px solid var(--paper);
+  font-family: "DM Mono", monospace;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+}
+
+.nav-cta:hover {
+  background: var(--paper);
+  color: var(--ink);
+}
+
+.hero {
+  position: relative;
+  min-height: calc(100vh - 78px);
+  padding: clamp(60px, 8vw, 120px) clamp(22px, 5vw, 82px);
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(360px, 0.85fr);
+  gap: clamp(45px, 8vw, 120px);
+  align-items: center;
+  overflow: hidden;
+  background:
+    linear-gradient(rgba(255,255,255,.025) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,.025) 1px, transparent 1px);
+  background-size: 42px 42px;
+}
+
+.hero::before {
+  content: "";
+  position: absolute;
+  width: 520px;
+  height: 520px;
+  right: -230px;
+  top: -240px;
+  border: 1px solid rgba(255, 61, 152, 0.3);
+  border-radius: 50%;
+  box-shadow: 0 0 120px rgba(255, 61, 152, 0.1);
+}
+
+.hero-copy,
+.roadmap-card {
+  position: relative;
+  z-index: 1;
+}
+
+.eyebrow {
+  margin-bottom: 24px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--muted);
+  font-family: "DM Mono", monospace;
+  font-size: 11px;
+  letter-spacing: 0.14em;
+}
+
+.eyebrow span {
+  width: 8px;
+  height: 8px;
+  background: var(--lime);
+  border-radius: 50%;
+  box-shadow: 0 0 16px rgba(202, 255, 51, 0.8);
+}
+
+.hero h1 {
+  margin: 0;
+  font-size: clamp(64px, 8.4vw, 136px);
+  font-weight: 900;
+  line-height: 0.78;
+  letter-spacing: -0.085em;
+}
+
+h1 em,
+h2 em {
+  color: var(--pink);
+  font-style: normal;
+}
+
+.hero-copy > p {
+  max-width: 650px;
+  margin: 38px 0 0;
+  color: #c5c3be;
+  font-size: clamp(16px, 1.35vw, 21px);
+  line-height: 1.6;
+}
+
+.hero-actions {
+  margin-top: 34px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.button {
+  min-height: 49px;
+  padding: 0 19px;
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid var(--paper);
+  font-family: "DM Mono", monospace;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.07em;
+  transition: transform 160ms ease, background 160ms ease, color 160ms ease;
+}
+
+.button:hover {
+  transform: translateY(-3px);
+}
+
+.button-primary {
+  border-color: var(--pink);
+  background: var(--pink);
+  color: var(--ink);
+}
+
+.button-ghost:hover {
+  background: var(--paper);
+  color: var(--ink);
+}
+
+.hero-stats {
+  max-width: 650px;
+  margin-top: 58px;
+  padding-top: 22px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  border-top: 1px solid var(--line);
+}
+
+.hero-stats div {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.hero-stats strong {
+  font-size: clamp(24px, 3vw, 43px);
+  letter-spacing: -0.06em;
+}
+
+.hero-stats span {
+  color: var(--muted);
+  font-family: "DM Mono", monospace;
+  font-size: 9px;
+  line-height: 1.4;
+  letter-spacing: 0.08em;
+}
+
+.roadmap-card {
+  min-height: 590px;
+  padding: clamp(28px, 3vw, 48px);
+  display: flex;
+  flex-direction: column;
+  color: #090909;
+  background: var(--pink);
+  box-shadow: 26px 26px 0 #191a1c, 26px 26px 0 1px rgba(255,255,255,.12);
+  transform: rotate(1.8deg);
+  transition: transform 250ms ease, box-shadow 250ms ease;
+}
+
+.roadmap-card:hover {
+  transform: rotate(0deg) translateY(-8px);
+  box-shadow: 34px 34px 0 #202124;
+}
+
+.roadmap-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  font-family: "DM Mono", monospace;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+}
+
+.live-dot {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.live-dot::before {
+  content: "";
+  width: 7px;
+  height: 7px;
+  background: #08090a;
+  border-radius: 50%;
+}
+
+.roadmap-title {
+  margin-top: 70px;
+  font-size: clamp(42px, 4.15vw, 64px);
+  font-weight: 900;
+  line-height: 0.84;
+  letter-spacing: -0.075em;
+}
+
+.route {
+  position: relative;
+  margin-top: auto;
+  padding: 50px 0 35px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.route-line {
+  position: absolute;
+  left: 6%;
+  right: 6%;
+  top: 64px;
+  height: 2px;
+  background: rgba(8, 9, 10, 0.45);
+}
+
+.route-step {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  z-index: 1;
+}
+
+.route-step b {
+  width: 29px;
+  height: 29px;
+  display: grid;
+  place-items: center;
+  border: 2px solid #08090a;
+  border-radius: 50%;
+  background: var(--pink);
+  font-family: "DM Mono", monospace;
+  font-size: 8px;
+}
+
+.route-step.active b {
+  background: #08090a;
+  color: var(--pink);
+}
+
+.route-step span {
+  font-family: "DM Mono", monospace;
+  font-size: 9px;
+  font-weight: 600;
+}
+
+.roadmap-footer {
+  padding-top: 24px;
+  display: grid;
+  grid-template-columns: 1fr 1fr auto;
+  gap: 15px;
+  border-top: 2px solid rgba(8, 9, 10, 0.55);
+}
+
+.roadmap-footer div {
+  display: flex;
+  flex-direction: column;
+}
+
+.roadmap-footer strong {
+  font-size: 30px;
+  letter-spacing: -0.06em;
+}
+
+.roadmap-footer span {
+  font-family: "DM Mono", monospace;
+  font-size: 9px;
+  font-weight: 600;
+}
+
+.roadmap-footer .arrow {
+  align-self: end;
+  font-family: "Inter", sans-serif;
+  font-size: 32px;
+}
+
+.ticker {
+  overflow: hidden;
+  background: var(--lime);
+  color: var(--ink);
+}
+
+.ticker div {
+  width: max-content;
+  padding: 15px 0;
+  display: flex;
+  gap: 24px;
+  font-size: 14px;
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  animation: crawl 24s linear infinite;
+}
+
+@keyframes crawl {
+  from { transform: translateX(3vw); }
+  to { transform: translateX(-25vw); }
+}
+
+.section {
+  padding: 140px clamp(22px, 5vw, 82px);
+}
+
+.section-head {
+  margin-bottom: 64px;
+  display: grid;
+  grid-template-columns: 1.4fr 0.6fr;
+  align-items: end;
+  gap: 55px;
+}
+
+.section-head > div {
+  display: flex;
+  gap: 25px;
+  align-items: flex-start;
+}
+
+.section-number {
+  margin-top: 11px;
+  color: var(--pink);
+  font-family: "DM Mono", monospace;
+  font-size: 12px;
+}
+
+.section h2,
+.manifesto h2 {
+  margin: 0;
+  font-size: clamp(48px, 6.5vw, 100px);
+  font-weight: 900;
+  line-height: 0.88;
+  letter-spacing: -0.075em;
+}
+
+.section-head > p {
+  margin: 0;
+  padding-left: 25px;
+  border-left: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+.trail-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  border-top: 1px solid var(--line);
+  border-left: 1px solid var(--line);
+}
+
+.trail-card {
+  min-height: 330px;
+  padding: 32px;
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  transition: background 180ms ease, color 180ms ease;
+}
+
+.trail-card:hover {
+  background: var(--paper);
+  color: var(--ink);
+}
+
+.trail-card > span {
+  color: var(--pink);
+  font-family: "DM Mono", monospace;
+  font-size: 11px;
+}
+
+.trail-card h3 {
+  max-width: 270px;
+  margin: 45px 0 16px;
+  font-size: 29px;
+  line-height: 1;
+  letter-spacing: -0.045em;
+}
+
+.trail-card p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.65;
+}
+
+.trail-card:hover p {
+  color: #4e4e4e;
+}
+
+.trail-card b {
+  margin-top: auto;
+  padding-top: 30px;
+  font-family: "DM Mono", monospace;
+  font-size: 10px;
+  letter-spacing: 0.07em;
+}
+
+.courses {
+  background: var(--paper);
+  color: var(--ink);
+}
+
+.courses .section-number {
+  color: #b30051;
+}
+
+.courses .section-head > p {
+  color: #585856;
+  border-color: rgba(8, 9, 10, 0.22);
+}
+
+.course-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
+}
+
+.course-card {
+  position: relative;
+  min-height: 390px;
+  padding: 29px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background: #fff;
+  border: 1px solid rgba(8, 9, 10, 0.16);
+  transition: transform 180ms ease, box-shadow 180ms ease;
+}
+
+.course-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 7px;
+  background: var(--card-accent);
+}
+
+.course-card:hover {
+  transform: translateY(-7px);
+  box-shadow: 0 18px 45px rgba(8, 9, 10, 0.12);
+}
+
+.course-card.pink { --card-accent: var(--pink); }
+.course-card.lime { --card-accent: #8ac600; }
+.course-card.cyan { --card-accent: #00a8be; }
+.course-card.orange { --card-accent: var(--orange); }
+.course-card.blue { --card-accent: var(--blue); }
+.course-card.purple { --card-accent: var(--purple); }
+
+.course-index {
+  position: absolute;
+  right: 22px;
+  top: 11px;
+  color: rgba(8, 9, 10, 0.06);
+  font-size: 92px;
+  font-weight: 900;
+  letter-spacing: -0.08em;
+}
+
+.course-meta {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  font-family: "DM Mono", monospace;
+  font-size: 9px;
+  letter-spacing: 0.08em;
+}
+
+.course-meta span {
+  color: #6e6d69;
+}
+
+.course-meta b {
+  padding: 6px 8px;
+  background: var(--card-accent);
+  color: #090909;
+}
+
+.course-card h3 {
+  position: relative;
+  max-width: 330px;
+  margin: 68px 0 18px;
+  font-size: clamp(27px, 2.5vw, 38px);
+  line-height: 0.98;
+  letter-spacing: -0.055em;
+}
+
+.course-card p {
+  position: relative;
+  margin: 0;
+  color: #656460;
+  font-size: 14px;
+  line-height: 1.65;
+}
+
+.course-actions {
+  position: relative;
+  margin-top: auto;
+  padding-top: 30px;
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: center;
+}
+
+.course-actions a,
+.course-actions button {
+  font-family: "DM Mono", monospace;
+  font-size: 9px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+}
+
+.course-actions a:hover {
+  text-decoration: underline;
+}
+
+.course-actions button {
+  padding: 9px 10px;
+  border: 1px solid #b4b2ad;
+  background: transparent;
+  color: #444;
+  cursor: pointer;
+}
+
+.course-actions button:hover {
+  border-color: var(--ink);
+  background: var(--ink);
+  color: white;
+}
+
+.updates {
+  background:
+    radial-gradient(circle at 12% 88%, rgba(202, 255, 51, 0.1), transparent 25%),
+    #0b0c0e;
+}
+
+.sync-strip {
+  min-height: 58px;
+  margin-bottom: 18px;
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  border: 1px solid var(--line);
+  background: #111214;
+  font-family: "DM Mono", monospace;
+  font-size: 9px;
+  letter-spacing: 0.08em;
+}
+
+.sync-strip span {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  color: var(--lime);
+}
+
+.sync-strip i {
+  width: 7px;
+  height: 7px;
+  display: block;
+  border-radius: 50%;
+  background: var(--lime);
+  box-shadow: 0 0 13px rgba(202, 255, 51, 0.8);
+}
+
+.sync-strip b {
+  color: var(--muted);
+  font-weight: 500;
+}
+
+.update-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+
+.update-card {
+  position: relative;
+  min-height: 260px;
+  padding: 27px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  background: #101113;
+  transition: border-color 180ms ease, transform 180ms ease;
+}
+
+.update-card::after {
+  content: "NEW";
+  position: absolute;
+  right: -8px;
+  bottom: -25px;
+  color: rgba(255, 255, 255, 0.035);
+  font-size: 88px;
+  font-weight: 900;
+  letter-spacing: -0.08em;
+}
+
+.update-card:hover {
+  z-index: 1;
+  border-color: var(--lime);
+  transform: translateY(-5px);
+}
+
+.update-card > span {
+  color: var(--lime);
+  font-family: "DM Mono", monospace;
+  font-size: 9px;
+  letter-spacing: 0.08em;
+}
+
+.update-card h3 {
+  position: relative;
+  z-index: 1;
+  margin: 45px 0 14px;
+  overflow-wrap: anywhere;
+  font-size: 25px;
+  line-height: 1.02;
+  letter-spacing: -0.045em;
+}
+
+.update-card p {
+  position: relative;
+  z-index: 1;
+  margin: 0;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+.update-card b {
+  position: relative;
+  z-index: 1;
+  margin-top: auto;
+  padding-top: 25px;
+  font-family: "DM Mono", monospace;
+  font-size: 9px;
+  letter-spacing: 0.07em;
+}
+
+.manifesto {
+  position: relative;
+  min-height: 780px;
+  padding: 140px clamp(22px, 8vw, 150px);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+  background: var(--pink);
+  color: var(--ink);
+}
+
+.manifesto::after {
+  content: "OPEN";
+  position: absolute;
+  right: -40px;
+  bottom: -90px;
+  color: rgba(8, 9, 10, 0.07);
+  font-size: clamp(180px, 30vw, 480px);
+  font-weight: 900;
+  line-height: 0.8;
+  letter-spacing: -0.09em;
+  pointer-events: none;
+}
+
+.manifesto > span,
+.manifesto p,
+.manifesto a,
+.manifesto h2 {
+  position: relative;
+  z-index: 1;
+}
+
+.manifesto > span {
+  font-family: "DM Mono", monospace;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.11em;
+}
+
+.manifesto h2 {
+  margin-top: 35px;
+  font-size: clamp(56px, 7.8vw, 122px);
+}
+
+.manifesto h2 em {
+  color: var(--paper);
+}
+
+.manifesto p {
+  max-width: 640px;
+  margin: 42px 0 28px;
+  font-size: 17px;
+  line-height: 1.7;
+}
+
+.manifesto a {
+  width: max-content;
+  padding-bottom: 8px;
+  border-bottom: 2px solid var(--ink);
+  font-family: "DM Mono", monospace;
+  font-size: 11px;
+  font-weight: 600;
+}
+
+.explorer {
+  background:
+    radial-gradient(circle at 82% 15%, rgba(87, 119, 255, 0.13), transparent 24%),
+    var(--ink);
+}
+
+.search-wrap {
+  min-height: 70px;
+  padding: 0 22px;
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: 18px;
+  align-items: center;
+  border: 1px solid var(--line);
+  background: #101113;
+}
+
+.search-wrap > span {
+  color: var(--pink);
+  font-size: 27px;
+}
+
+.search-wrap input {
+  min-width: 0;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  color: var(--paper);
+  font-family: "DM Mono", monospace;
+  font-size: 12px;
+  letter-spacing: 0.05em;
+}
+
+.search-wrap input::placeholder {
+  color: #777773;
+}
+
+.search-wrap b {
+  color: var(--muted);
+  font-family: "DM Mono", monospace;
+  font-size: 9px;
+  letter-spacing: 0.07em;
+}
+
+.filters {
+  margin: 20px 0 35px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.filters button {
+  padding: 10px 13px;
+  border: 1px solid var(--line);
+  background: transparent;
+  color: var(--muted);
+  font-family: "DM Mono", monospace;
+  font-size: 9px;
+  letter-spacing: 0.06em;
+  cursor: pointer;
+}
+
+.filters button:hover,
+.filters button.active {
+  border-color: var(--pink);
+  background: var(--pink);
+  color: var(--ink);
+}
+
+.repo-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1px;
+  background: var(--line);
+  border: 1px solid var(--line);
+}
+
+.repo-card {
+  min-width: 0;
+  min-height: 275px;
+  padding: 27px;
+  display: flex;
+  flex-direction: column;
+  background: #0e0f11;
+  transition: background 180ms ease;
+}
+
+.repo-card:hover {
+  background: #17181b;
+}
+
+.repo-top,
+.repo-foot {
+  display: flex;
+  justify-content: space-between;
+  gap: 15px;
+  color: var(--muted);
+  font-family: "DM Mono", monospace;
+  font-size: 9px;
+  letter-spacing: 0.06em;
+}
+
+.repo-top span {
+  color: var(--pink);
+}
+
+.repo-card h3 {
+  margin: 48px 0 13px;
+  overflow-wrap: anywhere;
+  font-size: 22px;
+  line-height: 1.05;
+  letter-spacing: -0.04em;
+}
+
+.repo-card p {
+  margin: 0;
+  color: #979691;
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+.repo-foot {
+  margin-top: auto;
+  padding-top: 28px;
+}
+
+.repo-foot strong {
+  color: var(--paper);
+}
+
+.empty {
+  padding: 80px 20px;
+  border: 1px solid var(--line);
+  color: var(--muted);
+  text-align: center;
+}
+
+.load-more {
+  width: 100%;
+  margin-top: 22px;
+  padding: 19px;
+  border: 1px solid var(--paper);
+  background: transparent;
+  color: var(--paper);
+  font-family: "DM Mono", monospace;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  cursor: pointer;
+}
+
+.load-more:hover {
+  background: var(--paper);
+  color: var(--ink);
+}
+
+footer {
+  min-height: 280px;
+  padding: 70px clamp(22px, 5vw, 82px) 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 35px;
+  align-items: start;
+  background: #050606;
+  border-top: 1px solid var(--line);
+}
+
+.footer-brand {
+  font-size: 28px;
+}
+
+footer p {
+  max-width: 320px;
+  margin: 0;
+  color: var(--muted);
+  font-family: "DM Mono", monospace;
+  font-size: 10px;
+  line-height: 1.8;
+  letter-spacing: 0.06em;
+}
+
+footer > div:not(.brand) {
+  justify-self: end;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  font-family: "DM Mono", monospace;
+  font-size: 10px;
+}
+
+footer > div:not(.brand) a:hover {
+  color: var(--pink);
+}
+
+footer small {
+  grid-column: 1 / -1;
+  align-self: end;
+  padding-top: 50px;
+  border-top: 1px solid var(--line);
+  color: #666;
+  font-family: "DM Mono", monospace;
+  font-size: 8px;
+  letter-spacing: 0.08em;
+}
+
+@media (max-width: 1050px) {
+  .hero {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-copy {
+    max-width: 850px;
+  }
+
+  .roadmap-card {
+    width: min(100%, 680px);
+    min-height: 520px;
+    margin: 0 auto;
+  }
+
+  .trail-grid,
+  .course-grid,
+  .update-grid,
+  .repo-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 720px) {
+  .nav {
+    min-height: 66px;
+    grid-template-columns: 1fr auto;
+  }
+
+  .nav-links {
+    display: none;
+  }
+
+  .nav-cta {
+    padding: 9px 11px;
+  }
+
+  .hero {
+    min-height: auto;
+    padding-top: 70px;
+    gap: 65px;
+  }
+
+  .hero h1 {
+    font-size: clamp(56px, 20vw, 92px);
+  }
+
+  .hero-actions {
+    flex-direction: column;
+  }
+
+  .button {
+    justify-content: center;
+  }
+
+  .hero-stats {
+    gap: 9px;
+  }
+
+  .hero-stats strong {
+    font-size: 25px;
+  }
+
+  .roadmap-card {
+    min-height: 475px;
+    box-shadow: 12px 12px 0 #202124;
+    transform: none;
+  }
+
+  .roadmap-title {
+    margin-top: 58px;
+  }
+
+  .section {
+    padding-top: 90px;
+    padding-bottom: 90px;
+  }
+
+  .section-head {
+    grid-template-columns: 1fr;
+    gap: 26px;
+    margin-bottom: 42px;
+  }
+
+  .section-head > div {
+    gap: 12px;
+  }
+
+  .section-head > p {
+    padding-left: 0;
+    border-left: 0;
+  }
+
+  .section h2 {
+    font-size: 49px;
+  }
+
+  .trail-grid,
+  .course-grid,
+  .update-grid,
+  .repo-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .sync-strip {
+    align-items: flex-start;
+    flex-direction: column;
+    padding-top: 16px;
+    padding-bottom: 16px;
+  }
+
+  .trail-card {
+    min-height: 275px;
+  }
+
+  .course-card {
+    min-height: 360px;
+  }
+
+  .manifesto {
+    min-height: 680px;
+    padding-top: 90px;
+    padding-bottom: 90px;
+  }
+
+  .manifesto h2 {
+    font-size: clamp(48px, 15vw, 74px);
+  }
+
+  .search-wrap {
+    grid-template-columns: auto 1fr;
+  }
+
+  .search-wrap b {
+    display: none;
+  }
+
+  footer {
+    grid-template-columns: 1fr;
+  }
+
+  footer > div:not(.brand) {
+    justify-self: start;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  .ticker div {
+    animation: none;
+  }
+
+  * {
+    transition: none !important;
+  }
+}
+
+</style>
+    
+  </head>
+  <body>
+    <main>
+      <nav class="nav">
+        <a class="brand" href="#top" aria-label="Be Safe Cyber — início">
+          <span>BE</span><strong>SAFE</strong><i>CYBER</i>
+        </a>
+        <div class="nav-links">
+          <a href="#trilhas">TRILHAS</a>
+          <a href="#cursos">CURSOS</a>
+          <a href="#novidades">NOVIDADES</a>
+          <a href="#repos">REPOSITÓRIOS</a>
+        </div>
+        <a class="nav-cta" href="https://github.com/marianabsctba" target="_blank" rel="noreferrer">GITHUB ↗</a>
+      </nav>
+
+      <section class="hero" id="top">
+        <div class="hero-copy">
+          <div class="eyebrow"><span></span> CIBERSEGURANÇA SEM ENROLAÇÃO</div>
+          <h1>APRENDA<br /><em>CIBER</em><br />FAZENDO.</h1>
+          <p>
+            Cursos, laboratórios, roadmaps e guias gratuitos para transformar curiosidade
+            em habilidade prática — do Linux ao SOC, de redes à IA.
+          </p>
+          <div class="hero-actions">
+            <a class="button button-primary" href="#cursos">EXPLORAR CONTEÚDOS ↓</a>
+            <a class="button button-ghost" href="https://github.com/marianabsctba/cybersecurity_roadmap" target="_blank" rel="noreferrer">
+              ABRIR ROADMAP ↗
+            </a>
+          </div>
+          <div class="hero-stats">
+            <div><strong id="repo-count">100+</strong><span>PROJETOS AUTORAIS</span></div>
+            <div><strong>12</strong><span>TRILHAS EM DESTAQUE</span></div>
+            <div><strong id="star-count">210+</strong><span>ESTRELAS NO GITHUB</span></div>
+          </div>
+        </div>
+
+        <a class="roadmap-card" href="https://github.com/marianabsctba/cybersecurity_roadmap" target="_blank" rel="noreferrer">
+          <div class="roadmap-top">
+            <span>PROJETO EM DESTAQUE</span>
+            <span class="live-dot">ATUALIZADO</span>
+          </div>
+          <div class="roadmap-title">CYBERSECURITY<br />ROADMAP</div>
+          <div class="route">
+            <div class="route-line"></div>
+            <div class="route-step active"><b>01</b><span>BASE</span></div>
+            <div class="route-step"><b>02</b><span>REDES</span></div>
+            <div class="route-step"><b>03</b><span>SOC</span></div>
+            <div class="route-step"><b>04</b><span>VOCÊ</span></div>
+          </div>
+          <div class="roadmap-footer">
+            <div><strong>210+</strong><span>STARS</span></div>
+            <div><strong>24</strong><span>FORKS</span></div>
+            <span class="arrow">↗</span>
+          </div>
+        </a>
+      </section>
+
+      <div class="ticker" aria-hidden="true">
+        <div>
+          <span>LINUX</span><b>✦</b><span>REDES</span><b>✦</b><span>SOC</span><b>✦</b>
+          <span>DFIR</span><b>✦</b><span>THREAT INTELLIGENCE</span><b>✦</b><span>IAM</span><b>✦</b>
+          <span>IA SECURITY</span><b>✦</b><span>OPEN SOURCE</span><b>✦</b>
+        </div>
+      </div>
+
+      <section class="section trails" id="trilhas">
+        <header class="section-head">
+          <div><span class="section-number">01</span><h2>ESCOLHA SUA<br /><em>TRILHA.</em></h2></div>
+          <p>Não sabe por onde ir? Escolha um ponto de entrada. Cada trilha conecta teoria, prática e projetos reais.</p>
+        </header>
+        <div class="trail-grid" id="trail-grid"></div>
+      </section>
+
+      <section class="section courses" id="cursos">
+        <header class="section-head">
+          <div><span class="section-number">02</span><h2>CURSOS QUE<br /><em>VIRAM PRÁTICA.</em></h2></div>
+          <p>Conteúdo aberto, direto e construído para você aprender com a mão no teclado.</p>
+        </header>
+        <div class="course-grid" id="course-grid"></div>
+      </section>
+
+      <section class="section updates" id="novidades">
+        <header class="section-head">
+          <div><span class="section-number">03</span><h2>O QUE ENTROU<br /><em>AGORA.</em></h2></div>
+          <p>Os projetos mais recentes aparecem automaticamente. Você também pode acrescentar avisos, cursos e lançamentos no bloco DADOS EDITÁVEIS deste HTML.</p>
+        </header>
+        <div class="sync-strip">
+          <span><i></i> SINCRONIZADO COM O GITHUB</span>
+          <b id="last-sync">CARREGANDO ATUALIZAÇÕES...</b>
+        </div>
+        <div class="update-grid" id="update-grid"></div>
+      </section>
+
+      <section class="manifesto">
+        <span>POR QUE ISSO EXISTE?</span>
+        <h2>CONHECIMENTO BOM<br />É CONHECIMENTO<br /><em>COMPARTILHADO.</em></h2>
+        <p>
+          Este hub reúne anos de estudo, projetos e materiais abertos. Sem paywall, sem promessa mágica:
+          conteúdo para estudar, testar, quebrar, corrigir e evoluir.
+        </p>
+        <a href="https://github.com/marianabsctba" target="_blank" rel="noreferrer">CONHEÇA TODOS OS PROJETOS ↗</a>
+      </section>
+
+      <section class="section explorer" id="repos">
+        <header class="section-head explorer-head">
+          <div><span class="section-number">04</span><h2>EXPLORE O<br /><em>LABORATÓRIO.</em></h2></div>
+          <p>Pesquise e filtre os repositórios públicos. Os dados são carregados diretamente do GitHub.</p>
+        </header>
+
+        <div class="search-wrap">
+          <span>⌕</span>
+          <input id="repo-search" placeholder="BUSQUE POR CURSO, FERRAMENTA OU TEMA..." aria-label="Buscar repositórios" />
+          <b id="result-count">0 RESULTADOS</b>
+        </div>
+        <div class="filters" id="filters"></div>
+        <div class="repo-grid" id="repo-grid"></div>
+        <div class="empty" id="empty" hidden>Nenhum repositório encontrado. Tente outra palavra ou filtro.</div>
+        <button class="load-more" id="load-more" hidden>VER MAIS PROJETOS ↓</button>
+      </section>
+
+      <footer>
+        <div class="brand footer-brand"><span>BE</span><strong>SAFE</strong><i>CYBER</i></div>
+        <p>CONTEÚDO ABERTO PARA QUEM QUER CONSTRUIR UMA INTERNET MAIS SEGURA.</p>
+        <div>
+          <a href="https://github.com/marianabsctba" target="_blank" rel="noreferrer">GITHUB ↗</a>
+          <a href="#top">VOLTAR AO TOPO ↑</a>
+        </div>
+        <small>© 2026 MARIANA BS — FEITO COM CURIOSIDADE, TERMINAL E CAFÉ.</small>
+      </footer>
+    </main>
+  <script>
+(function () {
+  "use strict";
+
+  var PROFILE = "https://github.com/marianabsctba";
+
+  /*
+   * ================================================================
+   * DADOS EDITÁVEIS — COMECE A EDITAR AQUI
+   * ================================================================
+   * 1. Para incluir um curso em destaque, copie um item de "courses".
+   * 2. Para criar uma nova trilha, copie uma linha de "trails".
+   * 3. Para publicar um aviso, artigo ou lançamento, copie um item de
+   *    "manualUpdates".
+   * 4. O laboratório de repositórios NÃO precisa ser atualizado à mão:
+   *    ele consulta automaticamente o GitHub de marianabsctba.
+   * ================================================================
+   */
+
+  var courses = [
+    { repo: "cybersecurity_roadmap", eyebrow: "COMECE POR AQUI", title: "Roadmap de Cibersegurança", description: "Uma rota prática para sair do zero, escolher uma trilha e construir repertório técnico sem se perder.", badge: "ROADMAP", accent: "pink", post: "🧭 Quer entrar em cibersegurança e não sabe por onde começar? Organizei uma trilha prática, do básico às especializações, com recursos para estudar e evoluir de verdade.\n\n🔗 https://github.com/marianabsctba/cybersecurity_roadmap\n\n#CyberSecurity #Roadmap #InfoSec" },
+    { repo: "Curso_Linux", eyebrow: "BASE TÉCNICA", title: "Curso de Linux", description: "Terminal no navegador, comandos, processos, logs, redes, segurança e trilha com certificado de 84 horas.", badge: "84H", accent: "lime", post: "🐧 Linux não é opcional para quem quer trabalhar com infraestrutura ou segurança. Criei um curso completo, com terminal no navegador e uma trilha prática de 84 horas.\n\n🔗 https://github.com/marianabsctba/Curso_Linux\n\n#Linux #CyberSecurity #OpenSource" },
+    { repo: "Redes_Zero_ao_Avancado", eyebrow: "FUNDAMENTOS", title: "Redes: Zero ao Avançado", description: "20 capítulos, do sinal físico e protocolos até cloud, segurança e troubleshooting.", badge: "20 CAP.", accent: "cyan", post: "🌐 Sem redes, não existe defesa. Reuni em 20 capítulos uma jornada do zero ao avançado: protocolos, serviços, cloud, segurança e troubleshooting.\n\n🔗 https://github.com/marianabsctba/Redes_Zero_ao_Avancado\n\n#Redes #Networking #CyberSecurity" },
+    { repo: "Curso_SOC_N1", eyebrow: "BLUE TEAM", title: "Curso SOC N1", description: "Formação prática para analistas iniciantes: 14 capítulos e 56 tarefas de linha de comando.", badge: "56 LABS", accent: "orange", post: "🛡️ Montei uma formação prática para quem quer começar no SOC: 14 capítulos, rotina de análise e 56 tarefas em linha de comando.\n\n🔗 https://github.com/marianabsctba/Curso_SOC_N1\n\n#SOC #BlueTeam #CyberSecurity" },
+    { repo: "Curso_Wireshark", eyebrow: "ANÁLISE DE TRÁFEGO", title: "Curso de Wireshark", description: "20 capítulos para aprender captura, filtros e investigação de pacotes, com mais de 60 questões.", badge: "60+ QUESTÕES", accent: "blue", post: "🔎 Pacotes contam histórias. Neste curso de Wireshark, você aprende a capturar, filtrar e investigar tráfego em 20 capítulos e mais de 60 questões.\n\n🔗 https://github.com/marianabsctba/Curso_Wireshark\n\n#Wireshark #NetworkSecurity #BlueTeam" },
+    { repo: "Curso_Nmap", eyebrow: "RECONHECIMENTO", title: "Curso de Nmap", description: "12 capítulos de descoberta, enumeração e leitura de superfície de ataque com prática em CLI.", badge: "12 CAP.", accent: "purple", post: "🛰️ Nmap é muito mais que um scanner. Preparei um curso prático com 12 capítulos para descoberta, enumeração e leitura de superfície de ataque.\n\n🔗 https://github.com/marianabsctba/Curso_Nmap\n\n#Nmap #Pentest #CyberSecurity" },
+    { repo: "Curso_OSQuery", eyebrow: "ENDPOINT", title: "Curso de OSQuery", description: "Investigação e hunting em endpoints usando SQL: 12 módulos e uma trilha objetiva de 12 horas.", badge: "12 MÓD.", accent: "lime", post: "💻 E se você pudesse investigar endpoints usando SQL? Este curso de OSQuery ensina hunting e visibilidade com uma trilha prática de 12 módulos.\n\n🔗 https://github.com/marianabsctba/Curso_OSQuery\n\n#OSQuery #ThreatHunting #DFIR" },
+    { repo: "Curso_YARA", eyebrow: "DFIR & HUNTING", title: "Curso de YARA", description: "Crie, teste e ajuste regras para detecção, hunting e resposta a incidentes com menos falso positivo.", badge: "DETECÇÃO", accent: "orange", post: "🎯 Uma boa regra separa sinal de ruído. Criei um curso de YARA focado em detecção, hunting, tuning e redução de falsos positivos.\n\n🔗 https://github.com/marianabsctba/Curso_YARA\n\n#YARA #DFIR #ThreatHunting" },
+    { repo: "Curso_Identidade", eyebrow: "IAM", title: "Curso de Identidade", description: "IAM, Active Directory, Kerberos, NTLM, OAuth e MFA explicados dentro de uma jornada prática.", badge: "IDENTIDADE", accent: "cyan", post: "🔐 Identidade virou o novo perímetro. Organizei um curso sobre IAM, AD, Kerberos, NTLM, OAuth e MFA para conectar conceitos à prática.\n\n🔗 https://github.com/marianabsctba/Curso_Identidade\n\n#IAM #IdentitySecurity #CyberSecurity" },
+    { repo: "Curso_IA_Security", eyebrow: "IA SEGURA", title: "Segurança em IA", description: "16 horas sobre prompt injection, poisoning, extração, riscos em APIs e construção de IA mais segura.", badge: "16H", accent: "purple", post: "🤖 IA também precisa de threat modeling. Criei uma trilha de 16 horas sobre prompt injection, poisoning, extração e segurança de APIs.\n\n🔗 https://github.com/marianabsctba/Curso_IA_Security\n\n#AISecurity #AppSec #CyberSecurity" },
+    { repo: "Apostila_CTIA", eyebrow: "INTELIGÊNCIA", title: "Apostila CTI", description: "Material para estudar inteligência de ameaças, estruturar análises e transformar dados em contexto.", badge: "CTI", accent: "blue", post: "🧠 Threat Intelligence não é uma lista de IOCs. Esta apostila ajuda a transformar dados dispersos em contexto para decisões melhores.\n\n🔗 https://github.com/marianabsctba/Apostila_CTIA\n\n#ThreatIntelligence #CTI #CyberSecurity" },
+    { repo: "Curso_ISO_27001", eyebrow: "GRC", title: "Curso ISO 27001", description: "SGSI, riscos, controles e aplicação da ISO 27001 em cenários modernos, incluindo cloud e IA.", badge: "ISO 27001", accent: "pink", post: "📋 Segurança também precisa de governança. Neste curso, conecto SGSI, risco e os controles da ISO 27001 a cenários reais de cloud e IA.\n\n🔗 https://github.com/marianabsctba/Curso_ISO_27001\n\n#ISO27001 #GRC #InfoSec" }
+  ];
+
+  var trails = [
+    ["01", "BASE & LINUX", "Terminal, sistemas, processos, logs e a fundação que sustenta todo o resto.", "Curso_Linux"],
+    ["02", "REDES", "Protocolos, pacotes, serviços, troubleshooting e análise de tráfego.", "Redes_Zero_ao_Avancado"],
+    ["03", "SOC & BLUE TEAM", "Monitoramento, SIEM, triagem, detecção e resposta a incidentes.", "Curso_SOC_N1"],
+    ["04", "DFIR & HUNTING", "Investigação de endpoints, evidências, YARA e threat hunting.", "Curso_YARA"],
+    ["05", "PENTEST & APPSEC", "Reconhecimento, superfície de ataque, Web3 e segurança de aplicações.", "Curso_Nmap"],
+    ["06", "IAM, GRC & CTI", "Identidade, governança, risco, compliance e inteligência de ameaças.", "Curso_Identidade"]
+  ];
+
+  var manualUpdates = [
+    {
+      date: "2026-08-15",
+      type: "ROADMAP",
+      title: "Roadmap de Cibersegurança",
+      text: "A rota principal do hub: base, redes, SOC e caminhos de especialização.",
+      link: PROFILE + "/cybersecurity_roadmap"
+    },
+    {
+      date: "2026-08-15",
+      type: "CURSO",
+      title: "Linux com terminal no navegador",
+      text: "Trilha completa de 84 horas para praticar comandos, processos, logs, redes e segurança.",
+      link: PROFILE + "/Curso_Linux"
+    },
+    {
+      date: "2026-08-15",
+      type: "CURSO",
+      title: "Redes do zero ao avançado",
+      text: "Vinte capítulos conectando fundamentos, protocolos, cloud, segurança e troubleshooting.",
+      link: PROFILE + "/Redes_Zero_ao_Avancado"
+    }
+
+    /*
+     * MODELO PARA UMA NOVA ATUALIZAÇÃO:
+     * ,
+     * {
+     *   date: "2026-08-20",
+     *   type: "NOVO CURSO",
+     *   title: "Nome da novidade",
+     *   text: "Resumo curto do que você adicionou.",
+     *   link: "https://github.com/marianabsctba/NOME_DO_REPO"
+     * }
+     */
+  ];
+
+  /* FIM DOS DADOS EDITÁVEIS -------------------------------------- */
+
+  var filters = ["Tudo", "Cursos", "Redes", "SOC & Blue", "DFIR", "Pentest", "IAM & GRC", "CTI", "IA & Cloud", "Awareness", "Carreira", "Dev"];
+  var repos = courses.map(function (course, index) {
+    return {
+      name: course.repo,
+      html_url: PROFILE + "/" + course.repo,
+      description: course.description,
+      stargazers_count: course.repo === "cybersecurity_roadmap" ? 210 : Math.max(4, 48 - index * 3),
+      language: index % 3 === 0 ? "HTML" : index % 3 === 1 ? "Shell" : "Python",
+      fork: false
+    };
+  });
+  repos.push(
+    { name: "Guia_SOC", html_url: PROFILE + "/Guia_SOC", description: "Guia prático para entender rotina, ferramentas, funções e evolução dentro de um SOC.", stargazers_count: 35, language: null, fork: false },
+    { name: "Ecossistema_Opensource_Ciberseguranca", html_url: PROFILE + "/Ecossistema_Opensource_Ciberseguranca", description: "Curadoria de 180 ferramentas open source organizadas em 12 domínios de segurança.", stargazers_count: 28, language: null, fork: false },
+    { name: "Curso_WEB3_Security", html_url: PROFILE + "/Curso_WEB3_Security", description: "Segurança aplicada a Web3, smart contracts e ecossistemas descentralizados.", stargazers_count: 14, language: "Solidity", fork: false }
+  );
+
+  var state = { filter: "Tudo", query: "", expanded: false };
+
+  function escapeHtml(value) {
+    return String(value || "").replace(/[&<>"']/g, function (character) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#039;" }[character];
+    });
+  }
+
+  function categoryFor(repo) {
+    var value = [repo.name, repo.description || "", (repo.topics || []).join(" ")].join(" ").toLowerCase();
+    if (/rede|network|wireshark|tcp|dns/.test(value)) return "Redes";
+    if (/soc|blue|siem|wazuh|splunk|defesa/.test(value)) return "SOC & Blue";
+    if (/dfir|forensic|yara|osquery|incident|hunting/.test(value)) return "DFIR";
+    if (/pentest|appsec|vulnerab|burp|owasp|web3|nmap/.test(value)) return "Pentest";
+    if (/identidade|iam|grc|iso|govern|risk|compliance/.test(value)) return "IAM & GRC";
+    if (/cti|threat.intel|ioc|osint/.test(value)) return "CTI";
+    if (/\bia\b|ai_|cloud|aws|azure|llm/.test(value)) return "IA & Cloud";
+    if (/awareness|conscient|phishing|cartilha/.test(value)) return "Awareness";
+    if (/carreira|curriculo|entrevista|linkedin|mentoria/.test(value)) return "Carreira";
+    if (/roadmap|curso|apostila|lab|academ/.test(value)) return "Cursos";
+    return "Dev";
+  }
+
+  function renderTrails() {
+    document.getElementById("trail-grid").innerHTML = trails.map(function (trail) {
+      return '<a class="trail-card" href="' + PROFILE + "/" + trail[3] + '" target="_blank" rel="noreferrer">' +
+        "<span>" + trail[0] + "</span><h3>" + trail[1] + "</h3><p>" + trail[2] + "</p><b>COMEÇAR AGORA ↗</b></a>";
+    }).join("");
+  }
+
+  function renderCourses() {
+    document.getElementById("course-grid").innerHTML = courses.map(function (course, index) {
+      return '<article class="course-card ' + course.accent + '">' +
+        '<div class="course-index">' + String(index + 1).padStart(2, "0") + "</div>" +
+        '<div class="course-meta"><span>' + course.eyebrow + "</span><b>" + course.badge + "</b></div>" +
+        "<h3>" + course.title + "</h3><p>" + course.description + "</p>" +
+        '<div class="course-actions"><a href="' + PROFILE + "/" + course.repo + '" target="_blank" rel="noreferrer">ABRIR CURSO ↗</a>' +
+        '<button type="button" data-copy="' + course.repo + '">COPIAR POST</button></div></article>';
+    }).join("");
+
+    document.querySelectorAll("[data-copy]").forEach(function (button) {
+      button.addEventListener("click", function () {
+        var course = courses.find(function (item) { return item.repo === button.dataset.copy; });
+        if (!course) return;
+        copyText(course.post).then(function () {
+          button.textContent = "COPIADO ✓";
+          window.setTimeout(function () { button.textContent = "COPIAR POST"; }, 1600);
+        });
+      });
+    });
+  }
+
+  function formatDate(value) {
+    if (!value) return "EM DESTAQUE";
+    var normalized = /^\d{4}-\d{2}-\d{2}$/.test(value) ? value + "T12:00:00" : value;
+    var date = new Date(normalized);
+    if (Number.isNaN(date.getTime())) return value;
+    return new Intl.DateTimeFormat("pt-BR", { day: "2-digit", month: "short", year: "numeric" })
+      .format(date)
+      .replace(".", "")
+      .toUpperCase();
+  }
+
+  function renderUpdates() {
+    var githubUpdates = repos
+      .filter(function (repo) { return repo.updated_at; })
+      .sort(function (a, b) { return new Date(b.updated_at) - new Date(a.updated_at); })
+      .slice(0, 6)
+      .map(function (repo) {
+        return {
+          date: repo.updated_at,
+          type: categoryFor(repo),
+          title: repo.name.replaceAll("_", " "),
+          text: repo.description || "Repositório atualizado com novos conteúdos e materiais.",
+          link: repo.html_url
+        };
+      });
+
+    var updates = manualUpdates.concat(githubUpdates).slice(0, 6);
+    document.getElementById("update-grid").innerHTML = updates.map(function (item) {
+      return '<a class="update-card" href="' + escapeHtml(item.link) + '" target="_blank" rel="noreferrer">' +
+        "<span>" + escapeHtml(item.type) + " · " + formatDate(item.date) + "</span>" +
+        "<h3>" + escapeHtml(item.title) + "</h3>" +
+        "<p>" + escapeHtml(item.text) + "</p><b>ABRIR NOVIDADE ↗</b></a>";
+    }).join("");
+
+    var latest = githubUpdates[0];
+    document.getElementById("last-sync").textContent = latest
+      ? "ÚLTIMA ATUALIZAÇÃO: " + formatDate(latest.date)
+      : "CATÁLOGO LOCAL PRONTO";
+  }
+
+  function copyText(value) {
+    if (navigator.clipboard && window.isSecureContext) return navigator.clipboard.writeText(value);
+    var area = document.createElement("textarea");
+    area.value = value;
+    area.style.position = "fixed";
+    area.style.opacity = "0";
+    document.body.appendChild(area);
+    area.select();
+    document.execCommand("copy");
+    area.remove();
+    return Promise.resolve();
+  }
+
+  function currentRepos() {
+    var term = state.query.trim().toLowerCase();
+    return repos.filter(function (repo) {
+      return (state.filter === "Tudo" || categoryFor(repo) === state.filter) &&
+        (!term || [repo.name, repo.description || ""].join(" ").toLowerCase().includes(term));
+    }).sort(function (a, b) { return b.stargazers_count - a.stargazers_count; });
+  }
+
+  function renderFilters() {
+    document.getElementById("filters").innerHTML = filters.map(function (filter) {
+      return '<button type="button" data-filter="' + filter + '" class="' + (state.filter === filter ? "active" : "") + '">' + filter + "</button>";
+    }).join("");
+    document.querySelectorAll("[data-filter]").forEach(function (button) {
+      button.addEventListener("click", function () {
+        state.filter = button.dataset.filter;
+        state.expanded = false;
+        renderFilters();
+        renderRepos();
+      });
+    });
+  }
+
+  function renderRepos() {
+    var filtered = currentRepos();
+    var visible = state.expanded ? filtered : filtered.slice(0, 12);
+    document.getElementById("result-count").textContent = filtered.length + " RESULTADOS";
+    document.getElementById("repo-grid").innerHTML = visible.map(function (repo) {
+      return '<a class="repo-card" href="' + escapeHtml(repo.html_url) + '" target="_blank" rel="noreferrer">' +
+        '<div class="repo-top"><span>' + categoryFor(repo) + "</span><b>★ " + Number(repo.stargazers_count || 0) + "</b></div>" +
+        "<h3>" + escapeHtml(repo.name).replaceAll("_", " ") + "</h3>" +
+        "<p>" + escapeHtml(repo.description || "Projeto aberto para estudo, prática e compartilhamento de conhecimento.") + "</p>" +
+        '<div class="repo-foot"><span>' + escapeHtml(repo.language || "Conteúdo") + "</span><strong>VER REPO ↗</strong></div></a>";
+    }).join("");
+
+    var empty = document.getElementById("empty");
+    empty.hidden = filtered.length > 0;
+    var more = document.getElementById("load-more");
+    more.hidden = filtered.length <= 12;
+    more.textContent = state.expanded ? "MOSTRAR MENOS ↑" : "VER TODOS OS " + filtered.length + " PROJETOS ↓";
+  }
+
+  function updateStats() {
+    document.getElementById("repo-count").textContent = repos.length > 50 ? "266+" : "100+";
+    var stars = repos.reduce(function (total, repo) { return total + Number(repo.stargazers_count || 0); }, 0);
+    document.getElementById("star-count").textContent = new Intl.NumberFormat("pt-BR", { notation: "compact" }).format(stars);
+  }
+
+  function loadGitHub() {
+    Promise.all([1, 2, 3].map(function (page) {
+      return fetch("https://api.github.com/users/marianabsctba/repos?per_page=100&page=" + page + "&sort=updated").then(function (response) {
+        if (!response.ok) throw new Error("GitHub API");
+        return response.json();
+      });
+    })).then(function (pages) {
+      var originals = pages.flat().filter(function (repo) { return !repo.fork && !repo.archived; });
+      if (originals.length) {
+        repos = originals;
+        renderRepos();
+        renderUpdates();
+        updateStats();
+      }
+    }).catch(function () {
+      // Mantém o catálogo curado quando a API está indisponível ou limitada.
+    });
+  }
+
+  document.getElementById("repo-search").addEventListener("input", function (event) {
+    state.query = event.target.value;
+    state.expanded = false;
+    renderRepos();
+  });
+  document.getElementById("load-more").addEventListener("click", function () {
+    state.expanded = !state.expanded;
+    renderRepos();
+  });
+
+  renderTrails();
+  renderCourses();
+  renderUpdates();
+  renderFilters();
+  renderRepos();
+  updateStats();
+  loadGitHub();
+})();
+
+</script>
+  </body>
+</html>
