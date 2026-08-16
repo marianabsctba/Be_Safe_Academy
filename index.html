@@ -9,6 +9,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <meta name="be-safe-build" content="2026.08.16-R2" />
     <meta name="description" content="Hub gratuito de cibersegurança de Mariana BS: cursos, roadmaps, laboratórios e guias práticos." />
     <meta name="theme-color" content="#08090a" />
     <title>Be Safe Cyber | Cursos, Roadmaps e Labs</title>
@@ -1033,6 +1037,7 @@ h2 em {
 .manifesto h2 {
   margin-top: 35px;
   font-size: clamp(56px, 7.8vw, 122px);
+  line-height: 0.98;
 }
 
 .manifesto h2 em {
@@ -1134,7 +1139,7 @@ h2 em {
 
 .repo-card {
   min-width: 0;
-  min-height: 275px;
+  min-height: 520px;
   padding: 27px;
   display: flex;
   flex-direction: column;
@@ -1169,11 +1174,44 @@ h2 em {
   letter-spacing: -0.04em;
 }
 
-.repo-card p {
+.repo-summary {
   margin: 0;
   color: #979691;
   font-size: 13px;
   line-height: 1.6;
+}
+
+.repo-summary strong {
+  display: block;
+  margin-bottom: 8px;
+  color: var(--pink);
+  font-family: "DM Mono", monospace;
+  font-size: 8px;
+  letter-spacing: 0.08em;
+}
+
+.repo-context {
+  margin-top: 17px;
+  padding-top: 15px;
+  display: grid;
+  gap: 10px;
+  border-top: 1px solid var(--line);
+}
+
+.repo-context p {
+  margin: 0;
+  color: #aaa9a4;
+  font-size: 11px;
+  line-height: 1.55;
+}
+
+.repo-context strong {
+  display: inline;
+  margin-right: 6px;
+  color: var(--paper);
+  font-family: "DM Mono", monospace;
+  font-size: 8px;
+  letter-spacing: 0.07em;
 }
 
 .repo-url {
@@ -1424,6 +1462,335 @@ footer small {
   }
 }
 
+/* BE SAFE MOBILE FIX — 2026-08-16 */
+@media (max-width: 540px) {
+  html,
+  body,
+  main {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+
+  img,
+  svg,
+  iframe {
+    max-width: 100%;
+  }
+
+  .hero-copy,
+  .roadmap-card,
+  .section-head,
+  .section-head > div,
+  .trail-grid,
+  .course-grid,
+  .cheat-grid,
+  .library-panel,
+  .library-copy,
+  .library-stats,
+  .sync-strip,
+  .update-grid,
+  .manifesto,
+  .explorer,
+  .search-wrap,
+  .repo-grid,
+  footer,
+  footer > * {
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .nav {
+    min-height: 62px;
+    padding: 0 14px;
+    gap: 10px;
+  }
+
+  .brand {
+    min-width: 0;
+    font-size: 19px;
+  }
+
+  .brand i {
+    margin-left: 6px;
+    font-size: 8px;
+  }
+
+  .nav-cta {
+    max-width: 100%;
+    padding: 8px 9px;
+    font-size: 9px;
+    white-space: nowrap;
+  }
+
+  .hero {
+    width: 100%;
+    padding: 54px 16px 64px;
+    gap: 44px;
+  }
+
+  .eyebrow {
+    align-items: flex-start;
+    font-size: 9px;
+    line-height: 1.5;
+    letter-spacing: 0.1em;
+  }
+
+  .eyebrow span {
+    flex: 0 0 auto;
+    margin-top: 3px;
+  }
+
+  .hero h1 {
+    max-width: 100%;
+    font-size: clamp(46px, 18vw, 70px);
+    line-height: 0.82;
+    overflow-wrap: anywhere;
+  }
+
+  .hero-copy > p {
+    margin-top: 28px;
+    font-size: 15px;
+  }
+
+  .hero-actions,
+  .library-actions {
+    width: 100%;
+  }
+
+  .button {
+    width: 100%;
+    min-width: 0;
+    padding-right: 14px;
+    padding-left: 14px;
+    text-align: center;
+    overflow-wrap: anywhere;
+  }
+
+  .hero-stats {
+    margin-top: 42px;
+    grid-template-columns: 1fr;
+    gap: 17px;
+  }
+
+  .hero-stats div {
+    padding-bottom: 14px;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .roadmap-card {
+    width: calc(100% - 8px);
+    min-height: 420px;
+    padding: 22px 16px;
+    box-shadow: 8px 8px 0 #202124;
+  }
+
+  .roadmap-top {
+    align-items: flex-start;
+    font-size: 8px;
+    line-height: 1.4;
+  }
+
+  .roadmap-title {
+    margin-top: 46px;
+    font-size: clamp(32px, 11vw, 45px);
+    overflow-wrap: anywhere;
+  }
+
+  .route {
+    padding-top: 38px;
+  }
+
+  .route-line {
+    top: 52px;
+  }
+
+  .route-step {
+    gap: 8px;
+  }
+
+  .route-step span {
+    font-size: 7px;
+  }
+
+  .roadmap-footer strong {
+    font-size: 24px;
+  }
+
+  .section {
+    width: 100%;
+    padding: 72px 16px;
+  }
+
+  .section-head > div {
+    display: block;
+  }
+
+  .section-number {
+    display: block;
+    margin: 0 0 13px;
+  }
+
+  .section h2,
+  .manifesto h2,
+  .library-copy h2 {
+    max-width: 100%;
+    font-size: clamp(34px, 10.8vw, 42px);
+    line-height: 0.92;
+    overflow-wrap: anywhere;
+  }
+
+  .manifesto > * {
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .manifesto h2 {
+    font-size: clamp(32px, 9.6vw, 38px);
+    line-height: 0.95;
+    letter-spacing: -0.06em;
+  }
+
+  .trail-card,
+  .course-card,
+  .cheat-card,
+  .update-card,
+  .repo-card {
+    min-width: 0;
+    padding-right: 20px;
+    padding-left: 20px;
+  }
+
+  .trail-card h3,
+  .course-card h3,
+  .cheat-card h3,
+  .update-card h3,
+  .repo-card h3,
+  .repo-summary,
+  .repo-context p,
+  .repo-url {
+    max-width: 100%;
+    overflow-wrap: anywhere;
+    word-break: break-word;
+  }
+
+  .trail-card h3,
+  .course-card h3,
+  .cheat-card h3,
+  .update-card h3,
+  .repo-card h3 {
+    font-size: clamp(23px, 7vw, 28px);
+  }
+
+  .repo-url {
+    word-break: break-all;
+  }
+
+  .course-meta,
+  .course-actions,
+  .cheat-actions,
+  .repo-meta,
+  .repo-foot {
+    flex-wrap: wrap;
+  }
+
+  .course-actions,
+  .cheat-actions {
+    align-items: flex-start;
+  }
+
+  .library-panel {
+    min-width: 0;
+    padding: 26px 16px;
+  }
+
+  .library-kicker {
+    line-height: 1.5;
+  }
+
+  .library-stats {
+    grid-template-columns: 1fr;
+  }
+
+  .library-stats div {
+    min-height: 110px;
+  }
+
+  .sync-strip span {
+    align-items: flex-start;
+    line-height: 1.5;
+    overflow-wrap: anywhere;
+  }
+
+  .sync-strip i {
+    flex: 0 0 auto;
+    margin-top: 3px;
+  }
+
+  .manifesto {
+    min-height: 600px;
+    padding: 72px 16px;
+  }
+
+  .manifesto a {
+    width: 100%;
+    max-width: 100%;
+    text-align: left;
+    overflow-wrap: anywhere;
+  }
+
+  .search-wrap {
+    min-height: 62px;
+    padding: 0 13px;
+    gap: 10px;
+  }
+
+  .search-wrap input {
+    font-size: 9px;
+    letter-spacing: 0.03em;
+  }
+
+  .filters {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    padding-bottom: 8px;
+    scrollbar-width: thin;
+  }
+
+  .filters button {
+    flex: 0 0 auto;
+  }
+
+  footer {
+    min-height: auto;
+    padding: 55px 16px 28px;
+  }
+
+  footer small {
+    padding-top: 30px;
+    line-height: 1.6;
+    overflow-wrap: anywhere;
+  }
+}
+
+@media (max-width: 360px) {
+  .brand i {
+    display: none;
+  }
+
+  .nav-cta {
+    font-size: 8px;
+  }
+
+  .hero h1 {
+    font-size: 43px;
+  }
+
+  .manifesto h2 {
+    font-size: 31px;
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   html {
     scroll-behavior: auto;
@@ -1560,7 +1927,7 @@ footer small {
           <div><span class="section-number">04</span><h2>O QUE ENTROU<br /><em>AGORA.</em></h2></div>
         </header>
         <div class="sync-strip">
-          <span><i></i> SINCRONIZADO COM O GITHUB</span>
+          <span><i></i> SINCRONIZADO COM O GITHUB · BUILD 2026.08.16-R2</span>
           <b id="last-sync">CARREGANDO ATUALIZAÇÕES...</b>
         </div>
         <div class="update-grid" id="update-grid"></div>
@@ -1579,12 +1946,12 @@ footer small {
       <section class="section explorer" id="repos">
         <header class="section-head explorer-head">
           <div><span class="section-number">05</span><h2>EXPLORE O<br /><em>LABORATÓRIO.</em></h2></div>
-          <p>Pesquise e filtre somente os projetos criados em 2026. Os antigos e pessoais ficam fora desta curadoria.</p>
+          <p>Pesquise por nome, tema, objetivo ou palavra-chave nos projetos não vazios publicados desde 08/03/2026.</p>
         </header>
 
         <div class="search-wrap">
           <span>⌕</span>
-          <input id="repo-search" placeholder="BUSQUE POR CURSO, FERRAMENTA OU TEMA..." aria-label="Buscar repositórios" />
+          <input id="repo-search" placeholder="BUSQUE POR NOME, TEMA, OBJETIVO OU PALAVRA-CHAVE..." aria-label="Buscar repositórios" />
           <b id="result-count">0 RESULTADOS</b>
         </div>
         <div class="filters" id="filters"></div>
@@ -1610,7 +1977,7 @@ footer small {
 
   var PROFILE = "https://github.com/marianabsctba";
   var PAGES = "https://marianabsctba.github.io";
-  var MIN_CREATED_AT = "2026-01-01T00:00:00Z";
+  var MIN_CREATED_AT = "2026-03-08T00:00:00Z";
   var EXCLUDED_NAME_PATTERNS = [
     "marlon",
     "petfriends",
@@ -1620,8 +1987,29 @@ footer small {
     "be_safe_chef",
     "joguinho_divertido",
     "presente_para_pamela",
-    "calculadora_custo_de_vida"
+    "calculadora_custo_de_vida",
+    "frangos_bank",
+    "soc_n2",
+    "burp_suite",
+    "soc_topology_auto",
+    "itsm_e-safer",
+    "itsm_esafer"
   ];
+  var EXCLUDED_REPOS = new Set([
+    "Marlon",
+    "PetFriends",
+    "AT_Java",
+    "ASMR_Bolhas",
+    "Be_Safe_Chef",
+    "Joguinho_Divertido",
+    "Presente_Para_Pamela",
+    "Calculadora_Custo_de_Vida",
+    "Frangos_Bank",
+    "Short_Course_SOC_N2",
+    "Mini_Curso_Burp_Suite",
+    "soc_topology_auto",
+    "ITSM_e-Safer_Versao_2"
+  ]);
   var REPOS_WITHOUT_PAGES = new Set([
     "cybersecurity_roadmap",
     "Simula-o_Ataque_PTES_Windows",
@@ -1655,11 +2043,28 @@ footer small {
 
   function isCurrentProject(repo) {
     var normalizedName = String(repo.name || "").toLowerCase();
-    var explicitlyExcluded = EXCLUDED_NAME_PATTERNS.some(function (pattern) {
+    var explicitlyExcluded = EXCLUDED_REPOS.has(repo.name) || EXCLUDED_NAME_PATTERNS.some(function (pattern) {
       return normalizedName.includes(pattern);
     });
     var createdRecently = !repo.created_at || new Date(repo.created_at) >= new Date(MIN_CREATED_AT);
-    return !repo.fork && !repo.archived && !explicitlyExcluded && createdRecently;
+    var hasContent = Number(repo.size || 0) > 0;
+    return !repo.fork && !repo.archived && !explicitlyExcluded && createdRecently && hasContent;
+  }
+
+  function isChallenge(repo) {
+    var value = [repo.name, repo.description || "", (repo.topics || []).join(" ")]
+      .join(" ")
+      .toLowerCase()
+      .replace(/[_-]+/g, " ");
+    return /desafio|challenge|\bctf\b|provinha|vestibulinho|\bquiz\b/.test(value);
+  }
+
+  function isCourseGuide(repo) {
+    var value = [repo.name, repo.description || "", (repo.topics || []).join(" ")]
+      .join(" ")
+      .toLowerCase()
+      .replace(/[_-]+/g, " ");
+    return /roadmap|curso|course|apostila|\bbook\b|guia|aulinha|caderno|glossario|study guide|vestibulinho|provinha|ecossistema opensource ciberseguranca/.test(value);
   }
 
   /*
@@ -1675,8 +2080,8 @@ footer small {
    *    ele consulta automaticamente o GitHub de marianabsctba.
    * 6. Os cards abrem no GitHub Pages por padrão. Somente repositórios
    *    sem página publicada entram em REPOS_WITHOUT_PAGES, logo acima.
-   * 7. A curadoria geral mostra somente projetos criados desde 2026 e
-   *    ignora nomes presentes em EXCLUDED_NAME_PATTERNS.
+   * 7. A curadoria geral mostra somente projetos não vazios criados a
+   *    partir de 08/03/2026 e ignora EXCLUDED_NAME_PATTERNS.
    * ================================================================
    */
 
@@ -1754,6 +2159,7 @@ footer small {
 
   var filters = [
     "Tudo",
+    "Desafios",
     "Cheat Sheets",
     "Cursos & Guias",
     "Redes",
@@ -1786,6 +2192,1347 @@ footer small {
     { name: "Curso_WEB3_Security", html_url: linkForName("Curso_WEB3_Security"), has_pages: true, description: "Segurança aplicada a Web3, smart contracts e ecossistemas descentralizados.", stargazers_count: 14, language: "Solidity", fork: false }
   );
 
+  var REPO_CATALOG = {
+  "APM_Tour": {
+    "category": "ITSM & Observabilidade",
+    "summary": "Tour prático pelos pilares de Application Performance Monitoring e leitura de desempenho de aplicações.",
+    "intent": "Apresentar métricas, dependências, latência e sinais úteis para localizar degradações.",
+    "why": "APM conecta observabilidade, experiência do usuário e investigação de incidentes.",
+    "title": "APM Tour"
+  },
+  "Apostila_CTIA": {
+    "category": "CTI",
+    "summary": "Material sobre Cyber Threat Intelligence, fontes, análise e comunicação de ameaças.",
+    "intent": "Transformar dados dispersos em contexto útil para priorização e decisão.",
+    "why": "CTI ajuda a antecipar riscos e orientar controles com base em ameaças relevantes.",
+    "title": "Apostila CTIA"
+  },
+  "Aqua_HELL": {
+    "category": "IA & Cloud",
+    "summary": "Experiência gamificada sobre segurança de workloads, containers e ambientes cloud-native.",
+    "intent": "Treinar a identificação de riscos em imagens, execução e configuração de ambientes modernos.",
+    "why": "Containers ampliam a superfície de ataque e exigem controles desde o build até o runtime.",
+    "title": "Aqua HELL"
+  },
+  "ARCANET": {
+    "category": "Redes",
+    "summary": "Jornada interativa para aprender fundamentos de redes e segurança por meio de missões.",
+    "intent": "Transformar conceitos de conectividade em decisões práticas dentro de cenários guiados.",
+    "why": "Redes são a base para investigar tráfego, configurar defesas e entender ataques.",
+    "title": "ARCANET"
+  },
+  "As_Cronicas_do_Pacote": {
+    "category": "Redes",
+    "summary": "Narrativa didática que acompanha o caminho de um pacote através da rede.",
+    "intent": "Explicar encapsulamento, protocolos, dispositivos e decisões de encaminhamento.",
+    "why": "Visualizar a viagem do pacote facilita troubleshooting e análise de segurança.",
+    "title": "As Cronicas do Pacote"
+  },
+  "Aulinha_AD": {
+    "category": "IAM & GRC",
+    "summary": "Material sobre Active Directory, domínios, objetos, autenticação e administração centralizada.",
+    "intent": "Explicar como identidades, grupos e políticas estruturam ambientes Windows corporativos.",
+    "why": "AD é alvo frequente em ataques e peça central para hardening, IAM e resposta.",
+    "title": "Aulinha AD"
+  },
+  "Aulinha_Ataques_Camadas_OSI": {
+    "category": "Redes",
+    "summary": "Conteúdo sobre camadas de rede, encapsulamento e responsabilidades dos protocolos.",
+    "intent": "Relacionar o modelo OSI a equipamentos, falhas, ataques e controles reais.",
+    "why": "Pensar por camadas ajuda a localizar problemas e compreender como ataques percorrem a rede.",
+    "title": "Aulinha Ataques Camadas OSI"
+  },
+  "Aulinha_Banco_Dados_Xuxa": {
+    "category": "Pentest",
+    "summary": "Aula sobre bancos de dados, consultas, armazenamento e riscos de segurança.",
+    "intent": "Explicar como aplicações acessam dados e onde validação, permissão e exposição podem falhar.",
+    "why": "Dados são ativos críticos e falhas nessa camada costumam ter grande impacto.",
+    "title": "Aulinha Banco Dados Xuxa"
+  },
+  "Aulinha_Brute_Force": {
+    "category": "Pentest",
+    "summary": "Aula sobre ataques de força bruta, credenciais e mecanismos de mitigação.",
+    "intent": "Explicar como tentativas automatizadas funcionam e como detectar ou limitar abuso.",
+    "why": "Proteções de autenticação reduzem comprometimentos por senhas fracas ou reutilizadas.",
+    "title": "Aulinha Brute Force"
+  },
+  "Aulinha_Cartao_Credito": {
+    "category": "Awareness",
+    "summary": "Aula sobre o fluxo de pagamentos, dados de cartão e cuidados contra fraude.",
+    "intent": "Mostrar participantes, etapas e pontos de exposição em transações financeiras.",
+    "why": "Entender o fluxo ajuda a proteger dados sensíveis e reconhecer golpes ou controles ausentes.",
+    "title": "Aulinha Cartao Credito"
+  },
+  "Aulinha_Ciclo_Vida_IA": {
+    "category": "IA & Cloud",
+    "summary": "Curso, aula ou desafio sobre riscos e controles em IA e cloud.",
+    "intent": "Examinar ameaças, arquitetura, dados, modelos, APIs e responsabilidades compartilhadas.",
+    "why": "IA e cloud mudam a superfície de ataque e exigem controles desde o desenho.",
+    "title": "Aulinha Ciclo Vida IA"
+  },
+  "Aulinha_Comunicacao_Rede": {
+    "category": "Redes",
+    "summary": "Lab de diagnóstico de conectividade, serviços e caminhos de comunicação.",
+    "intent": "Treinar uma sequência lógica para localizar falhas e validar hipóteses de rede.",
+    "why": "Troubleshooting estruturado reduz tempo de indisponibilidade e evita mudanças aleatórias.",
+    "title": "Aulinha Comunicacao Rede"
+  },
+  "Aulinha_De_Volta_Para_o_Futuro": {
+    "category": "Cursos & Guias",
+    "summary": "Aula narrativa sobre evolução tecnológica, mudanças de risco e lições que atravessam gerações.",
+    "intent": "Relacionar tecnologias antigas e atuais para entender como ameaças e controles evoluem.",
+    "why": "Contexto histórico evita repetir erros e melhora decisões sobre sistemas modernos.",
+    "title": "Aulinha De Volta Para o Futuro"
+  },
+  "Aulinha_Defesa_Profundidade": {
+    "category": "SOC & Blue",
+    "summary": "Material sobre defesa em profundidade e mapeamento de técnicas defensivas.",
+    "intent": "Combinar controles complementares para prevenir, detectar e conter ataques.",
+    "why": "Nenhum controle é perfeito; camadas reduzem dependência de um único ponto de falha.",
+    "title": "Aulinha Defesa Profundidade"
+  },
+  "Aulinha_DHCP_Caverna_Dragao": {
+    "category": "Redes",
+    "summary": "Aula sobre DHCP, concessão de endereços e parâmetros automáticos de rede.",
+    "intent": "Explicar descoberta, oferta, solicitação, confirmação e riscos de servidores indevidos.",
+    "why": "Problemas de DHCP afetam conectividade e podem facilitar redirecionamentos ou ataques locais.",
+    "title": "Aulinha DHCP Caverna Dragao"
+  },
+  "Aulinha_Diagnostico_Redes": {
+    "category": "Redes",
+    "summary": "Lab de diagnóstico de conectividade, serviços e caminhos de comunicação.",
+    "intent": "Treinar uma sequência lógica para localizar falhas e validar hipóteses de rede.",
+    "why": "Troubleshooting estruturado reduz tempo de indisponibilidade e evita mudanças aleatórias.",
+    "title": "Aulinha Diagnostico Redes"
+  },
+  "Aulinha_DNS": {
+    "category": "Redes",
+    "summary": "Como o DNS transforma nomes em endereços, o papel dos registros A, AAAA, CNAME e MX, cache e servidores recursivos e autoritativos.",
+    "intent": "Acompanhar o fluxo completo de uma consulta e reconhecer falhas, manipulações e abusos que podem afetar a resolução de nomes.",
+    "why": "DNS aparece em troubleshooting, investigação, phishing e defesa de praticamente toda rede.",
+    "title": "Aulinha DNS"
+  },
+  "Aulinha_Gevul": {
+    "category": "Pentest",
+    "summary": "Aula ou desafio sobre gestão de vulnerabilidades, risco e priorização de correções.",
+    "intent": "Conectar descoberta, validação, criticidade, tratamento e acompanhamento.",
+    "why": "Corrigir tudo ao mesmo tempo é inviável; priorização reduz risco com melhor uso de recursos.",
+    "title": "Aulinha Gevul"
+  },
+  "Aulinha_Hash_Arquivos": {
+    "category": "DFIR",
+    "summary": "Aula sobre funções hash, integridade e identificação de arquivos.",
+    "intent": "Explicar propriedades, usos e limitações de hashes em segurança e forense.",
+    "why": "Hashes ajudam a validar evidências, comparar artefatos e detectar alterações.",
+    "title": "Aulinha Hash Arquivos"
+  },
+  "Aulinha_IA_Security": {
+    "category": "IA & Cloud",
+    "summary": "Curso, aula ou desafio sobre riscos e controles em IA e cloud.",
+    "intent": "Examinar ameaças, arquitetura, dados, modelos, APIs e responsabilidades compartilhadas.",
+    "why": "IA e cloud mudam a superfície de ataque e exigem controles desde o desenho.",
+    "title": "Aulinha IA Security"
+  },
+  "Aulinha_Identificar_Ataque_Linux": {
+    "category": "DFIR",
+    "summary": "Curso ou aula prática sobre Linux, terminal, processos, serviços, logs e segurança.",
+    "intent": "Desenvolver autonomia para administrar e investigar sistemas pela linha de comando.",
+    "why": "Linux está presente em servidores, cloud, ferramentas de segurança e laboratórios ofensivos.",
+    "title": "Aulinha Identificar Ataque Linux"
+  },
+  "Aulinha_Load_Balancer": {
+    "category": "Redes",
+    "summary": "Aula sobre balanceamento de carga, distribuição de tráfego e alta disponibilidade.",
+    "intent": "Mostrar como requisições são distribuídas e como saúde, persistência e redundância funcionam.",
+    "why": "Load balancers afetam desempenho, resiliência e exposição de aplicações.",
+    "title": "Aulinha Load Balancer"
+  },
+  "Aulinha_Malware_Ursinhos": {
+    "category": "DFIR",
+    "summary": "Aula ou desafio sobre malware, propagação, comportamento e indicadores.",
+    "intent": "Treinar identificação de sinais e compreensão das etapas de execução maliciosa.",
+    "why": "Entender malware melhora detecção, análise e contenção de ameaças reais.",
+    "title": "Aulinha Malware Ursinhos"
+  },
+  "Aulinha_Ofuscacao": {
+    "category": "Pentest",
+    "summary": "Aula sobre técnicas de ofuscação usadas para esconder código, intenção ou indicadores.",
+    "intent": "Mostrar como transformações dificultam análise e como defensores podem reconhecê-las.",
+    "why": "Ofuscação aparece em malware, scripts e evasão de controles.",
+    "title": "Aulinha Ofuscacao"
+  },
+  "Aulinha_Pacotes": {
+    "category": "Redes",
+    "summary": "Material prático sobre pacotes, encapsulamento e comportamento do tráfego de rede.",
+    "intent": "Visualizar como dados atravessam protocolos, dispositivos e diferentes segmentos.",
+    "why": "Pacotes são evidências fundamentais para troubleshooting e investigação de segurança.",
+    "title": "Aulinha Pacotes"
+  },
+  "Aulinha_PAM": {
+    "category": "IAM & GRC",
+    "summary": "Aula sobre Privileged Access Management e controle de contas com alto privilégio.",
+    "intent": "Mostrar cofre, rotação, sessão, aprovação e rastreabilidade de acessos críticos.",
+    "why": "Privilégios comprometidos aceleram ataques; PAM reduz exposição e melhora auditoria.",
+    "title": "Aulinha PAM"
+  },
+  "Aulinha_Passkey": {
+    "category": "IAM & GRC",
+    "summary": "Aula sobre passkeys, autenticação sem senha e criptografia de chave pública.",
+    "intent": "Explicar cadastro, autenticação e resistência a phishing em dispositivos e serviços.",
+    "why": "Passkeys reduzem riscos associados a senhas reutilizadas, vazadas ou capturadas.",
+    "title": "Aulinha Passkey"
+  },
+  "Aulinha_Playbook_Runbook": {
+    "category": "SOC & Blue",
+    "summary": "Material sobre procedimentos, automação e coordenação da resposta a incidentes.",
+    "intent": "Transformar decisões recorrentes em passos claros, responsáveis e verificáveis.",
+    "why": "Processos bem definidos reduzem improviso, tempo de resposta e falhas de comunicação.",
+    "title": "Aulinha Playbook Runbook"
+  },
+  "Aulinha_Ransomware_Castelo": {
+    "category": "DFIR",
+    "summary": "Aula ou desafio sobre cadeia de ransomware, evidências, contenção e recuperação.",
+    "intent": "Reconhecer comportamentos e praticar decisões durante um incidente de extorsão.",
+    "why": "Ransomware combina impacto técnico e operacional e exige preparação antecipada.",
+    "title": "Aulinha Ransomware Castelo"
+  },
+  "Aulinha_Redes_Azkaban": {
+    "category": "Redes",
+    "summary": "Conteúdo prático sobre fundamentos, serviços e segurança de redes.",
+    "intent": "Construir uma visão progressiva de conectividade, protocolos e diagnóstico.",
+    "why": "Sem redes é difícil compreender ataques, telemetria ou controles de segurança.",
+    "title": "Aulinha Redes Azkaban"
+  },
+  "Aulinha_Sistemas_Legados": {
+    "category": "IAM & GRC",
+    "summary": "Aula sobre riscos, dependências e estratégias de proteção para sistemas legados.",
+    "intent": "Discutir compensações entre continuidade, modernização e controles compensatórios.",
+    "why": "Legados permanecem críticos e frequentemente acumulam vulnerabilidades e limitações de suporte.",
+    "title": "Aulinha Sistemas Legados"
+  },
+  "Aulinha_Site_Survey": {
+    "category": "Redes",
+    "summary": "Material sobre redes Wi-Fi, cobertura, interferência, planejamento e segurança sem fio.",
+    "intent": "Ensinar a avaliar o ambiente e configurar conectividade com desempenho e proteção.",
+    "why": "Wi-Fi mal planejado gera indisponibilidade e amplia a superfície de ataque.",
+    "title": "Aulinha Site Survey"
+  },
+  "Aulinha_SOC_Pokemon": {
+    "category": "SOC & Blue",
+    "summary": "Curso, guia ou simulação sobre operações de SOC e defesa cibernética.",
+    "intent": "Praticar monitoramento, triagem, investigação, escalonamento e resposta.",
+    "why": "SOC conecta pessoas, processos e tecnologia para reduzir o impacto de incidentes.",
+    "title": "Aulinha SOC Pokemon"
+  },
+  "Aulinha_SSH": {
+    "category": "Redes",
+    "summary": "Aula sobre acesso remoto seguro com SSH, chaves, sessões e configuração defensiva.",
+    "intent": "Explicar o protocolo e demonstrar boas práticas de autenticação e administração remota.",
+    "why": "SSH protege operações críticas, mas configurações fracas podem abrir acesso direto ao ambiente.",
+    "title": "Aulinha SSH"
+  },
+  "Aulinha_Switch": {
+    "category": "Redes",
+    "summary": "Aula sobre switching, VLANs, tabelas MAC e encaminhamento em redes locais.",
+    "intent": "Explicar como switches organizam domínios de camada 2 e segmentam ambientes.",
+    "why": "Dominar switching é essencial para troubleshooting, segmentação e segurança de rede.",
+    "title": "Aulinha Switch"
+  },
+  "Aulinha_TLS": {
+    "category": "Redes",
+    "summary": "Aula sobre TLS, certificados, negociação criptográfica e proteção do tráfego.",
+    "intent": "Explicar como clientes e servidores estabelecem canais autenticados e confidenciais.",
+    "why": "TLS sustenta a segurança da web, APIs e diversos serviços corporativos.",
+    "title": "Aulinha TLS"
+  },
+  "Aulinha_Topologias": {
+    "category": "Redes",
+    "summary": "Material sobre desenho, visualização e análise de topologias de rede.",
+    "intent": "Ajudar a representar conexões, dependências e pontos críticos do ambiente.",
+    "why": "Uma topologia clara acelera troubleshooting, avaliação de risco e resposta a incidentes.",
+    "title": "Aulinha Topologias"
+  },
+  "Aulinha_WAAP": {
+    "category": "Pentest",
+    "summary": "Aula sobre proteção de aplicações web e APIs contra abuso, bots e ataques.",
+    "intent": "Explicar os componentes de WAAP e como eles se posicionam diante das aplicações.",
+    "why": "Aplicações e APIs expostas exigem controles específicos além do firewall tradicional.",
+    "title": "Aulinha WAAP"
+  },
+  "Aulinha_WiFi": {
+    "category": "Redes",
+    "summary": "Material sobre redes Wi-Fi, cobertura, interferência, planejamento e segurança sem fio.",
+    "intent": "Ensinar a avaliar o ambiente e configurar conectividade com desempenho e proteção.",
+    "why": "Wi-Fi mal planejado gera indisponibilidade e amplia a superfície de ataque.",
+    "title": "Aulinha WiFi"
+  },
+  "Aulinha_ZTNA": {
+    "category": "Redes",
+    "summary": "Aula sobre Zero Trust Network Access e acesso baseado em identidade e contexto.",
+    "intent": "Comparar o modelo com VPN tradicional e mostrar políticas por aplicação.",
+    "why": "ZTNA reduz confiança implícita e limita o alcance de acessos comprometidos.",
+    "title": "Aulinha ZTNA"
+  },
+  "Banco_Imobiliario_Blue_Team": {
+    "category": "SOC & Blue",
+    "summary": "Jogo de Blue Team que transforma defesa, telemetria e incidentes em decisões de tabuleiro.",
+    "intent": "Praticar priorização, cobertura defensiva e resposta sob restrições de recursos.",
+    "why": "Defesa real exige escolher controles e responder a riscos de forma estratégica.",
+    "title": "Banco Imobiliario Blue Team"
+  },
+  "Barbilandia_SO": {
+    "category": "Labs & Jogos",
+    "summary": "Experiência lúdica sobre sistemas operacionais, processos, memória e serviços.",
+    "intent": "Explicar como os componentes do sistema interagem e onde surgem riscos operacionais.",
+    "why": "Conhecer o sistema operacional é essencial para hardening, análise e resposta a incidentes.",
+    "title": "Barbilandia SO"
+  },
+  "Be_Safe_Academy": {
+    "category": "Cursos & Guias",
+    "summary": "Portal central da Be Safe Academy com cursos, desafios, guias, labs e materiais gratuitos.",
+    "intent": "Organizar o ecossistema de estudo em um único ponto de entrada pesquisável.",
+    "why": "Uma trilha organizada reduz dispersão e ajuda a transformar conteúdo em evolução prática.",
+    "title": "Be Safe Academy"
+  },
+  "Biblioteca_Be_Safe": {
+    "category": "Ferramentas",
+    "summary": "Biblioteca online de apostilas e materiais em PDF para leitura direta no navegador.",
+    "intent": "Facilitar o acesso público a referências técnicas sem exigir downloads ou ferramentas extras.",
+    "why": "Ter materiais reunidos acelera consultas, revisões e aprofundamento dos estudos.",
+    "title": "Biblioteca Be Safe"
+  },
+  "Blue_Team_Cheat_Sheet": {
+    "category": "Cheat Sheets",
+    "summary": "Curso, guia ou simulação sobre operações de SOC e defesa cibernética.",
+    "intent": "Praticar monitoramento, triagem, investigação, escalonamento e resposta.",
+    "why": "SOC conecta pessoas, processos e tecnologia para reduzir o impacto de incidentes.",
+    "title": "Blue Team Cheat Sheet"
+  },
+  "Caderno_Falhas_Cybersecurity": {
+    "category": "Cursos & Guias",
+    "summary": "Material didático organizado para estudar o tema indicado no título.",
+    "intent": "Explicar conceitos de forma acessível e conduzir o aprendizado em etapas.",
+    "why": "Uma sequência guiada ajuda a construir base antes de avançar para cenários complexos.",
+    "title": "Caderno Falhas Cybersecurity"
+  },
+  "Carnival_404": {
+    "category": "Labs & Jogos",
+    "summary": "Lab gamificado ambientado em um parque digital cheio de falhas e pistas.",
+    "intent": "Exercitar observação, raciocínio e identificação de problemas em aplicações e infraestrutura.",
+    "why": "Cenários lúdicos ajudam a desenvolver pensamento investigativo sem depender só de teoria.",
+    "title": "Carnival 404"
+  },
+  "Cat_Archive": {
+    "category": "DFIR",
+    "summary": "Lab de investigação de arquivos, metadados e evidências digitais com temática felina.",
+    "intent": "Treinar triagem e interpretação de artefatos preservando o contexto da evidência.",
+    "why": "Arquivos contam a história de um incidente e são centrais em análises forenses.",
+    "title": "Cat Archive"
+  },
+  "CCNA_Simulator_2026": {
+    "category": "Redes",
+    "summary": "Simulador ou material de revisão dos fundamentos cobrados no CCNA 200-301.",
+    "intent": "Praticar redes, switching, routing, serviços IP, segurança e automação.",
+    "why": "A base de redes do CCNA sustenta diversas áreas de infraestrutura e cibersegurança.",
+    "title": "CCNA Simulator 2026"
+  },
+  "CCNP_Security_Simulator": {
+    "category": "Redes",
+    "summary": "Simulador avançado de redes e segurança alinhado a tópicos de nível profissional.",
+    "intent": "Aprofundar arquitetura, políticas, proteção e troubleshooting de ambientes complexos.",
+    "why": "Conhecimento avançado de rede melhora desenho, defesa e investigação de grandes ambientes.",
+    "title": "CCNP Security Simulator"
+  },
+  "Certificado_Nao_Especialista": {
+    "category": "Carreira",
+    "summary": "Material de preparação e revisão para certificações de cibersegurança.",
+    "intent": "Organizar domínios, conceitos e pontos de atenção exigidos em provas e na prática.",
+    "why": "Certificações ajudam a estruturar fundamentos e demonstrar repertório, mas exigem compreensão real.",
+    "title": "Certificado Nao Especialista"
+  },
+  "Cheat_Sheet_CCNA": {
+    "category": "Cheat Sheets",
+    "summary": "Simulador ou material de revisão dos fundamentos cobrados no CCNA 200-301.",
+    "intent": "Praticar redes, switching, routing, serviços IP, segurança e automação.",
+    "why": "A base de redes do CCNA sustenta diversas áreas de infraestrutura e cibersegurança.",
+    "title": "Cheat Sheet CCNA"
+  },
+  "Cheat_Sheet_CISSP_2026": {
+    "category": "Cheat Sheets",
+    "summary": "Material de preparação e revisão para certificações de cibersegurança.",
+    "intent": "Organizar domínios, conceitos e pontos de atenção exigidos em provas e na prática.",
+    "why": "Certificações ajudam a estruturar fundamentos e demonstrar repertório, mas exigem compreensão real.",
+    "title": "Cheat Sheet CISSP 2026"
+  },
+  "Cheat_Sheet_Windows_2026": {
+    "category": "Cheat Sheets",
+    "summary": "Material de consulta sobre Windows, PowerShell, serviços, rede, eventos e segurança.",
+    "intent": "Apoiar administração e investigação rápida de endpoints Windows.",
+    "why": "Windows domina muitos ambientes corporativos e gera evidências valiosas para defesa e DFIR.",
+    "title": "Cheat Sheet Windows 2026"
+  },
+  "CheatSheet_Security_Plus": {
+    "category": "Cheat Sheets",
+    "summary": "Material de preparação e revisão para certificações de cibersegurança.",
+    "intent": "Organizar domínios, conceitos e pontos de atenção exigidos em provas e na prática.",
+    "why": "Certificações ajudam a estruturar fundamentos e demonstrar repertório, mas exigem compreensão real.",
+    "title": "CheatSheet Security Plus"
+  },
+  "CISSP_Simulator": {
+    "category": "Labs & Jogos",
+    "summary": "Material de preparação e revisão para certificações de cibersegurança.",
+    "intent": "Organizar domínios, conceitos e pontos de atenção exigidos em provas e na prática.",
+    "why": "Certificações ajudam a estruturar fundamentos e demonstrar repertório, mas exigem compreensão real.",
+    "title": "CISSP Simulator"
+  },
+  "Conscientizacao_Aeroporto": {
+    "category": "Awareness",
+    "summary": "Material de conscientização sobre comportamento seguro, golpes e engenharia social.",
+    "intent": "Ajudar pessoas a reconhecer sinais de manipulação e tomar decisões mais seguras.",
+    "why": "Tecnologia não compensa decisões humanas sem contexto e treinamento.",
+    "title": "Conscientizacao Aeroporto"
+  },
+  "Conscientizacao_Banco": {
+    "category": "Awareness",
+    "summary": "Material de conscientização sobre comportamento seguro, golpes e engenharia social.",
+    "intent": "Ajudar pessoas a reconhecer sinais de manipulação e tomar decisões mais seguras.",
+    "why": "Tecnologia não compensa decisões humanas sem contexto e treinamento.",
+    "title": "Conscientizacao Banco"
+  },
+  "Conscientizacao_Instagram": {
+    "category": "Awareness",
+    "summary": "Material de conscientização sobre comportamento seguro, golpes e engenharia social.",
+    "intent": "Ajudar pessoas a reconhecer sinais de manipulação e tomar decisões mais seguras.",
+    "why": "Tecnologia não compensa decisões humanas sem contexto e treinamento.",
+    "title": "Conscientizacao Instagram"
+  },
+  "Conscientizacao_Whatsapp": {
+    "category": "Awareness",
+    "summary": "Material de conscientização sobre comportamento seguro, golpes e engenharia social.",
+    "intent": "Ajudar pessoas a reconhecer sinais de manipulação e tomar decisões mais seguras.",
+    "why": "Tecnologia não compensa decisões humanas sem contexto e treinamento.",
+    "title": "Conscientizacao Whatsapp"
+  },
+  "Cronicas_de_Sombra_Armitage": {
+    "category": "Pentest",
+    "summary": "Guia narrativo sobre operações de pentest com Armitage e conceitos do Metasploit.",
+    "intent": "Apresentar reconhecimento, exploração e organização de uma operação ofensiva controlada.",
+    "why": "Entender ferramentas de exploração ajuda a validar riscos e melhorar a defesa.",
+    "title": "Cronicas de Sombra Armitage"
+  },
+  "Cronicas_Guilda_SOC": {
+    "category": "SOC & Blue",
+    "summary": "Narrativa sobre a rotina de uma equipe SOC, seus papéis, alertas e decisões.",
+    "intent": "Mostrar como triagem, investigação e escalonamento se conectam durante um incidente.",
+    "why": "Conhecer o fluxo do SOC melhora análise, comunicação e resposta.",
+    "title": "Cronicas Guilda SOC"
+  },
+  "CSI_Cyber_Lab": {
+    "category": "DFIR",
+    "summary": "Lab investigativo inspirado em perícia criminal para analisar pistas e evidências digitais.",
+    "intent": "Treinar raciocínio forense, correlação de artefatos e construção de hipóteses.",
+    "why": "DFIR depende de método, evidência e capacidade de explicar o que aconteceu.",
+    "title": "CSI Cyber Lab"
+  },
+  "CTI_Elite_Free_Certification": {
+    "category": "Carreira",
+    "summary": "Material de preparação e revisão para certificações de cibersegurança.",
+    "intent": "Organizar domínios, conceitos e pontos de atenção exigidos em provas e na prática.",
+    "why": "Certificações ajudam a estruturar fundamentos e demonstrar repertório, mas exigem compreensão real.",
+    "title": "CTI Elite Free Certification"
+  },
+  "CTI_Intelligence_Map": {
+    "category": "CTI",
+    "summary": "Material sobre Cyber Threat Intelligence, fontes, análise e comunicação de ameaças.",
+    "intent": "Transformar dados dispersos em contexto útil para priorização e decisão.",
+    "why": "CTI ajuda a antecipar riscos e orientar controles com base em ameaças relevantes.",
+    "title": "CTI Intelligence Map"
+  },
+  "Curso_Analise_Trafego": {
+    "category": "Redes",
+    "summary": "Curso ou desafio de captura, filtragem e interpretação de tráfego com Wireshark.",
+    "intent": "Treinar leitura de protocolos e busca de anomalias diretamente nos pacotes.",
+    "why": "Análise de tráfego é útil em redes, SOC, DFIR e validação de incidentes.",
+    "title": "Curso Analise Trafego"
+  },
+  "Curso_Fundamentos_Redes": {
+    "category": "Redes",
+    "summary": "Conteúdo prático sobre fundamentos, serviços e segurança de redes.",
+    "intent": "Construir uma visão progressiva de conectividade, protocolos e diagnóstico.",
+    "why": "Sem redes é difícil compreender ataques, telemetria ou controles de segurança.",
+    "title": "Curso Fundamentos Redes"
+  },
+  "Curso_IA_Security": {
+    "category": "IA & Cloud",
+    "summary": "Curso, aula ou desafio sobre riscos e controles em IA e cloud.",
+    "intent": "Examinar ameaças, arquitetura, dados, modelos, APIs e responsabilidades compartilhadas.",
+    "why": "IA e cloud mudam a superfície de ataque e exigem controles desde o desenho.",
+    "title": "Curso IA Security"
+  },
+  "Curso_Identidade": {
+    "category": "IAM & GRC",
+    "summary": "Curso ou lab sobre identidade, autenticação, autorização e ciclo de vida de acessos.",
+    "intent": "Conectar diretórios, federação, MFA, governança e princípio do menor privilégio.",
+    "why": "Identidade é um dos principais perímetros de segurança em ambientes modernos.",
+    "title": "Curso Identidade"
+  },
+  "Curso_ISO_27001": {
+    "category": "IAM & GRC",
+    "summary": "Curso sobre SGSI, riscos, controles e aplicação prática da ISO/IEC 27001.",
+    "intent": "Explicar como estruturar e melhorar um sistema de gestão de segurança da informação.",
+    "why": "A norma conecta governança, risco, evidência e melhoria contínua.",
+    "title": "Curso ISO 27001"
+  },
+  "Curso_Linux": {
+    "category": "Cursos & Guias",
+    "summary": "Curso ou aula prática sobre Linux, terminal, processos, serviços, logs e segurança.",
+    "intent": "Desenvolver autonomia para administrar e investigar sistemas pela linha de comando.",
+    "why": "Linux está presente em servidores, cloud, ferramentas de segurança e laboratórios ofensivos.",
+    "title": "Curso Linux"
+  },
+  "Curso_Mentira_Alerta_Critico": {
+    "category": "Awareness",
+    "summary": "Material de conscientização sobre comportamento seguro, golpes e engenharia social.",
+    "intent": "Ajudar pessoas a reconhecer sinais de manipulação e tomar decisões mais seguras.",
+    "why": "Tecnologia não compensa decisões humanas sem contexto e treinamento.",
+    "title": "Curso Mentira Alerta Critico"
+  },
+  "Curso_NGFW": {
+    "category": "Redes",
+    "summary": "Curso ou lab sobre firewalls, políticas, inspeção e controle do tráfego.",
+    "intent": "Ensinar a transformar requisitos de segurança em regras claras e verificáveis.",
+    "why": "Firewalls continuam essenciais para segmentação, redução de superfície e contenção.",
+    "title": "Curso NGFW"
+  },
+  "Curso_Nmap": {
+    "category": "Pentest",
+    "summary": "Curso sobre descoberta, enumeração e leitura da superfície de rede com Nmap.",
+    "intent": "Ensinar opções de varredura, interpretação de resultados e uso responsável.",
+    "why": "Nmap é uma ferramenta fundamental para inventário, troubleshooting e pentest autorizado.",
+    "title": "Curso Nmap"
+  },
+  "Curso_OSQuery": {
+    "category": "DFIR",
+    "summary": "Curso sobre investigação e threat hunting em endpoints usando consultas SQL.",
+    "intent": "Explorar processos, arquivos, usuários, rede e configurações de forma estruturada.",
+    "why": "OSQuery oferece visibilidade reproduzível e acessível para operações defensivas.",
+    "title": "Curso OSQuery"
+  },
+  "Curso_SOC_N1": {
+    "category": "SOC & Blue",
+    "summary": "Curso, guia ou simulação sobre operações de SOC e defesa cibernética.",
+    "intent": "Praticar monitoramento, triagem, investigação, escalonamento e resposta.",
+    "why": "SOC conecta pessoas, processos e tecnologia para reduzir o impacto de incidentes.",
+    "title": "Curso SOC N1"
+  },
+  "Curso_WEB3_Security": {
+    "category": "Pentest",
+    "summary": "Curso sobre segurança em Web3, smart contracts e ecossistemas descentralizados.",
+    "intent": "Apresentar riscos de contratos, chaves, transações e integrações.",
+    "why": "Falhas em Web3 podem ser irreversíveis e causar perdas imediatas.",
+    "title": "Curso WEB3 Security"
+  },
+  "Curso_Wireshark": {
+    "category": "Redes",
+    "summary": "Curso ou desafio de captura, filtragem e interpretação de tráfego com Wireshark.",
+    "intent": "Treinar leitura de protocolos e busca de anomalias diretamente nos pacotes.",
+    "why": "Análise de tráfego é útil em redes, SOC, DFIR e validação de incidentes.",
+    "title": "Curso Wireshark"
+  },
+  "Curso_Workflow_SOAR": {
+    "category": "SOC & Blue",
+    "summary": "Material sobre procedimentos, automação e coordenação da resposta a incidentes.",
+    "intent": "Transformar decisões recorrentes em passos claros, responsáveis e verificáveis.",
+    "why": "Processos bem definidos reduzem improviso, tempo de resposta e falhas de comunicação.",
+    "title": "Curso Workflow SOAR"
+  },
+  "Curso_YARA": {
+    "category": "DFIR",
+    "summary": "Curso sobre criação, teste e ajuste de regras YARA para hunting e detecção.",
+    "intent": "Ensinar a transformar características de arquivos e memória em regras úteis.",
+    "why": "YARA acelera triagem e busca por famílias ou padrões maliciosos.",
+    "title": "Curso YARA"
+  },
+  "CV_Cover_Letter": {
+    "category": "Carreira",
+    "summary": "Modelo e orientação para currículo ou carta de apresentação em tecnologia e cibersegurança.",
+    "intent": "Ajudar a comunicar competências, projetos e potencial de forma objetiva.",
+    "why": "Uma apresentação clara aumenta a chance de o repertório técnico ser compreendido por recrutadores.",
+    "title": "CV Cover Letter"
+  },
+  "CV_Cover_Letter_Sem_Experiencia": {
+    "category": "Carreira",
+    "summary": "Modelo e orientação para currículo ou carta de apresentação em tecnologia e cibersegurança.",
+    "intent": "Ajudar a comunicar competências, projetos e potencial de forma objetiva.",
+    "why": "Uma apresentação clara aumenta a chance de o repertório técnico ser compreendido por recrutadores.",
+    "title": "CV Cover Letter Sem Experiencia"
+  },
+  "Cyber_Dino_Pet": {
+    "category": "Labs & Jogos",
+    "summary": "Mascote interativo que aproxima conceitos de segurança por meio de cuidado e evolução.",
+    "intent": "Usar uma experiência leve para reforçar hábitos e decisões de cibersegurança.",
+    "why": "Aprendizado recorrente e lúdico ajuda a consolidar comportamentos seguros.",
+    "title": "Cyber Dino Pet"
+  },
+  "Cyber_Guardian_Game": {
+    "category": "Labs & Jogos",
+    "summary": "Experiência prática ou gamificada para aplicar conhecimentos de cibersegurança.",
+    "intent": "Transformar conceitos em decisões, pistas e resolução de problemas.",
+    "why": "Prática ativa melhora retenção e desenvolve raciocínio técnico.",
+    "title": "Cyber Guardian Game"
+  },
+  "Cyber_Packet_Tracer": {
+    "category": "Redes",
+    "summary": "Material prático sobre pacotes, encapsulamento e comportamento do tráfego de rede.",
+    "intent": "Visualizar como dados atravessam protocolos, dispositivos e diferentes segmentos.",
+    "why": "Pacotes são evidências fundamentais para troubleshooting e investigação de segurança.",
+    "title": "Cyber Packet Tracer"
+  },
+  "CyberCard": {
+    "category": "Awareness",
+    "summary": "Material de conscientização sobre comportamento seguro, golpes e engenharia social.",
+    "intent": "Ajudar pessoas a reconhecer sinais de manipulação e tomar decisões mais seguras.",
+    "why": "Tecnologia não compensa decisões humanas sem contexto e treinamento.",
+    "title": "CyberCard"
+  },
+  "Cyberlife_Simulator": {
+    "category": "Labs & Jogos",
+    "summary": "Experiência prática ou gamificada para aplicar conhecimentos de cibersegurança.",
+    "intent": "Transformar conceitos em decisões, pistas e resolução de problemas.",
+    "why": "Prática ativa melhora retenção e desenvolve raciocínio técnico.",
+    "title": "Cyberlife Simulator"
+  },
+  "Cybersecurity_Certifications_Roadmap": {
+    "category": "Carreira",
+    "summary": "Material de preparação e revisão para certificações de cibersegurança.",
+    "intent": "Organizar domínios, conceitos e pontos de atenção exigidos em provas e na prática.",
+    "why": "Certificações ajudam a estruturar fundamentos e demonstrar repertório, mas exigem compreensão real.",
+    "title": "Cybersecurity Certifications Roadmap"
+  },
+  "Datacenter_Builder": {
+    "category": "Labs & Jogos",
+    "summary": "Simulador para montar um datacenter equilibrando infraestrutura, disponibilidade e segurança.",
+    "intent": "Praticar escolhas de arquitetura, redundância, energia, rede e proteção.",
+    "why": "Decisões físicas e lógicas do datacenter afetam diretamente resiliência e continuidade.",
+    "title": "Datacenter Builder"
+  },
+  "Desafio_AppSec_Pepper": {
+    "category": "Pentest",
+    "summary": "Desafio sobre segurança de aplicações, vulnerabilidades e práticas de AppSec.",
+    "intent": "Treinar a identificação de falhas ao longo do desenvolvimento e da execução.",
+    "why": "Aplicações expõem dados e processos; AppSec reduz risco antes e depois da publicação.",
+    "title": "Desafio AppSec Pepper"
+  },
+  "Desafio_Black_Hat": {
+    "category": "Pentest",
+    "summary": "Curso ou desafio de segurança ofensiva em ambiente autorizado.",
+    "intent": "Praticar reconhecimento, validação de falhas, exploração controlada e reporte.",
+    "why": "Pentest demonstra impacto real e ajuda a priorizar correções defensivas.",
+    "title": "Desafio Black Hat"
+  },
+  "Desafio_Bug_Bounty": {
+    "category": "Pentest",
+    "summary": "Desafio sobre metodologia, escopo e comunicação de achados em bug bounty.",
+    "intent": "Praticar investigação ética e produção de evidências reproduzíveis.",
+    "why": "Bug bounty desenvolve criatividade técnica e disciplina de reporte responsável.",
+    "title": "Desafio Bug Bounty"
+  },
+  "Desafio_C": {
+    "category": "Labs & Jogos",
+    "summary": "Desafio introdutório de lógica e programação em C aplicado ao raciocínio técnico.",
+    "intent": "Exercitar memória, fluxo de execução e resolução estruturada de problemas.",
+    "why": "C ajuda a compreender fundamentos que aparecem em sistemas, exploits e análise de baixo nível.",
+    "title": "Desafio C"
+  },
+  "Desafio_CISO": {
+    "category": "IAM & GRC",
+    "summary": "Curso, tour ou desafio sobre governança, riscos, compliance e liderança de segurança.",
+    "intent": "Praticar decisões que conectam objetivos de negócio, controles e obrigações.",
+    "why": "GRC transforma segurança em programa mensurável, justificável e alinhado à organização.",
+    "title": "Desafio CISO"
+  },
+  "Desafio_Cloud_Security": {
+    "category": "IA & Cloud",
+    "summary": "Curso, aula ou desafio sobre riscos e controles em IA e cloud.",
+    "intent": "Examinar ameaças, arquitetura, dados, modelos, APIs e responsabilidades compartilhadas.",
+    "why": "IA e cloud mudam a superfície de ataque e exigem controles desde o desenho.",
+    "title": "Desafio Cloud Security"
+  },
+  "Desafio_Criptografia": {
+    "category": "Cursos & Guias",
+    "summary": "Desafio sobre confidencialidade, integridade, chaves e uso correto de criptografia.",
+    "intent": "Aplicar conceitos criptográficos a problemas e decisões práticas.",
+    "why": "Criptografia sustenta autenticação, comunicações seguras e proteção de dados.",
+    "title": "Desafio Criptografia"
+  },
+  "Desafio_CTI": {
+    "category": "CTI",
+    "summary": "Material sobre Cyber Threat Intelligence, fontes, análise e comunicação de ameaças.",
+    "intent": "Transformar dados dispersos em contexto útil para priorização e decisão.",
+    "why": "CTI ajuda a antecipar riscos e orientar controles com base em ameaças relevantes.",
+    "title": "Desafio CTI"
+  },
+  "Desafio_Defesa": {
+    "category": "SOC & Blue",
+    "summary": "Curso, guia ou simulação sobre operações de SOC e defesa cibernética.",
+    "intent": "Praticar monitoramento, triagem, investigação, escalonamento e resposta.",
+    "why": "SOC conecta pessoas, processos e tecnologia para reduzir o impacto de incidentes.",
+    "title": "Desafio Defesa"
+  },
+  "Desafio_Desinformacao": {
+    "category": "Awareness",
+    "summary": "Desafio sobre manipulação de informação, verificação de fontes e influência digital.",
+    "intent": "Treinar análise crítica de conteúdo, contexto e sinais de falsificação.",
+    "why": "Desinformação afeta decisões, reputação e pode apoiar operações maliciosas.",
+    "title": "Desafio Desinformacao"
+  },
+  "Desafio_DFIR": {
+    "category": "DFIR",
+    "summary": "Lab ou desafio de Digital Forensics and Incident Response.",
+    "intent": "Treinar coleta, correlação e interpretação de evidências para reconstruir eventos.",
+    "why": "DFIR transforma artefatos técnicos em uma narrativa defensável do incidente.",
+    "title": "Desafio DFIR"
+  },
+  "Desafio_Direito_Digital": {
+    "category": "IAM & GRC",
+    "summary": "Curso, tour ou desafio sobre governança, riscos, compliance e liderança de segurança.",
+    "intent": "Praticar decisões que conectam objetivos de negócio, controles e obrigações.",
+    "why": "GRC transforma segurança em programa mensurável, justificável e alinhado à organização.",
+    "title": "Desafio Direito Digital"
+  },
+  "Desafio_Dork": {
+    "category": "Pentest",
+    "summary": "Desafio sobre operadores de busca e descoberta responsável de informações expostas.",
+    "intent": "Ensinar a refinar pesquisas e reconhecer dados indexados indevidamente.",
+    "why": "Dorks apoiam OSINT e ajudam defensores a encontrar exposições antes de atacantes.",
+    "title": "Desafio Dork"
+  },
+  "Desafio_DPO": {
+    "category": "IAM & GRC",
+    "summary": "Material sobre privacidade, LGPD, governança de dados e responsabilidades do DPO.",
+    "intent": "Relacionar princípios legais a processos, riscos e controles de segurança.",
+    "why": "Privacidade exige evidências, governança e proteção durante todo o ciclo de vida dos dados.",
+    "title": "Desafio DPO"
+  },
+  "Desafio_Email_Security": {
+    "category": "SOC & Blue",
+    "summary": "Desafio sobre proteção de e-mail, ameaças, autenticação e análise de mensagens.",
+    "intent": "Treinar identificação de riscos e aplicação de controles contra fraude e malware.",
+    "why": "E-mail continua sendo um vetor central de phishing, comprometimento e engenharia social.",
+    "title": "Desafio Email Security"
+  },
+  "Desafio_Engenharia_Ciber": {
+    "category": "Carreira",
+    "summary": "Desafio sobre competências, decisões e caminhos de atuação em engenharia de cibersegurança.",
+    "intent": "Ajudar a conectar fundamentos técnicos, arquitetura e responsabilidades profissionais.",
+    "why": "Entender o papel facilita a escolha de estudos e a construção de repertório de carreira.",
+    "title": "Desafio Engenharia Ciber"
+  },
+  "Desafio_Engenharia_Social": {
+    "category": "Awareness",
+    "summary": "Material de conscientização sobre comportamento seguro, golpes e engenharia social.",
+    "intent": "Ajudar pessoas a reconhecer sinais de manipulação e tomar decisões mais seguras.",
+    "why": "Tecnologia não compensa decisões humanas sem contexto e treinamento.",
+    "title": "Desafio Engenharia Social"
+  },
+  "Desafio_Estagio_Red_Team": {
+    "category": "Carreira",
+    "summary": "Curso ou desafio de segurança ofensiva em ambiente autorizado.",
+    "intent": "Praticar reconhecimento, validação de falhas, exploração controlada e reporte.",
+    "why": "Pentest demonstra impacto real e ajuda a priorizar correções defensivas.",
+    "title": "Desafio Estagio Red Team"
+  },
+  "Desafio_Forensics": {
+    "category": "DFIR",
+    "summary": "Lab ou desafio de Digital Forensics and Incident Response.",
+    "intent": "Treinar coleta, correlação e interpretação de evidências para reconstruir eventos.",
+    "why": "DFIR transforma artefatos técnicos em uma narrativa defensável do incidente.",
+    "title": "Desafio Forensics"
+  },
+  "Desafio_Gevul": {
+    "category": "Pentest",
+    "summary": "Aula ou desafio sobre gestão de vulnerabilidades, risco e priorização de correções.",
+    "intent": "Conectar descoberta, validação, criticidade, tratamento e acompanhamento.",
+    "why": "Corrigir tudo ao mesmo tempo é inviável; priorização reduz risco com melhor uso de recursos.",
+    "title": "Desafio Gevul"
+  },
+  "Desafio_GRC": {
+    "category": "IAM & GRC",
+    "summary": "Curso, tour ou desafio sobre governança, riscos, compliance e liderança de segurança.",
+    "intent": "Praticar decisões que conectam objetivos de negócio, controles e obrigações.",
+    "why": "GRC transforma segurança em programa mensurável, justificável e alinhado à organização.",
+    "title": "Desafio GRC"
+  },
+  "Desafio_Homer": {
+    "category": "Labs & Jogos",
+    "summary": "Desafio lúdico de cibersegurança com pistas, escolhas e consequências inesperadas.",
+    "intent": "Revisar conceitos técnicos por meio de uma narrativa acessível.",
+    "why": "Resolver problemas fora do formato tradicional fortalece raciocínio e retenção.",
+    "title": "Desafio Homer"
+  },
+  "Desafio_IR": {
+    "category": "DFIR",
+    "summary": "Simulação ou guia sobre preparação, contenção, investigação e recuperação de incidentes.",
+    "intent": "Praticar decisões e comunicação ao longo do ciclo de resposta.",
+    "why": "Resposta organizada reduz impacto, preserva evidências e acelera recuperação.",
+    "title": "Desafio IR"
+  },
+  "Desafio_Jogos_Vorazes_Carreira": {
+    "category": "Carreira",
+    "summary": "Guia ou desafio sobre formação, oportunidades e desenvolvimento de carreira em cibersegurança.",
+    "intent": "Orientar escolhas de estudo, portfólio, processos seletivos e networking.",
+    "why": "Planejamento evita dispersão e transforma atividades em evidências de evolução profissional.",
+    "title": "Desafio Jogos Vorazes Carreira"
+  },
+  "Desafio_Logs_Matrix": {
+    "category": "SOC & Blue",
+    "summary": "Guia ou lab sobre geração, transporte e interpretação de logs de segurança.",
+    "intent": "Ensinar a encontrar eventos relevantes e conectá-los a hipóteses de investigação.",
+    "why": "Sem logs confiáveis não há visibilidade, auditoria ou resposta consistente.",
+    "title": "Desafio Logs Matrix"
+  },
+  "Desafio_LoveTrap": {
+    "category": "Labs & Jogos",
+    "summary": "Experiência prática ou gamificada para aplicar conhecimentos de cibersegurança.",
+    "intent": "Transformar conceitos em decisões, pistas e resolução de problemas.",
+    "why": "Prática ativa melhora retenção e desenvolve raciocínio técnico.",
+    "title": "Desafio LoveTrap"
+  },
+  "Desafio_Masterbreach": {
+    "category": "DFIR",
+    "summary": "Lab ou desafio de Digital Forensics and Incident Response.",
+    "intent": "Treinar coleta, correlação e interpretação de evidências para reconstruir eventos.",
+    "why": "DFIR transforma artefatos técnicos em uma narrativa defensável do incidente.",
+    "title": "Desafio Masterbreach"
+  },
+  "Desafio_Mini_Wireshark": {
+    "category": "Redes",
+    "summary": "Curso ou desafio de captura, filtragem e interpretação de tráfego com Wireshark.",
+    "intent": "Treinar leitura de protocolos e busca de anomalias diretamente nos pacotes.",
+    "why": "Análise de tráfego é útil em redes, SOC, DFIR e validação de incidentes.",
+    "title": "Desafio Mini Wireshark"
+  },
+  "Desafio_OT": {
+    "category": "SOC & Blue",
+    "summary": "Desafio sobre segurança de tecnologia operacional e ambientes industriais.",
+    "intent": "Avaliar riscos considerando disponibilidade, segurança física e sistemas legados.",
+    "why": "Em OT, impactos podem ultrapassar dados e atingir processos ou pessoas.",
+    "title": "Desafio OT"
+  },
+  "Desafio_Pentest": {
+    "category": "Pentest",
+    "summary": "Curso ou desafio de segurança ofensiva em ambiente autorizado.",
+    "intent": "Praticar reconhecimento, validação de falhas, exploração controlada e reporte.",
+    "why": "Pentest demonstra impacto real e ajuda a priorizar correções defensivas.",
+    "title": "Desafio Pentest"
+  },
+  "Desafio_Pratico_GRC": {
+    "category": "IAM & GRC",
+    "summary": "Curso, tour ou desafio sobre governança, riscos, compliance e liderança de segurança.",
+    "intent": "Praticar decisões que conectam objetivos de negócio, controles e obrigações.",
+    "why": "GRC transforma segurança em programa mensurável, justificável e alinhado à organização.",
+    "title": "Desafio Pratico GRC"
+  },
+  "Desafio_Processo_Seletivo": {
+    "category": "Carreira",
+    "summary": "Guia ou desafio sobre formação, oportunidades e desenvolvimento de carreira em cibersegurança.",
+    "intent": "Orientar escolhas de estudo, portfólio, processos seletivos e networking.",
+    "why": "Planejamento evita dispersão e transforma atividades em evidências de evolução profissional.",
+    "title": "Desafio Processo Seletivo"
+  },
+  "Desafio_QR_Code": {
+    "category": "Awareness",
+    "summary": "Material de conscientização sobre comportamento seguro, golpes e engenharia social.",
+    "intent": "Ajudar pessoas a reconhecer sinais de manipulação e tomar decisões mais seguras.",
+    "why": "Tecnologia não compensa decisões humanas sem contexto e treinamento.",
+    "title": "Desafio QR Code"
+  },
+  "Desafio_Ransomware": {
+    "category": "DFIR",
+    "summary": "Aula ou desafio sobre cadeia de ransomware, evidências, contenção e recuperação.",
+    "intent": "Reconhecer comportamentos e praticar decisões durante um incidente de extorsão.",
+    "why": "Ransomware combina impacto técnico e operacional e exige preparação antecipada.",
+    "title": "Desafio Ransomware"
+  },
+  "Desafio_Redes": {
+    "category": "Redes",
+    "summary": "Conteúdo prático sobre fundamentos, serviços e segurança de redes.",
+    "intent": "Construir uma visão progressiva de conectividade, protocolos e diagnóstico.",
+    "why": "Sem redes é difícil compreender ataques, telemetria ou controles de segurança.",
+    "title": "Desafio Redes"
+  },
+  "Desafio_Redes_Ciber": {
+    "category": "Redes",
+    "summary": "Conteúdo prático sobre fundamentos, serviços e segurança de redes.",
+    "intent": "Construir uma visão progressiva de conectividade, protocolos e diagnóstico.",
+    "why": "Sem redes é difícil compreender ataques, telemetria ou controles de segurança.",
+    "title": "Desafio Redes Ciber"
+  },
+  "Desafio_Round6": {
+    "category": "Labs & Jogos",
+    "summary": "Desafio gamificado em rodadas eliminatórias de conhecimento em cibersegurança.",
+    "intent": "Testar fundamentos, atenção e tomada de decisão em etapas progressivas.",
+    "why": "A pressão controlada revela lacunas e torna a revisão mais envolvente.",
+    "title": "Desafio Round6"
+  },
+  "Desafio_SOC": {
+    "category": "SOC & Blue",
+    "summary": "Curso, guia ou simulação sobre operações de SOC e defesa cibernética.",
+    "intent": "Praticar monitoramento, triagem, investigação, escalonamento e resposta.",
+    "why": "SOC conecta pessoas, processos e tecnologia para reduzir o impacto de incidentes.",
+    "title": "Desafio SOC"
+  },
+  "Desafio_SOC_Ingles": {
+    "category": "SOC & Blue",
+    "summary": "Curso, guia ou simulação sobre operações de SOC e defesa cibernética.",
+    "intent": "Praticar monitoramento, triagem, investigação, escalonamento e resposta.",
+    "why": "SOC conecta pessoas, processos e tecnologia para reduzir o impacto de incidentes.",
+    "title": "Desafio SOC Ingles"
+  },
+  "Desafio_Wormageddon": {
+    "category": "DFIR",
+    "summary": "Aula ou desafio sobre malware, propagação, comportamento e indicadores.",
+    "intent": "Treinar identificação de sinais e compreensão das etapas de execução maliciosa.",
+    "why": "Entender malware melhora detecção, análise e contenção de ameaças reais.",
+    "title": "Desafio Wormageddon"
+  },
+  "DLP_Tour": {
+    "category": "SOC & Blue",
+    "summary": "Tour sobre Data Loss Prevention, classificação de dados e políticas de proteção.",
+    "intent": "Mostrar como identificar informações sensíveis e controlar uso, trânsito e compartilhamento.",
+    "why": "Vazamentos podem ocorrer por erro ou abuso; DLP apoia prevenção e investigação.",
+    "title": "DLP Tour"
+  },
+  "EASM_Tour": {
+    "category": "CTI",
+    "summary": "Tour sobre External Attack Surface Management e descoberta de ativos expostos.",
+    "intent": "Mostrar como mapear, monitorar e priorizar riscos visíveis na internet.",
+    "why": "Ativos desconhecidos ou esquecidos são pontos comuns de entrada para atacantes.",
+    "title": "EASM Tour"
+  },
+  "Ecossistema_Opensource_Ciberseguranca": {
+    "category": "Ferramentas",
+    "summary": "Curadoria de ferramentas open source distribuídas pelos principais domínios de cibersegurança.",
+    "intent": "Ajudar na escolha de soluções gratuitas para estudo, laboratório e operação.",
+    "why": "Conhecer alternativas abertas permite praticar mais e compreender como cada controle funciona.",
+    "title": "Ecossistema Opensource Ciberseguranca"
+  },
+  "Firewall_Ferret": {
+    "category": "Redes",
+    "summary": "Lab interativo sobre regras de firewall, tráfego permitido e bloqueios defensivos.",
+    "intent": "Treinar leitura de políticas e decisões de filtragem em cenários de rede.",
+    "why": "Uma regra mal definida pode expor serviços ou interromper operações legítimas.",
+    "title": "Firewall Ferret"
+  },
+  "ForceSecOS": {
+    "category": "Labs & Jogos",
+    "summary": "Ambiente gamificado que reúne missões de sistemas operacionais e segurança.",
+    "intent": "Praticar administração, hardening e investigação em desafios progressivos.",
+    "why": "Segurança de endpoints começa pelo domínio do sistema e de seus artefatos.",
+    "title": "ForceSecOS"
+  },
+  "Forensics_Solutions": {
+    "category": "DFIR",
+    "summary": "Lab ou desafio de Digital Forensics and Incident Response.",
+    "intent": "Treinar coleta, correlação e interpretação de evidências para reconstruir eventos.",
+    "why": "DFIR transforma artefatos técnicos em uma narrativa defensável do incidente.",
+    "title": "Forensics Solutions"
+  },
+  "Glossario_Ciber_2026": {
+    "category": "Cursos & Guias",
+    "summary": "Material didático organizado para estudar o tema indicado no título.",
+    "intent": "Explicar conceitos de forma acessível e conduzir o aprendizado em etapas.",
+    "why": "Uma sequência guiada ajuda a construir base antes de avançar para cenários complexos.",
+    "title": "Glossario Ciber 2026"
+  },
+  "GRC_Tour_Senhor_dos_Aneis": {
+    "category": "IAM & GRC",
+    "summary": "Curso, tour ou desafio sobre governança, riscos, compliance e liderança de segurança.",
+    "intent": "Praticar decisões que conectam objetivos de negócio, controles e obrigações.",
+    "why": "GRC transforma segurança em programa mensurável, justificável e alinhado à organização.",
+    "title": "GRC Tour Senhor dos Aneis"
+  },
+  "Guia_Estagio_Ciber": {
+    "category": "Carreira",
+    "summary": "Guia ou desafio sobre formação, oportunidades e desenvolvimento de carreira em cibersegurança.",
+    "intent": "Orientar escolhas de estudo, portfólio, processos seletivos e networking.",
+    "why": "Planejamento evita dispersão e transforma atividades em evidências de evolução profissional.",
+    "title": "Guia Estagio Ciber"
+  },
+  "Guia_EventID": {
+    "category": "SOC & Blue",
+    "summary": "Guia ou lab sobre geração, transporte e interpretação de logs de segurança.",
+    "intent": "Ensinar a encontrar eventos relevantes e conectá-los a hipóteses de investigação.",
+    "why": "Sem logs confiáveis não há visibilidade, auditoria ou resposta consistente.",
+    "title": "Guia EventID"
+  },
+  "Guia_SOC": {
+    "category": "SOC & Blue",
+    "summary": "Curso, guia ou simulação sobre operações de SOC e defesa cibernética.",
+    "intent": "Praticar monitoramento, triagem, investigação, escalonamento e resposta.",
+    "why": "SOC conecta pessoas, processos e tecnologia para reduzir o impacto de incidentes.",
+    "title": "Guia SOC"
+  },
+  "Honeylab": {
+    "category": "SOC & Blue",
+    "summary": "Lab de honeypots e observação controlada de atividades suspeitas.",
+    "intent": "Capturar sinais, estudar comportamento e gerar telemetria para detecção.",
+    "why": "Ambientes-isca ajudam a entender técnicas reais sem expor sistemas produtivos.",
+    "title": "Honeylab"
+  },
+  "IAM_Tour": {
+    "category": "IAM & GRC",
+    "summary": "Curso ou lab sobre identidade, autenticação, autorização e ciclo de vida de acessos.",
+    "intent": "Conectar diretórios, federação, MFA, governança e princípio do menor privilégio.",
+    "why": "Identidade é um dos principais perímetros de segurança em ambientes modernos.",
+    "title": "IAM Tour"
+  },
+  "Incident_Response_Of_The_Dead": {
+    "category": "DFIR",
+    "summary": "Simulação ou guia sobre preparação, contenção, investigação e recuperação de incidentes.",
+    "intent": "Praticar decisões e comunicação ao longo do ciclo de resposta.",
+    "why": "Resposta organizada reduz impacto, preserva evidências e acelera recuperação.",
+    "title": "Incident Response Of The Dead"
+  },
+  "IT_English_Study_Guide": {
+    "category": "Carreira",
+    "summary": "Guia de inglês aplicado a tecnologia, documentação e rotina profissional.",
+    "intent": "Desenvolver vocabulário e leitura para estudar e trabalhar com materiais internacionais.",
+    "why": "Grande parte da documentação e das oportunidades de cibersegurança está em inglês.",
+    "title": "IT English Study Guide"
+  },
+  "ITSM_Flinstones_Guiado": {
+    "category": "ITSM & Observabilidade",
+    "summary": "Curso ou simulador sobre gestão de serviços, ITIL e tratamento de chamados.",
+    "intent": "Praticar fluxo, prioridade, comunicação, escalonamento e melhoria de serviços.",
+    "why": "Operações de segurança dependem de processos de serviço claros e rastreáveis.",
+    "title": "ITSM Flinstones Guiado"
+  },
+  "Lab_Observabilidade": {
+    "category": "ITSM & Observabilidade",
+    "summary": "Lab sobre observabilidade usando métricas, logs e traces para entender sistemas.",
+    "intent": "Treinar instrumentação, correlação de sinais e diagnóstico de comportamento.",
+    "why": "Observabilidade reduz tempo de diagnóstico e melhora confiabilidade e resposta.",
+    "title": "Lab Observabilidade"
+  },
+  "Lab_XDR": {
+    "category": "SOC & Blue",
+    "summary": "Lab ou tour sobre Extended Detection and Response e correlação de telemetrias.",
+    "intent": "Explicar como endpoint, identidade, e-mail e rede apoiam detecção e resposta integradas.",
+    "why": "XDR reduz silos e ajuda a enxergar ataques como uma sequência, não alertas isolados.",
+    "title": "Lab XDR"
+  },
+  "Linux_Cheat_Sheet": {
+    "category": "Cheat Sheets",
+    "summary": "Curso ou aula prática sobre Linux, terminal, processos, serviços, logs e segurança.",
+    "intent": "Desenvolver autonomia para administrar e investigar sistemas pela linha de comando.",
+    "why": "Linux está presente em servidores, cloud, ferramentas de segurança e laboratórios ofensivos.",
+    "title": "Linux Cheat Sheet"
+  },
+  "Lista_Cursos_Graduacao": {
+    "category": "Carreira",
+    "summary": "Guia ou desafio sobre formação, oportunidades e desenvolvimento de carreira em cibersegurança.",
+    "intent": "Orientar escolhas de estudo, portfólio, processos seletivos e networking.",
+    "why": "Planejamento evita dispersão e transforma atividades em evidências de evolução profissional.",
+    "title": "Lista Cursos Graduacao"
+  },
+  "Mapa_Eventos_Ciber": {
+    "category": "Carreira",
+    "summary": "Guia ou desafio sobre formação, oportunidades e desenvolvimento de carreira em cibersegurança.",
+    "intent": "Orientar escolhas de estudo, portfólio, processos seletivos e networking.",
+    "why": "Planejamento evita dispersão e transforma atividades em evidências de evolução profissional.",
+    "title": "Mapa Eventos Ciber"
+  },
+  "Maturidade_LGPD": {
+    "category": "IAM & GRC",
+    "summary": "Material sobre privacidade, LGPD, governança de dados e responsabilidades do DPO.",
+    "intent": "Relacionar princípios legais a processos, riscos e controles de segurança.",
+    "why": "Privacidade exige evidências, governança e proteção durante todo o ciclo de vida dos dados.",
+    "title": "Maturidade LGPD"
+  },
+  "MITRE_DEF3ND_Mapping": {
+    "category": "SOC & Blue",
+    "summary": "Material sobre defesa em profundidade e mapeamento de técnicas defensivas.",
+    "intent": "Combinar controles complementares para prevenir, detectar e conter ataques.",
+    "why": "Nenhum controle é perfeito; camadas reduzem dependência de um único ponto de falha.",
+    "title": "MITRE DEF3ND Mapping"
+  },
+  "N1_Simulador_Chamados": {
+    "category": "ITSM & Observabilidade",
+    "summary": "Curso ou simulador sobre gestão de serviços, ITIL e tratamento de chamados.",
+    "intent": "Praticar fluxo, prioridade, comunicação, escalonamento e melhoria de serviços.",
+    "why": "Operações de segurança dependem de processos de serviço claros e rastreáveis.",
+    "title": "N1 Simulador Chamados"
+  },
+  "NDR_Tour": {
+    "category": "Redes",
+    "summary": "Tour sobre Network Detection and Response e análise comportamental de tráfego.",
+    "intent": "Mostrar como telemetria de rede apoia detecção, investigação e resposta.",
+    "why": "NDR oferece visibilidade de movimentos e comunicações que podem escapar do endpoint.",
+    "title": "NDR Tour"
+  },
+  "NetTopo": {
+    "category": "Redes",
+    "summary": "Material sobre desenho, visualização e análise de topologias de rede.",
+    "intent": "Ajudar a representar conexões, dependências e pontos críticos do ambiente.",
+    "why": "Uma topologia clara acelera troubleshooting, avaliação de risco e resposta a incidentes.",
+    "title": "NetTopo"
+  },
+  "O_Elevador": {
+    "category": "Labs & Jogos",
+    "summary": "Desafio narrativo de segurança com decisões em diferentes níveis de uma infraestrutura.",
+    "intent": "Estimular raciocínio por camadas e identificação de riscos ao longo do percurso.",
+    "why": "Ataques raramente ficam em um único nível; pensar em cadeia melhora a defesa.",
+    "title": "O Elevador"
+  },
+  "Operacao_Camada_Fisica": {
+    "category": "Redes",
+    "summary": "Conteúdo sobre camadas de rede, encapsulamento e responsabilidades dos protocolos.",
+    "intent": "Relacionar o modelo OSI a equipamentos, falhas, ataques e controles reais.",
+    "why": "Pensar por camadas ajuda a localizar problemas e compreender como ataques percorrem a rede.",
+    "title": "Operacao Camada Fisica"
+  },
+  "Operacao_SatLink13": {
+    "category": "Redes",
+    "summary": "Missão sobre comunicação via satélite, enlaces e riscos de conectividade remota.",
+    "intent": "Explicar componentes do enlace e avaliar disponibilidade, exposição e proteção do tráfego.",
+    "why": "Ambientes distribuídos exigem entender latência, dependências e superfícies pouco convencionais.",
+    "title": "Operacao SatLink13"
+  },
+  "Operacao_Shadow_Access": {
+    "category": "IAM & GRC",
+    "summary": "Missão sobre acessos invisíveis, privilégios excessivos e identidades fora de controle.",
+    "intent": "Treinar descoberta, revisão e contenção de caminhos de acesso não governados.",
+    "why": "Shadow access favorece movimento lateral e dificulta auditoria e responsabilização.",
+    "title": "Operacao Shadow Access"
+  },
+  "Orbital_Watch": {
+    "category": "SOC & Blue",
+    "summary": "Simulador de monitoramento e detecção em uma operação distribuída de alta criticidade.",
+    "intent": "Praticar correlação de sinais, priorização de alertas e resposta coordenada.",
+    "why": "Operações críticas exigem visibilidade contínua e decisões rápidas com pouco contexto.",
+    "title": "Orbital Watch"
+  },
+  "OSCP_Cheat_Sheet": {
+    "category": "Cheat Sheets",
+    "summary": "Material de preparação e revisão para certificações de cibersegurança.",
+    "intent": "Organizar domínios, conceitos e pontos de atenção exigidos em provas e na prática.",
+    "why": "Certificações ajudam a estruturar fundamentos e demonstrar repertório, mas exigem compreensão real.",
+    "title": "OSCP Cheat Sheet"
+  },
+  "OSI_Building": {
+    "category": "Redes",
+    "summary": "Conteúdo sobre camadas de rede, encapsulamento e responsabilidades dos protocolos.",
+    "intent": "Relacionar o modelo OSI a equipamentos, falhas, ataques e controles reais.",
+    "why": "Pensar por camadas ajuda a localizar problemas e compreender como ataques percorrem a rede.",
+    "title": "OSI Building"
+  },
+  "Passa_ou_Patcha": {
+    "category": "Pentest",
+    "summary": "Jogo sobre vulnerabilidades, correções e decisões de priorização de patches.",
+    "intent": "Comparar risco, impacto e urgência antes de escolher quando e como corrigir.",
+    "why": "Patch management reduz exposição, mas precisa respeitar continuidade e criticidade.",
+    "title": "Passa ou Patcha"
+  },
+  "Pastelaria_Greybox": {
+    "category": "Pentest",
+    "summary": "Lab de pentest grey box com informações parciais sobre uma aplicação temática.",
+    "intent": "Treinar enumeração, validação de hipóteses e documentação de vulnerabilidades.",
+    "why": "Grey box aproxima o teste de cenários reais com algum conhecimento interno disponível.",
+    "title": "Pastelaria Greybox"
+  },
+  "Payload_Panic": {
+    "category": "DFIR",
+    "summary": "Desafio de análise de payloads e comportamento suspeito sob pressão.",
+    "intent": "Treinar triagem, identificação de indicadores e tomada de decisão defensiva.",
+    "why": "Compreender payloads ajuda a reconhecer execução maliciosa e conter incidentes.",
+    "title": "Payload Panic"
+  },
+  "PDF_Cleaner": {
+    "category": "Ferramentas",
+    "summary": "Ferramenta para higienizar PDFs e reduzir metadados ou elementos indesejados.",
+    "intent": "Apoiar o compartilhamento mais seguro de documentos e minimizar exposição de informações.",
+    "why": "Arquivos podem carregar dados ocultos; saneamento reduz riscos de privacidade e segurança.",
+    "title": "PDF Cleaner"
+  },
+  "Provinha_Assembly": {
+    "category": "Cursos & Guias",
+    "summary": "Material didático organizado para estudar o tema indicado no título.",
+    "intent": "Explicar conceitos de forma acessível e conduzir o aprendizado em etapas.",
+    "why": "Uma sequência guiada ajuda a construir base antes de avançar para cenários complexos.",
+    "title": "Provinha Assembly"
+  },
+  "Redes_Zero_ao_Avancado": {
+    "category": "Redes",
+    "summary": "Conteúdo prático sobre fundamentos, serviços e segurança de redes.",
+    "intent": "Construir uma visão progressiva de conectividade, protocolos e diagnóstico.",
+    "why": "Sem redes é difícil compreender ataques, telemetria ou controles de segurança.",
+    "title": "Redes Zero ao Avancado"
+  },
+  "Short_Course_ITIL_I": {
+    "category": "ITSM & Observabilidade",
+    "summary": "Curso ou simulador sobre gestão de serviços, ITIL e tratamento de chamados.",
+    "intent": "Praticar fluxo, prioridade, comunicação, escalonamento e melhoria de serviços.",
+    "why": "Operações de segurança dependem de processos de serviço claros e rastreáveis.",
+    "title": "Short Course ITIL I"
+  },
+  "Short_Course_ITIL_II": {
+    "category": "ITSM & Observabilidade",
+    "summary": "Curso ou simulador sobre gestão de serviços, ITIL e tratamento de chamados.",
+    "intent": "Praticar fluxo, prioridade, comunicação, escalonamento e melhoria de serviços.",
+    "why": "Operações de segurança dependem de processos de serviço claros e rastreáveis.",
+    "title": "Short Course ITIL II"
+  },
+  "Short_Course_ITIL_III": {
+    "category": "ITSM & Observabilidade",
+    "summary": "Curso ou simulador sobre gestão de serviços, ITIL e tratamento de chamados.",
+    "intent": "Praticar fluxo, prioridade, comunicação, escalonamento e melhoria de serviços.",
+    "why": "Operações de segurança dependem de processos de serviço claros e rastreáveis.",
+    "title": "Short Course ITIL III"
+  },
+  "Short_Course_ITIL_IV": {
+    "category": "ITSM & Observabilidade",
+    "summary": "Curso ou simulador sobre gestão de serviços, ITIL e tratamento de chamados.",
+    "intent": "Praticar fluxo, prioridade, comunicação, escalonamento e melhoria de serviços.",
+    "why": "Operações de segurança dependem de processos de serviço claros e rastreáveis.",
+    "title": "Short Course ITIL IV"
+  },
+  "Short_Course_ITIL_V": {
+    "category": "ITSM & Observabilidade",
+    "summary": "Curso ou simulador sobre gestão de serviços, ITIL e tratamento de chamados.",
+    "intent": "Praticar fluxo, prioridade, comunicação, escalonamento e melhoria de serviços.",
+    "why": "Operações de segurança dependem de processos de serviço claros e rastreáveis.",
+    "title": "Short Course ITIL V"
+  },
+  "Show_do_Frangao": {
+    "category": "Labs & Jogos",
+    "summary": "Quiz gamificado que revisa conceitos de tecnologia e cibersegurança.",
+    "intent": "Transformar revisão em perguntas rápidas com feedback imediato.",
+    "why": "Recuperação ativa ajuda a identificar lacunas e fixar conteúdo.",
+    "title": "Show do Frangao"
+  },
+  "SIEM_Deploy_Lab": {
+    "category": "SOC & Blue",
+    "summary": "Lab ou tour sobre coleta, normalização, correlação e investigação de eventos em SIEM.",
+    "intent": "Mostrar como fontes diferentes viram consultas, alertas e contexto operacional.",
+    "why": "SIEM centraliza evidências e dá escala ao monitoramento de segurança.",
+    "title": "SIEM Deploy Lab"
+  },
+  "Simulacao_Ataque_Defesa": {
+    "category": "SOC & Blue",
+    "summary": "Curso, guia ou simulação sobre operações de SOC e defesa cibernética.",
+    "intent": "Praticar monitoramento, triagem, investigação, escalonamento e resposta.",
+    "why": "SOC conecta pessoas, processos e tecnologia para reduzir o impacto de incidentes.",
+    "title": "Simulacao Ataque Defesa"
+  },
+  "Simulacao_Phishing": {
+    "category": "Awareness",
+    "summary": "Simulação sobre criação, identificação e resposta a campanhas de phishing.",
+    "intent": "Demonstrar sinais de fraude e medir decisões humanas em ambiente educativo.",
+    "why": "Phishing explora confiança e continua entre os vetores mais frequentes de ataque.",
+    "title": "Simulacao Phishing"
+  },
+  "SOC_Elite_Free_Certification": {
+    "category": "Carreira",
+    "summary": "Material de preparação e revisão para certificações de cibersegurança.",
+    "intent": "Organizar domínios, conceitos e pontos de atenção exigidos em provas e na prática.",
+    "why": "Certificações ajudam a estruturar fundamentos e demonstrar repertório, mas exigem compreensão real.",
+    "title": "SOC Elite Free Certification"
+  },
+  "SOC_Praia_Maldita": {
+    "category": "SOC & Blue",
+    "summary": "Curso, guia ou simulação sobre operações de SOC e defesa cibernética.",
+    "intent": "Praticar monitoramento, triagem, investigação, escalonamento e resposta.",
+    "why": "SOC conecta pessoas, processos e tecnologia para reduzir o impacto de incidentes.",
+    "title": "SOC Praia Maldita"
+  },
+  "SOC_Raccoon": {
+    "category": "SOC & Blue",
+    "summary": "Curso, guia ou simulação sobre operações de SOC e defesa cibernética.",
+    "intent": "Praticar monitoramento, triagem, investigação, escalonamento e resposta.",
+    "why": "SOC conecta pessoas, processos e tecnologia para reduzir o impacto de incidentes.",
+    "title": "SOC Raccoon"
+  },
+  "Street_Cyber_Fight": {
+    "category": "Labs & Jogos",
+    "summary": "Jogo de combate temático em que técnicas e controles de segurança viram desafios.",
+    "intent": "Revisar conceitos por meio de confronto, escolha e consequência.",
+    "why": "Gamificação mantém o estudo ativo e evidencia pontos que precisam de reforço.",
+    "title": "Street Cyber Fight"
+  },
+  "Syslog_Lab": {
+    "category": "SOC & Blue",
+    "summary": "Guia ou lab sobre geração, transporte e interpretação de logs de segurança.",
+    "intent": "Ensinar a encontrar eventos relevantes e conectá-los a hipóteses de investigação.",
+    "why": "Sem logs confiáveis não há visibilidade, auditoria ou resposta consistente.",
+    "title": "Syslog Lab"
+  },
+  "Teddy_Breach": {
+    "category": "Labs & Jogos",
+    "summary": "Lab narrativo sobre uma violação de segurança escondida em um cenário aparentemente inocente.",
+    "intent": "Treinar investigação de pistas, construção de linha do tempo e identificação da causa.",
+    "why": "Incidentes exigem desconfiar de sinais sutis e validar hipóteses com evidências.",
+    "title": "Teddy Breach"
+  },
+  "The_Lost_Network": {
+    "category": "Redes",
+    "summary": "Desafio de troubleshooting para reconstruir uma rede perdida ou mal configurada.",
+    "intent": "Praticar diagnóstico de conectividade, dependências e caminhos de comunicação.",
+    "why": "Saber isolar falhas de rede reduz indisponibilidade e acelera investigações.",
+    "title": "The Lost Network"
+  },
+  "Titan_NIST": {
+    "category": "IAM & GRC",
+    "summary": "Experiência guiada pelos princípios e controles do NIST aplicados a uma missão.",
+    "intent": "Conectar governança, identificação, proteção, detecção, resposta e recuperação.",
+    "why": "O NIST oferece linguagem comum para estruturar programas e medir maturidade.",
+    "title": "Titan NIST"
+  },
+  "Tour_Guiado_SIEM": {
+    "category": "SOC & Blue",
+    "summary": "Lab ou tour sobre coleta, normalização, correlação e investigação de eventos em SIEM.",
+    "intent": "Mostrar como fontes diferentes viram consultas, alertas e contexto operacional.",
+    "why": "SIEM centraliza evidências e dá escala ao monitoramento de segurança.",
+    "title": "Tour Guiado SIEM"
+  },
+  "Tour_Guiado_XDR": {
+    "category": "SOC & Blue",
+    "summary": "Lab ou tour sobre Extended Detection and Response e correlação de telemetrias.",
+    "intent": "Explicar como endpoint, identidade, e-mail e rede apoiam detecção e resposta integradas.",
+    "why": "XDR reduz silos e ajuda a enxergar ataques como uma sequência, não alertas isolados.",
+    "title": "Tour Guiado XDR"
+  },
+  "Treinamento_Awareness": {
+    "category": "Awareness",
+    "summary": "Material de conscientização sobre comportamento seguro, golpes e engenharia social.",
+    "intent": "Ajudar pessoas a reconhecer sinais de manipulação e tomar decisões mais seguras.",
+    "why": "Tecnologia não compensa decisões humanas sem contexto e treinamento.",
+    "title": "Treinamento Awareness"
+  },
+  "Vestibulinho_Be_Safe": {
+    "category": "Cursos & Guias",
+    "summary": "Avaliação de entrada para revisar fundamentos e orientar a próxima trilha de estudos.",
+    "intent": "Mapear conhecimentos atuais por meio de questões curtas e objetivas.",
+    "why": "Diagnóstico inicial evita estudar às cegas e ajuda a priorizar lacunas.",
+    "title": "Vestibulinho Be Safe"
+  },
+  "War_Room_Simulator": {
+    "category": "SOC & Blue",
+    "summary": "Material sobre procedimentos, automação e coordenação da resposta a incidentes.",
+    "intent": "Transformar decisões recorrentes em passos claros, responsáveis e verificáveis.",
+    "why": "Processos bem definidos reduzem improviso, tempo de resposta e falhas de comunicação.",
+    "title": "War Room Simulator"
+  },
+  "Workshop_Carreiras_Ciber": {
+    "category": "Carreira",
+    "summary": "Workshop sobre áreas, funções, competências e caminhos profissionais em cibersegurança.",
+    "intent": "Ajudar quem está entrando ou migrando a entender opções e planejar próximos passos.",
+    "why": "Clareza de carreira torna o estudo mais direcionado e a evolução mais sustentável.",
+    "title": "Workshop Carreiras Ciber"
+  }
+};
+
+
   var state = { filter: "Tudo", query: "", expanded: false };
 
   function escapeHtml(value) {
@@ -1795,6 +3542,8 @@ footer small {
   }
 
   function categoryFor(repo) {
+    var curated = REPO_CATALOG[repo.name];
+    if (curated && curated.category) return curated.category;
     var value = [repo.name, repo.description || "", (repo.topics || []).join(" ")]
       .join(" ")
       .toLowerCase()
@@ -1886,11 +3635,12 @@ footer small {
       .sort(function (a, b) { return new Date(b.updated_at) - new Date(a.updated_at); })
       .slice(0, 6)
       .map(function (repo) {
+        var details = detailsForRepo(repo);
         return {
           date: repo.updated_at,
-          type: categoryFor(repo),
-          title: repo.name.replaceAll("_", " "),
-          text: repo.description || "Repositório atualizado com novos conteúdos e materiais.",
+          type: details.category,
+          title: details.title,
+          text: details.summary,
           link: linkForRepo(repo)
         };
       });
@@ -1922,11 +3672,54 @@ footer small {
     return Promise.resolve();
   }
 
+  function normalizeSearchText(value) {
+    return String(value || "")
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .replace(/[_-]+/g, " ")
+      .replace(/[^a-zA-Z0-9+ ]/g, " ")
+      .replace(/\s+/g, " ")
+      .trim()
+      .toLowerCase();
+  }
+
+  function detailsForRepo(repo) {
+    var curated = REPO_CATALOG[repo.name] || {};
+    var summary = curated.summary || repo.description || "Projeto aberto para estudo, prática e compartilhamento de conhecimento.";
+    var intent = curated.intent || "Disponibilizar conhecimento aplicável para consulta, prática e experimentação.";
+    return {
+      title: curated.title || String(repo.name || "").replace(/[_-]+/g, " "),
+      category: curated.category || categoryFor(repo),
+      summary: summary,
+      learning: summary + " " + intent,
+      intent: intent,
+      why: curated.why || "Explorar projetos diversos amplia repertório e ajuda a conectar teoria e prática."
+    };
+  }
+
   function currentRepos() {
-    var term = state.query.trim().toLowerCase();
+    var term = normalizeSearchText(state.query);
+    var tokens = term ? term.split(" ").filter(Boolean) : [];
     return repos.filter(function (repo) {
-      return (state.filter === "Tudo" || categoryFor(repo) === state.filter) &&
-        (!term || [repo.name, repo.description || ""].join(" ").toLowerCase().includes(term));
+      var details = detailsForRepo(repo);
+      var matchesFilter = state.filter === "Tudo" ||
+        (state.filter === "Desafios" && isChallenge(repo)) ||
+        (state.filter === "Cursos & Guias" && isCourseGuide(repo)) ||
+        details.category === state.filter;
+      var searchText = normalizeSearchText([
+        repo.name,
+        details.title,
+        details.category,
+        details.summary,
+        details.intent,
+        details.why,
+        (repo.topics || []).join(" "),
+        repo.language || ""
+      ].join(" "));
+      var compactSearchText = searchText.replace(/\s+/g, "");
+      return matchesFilter && tokens.every(function (token) {
+        return searchText.includes(token) || compactSearchText.includes(token);
+      });
     }).sort(function (a, b) {
       var pagePriority = Number(hasPublicPage(b)) - Number(hasPublicPage(a));
       return pagePriority || b.stargazers_count - a.stargazers_count;
@@ -1952,11 +3745,14 @@ footer small {
     var visible = state.expanded ? filtered : filtered.slice(0, 12);
     document.getElementById("result-count").textContent = filtered.length + " RESULTADOS";
     document.getElementById("repo-grid").innerHTML = visible.map(function (repo) {
+      var details = detailsForRepo(repo);
       var actionLabel = hasPublicPage(repo) ? "ABRIR PÁGINA ↗" : "ABRIR REPO ↗";
       return '<a class="repo-card" href="' + escapeHtml(linkForRepo(repo)) + '" target="_blank" rel="noreferrer">' +
-        '<div class="repo-top"><span>' + categoryFor(repo) + "</span><b>★ " + Number(repo.stargazers_count || 0) + "</b></div>" +
-        "<h3>" + escapeHtml(repo.name).replaceAll("_", " ") + "</h3>" +
-        "<p>" + escapeHtml(repo.description || "Projeto aberto para estudo, prática e compartilhamento de conhecimento.") + "</p>" +
+        '<div class="repo-top"><span>' + escapeHtml(details.category) + "</span><b>★ " + Number(repo.stargazers_count || 0) + "</b></div>" +
+        "<h3>" + escapeHtml(details.title) + "</h3>" +
+        '<p class="repo-summary"><strong>O QUE VOCÊ VAI APRENDER</strong>' + escapeHtml(details.learning) + "</p>" +
+        '<div class="repo-context"><p><strong>INTENÇÃO</strong>' + escapeHtml(details.intent) + "</p>" +
+        '<p><strong>POR QUE ESTUDAR</strong>' + escapeHtml(details.why) + "</p></div>" +
         '<code class="repo-url">' + escapeHtml(shortLink(linkForRepo(repo))) + "</code>" +
         '<div class="repo-foot"><span>' + escapeHtml(repo.language || "Conteúdo") + "</span><strong>" + actionLabel + "</strong></div></a>";
     }).join("");
