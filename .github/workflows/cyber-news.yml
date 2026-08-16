@@ -1,4 +1,3 @@
-
 name: Atualizar Cyber News
 
 on:
@@ -17,16 +16,13 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v4
-
+      - uses: actions/checkout@v5
       - name: Buscar, filtrar e traduzir notícias
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NEWS_MODEL: openai/gpt-4.1-mini
+          NEWS_MODEL: openai/gpt-4.1
         run: python update_news.py
-
       - name: Publicar atualização
         run: |
           git config user.name "Be Safe News Bot"
