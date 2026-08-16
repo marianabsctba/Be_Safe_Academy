@@ -9,10 +9,11 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
     <meta http-equiv="Pragma" content="no-cache" />
     <meta http-equiv="Expires" content="0" />
-    <meta name="be-safe-build" content="2026.08.16-R2" />
+    <meta name="be-safe-build" content="2026.08.16-R3" />
     <meta name="description" content="Hub gratuito de cibersegurança de Mariana BS: cursos, roadmaps, laboratórios e guias práticos." />
     <meta name="theme-color" content="#08090a" />
     <title>Be Safe Cyber | Cursos, Roadmaps e Labs</title>
@@ -1837,7 +1838,10 @@ footer small {
 
 </style>
     
-  </head>
+  <style>
+    .be-safe-radio{position:fixed;right:16px;bottom:16px;z-index:2147483000;width:min(330px,calc(100vw - 24px));max-height:calc(100dvh - 24px);border:1px solid rgba(255,79,163,.65);border-radius:18px;background:rgba(10,12,18,.96);box-shadow:0 20px 65px rgba(0,0,0,.52),0 0 30px rgba(255,79,163,.11);backdrop-filter:blur(20px);overflow:hidden;transition:width .22s ease,transform .22s ease,box-shadow .22s ease}.be-safe-radio:not([open]){width:218px;border-radius:14px;box-shadow:0 12px 38px rgba(0,0,0,.42)}.radio-head{display:flex;align-items:center;gap:9px;min-height:52px;padding:9px 10px;border-bottom:1px solid rgba(255,255,255,.09);background:linear-gradient(110deg,rgba(255,79,163,.17),rgba(64,217,255,.07));cursor:pointer;list-style:none;user-select:none;-webkit-user-select:none;touch-action:manipulation}.radio-head::-webkit-details-marker{display:none}.radio-head::marker{display:none;content:""}.radio-live{flex:0 0 auto;width:8px;height:8px;border-radius:50%;background:#ff4fa3;box-shadow:0 0 12px #ff4fa3;animation:radioPulse 1.5s infinite}.radio-brand{min-width:0;flex:1}.radio-brand strong{display:block;font-size:.74rem;letter-spacing:.11em;white-space:nowrap}.radio-brand span{display:block;color:#9da7b8;font-size:.6rem;white-space:nowrap}.radio-minimize{display:grid;place-items:center;flex:0 0 auto;width:34px;height:34px;border:1px solid #343b4a;border-radius:10px;background:#151923;color:#fff;font-size:1rem}.be-safe-radio:not([open]) .radio-minimize::before{content:"+"}.be-safe-radio[open] .radio-minimize::before{content:"−"}.radio-video{width:100%;height:200px;background:#050609}.radio-video iframe{display:block;width:100%!important;height:200px!important}.radio-info{padding:9px 11px 3px}.radio-now{color:#40d9ff;font-size:.58rem;font-weight:900;letter-spacing:.13em}.radio-title{display:block;min-height:1.35em;margin-top:2px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:.8rem}.radio-controls{display:grid;grid-template-columns:repeat(3,1fr);gap:7px;padding:7px 11px}.radio-controls button,.radio-volume button{min-height:38px;border:1px solid #313848;border-radius:10px;background:#151a25;color:#fff;cursor:pointer;font-weight:900;touch-action:manipulation}.radio-controls .radio-play{background:#ff4fa3;border-color:#ff4fa3;color:#1b0711;font-size:1rem}.radio-controls button:hover,.radio-volume button:hover{border-color:#687287}.radio-controls button:focus-visible,.radio-volume button:focus-visible,.radio-head:focus-visible{outline:2px solid #40d9ff;outline-offset:-2px}.radio-controls button:disabled,.radio-volume button:disabled{opacity:.45;cursor:not-allowed}.radio-volume{display:grid;grid-template-columns:40px 40px 1fr 40px;gap:6px;align-items:center;padding:0 11px 9px}.radio-volume-output{text-align:center;color:#b9f45d;font:800 .68rem ui-monospace,SFMono-Regular,Consolas,monospace}.radio-status{padding:0 11px 9px;color:#8f99aa;font-size:.6rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.be-safe-radio:not([open])>:not(summary){display:none}.be-safe-radio:not([open]) .radio-head{border-bottom:0}.be-safe-radio:not([open]) .radio-brand span{overflow:hidden;text-overflow:ellipsis}@keyframes radioPulse{50%{opacity:.45;transform:scale(.75)}}@media(max-width:620px){.be-safe-radio{right:8px;bottom:max(8px,env(safe-area-inset-bottom));width:min(310px,calc(100vw - 16px));border-radius:16px}.be-safe-radio:not([open]){width:205px}.radio-head{min-height:50px;padding:8px 9px}.radio-controls button,.radio-volume button{min-height:44px}.radio-status{display:none}}@media(max-width:360px){.be-safe-radio{left:8px;right:8px;width:auto}.be-safe-radio:not([open]){left:auto;width:200px}.radio-brand strong{font-size:.7rem}}
+  </style>
+</head>
   <body>
     <main>
       <nav class="nav">
@@ -1974,7 +1978,7 @@ footer small {
           <div><span class="section-number">05</span><h2>O QUE ENTROU<br /><em>AGORA.</em></h2></div>
         </header>
         <div class="sync-strip">
-          <span><i></i> SINCRONIZADO COM O GITHUB · BUILD 2026.08.16-R2</span>
+          <span><i></i> SINCRONIZADO COM O GITHUB · BUILD 2026.08.16-R3</span>
           <b id="last-sync">CARREGANDO ATUALIZAÇÕES...</b>
         </div>
         <div class="update-grid" id="update-grid"></div>
@@ -3857,5 +3861,74 @@ footer small {
 })();
 
 </script>
-  </body>
+  <details class="be-safe-radio" id="beSafeRadio" aria-label="Be Safe Radio" open>
+    <summary class="radio-head">
+      <span class="radio-live" aria-hidden="true"></span>
+      <div class="radio-brand"><strong>BE SAFE RADIO</strong><span>20 FAIXAS • YOUTUBE</span></div>
+      <span class="radio-minimize" aria-hidden="true"></span>
+    </summary>
+    <div class="radio-video"><div id="beSafeYoutubePlayer"></div></div>
+    <div class="radio-info"><span class="radio-now">TOCANDO AGORA</span><strong class="radio-title" id="radioTitle">Clique em Play para começar</strong></div>
+    <div class="radio-controls">
+      <button id="radioPrev" type="button" title="Música anterior" aria-label="Música anterior" disabled>⏮</button>
+      <button class="radio-play" id="radioPlay" type="button" title="Reproduzir ou pausar" aria-label="Reproduzir ou pausar" disabled>▶</button>
+      <button id="radioNext" type="button" title="Próxima música" aria-label="Próxima música" disabled>⏭</button>
+    </div>
+    <div class="radio-volume">
+      <button id="radioVolumeDown" type="button" title="Diminuir volume" aria-label="Diminuir volume" disabled>−</button>
+      <button id="radioMute" type="button" title="Mutar ou desmutar" aria-label="Mutar ou desmutar" disabled>🔊</button>
+      <output class="radio-volume-output" id="radioVolumeOutput">60%</output>
+      <button id="radioVolumeUp" type="button" title="Aumentar volume" aria-label="Aumentar volume" disabled>+</button>
+    </div>
+    <div class="radio-status" id="radioStatus">Carregando o player oficial do YouTube…</div>
+  </details>
+  <script>
+    (function(){
+      var BE_SAFE_PLAYLIST=[
+        "ZAEjImKgKU8","WgETDKFkDEE","Sn_hqO-GIYU","soL9nvyKJrk","24dG4m8ym_g",
+        "veHqJSC-9Lo","ProwCLCppgo","ISBcpUzGPhY","bDSTPVULpec","Fnu8pyKZSc0",
+        "L9aFeSYyft4","jYaUCbQ1mF8","tpwLqEfmfEU","6c-RbGZBnBI","ADBKdSCbmiM",
+        "IJWlBfo5Oj0","r0uBRSnNeLg","-s_6LjSmZqo","4lFDPS7qhI0","ZSFuwWYMd9c"
+      ];
+      var player=null,ready=false,creating=false,volume=60;
+      var radio=document.getElementById("beSafeRadio");
+      var playButton=document.getElementById("radioPlay");
+      var muteButton=document.getElementById("radioMute");
+      var title=document.getElementById("radioTitle");
+      var status=document.getElementById("radioStatus");
+      var volumeOutput=document.getElementById("radioVolumeOutput");
+      var controlIds=["radioPrev","radioPlay","radioNext","radioVolumeDown","radioMute","radioVolumeUp"];
+      function readSetting(key,fallback){try{var value=localStorage.getItem(key);return value===null?fallback:value}catch(error){return fallback}}
+      function saveSetting(key,value){try{localStorage.setItem(key,String(value))}catch(error){}}
+      volume=Math.max(0,Math.min(100,Number(readSetting("be-safe-radio-volume",60))||60));
+      volumeOutput.textContent=volume+"%";
+      if(readSetting("be-safe-radio-minimized","0")==="1")radio.removeAttribute("open");
+      function enableControls(){controlIds.forEach(function(id){document.getElementById(id).disabled=false})}
+      function updateTitle(){if(!ready)return;var data=player.getVideoData&&player.getVideoData();title.textContent=data&&data.title?data.title:"Be Safe Radio"}
+      function updatePlay(state){playButton.textContent=state===1?"❚❚":"▶";playButton.setAttribute("aria-label",state===1?"Pausar":"Reproduzir")}
+      function createPlayer(){
+        if(creating||ready||!window.YT||!YT.Player)return;
+        creating=true;
+        var pageOrigin=window.location.origin&&window.location.origin!=="null"?window.location.origin:"https://marianabsctba.github.io";
+        player=new YT.Player("beSafeYoutubePlayer",{height:"200",width:"100%",videoId:BE_SAFE_PLAYLIST[0],host:"https://www.youtube.com",playerVars:{enablejsapi:1,origin:pageOrigin,widget_referrer:window.location.href,playsinline:1,controls:1,rel:0,loop:1,playlist:BE_SAFE_PLAYLIST.join(",")},events:{
+          onReady:function(){ready=true;var frame=player.getIframe&&player.getIframe();if(frame)frame.referrerPolicy="strict-origin-when-cross-origin";player.cuePlaylist(BE_SAFE_PLAYLIST,0,0);player.setLoop(true);player.setVolume(volume);enableControls();status.textContent="Pronta. Aperte Play — o navegador exige o primeiro clique.";updateTitle()},
+          onStateChange:function(event){updatePlay(event.data);updateTitle();if(event.data===1)status.textContent="No ar • Be Safe!";if(event.data===2)status.textContent="Pausada"},
+          onError:function(event){if(event.data===153){status.textContent="O navegador ocultou a origem da página. Abra no Safari ou Chrome.";return}status.textContent="Uma faixa não permitiu reprodução incorporada. Pulando…";window.setTimeout(function(){if(ready)player.nextVideo()},900)},
+          onAutoplayBlocked:function(){status.textContent="Clique em Play para liberar o som no navegador."}
+        }});
+      }
+      window.onYouTubeIframeAPIReady=createPlayer;
+      function on(id,handler){document.getElementById(id).addEventListener("click",handler,{passive:false})}
+      on("radioPlay",function(event){event.preventDefault();if(!ready){createPlayer();status.textContent="Carregando o YouTube…";return}player.getPlayerState()===1?player.pauseVideo():player.playVideo()});
+      on("radioPrev",function(event){event.preventDefault();if(ready)player.previousVideo()});
+      on("radioNext",function(event){event.preventDefault();if(ready)player.nextVideo()});
+      function setVolume(next){if(!ready)return;volume=Math.max(0,Math.min(100,next));player.setVolume(volume);if(volume>0&&player.isMuted())player.unMute();muteButton.textContent=volume===0?"🔇":"🔊";volumeOutput.textContent=volume+"%";saveSetting("be-safe-radio-volume",volume)}
+      on("radioVolumeDown",function(event){event.preventDefault();setVolume(volume-10)});
+      on("radioVolumeUp",function(event){event.preventDefault();setVolume(volume+10)});
+      on("radioMute",function(event){event.preventDefault();if(!ready)return;if(player.isMuted()){player.unMute();muteButton.textContent="🔊";volumeOutput.textContent=volume+"%"}else{player.mute();muteButton.textContent="🔇";volumeOutput.textContent="MUDO"}});
+      radio.addEventListener("toggle",function(){saveSetting("be-safe-radio-minimized",radio.open?"0":"1")});
+      if(window.YT&&YT.Player){createPlayer()}else{var api=document.createElement("script");api.src="https://www.youtube.com/iframe_api";api.async=true;document.head.appendChild(api);var attempts=0;var apiFallback=window.setInterval(function(){attempts++;if(window.YT&&YT.Player){window.clearInterval(apiFallback);createPlayer()}else if(attempts>=40){window.clearInterval(apiFallback);status.textContent="Não foi possível carregar o YouTube. Verifique o bloqueador de conteúdo."}},250)}
+    })();
+  </script>
+</body>
 </html>
