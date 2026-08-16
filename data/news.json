@@ -1,4 +1,167 @@
 {
-  "updated_at": "2026-08-16T18:00:00Z",
-  "items": []
+  "updated_at": "2026-08-16T19:22:08.709840+00:00",
+  "items": [
+    {
+      "title": "Ataques DDoS em grande escala interromperam o serviço de mensagens seguras Threema",
+      "summary": "Vários ataques distribuídos de negação de serviço (DDoS) tiveram como alvo o serviço de mensagens seguras Threema no início desta semana, causando graves interrupções nas comunicações. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
+      "published": "2026-08-16T17:29:52+00:00",
+      "image": ""
+    },
+    {
+      "title": "Novo malware AmnesiaStealer macOS sequestra sessões do navegador via controle remoto",
+      "summary": "Um novo malware de roubo de informações chamado AmnesiaStealer, que tem como alvo usuários do macOS por meio de ataques ClickFix, inclui um módulo de streaming que permite ao invasor controlar interativamente o navegador da vítima. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
+      "published": "2026-08-16T15:07:44+00:00",
+      "image": ""
+    },
+    {
+      "title": "Novo botnet Evooo1Bot Linux transforma roteadores em nós de retransmissão de tráfego",
+      "summary": "Um novo malware de botnet Linux modular baseado em Mirai, chamado Evooo1Bot, tem como alvo dispositivos de gateway voltados para a Internet, transformando-os em nós de retransmissão de tráfego SOCKS5. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
+      "published": "2026-08-15T14:14:38+00:00",
+      "image": ""
+    },
+    {
+      "title": "SAP Commerce Cloud CVE-2026-58231 é alvo de tentativas de exploração dias após o patch - The Hacker News",
+      "summary": "SAP Commerce Cloud CVE-2026-58231 alvo de tentativas de exploração dias após patch The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWUHowWVFLQWdHY2VIa3RESDIxZmM1ZS04VkJkOXROanNMTUJiWkg0R2RZQkM3emdhaThxWVlDbVV3NVpZMmowdi1JblZMYWhxSV92SlFNcE5TUkpwbVZ1aWR0dXJKZWxGbGxnNENkbTBzN2VVVVhmMU9XSHI?oc=5",
+      "published": "2026-08-15T08:38:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Segurança orientada para missões: por dentro da defesa de um banco global",
+      "summary": "Nesta entrevista em vídeo, o CISO do grupo Standard Chartered compartilha insights sobre a transição de funções técnicas para liderança estratégica, a importância de executivos de segurança com experiência em negócios e como a IA está remodelando tanto as capa",
+      "category": "CLOUD & IA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense",
+      "published": "2026-08-14T19:24:18+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaf878ea5b4a138a7/6a7f5e48b01ed02ddabd5447/standardchartered1800_winhorse_GettyImages-1344776566.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Hackers prenderam mais de € 30 milhões em fraude bancária explorando falha de provedor de serviços",
+      "summary": "Quatro cibercriminosos foram presos no Brasil e outros três foram acusados ​​na Europa por alegações de que exploraram uma vulnerabilidade num prestador de serviços, permitindo-lhes levantar fundos de contas bancárias de clientes do Commerzbank. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
+      "published": "2026-08-14T18:04:26+00:00",
+      "image": ""
+    },
+    {
+      "title": "Em meio ao tsunami de caça a insetos impulsionado por IA, o NIST espera… IA",
+      "summary": "Impulsionados pela investigação e digitalização aumentadas pela IA, os volumes de vulnerabilidade continuam a aumentar, levando o Instituto Nacional de Padrões e Tecnologia a perguntar se a IA poderia ser a resposta.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai",
+      "published": "2026-08-14T17:32:46+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf82784f3cda996ab/6a7f597749a6b3967594a791/tsunami-John_Lund-Getty-114571378.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Governo escocês sofre violação de dados potencialmente ampliada no Ministério Público",
+      "summary": "Uma agência governamental da Caledônia relatou uma violação, graças a um terceiro que também pode ter prestado serviços a outras agências.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office",
+      "published": "2026-08-14T15:58:50+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt82eda035ca3e22ea/6a7f3bb6faf5c1cbf257cd7b/Edinburgh-StephenBridger-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Hackers exploram falha de compartilhamento de tela do macOS para implantar minerador Monero",
+      "summary": "O Centro Nacional de Segurança Cibernética (NCSC) da Holanda está alertando que os hackers estão explorando ativamente uma vulnerabilidade de desvio de autenticação do macOS após o surgimento de um código de exploração pública. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
+      "published": "2026-08-14T14:59:55+00:00",
+      "image": ""
+    },
+    {
+      "title": "A moderna cadeia de ataques: repensando a segurança do Google Workspace na era da IA",
+      "summary": "Os ataques do Google Workspace nem sempre começam com phishing. Os tokens OAuth roubados podem fornecer outro caminho para o Gmail, o Drive e os sistemas conectados. A Segurança de Materiais explica por que as organizações precisam de defesas que cubram toda a",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
+      "published": "2026-08-14T14:00:10+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falha de gravidade máxima do SAP Commerce Cloud agora é alvo de ataques",
+      "summary": "Uma vulnerabilidade de execução remota de código do SAP Commerce Cloud de gravidade máxima corrigida há três dias já está sendo alvo de ataques, de acordo com a empresa de inteligência de ameaças Defused. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
+      "published": "2026-08-14T13:45:18+00:00",
+      "image": ""
+    },
+    {
+      "title": "Mustang Panda adiciona rootkit assinado do Windows ao CoolClient Backdoor for Stealth - The Hacker News",
+      "summary": "Mustang Panda adiciona rootkit assinado do Windows ao CoolClient Backdoor para Stealth The Hacker News",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2WGhXWEFXTmpJZjJybVpoa0Y5UEIyLVN0cDQ4Q3ppaHFDRmZUV2tGM2dYeHZxVXVUOVlVZjllWWVCTzRyY1diUEZGNGo3X1duZEtwVVdtdTJYV0ZGM1RCX3JUOVRIM1N4ZVpSVnk5YjBab3hodTdoaEJhRmg?oc=5",
+      "published": "2026-08-14T13:08:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "A compra do Oasis Security da Cyera tem tudo a ver com controle de agente de IA",
+      "summary": "O acordo de US$ 1 bilhão visa convergir a segurança e a identidade dos dados em um único plano de controle para agentes, com acesso privilegiado redefinido em torno do contexto de negócios, em vez de funções estáticas.",
+      "category": "CLOUD & IA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control",
+      "published": "2026-08-14T12:17:21+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta34684778cb8b0db/682deb002835ee067393fc41/Mergers_M&A_(1800)_pichetw_Alamy.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Em outras notícias: Demissões Rapid7, hackeamento de um Boeing 737, vulnerabilidades no sistema de refrigeração",
+      "summary": "Histórias dignas de nota que podem ter passado despercebidas: acordo de plataforma de IA do governo provoca indignação, funcionário de TI norte-coreano viola agência federal, participante da DEF CON é responsabilizado pela interrupção do voo da Delta. A postag",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/",
+      "published": "2026-08-14T11:57:51+00:00",
+      "image": ""
+    },
+    {
+      "title": "Shell investiga ‘potencial incidente’ após alegações de roubo de dados Clop",
+      "summary": "A gigante petrolífera Shell confirmou que está investigando um possível incidente de segurança depois que a gangue de ransomware Clop alegou ter roubado 89 GB de dados. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
+      "published": "2026-08-14T11:55:45+00:00",
+      "image": ""
+    },
+    {
+      "title": "Trivy, não LiteLLM por trás do compromisso de 2.500 organizações",
+      "summary": "Mais de 95% das empresas afetadas foram expostas antes da publicação dos pacotes LiteLLM maliciosos. A postagem Trivy, Not LiteLLM por trás do compromisso de 2.500 organizações apareceu pela primeira vez na SecurityWeek.",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/",
+      "published": "2026-08-14T11:35:23+00:00",
+      "image": ""
+    },
+    {
+      "title": "Google Cloud estabelece roteiro pós-quântico com meta de preparação para 2029",
+      "summary": "O Google Cloud descreve seu roteiro para a prontidão total da criptografia pós-quântica, com marcos importantes direcionados para 2027 e 2028. A postagem Google Cloud estabelece um roteiro pós-quântico com meta de prontidão para 2029 apareceu pela primeira vez",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/",
+      "published": "2026-08-14T11:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "A violação de dados do RingCentral expôs informações de 1,6 milhão de contas",
+      "summary": "O grupo de extorsão ShinyHunters roubou informações pessoais de 1,6 milhão de contas RingCentral após hackear a empresa em julho, de acordo com o serviço de notificação de violação de dados Have I Been Pwned. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
+      "published": "2026-08-14T10:52:05+00:00",
+      "image": ""
+    }
+  ]
 }
