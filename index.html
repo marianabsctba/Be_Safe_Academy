@@ -2309,6 +2309,45 @@
           font-size: 0.7rem;
         }
       }
+
+      .padawan-counter {
+        position: fixed;
+        top: 84px;
+        right: 14px;
+        z-index: 2147482999;
+        display: flex;
+        align-items: center;
+        padding: 5px;
+        border: 1px solid rgba(202, 255, 51, 0.3);
+        border-radius: 9px;
+        background: rgba(10, 12, 18, 0.88);
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+        backdrop-filter: blur(14px);
+        opacity: 0.82;
+        transition: opacity 0.2s ease, transform 0.2s ease;
+      }
+      .padawan-counter:hover {
+        opacity: 1;
+        transform: translateY(-2px);
+      }
+      .padawan-counter img {
+        display: block;
+        width: auto;
+        max-width: 150px;
+        height: 20px;
+      }
+      @media (max-width: 620px) {
+        .padawan-counter {
+          top: 68px;
+          right: 8px;
+          padding: 4px;
+          transform: scale(0.9);
+          transform-origin: right top;
+        }
+        .padawan-counter:hover {
+          transform: scale(0.9);
+        }
+      }
     </style>
   </head>
   <body>
@@ -5383,6 +5422,19 @@
         loadGitHub();
       })();
     </script>
+    <a
+      class="padawan-counter"
+      href="https://hits.sh/marianabsctba.github.io/Be_Safe_Academy/"
+      target="_blank"
+      rel="noreferrer"
+      title="Padawans que já passaram pelo nosso templo cyber"
+      aria-label="Contador público de padawans visitantes"
+    >
+      <img
+        src="https://hits.sh/marianabsctba.github.io/Be_Safe_Academy.svg?view=today-total&amp;style=flat-square&amp;label=PADAWANS&amp;color=caff33&amp;labelColor=151923"
+        alt="Contador de padawans visitantes"
+      />
+    </a>
     <details
       class="be-safe-radio"
       id="beSafeRadio"
