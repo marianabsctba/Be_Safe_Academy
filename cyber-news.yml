@@ -1,0 +1,32 @@
+name: Atualizar Cyber News
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */3 * * *"
+
+permissions:
+  contents: write
+  models: read
+
+concurrency:
+  group: cyber-news
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Buscar, filtrar e traduzir notícias
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NEWS_MODEL: openai/gpt-4.1-mini
+        run: python scripts/update_news.py
+      - name: Publicar atualização
+        run: |
+          git config user.name "Be Safe News Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/news.json
+          git diff --cached --quiet || git commit -m "news: atualização automática"
+          git push
