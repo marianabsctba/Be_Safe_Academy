@@ -7,6 +7,7 @@ import os
 import re
 import urllib.request
 import urllib.error
+import urllib.parse
 import xml.etree.ElementTree as ET
 import time
 from pathlib import Path
@@ -25,6 +26,7 @@ FEEDS = [
 ]
 UA = "BeSafeAcademy-News/1.0 (+https://marianabsctba.github.io/Be_Safe_Academy/)"
 OUT = Path("data/news.json")
+CYBER_TERMS = ("security", "cyber", "vulnerability", "cve-", "malware", "ransomware", "breach", "attack", "exploit", "phishing", "botnet", "threat", "zero-day", "privacy", "authentication", "password", "infosec", "patch", "backdoor")
 
 def text(node, names):
     for child in node.iter():
@@ -115,6 +117,50 @@ def translate_batch(items, token):
         time.sleep(3 * (attempt + 1))
     raise last_error or RuntimeError("Falha desconhecida no GitHub Models")
 
+def local_category(value):
+    value = value.lower()
+    if any(x in value for x in ("cve-", "vulnerability", "zero-day", "exploit", "patch")):
+        return "VULNERABILIDADES"
+    if any(x in value for x in ("ransomware", "malware", "phishing", "botnet", "threat")):
+        return "AMEAÇAS"
+    if any(x in value for x in ("breach", "incident", "leak", "stolen", "attack")):
+        return "INCIDENTES"
+    if any(x in value for x in ("cloud", " ai ", "artificial intelligence", "llm")):
+        return "CLOUD & IA"
+    if any(x in value for x in ("privacy", "tracking", "surveillance")):
+        return "PRIVACIDADE"
+    return "DEFESA"
+
+def google_translate(value):
+    value = re.sub(r"\s+", " ", value or "").strip()
+    if not value:
+        return ""
+    query = urllib.parse.urlencode({"client": "gtx", "sl": "auto", "tl": "pt", "dt": "t", "q": value[:1200]})
+    req = urllib.request.Request("https://translate.googleapis.com/translate_a/single?" + query, headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=25) as response:
+        data = json.load(response)
+    return "".join(part[0] for part in data[0] if part and part[0]).strip()
+
+def fallback_items(items):
+    selected = [x for x in items if any(term in (x["original_title"] + " " + x["original_summary"]).lower() for term in CYBER_TERMS)]
+    if not selected:
+        selected = items
+    rows = []
+    for source in selected[:18]:
+        combined = source["original_title"] + " " + source["original_summary"]
+        try:
+            title = google_translate(source["original_title"])
+        except Exception as exc:
+            print(f"Aviso: tradução alternativa do título falhou: {exc}")
+            title = source["original_title"]
+        try:
+            summary = google_translate(source["original_summary"][:500]) if source["original_summary"] else ""
+        except Exception as exc:
+            print(f"Aviso: tradução alternativa do resumo falhou: {exc}")
+            summary = "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos."
+        rows.append({"title": title[:220], "summary": summary[:260], "category": local_category(combined), "source": source["source"], "url": source["url"], "published": source["published"], "image": source["image"]})
+    return rows
+
 def main():
     token = os.environ.get("GITHUB_TOKEN")
     if not token:
@@ -151,7 +197,10 @@ def main():
                 output.append({"title": decision.get("title", source["original_title"])[:220], "summary": decision.get("summary", "")[:260], "category": decision.get("category", "DEFESA"), "source": source["source"], "url": source["url"], "published": source["published"], "image": source["image"]})
     output = sorted(output, key=lambda x: x["published"], reverse=True)[:36]
     if not output:
-        raise SystemExit("Nenhuma notícia gerada; arquivo anterior preservado")
+        print("GitHub Models indisponível; ativando triagem e tradução alternativas")
+        output = fallback_items(unique)
+    if not output:
+        raise SystemExit("Nenhuma notícia encontrada nas fontes consultadas")
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps({"updated_at": dt.datetime.now(dt.timezone.utc).isoformat(), "items": output}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"{len(output)} notícias publicadas")
