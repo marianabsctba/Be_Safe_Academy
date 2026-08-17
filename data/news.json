@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-08-17T19:02:03.461408+00:00",
+  "updated_at": "2026-08-17T21:44:22.019110+00:00",
   "items": [
+    {
+      "title": "Falha crítica do GitLab GraphQL pode permitir que invasores não autenticados excluam projetos públicos",
+      "summary": "O GitLab lançou atualizações de segurança para solucionar uma vulnerabilidade crítica que afeta seus softwares Community Edition (CE) e Enterprise Edition (EE) que, sob certas condições, podem permitir que um invasor não autenticado modifique ou exclua remotam",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
+      "published": "2026-08-17T21:03:04+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLiZpsYdSdkh6GE1rDDV3XVwWiGdjWBlx3B1irY9V5RtHt1cv7sQYPaa16y78EJdluo3FTMr5Wq0O2ZCWZjRMdrewgLrGJS3Ii_NLOQKQKN18PEGHhDiSyJtvf8TpdFrrIplaynGWNVmUxdAkyL7E8h_GtKfog8EE_TV25SySHFqbQgK3ChyphenhyphenKaKktnUic/s1600/gitlab.jpg"
+    },
+    {
+      "title": "'Guerra territorial' entre agentes Claude leva a malware auto-replicante",
+      "summary": "Três modelos de teste com o mesmo objetivo, mas diretivas diferentes, engajaram-se em ataques territoriais “cada vez mais agressivos” uns contra os outros, de acordo com a Anthropic.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware",
+      "published": "2026-08-17T20:26:34+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb353cb4eb8945ff6/6a1f007a2897886e9b11fcab/aiagents-Suchat_longthara-getty-2229177564.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Hacker reivindica 3,6 milhões de registros de contas do Azure roubados de grandes empresas",
+      "summary": "Um ator de ameaça está vendendo bancos de dados de funcionários supostamente roubados da infraestrutura do Microsoft Azure de várias empresas da Fortune 500 após obter acesso usando credenciais comprometidas. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
+      "published": "2026-08-17T19:35:01+00:00",
+      "image": ""
+    },
+    {
+      "title": "Adam Shostack fala sobre abraços e PHANTOM-B",
+      "summary": "O modelador de ameaças de classe mundial Adam Shostack compartilhou que ficou “impressionado” com as revelações da OpenAI sobre o ataque Hugging Face e explica por que seu novo modelo de ameaças para LLMs é “leve, mas ainda utilizável”.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b",
+      "published": "2026-08-17T19:22:56+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta4c77c772869411d/6a83561717bbfe3606553de5/Wright_and_Shostack_at_News_Desk.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "A violação de dados do Pokémon Center expõe informações do cliente e cancela alguns pedidos",
+      "summary": "O Pokémon Center está notificando os clientes no Reino Unido e na Alemanha que sofreu uma violação de dados de terceiros depois que hackers roubaram informações pessoais e de pedidos de clientes do provedor de logística terceirizado CEVA Logistics. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
+      "published": "2026-08-17T19:12:39+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falha de ações do Snowflake GitHub permite que problemas elaborados acionem injeção de comando",
+      "summary": "Pesquisadores de segurança cibernética da Wiz divulgaram uma nova vulnerabilidade de injeção de fluxo de trabalho do GitHub Actions no repositório público snowflakedb/snowflake-connector-net do Snowflake que, segundo ele, poderia ser explorada por meio de um p",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
+      "published": "2026-08-17T18:44:17+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJW5BJKjwNfnH2t8RrvgW0wUO3_ZJWnw30aS6GlU9qoaOWMQcyoZ9ZOZmTgLo7hWAqHlKDK2b4MrtF23Jv_1-1Ffd6bo6VlR8exLvIISBANwjHnW3dv7wLgCtyCIDlndpJ67TajeEpN-Ww9eVVutmS4fTpcDPJtlAk_ZU0GLtnkDvYLlqWPv75uMH7ob__/s1600/snowflake.jpg"
+    },
+    {
+      "title": "A falha do Forminator WordPress pode ativar RCE não autenticado por meio de uploads maliciosos de PHP",
+      "summary": "Uma falha crítica de segurança foi revelada no Forminator Forms, um plugin do WordPress com mais de 600.000 instalações ativas, que poderia ser explorado para obter execução arbitrária de código em sites suscetíveis. A vulnerabilidade, rastreada como CVE-2026-",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
+      "published": "2026-08-17T18:22:09+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Jfag1_E06odK7mkATjCOSPdD_fHy2kcYYHfi9fDNTsk0CRkV2yJD0Uz4MV82XjbMR5QNyK3Akw5Ysf0N7fDQ3DwApNb5Tf9R4axktScKF3UZlMVtrY3ulTzrYjFviMA8HmIUCBZhxmR59TtnJ7xf-B_iJtl3SWiBZAFbOfhUoldNdZX0sOStx6ULNMSZ/s1600/wordpress-flaw.jpg"
+    },
+    {
+      "title": "Cavern C2 usa DNS e script do Google Apps para se misturar ao tráfego legítimo",
+      "summary": "Pesquisadores de segurança cibernética traçaram a evolução contínua da estrutura de comando e controle (C2) Cavern (também conhecida como Cav3rn) usada por hackers do Estado-nação iraniano em ataques contra entidades em Israel. A empresa russa de segurança cib",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
+      "published": "2026-08-17T17:41:06+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu-MyaPNuRr2_NJ_TMqLf7OYW5AzCqgHpQ6HMfxlc-qsMzwSkfWlZDbHfecZ3IRp639FVDelhMZgpbnN87Fdchoh-g08R-cAiXxr7RvfdGy_ihvMxg152HK-rbOTIOnEueRTnPT-wU0eID3vplpIN1GBClvJC5e0egCGpDb_H0ykwH1x6a4zOvpW8V-Ssy/s1600/google.jpg"
+    },
     {
       "title": "Linux Botnet Evooo1Bot expande os recursos do Mirai muito além do DDoS",
       "summary": "A botnet adiciona módulos de exploração, roubo de credenciais e retransmissões SOCKS reversas para transformar dispositivos comprometidos em infraestrutura de invasores persistentes.",
@@ -38,11 +110,29 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgObgx3d_pR3qN3UrW69UfMgB-yM7RmfpKrQjvzqtAsNaQ3nVsIKNIiz5p0BsZCppmE4BWH9Wle92WombnIdCdT0BsHkv-_lDcEdIkYvsGrnch6OQHbAr3FUj-QjM8aDdKPNdnez6SXczT4sXNn8KX4QgmG6BiapFhq35I0cdZckWblyoaTVr7rjY5idp5V/s1600/cyber-recap.jpg"
     },
     {
+      "title": "⚡ Recapitulação semanal: explorações de VMware, Windows 0-Day, ataques MCP, sequestros de navegador e muito mais - The Hacker News",
+      "summary": "⚡ Recapitulação semanal: explorações de VMware, Windows 0-Day, ataques MCP, sequestros de navegador e muito mais The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbXVZdW5tR0FWUXFFSHNVS2hnZll1WFp6NERlT1BUQzE4MUpoMFVjV1IzSnpyU1hDa2lGM1ZxSmF0a1Y4dDhxQ19tNnN6X1dKNE8zZDdjNWNiaUhtOWpTbGtBNkZPVVMxTlZfUW42dW82aWM4WGdOUXlzNzFRbE9YbnlYYw?oc=5",
+      "published": "2026-08-17T13:23:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Detalhes irregulares de como um erro de nomenclatura permitiu que modelos de IA atacassem uma empresa real",
       "summary": "A empresa de testes de segurança de IA compartilhou informações sobre um incidente recentemente divulgado envolvendo modelos de IA antrópica. A postagem Detalhes irregulares de como um erro de nomenclatura permitiu que modelos de IA atacassem uma empresa real ",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/",
+      "published": "2026-08-17T12:11:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Detalhes irregulares de como um erro de nomenclatura permitiu que modelos de IA atacassem uma empresa real - SecurityWeek",
+      "summary": "Detalhes irregulares de como um erro de nomenclatura permitiu que modelos de IA atacassem uma empresa real SecurityWeek",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSVVvbnVVWk5Kd1NSN2JWNUFRcVA4TUxYX3JhdFhNWHRtQmtMSjJZWVhpUC1tY0o4VTFiZkpwRlBnYXFIcFJHRm4waEt0Q3NmdUIxaS1jemRwbDJwTXdyTDZzeHM2YkNCUUxhOXNnSU1qSEVlRnpYakdETnFxcGFzTFNCRjJPdkZKSC1GUDRfYjFZZ0tnYkRBOWVoZmFqeHl0eU92T9IBqgFBVV95cUxNVzFlODFpdnZ3LU9PQkdNaEVyZFdWdEpvblZmLVYzRlFUN3NlX0pJLXpLMDRKM2N2SDdxcHVIZFdfb2YwTXlNbjdkdEt5TGhPWklWMFdjMm1EQi14anFKbmFGOTdDZmlEWGpaRkFtalVmMV8xYmpBTHlWZkczNjR5ODNNUGJ4d3VDWlM3YWg5UFR6MEVmSXRZdF9ONFk0UzlDTFJYZ2trNnFJQQ?oc=5",
       "published": "2026-08-17T12:11:00+00:00",
       "image": ""
     },
@@ -71,96 +161,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/conflicting-test-goals-pushed-claude-agents-to-deploy-self-replicating-malware/",
       "published": "2026-08-17T11:09:57+00:00",
-      "image": ""
-    },
-    {
-      "title": "Cadeia de exploração de videochamada Unisoc VoLTE pode fornecer aos invasores acesso total ao kernel do Android",
-      "summary": "Pesquisadores de segurança da SSD Secure Disclosure publicaram uma cadeia de exploração em dois estágios que obtém acesso total ao kernel do Android em dispositivos que executam firmware de modem Unisoc por meio de uma chamada de vídeo VoLTE, sem nenhuma corre",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
-      "published": "2026-08-17T10:52:34+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIqVuTpKFLy55ilEFObjJqUsVDu7qTrQCYAFsh7bbMcF4xv61h8I6tfue0tGw04yWGhDg_cZ-r0v9Jw-kjNmm5ZYpbebrvlgixiqID5pSUwXb8dQSg12cI5kFkR4BKK0mwc6rMP-9ULTHob-bi7rgfYxGBixmNhGy75tlqn5tlc6OXjpGGZemXbq0yHRY/s1600/android.jpg"
-    },
-    {
-      "title": "A violação de dados da autoridade fiscal francesa afeta 678.000 indivíduos",
-      "summary": "O Ministério da Economia e Finanças francês divulgou uma violação de dados depois que um invasor acessou os sistemas da Direção Geral de Finanças Públicas (DGFiP) e roubou dados pertencentes a 678 mil pessoas. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
-      "published": "2026-08-17T10:09:48+00:00",
-      "image": ""
-    },
-    {
-      "title": "40.000 impactados pela violação de dados do SafePal",
-      "summary": "Os hackers exploraram uma vulnerabilidade na função de rastreamento de pedidos de um plugin para acessar informações de clientes do SafePal. A postagem 40.000 impactados pela violação de dados do SafePal apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/40000-impacted-by-safepal-data-breach/",
-      "published": "2026-08-17T09:37:06+00:00",
-      "image": ""
-    },
-    {
-      "title": "Evooo1Bot Linux Botnet explora falhas conhecidas para transformar dispositivos de borda em proxies SOCKS5",
-      "summary": "Pesquisadores de segurança cibernética sinalizaram uma família de botnets Linux anteriormente não documentada, chamada Evooo1Bot, que deriva sua funcionalidade principal do código-fonte do botnet Mirai e está equipada para transformar dispositivos voltados par",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
-      "published": "2026-08-17T09:29:55+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIDrkyaW1magTuvTfLfkhtk_8stt1zYUxgonTZX1yaI_OGxsGMV9wCRE8bglbRubclVma7bkghEbmah6ku4T2ZVnpSngl6k5Cw0iCXgNNpuy6I2ZNPQOYYIfqKNgcVQxkqZdgvFLLM82bK1By0hrAm4i9slLnFQwQmwLmpR8I9eb8Paze2sf2UJMlol81Q/s1600/linux-botnet.jpg"
-    },
-    {
-      "title": "Microsoft trabalhando no patch Defender para ShieldBreak zero-day",
-      "summary": "A Microsoft está trabalhando em um patch de segurança para a vulnerabilidade de dia zero “ShieldBreak” divulgada na semana passada pelo pesquisador de segurança “Nightmare Eclipse” e agora rastreada como CVE-2026-69414. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
-      "published": "2026-08-17T09:05:33+00:00",
-      "image": ""
-    },
-    {
-      "title": "Vulnerabilidade recente de compartilhamento de tela do macOS explorada em ataques",
-      "summary": "Os atores da ameaça obtiveram acesso root aos sistemas vulneráveis ​​e implantaram um minerador Monero. A postagem Vulnerabilidade recente de compartilhamento de tela do macOS explorada em ataques apareceu pela primeira vez em SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/recent-macos-screen-sharing-vulnerability-exploited-in-attacks/",
-      "published": "2026-08-17T08:47:38+00:00",
-      "image": ""
-    },
-    {
-      "title": "Vulnerabilidade crítica do SAP Commerce Cloud explorada 3 dias após a divulgação",
-      "summary": "A vulnerabilidade rastreada como CVE-2026-58231 pode ser explorada para executar código arbitrário e comprometer componentes internos. A postagem Vulnerabilidade crítica do SAP Commerce Cloud explorada 3 dias após a divulgação apareceu pela primeira vez na Sec",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/",
-      "published": "2026-08-17T08:13:07+00:00",
-      "image": ""
-    },
-    {
-      "title": "Suspeito de ator China-Nexus explora falha do VMware vCenter e implanta ransomware derivado de Babuk",
-      "summary": "Pesquisadores de segurança cibernética atribuíram a exploração de uma falha de segurança recém-corrigida no Broadcom VMware vCenter a uma suspeita de ameaça persistente avançada (APT) no nexo da China. Os ataques envolvem a exploração de CVE-2026-59310 (pontua",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
-      "published": "2026-08-17T07:36:19+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN5GzIjo1DOb9leWRsG7hi5zemNCi6kb_NBf-391nF9pphXhTgf8DZLMlk-fUyp-j4rT_cFv4coBpP821rfQkUc4ydAu5YQBcn9Y6nj-SeQGDNu10DmSN2JYDmWJTzLUSXsvDYPTBQ_cQkkCFAIkdMCyRgRv5YIPdMgkp62BtqaYE49b3aWnm4QbYM7YeK/s1600/vmware.jpg"
-    },
-    {
-      "title": "Empresas da Fortune 500 atingidas em campanha de roubo de dados do Azure",
-      "summary": "Um ator de ameaça alega a exfiltração de milhões de registros do McDonald’s, TCS, Vodafone e outras grandes organizações. A postagem Empresas da Fortune 500 atingidas na campanha de roubo de dados do Azure apareceu pela primeira vez na SecurityWeek.",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/",
-      "published": "2026-08-17T06:51:08+00:00",
-      "image": ""
-    },
-    {
-      "title": "A violação de dados do SafePal afeta 39.798 clientes, informações roubadas para venda",
-      "summary": "O provedor de carteira de hardware de criptomoeda SafePal está alertando sobre uma violação de dados que afetou cerca de 39.798 clientes depois que uma falha foi explorada para roubar informações de pedidos de clientes, e um agente de ameaça agora afirma estar",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
-      "published": "2026-08-16T23:47:06+00:00",
       "image": ""
     }
   ]
