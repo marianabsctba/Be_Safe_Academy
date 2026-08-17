@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-08-17T07:26:32.738188+00:00",
+  "updated_at": "2026-08-17T10:00:50.382905+00:00",
   "items": [
+    {
+      "title": "40.000 impactados pela violação de dados do SafePal",
+      "summary": "Os hackers exploraram uma vulnerabilidade na função de rastreamento de pedidos de um plugin para acessar informações de clientes do SafePal. A postagem 40.000 impactados pela violação de dados do SafePal apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/40000-impacted-by-safepal-data-breach/",
+      "published": "2026-08-17T09:37:06+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft trabalhando no patch Defender para ShieldBreak zero-day",
+      "summary": "A Microsoft está trabalhando em um patch de segurança para a vulnerabilidade de dia zero “ShieldBreak” divulgada na semana passada pelo pesquisador de segurança “Nightmare Eclipse” e agora rastreada como CVE-2026-69414. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
+      "published": "2026-08-17T09:05:33+00:00",
+      "image": ""
+    },
+    {
+      "title": "Vulnerabilidade recente de compartilhamento de tela do macOS explorada em ataques",
+      "summary": "Os atores da ameaça obtiveram acesso root aos sistemas vulneráveis ​​e implantaram um minerador Monero. A postagem Vulnerabilidade recente de compartilhamento de tela do macOS explorada em ataques apareceu pela primeira vez em SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/recent-macos-screen-sharing-vulnerability-exploited-in-attacks/",
+      "published": "2026-08-17T08:47:38+00:00",
+      "image": ""
+    },
+    {
+      "title": "Vulnerabilidade crítica do SAP Commerce Cloud explorada 3 dias após a divulgação",
+      "summary": "A vulnerabilidade rastreada como CVE-2026-58231 pode ser explorada para executar código arbitrário e comprometer componentes internos. A postagem Vulnerabilidade crítica do SAP Commerce Cloud explorada 3 dias após a divulgação apareceu pela primeira vez na Sec",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/",
+      "published": "2026-08-17T08:13:07+00:00",
+      "image": ""
+    },
+    {
+      "title": "Suspeito de ator China-Nexus explora falha do VMware vCenter e implanta ransomware derivado de Babuk - The Hacker News",
+      "summary": "Suspeito de ator China-Nexus explora falha do VMware vCenter e implanta ransomware derivado de Babuk The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZl9qMlFBVWUzTUFFOGRzVUFuYVBNTnBIY242MWI3VWJQbWFCUGZxZXdKRFhzRXctREZiSE16VlNyLWdJY05fdW5tVmF2MUdUc1BkeDRROERxU1plZnhDSzVwbzZ4QjdGaHRXRWZFaVZiclBJMWNWeUJscV90M1NXWA?oc=5",
+      "published": "2026-08-17T07:36:00+00:00",
+      "image": ""
+    },
     {
       "title": "Empresas da Fortune 500 atingidas em campanha de roubo de dados do Azure",
       "summary": "Um ator de ameaça alega a exfiltração de milhões de registros do McDonald’s, TCS, Vodafone e outras grandes organizações. A postagem Empresas da Fortune 500 atingidas na campanha de roubo de dados do Azure apareceu pela primeira vez na SecurityWeek.",
@@ -56,15 +101,6 @@
       "image": ""
     },
     {
-      "title": "Segurança orientada para missões: por dentro da defesa de um banco global",
-      "summary": "Nesta entrevista em vídeo, o CISO do grupo Standard Chartered compartilha insights sobre a transição de funções técnicas para liderança estratégica, a importância de executivos de segurança com experiência em negócios e como a IA está remodelando tanto as capa",
-      "category": "CLOUD & IA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense",
-      "published": "2026-08-14T19:24:18+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaf878ea5b4a138a7/6a7f5e48b01ed02ddabd5447/standardchartered1800_winhorse_GettyImages-1344776566.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "Hackers prenderam mais de € 30 milhões em fraude bancária explorando falha de provedor de serviços",
       "summary": "Quatro cibercriminosos foram presos no Brasil e outros três foram acusados ​​na Europa por alegações de que exploraram uma vulnerabilidade num prestador de serviços, permitindo-lhes levantar fundos de contas bancárias de clientes do Commerzbank. [...]",
       "category": "VULNERABILIDADES",
@@ -72,24 +108,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
       "published": "2026-08-14T18:04:26+00:00",
       "image": ""
-    },
-    {
-      "title": "Em meio ao tsunami de caça a insetos impulsionado por IA, o NIST espera… IA",
-      "summary": "Impulsionados pela pesquisa e digitalização aumentadas pela IA, os volumes de vulnerabilidades continuam a aumentar, levando o Instituto Nacional de Padrões e Tecnologia a perguntar se a IA poderia ser a resposta.",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai",
-      "published": "2026-08-14T17:32:46+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf82784f3cda996ab/6a7f597749a6b3967594a791/tsunami-John_Lund-Getty-114571378.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Governo escocês sofre violação de dados potencialmente ampliada no Ministério Público",
-      "summary": "Uma agência governamental da Caledônia relatou uma violação, graças a um terceiro que também pode ter prestado serviços a outras agências.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office",
-      "published": "2026-08-14T15:58:50+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt82eda035ca3e22ea/6a7f3bb6faf5c1cbf257cd7b/Edinburgh-StephenBridger-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Hackers exploram falha de compartilhamento de tela do macOS para implantar minerador Monero",
@@ -119,15 +137,6 @@
       "image": ""
     },
     {
-      "title": "A compra do Oasis Security da Cyera tem tudo a ver com controle de agente de IA",
-      "summary": "O acordo de US$ 1 bilhão visa convergir a segurança e a identidade dos dados em um único plano de controle para agentes, com acesso privilegiado redefinido em torno do contexto de negócios, em vez de funções estáticas.",
-      "category": "CLOUD & IA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control",
-      "published": "2026-08-14T12:17:21+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta34684778cb8b0db/682deb002835ee067393fc41/Mergers_M&A_(1800)_pichetw_Alamy.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "Em outras notícias: Demissões Rapid7, hackeamento de um Boeing 737, vulnerabilidades no sistema de refrigeração",
       "summary": "Histórias dignas de nota que podem ter passado despercebidas: acordo de plataforma de IA do governo provoca indignação, funcionário de TI norte-coreano viola agência federal, participante da DEF CON é responsabilizado pela interrupção do voo da Delta. A postag",
       "category": "INCIDENTES",
@@ -152,15 +161,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/",
       "published": "2026-08-14T11:35:23+00:00",
-      "image": ""
-    },
-    {
-      "title": "Google Cloud estabelece roteiro pós-quântico com meta de preparação para 2029",
-      "summary": "O Google Cloud descreve seu roteiro para a prontidão total da criptografia pós-quântica, com marcos importantes direcionados para 2027 e 2028. A postagem Google Cloud estabelece um roteiro pós-quântico com meta de prontidão para 2029 apareceu pela primeira vez",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/",
-      "published": "2026-08-14T11:00:00+00:00",
       "image": ""
     }
   ]
