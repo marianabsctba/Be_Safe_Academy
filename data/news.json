@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-08-17T15:43:52.605083+00:00",
+  "updated_at": "2026-08-17T19:02:03.461408+00:00",
   "items": [
+    {
+      "title": "Linux Botnet Evooo1Bot expande os recursos do Mirai muito além do DDoS",
+      "summary": "A botnet adiciona módulos de exploração, roubo de credenciais e retransmissões SOCKS reversas para transformar dispositivos comprometidos em infraestrutura de invasores persistentes.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos",
+      "published": "2026-08-17T15:44:34+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt998467101da3f975/6a82f98ac19d9402c559c55d/robot-army-laurent-davoust-alamy.jpg?width=720&quality=80&disable=upscale"
+    },
     {
       "title": "Certighost e o privilégio oculto em sua autoridade de certificação",
       "summary": "CVE-2026-54121 permite que um usuário de domínio padrão transforme sua CA corporativa em um controlador de domínio. O patch é a parte fácil. A lição é ter privilégio, confiança implícita e tratar a PKI como a infraestrutura de identidade de nível 0 que sempre ",
@@ -74,15 +83,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIqVuTpKFLy55ilEFObjJqUsVDu7qTrQCYAFsh7bbMcF4xv61h8I6tfue0tGw04yWGhDg_cZ-r0v9Jw-kjNmm5ZYpbebrvlgixiqID5pSUwXb8dQSg12cI5kFkR4BKK0mwc6rMP-9ULTHob-bi7rgfYxGBixmNhGy75tlqn5tlc6OXjpGGZemXbq0yHRY/s1600/android.jpg"
     },
     {
-      "title": "Cadeia de exploração de videochamada Unisoc VoLTE pode fornecer aos invasores acesso total ao kernel do Android - The Hacker News",
-      "summary": "Cadeia de exploração de videochamada Unisoc VoLTE pode fornecer aos invasores acesso completo ao kernel do Android The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZmowZVl6SVRKdklOb1dYclFRZFpITHhZRFNpLTFmaER4Nmx2a0w1dEhHMEZWS05pN3FHNFd2YzZXZDJ4ckFjWlIxaktCekpCZWxma3lJUV9XdF9wbjlxQ3NQSDYwZVFWNHcxSmdMOFM3LTVWODl6WnhaY3VBRkgtUHVR?oc=5",
-      "published": "2026-08-17T10:52:00+00:00",
-      "image": ""
-    },
-    {
       "title": "A violação de dados da autoridade fiscal francesa afeta 678.000 indivíduos",
       "summary": "O Ministério da Economia e Finanças francês divulgou uma violação de dados depois que um invasor acessou os sistemas da Direção Geral de Finanças Públicas (DGFiP) e roubou dados pertencentes a 678 mil pessoas. [...]",
       "category": "INCIDENTES",
@@ -108,15 +108,6 @@
       "url": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
       "published": "2026-08-17T09:29:55+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIDrkyaW1magTuvTfLfkhtk_8stt1zYUxgonTZX1yaI_OGxsGMV9wCRE8bglbRubclVma7bkghEbmah6ku4T2ZVnpSngl6k5Cw0iCXgNNpuy6I2ZNPQOYYIfqKNgcVQxkqZdgvFLLM82bK1By0hrAm4i9slLnFQwQmwLmpR8I9eb8Paze2sf2UJMlol81Q/s1600/linux-botnet.jpg"
-    },
-    {
-      "title": "Evooo1Bot Linux Botnet explora falhas conhecidas para transformar dispositivos Edge em proxies SOCKS5 - The Hacker News",
-      "summary": "Evooo1Bot Linux Botnet explora falhas conhecidas para transformar dispositivos Edge em proxies SOCKS5 The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOckdkSmtoNGEyUDk2LVI1UThPYXQxWGp1T0tmNEhEdHpQYmpWMUNaRHhfdDNXeC1pdmE0ajJiTGoxbHpOUU03QUJqaXVIU0FuZEp4US1fSWR6RTZCcGRJeFhMSzFMYzk4TGJYNld4LUZmSzg3c1NCdkxFajN3eDBTa0NB?oc=5",
-      "published": "2026-08-17T09:29:00+00:00",
-      "image": ""
     },
     {
       "title": "Microsoft trabalhando no patch Defender para ShieldBreak zero-day",
@@ -146,15 +137,6 @@
       "image": ""
     },
     {
-      "title": "Vulnerabilidade crítica do SAP Commerce Cloud explorada 3 dias após divulgação - SecurityWeek",
-      "summary": "Vulnerabilidade crítica do SAP Commerce Cloud explorada 3 dias após a divulgação SecurityWeek",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaUpZUm5LdmZwRXBSSXJFV0x0X2tBTkp0SlpmWG5OLU4waGRDWXhaeE9ienZzT0JMdlhHUVBZTlpTTmp6YWlsNHRqNUpTNTNUa1FHSU5ZekhmbE5HbWVPN3VPZ0JJZ092MXVpMVpCcURDQnNDOHRYTEtUb3c1TFFEbTNWQjZRcW5MUUk1bXREQmx1MDVLc25WRlFHTGp0elZMcENuWHJTTTjSAa4BQVVfeXFMTzFMbmJlc3F0VUhrX3dRaERTSTlNNmFGSFpvc0gzdUNkRVFIQVJxR09tbDJkRnVxa3lKdm5MRVdfU3hxcHczYnNaSEZ3VkNwVFlXdURNdWJ3NFV2dUkwYkZXaExreGNBRnNmblZRMGhZYlZ3QUdiYWN4a2pCbWE0SXl0cVk3dTEweGxlcGkwTnItM2wxRHlNVnFNQUZWZFoxakR1al9uaGpUYlFRV3B3?oc=5",
-      "published": "2026-08-17T08:13:07+00:00",
-      "image": ""
-    },
-    {
       "title": "Suspeito de ator China-Nexus explora falha do VMware vCenter e implanta ransomware derivado de Babuk",
       "summary": "Pesquisadores de segurança cibernética atribuíram a exploração de uma falha de segurança recém-corrigida no Broadcom VMware vCenter a uma suspeita de ameaça persistente avançada (APT) no nexo da China. Os ataques envolvem a exploração de CVE-2026-59310 (pontua",
       "category": "VULNERABILIDADES",
@@ -162,6 +144,24 @@
       "url": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
       "published": "2026-08-17T07:36:19+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN5GzIjo1DOb9leWRsG7hi5zemNCi6kb_NBf-391nF9pphXhTgf8DZLMlk-fUyp-j4rT_cFv4coBpP821rfQkUc4ydAu5YQBcn9Y6nj-SeQGDNu10DmSN2JYDmWJTzLUSXsvDYPTBQ_cQkkCFAIkdMCyRgRv5YIPdMgkp62BtqaYE49b3aWnm4QbYM7YeK/s1600/vmware.jpg"
+    },
+    {
+      "title": "Empresas da Fortune 500 atingidas em campanha de roubo de dados do Azure",
+      "summary": "Um ator de ameaça alega a exfiltração de milhões de registros do McDonald’s, TCS, Vodafone e outras grandes organizações. A postagem Empresas da Fortune 500 atingidas na campanha de roubo de dados do Azure apareceu pela primeira vez na SecurityWeek.",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/",
+      "published": "2026-08-17T06:51:08+00:00",
+      "image": ""
+    },
+    {
+      "title": "A violação de dados do SafePal afeta 39.798 clientes, informações roubadas para venda",
+      "summary": "O provedor de carteira de hardware de criptomoeda SafePal está alertando sobre uma violação de dados que afetou cerca de 39.798 clientes depois que uma falha foi explorada para roubar informações de pedidos de clientes, e um agente de ameaça agora afirma estar",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
+      "published": "2026-08-16T23:47:06+00:00",
+      "image": ""
     }
   ]
 }
