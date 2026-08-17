@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T01:57:40.765960+00:00",
+  "updated_at": "2026-08-17T04:06:27.863119+00:00",
   "items": [
     {
       "title": "A violação de dados do SafePal afeta 39.798 clientes, informações roubadas para venda",
@@ -35,15 +35,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
       "published": "2026-08-15T14:14:38+00:00",
-      "image": ""
-    },
-    {
-      "title": "SAP Commerce Cloud CVE-2026-58231 é alvo de tentativas de exploração dias após o patch - The Hacker News",
-      "summary": "SAP Commerce Cloud CVE-2026-58231 alvo de tentativas de exploração dias após patch The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWUHowWVFLQWdHY2VIa3RESDIxZmM1ZS04VkJkOXROanNMTUJiWkg0R2RZQkM3emdhaThxWVlDbVV3NVpZMmowdi1JblZMYWhxSV92SlFNcE5TUkpwbVZ1aWR0dXJKZWxGbGxnNENkbTBzN2VVVVhmMU9XSHI?oc=5",
-      "published": "2026-08-15T08:38:00+00:00",
       "image": ""
     },
     {
@@ -110,15 +101,6 @@
       "image": ""
     },
     {
-      "title": "Mustang Panda adiciona rootkit assinado do Windows ao CoolClient Backdoor for Stealth - The Hacker News",
-      "summary": "Mustang Panda adiciona rootkit assinado do Windows ao CoolClient Backdoor para Stealth The Hacker News",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2WGhXWEFXTmpJZjJybVpoa0Y5UEIyLVN0cDQ4Q3ppaHFDRmZUV2tGM2dYeHZxVXVUOVlVZjllWWVCTzRyY1diUEZGNGo3X1duZEtwVVdtdTJYV0ZGM1RCX3JUOVRIM1N4ZVpSVnk5YjBab3hodTdoaEJhRmg?oc=5",
-      "published": "2026-08-14T13:08:00+00:00",
-      "image": ""
-    },
-    {
       "title": "A compra do Oasis Security da Cyera tem tudo a ver com controle de agente de IA",
       "summary": "O acordo de US$ 1 bilhão visa convergir a segurança e a identidade dos dados em um único plano de controle para agentes, com acesso privilegiado redefinido em torno do contexto de negócios, em vez de funções estáticas.",
       "category": "CLOUD & IA",
@@ -161,6 +143,24 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/",
       "published": "2026-08-14T11:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "A violação de dados do RingCentral expôs informações de 1,6 milhão de contas",
+      "summary": "O grupo de extorsão ShinyHunters roubou informações pessoais de 1,6 milhão de contas RingCentral após hackear a empresa em julho, de acordo com o serviço de notificação de violação de dados Have I Been Pwned. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
+      "published": "2026-08-14T10:52:05+00:00",
+      "image": ""
+    },
+    {
+      "title": "1,6 milhão provavelmente afetados pela violação de dados do RingCentral",
+      "summary": "Os hackers publicaram as informações supostamente roubadas, incluindo nomes, endereços, endereços de e-mail e números de telefone. A postagem 1,6 milhão de prováveis ​​​​impactados pela violação de dados do RingCentral apareceu pela primeira vez na SecurityWee",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/",
+      "published": "2026-08-14T10:24:03+00:00",
       "image": ""
     }
   ]
