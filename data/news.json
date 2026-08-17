@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-08-17T04:06:27.863119+00:00",
+  "updated_at": "2026-08-17T07:26:32.738188+00:00",
   "items": [
+    {
+      "title": "Empresas da Fortune 500 atingidas em campanha de roubo de dados do Azure",
+      "summary": "Um ator de ameaça alega a exfiltração de milhões de registros do McDonald’s, TCS, Vodafone e outras grandes organizações. A postagem Empresas da Fortune 500 atingidas na campanha de roubo de dados do Azure apareceu pela primeira vez na SecurityWeek.",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/",
+      "published": "2026-08-17T06:51:08+00:00",
+      "image": ""
+    },
     {
       "title": "A violação de dados do SafePal afeta 39.798 clientes, informações roubadas para venda",
       "summary": "O provedor de carteira de hardware de criptomoeda SafePal está alertando sobre uma violação de dados que afetou cerca de 39.798 clientes depois que uma falha foi explorada para roubar informações de pedidos de clientes, e um agente de ameaça agora afirma estar",
@@ -38,6 +47,15 @@
       "image": ""
     },
     {
+      "title": "SAP Commerce Cloud CVE-2026-58231 é alvo de tentativas de exploração dias após o patch - The Hacker News",
+      "summary": "SAP Commerce Cloud CVE-2026-58231 alvo de tentativas de exploração dias após patch The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWUHowWVFLQWdHY2VIa3RESDIxZmM1ZS04VkJkOXROanNMTUJiWkg0R2RZQkM3emdhaThxWVlDbVV3NVpZMmowdi1JblZMYWhxSV92SlFNcE5TUkpwbVZ1aWR0dXJKZWxGbGxnNENkbTBzN2VVVVhmMU9XSHI?oc=5",
+      "published": "2026-08-15T08:38:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Segurança orientada para missões: por dentro da defesa de um banco global",
       "summary": "Nesta entrevista em vídeo, o CISO do grupo Standard Chartered compartilha insights sobre a transição de funções técnicas para liderança estratégica, a importância de executivos de segurança com experiência em negócios e como a IA está remodelando tanto as capa",
       "category": "CLOUD & IA",
@@ -57,7 +75,7 @@
     },
     {
       "title": "Em meio ao tsunami de caça a insetos impulsionado por IA, o NIST espera… IA",
-      "summary": "Impulsionados pela investigação e digitalização aumentadas pela IA, os volumes de vulnerabilidade continuam a aumentar, levando o Instituto Nacional de Padrões e Tecnologia a perguntar se a IA poderia ser a resposta.",
+      "summary": "Impulsionados pela pesquisa e digitalização aumentadas pela IA, os volumes de vulnerabilidades continuam a aumentar, levando o Instituto Nacional de Padrões e Tecnologia a perguntar se a IA poderia ser a resposta.",
       "category": "VULNERABILIDADES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai",
@@ -143,24 +161,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/",
       "published": "2026-08-14T11:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "A violação de dados do RingCentral expôs informações de 1,6 milhão de contas",
-      "summary": "O grupo de extorsão ShinyHunters roubou informações pessoais de 1,6 milhão de contas RingCentral após hackear a empresa em julho, de acordo com o serviço de notificação de violação de dados Have I Been Pwned. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
-      "published": "2026-08-14T10:52:05+00:00",
-      "image": ""
-    },
-    {
-      "title": "1,6 milhão provavelmente afetados pela violação de dados do RingCentral",
-      "summary": "Os hackers publicaram as informações supostamente roubadas, incluindo nomes, endereços, endereços de e-mail e números de telefone. A postagem 1,6 milhão de prováveis ​​​​impactados pela violação de dados do RingCentral apareceu pela primeira vez na SecurityWee",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/",
-      "published": "2026-08-14T10:24:03+00:00",
       "image": ""
     }
   ]
