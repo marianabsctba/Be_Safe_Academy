@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-08-16T21:37:49.084208+00:00",
+  "updated_at": "2026-08-17T01:57:40.765960+00:00",
   "items": [
+    {
+      "title": "A violação de dados do SafePal afeta 39.798 clientes, informações roubadas para venda",
+      "summary": "O provedor de carteira de hardware de criptomoeda SafePal está alertando sobre uma violação de dados que afetou cerca de 39.798 clientes depois que uma falha foi explorada para roubar informações de pedidos de clientes, e um agente de ameaça agora afirma estar",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
+      "published": "2026-08-16T23:47:06+00:00",
+      "image": ""
+    },
     {
       "title": "Ataques DDoS em grande escala interromperam o serviço de mensagens seguras Threema",
       "summary": "Vários ataques distribuídos de negação de serviço (DDoS) tiveram como alvo o serviço de mensagens seguras Threema no início desta semana, causando graves interrupções nas comunicações. [...]",
@@ -152,15 +161,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/",
       "published": "2026-08-14T11:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "A violação de dados do RingCentral expôs informações de 1,6 milhão de contas",
-      "summary": "O grupo de extorsão ShinyHunters roubou informações pessoais de 1,6 milhão de contas RingCentral após hackear a empresa em julho, de acordo com o serviço de notificação de violação de dados Have I Been Pwned. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
-      "published": "2026-08-14T10:52:05+00:00",
       "image": ""
     }
   ]
