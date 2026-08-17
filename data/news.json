@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-08-17T10:00:50.382905+00:00",
+  "updated_at": "2026-08-17T13:10:44.572564+00:00",
   "items": [
+    {
+      "title": "Detalhes irregulares de como um erro de nomenclatura permitiu que modelos de IA atacassem uma empresa real",
+      "summary": "A empresa de testes de segurança de IA compartilhou informações sobre um incidente recentemente divulgado envolvendo modelos de IA antrópica. A postagem Detalhes irregulares de como um erro de nomenclatura permitiu que modelos de IA atacassem uma empresa real ",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/",
+      "published": "2026-08-17T12:11:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Como os servidores MCP podem expor segredos empresariais",
+      "summary": "Os servidores MCP podem expor segredos corporativos por meio de arquivos de configuração de texto simples, acesso com permissão excessiva e injeção imediata, muitas vezes antes mesmo que as equipes de segurança saibam que o servidor está em execução. À medida ",
+      "category": "CLOUD & IA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
+      "published": "2026-08-17T11:58:00+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmy_mE0_W-wEeuppBUYhS19P_uTo6RifgrGEV5eLim_B6KkhI_BO5wSL930qS_NCD6aR7nL5mAizU4RAfinzkWhz-oq1wCnHszL6C25H0Sj_MahJIBsr7lw_wzJ7xZ4YF7-GVJJO0L1wxe8LQXv3rHuLV3vbuDUEQ9D7vXa6D4zK6ARD1aFmiQv4fka5Y/s1600/keeper.png"
+    },
+    {
+      "title": "Philips e GE investigam alegações de roubo de dados do ransomware Clop",
+      "summary": "As gigantes da tecnologia General Electric (GE) e Philips também confirmaram que estão investigando alegações de que a gangue de ransomware Clop violou seus sistemas e roubou dados. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
+      "published": "2026-08-17T11:25:02+00:00",
+      "image": ""
+    },
+    {
+      "title": "Objetivos de teste conflitantes levaram os agentes Claude a implantar malware autorreplicante",
+      "summary": "A Anthropic tem conduzido testes para identificar problemas na forma como os agentes de IA interagem entre si. A postagem Metas de teste conflitantes forçaram os agentes Claude a implantar malware autorreplicante apareceu pela primeira vez na SecurityWeek.",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/conflicting-test-goals-pushed-claude-agents-to-deploy-self-replicating-malware/",
+      "published": "2026-08-17T11:09:57+00:00",
+      "image": ""
+    },
+    {
+      "title": "Cadeia de exploração de videochamada Unisoc VoLTE pode fornecer aos invasores acesso total ao kernel do Android",
+      "summary": "Pesquisadores de segurança da SSD Secure Disclosure publicaram uma cadeia de exploração em dois estágios que obtém acesso total ao kernel do Android em dispositivos que executam firmware de modem Unisoc por meio de uma chamada de vídeo VoLTE, sem nenhuma corre",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
+      "published": "2026-08-17T10:52:34+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIqVuTpKFLy55ilEFObjJqUsVDu7qTrQCYAFsh7bbMcF4xv61h8I6tfue0tGw04yWGhDg_cZ-r0v9Jw-kjNmm5ZYpbebrvlgixiqID5pSUwXb8dQSg12cI5kFkR4BKK0mwc6rMP-9ULTHob-bi7rgfYxGBixmNhGy75tlqn5tlc6OXjpGGZemXbq0yHRY/s1600/android.jpg"
+    },
+    {
+      "title": "A violação de dados da autoridade fiscal francesa afeta 678.000 indivíduos",
+      "summary": "O Ministério da Economia e Finanças francês divulgou uma violação de dados depois que um invasor acessou os sistemas da Direção Geral de Finanças Públicas (DGFiP) e roubou dados pertencentes a 678 mil pessoas. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
+      "published": "2026-08-17T10:09:48+00:00",
+      "image": ""
+    },
     {
       "title": "40.000 impactados pela violação de dados do SafePal",
       "summary": "Os hackers exploraram uma vulnerabilidade na função de rastreamento de pedidos de um plugin para acessar informações de clientes do SafePal. A postagem 40.000 impactados pela violação de dados do SafePal apareceu pela primeira vez na SecurityWeek.",
@@ -8,6 +62,24 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/40000-impacted-by-safepal-data-breach/",
       "published": "2026-08-17T09:37:06+00:00",
+      "image": ""
+    },
+    {
+      "title": "Evooo1Bot Linux Botnet explora falhas conhecidas para transformar dispositivos de borda em proxies SOCKS5",
+      "summary": "Pesquisadores de segurança cibernética sinalizaram uma família de botnets Linux anteriormente não documentada, chamada Evooo1Bot, que deriva sua funcionalidade principal do código-fonte do botnet Mirai e está equipada para transformar dispositivos voltados par",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
+      "published": "2026-08-17T09:29:55+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIDrkyaW1magTuvTfLfkhtk_8stt1zYUxgonTZX1yaI_OGxsGMV9wCRE8bglbRubclVma7bkghEbmah6ku4T2ZVnpSngl6k5Cw0iCXgNNpuy6I2ZNPQOYYIfqKNgcVQxkqZdgvFLLM82bK1By0hrAm4i9slLnFQwQmwLmpR8I9eb8Paze2sf2UJMlol81Q/s1600/linux-botnet.jpg"
+    },
+    {
+      "title": "Evooo1Bot Linux Botnet explora falhas conhecidas para transformar dispositivos de borda em proxies SOCKS5 - thehackernews.com",
+      "summary": "Evooo1Bot Linux Botnet explora falhas conhecidas para transformar dispositivos de borda em proxies SOCKS5 thehackernews.com",
+      "category": "VULNERABILIDADES",
+      "source": "thehackernews.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOckdkSmtoNGEyUDk2LVI1UThPYXQxWGp1T0tmNEhEdHpQYmpWMUNaRHhfdDNXeC1pdmE0ajJiTGoxbHpOUU03QUJqaXVIU0FuZEp4US1fSWR6RTZCcGRJeFhMSzFMYzk4TGJYNld4LUZmSzg3c1NCdkxFajN3eDBTa0NB?oc=5",
+      "published": "2026-08-17T09:29:00+00:00",
       "image": ""
     },
     {
@@ -38,10 +110,19 @@
       "image": ""
     },
     {
-      "title": "Suspeito de ator China-Nexus explora falha do VMware vCenter e implanta ransomware derivado de Babuk - The Hacker News",
-      "summary": "Suspeito de ator China-Nexus explora falha do VMware vCenter e implanta ransomware derivado de Babuk The Hacker News",
+      "title": "Suspeito de ator China-Nexus explora falha do VMware vCenter e implanta ransomware derivado de Babuk",
+      "summary": "Pesquisadores de segurança cibernética atribuíram a exploração de uma falha de segurança recém-corrigida no Broadcom VMware vCenter a uma suspeita de ameaça persistente avançada (APT) no nexo da China. Os ataques envolvem a exploração de CVE-2026-59310 (pontua",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
+      "published": "2026-08-17T07:36:19+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN5GzIjo1DOb9leWRsG7hi5zemNCi6kb_NBf-391nF9pphXhTgf8DZLMlk-fUyp-j4rT_cFv4coBpP821rfQkUc4ydAu5YQBcn9Y6nj-SeQGDNu10DmSN2JYDmWJTzLUSXsvDYPTBQ_cQkkCFAIkdMCyRgRv5YIPdMgkp62BtqaYE49b3aWnm4QbYM7YeK/s1600/vmware.jpg"
+    },
+    {
+      "title": "Suspeito de ator China-Nexus explora falha do VMware vCenter e implanta ransomware derivado de Babuk - thehackernews.com",
+      "summary": "Suspeito de ator China-Nexus explora falha do VMware vCenter e implanta ransomware derivado de Babuk thehackernews.com",
+      "category": "VULNERABILIDADES",
+      "source": "thehackernews.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZl9qMlFBVWUzTUFFOGRzVUFuYVBNTnBIY242MWI3VWJQbWFCUGZxZXdKRFhzRXctREZiSE16VlNyLWdJY05fdW5tVmF2MUdUc1BkeDRROERxU1plZnhDSzVwbzZ4QjdGaHRXRWZFaVZiclBJMWNWeUJscV90M1NXWA?oc=5",
       "published": "2026-08-17T07:36:00+00:00",
       "image": ""
@@ -80,87 +161,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
       "published": "2026-08-16T15:07:44+00:00",
-      "image": ""
-    },
-    {
-      "title": "Novo botnet Evooo1Bot Linux transforma roteadores em nós de retransmissão de tráfego",
-      "summary": "Um novo malware de botnet Linux modular baseado em Mirai, chamado Evooo1Bot, tem como alvo dispositivos de gateway voltados para a Internet, transformando-os em nós de retransmissão de tráfego SOCKS5. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
-      "published": "2026-08-15T14:14:38+00:00",
-      "image": ""
-    },
-    {
-      "title": "SAP Commerce Cloud CVE-2026-58231 é alvo de tentativas de exploração dias após o patch - The Hacker News",
-      "summary": "SAP Commerce Cloud CVE-2026-58231 alvo de tentativas de exploração dias após patch The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWUHowWVFLQWdHY2VIa3RESDIxZmM1ZS04VkJkOXROanNMTUJiWkg0R2RZQkM3emdhaThxWVlDbVV3NVpZMmowdi1JblZMYWhxSV92SlFNcE5TUkpwbVZ1aWR0dXJKZWxGbGxnNENkbTBzN2VVVVhmMU9XSHI?oc=5",
-      "published": "2026-08-15T08:38:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers prenderam mais de € 30 milhões em fraude bancária explorando falha de provedor de serviços",
-      "summary": "Quatro cibercriminosos foram presos no Brasil e outros três foram acusados ​​na Europa por alegações de que exploraram uma vulnerabilidade num prestador de serviços, permitindo-lhes levantar fundos de contas bancárias de clientes do Commerzbank. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
-      "published": "2026-08-14T18:04:26+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers exploram falha de compartilhamento de tela do macOS para implantar minerador Monero",
-      "summary": "O Centro Nacional de Segurança Cibernética (NCSC) da Holanda está alertando que os hackers estão explorando ativamente uma vulnerabilidade de desvio de autenticação do macOS após o surgimento de um código de exploração pública. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
-      "published": "2026-08-14T14:59:55+00:00",
-      "image": ""
-    },
-    {
-      "title": "A moderna cadeia de ataques: repensando a segurança do Google Workspace na era da IA",
-      "summary": "Os ataques do Google Workspace nem sempre começam com phishing. Os tokens OAuth roubados podem fornecer outro caminho para o Gmail, o Drive e os sistemas conectados. A Segurança de Materiais explica por que as organizações precisam de defesas que cubram toda a",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
-      "published": "2026-08-14T14:00:10+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falha de gravidade máxima do SAP Commerce Cloud agora é alvo de ataques",
-      "summary": "Uma vulnerabilidade de execução remota de código do SAP Commerce Cloud de gravidade máxima corrigida há três dias já está sendo alvo de ataques, de acordo com a empresa de inteligência de ameaças Defused. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
-      "published": "2026-08-14T13:45:18+00:00",
-      "image": ""
-    },
-    {
-      "title": "Em outras notícias: Demissões Rapid7, hackeamento de um Boeing 737, vulnerabilidades no sistema de refrigeração",
-      "summary": "Histórias dignas de nota que podem ter passado despercebidas: acordo de plataforma de IA do governo provoca indignação, funcionário de TI norte-coreano viola agência federal, participante da DEF CON é responsabilizado pela interrupção do voo da Delta. A postag",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/",
-      "published": "2026-08-14T11:57:51+00:00",
-      "image": ""
-    },
-    {
-      "title": "Shell investiga ‘potencial incidente’ após alegações de roubo de dados Clop",
-      "summary": "A gigante petrolífera Shell confirmou que está investigando um possível incidente de segurança depois que a gangue de ransomware Clop alegou ter roubado 89 GB de dados. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
-      "published": "2026-08-14T11:55:45+00:00",
-      "image": ""
-    },
-    {
-      "title": "Trivy, não LiteLLM por trás do compromisso de 2.500 organizações",
-      "summary": "Mais de 95% das empresas afetadas foram expostas antes da publicação dos pacotes LiteLLM maliciosos. A postagem Trivy, Not LiteLLM por trás do compromisso de 2.500 organizações apareceu pela primeira vez na SecurityWeek.",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/",
-      "published": "2026-08-14T11:35:23+00:00",
       "image": ""
     }
   ]
