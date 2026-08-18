@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-08-18T19:00:36.308583+00:00",
+  "updated_at": "2026-08-18T21:42:00.745183+00:00",
   "items": [
+    {
+      "title": "Ataque 'CoSnitch' enganou o copiloto para mapear a arquitetura",
+      "summary": "Os pesquisadores descobriram uma técnica de “meta-hacking” que pode manipular o serviço de IA para revelar suas próprias fraquezas de segurança.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture",
+      "published": "2026-08-18T20:17:24+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcaf5eccbac802b13/6a84a0beeed7cf792c0eeed7/AI_apps-alexsl-GettyImages-2213179432.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "CISOs quebram o silêncio em séries documentais ‘desclassificadas’",
+      "summary": "Assaltos de milhões de dólares, divórcio e esgotamento de carreira são histórias contadas nas últimas documentações que revelam uma visão dos bastidores da comunidade de segurança cibernética.",
+      "category": "DEFESA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/cisos-break-their-silence-in-declassified-docuseries",
+      "published": "2026-08-18T18:32:01+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3d666f24b44718c6/6a84a8ad0d33646d7815f8de/GettyImages-2252724073.jpg?width=720&quality=80&disable=upscale"
+    },
     {
       "title": "Falhas pessoais do Microsoft Copilot podem permitir que um clique exfiltre dados de aplicativos conectados",
       "summary": "O Varonis Threat Labs divulgou três vulnerabilidades no Microsoft Copilot Personal que, segundo ele, poderiam permitir que um único clique em um link criado extraísse silenciosamente dados de aplicativos conectados e outras informações disponíveis para a sessã",
@@ -56,7 +74,7 @@
       "image": ""
     },
     {
-      "title": "Conversas CISO: Nico Waisman – De hacker autodidata a segurança ofensiva orientada por IA no XBOW",
+      "title": "Conversas CISO: Nico Waisman – De hacker autodidata a segurança ofensiva orientada por IA na XBOW",
       "summary": "Sem treinamento formal e sem plano de carreira, Waisman construiu um caminho desde o cenário inicial de hackers na Argentina até liderar a segurança em uma empresa de segurança ofensiva movida por IA. A postagem Conversas CISO: Nico Waisman – De hacker autodid",
       "category": "DEFESA",
       "source": "SecurityWeek",
@@ -144,24 +162,6 @@
       "url": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
       "published": "2026-08-18T11:30:00+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijGpzrXApP6QuAgCJDVSMHyi1nEVE7liFsNRwcNTWzkwbjmzqv8vGi8qalq_aWVgtgrD2CC_ZT-qXCsj_Bkj8njgIFQExo0gg5PG_dVIQfo9-wW6lIBh6OLp6z4nBeephIQACe1GX_KOP6nzqe10CM4H8p7EwRIlWGImwXgXjsSIYKCCVlSB7Oe1LWAIQ/s1600/reco.gif"
-    },
-    {
-      "title": "Um invasor destruiu os portais Salesforce e ServiceNow desde 2025 - The Hacker News",
-      "summary": "Um invasor destruiu os portais Salesforce e ServiceNow desde 2025 The Hacker News",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DeVV4VHRzUEZtVWJQUVoydjg1cHhvRDRqUXNMdWNoTllIOEkwRm9xdDNtR2pMTGlsWGNPTHdPdW5wQzZyQ0swNHdrcmVTZzlYbm9qUkRySC1tbTBINVEwWlZfdnpTTmc0c0k0UHJnVlVJakg5eUx3?oc=5",
-      "published": "2026-08-18T11:30:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "16 pacotes RubyGems Typosquatted roubam credenciais de navegador e carteiras criptografadas",
-      "summary": "Pesquisadores de segurança cibernética sinalizaram uma nova campanha de typosquatting direcionada aos usuários do RubyGems com um ladrão de informações baseado no Windows. OpenSourceMalware, que descobriu a atividade em 15 de agosto de 2026, está rastreando a ",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
-      "published": "2026-08-18T11:20:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9BsXf9I7m4IoC0hb3fSwYiBJsaB1_vSj9kGhfi0HsWGeR0xVl_W1O_Z0bd6IxvQ-vUQP5FDsj5mpiwUjv72JG3vNdViDwAKDG1uswOPDfb84xN_n8AgafhIP2sCx8x1Jd4L0mptrXuzCCGze-safV0V13WiWsFbKrKYvIC6CPBncYuhwgaDafyqSJx9Kv/s1600/ruby.jpg"
     }
   ]
 }
