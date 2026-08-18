@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-08-18T07:08:28.140417+00:00",
+  "updated_at": "2026-08-18T09:51:49.539250+00:00",
   "items": [
+    {
+      "title": "A violação de dados da Heights Finance impacta pelo menos 1,2 milhão de indivíduos",
+      "summary": "Os hackers roubaram nomes, endereços, números de telefone, números de Seguro Social e informações financeiras de uma plataforma de terceiros. A postagem A violação de dados financeiros da Heights impacta pelo menos 1,2 milhão de indivíduos apareceu pela primei",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/heights-finance-data-breach-impacts-at-least-1-2-million-individuals/",
+      "published": "2026-08-18T09:18:34+00:00",
+      "image": ""
+    },
+    {
+      "title": "SafePal Hardware Wallet Maker afirma dados expostos a falhas de quase 40.000 clientes",
+      "summary": "SafePal divulgou que uma falha de autorização em um plug-in de rastreamento de pedidos expôs nomes, endereços de e-mail, endereços de entrega, números de telefone e detalhes de compras de aproximadamente 39.798 clientes. O fabricante da carteira de hardware di",
+      "category": "PRIVACIDADE",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html",
+      "published": "2026-08-18T09:10:45+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFTKWlpW6A2F_jXpwDsCbJmaJ7-TnZPoCNsW0BG5pa4F8X8I1zzCRAMefU00NEQHKlqdqGchFbSTQ_aADgjlJeIHpUKswwnwNiP7WnbAftpciT_4FAFzPKi5NYnBtI0R0VEhP4JIHXFpm6hhyQFASu7IP1kFP2FmlLVejJDiG3Tgxf2ofz-J0Aq02AoF8/s1600/safe.jpg"
+    },
+    {
+      "title": "GitLab corrige vulnerabilidade crítica de injeção de código",
+      "summary": "A falha de segurança permite que invasores não autenticados modifiquem ou excluam dados de usuários e projetos públicos. A postagem Vulnerabilidade crítica de injeção de código em patches do GitLab apareceu pela primeira vez em SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/gitlab-patches-critical-code-injection-vulnerability/",
+      "published": "2026-08-18T08:51:07+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft começa a remover ferramenta WMIC usada por cibercriminosos",
+      "summary": "A Microsoft anunciou que removeu a ferramenta de linha de comando do Windows Management Instrumentation (WMIC) do Windows 11 24H2 e 25H2, bem como das versões beta do Windows 11 lançadas esta semana. [...]",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/",
+      "published": "2026-08-18T08:12:08+00:00",
+      "image": ""
+    },
     {
       "title": "Dezenas de vulnerabilidades do WebKit corrigidas com novos macOS e atualizações de segurança do iOS",
       "summary": "Os bugs podem ser explorados para travar o Safari, corromper a memória, vazar dados confidenciais, escapar da sandbox e exfiltrar dados. A postagem Dezenas de vulnerabilidades do WebKit corrigidas com o novo macOS, atualizações de segurança do iOS apareceu pel",
@@ -126,42 +162,6 @@
       "url": "https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos",
       "published": "2026-08-17T15:44:34+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt998467101da3f975/6a82f98ac19d9402c559c55d/robot-army-laurent-davoust-alamy.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Certighost e o privilégio oculto em sua autoridade de certificação",
-      "summary": "CVE-2026-54121 permite que um usuário de domínio padrão transforme sua CA corporativa em um controlador de domínio. O patch é a parte fácil. A lição é ter privilégio, confiança implícita e tratar a PKI como a infraestrutura de identidade de nível 0 que sempre ",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
-      "published": "2026-08-17T14:00:10+00:00",
-      "image": ""
-    },
-    {
-      "title": "680.000 impactados pela violação de dados da autoridade fiscal francesa",
-      "summary": "Os hackers usaram credenciais comprometidas para acessar dados corporativos e pessoais relacionados a impostos. A postagem 680.000 impactados pela violação de dados da autoridade fiscal francesa apareceu pela primeira vez na SecurityWeek.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/",
-      "published": "2026-08-17T13:53:55+00:00",
-      "image": ""
-    },
-    {
-      "title": "680.000 impactados pela violação de dados da autoridade fiscal francesa - securityweek.com",
-      "summary": "680.000 impactados pela violação de dados da autoridade fiscal francesa securityweek.com",
-      "category": "INCIDENTES",
-      "source": "securityweek.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRFIyNS1LNUFySGFJbG5yckV2cDg5UGVjaFRNMm5XSFc5U0lCRkQwQjAya3RYbXNIVUVUcndHRXY1akJ6VjYzT1RzU2U2UnFjQ1pOZ2V1NmxEWUJEQW8yUU1BWHVreW1wRVB6bGU4bWhmLTJrMlBzWDZQaGhhSVcxbnJBeE9XOUVi0gGOAUFVX3lxTE9ZRzlkMlFheDBSbzJjWXhiTGpNSkk0aVdOak5Rb2NRWHZFVFFkRGFNN2NpZWdpVXNJenhsd3oxM25NSHJtM2xhXzVkU29KVl9vek9kUlhnYTRZNmp2T2MxanBLM1FmY25hQXk3OEIzLVBESHVrZ3kyLUM1MktjV3RlNnFoQV8tekVmMkJzTEE?oc=5",
-      "published": "2026-08-17T13:53:55+00:00",
-      "image": ""
-    },
-    {
-      "title": "⚡ Recapitulação semanal: explorações de VMware, Windows 0-Day, ataques MCP, sequestros de navegador e muito mais",
-      "summary": "Os ataques caros nem sempre são os mais inteligentes. Esta semana teve muitas provas. Os serviços expostos foram atingidos, bugs antigos encontraram novos usos, as sessões do navegador tornaram-se caminhos de ataque e os problemas da cadeia de suprimentos cont",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
-      "published": "2026-08-17T13:23:51+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgObgx3d_pR3qN3UrW69UfMgB-yM7RmfpKrQjvzqtAsNaQ3nVsIKNIiz5p0BsZCppmE4BWH9Wle92WombnIdCdT0BsHkv-_lDcEdIkYvsGrnch6OQHbAr3FUj-QjM8aDdKPNdnez6SXczT4sXNn8KX4QgmG6BiapFhq35I0cdZckWblyoaTVr7rjY5idp5V/s1600/cyber-recap.jpg"
     }
   ]
 }
