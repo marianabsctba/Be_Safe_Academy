@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-08-18T04:01:41.460318+00:00",
+  "updated_at": "2026-08-18T07:08:28.140417+00:00",
   "items": [
+    {
+      "title": "Dezenas de vulnerabilidades do WebKit corrigidas com novos macOS e atualizações de segurança do iOS",
+      "summary": "Os bugs podem ser explorados para travar o Safari, corromper a memória, vazar dados confidenciais, escapar da sandbox e exfiltrar dados. A postagem Dezenas de vulnerabilidades do WebKit corrigidas com o novo macOS, atualizações de segurança do iOS apareceu pel",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/dozens-of-webkit-vulnerabilities-patched-with-fresh-macos-ios-security-updates/",
+      "published": "2026-08-18T06:46:22+00:00",
+      "image": ""
+    },
+    {
+      "title": "CISA sinaliza falha de raio explorada ativamente que pode acionar RCE baseado em navegador",
+      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) adicionou na segunda-feira uma falha crítica que afeta Ray ao seu catálogo de Vulnerabilidades Exploradas Conhecidas (KEV), citando evidências de exploração ativa. Ray é uma estrutura de com",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
+      "published": "2026-08-18T06:34:20+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW_d5c3hAfK37Zdlctl3fWxMgNXEsGKNJ9Fwf0LvHSV75qdLLYHAnyy7Le8aziJ58ma6YA83clBQQwK0xqG-lmeat7Z9bcTEaV4hmNl_SJL5iAh3r1Q4w8vk4b87pQHiGgorzFqyAYUcGXgkSyXA-0ZN1FTjC6ztxhHceoMJr-Qf-B0giZ1ZEC74B4FKL7/s1600/cisa-ray.jpg"
+    },
     {
       "title": "Exploração de videochamada encadeia duas falhas em modems Unisoc",
       "summary": "Os pesquisadores descobriram que, ao combinar duas vulnerabilidades, eles poderiam assumir o controle de um dispositivo Android, entregando uma carga útil e fazendo com que a vítima atendesse o telefone.",
@@ -9,6 +27,15 @@
       "url": "https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems",
       "published": "2026-08-17T21:37:23+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3b0d5e1880afeee0/6a836ae7cff1172eaef5b7c9/videocall_Kumeko_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "'Guerra territorial' entre agentes Claude leva a malware auto-replicante - Dark Reading",
+      "summary": "'Guerra territorial' entre agentes Claude leva à leitura obscura de malware auto-replicante",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc0tCX3pGSmxmUkF2UndaVmlFeFZVTTFYaDNUNTI3TE1odXR1MkZuYVNMYTZ2cGttQldiUS1PbU5sT0xFVEFCVzJqc1V2eklVdmpzTXdBV3VObW5OQlhsbnhSaUVmZ0xGNWVQOGw4VDRIdmFKN1BsWGpXbHZqSlVwV1owYWtyVThSUG5scmJ0YlVwTUlXek9tNVBISQ?oc=5",
+      "published": "2026-08-17T21:36:00+00:00",
+      "image": ""
     },
     {
       "title": "Falha crítica do GitLab GraphQL pode permitir que invasores não autenticados excluam projetos públicos",
@@ -83,6 +110,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu-MyaPNuRr2_NJ_TMqLf7OYW5AzCqgHpQ6HMfxlc-qsMzwSkfWlZDbHfecZ3IRp639FVDelhMZgpbnN87Fdchoh-g08R-cAiXxr7RvfdGy_ihvMxg152HK-rbOTIOnEueRTnPT-wU0eID3vplpIN1GBClvJC5e0egCGpDb_H0ykwH1x6a4zOvpW8V-Ssy/s1600/google.jpg"
     },
     {
+      "title": "Linux Botnet Evooo1Bot expande recursos do Mirai muito além do DDoS - Dark Reading",
+      "summary": "Linux Botnet Evooo1Bot expande os recursos do Mirai muito além da leitura escura de DDoS",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOGVGLTNVanJPb1J3QVNvMTdnRUV0RUVLR2k0ekhhTXhNRk9yaVZPQnR0MHh0Q21MMUhnb2RzQTlRVjRPX0p4TDJaNGZrNUlOV2FPTGpuQ2hQUHA2VFhLV3h6ZnVEQjcxeEhwMk1WOXpPNEhoMzJCTWYwXzBZRnJNeFhCQzYxbzc0d2tDWlhpdWRLcW1XVUI0?oc=5",
+      "published": "2026-08-17T16:12:21+00:00",
+      "image": ""
+    },
+    {
       "title": "Linux Botnet Evooo1Bot expande os recursos do Mirai muito além do DDoS",
       "summary": "A botnet adiciona módulos de exploração, roubo de credenciais e retransmissões SOCKS reversas para transformar dispositivos comprometidos em infraestrutura de invasores persistentes.",
       "category": "VULNERABILIDADES",
@@ -110,10 +146,10 @@
       "image": ""
     },
     {
-      "title": "680.000 impactados pela violação de dados da autoridade fiscal francesa - SecurityWeek",
-      "summary": "680.000 impactados pela violação de dados da autoridade fiscal francesa SecurityWeek",
+      "title": "680.000 impactados pela violação de dados da autoridade fiscal francesa - securityweek.com",
+      "summary": "680.000 impactados pela violação de dados da autoridade fiscal francesa securityweek.com",
       "category": "INCIDENTES",
-      "source": "SecurityWeek",
+      "source": "securityweek.com",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRFIyNS1LNUFySGFJbG5yckV2cDg5UGVjaFRNMm5XSFc5U0lCRkQwQjAya3RYbXNIVUVUcndHRXY1akJ6VjYzT1RzU2U2UnFjQ1pOZ2V1NmxEWUJEQW8yUU1BWHVreW1wRVB6bGU4bWhmLTJrMlBzWDZQaGhhSVcxbnJBeE9XOUVi0gGOAUFVX3lxTE9ZRzlkMlFheDBSbzJjWXhiTGpNSkk0aVdOak5Rb2NRWHZFVFFkRGFNN2NpZWdpVXNJenhsd3oxM25NSHJtM2xhXzVkU29KVl9vek9kUlhnYTRZNmp2T2MxanBLM1FmY25hQXk3OEIzLVBESHVrZ3kyLUM1MktjV3RlNnFoQV8tekVmMkJzTEE?oc=5",
       "published": "2026-08-17T13:53:55+00:00",
       "image": ""
@@ -126,42 +162,6 @@
       "url": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
       "published": "2026-08-17T13:23:51+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgObgx3d_pR3qN3UrW69UfMgB-yM7RmfpKrQjvzqtAsNaQ3nVsIKNIiz5p0BsZCppmE4BWH9Wle92WombnIdCdT0BsHkv-_lDcEdIkYvsGrnch6OQHbAr3FUj-QjM8aDdKPNdnez6SXczT4sXNn8KX4QgmG6BiapFhq35I0cdZckWblyoaTVr7rjY5idp5V/s1600/cyber-recap.jpg"
-    },
-    {
-      "title": "⚡ Recapitulação semanal: explorações de VMware, Windows 0-Day, ataques MCP, sequestros de navegador e muito mais - The Hacker News",
-      "summary": "⚡ Recapitulação semanal: explorações de VMware, Windows 0-Day, ataques MCP, sequestros de navegador e muito mais The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbXVZdW5tR0FWUXFFSHNVS2hnZll1WFp6NERlT1BUQzE4MUpoMFVjV1IzSnpyU1hDa2lGM1ZxSmF0a1Y4dDhxQ19tNnN6X1dKNE8zZDdjNWNiaUhtOWpTbGtBNkZPVVMxTlZfUW42dW82aWM4WGdOUXlzNzFRbE9YbnlYYw?oc=5",
-      "published": "2026-08-17T13:23:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Detalhes irregulares de como um erro de nomenclatura permitiu que modelos de IA atacassem uma empresa real",
-      "summary": "A empresa de testes de segurança de IA compartilhou informações sobre um incidente recentemente divulgado envolvendo modelos de IA antrópica. A postagem Detalhes irregulares de como um erro de nomenclatura permitiu que modelos de IA atacassem uma empresa real ",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/",
-      "published": "2026-08-17T12:11:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Detalhes irregulares de como um erro de nomenclatura permitiu que modelos de IA atacassem uma empresa real - SecurityWeek",
-      "summary": "Detalhes irregulares de como um erro de nomenclatura permitiu que modelos de IA atacassem uma empresa real SecurityWeek",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSVVvbnVVWk5Kd1NSN2JWNUFRcVA4TUxYX3JhdFhNWHRtQmtMSjJZWVhpUC1tY0o4VTFiZkpwRlBnYXFIcFJHRm4waEt0Q3NmdUIxaS1jemRwbDJwTXdyTDZzeHM2YkNCUUxhOXNnSU1qSEVlRnpYakdETnFxcGFzTFNCRjJPdkZKSC1GUDRfYjFZZ0tnYkRBOWVoZmFqeHl0eU92T9IBqgFBVV95cUxNVzFlODFpdnZ3LU9PQkdNaEVyZFdWdEpvblZmLVYzRlFUN3NlX0pJLXpLMDRKM2N2SDdxcHVIZFdfb2YwTXlNbjdkdEt5TGhPWklWMFdjMm1EQi14anFKbmFGOTdDZmlEWGpaRkFtalVmMV8xYmpBTHlWZkczNjR5ODNNUGJ4d3VDWlM3YWg5UFR6MEVmSXRZdF9ONFk0UzlDTFJYZ2trNnFJQQ?oc=5",
-      "published": "2026-08-17T12:11:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Como os servidores MCP podem expor segredos empresariais",
-      "summary": "Os servidores MCP podem expor segredos corporativos por meio de arquivos de configuração de texto simples, acesso com permissão excessiva e injeção imediata, muitas vezes antes mesmo que as equipes de segurança saibam que o servidor está em execução. À medida ",
-      "category": "CLOUD & IA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
-      "published": "2026-08-17T11:58:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmy_mE0_W-wEeuppBUYhS19P_uTo6RifgrGEV5eLim_B6KkhI_BO5wSL930qS_NCD6aR7nL5mAizU4RAfinzkWhz-oq1wCnHszL6C25H0Sj_MahJIBsr7lw_wzJ7xZ4YF7-GVJJO0L1wxe8LQXv3rHuLV3vbuDUEQ9D7vXa6D4zK6ARD1aFmiQv4fka5Y/s1600/keeper.png"
     }
   ]
 }
