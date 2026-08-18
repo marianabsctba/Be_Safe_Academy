@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-08-17T21:44:22.019110+00:00",
+  "updated_at": "2026-08-18T01:53:53.944363+00:00",
   "items": [
+    {
+      "title": "Exploração de videochamada encadeia duas falhas em modems Unisoc",
+      "summary": "Os pesquisadores descobriram que, ao combinar duas vulnerabilidades, eles poderiam assumir o controle de um dispositivo Android, entregando uma carga útil e fazendo com que a vítima atendesse o telefone.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems",
+      "published": "2026-08-17T21:37:23+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3b0d5e1880afeee0/6a836ae7cff1172eaef5b7c9/videocall_Kumeko_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
     {
       "title": "Falha crítica do GitLab GraphQL pode permitir que invasores não autenticados excluam projetos públicos",
       "summary": "O GitLab lançou atualizações de segurança para solucionar uma vulnerabilidade crítica que afeta seus softwares Community Edition (CE) e Enterprise Edition (EE) que, sob certas condições, podem permitir que um invasor não autenticado modifique ou exclua remotam",
@@ -152,15 +161,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
       "published": "2026-08-17T11:25:02+00:00",
-      "image": ""
-    },
-    {
-      "title": "Objetivos de teste conflitantes levaram os agentes Claude a implantar malware autorreplicante",
-      "summary": "A Anthropic tem conduzido testes para identificar problemas na forma como os agentes de IA interagem entre si. A postagem Metas de teste conflitantes forçaram os agentes Claude a implantar malware autorreplicante apareceu pela primeira vez na SecurityWeek.",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/conflicting-test-goals-pushed-claude-agents-to-deploy-self-replicating-malware/",
-      "published": "2026-08-17T11:09:57+00:00",
       "image": ""
     }
   ]
