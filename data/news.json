@@ -1,6 +1,96 @@
 {
-  "updated_at": "2026-08-18T09:51:49.539250+00:00",
+  "updated_at": "2026-08-18T13:12:39.498803+00:00",
   "items": [
+    {
+      "title": "Surto de vulnerabilidades impulsionado por IA quebra o modelo tradicional de patches",
+      "summary": "Rapid7 alerta que os ciclos de patches tradicionais não conseguem acompanhar o aumento das divulgações de vulnerabilidades e a exploração mais rápida, forçando os defensores a priorizar a exposição em vez das pontuações de gravidade. A postagem O surto de vuln",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ai-driven-vulnerability-surge-breaks-the-traditional-patching-model/",
+      "published": "2026-08-18T13:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "'Ransom Busters': ator de ransomware se apresenta como serviço de recuperação de incidentes",
+      "summary": "Um afiliado de ransomware parece estar se aproximando das vítimas com ofertas de ajuda, mascarando sua verdadeira intenção de desviar pagamentos de resgate.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
+      "published": "2026-08-18T13:00:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Os “vírus mentais” da IA ​​podem se espalhar entre agentes por meio de arquivos de prompt persistentes",
+      "summary": "Pesquisadores de segurança da Anthropic e da EPFL da Suíça demonstraram que cargas úteis de autopropagação podem se espalhar de um agente de inteligência artificial (IA) para outro por meio de arquivos editáveis ​​de prompt do sistema que os agentes autônomos ",
+      "category": "CLOUD & IA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
+      "published": "2026-08-18T12:38:36+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnswSsouQNTAo6sTmVePaIjeVawCruhIMYtwOXzzX0Qup-a8tWq6WsuiwxkhQxemYCsguvWzRqA5ILOcnEtQa2Xz2rpmU8aQ_c3zd5m82sqMjJa4ruVDS5JVH0P9trKFRwZY53P6cek06_5q-5Xz9TzuyL1TzKP_wnMY9_16AgwjoCXomphcu4p7Or1Kk/s1600/mindvirus.jpg"
+    },
+    {
+      "title": "TWINLOOT abusa do SharePoint e do Teams para roubar credenciais e se mover entre redes",
+      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma estrutura de implante Python anteriormente não documentada, chamada TWINLOOT. “TWINLOOT é um implante Python modular e reforçado com PyArmor, projetado para operar toda a sua infraestrutura de c",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
+      "published": "2026-08-18T12:38:20+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIrQ96TUVfZUEVto7SlNlTp_8P2270tmrpifBbd-F8vo3gQz3Na40YH60oRh2dEazLOZInJzCGa66bxl9t85Usl30eG_Db_yjMWup2eOM3BmaPhILk_Ihs-yo6AdB-DWG99L7OXK9bdD8Jygu2imWU71-Ap3bPtYLOgqu-vO2Zbr5egp6A5HNcXDSaa0o2/s1600/windows-malware.jpg"
+    },
+    {
+      "title": "Xpander levanta US$ 7,5 milhões para gerenciamento e governança de IA",
+      "summary": "A plataforma Xpander usa um agente universal que executa agentes de IA como cargas de trabalho portáteis e renderiza interfaces sob demanda com segurança. A postagem Xpander levanta US$ 7,5 milhões para gerenciamento e governança de IA apareceu pela primeira v",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/xpander-raises-7-5-million-for-ai-management-and-governance/",
+      "published": "2026-08-18T12:29:08+00:00",
+      "image": ""
+    },
+    {
+      "title": "Fortinet adquire empresa de segurança de IA Virtue AI",
+      "summary": "A Fortinet usará a tecnologia Virtue AI para aprimorar seu portfólio de segurança de IA, inclusive para modelos de IA, aplicativos e sistemas de agente. A postagem Fortinet adquire a AI Security Company Virtue AI apareceu pela primeira vez na SecurityWeek.",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/fortinet-acquires-ai-security-company-virtue-ai/",
+      "published": "2026-08-18T12:06:21+00:00",
+      "image": ""
+    },
+    {
+      "title": "Um invasor destruiu os portais Salesforce e ServiceNow desde 2025",
+      "summary": "Uma única peça de infraestrutura extrai registros dos portais de clientes Salesforce e ServiceNow em vários setores há mais de um ano, de acordo com uma pesquisa publicada esta semana pela plataforma de segurança de agentes Reco. A atividade, que Reco chamou d",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
+      "published": "2026-08-18T11:30:00+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijGpzrXApP6QuAgCJDVSMHyi1nEVE7liFsNRwcNTWzkwbjmzqv8vGi8qalq_aWVgtgrD2CC_ZT-qXCsj_Bkj8njgIFQExo0gg5PG_dVIQfo9-wW6lIBh6OLp6z4nBeephIQACe1GX_KOP6nzqe10CM4H8p7EwRIlWGImwXgXjsSIYKCCVlSB7Oe1LWAIQ/s1600/reco.gif"
+    },
+    {
+      "title": "16 pacotes RubyGems Typosquatted roubam credenciais de navegador e carteiras criptografadas",
+      "summary": "Pesquisadores de segurança cibernética sinalizaram uma nova campanha de typosquatting direcionada aos usuários do RubyGems com um ladrão de informações baseado no Windows. OpenSourceMalware, que descobriu a atividade em 15 de agosto de 2026, está rastreando a ",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
+      "published": "2026-08-18T11:20:00+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9BsXf9I7m4IoC0hb3fSwYiBJsaB1_vSj9kGhfi0HsWGeR0xVl_W1O_Z0bd6IxvQ-vUQP5FDsj5mpiwUjv72JG3vNdViDwAKDG1uswOPDfb84xN_n8AgafhIP2sCx8x1Jd4L0mptrXuzCCGze-safV0V13WiWsFbKrKYvIC6CPBncYuhwgaDafyqSJx9Kv/s1600/ruby.jpg"
+    },
+    {
+      "title": "300.000 sites WordPress potencialmente expostos a hackers devido a falha de plug-in de formulário",
+      "summary": "Rastreado como CVE-2026-15748, o bug de upload arbitrário de arquivos permite que invasores não autenticados carreguem arquivos executáveis. A postagem 300.000 sites WordPress potencialmente expostos a hackers devido a uma falha no plug-in de formulário aparec",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/300000-wordpress-sites-potentially-exposed-to-hacking-due-to-form-plugin-flaw/",
+      "published": "2026-08-18T10:48:23+00:00",
+      "image": ""
+    },
+    {
+      "title": "CISA: falha no Windows Task Host agora explorada por gangues de ransomware",
+      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) confirmou que gangues de ransomware também estão explorando uma vulnerabilidade de alta gravidade do Windows Task Host que foi sinalizada como explorada ativamente em abril. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
+      "published": "2026-08-18T10:32:16+00:00",
+      "image": ""
+    },
     {
       "title": "A violação de dados da Heights Finance impacta pelo menos 1,2 milhão de indivíduos",
       "summary": "Os hackers roubaram nomes, endereços, números de telefone, números de Seguro Social e informações financeiras de uma plataforma de terceiros. A postagem A violação de dados financeiros da Heights impacta pelo menos 1,2 milhão de indivíduos apareceu pela primei",
@@ -56,6 +146,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW_d5c3hAfK37Zdlctl3fWxMgNXEsGKNJ9Fwf0LvHSV75qdLLYHAnyy7Le8aziJ58ma6YA83clBQQwK0xqG-lmeat7Z9bcTEaV4hmNl_SJL5iAh3r1Q4w8vk4b87pQHiGgorzFqyAYUcGXgkSyXA-0ZN1FTjC6ztxhHceoMJr-Qf-B0giZ1ZEC74B4FKL7/s1600/cisa-ray.jpg"
     },
     {
+      "title": "CISA sinaliza falha de raio explorada ativamente que pode acionar RCE baseado em navegador - The Hacker News",
+      "summary": "CISA sinaliza falha de raio explorada ativamente que pode acionar RCE baseado em navegador The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY1Bldm93elJHVFlMZ1ZFLTdxVkliR1NaM01objdEclg4YVNJQkh0ZWxtSnZBdEYydXhtUTNDNURvY2lvem13TGp5NGNXajdubDFCcFZiS3RHc01GM3ZTNU1DTUVud2ZPQUFkN2ZYSzMzS1dWZHF3YlozclZYQ0t6Umlraw?oc=5",
+      "published": "2026-08-18T06:34:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Exploração de videochamada encadeia duas falhas em modems Unisoc",
       "summary": "Os pesquisadores descobriram que, ao combinar duas vulnerabilidades, eles poderiam assumir o controle de um dispositivo Android, entregando uma carga útil e fazendo com que a vítima atendesse o telefone.",
       "category": "VULNERABILIDADES",
@@ -63,105 +162,6 @@
       "url": "https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems",
       "published": "2026-08-17T21:37:23+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3b0d5e1880afeee0/6a836ae7cff1172eaef5b7c9/videocall_Kumeko_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "'Guerra territorial' entre agentes Claude leva a malware auto-replicante - Dark Reading",
-      "summary": "'Guerra territorial' entre agentes Claude leva à leitura obscura de malware auto-replicante",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc0tCX3pGSmxmUkF2UndaVmlFeFZVTTFYaDNUNTI3TE1odXR1MkZuYVNMYTZ2cGttQldiUS1PbU5sT0xFVEFCVzJqc1V2eklVdmpzTXdBV3VObW5OQlhsbnhSaUVmZ0xGNWVQOGw4VDRIdmFKN1BsWGpXbHZqSlVwV1owYWtyVThSUG5scmJ0YlVwTUlXek9tNVBISQ?oc=5",
-      "published": "2026-08-17T21:36:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falha crítica do GitLab GraphQL pode permitir que invasores não autenticados excluam projetos públicos",
-      "summary": "O GitLab lançou atualizações de segurança para solucionar uma vulnerabilidade crítica que afeta seus softwares Community Edition (CE) e Enterprise Edition (EE) que, sob certas condições, podem permitir que um invasor não autenticado modifique ou exclua remotam",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
-      "published": "2026-08-17T21:03:04+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLiZpsYdSdkh6GE1rDDV3XVwWiGdjWBlx3B1irY9V5RtHt1cv7sQYPaa16y78EJdluo3FTMr5Wq0O2ZCWZjRMdrewgLrGJS3Ii_NLOQKQKN18PEGHhDiSyJtvf8TpdFrrIplaynGWNVmUxdAkyL7E8h_GtKfog8EE_TV25SySHFqbQgK3ChyphenhyphenKaKktnUic/s1600/gitlab.jpg"
-    },
-    {
-      "title": "'Guerra territorial' entre agentes Claude leva a malware auto-replicante",
-      "summary": "Três modelos de teste com o mesmo objetivo, mas diretivas diferentes, engajaram-se em ataques territoriais “cada vez mais agressivos” uns contra os outros, de acordo com a Anthropic.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware",
-      "published": "2026-08-17T20:26:34+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb353cb4eb8945ff6/6a1f007a2897886e9b11fcab/aiagents-Suchat_longthara-getty-2229177564.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Hacker reivindica 3,6 milhões de registros de contas do Azure roubados de grandes empresas",
-      "summary": "Um ator de ameaça está vendendo bancos de dados de funcionários supostamente roubados da infraestrutura do Microsoft Azure de várias empresas da Fortune 500 após obter acesso usando credenciais comprometidas. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
-      "published": "2026-08-17T19:35:01+00:00",
-      "image": ""
-    },
-    {
-      "title": "Adam Shostack fala sobre abraços e PHANTOM-B",
-      "summary": "O modelador de ameaças de classe mundial Adam Shostack compartilhou que ficou “impressionado” com as revelações da OpenAI sobre o ataque Hugging Face e explica por que seu novo modelo de ameaças para LLMs é “leve, mas ainda utilizável”.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b",
-      "published": "2026-08-17T19:22:56+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta4c77c772869411d/6a83561717bbfe3606553de5/Wright_and_Shostack_at_News_Desk.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "A violação de dados do Pokémon Center expõe informações do cliente e cancela alguns pedidos",
-      "summary": "O Pokémon Center está notificando os clientes no Reino Unido e na Alemanha que sofreu uma violação de dados de terceiros depois que hackers roubaram informações pessoais e de pedidos de clientes do provedor de logística terceirizado CEVA Logistics. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
-      "published": "2026-08-17T19:12:39+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falha de ações do Snowflake GitHub permite que problemas elaborados acionem injeção de comando",
-      "summary": "Pesquisadores de segurança cibernética da Wiz divulgaram uma nova vulnerabilidade de injeção de fluxo de trabalho do GitHub Actions no repositório público snowflakedb/snowflake-connector-net do Snowflake que, segundo ele, poderia ser explorada por meio de um p",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
-      "published": "2026-08-17T18:44:17+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJW5BJKjwNfnH2t8RrvgW0wUO3_ZJWnw30aS6GlU9qoaOWMQcyoZ9ZOZmTgLo7hWAqHlKDK2b4MrtF23Jv_1-1Ffd6bo6VlR8exLvIISBANwjHnW3dv7wLgCtyCIDlndpJ67TajeEpN-Ww9eVVutmS4fTpcDPJtlAk_ZU0GLtnkDvYLlqWPv75uMH7ob__/s1600/snowflake.jpg"
-    },
-    {
-      "title": "A falha do Forminator WordPress pode ativar RCE não autenticado por meio de uploads maliciosos de PHP",
-      "summary": "Uma falha crítica de segurança foi revelada no Forminator Forms, um plugin do WordPress com mais de 600.000 instalações ativas, que poderia ser explorado para obter execução arbitrária de código em sites suscetíveis. A vulnerabilidade, rastreada como CVE-2026-",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
-      "published": "2026-08-17T18:22:09+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Jfag1_E06odK7mkATjCOSPdD_fHy2kcYYHfi9fDNTsk0CRkV2yJD0Uz4MV82XjbMR5QNyK3Akw5Ysf0N7fDQ3DwApNb5Tf9R4axktScKF3UZlMVtrY3ulTzrYjFviMA8HmIUCBZhxmR59TtnJ7xf-B_iJtl3SWiBZAFbOfhUoldNdZX0sOStx6ULNMSZ/s1600/wordpress-flaw.jpg"
-    },
-    {
-      "title": "Cavern C2 usa DNS e script do Google Apps para se misturar ao tráfego legítimo",
-      "summary": "Pesquisadores de segurança cibernética traçaram a evolução contínua da estrutura de comando e controle (C2) Cavern (também conhecida como Cav3rn) usada por hackers do Estado-nação iraniano em ataques contra entidades em Israel. A empresa russa de segurança cib",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
-      "published": "2026-08-17T17:41:06+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu-MyaPNuRr2_NJ_TMqLf7OYW5AzCqgHpQ6HMfxlc-qsMzwSkfWlZDbHfecZ3IRp639FVDelhMZgpbnN87Fdchoh-g08R-cAiXxr7RvfdGy_ihvMxg152HK-rbOTIOnEueRTnPT-wU0eID3vplpIN1GBClvJC5e0egCGpDb_H0ykwH1x6a4zOvpW8V-Ssy/s1600/google.jpg"
-    },
-    {
-      "title": "Linux Botnet Evooo1Bot expande recursos do Mirai muito além do DDoS - Dark Reading",
-      "summary": "Linux Botnet Evooo1Bot expande os recursos do Mirai muito além da leitura escura de DDoS",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOGVGLTNVanJPb1J3QVNvMTdnRUV0RUVLR2k0ekhhTXhNRk9yaVZPQnR0MHh0Q21MMUhnb2RzQTlRVjRPX0p4TDJaNGZrNUlOV2FPTGpuQ2hQUHA2VFhLV3h6ZnVEQjcxeEhwMk1WOXpPNEhoMzJCTWYwXzBZRnJNeFhCQzYxbzc0d2tDWlhpdWRLcW1XVUI0?oc=5",
-      "published": "2026-08-17T16:12:21+00:00",
-      "image": ""
-    },
-    {
-      "title": "Linux Botnet Evooo1Bot expande os recursos do Mirai muito além do DDoS",
-      "summary": "A botnet adiciona módulos de exploração, roubo de credenciais e retransmissões SOCKS reversas para transformar dispositivos comprometidos em infraestrutura de invasores persistentes.",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos",
-      "published": "2026-08-17T15:44:34+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt998467101da3f975/6a82f98ac19d9402c559c55d/robot-army-laurent-davoust-alamy.jpg?width=720&quality=80&disable=upscale"
     }
   ]
 }
