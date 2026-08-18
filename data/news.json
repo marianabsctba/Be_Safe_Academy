@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-08-18T15:50:03.061313+00:00",
+  "updated_at": "2026-08-18T19:00:36.308583+00:00",
   "items": [
+    {
+      "title": "Falhas pessoais do Microsoft Copilot podem permitir que um clique exfiltre dados de aplicativos conectados",
+      "summary": "O Varonis Threat Labs divulgou três vulnerabilidades no Microsoft Copilot Personal que, segundo ele, poderiam permitir que um único clique em um link criado extraísse silenciosamente dados de aplicativos conectados e outras informações disponíveis para a sessã",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
+      "published": "2026-08-18T17:47:22+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAc2Z6RvtNlJnjkfp-kCEhx8x8Q9XPLHY-oQb8NXu6cb-C5BTfa9HnmWq3G1GT3mPsHLV6Xf6tyBui-ljplsYEo9Qt8kBiNKXOwvTzACMisyS0NQ5U3bGg8O6yVEPStEPbYw4W-4ZasDNssDr2JTJD7GTo6QEpER1L-9Xci-mNSk3A5t_aLXGIHwo04FI/s1600/copilot.jpg"
+    },
+    {
+      "title": "Atacantes exploram falha SSRF do MLflow para roubar credenciais e segredos da nuvem",
+      "summary": "Duas vulnerabilidades críticas que afetam o MLflow, uma plataforma de inteligência artificial (IA) de código aberto, e o FUXA, um software SCADA/HMI de código aberto baseado na Web, desenvolvido para tecnologia operacional (TO) e automação industrial, estão te",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
+      "published": "2026-08-18T17:44:05+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOzcJe940Ayk9JrnE-tmotZ-mEHZiA5Jc0A8Sw9IZIfYEnH61X8whAW6jJZTnzLIQYA37foce9X_fshoAVwjLyBKrjvHbkuhhtwZ2Mewxtf1Syn9FBOvZBqwcMWXOCKFNnASyrCOQ9XTF6f174Aa4O55O7tbU6evYcrrV0H_psoYYq3uQQ_GvZqsu0e0ik/s1600/mlflow.jpg"
+    },
+    {
+      "title": "Clop criou web shell personalizado para ataques de roubo de dados do Windchill",
+      "summary": "Um shell web Java personalizado provavelmente vinculado à gangue de ransomware Clop foi projetado especificamente para servidores PTC Windchill e FlexPLM, com recursos integrados para descriptografar credenciais, enumerar repositórios de arquivos e roubar arqu",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
+      "published": "2026-08-18T17:29:51+00:00",
+      "image": ""
+    },
+    {
+      "title": "Caçando a infraestrutura do MacSync Stealer por meio de pivôs comportamentais",
+      "summary": "O MacSync Stealer alterna domínios rapidamente para evitar a detecção, mas seu comportamento permanece consistente. Saiba como a Microsoft descobriu mais de 30 domínios relacionados usando pivôs de caça duráveis. A postagem Caçando a infraestrutura do MacSync ",
+      "category": "DEFESA",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/",
+      "published": "2026-08-18T17:08:28+00:00",
+      "image": ""
+    },
+    {
+      "title": "Ransom Busters afirma ter hackeado servidores de ransomware e pede às vítimas até US$ 60 mil",
+      "summary": "Um afiliado de ransomware que se autodenomina Ransom Busters foi flagrado enviando e-mails proativamente para organizações vítimas e afirma excluir dados roubados de servidores de grupos de ransomware em troca de uma taxa que varia de US$ 20.000 a US$ 60.000. ",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
+      "published": "2026-08-18T16:58:16+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo_eOapavOiIGXF7klCQPyN0-Qg2nWk9KlUYzPHuLwAyMKM75P3E2jciQR3v9gt2UBmez3XRSC57e5Fe9Oowm2brtgRXz5nJMPN8iQnBYddnTI4DyffnBAh4iLQFSOhA-8RhbbwuXqbJQOkhiXo5asFku1kFfmQd-UsHT6ulzdvRvw7WXwFKYFBTU_Q9nB/s1600/ransom.jpg"
+    },
     {
       "title": "Webinar hoje: Repensando a defesa cibernética para ataques de velocidade de IA",
       "summary": "Participe do webinar ao vivo enquanto exploramos se as operações de segurança que priorizam a detecção podem acompanhar o ritmo da IA ​​ou se é hora de repensar a prevenção como o padrão mais forte. A postagem Webinar hoje: Repensando a defesa cibernética para",
@@ -11,7 +56,7 @@
       "image": ""
     },
     {
-      "title": "Conversas CISO: Nico Waisman – De hacker autodidata a segurança ofensiva orientada por IA na XBOW",
+      "title": "Conversas CISO: Nico Waisman – De hacker autodidata a segurança ofensiva orientada por IA no XBOW",
       "summary": "Sem treinamento formal e sem plano de carreira, Waisman construiu um caminho desde o cenário inicial de hackers na Argentina até liderar a segurança em uma empresa de segurança ofensiva movida por IA. A postagem Conversas CISO: Nico Waisman – De hacker autodid",
       "category": "DEFESA",
       "source": "SecurityWeek",
@@ -117,51 +162,6 @@
       "url": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
       "published": "2026-08-18T11:20:00+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9BsXf9I7m4IoC0hb3fSwYiBJsaB1_vSj9kGhfi0HsWGeR0xVl_W1O_Z0bd6IxvQ-vUQP5FDsj5mpiwUjv72JG3vNdViDwAKDG1uswOPDfb84xN_n8AgafhIP2sCx8x1Jd4L0mptrXuzCCGze-safV0V13WiWsFbKrKYvIC6CPBncYuhwgaDafyqSJx9Kv/s1600/ruby.jpg"
-    },
-    {
-      "title": "300.000 sites WordPress potencialmente expostos a hackers devido a falha de plug-in de formulário",
-      "summary": "Rastreado como CVE-2026-15748, o bug de upload arbitrário de arquivos permite que invasores não autenticados carreguem arquivos executáveis. A postagem 300.000 sites WordPress potencialmente expostos a hackers devido a uma falha no plug-in de formulário aparec",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/300000-wordpress-sites-potentially-exposed-to-hacking-due-to-form-plugin-flaw/",
-      "published": "2026-08-18T10:48:23+00:00",
-      "image": ""
-    },
-    {
-      "title": "CISA: falha no Windows Task Host agora explorada por gangues de ransomware",
-      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) confirmou que gangues de ransomware também estão explorando uma vulnerabilidade de alta gravidade do Windows Task Host que foi sinalizada como explorada ativamente em abril. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
-      "published": "2026-08-18T10:32:16+00:00",
-      "image": ""
-    },
-    {
-      "title": "A violação de dados da Heights Finance impacta pelo menos 1,2 milhão de indivíduos",
-      "summary": "Os hackers roubaram nomes, endereços, números de telefone, números de Seguro Social e informações financeiras de uma plataforma de terceiros. A postagem A violação de dados financeiros da Heights impacta pelo menos 1,2 milhão de indivíduos apareceu pela primei",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/heights-finance-data-breach-impacts-at-least-1-2-million-individuals/",
-      "published": "2026-08-18T09:18:34+00:00",
-      "image": ""
-    },
-    {
-      "title": "SafePal Hardware Wallet Maker afirma dados expostos a falhas de quase 40.000 clientes",
-      "summary": "SafePal divulgou que uma falha de autorização em um plug-in de rastreamento de pedidos expôs nomes, endereços de e-mail, endereços de entrega, números de telefone e detalhes de compras de aproximadamente 39.798 clientes. O fabricante da carteira de hardware di",
-      "category": "PRIVACIDADE",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html",
-      "published": "2026-08-18T09:10:45+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFTKWlpW6A2F_jXpwDsCbJmaJ7-TnZPoCNsW0BG5pa4F8X8I1zzCRAMefU00NEQHKlqdqGchFbSTQ_aADgjlJeIHpUKswwnwNiP7WnbAftpciT_4FAFzPKi5NYnBtI0R0VEhP4JIHXFpm6hhyQFASu7IP1kFP2FmlLVejJDiG3Tgxf2ofz-J0Aq02AoF8/s1600/safe.jpg"
-    },
-    {
-      "title": "GitLab corrige vulnerabilidade crítica de injeção de código",
-      "summary": "A falha de segurança permite que invasores não autenticados modifiquem ou excluam dados de usuários e projetos públicos. A postagem Vulnerabilidade crítica de injeção de código em patches do GitLab apareceu pela primeira vez em SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/gitlab-patches-critical-code-injection-vulnerability/",
-      "published": "2026-08-18T08:51:07+00:00",
-      "image": ""
     }
   ]
 }
