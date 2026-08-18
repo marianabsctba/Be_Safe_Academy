@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-08-18T13:12:39.498803+00:00",
+  "updated_at": "2026-08-18T15:50:03.061313+00:00",
   "items": [
+    {
+      "title": "Webinar hoje: Repensando a defesa cibernética para ataques de velocidade de IA",
+      "summary": "Participe do webinar ao vivo enquanto exploramos se as operações de segurança que priorizam a detecção podem acompanhar o ritmo da IA ​​ou se é hora de repensar a prevenção como o padrão mais forte. A postagem Webinar hoje: Repensando a defesa cibernética para",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/webinar-today-rethinking-cyber-defense-for-ai-speed-attacks/",
+      "published": "2026-08-18T15:03:30+00:00",
+      "image": ""
+    },
+    {
+      "title": "Conversas CISO: Nico Waisman – De hacker autodidata a segurança ofensiva orientada por IA na XBOW",
+      "summary": "Sem treinamento formal e sem plano de carreira, Waisman construiu um caminho desde o cenário inicial de hackers na Argentina até liderar a segurança em uma empresa de segurança ofensiva movida por IA. A postagem Conversas CISO: Nico Waisman – De hacker autodid",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ciso-conversations-nico-waisman-from-self-taught-hacker-to-ai-driven-offensive-security-at-xbow/",
+      "published": "2026-08-18T14:30:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Seus controles bloqueiam ataques conhecidos. E quanto ao comportamento?",
+      "summary": "Os controles de segurança podem bloquear um método de ataque familiar e, ao mesmo tempo, perder maneiras mais silenciosas de atingir o mesmo objetivo. O Blue Report 2026 da Picus Security mostra como as taxas de prevenção podem variar drasticamente de acordo c",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
+      "published": "2026-08-18T14:01:11+00:00",
+      "image": ""
+    },
     {
       "title": "Surto de vulnerabilidades impulsionado por IA quebra o modelo tradicional de patches",
       "summary": "Rapid7 alerta que os ciclos de patches tradicionais não conseguem acompanhar o aumento das divulgações de vulnerabilidades e a exploração mais rápida, forçando os defensores a priorizar a exposição em vez das pontuações de gravidade. A postagem O surto de vuln",
@@ -18,6 +45,15 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
       "published": "2026-08-18T13:00:00+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "A ameaça cibernética silenciosa ‘TwinLoot’ opera inteiramente na nuvem da Microsoft",
+      "summary": "A estrutura de malware baseada em Python leva as táticas de vida fora da terra a um novo patamar de furtividade, com um implante modular que rouba credenciais e alcança persistência.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
+      "published": "2026-08-18T13:00:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Os “vírus mentais” da IA ​​podem se espalhar entre agentes por meio de arquivos de prompt persistentes",
@@ -63,6 +99,15 @@
       "url": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
       "published": "2026-08-18T11:30:00+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijGpzrXApP6QuAgCJDVSMHyi1nEVE7liFsNRwcNTWzkwbjmzqv8vGi8qalq_aWVgtgrD2CC_ZT-qXCsj_Bkj8njgIFQExo0gg5PG_dVIQfo9-wW6lIBh6OLp6z4nBeephIQACe1GX_KOP6nzqe10CM4H8p7EwRIlWGImwXgXjsSIYKCCVlSB7Oe1LWAIQ/s1600/reco.gif"
+    },
+    {
+      "title": "Um invasor destruiu os portais Salesforce e ServiceNow desde 2025 - The Hacker News",
+      "summary": "Um invasor destruiu os portais Salesforce e ServiceNow desde 2025 The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DeVV4VHRzUEZtVWJQUVoydjg1cHhvRDRqUXNMdWNoTllIOEkwRm9xdDNtR2pMTGlsWGNPTHdPdW5wQzZyQ0swNHdrcmVTZzlYbm9qUkRySC1tbTBINVEwWlZfdnpTTmc0c0k0UHJnVlVJakg5eUx3?oc=5",
+      "published": "2026-08-18T11:30:00+00:00",
+      "image": ""
     },
     {
       "title": "16 pacotes RubyGems Typosquatted roubam credenciais de navegador e carteiras criptografadas",
@@ -117,51 +162,6 @@
       "url": "https://www.securityweek.com/gitlab-patches-critical-code-injection-vulnerability/",
       "published": "2026-08-18T08:51:07+00:00",
       "image": ""
-    },
-    {
-      "title": "Microsoft começa a remover ferramenta WMIC usada por cibercriminosos",
-      "summary": "A Microsoft anunciou que removeu a ferramenta de linha de comando do Windows Management Instrumentation (WMIC) do Windows 11 24H2 e 25H2, bem como das versões beta do Windows 11 lançadas esta semana. [...]",
-      "category": "DEFESA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/",
-      "published": "2026-08-18T08:12:08+00:00",
-      "image": ""
-    },
-    {
-      "title": "Dezenas de vulnerabilidades do WebKit corrigidas com novos macOS e atualizações de segurança do iOS",
-      "summary": "Os bugs podem ser explorados para travar o Safari, corromper a memória, vazar dados confidenciais, escapar da sandbox e exfiltrar dados. A postagem Dezenas de vulnerabilidades do WebKit corrigidas com o novo macOS, atualizações de segurança do iOS apareceu pel",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/dozens-of-webkit-vulnerabilities-patched-with-fresh-macos-ios-security-updates/",
-      "published": "2026-08-18T06:46:22+00:00",
-      "image": ""
-    },
-    {
-      "title": "CISA sinaliza falha de raio explorada ativamente que pode acionar RCE baseado em navegador",
-      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) adicionou na segunda-feira uma falha crítica que afeta Ray ao seu catálogo de Vulnerabilidades Exploradas Conhecidas (KEV), citando evidências de exploração ativa. Ray é uma estrutura de com",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
-      "published": "2026-08-18T06:34:20+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW_d5c3hAfK37Zdlctl3fWxMgNXEsGKNJ9Fwf0LvHSV75qdLLYHAnyy7Le8aziJ58ma6YA83clBQQwK0xqG-lmeat7Z9bcTEaV4hmNl_SJL5iAh3r1Q4w8vk4b87pQHiGgorzFqyAYUcGXgkSyXA-0ZN1FTjC6ztxhHceoMJr-Qf-B0giZ1ZEC74B4FKL7/s1600/cisa-ray.jpg"
-    },
-    {
-      "title": "CISA sinaliza falha de raio explorada ativamente que pode acionar RCE baseado em navegador - The Hacker News",
-      "summary": "CISA sinaliza falha de raio explorada ativamente que pode acionar RCE baseado em navegador The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY1Bldm93elJHVFlMZ1ZFLTdxVkliR1NaM01objdEclg4YVNJQkh0ZWxtSnZBdEYydXhtUTNDNURvY2lvem13TGp5NGNXajdubDFCcFZiS3RHc01GM3ZTNU1DTUVud2ZPQUFkN2ZYSzMzS1dWZHF3YlozclZYQ0t6Umlraw?oc=5",
-      "published": "2026-08-18T06:34:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Exploração de videochamada encadeia duas falhas em modems Unisoc",
-      "summary": "Os pesquisadores descobriram que, ao combinar duas vulnerabilidades, eles poderiam assumir o controle de um dispositivo Android, entregando uma carga útil e fazendo com que a vítima atendesse o telefone.",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems",
-      "published": "2026-08-17T21:37:23+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3b0d5e1880afeee0/6a836ae7cff1172eaef5b7c9/videocall_Kumeko_shutterstock.jpg?width=720&quality=80&disable=upscale"
     }
   ]
 }
