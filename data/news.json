@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-08-19T18:56:45.660463+00:00",
+  "updated_at": "2026-08-19T21:44:32.845948+00:00",
   "items": [
+    {
+      "title": "Afiliada Rogue ransomware se apresenta como empresa de recuperação de dados para roubar pagamentos",
+      "summary": "Um suposto afiliado de ransomware está se passando por um serviço de recuperação de ransomware chamado “Ransom Busters”, entrando em contato com as vítimas antes que os ataques se tornem públicos e alegando ser capaz de fornecer chaves de descriptografia e exc",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-data-recovery-firm/",
+      "published": "2026-08-19T20:59:58+00:00",
+      "image": ""
+    },
+    {
+      "title": "Plataforma de IA 'criminosa' sem filtro levanta preocupações sobre crimes cibernéticos",
+      "summary": "A empresa de IA proíbe oficialmente o uso ilícito, ao mesmo tempo que oferece engenharia social sem proteção, crimes cibernéticos ofensivos e varredura OSINT para qualquer pessoa com um pouco de criptomoeda.",
+      "category": "CLOUD & IA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns",
+      "published": "2026-08-19T20:32:09+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt85eae7cdd5f0ecc5/6a86044bc3ca75985c01a97b/person_in_handcuffs-AnnaStills-GettyImages-2229493276.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "A violação de dados da empresa de tecnologia de saúde CareCloud afeta 3,7 milhões de pacientes",
+      "summary": "A empresa norte-americana de TI de saúde CareCloud divulgou que o incidente de violação de dados sofrido no início deste ano impactou mais de 3,7 milhões de indivíduos. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
+      "published": "2026-08-19T20:07:12+00:00",
+      "image": ""
+    },
+    {
+      "title": "Ataque Spectre de trabalhadores da Cloudflare vaza JWT de trabalhador co-localizado a 12 bits/segundo",
+      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de um ataque remoto Spectre contra Cloudflare Workers que vazou um JSON Web Token (JWT) de um Worker co-localizado no ambiente de produção a até 12 bits por segundo, 360 vezes a taxa de um ataque anter",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
+      "published": "2026-08-19T19:02:40+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi50HcHSWt796lc8zQ8Anp_fHUqgV-BM0xiS1NxJW8zRDgBRJ9ovZOECiIhdQt0aVTUdhduJYP1o5wTa5RpDoCwhihq8rKqWmh73E9E8UzafyDcq1n1khCEIDCikK2L6NEt1mbIuMRm6F36bap74JtZawFqqCPvWF72SAm25BzREVerWYaRIDEo1O89V4k/s1600/jwt.jpg"
+    },
     {
       "title": "EUA alertam sobre ataques alimentados por IA a PLCs da Siemens em infraestrutura crítica",
       "summary": "As agências de segurança cibernética dos EUA alertam que os agentes de ameaças estão usando scripts gerados por IA para explorar controladores lógicos programáveis ​​(PLCs) da série S7 da Siemens em infraestruturas críticas dos EUA. [...]",
@@ -110,7 +146,7 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHtWFBMa_xYpIkK39I2gvAJrksqJBAkRSnEZ-WjwpQtbV9mgfPRzWp3qtdhk_v1yOG67pAZ5H3DAFRVv7rEzbns9IuAa4_DV-MUBDIb6fuWzLyRvFXyC1fOaTUPbwxdoY4cykbPy3wXEn3HvlnbjbqH37vkLKMSJA799pVeD50RqMGlJJztFJZcFzR2xTf/s1600/wordpress-hacks.jpg"
     },
     {
-      "title": "StopAndProtect usa quase 2.000 sites WordPress hackeados para espalhar malware e roubar dados – The Hacker News",
+      "title": "StopAndProtect usa quase 2.000 sites WordPress hackeados para espalhar malware e roubar dados - The Hacker News",
       "summary": "StopAndProtect usa quase 2.000 sites WordPress hackeados para espalhar malware e roubar dados The Hacker News",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
@@ -125,42 +161,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
       "published": "2026-08-19T11:14:28+00:00",
-      "image": ""
-    },
-    {
-      "title": "Grupo Cl0p Ransomware nomeia mais de 40 vítimas da campanha PTC Windchill",
-      "summary": "A gangue do crime cibernético listou grandes empresas como Shell, Philips, Fiserv, Zebra, Mindray e Largan Precision. A postagem Grupo Cl0p Ransomware nomeia mais de 40 vítimas da campanha PTC Windchill apareceu pela primeira vez em SecurityWeek.",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/cl0p-ransomware-group-names-over-40-victims-of-ptc-windchill-campaign/",
-      "published": "2026-08-19T11:07:21+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falhas críticas do macOS, SharePoint, vCenter e Microsoft IKE sob exploração ativa",
-      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) adicionou na terça-feira quatro vulnerabilidades críticas ao seu catálogo de Vulnerabilidades Exploradas Conhecidas (KEV), afirmando que elas estão sendo exploradas em estado selvagem. As de",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
-      "published": "2026-08-19T11:01:48+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJDdcdHtgq-nTzruVpw0hyZmBZtfG4iwLgi_nfw6A70e_mXt7LUSnyTQ7ZdgclMUypEe7s8s-LDmykPATeFixDXHEP_j1zhheNBnHA1TebBqoYtw1-3g_-LqlSuk8MczmJ3BtD6MO4TL1FVdLEcZXVKn_Rd7ucsm0Imb8QTjxJXZY52RkgfUd26FPQanbZ/s1600/kev.jpg"
-    },
-    {
-      "title": "Falhas críticas do macOS, SharePoint, vCenter e Microsoft IKE sob exploração ativa - The Hacker News",
-      "summary": "Falhas críticas do macOS, SharePoint, vCenter e Microsoft IKE sob exploração ativa The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPek1lQ1NnZWlXTUdzbUxfNi1wM281VUNsSEc0NGZHRHBHdnNvbVMwX3hPd1k5LW0zU3RrTmJJNEVIbE5IWHJaeTE3aFMydElMdXdkNUE5Q1hmVUJVdVB6V3dGQWdCOER6azJqMkYwdm1PVy1mQXRHUzBaeHFjWS1HUlV3?oc=5",
-      "published": "2026-08-19T11:01:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "CISA pede correção imediata de vulnerabilidades exploradas da Microsoft, VMware e Apple",
-      "summary": "As falhas podem ser exploradas para execução remota de código, desvio de autenticação e controle de dispositivo. A postagem CISA pede correção imediata de vulnerabilidades exploradas da Microsoft, VMware e Apple apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-microsoft-vmware-apple-vulnerabilities/",
-      "published": "2026-08-19T10:37:31+00:00",
       "image": ""
     }
   ]
