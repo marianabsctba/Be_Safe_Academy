@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-08-19T13:13:46.673326+00:00",
+  "updated_at": "2026-08-19T15:49:45.016430+00:00",
   "items": [
+    {
+      "title": "Os ataques de pulverização de senhas aumentam 155 vezes à medida que hackers exploram lacunas de MFA",
+      "summary": "A Huntress observou um aumento de 155 vezes nos ataques de pulverização de senhas no primeiro semestre de 2026, incluindo uma campanha que gerou mais de 81 milhões de tentativas de login em duas semanas. Os ataques exploraram a autenticação legada e lacunas na",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
+      "published": "2026-08-19T14:00:10+00:00",
+      "image": ""
+    },
+    {
+      "title": "Evento virtual hoje: CodeSecCon – Proteja seu código e aplicativos",
+      "summary": "CodeSecCon é o principal evento virtual que reúne desenvolvedores e profissionais de segurança cibernética para revolucionar a forma como os aplicativos são construídos, protegidos e mantidos. O post Evento Virtual Hoje: CodeSecCon – Proteja seu código e aplic",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/virtual-event-today-codeseccon-secure-your-code-and-applications/",
+      "published": "2026-08-19T13:36:17+00:00",
+      "image": ""
+    },
+    {
+      "title": "Campanha de espionagem SilkParasite visa governos da Ásia Central com cinco novos RATs",
+      "summary": "Uma operação de espionagem cibernética anteriormente não relatada, apelidada de SilkParasite, foi observada tendo como alvo órgãos governamentais na Ásia Central. O conjunto de intrusão utiliza sete famílias de ferramentas de acesso remoto (RAT), cinco das qua",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
+      "published": "2026-08-19T13:12:17+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgukQx26zt-EE2Q-I5EPzGDeXiUneL1NzNma73qc5r03gJ5Xj6kiTigXadbXa1XWqg7Y-UHq5YzEu7bPxN4BXjVUbId9eaPwWddiP_oB7Zz2fBV0bxr2S2wh9oVEFI-IEe4jMgA1REmrbKFSE33oztVDuz0p2TQhKA_0koqZ3qYcWH_d5Ec4lExxdMzWw5I/s1600/malware-code.jpg"
+    },
     {
       "title": "Prevalent AI levanta US$ 22 milhões para expandir a plataforma Data Fabric",
       "summary": "A empresa anteriormente inicializada ajuda as organizações a operar agentes de IA em escala de forma segura e confiável. A postagem Prevalent AI levanta US$ 22 milhões para expandir a plataforma Data Fabric apareceu pela primeira vez na SecurityWeek.",
@@ -8,6 +35,24 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/prevalent-ai-raises-22-million-to-expand-data-fabric-platform/",
       "published": "2026-08-19T12:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers comprometeram mais de 14.500 dispositivos Dahua usando ataques de credenciais, desvios de autenticação e P2P",
+      "summary": "Pesquisadores de segurança cibernética da Hunt.io divulgaram detalhes de uma campanha que, segundo eles, comprometeu mais de 14.530 dispositivos Dahua entre 17 de junho e 22 de julho de 2026, usando ataques de credenciais, duas falhas de desvio de autenticação",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
+      "published": "2026-08-19T11:34:28+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMoFWi-QSod_BQxqARN9B9-f3XXRsEk-QHunmW3JSc9DHyZNKRK91l5KTzt_DYxGnTUtGqRMo1WHR9zfREMAXDAeDOYFgXpSJdgyUXHgOGTnpiokI06ZsJ1syAzn8GYlkzZqr6L73IsPJDAKgCbobSSkzZfWfJPapFiVJS4Kc1DyP3SBsMFgyZjCL6V6Y/s1600/camera.jpg"
+    },
+    {
+      "title": "Hackers comprometeram mais de 14.500 dispositivos Dahua usando ataques de credenciais, desvios de autenticação e P2P - The Hacker News",
+      "summary": "Hackers comprometeram mais de 14.500 dispositivos Dahua usando ataques de credenciais, desvios de autenticação e P2P The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNekdONGtJT29yY1dqUzZVamcxblV6c1BqWDU5TU9admIwQTliSzg0SERMVVlPMGh0RWt2S3N1Zl9kWG5jNy1WNHoyd1ludzB0d3FzbXRLY0dod0JhNVlTQ28xc0hsOFRZYzlrbzZrS21MdjFVVlhQY2RRQ1djWjBUSXU2Vm4?oc=5",
+      "published": "2026-08-19T11:34:00+00:00",
       "image": ""
     },
     {
@@ -20,6 +65,15 @@
       "image": ""
     },
     {
+      "title": "Phishing 3.0: a luta passa para agente versus agente",
+      "summary": "A maioria das defesas de e-mail ainda fazem o trabalho que faziam há uma década. Digitalize a mensagem, procure por algo malicioso e bloqueie-a. Isso funcionou quando o perigo estava na carga útil, em um link ou anexo incorreto. Parou de funcionar quando o per",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
+      "published": "2026-08-19T11:30:00+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQNc2xSAgLu-A9p7sNrEqSu_NjH29MY18RsTwxzLEGW1a1qUJIMSu5RlZg1V8tPxQg55hqA94wYqBiD74lF3l6XXYB43oM_xalMLq8_uRR1xAuSX6dop3Cdmg3lwljU1Nl4aqsKHHDr1Ju4n5Q6j_0LqbGqX8coexq7DaRU9IzRZDHKbDqQoNYD1CRcNg/s1600/iron.jpg"
+    },
+    {
       "title": "StopAndProtect usa quase 2.000 sites WordPress hackeados para espalhar malware e roubar dados",
       "summary": "Pesquisadores de segurança cibernética sinalizaram uma operação global de crimes cibernéticos que abusa de milhares de sites WordPress hackeados como infraestrutura para disseminar malware, comandar hosts infectados, armazenar documentos roubados, capturas de ",
       "category": "AMEAÇAS",
@@ -27,6 +81,15 @@
       "url": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
       "published": "2026-08-19T11:25:28+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHtWFBMa_xYpIkK39I2gvAJrksqJBAkRSnEZ-WjwpQtbV9mgfPRzWp3qtdhk_v1yOG67pAZ5H3DAFRVv7rEzbns9IuAa4_DV-MUBDIb6fuWzLyRvFXyC1fOaTUPbwxdoY4cykbPy3wXEn3HvlnbjbqH37vkLKMSJA799pVeD50RqMGlJJztFJZcFzR2xTf/s1600/wordpress-hacks.jpg"
+    },
+    {
+      "title": "StopAndProtect usa quase 2.000 sites WordPress hackeados para espalhar malware e roubar dados – The Hacker News",
+      "summary": "StopAndProtect usa quase 2.000 sites WordPress hackeados para espalhar malware e roubar dados The Hacker News",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM3I5dGdkUV9pM0RPM3FkanpKYXVlSFFYRUFURnk5bHhNaTUwQkdPbkFvSnMydE9GMTJLeEMwWGIxTVRJbWpWS0J5NU10RVZHY3lHb1FfUWVTSjN1dExNTWRGZVk5Z2NKOVE0WC1XOXhhSWZmMzhEMXg5RlNLT1ZXdWVfTQ?oc=5",
+      "published": "2026-08-19T11:25:00+00:00",
+      "image": ""
     },
     {
       "title": "Microsoft corrige problema conhecido que causa travamentos do Windows Defender",
@@ -54,6 +117,15 @@
       "url": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
       "published": "2026-08-19T11:01:48+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJDdcdHtgq-nTzruVpw0hyZmBZtfG4iwLgi_nfw6A70e_mXt7LUSnyTQ7ZdgclMUypEe7s8s-LDmykPATeFixDXHEP_j1zhheNBnHA1TebBqoYtw1-3g_-LqlSuk8MczmJ3BtD6MO4TL1FVdLEcZXVKn_Rd7ucsm0Imb8QTjxJXZY52RkgfUd26FPQanbZ/s1600/kev.jpg"
+    },
+    {
+      "title": "Falhas críticas do macOS, SharePoint, vCenter e Microsoft IKE sob exploração ativa - The Hacker News",
+      "summary": "Falhas críticas do macOS, SharePoint, vCenter e Microsoft IKE sob exploração ativa The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPek1lQ1NnZWlXTUdzbUxfNi1wM281VUNsSEc0NGZHRHBHdnNvbVMwX3hPd1k5LW0zU3RrTmJJNEVIbE5IWHJaeTE3aFMydElMdXdkNUE5Q1hmVUJVdVB6V3dGQWdCOER6azJqMkYwdm1PVy1mQXRHUzBaeHFjWS1HUlV3?oc=5",
+      "published": "2026-08-19T11:01:00+00:00",
+      "image": ""
     },
     {
       "title": "CISA pede correção imediata de vulnerabilidades exploradas da Microsoft, VMware e Apple",
@@ -90,78 +162,6 @@
       "url": "https://www.securityweek.com/943-patches-rolled-out-with-oracles-august-2026-security-update/",
       "published": "2026-08-19T09:14:51+00:00",
       "image": ""
-    },
-    {
-      "title": "Chrome e atualizações do Firefox corrigem dezenas de vulnerabilidades",
-      "summary": "Os bugs podem levar à execução de código, escalonamento de privilégios, fuga de sandbox e divulgação de informações. O post Chrome e Firefox atualizam patch de dezenas de vulnerabilidades apareceu pela primeira vez em SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/chrome-firefox-updates-patch-dozens-of-vulnerabilities/",
-      "published": "2026-08-19T08:19:09+00:00",
-      "image": ""
-    },
-    {
-      "title": "CISA: Medusa ransomware atingiu mais de 500 organizações de infraestrutura crítica",
-      "summary": "O FBI disse na terça-feira que a gangue de ransomware Medusa violou mais de 500 organizações de infraestrutura crítica nos Estados Unidos desde junho de 2021. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/",
-      "published": "2026-08-19T08:00:48+00:00",
-      "image": ""
-    },
-    {
-      "title": "O impacto da violação de dados do CareCloud cresce para 3,7 milhões de indivíduos",
-      "summary": "Inicialmente, acreditava-se que a violação de dados afetaria cerca de 350.000 pessoas, mas o rastreador de violação do HHS mostra um impacto muito maior. O post Impacto da violação de dados do CareCloud cresce para 3,7 milhões de indivíduos apareceu pela prime",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/carecloud-data-breach-impact-grows-to-3-7-million-individuals/",
-      "published": "2026-08-19T06:56:43+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft vincula mais de 30 domínios rotativos à infraestrutura MacSync Stealer",
-      "summary": "Os especialistas do Microsoft Defender vincularam mais de 30 domínios da web ao MacSync Stealer, um ladrão de informações focado no macOS, depois de correlacionar comportamentos recorrentes de endpoint e de rede em uma infraestrutura em constante mudança, rast",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
-      "published": "2026-08-19T06:01:53+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLR2UjD4FhPqPT7MZpKuuqDl82K13qHQ_ob2-S_fK62g7UtwW6jn6YafX4RcZcqFgZWFbXiuCTkLbeD9zC_ws4mOUL0xVJgJ315fMiFlqxDFnhyphenhyphenIe2K8IXv3Vn1ZfWJevZywKd01wSpTS0BT08VlGtSoksz8y0ihBug5XqbRN48jy_NoQx-4fRc52Khzg/s1600/apple-macos.jpg"
-    },
-    {
-      "title": "Clop-Linked Windchill Web Shell descriptografa credenciais e mapeia dados de engenharia",
-      "summary": "Um web shell JavaServer Pages (JSP) implantado após a exploração de uma falha crítica de segurança nos servidores PTC Windchill e FlexPLM foi projetado especificamente para o software corporativo Product Lifecycle Management (PLM), de acordo com novas descober",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
-      "published": "2026-08-19T05:39:25+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit3cCqpn48W_lqEDCb9ewKFToGQcvhUjO939N0Gja-aTvCvRTz8kdOPZG1bhyphenhyphenED2XNeB82rjCIeVO3Nw9akDlMnQZqc7keiel8H82zgtf1A7fhb6DP3z6Qh3Ehk6AGrMt77rXkoNhLaDeEl692kDHAHVsNb7AOcDxpsavM0Hj9TZRLLJsuQ-OT3oQOvFMi/s1600/ptc.jpg"
-    },
-    {
-      "title": "Hacker vinculado à China mostra capacidades de IA em ataque APAC – Dark Reading",
-      "summary": "Hacker vinculado à China mostra capacidades de IA em leitura obscura de ataques na APAC",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOHlVUlBxOTljdW96SkpSdUIyU0V0TmNaZUw1b181bktkbmFaS3d2X3RyVlc3eTN2YnhWRkFOTVdWRDFKQ0EyekZPRHF5d2VQTnlJTG1MTU5xRXE4T2Y4LVdwanI0RDA2V1BqUVh1VlBkN182UmlCZ3d5TGYtM2xJbVo4Mkl1d0dFd2Y3STQ0cGJSbHV0SFljRWJxTWV3bGZJSldkMg?oc=5",
-      "published": "2026-08-19T01:04:56+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hacker ligado à China mostra capacidades de IA em ataque APAC",
-      "summary": "No primeiro suposto ataque “quase autónomo” a um Estado-nação, um operador de língua chinesa utilizou uma estrutura complexa de IA para atingir e comprometer agências governamentais, provavelmente em Taiwan.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack",
-      "published": "2026-08-19T01:00:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt232ea541e9b19c8b/6a84862b3f6ec4004afa5e46/china-national-AI-ImageFlow-shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Falha crítica de zero clique do GitLab apresenta desafios de mitigação",
-      "summary": "A falta de detalhes técnicos pode dificultar a detecção de exploração potencial do CVE-2026-19478 pelas organizações que executam versões autogerenciadas do GitLab.",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges",
-      "published": "2026-08-18T21:25:58+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1cc19b0ee66e581e/6a84baf0098985445ad1e287/gitlab_bella1105_shutterstock.jpg?width=720&quality=80&disable=upscale"
     }
   ]
 }
