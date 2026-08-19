@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-08-19T15:49:45.016430+00:00",
+  "updated_at": "2026-08-19T18:56:45.660463+00:00",
   "items": [
+    {
+      "title": "EUA alertam sobre ataques alimentados por IA a PLCs da Siemens em infraestrutura crítica",
+      "summary": "As agências de segurança cibernética dos EUA alertam que os agentes de ameaças estão usando scripts gerados por IA para explorar controladores lógicos programáveis ​​(PLCs) da série S7 da Siemens em infraestruturas críticas dos EUA. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
+      "published": "2026-08-19T17:50:01+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft nomeada líder no Frost Radar™: plataformas de proteção de carga de trabalho em nuvem, 2026",
+      "summary": "A Microsoft é nomeada líder visionária no 2026 Frost Radar for Cloud Workload Protection Platforms, reconhecida pela segurança de tempo de execução unificada com o Microsoft Defender for Cloud. A postagem Microsoft nomeada líder no Frost Radar™: plataformas de",
+      "category": "CLOUD & IA",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/",
+      "published": "2026-08-19T17:30:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "SilkParasite ameaça organizações da Ásia Central com uma enxurrada de RATs",
+      "summary": "Uma campanha de spear-phishing levada a cabo por um grupo chinês ligado ao FamousSparrow fornece informações sobre movimentos globais geopolíticos, técnicos e estratégicos das APTs da China.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats",
+      "published": "2026-08-19T16:58:23+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf72b6d96243f3ad0/6a85b7da026bc525d4e194a5/rats-Andyworks-Getty-2192975649.jpg?width=720&quality=80&disable=upscale"
+    },
     {
       "title": "Os ataques de pulverização de senhas aumentam 155 vezes à medida que hackers exploram lacunas de MFA",
       "summary": "A Huntress observou um aumento de 155 vezes nos ataques de pulverização de senhas no primeiro semestre de 2026, incluindo uma campanha que gerou mais de 81 milhões de tentativas de login em duas semanas. Os ataques exploraram a autenticação legada e lacunas na",
@@ -134,33 +161,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-microsoft-vmware-apple-vulnerabilities/",
       "published": "2026-08-19T10:37:31+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falha crítica de RCE na extensão IKE do Windows agora explorada ativamente",
-      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) alertou que os hackers estão explorando uma falha de execução remota de código (RCE) de gravidade crítica no componente Windows Internet Key Exchange (IKE) Service Extensions. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
-      "published": "2026-08-19T10:12:24+00:00",
-      "image": ""
-    },
-    {
-      "title": "Descrevendo ataques com análise de roteiro criminal",
-      "summary": "Martin explora como o uso da análise do roteiro do crime para descrever um ataque com linguagem cotidiana torna a situação acessível a públicos não técnicos e identifica pontos onde o crime pode ser interrompido.",
-      "category": "INCIDENTES",
-      "source": "Cisco Talos",
-      "url": "https://blog.talosintelligence.com/describing-attacks-with-crime-script-analysis/",
-      "published": "2026-08-19T10:00:52+00:00",
-      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/on_the_radar.jpg"
-    },
-    {
-      "title": "943 patches lançados com a atualização de segurança de agosto de 2026 da Oracle",
-      "summary": "As correções resolvem mais de 1.000 vulnerabilidades em duas dúzias de produtos, incluindo mais de 460 bugs exploráveis ​​remotamente. A postagem 943 patches lançados com a atualização de segurança de agosto de 2026 da Oracle apareceu pela primeira vez na Secu",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/943-patches-rolled-out-with-oracles-august-2026-security-update/",
-      "published": "2026-08-19T09:14:51+00:00",
       "image": ""
     }
   ]
