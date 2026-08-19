@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-08-18T21:42:00.745183+00:00",
+  "updated_at": "2026-08-19T01:56:04.165705+00:00",
   "items": [
+    {
+      "title": "Hacker ligado à China mostra capacidades de IA em ataque APAC",
+      "summary": "No primeiro suposto ataque “quase autónomo” a um Estado-nação, um operador de língua chinesa utilizou uma estrutura complexa de IA para atingir e comprometer agências governamentais, provavelmente em Taiwan.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack",
+      "published": "2026-08-19T01:00:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt232ea541e9b19c8b/6a84862b3f6ec4004afa5e46/china-national-AI-ImageFlow-shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Falha crítica de clique zero do GitLab apresenta desafios de mitigação",
+      "summary": "A falta de detalhes técnicos pode dificultar a detecção de exploração potencial do CVE-2026-19478 pelas organizações que executam versões autogerenciadas do GitLab.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges",
+      "published": "2026-08-18T21:25:58+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1cc19b0ee66e581e/6a84baf0098985445ad1e287/gitlab_bella1105_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
     {
       "title": "Ataque 'CoSnitch' enganou o copiloto para mapear a arquitetura",
       "summary": "Os pesquisadores descobriram uma técnica de “meta-hacking” que pode manipular o serviço de IA para revelar suas próprias fraquezas de segurança.",
@@ -38,6 +56,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOzcJe940Ayk9JrnE-tmotZ-mEHZiA5Jc0A8Sw9IZIfYEnH61X8whAW6jJZTnzLIQYA37foce9X_fshoAVwjLyBKrjvHbkuhhtwZ2Mewxtf1Syn9FBOvZBqwcMWXOCKFNnASyrCOQ9XTF6f174Aa4O55O7tbU6evYcrrV0H_psoYYq3uQQ_GvZqsu0e0ik/s1600/mlflow.jpg"
     },
     {
+      "title": "Atacantes exploram falha SSRF do MLflow para roubar credenciais e segredos da nuvem - The Hacker News",
+      "summary": "Atacantes exploram falha SSRF do MLflow para roubar credenciais e segredos da nuvem The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZk5MOEZ1Y2JKb1lBUXM3enNubHVSVHFEa1JCVzd1ZU1VSlFUeDFyUEZjanZVQ1ZHU0N1Y1J6OXIzZFBWanpDNTloTGduMTdzd0hSc3Z3QTRVZHNEejZFdkRuMU1JbnNyTTVuQ01BMXBwV21GdVhFU1p5a0NHRVljT19B?oc=5",
+      "published": "2026-08-18T17:44:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Clop criou web shell personalizado para ataques de roubo de dados do Windchill",
       "summary": "Um shell web Java personalizado provavelmente vinculado à gangue de ransomware Clop foi projetado especificamente para servidores PTC Windchill e FlexPLM, com recursos integrados para descriptografar credenciais, enumerar repositórios de arquivos e roubar arqu",
       "category": "AMEAÇAS",
@@ -65,6 +92,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo_eOapavOiIGXF7klCQPyN0-Qg2nWk9KlUYzPHuLwAyMKM75P3E2jciQR3v9gt2UBmez3XRSC57e5Fe9Oowm2brtgRXz5nJMPN8iQnBYddnTI4DyffnBAh4iLQFSOhA-8RhbbwuXqbJQOkhiXo5asFku1kFfmQd-UsHT6ulzdvRvw7WXwFKYFBTU_Q9nB/s1600/ransom.jpg"
     },
     {
+      "title": "Ransom Busters afirma que hackeou servidores de ransomware e pede às vítimas até US$ 60.000 - The Hacker News",
+      "summary": "Ransom Busters afirma ter hackeado servidores de ransomware e pede até US$ 60 mil às vítimas The Hacker News",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5tbmhJMzNtc1BMU1BrZ25uNzRSNE44VjE5dVpGZzlJb21JeDdUM29iVnRQX3lRcDZubGlSY0NFTGVINmFEdC0tQUlGYkFCRkhrTnFIWXRZQzVCa29mQVhXYVk2c0hfZ3N2eW43b242SldHX3l0XzVOVTl3?oc=5",
+      "published": "2026-08-18T16:58:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Webinar hoje: Repensando a defesa cibernética para ataques de velocidade de IA",
       "summary": "Participe do webinar ao vivo enquanto exploramos se as operações de segurança que priorizam a detecção podem acompanhar o ritmo da IA ​​ou se é hora de repensar a prevenção como o padrão mais forte. A postagem Webinar hoje: Repensando a defesa cibernética para",
       "category": "INCIDENTES",
@@ -74,7 +110,7 @@
       "image": ""
     },
     {
-      "title": "Conversas CISO: Nico Waisman – De hacker autodidata a segurança ofensiva orientada por IA na XBOW",
+      "title": "Conversas CISO: Nico Waisman – De hacker autodidata a segurança ofensiva orientada por IA no XBOW",
       "summary": "Sem treinamento formal e sem plano de carreira, Waisman construiu um caminho desde o cenário inicial de hackers na Argentina até liderar a segurança em uma empresa de segurança ofensiva movida por IA. A postagem Conversas CISO: Nico Waisman – De hacker autodid",
       "category": "DEFESA",
       "source": "SecurityWeek",
@@ -89,6 +125,15 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
       "published": "2026-08-18T14:01:11+00:00",
+      "image": ""
+    },
+    {
+      "title": "'Ransom Busters': ator de ransomware se apresenta como serviço de recuperação de incidentes - darkreading.com",
+      "summary": "'Ransom Busters': ator de ransomware se apresenta como serviço de recuperação de incidentes darkreading.com",
+      "category": "AMEAÇAS",
+      "source": "darkreading.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNUdhbWZqSkE4ZEp5aVNsN1RQSFdQYXppM2ZpSUt2UzdqWEhCaVdoYnJoQi1yTGRlTEJfd1lPWVBsRTFJLUNjb3BhcUUzUGlNWmRIMWRVdHVuNHZhUTB1bnNJal90a2xOZVN4U1prb1FxU0JrTFpfbWpFQmtFejU4eklQNmkyUDBlejRrMWF0T0c4Q1FJOXZxdUN4OVBsYzh6WENkV0h4anE5b0RKS3N5LXJB?oc=5",
+      "published": "2026-08-18T13:00:35+00:00",
       "image": ""
     },
     {
@@ -117,51 +162,6 @@
       "url": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
       "published": "2026-08-18T13:00:00+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Os “vírus mentais” da IA ​​podem se espalhar entre agentes por meio de arquivos de prompt persistentes",
-      "summary": "Pesquisadores de segurança da Anthropic e da EPFL da Suíça demonstraram que cargas úteis de autopropagação podem se espalhar de um agente de inteligência artificial (IA) para outro por meio de arquivos editáveis ​​de prompt do sistema que os agentes autônomos ",
-      "category": "CLOUD & IA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
-      "published": "2026-08-18T12:38:36+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnswSsouQNTAo6sTmVePaIjeVawCruhIMYtwOXzzX0Qup-a8tWq6WsuiwxkhQxemYCsguvWzRqA5ILOcnEtQa2Xz2rpmU8aQ_c3zd5m82sqMjJa4ruVDS5JVH0P9trKFRwZY53P6cek06_5q-5Xz9TzuyL1TzKP_wnMY9_16AgwjoCXomphcu4p7Or1Kk/s1600/mindvirus.jpg"
-    },
-    {
-      "title": "TWINLOOT abusa do SharePoint e do Teams para roubar credenciais e se mover entre redes",
-      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma estrutura de implante Python anteriormente não documentada, chamada TWINLOOT. “TWINLOOT é um implante Python modular e reforçado com PyArmor, projetado para operar toda a sua infraestrutura de c",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
-      "published": "2026-08-18T12:38:20+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIrQ96TUVfZUEVto7SlNlTp_8P2270tmrpifBbd-F8vo3gQz3Na40YH60oRh2dEazLOZInJzCGa66bxl9t85Usl30eG_Db_yjMWup2eOM3BmaPhILk_Ihs-yo6AdB-DWG99L7OXK9bdD8Jygu2imWU71-Ap3bPtYLOgqu-vO2Zbr5egp6A5HNcXDSaa0o2/s1600/windows-malware.jpg"
-    },
-    {
-      "title": "Xpander levanta US$ 7,5 milhões para gerenciamento e governança de IA",
-      "summary": "A plataforma Xpander usa um agente universal que executa agentes de IA como cargas de trabalho portáteis e renderiza interfaces sob demanda com segurança. A postagem Xpander levanta US$ 7,5 milhões para gerenciamento e governança de IA apareceu pela primeira v",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/xpander-raises-7-5-million-for-ai-management-and-governance/",
-      "published": "2026-08-18T12:29:08+00:00",
-      "image": ""
-    },
-    {
-      "title": "Fortinet adquire empresa de segurança de IA Virtue AI",
-      "summary": "A Fortinet usará a tecnologia Virtue AI para aprimorar seu portfólio de segurança de IA, inclusive para modelos de IA, aplicativos e sistemas de agente. A postagem Fortinet adquire a AI Security Company Virtue AI apareceu pela primeira vez na SecurityWeek.",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/fortinet-acquires-ai-security-company-virtue-ai/",
-      "published": "2026-08-18T12:06:21+00:00",
-      "image": ""
-    },
-    {
-      "title": "Um invasor destruiu os portais Salesforce e ServiceNow desde 2025",
-      "summary": "Uma única peça de infraestrutura extrai registros dos portais de clientes Salesforce e ServiceNow em vários setores há mais de um ano, de acordo com uma pesquisa publicada esta semana pela plataforma de segurança de agentes Reco. A atividade, que Reco chamou d",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
-      "published": "2026-08-18T11:30:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijGpzrXApP6QuAgCJDVSMHyi1nEVE7liFsNRwcNTWzkwbjmzqv8vGi8qalq_aWVgtgrD2CC_ZT-qXCsj_Bkj8njgIFQExo0gg5PG_dVIQfo9-wW6lIBh6OLp6z4nBeephIQACe1GX_KOP6nzqe10CM4H8p7EwRIlWGImwXgXjsSIYKCCVlSB7Oe1LWAIQ/s1600/reco.gif"
     }
   ]
 }
