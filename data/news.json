@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-08-19T07:09:33.498263+00:00",
+  "updated_at": "2026-08-19T09:52:23.921716+00:00",
   "items": [
+    {
+      "title": "943 patches lançados com a atualização de segurança de agosto de 2026 da Oracle",
+      "summary": "As correções resolvem mais de 1.000 vulnerabilidades em duas dúzias de produtos, incluindo mais de 460 bugs exploráveis ​​remotamente. A postagem 943 patches lançados com a atualização de segurança de agosto de 2026 da Oracle apareceu pela primeira vez na Secu",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/943-patches-rolled-out-with-oracles-august-2026-security-update/",
+      "published": "2026-08-19T09:14:51+00:00",
+      "image": ""
+    },
+    {
+      "title": "Chrome e atualizações do Firefox corrigem dezenas de vulnerabilidades",
+      "summary": "Os bugs podem levar à execução de código, escalonamento de privilégios, fuga de sandbox e divulgação de informações. O post Chrome e Firefox atualizam patch de dezenas de vulnerabilidades apareceu pela primeira vez em SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/chrome-firefox-updates-patch-dozens-of-vulnerabilities/",
+      "published": "2026-08-19T08:19:09+00:00",
+      "image": ""
+    },
+    {
+      "title": "CISA: Medusa ransomware atingiu mais de 500 organizações de infraestrutura crítica",
+      "summary": "O FBI disse na terça-feira que a gangue de ransomware Medusa violou mais de 500 organizações de infraestrutura crítica nos Estados Unidos desde junho de 2021. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/",
+      "published": "2026-08-19T08:00:48+00:00",
+      "image": ""
+    },
     {
       "title": "O impacto da violação de dados do CareCloud cresce para 3,7 milhões de indivíduos",
       "summary": "Inicialmente, acreditava-se que a violação de dados afetaria cerca de 350.000 pessoas, mas o rastreador de violação do HHS mostra um impacto muito maior. O post Impacto da violação de dados do CareCloud cresce para 3,7 milhões de indivíduos apareceu pela prime",
@@ -9,6 +36,24 @@
       "url": "https://www.securityweek.com/carecloud-data-breach-impact-grows-to-3-7-million-individuals/",
       "published": "2026-08-19T06:56:43+00:00",
       "image": ""
+    },
+    {
+      "title": "Microsoft vincula mais de 30 domínios rotativos à infraestrutura MacSync Stealer",
+      "summary": "Os especialistas do Microsoft Defender vincularam mais de 30 domínios da web ao MacSync Stealer, um ladrão de informações focado no macOS, depois de correlacionar comportamentos recorrentes de endpoint e de rede em uma infraestrutura em constante mudança, rast",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
+      "published": "2026-08-19T06:01:53+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLR2UjD4FhPqPT7MZpKuuqDl82K13qHQ_ob2-S_fK62g7UtwW6jn6YafX4RcZcqFgZWFbXiuCTkLbeD9zC_ws4mOUL0xVJgJ315fMiFlqxDFnhyphenhyphenIe2K8IXv3Vn1ZfWJevZywKd01wSpTS0BT08VlGtSoksz8y0ihBug5XqbRN48jy_NoQx-4fRc52Khzg/s1600/apple-macos.jpg"
+    },
+    {
+      "title": "Clop-Linked Windchill Web Shell descriptografa credenciais e mapeia dados de engenharia",
+      "summary": "Um web shell JavaServer Pages (JSP) implantado após a exploração de uma falha crítica de segurança nos servidores PTC Windchill e FlexPLM foi projetado especificamente para o software corporativo Product Lifecycle Management (PLM), de acordo com novas descober",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
+      "published": "2026-08-19T05:39:25+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit3cCqpn48W_lqEDCb9ewKFToGQcvhUjO939N0Gja-aTvCvRTz8kdOPZG1bhyphenhyphenED2XNeB82rjCIeVO3Nw9akDlMnQZqc7keiel8H82zgtf1A7fhb6DP3z6Qh3Ehk6AGrMt77rXkoNhLaDeEl692kDHAHVsNb7AOcDxpsavM0Hj9TZRLLJsuQ-OT3oQOvFMi/s1600/ptc.jpg"
     },
     {
       "title": "Hacker vinculado à China mostra capacidades de IA em ataque APAC – Dark Reading",
@@ -29,7 +74,7 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt232ea541e9b19c8b/6a84862b3f6ec4004afa5e46/china-national-AI-ImageFlow-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Falha crítica de clique zero do GitLab apresenta desafios de mitigação",
+      "title": "Falha crítica de zero clique do GitLab apresenta desafios de mitigação",
       "summary": "A falta de detalhes técnicos pode dificultar a detecção de exploração potencial do CVE-2026-19478 pelas organizações que executam versões autogerenciadas do GitLab.",
       "category": "VULNERABILIDADES",
       "source": "Dark Reading",
@@ -117,51 +162,6 @@
       "url": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
       "published": "2026-08-18T16:58:16+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo_eOapavOiIGXF7klCQPyN0-Qg2nWk9KlUYzPHuLwAyMKM75P3E2jciQR3v9gt2UBmez3XRSC57e5Fe9Oowm2brtgRXz5nJMPN8iQnBYddnTI4DyffnBAh4iLQFSOhA-8RhbbwuXqbJQOkhiXo5asFku1kFfmQd-UsHT6ulzdvRvw7WXwFKYFBTU_Q9nB/s1600/ransom.jpg"
-    },
-    {
-      "title": "Webinar hoje: Repensando a defesa cibernética para ataques de velocidade de IA",
-      "summary": "Participe do webinar ao vivo enquanto exploramos se as operações de segurança que priorizam a detecção podem acompanhar o ritmo da IA ​​ou se é hora de repensar a prevenção como o padrão mais forte. A postagem Webinar hoje: Repensando a defesa cibernética para",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/webinar-today-rethinking-cyber-defense-for-ai-speed-attacks/",
-      "published": "2026-08-18T15:03:30+00:00",
-      "image": ""
-    },
-    {
-      "title": "Conversas CISO: Nico Waisman – De hacker autodidata a segurança ofensiva orientada por IA no XBOW",
-      "summary": "Sem treinamento formal e sem plano de carreira, Waisman construiu um caminho desde o cenário inicial de hackers na Argentina até liderar a segurança em uma empresa de segurança ofensiva movida por IA. A postagem Conversas CISO: Nico Waisman – De hacker autodid",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ciso-conversations-nico-waisman-from-self-taught-hacker-to-ai-driven-offensive-security-at-xbow/",
-      "published": "2026-08-18T14:30:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Seus controles bloqueiam ataques conhecidos. E quanto ao comportamento?",
-      "summary": "Os controles de segurança podem bloquear um método de ataque familiar e, ao mesmo tempo, perder maneiras mais silenciosas de atingir o mesmo objetivo. O Blue Report 2026 da Picus Security mostra como as taxas de prevenção podem variar drasticamente de acordo c",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
-      "published": "2026-08-18T14:01:11+00:00",
-      "image": ""
-    },
-    {
-      "title": "Surto de vulnerabilidades impulsionado por IA quebra o modelo tradicional de patches",
-      "summary": "Rapid7 alerta que os ciclos de patches tradicionais não conseguem acompanhar o aumento das divulgações de vulnerabilidades e a exploração mais rápida, forçando os defensores a priorizar a exposição em vez das pontuações de gravidade. A postagem O surto de vuln",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ai-driven-vulnerability-surge-breaks-the-traditional-patching-model/",
-      "published": "2026-08-18T13:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "'Ransom Busters': ator de ransomware se apresenta como serviço de recuperação de incidentes",
-      "summary": "Um afiliado de ransomware parece estar se aproximando das vítimas com ofertas de ajuda, mascarando sua verdadeira intenção de desviar pagamentos de resgate.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
-      "published": "2026-08-18T13:00:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?width=720&quality=80&disable=upscale"
     }
   ]
 }
