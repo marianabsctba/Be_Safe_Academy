@@ -1,6 +1,87 @@
 {
-  "updated_at": "2026-08-19T09:52:23.921716+00:00",
+  "updated_at": "2026-08-19T13:13:46.673326+00:00",
   "items": [
+    {
+      "title": "Prevalent AI levanta US$ 22 milhões para expandir a plataforma Data Fabric",
+      "summary": "A empresa anteriormente inicializada ajuda as organizações a operar agentes de IA em escala de forma segura e confiável. A postagem Prevalent AI levanta US$ 22 milhões para expandir a plataforma Data Fabric apareceu pela primeira vez na SecurityWeek.",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/prevalent-ai-raises-22-million-to-expand-data-fabric-platform/",
+      "published": "2026-08-19T12:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "EUA acusam 17 hackers iranianos e oferecem recompensas de US$ 10 milhões por 5 deles",
+      "summary": "Os 17 membros do Instituto Mabna visaram centenas de universidades e organizações nos EUA e no exterior. A postagem EUA acusa 17 hackers iranianos e oferece recompensas de US$ 10 milhões por 5 deles apareceu pela primeira vez na SecurityWeek.",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/us-charges-17-iranian-hackers-offers-10-million-rewards-for-5-of-them/",
+      "published": "2026-08-19T11:30:33+00:00",
+      "image": ""
+    },
+    {
+      "title": "StopAndProtect usa quase 2.000 sites WordPress hackeados para espalhar malware e roubar dados",
+      "summary": "Pesquisadores de segurança cibernética sinalizaram uma operação global de crimes cibernéticos que abusa de milhares de sites WordPress hackeados como infraestrutura para disseminar malware, comandar hosts infectados, armazenar documentos roubados, capturas de ",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
+      "published": "2026-08-19T11:25:28+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHtWFBMa_xYpIkK39I2gvAJrksqJBAkRSnEZ-WjwpQtbV9mgfPRzWp3qtdhk_v1yOG67pAZ5H3DAFRVv7rEzbns9IuAa4_DV-MUBDIb6fuWzLyRvFXyC1fOaTUPbwxdoY4cykbPy3wXEn3HvlnbjbqH37vkLKMSJA799pVeD50RqMGlJJztFJZcFzR2xTf/s1600/wordpress-hacks.jpg"
+    },
+    {
+      "title": "Microsoft corrige problema conhecido que causa travamentos do Windows Defender",
+      "summary": "A Microsoft resolveu um bug que causou o travamento do Windows Defender após uma atualização de segurança recente, resultando em erros de violação de acesso 0xc0000005 em alguns sistemas afetados. [...]",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
+      "published": "2026-08-19T11:14:28+00:00",
+      "image": ""
+    },
+    {
+      "title": "Grupo Cl0p Ransomware nomeia mais de 40 vítimas da campanha PTC Windchill",
+      "summary": "A gangue do crime cibernético listou grandes empresas como Shell, Philips, Fiserv, Zebra, Mindray e Largan Precision. A postagem Grupo Cl0p Ransomware nomeia mais de 40 vítimas da campanha PTC Windchill apareceu pela primeira vez em SecurityWeek.",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/cl0p-ransomware-group-names-over-40-victims-of-ptc-windchill-campaign/",
+      "published": "2026-08-19T11:07:21+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falhas críticas do macOS, SharePoint, vCenter e Microsoft IKE sob exploração ativa",
+      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) adicionou na terça-feira quatro vulnerabilidades críticas ao seu catálogo de Vulnerabilidades Exploradas Conhecidas (KEV), afirmando que elas estão sendo exploradas em estado selvagem. As de",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
+      "published": "2026-08-19T11:01:48+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJDdcdHtgq-nTzruVpw0hyZmBZtfG4iwLgi_nfw6A70e_mXt7LUSnyTQ7ZdgclMUypEe7s8s-LDmykPATeFixDXHEP_j1zhheNBnHA1TebBqoYtw1-3g_-LqlSuk8MczmJ3BtD6MO4TL1FVdLEcZXVKn_Rd7ucsm0Imb8QTjxJXZY52RkgfUd26FPQanbZ/s1600/kev.jpg"
+    },
+    {
+      "title": "CISA pede correção imediata de vulnerabilidades exploradas da Microsoft, VMware e Apple",
+      "summary": "As falhas podem ser exploradas para execução remota de código, desvio de autenticação e controle de dispositivo. A postagem CISA pede correção imediata de vulnerabilidades exploradas da Microsoft, VMware e Apple apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-microsoft-vmware-apple-vulnerabilities/",
+      "published": "2026-08-19T10:37:31+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falha crítica de RCE na extensão IKE do Windows agora explorada ativamente",
+      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) alertou que os hackers estão explorando uma falha de execução remota de código (RCE) de gravidade crítica no componente Windows Internet Key Exchange (IKE) Service Extensions. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
+      "published": "2026-08-19T10:12:24+00:00",
+      "image": ""
+    },
+    {
+      "title": "Descrevendo ataques com análise de roteiro criminal",
+      "summary": "Martin explora como o uso da análise do roteiro do crime para descrever um ataque com linguagem cotidiana torna a situação acessível a públicos não técnicos e identifica pontos onde o crime pode ser interrompido.",
+      "category": "INCIDENTES",
+      "source": "Cisco Talos",
+      "url": "https://blog.talosintelligence.com/describing-attacks-with-crime-script-analysis/",
+      "published": "2026-08-19T10:00:52+00:00",
+      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/on_the_radar.jpg"
+    },
     {
       "title": "943 patches lançados com a atualização de segurança de agosto de 2026 da Oracle",
       "summary": "As correções resolvem mais de 1.000 vulnerabilidades em duas dúzias de produtos, incluindo mais de 460 bugs exploráveis ​​remotamente. A postagem 943 patches lançados com a atualização de segurança de agosto de 2026 da Oracle apareceu pela primeira vez na Secu",
@@ -81,87 +162,6 @@
       "url": "https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges",
       "published": "2026-08-18T21:25:58+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1cc19b0ee66e581e/6a84baf0098985445ad1e287/gitlab_bella1105_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Ataque 'CoSnitch' enganou o copiloto para revelar sua própria arquitetura - Dark Reading",
-      "summary": "O ataque 'CoSnitch' enganou o copiloto para revelar a própria leitura sombria da arquitetura",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOEtmTHZnXzlTajFmLWpVbTVreDJocnloY0wyREVEZUIwRmFKMC1kSUtXQWVzZU1Vb3hjY25vUXFoRVNhWC1NTU9iRmVjUllVNnE0MzFMRlZOc0loaHNNdHgtYUJQbm5ZdXEzay1vQXI1UG50b1pYTFBOSy1Pbl9XZjBVc2E3UzRKbW1jQkk5UG1YeEJrZml3SlNXZHg1NTUwTHc?oc=5",
-      "published": "2026-08-18T20:34:51+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ataque 'CoSnitch' enganou o copiloto para mapear a arquitetura",
-      "summary": "Os pesquisadores descobriram uma técnica de “meta-hacking” que pode manipular o serviço de IA para revelar suas próprias fraquezas de segurança.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture",
-      "published": "2026-08-18T20:17:24+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcaf5eccbac802b13/6a84a0beeed7cf792c0eeed7/AI_apps-alexsl-GettyImages-2213179432.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "CISOs quebram o silêncio em séries documentais ‘desclassificadas’",
-      "summary": "Assaltos de milhões de dólares, divórcio e esgotamento de carreira são histórias contadas nas últimas documentações que revelam uma visão dos bastidores da comunidade de segurança cibernética.",
-      "category": "DEFESA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/cisos-break-their-silence-in-declassified-docuseries",
-      "published": "2026-08-18T18:32:01+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3d666f24b44718c6/6a84a8ad0d33646d7815f8de/GettyImages-2252724073.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Falhas pessoais do Microsoft Copilot podem permitir que um clique exfiltre dados de aplicativos conectados",
-      "summary": "O Varonis Threat Labs divulgou três vulnerabilidades no Microsoft Copilot Personal que, segundo ele, poderiam permitir que um único clique em um link criado extraísse silenciosamente dados de aplicativos conectados e outras informações disponíveis para a sessã",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
-      "published": "2026-08-18T17:47:22+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAc2Z6RvtNlJnjkfp-kCEhx8x8Q9XPLHY-oQb8NXu6cb-C5BTfa9HnmWq3G1GT3mPsHLV6Xf6tyBui-ljplsYEo9Qt8kBiNKXOwvTzACMisyS0NQ5U3bGg8O6yVEPStEPbYw4W-4ZasDNssDr2JTJD7GTo6QEpER1L-9Xci-mNSk3A5t_aLXGIHwo04FI/s1600/copilot.jpg"
-    },
-    {
-      "title": "Atacantes exploram falha SSRF do MLflow para roubar credenciais e segredos da nuvem",
-      "summary": "Duas vulnerabilidades críticas que afetam o MLflow, uma plataforma de inteligência artificial (IA) de código aberto, e o FUXA, um software SCADA/HMI de código aberto baseado na Web, desenvolvido para tecnologia operacional (TO) e automação industrial, estão te",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
-      "published": "2026-08-18T17:44:05+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOzcJe940Ayk9JrnE-tmotZ-mEHZiA5Jc0A8Sw9IZIfYEnH61X8whAW6jJZTnzLIQYA37foce9X_fshoAVwjLyBKrjvHbkuhhtwZ2Mewxtf1Syn9FBOvZBqwcMWXOCKFNnASyrCOQ9XTF6f174Aa4O55O7tbU6evYcrrV0H_psoYYq3uQQ_GvZqsu0e0ik/s1600/mlflow.jpg"
-    },
-    {
-      "title": "Atacantes exploram falha SSRF do MLflow para roubar credenciais e segredos da nuvem - The Hacker News",
-      "summary": "Atacantes exploram falha SSRF do MLflow para roubar credenciais e segredos da nuvem The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZk5MOEZ1Y2JKb1lBUXM3enNubHVSVHFEa1JCVzd1ZU1VSlFUeDFyUEZjanZVQ1ZHU0N1Y1J6OXIzZFBWanpDNTloTGduMTdzd0hSc3Z3QTRVZHNEejZFdkRuMU1JbnNyTTVuQ01BMXBwV21GdVhFU1p5a0NHRVljT19B?oc=5",
-      "published": "2026-08-18T17:44:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Clop criou web shell personalizado para ataques de roubo de dados do Windchill",
-      "summary": "Um shell web Java personalizado provavelmente vinculado à gangue de ransomware Clop foi projetado especificamente para servidores PTC Windchill e FlexPLM, com recursos integrados para descriptografar credenciais, enumerar repositórios de arquivos e roubar arqu",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
-      "published": "2026-08-18T17:29:51+00:00",
-      "image": ""
-    },
-    {
-      "title": "Caçando a infraestrutura do MacSync Stealer por meio de pivôs comportamentais",
-      "summary": "O MacSync Stealer alterna domínios rapidamente para evitar a detecção, mas seu comportamento permanece consistente. Saiba como a Microsoft descobriu mais de 30 domínios relacionados usando pivôs de caça duráveis. A postagem Caçando a infraestrutura do MacSync ",
-      "category": "DEFESA",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/",
-      "published": "2026-08-18T17:08:28+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ransom Busters afirma ter hackeado servidores de ransomware e pede às vítimas até US$ 60 mil",
-      "summary": "Um afiliado de ransomware que se autodenomina Ransom Busters foi flagrado enviando e-mails proativamente para organizações vítimas e afirma excluir dados roubados de servidores de grupos de ransomware em troca de uma taxa que varia de US$ 20.000 a US$ 60.000. ",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
-      "published": "2026-08-18T16:58:16+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo_eOapavOiIGXF7klCQPyN0-Qg2nWk9KlUYzPHuLwAyMKM75P3E2jciQR3v9gt2UBmez3XRSC57e5Fe9Oowm2brtgRXz5nJMPN8iQnBYddnTI4DyffnBAh4iLQFSOhA-8RhbbwuXqbJQOkhiXo5asFku1kFfmQd-UsHT6ulzdvRvw7WXwFKYFBTU_Q9nB/s1600/ransom.jpg"
     }
   ]
 }
