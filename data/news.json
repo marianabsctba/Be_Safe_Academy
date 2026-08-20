@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T19:04:28.154308+00:00",
+  "updated_at": "2026-08-20T21:47:20.760403+00:00",
   "items": [
     {
       "title": "Apelando aos profissionais cibernéticos para ajudar a defender a prefeitura",
@@ -9,6 +9,42 @@
       "url": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
       "published": "2026-08-21T14:00:00+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Nova estrutura CUSTODY restringe agentes de IA dentro da rede",
+      "summary": "O especialista em segurança cibernética empresarial Jake Williams se junta ao Dark Reading News Desk para explicar por que decidiu lançar sua nova estrutura de IA agente após os ataques OpenAI ao Hugging Face.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network",
+      "published": "2026-08-20T20:42:18+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5bccc03f4b27984e/6a8754a988809d97a89eb2b5/Jake_Williams_News_Desk_2026.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Ataque de ferrugem na cadeia de suprimentos coloca malware em tempo de construção em caixas com 245 milhões de downloads",
+      "summary": "O Rust Project excluiu versões maliciosas de três Rust crates amplamente usadas do crates.io depois que uma conta de mantenedor comprometida publicou lançamentos que adicionaram uma dependência typosquatted cujo script de construção baixou e executou uma carga",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
+      "published": "2026-08-20T20:22:35+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgshVe5DUMbByJkLQGRgak37eOf3HddCtrF6KCJfISPdm7l2ZwLFlnjQM3pN2mxPDpc9lWwSoH2fYfucYKBKk3vpuGAKdR5U685IZh8EFbMxWcyVenuRMyqIgvbFUa0_5Sx9pVl9Imu5omju6i7eRE0sKKxiCSKYEV1Say1LLhQHEufY10dgovzX0Nt7as/s1600/rust.jpg"
+    },
+    {
+      "title": "Supostos hackers russos abusam do Google OAuth e do WhatsApp vinculando-os a contas sequestradas",
+      "summary": "Foram observados três grupos distintos de ameaças russas suspeitas de espionagem cibernética, aproveitando fluxos de autenticação legítimos para destacar indivíduos que trabalham no meio acadêmico, aeroespacial e de defesa, governos e grupos de reflexão em tod",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
+      "published": "2026-08-20T19:59:19+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix5lAWOEf4I8fcz0CJYg-EBclOrTPnlbsf6tKT2-L8xsfQ4XqtjOq15iU6EBbIsWlqQq3e1-hIXrPe7MMg4JwSGj6mSwjSwG8V3UFMrfgYD-Lo9bKvncTGJ9lPbZoxq-1RNmKLyL_jZSiurWVgGuIxjgYYJeXW_wE51PRTDUhT7kRxp0MMpc3YflI9bntb/s1600/google-whatsapp.jpg"
+    },
+    {
+      "title": "O que perdemos: voo da Delta interrompido com hack de Wi-Fi",
+      "summary": "Neste vídeo, os editores da Dark Reading discutem algumas das notícias que não tiveram a chance de cobrir, incluindo alguns riscos assustadores à segurança dos aviões e a mais nova estratégia de “hack back” do governo dos EUA.",
+      "category": "DEFESA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack",
+      "published": "2026-08-20T19:11:15+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt873948c65f62f170/6a874b480989859872d1eb89/Delta_Vegas-Janice_Chen-GettyImages-2269887409.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "A Cyber ​​está sentindo falta da Marca?",
@@ -65,6 +101,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSn562AFIpj2ldmT5inFv5tGgfNbaM4F1OBNvCW-80nP-YmFewnJd9VMlbgYnhgWrUpHS81bS6uEXRgEmg37c14OqmkO29XqY3FcBCl637vmAxfqB3UDtL3Rvgio6cPAQQv3bYtLUIyRdog4bpgD8MqJJYhTLish4L2Ljt6aJ_WpjFmTXYhmrA-TguqH98/s1600/plc.jpg"
     },
     {
+      "title": "Scripts de exploração gerados por IA têm como alvo PLCs Siemens S7 em infraestrutura crítica dos EUA - The Hacker News",
+      "summary": "Scripts de exploração gerados por IA têm como alvo CLPs Siemens S7 em infraestrutura crítica dos EUA The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jZWZ1cy1fOFJ4TjJxSzlzTlJUejVsSzFrSXUyN3pZUDZCd1NBVjlwTmEtSXFSM2tDclp3Qm9Bb1piRmRmcWFpcm5xc1pjTk5kMW82QUJXYzVkUy1sczhXdlBXQTcyMVRYcExreEhRdTMzbHF3MlFCclVfQmN3Tm8?oc=5",
+      "published": "2026-08-20T16:59:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Tribo Transparente do Paquistão atualiza conjunto de ferramentas para ataques cibernéticos no Afeganistão",
       "summary": "Um actor ameaçador do Estado-nação está a implicar com organizações imaturas dirigidas pelos Taliban, mas a fracassar contra agências governamentais mais preparadas na Índia.",
       "category": "AMEAÇAS",
@@ -116,51 +161,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
       "published": "2026-08-20T14:01:11+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falha de VM isolada permite que JavaScript em sandbox escape para o host para RCE potencial",
-      "summary": "Pesquisadores de segurança cibernética revelaram uma falha crítica de segurança na VM isolada, uma popular sandbox de código aberto com mais de 2.900 estrelas e 190 forks no GitHub, que poderia permitir que invasores escapassem dos limites do ambiente isolado.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
-      "published": "2026-08-20T13:48:24+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ3-aEfGwe03ZMojsoiYaQ4TNjUiAPEFK-m68uY5JSlF8knbnGWOcBrqiB_4s6J47lPjyhQEuWdUMHnktRU6YfOcltn7_lXga77C8TNH4GOVAPrmIH_T0MsFKFkmQSMnvf42bnLlH0pC4BVMEpAZJLLTH51GpgfZybiZ_UWNLhKxx1oGi8PyD3bOUGG0_F/s1600/nodejs.jpg"
-    },
-    {
-      "title": "Falha crítica do NetScaler pode ignorar a autenticação em determinados servidores Gateway e AAA",
-      "summary": "A Citrix lançou atualizações para solucionar duas falhas de segurança que afetam as implantações do NetScaler ADC e do NetScaler Gateway, incluindo uma vulnerabilidade de desvio de autenticação de gravidade crítica. De acordo com a empresa de tecnologia de com",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
-      "published": "2026-08-20T13:35:13+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoCXrYMA_j7aJrrdIZKt2gQwTWYXhhHZTfBvrNcgpLLBTa5hzcmDNguBKwBhiD8p7kO5K2OeQYVbIPg2HHDBwu9LNzR6oAFE-znmFWIgjY_XzA0qdy-rA8XzV_uGvsxLWRNXCyyOlUKdDV0LGrXPN15wxYsTuZslyecGQ1cqE2OKdX5cocpp74uXenwdj0/s1600/citrix.jpg"
-    },
-    {
-      "title": "Malware 'Grandoreiro' ressurge com campanha no México",
-      "summary": "O Trojan bancário, após a remoção da aplicação da lei, está se aprimorando com recursos que dificultam a detecção e a análise.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign",
-      "published": "2026-08-20T13:30:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt50f50e8c15e845b6/6a85ffe726ec483bdf64f4e9/mexico_VictorImages_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Atacantes exploram falha SNMP do Zimbra para execução remota de código não autenticado",
-      "summary": "Uma falha de segurança agora corrigida que afeta o Zimbra Collaboration (ZCS) está sob exploração ativa, de acordo com a Equipe Polonesa de Resposta a Emergências de Computadores (CERT Polska). A vulnerabilidade em questão é a CVE-2026-73570 (pontuação CVSS: 8",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
-      "published": "2026-08-20T13:24:28+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5vbtHH6C3JbT58Yghw2KNalqy-xoKLuJlsV9AGd_j2mQj4NKzVgWiOc9CDvUsT2JY0AchCk5140WhvNgZdKY2fwmeGEEi9FMvSSJvrBYVWndOKV9R47OEMZ59OOjv56DkPgpKo55fvHT7JSRW4yvh9_Xp5KBbw9xyJg2EGStHzg8ctloKfsJJPDLss1xR/s1600/zimbra.jpg"
-    },
-    {
-      "title": "Ator de ameaças hackeia 14.000 câmeras IP na Ucrânia e na Rússia",
-      "summary": "A Operação CameraSwarm teve como alvo câmeras Dahua em vários países, com foco em netblocks de telecomunicações da Rússia e da CEI. A postagem Ator de ameaças hackeia 14.000 câmeras IP na Ucrânia e na Rússia apareceu pela primeira vez na SecurityWeek.",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/",
-      "published": "2026-08-20T13:16:35+00:00",
       "image": ""
     }
   ]
