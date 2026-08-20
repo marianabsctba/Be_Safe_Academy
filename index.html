@@ -16,7 +16,7 @@
     />
     <meta http-equiv="Pragma" content="no-cache" />
     <meta http-equiv="Expires" content="0" />
-    <meta name="be-safe-build" content="2026.08.16-R3" />
+    <meta name="be-safe-build" content="2026.08.20-JOBS" />
     <meta
       name="description"
       content="Hub gratuito de cibersegurança de Mariana BS: cursos, roadmaps, laboratórios e guias práticos."
@@ -1931,6 +1931,27 @@
         }
       }
 
+      .nav-links .nav-jobs {
+        padding: 6px 9px;
+        border: 1px solid rgba(202, 255, 51, 0.55);
+        color: var(--lime);
+      }
+
+      .nav-links .nav-jobs:hover {
+        background: var(--lime);
+        color: var(--ink);
+      }
+
+      .button-jobs {
+        border-color: var(--lime);
+        background: var(--lime);
+        color: var(--ink);
+      }
+
+      .button-jobs:hover {
+        box-shadow: 0 0 28px rgba(202, 255, 51, 0.18);
+      }
+
       .live-hubs {
         padding: clamp(34px, 6vw, 78px) clamp(22px, 5vw, 82px);
         border-block: 1px solid var(--line);
@@ -1969,7 +1990,7 @@
 
       .live-hubs-grid {
         display: grid;
-        grid-template-columns: repeat(2, minmax(0, 1fr));
+        grid-template-columns: repeat(3, minmax(0, 1fr));
         gap: 14px;
       }
 
@@ -1997,11 +2018,21 @@
         line-height: 1;
       }
 
+      .live-hub-card.jobs::after {
+        content: "J";
+      }
       .live-hub-card.news::after {
         content: "N";
       }
       .live-hub-card.events::after {
         content: "E";
+      }
+      .live-hub-card.jobs {
+        --hub-accent: var(--lime);
+        background:
+          radial-gradient(circle at 90% 10%, rgba(202, 255, 51, 0.12), transparent 30%),
+          #111317;
+        border-color: rgba(202, 255, 51, 0.38);
       }
       .live-hub-card.news {
         --hub-accent: var(--cyan);
@@ -2057,6 +2088,15 @@
         letter-spacing: 0.09em;
       }
 
+      @media (max-width: 1050px) {
+        .live-hubs-grid {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+        .live-hub-card.jobs {
+          grid-column: 1 / -1;
+        }
+      }
+
       @media (max-width: 760px) {
         .live-hubs-head {
           display: block;
@@ -2066,6 +2106,9 @@
         }
         .live-hubs-grid {
           grid-template-columns: 1fr;
+        }
+        .live-hub-card.jobs {
+          grid-column: auto;
         }
         .live-hub-card {
           min-height: 285px;
@@ -2370,6 +2413,11 @@
             href="https://marianabsctba.github.io/Be_Safe_Academy/cyber-news.html"
             >CYBER NEWS</a
           >
+          <a
+            class="nav-jobs"
+            href="https://marianabsctba.github.io/Be_Safe_Academy/jobs.html"
+            >VAGAS CYBER</a
+          >
           <a href="https://marianabsctba.github.io/Mapa_Eventos_Ciber/"
             >EVENTOS</a
           >
@@ -2397,6 +2445,11 @@
           <div class="hero-actions">
             <a class="button button-primary" href="#cursos"
               >EXPLORAR CONTEÚDOS ↓</a
+            >
+            <a
+              class="button button-jobs"
+              href="https://marianabsctba.github.io/Be_Safe_Academy/jobs.html"
+              >VAGAS CYBER NO BRASIL ↗</a
             >
             <a
               class="button button-ghost"
@@ -2460,11 +2513,23 @@
             <h2 id="live-hubs-title">ACONTECE<br /><em>AGORA.</em></h2>
           </div>
           <p>
-            Notícias selecionadas em português e uma agenda nacional e
-            internacional para acompanhar o ecossistema de cibersegurança.
+            Vagas de ciber no Brasil, notícias selecionadas em português e uma
+            agenda nacional e internacional para acompanhar o ecossistema.
           </p>
         </header>
         <div class="live-hubs-grid">
+          <a
+            class="live-hub-card jobs"
+            href="https://marianabsctba.github.io/Be_Safe_Academy/jobs.html"
+          >
+            <span class="hub-status">BRASIL INTEIRO · ATUALIZAÇÃO AUTOMÁTICA</span>
+            <h3>CYBER<br />JOBS.</h3>
+            <p>
+              Vagas de cibersegurança em todo o Brasil, incluindo remoto,
+              organizadas por área, senioridade, localização e fonte original.
+            </p>
+            <b>ENCONTRAR VAGAS ↗</b>
+          </a>
           <a
             class="live-hub-card news"
             href="https://marianabsctba.github.io/Be_Safe_Academy/cyber-news.html"
