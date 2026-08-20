@@ -1,6 +1,96 @@
 {
-  "updated_at": "2026-08-20T13:15:20.040346+00:00",
+  "updated_at": "2026-08-20T15:51:32.290865+00:00",
   "items": [
+    {
+      "title": "Tribo Transparente do Paquistão atualiza conjunto de ferramentas para ataques cibernéticos no Afeganistão",
+      "summary": "Um actor ameaçador do Estado-nação está a implicar com organizações imaturas dirigidas pelos Taliban, mas a fracassar contra agências governamentais mais preparadas na Índia.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
+      "published": "2026-08-20T14:59:22+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt26870a2d1ae3c096/6a85f88bf5ebd98f609005c8/Pakistan_map-Juanmonino-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Hackers visam servidores Zimbra em campanha de exploração ativa",
+      "summary": "A exploração da vulnerabilidade da Colaboração Zimbra CVE-2026-73570 foi observada pelo CERT Polska da Polônia. A postagem Hackers visam servidores Zimbra em campanha de exploração ativa apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/",
+      "published": "2026-08-20T14:50:49+00:00",
+      "image": ""
+    },
+    {
+      "title": "Bug crítico do Elementor Pro expõe sites WordPress a ataques RCE",
+      "summary": "Uma vulnerabilidade crítica no plugin Elementor Pro WordPress pode permitir que invasores carreguem arquivos executáveis ​​para execução remota de código no servidor. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
+      "published": "2026-08-20T14:39:48+00:00",
+      "image": ""
+    },
+    {
+      "title": "Vigilância – tudo o que você queria saber, mas tinha medo de perguntar",
+      "summary": "Todos nós sabemos que eles estão nos observando. Mas não sabemos quem eles são, nem por que nem como estão fazendo isso. O post Vigilância – Tudo o que você queria saber, mas tinha medo de perguntar apareceu pela primeira vez em SecurityWeek.",
+      "category": "PRIVACIDADE",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/surveillance-everything-you-wanted-to-know-but-were-afraid-to-ask/",
+      "published": "2026-08-20T14:30:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Como os MSPs podem detectar ataques de phishing, os filtros de e-mail falham",
+      "summary": "A IA está tornando os ataques de phishing mais personalizados, convincentes e difíceis de serem detectados pelos filtros de e-mail tradicionais. Kaseya explica como os MSPs podem monitorar atividades de identidade, e-mail e endpoint para detectar e conter ataq",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
+      "published": "2026-08-20T14:01:11+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falha de VM isolada permite que JavaScript em sandbox escape para o host para RCE potencial",
+      "summary": "Pesquisadores de segurança cibernética revelaram uma falha crítica de segurança na VM isolada, uma popular sandbox de código aberto com mais de 2.900 estrelas e 190 forks no GitHub, que poderia permitir que invasores escapassem dos limites do ambiente isolado.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
+      "published": "2026-08-20T13:48:24+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ3-aEfGwe03ZMojsoiYaQ4TNjUiAPEFK-m68uY5JSlF8knbnGWOcBrqiB_4s6J47lPjyhQEuWdUMHnktRU6YfOcltn7_lXga77C8TNH4GOVAPrmIH_T0MsFKFkmQSMnvf42bnLlH0pC4BVMEpAZJLLTH51GpgfZybiZ_UWNLhKxx1oGi8PyD3bOUGG0_F/s1600/nodejs.jpg"
+    },
+    {
+      "title": "Falha crítica do NetScaler pode ignorar a autenticação em determinados servidores Gateway e AAA",
+      "summary": "A Citrix lançou atualizações para solucionar duas falhas de segurança que afetam as implantações do NetScaler ADC e do NetScaler Gateway, incluindo uma vulnerabilidade de desvio de autenticação de gravidade crítica. De acordo com a empresa de tecnologia de com",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
+      "published": "2026-08-20T13:35:13+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoCXrYMA_j7aJrrdIZKt2gQwTWYXhhHZTfBvrNcgpLLBTa5hzcmDNguBKwBhiD8p7kO5K2OeQYVbIPg2HHDBwu9LNzR6oAFE-znmFWIgjY_XzA0qdy-rA8XzV_uGvsxLWRNXCyyOlUKdDV0LGrXPN15wxYsTuZslyecGQ1cqE2OKdX5cocpp74uXenwdj0/s1600/citrix.jpg"
+    },
+    {
+      "title": "Malware 'Grandoreiro' ressurge com campanha no México",
+      "summary": "O Trojan bancário, após a remoção da aplicação da lei, está se aprimorando com recursos que dificultam a detecção e a análise.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign",
+      "published": "2026-08-20T13:30:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt50f50e8c15e845b6/6a85ffe726ec483bdf64f4e9/mexico_VictorImages_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Atacantes exploram falha SNMP do Zimbra para execução remota de código não autenticado",
+      "summary": "Uma falha de segurança agora corrigida que afeta o Zimbra Collaboration (ZCS) está sob exploração ativa, de acordo com a Equipe Polonesa de Resposta a Emergências de Computadores (CERT Polska). A vulnerabilidade em questão é a CVE-2026-73570 (pontuação CVSS: 8",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
+      "published": "2026-08-20T13:24:28+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5vbtHH6C3JbT58Yghw2KNalqy-xoKLuJlsV9AGd_j2mQj4NKzVgWiOc9CDvUsT2JY0AchCk5140WhvNgZdKY2fwmeGEEi9FMvSSJvrBYVWndOKV9R47OEMZ59OOjv56DkPgpKo55fvHT7JSRW4yvh9_Xp5KBbw9xyJg2EGStHzg8ctloKfsJJPDLss1xR/s1600/zimbra.jpg"
+    },
+    {
+      "title": "Ator de ameaças hackeia 14.000 câmeras IP na Ucrânia e na Rússia",
+      "summary": "A Operação CameraSwarm teve como alvo câmeras Dahua em vários países, com foco em netblocks de telecomunicações da Rússia e da CEI. A postagem Ator de ameaças hackeia 14.000 câmeras IP na Ucrânia e na Rússia apareceu pela primeira vez na SecurityWeek.",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/",
+      "published": "2026-08-20T13:16:35+00:00",
+      "image": ""
+    },
     {
       "title": "Atlassian e Splunk corrigem dezenas de vulnerabilidades críticas e de alta gravidade",
       "summary": "As falhas poderiam ser exploradas para executar código arbitrário, acessar informações confidenciais e elevar privilégios. O post Atlassian, Splunk Patch Dezenas de Vulnerabilidades Críticas e de Alta Gravidade apareceu pela primeira vez na SecurityWeek.",
@@ -72,96 +162,6 @@
       "url": "https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html",
       "published": "2026-08-20T11:26:08+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNJ75E0bEnkBf9REZEnmMNusCu2L2mrut4dSX8g-VVXH2THKdkXD1GwCZ_O5ZsnGzdamG2t0TVnelMj1TKMghauv4cIndc3OA7kuHQAdxf7FbngV7BaWV_-qmhvLZRNwN_5tkv5dSHViEwDgZ4Mou0TNLrFlyQ2yzyb7GYNQ6PPNVjCoJ7VzeKmly4Ntsf/s1600/Manic.jpg"
-    },
-    {
-      "title": "Ferramenta assistida por IA ajudou a proteger o sistema de comunicação por satélite após hacking russo em 2022",
-      "summary": "O produto Argo da Atalanta está agora a ser utilizado para provar a resiliência da rede de comunicações por satélite da Viasat. A postagem Ferramenta assistida por IA ajudou a proteger o sistema de comunicação por satélite após 2022, hacking russo apareceu pel",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ai-assisted-tool-helped-secure-satellite-communication-system-after-2022-russian-hacking/",
-      "published": "2026-08-20T11:08:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "CISA alerta sobre hackers que exploram vulnerabilidade crítica do MLflow",
-      "summary": "A Agência de Segurança Cibernética e de Infraestrutura (CISA) alertou as agências federais que os agentes de ameaças estão agora explorando uma vulnerabilidade crítica na plataforma de engenharia de IA de código aberto MLflow. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
-      "published": "2026-08-20T11:06:14+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falhas do AIT-GUI da NASA podem permitir que invasores não autenticados emitam comandos de naves espaciais",
-      "summary": "Pesquisadores de segurança da Cycode revelaram uma cadeia de falhas no AIT-GUI, o console do operador baseado em navegador para o AMMOS Instrument Toolkit de código aberto da NASA/JPL, que permite que um invasor não autenticado emita comandos arbitrários para ",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html",
-      "published": "2026-08-20T11:05:11+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0aHi13XpphD98KUUKTJJB0T5eJW8TLe8qecYWanC8lqujxWOn4dtJUXThwqpfnrd9daSkiLMxXb7r6EFFbYY2fy3qSZteMtPB5Sl5t4K01MKoHywiyohPzUQX17h3oj126zywGtTEP8twGQnbs0wjaecaY8nLhAWXLw0anuJuL2iSJmKBVnzlZhy842E/s1600/nasa.jpg"
-    },
-    {
-      "title": "Falhas do AIT-GUI da NASA podem permitir que invasores não autenticados emitam comandos de naves espaciais - The Hacker News",
-      "summary": "Falhas do AIT-GUI da NASA podem permitir que invasores não autenticados emitam comandos de naves espaciais The Hacker News",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NeWsyRGpmU1hZYTZMaktMYVNkWURNU1dLX2NCQVQ1N21aVHFmMUNUOXBOaHZCVUpnVXBSYjk4RXl6SXBQdmV6ZjRHbFUxR1hiRmZCU1lwemhLTFZ6TzJIZFV4Qkk3cGZIRWRFX1Vla1hoZkowbnc?oc=5",
-      "published": "2026-08-20T11:05:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "ToxicPanda 2.0 e GoldDigger expandem ataques bancários Android com fraude no dispositivo",
-      "summary": "Pesquisadores de segurança cibernética lançaram luz sobre uma versão atualizada do ToxicPanda (também conhecido como TgToxic) que vem com “melhorias significativas”, incluindo um conjunto de 167 comandos remotos e expande sua presença de segmentação globalment",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html",
-      "published": "2026-08-20T10:38:28+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq19iWDNnvPUAAC2_MJN09g-1SHoPWQv82zvmQGTvrniDXm9BUWK73QrKCNCgxk0uGp6MrKF8cDQrigQCI3CW1G8V8GNltJ0GRc-yBjt69zPem4YW_b0XCZwsIFhWiOoul7eIhEOjb_F0X9A9B_DOmQNbCWHF6AzqDro4U0XjH_CgtJ_J0MVZjDPmyDL1p/s1600/android-banking-malware.jpg"
-    },
-    {
-      "title": "OpenAI revisa a segurança do modelo com sandbox, alertas de 30 minutos e pausas de treinamento",
-      "summary": "A ação tomada pela OpenAI surge à luz do incidente Hugging Face e da descoberta das capacidades avançadas do modelo Astra. A postagem OpenAI revisa a segurança do modelo com sandboxing, alertas de 30 minutos e pausas de treinamento apareceu pela primeira vez e",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/openai-overhauls-model-security-with-sandboxing-30-minute-alerts-and-training-pauses/",
-      "published": "2026-08-20T10:36:14+00:00",
-      "image": ""
-    },
-    {
-      "title": "O novo malware Manic Android pode exfiltrar dados através de dispositivos próximos",
-      "summary": "Um novo malware para Android chamado Manic, direcionado a usuários em vários países europeus, possui um mecanismo alternativo de exfiltração de dados que usa dispositivos infectados próximos. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
-      "published": "2026-08-20T10:02:02+00:00",
-      "image": ""
-    },
-    {
-      "title": "UAT-10147: Adversário de língua chinesa integra IA de agência em operações pós-comprometimento",
-      "summary": "O Cisco Talos descobriu um grupo de crimes cibernéticos de língua chinesa, rastreado como UAT-10147, que tem como alvo uma ampla gama de servidores web vulneráveis. Esta é uma visão geral da campanha, examinando os países afetados, o impacto potencial das infe",
-      "category": "INCIDENTES",
-      "source": "Cisco Talos",
-      "url": "https://blog.talosintelligence.com/uat-10147-chinese-speaking-adversary-integrates-agentic-ai-into-post-compromise-operations/",
-      "published": "2026-08-20T10:00:32+00:00",
-      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/Fig-0.jpg"
-    },
-    {
-      "title": "Falha crítica do Zimbra RCE agora explorada ativamente em ataques",
-      "summary": "CERT Polska, a equipe polonesa de resposta a emergências informáticas (CERT), alertou que os invasores começaram a explorar uma vulnerabilidade crítica no Zimbra Collaboration Suite (ZCS). [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/",
-      "published": "2026-08-20T09:46:54+00:00",
-      "image": ""
-    },
-    {
-      "title": "40 extensões maliciosas do Firefox se apresentam como produtos Web3 para roubar segredos da carteira",
-      "summary": "Foi descoberto que um conjunto de 40 extensões do Mozilla Firefox se envolvem em roubo de carteiras de criptomoedas, disfarçando-se de OKX, Rabby Wallet, TronLink e outros produtos Web3. De acordo com a equipe do Socket Threat Research, as extensões fazem part",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
-      "published": "2026-08-20T08:42:03+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA5ySurVDL2oPvG7l78G22fbZEDplybrP5KX79GCEuhHybqkIgDGWDY_iHNfSLhKMt4sxn51CF33lRNwyjQy-l4Zajbkl9qUFxsjHEIoVsFhWBcGoHavMzOnmbWAI-8VHreBmZhuoCPs_N5KAKLFccr-bFLhzvJq12bvhvp5upRSkZulRN4tUDUTkfTRqo/s1600/firefox.png"
     }
   ]
 }
