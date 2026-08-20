@@ -1,0 +1,183 @@
+{
+  "updated_at": "2026-08-20T11:43:00-03:00",
+  "scope": "Brasil inteiro + remoto elegível para Brasil",
+  "count": 8,
+  "seed": true,
+  "items": [
+    {
+      "id": "linkedin-bradesco-csirt-4454069299",
+      "title": "Analista Segurança da Informação - CSIRT",
+      "company": "Bradesco",
+      "location": "Osasco, SP",
+      "remote": false,
+      "work_model": "PRESENCIAL/HÍBRIDO",
+      "track": "DFIR / IR",
+      "seniority": "NÃO INFORMADO",
+      "source": "LinkedIn",
+      "url": "https://br.linkedin.com/jobs/view/analista-seguran%C3%A7a-da-informa%C3%A7%C3%A3o-csirt-at-banco-bradesco-4454069299",
+      "published": "2026-08-20T11:00:00-03:00",
+      "summary": "Atuação em segurança da informação e CSIRT, com foco em resposta e tratamento de incidentes.",
+      "labs": [
+        {
+          "name": "Desafio DFIR",
+          "url": "https://github.com/marianabsctba/Desafio_DFIR"
+        },
+        {
+          "name": "Forensics Solutions",
+          "url": "https://github.com/marianabsctba/Forensics_Solutions"
+        }
+      ]
+    },
+    {
+      "id": "linkedin-sicoob-cyber-pl-4454310313",
+      "title": "Analista de Segurança da Informação (Cyber Security) PL",
+      "company": "Sicoob Central Crediminas",
+      "location": "Belo Horizonte, MG",
+      "remote": false,
+      "work_model": "PRESENCIAL/HÍBRIDO",
+      "track": "SOC / BLUE TEAM",
+      "seniority": "PLENO",
+      "source": "LinkedIn",
+      "url": "https://br.linkedin.com/jobs/view/analista-de-seguran%C3%A7a-da-informa%C3%A7%C3%A3o-cyber-security-pl-belo-horizonte-at-sicoob-central-crediminas-4454310313",
+      "published": "2026-08-20T10:30:00-03:00",
+      "summary": "Vaga de Cyber Security em Belo Horizonte para atuação como Analista de Segurança da Informação Pleno.",
+      "labs": [
+        {
+          "name": "Curso SOC N1",
+          "url": "https://github.com/marianabsctba/Curso_SOC_N1"
+        },
+        {
+          "name": "SIEM Deploy Lab",
+          "url": "https://github.com/marianabsctba/SIEM_Deploy_Lab"
+        }
+      ]
+    },
+    {
+      "id": "linkedin-ntsec-checkpoint-4453204739",
+      "title": "Analista de Segurança da Informação - Check Point",
+      "company": "Grupo NTSec",
+      "location": "Brasília, DF",
+      "remote": false,
+      "work_model": "PRESENCIAL",
+      "track": "SOC / BLUE TEAM",
+      "seniority": "START",
+      "source": "LinkedIn",
+      "url": "https://br.linkedin.com/jobs/view/analista-de-seguran%C3%A7a-da-informa%C3%A7%C3%A3o-check-point-at-grupo-ntsec-4453204739",
+      "published": "2026-08-20T08:30:00-03:00",
+      "summary": "Administração de firewalls Check Point, VPN, troubleshooting, análise de logs e integração com SIEM. LinkedIn classifica a vaga no nível Assistente.",
+      "labs": [
+        {
+          "name": "Curso SOC N1",
+          "url": "https://github.com/marianabsctba/Curso_SOC_N1"
+        },
+        {
+          "name": "Syslog Lab",
+          "url": "https://github.com/marianabsctba/Syslog_Lab"
+        }
+      ]
+    },
+    {
+      "id": "linkedin-bairesdev-appsec-4453252429",
+      "title": "Application Security Engineer (Checkmarx / SAST) - Remote Work",
+      "company": "BairesDev",
+      "location": "São Paulo, SP · Remoto",
+      "remote": true,
+      "work_model": "REMOTO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "LinkedIn",
+      "url": "https://br.linkedin.com/jobs/view/application-security-engineer-checkmarx-sast-remote-work-at-bairesdev-4453252429",
+      "published": "2026-08-20T09:30:00-03:00",
+      "summary": "AppSec com operação de SAST/Checkmarx, triagem de findings e validação source-to-sink. Trabalho 100% remoto.",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "linkedin-alignerr-cloud-4453620159",
+      "title": "Cloud Security Analyst",
+      "company": "Alignerr",
+      "location": "Brasil · Remoto",
+      "remote": true,
+      "work_model": "REMOTO",
+      "track": "CLOUD SECURITY",
+      "seniority": "PLENO",
+      "source": "LinkedIn",
+      "url": "https://br.linkedin.com/jobs/view/cloud-security-analyst-at-alignerr-4453620159",
+      "published": "2026-08-19T16:00:00-03:00",
+      "summary": "Cloud Security em AWS, GCP e Azure, com IAM, networking, storage, containers e análise de misconfigurations. Contrato remoto no Brasil.",
+      "labs": []
+    },
+    {
+      "id": "linkedin-agileengine-appsec-4452719519",
+      "title": "Senior/Lead AppSec Engineer",
+      "company": "AgileEngine",
+      "location": "Sorocaba, SP",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "LinkedIn",
+      "url": "https://br.linkedin.com/jobs/view/senior-lead-appsec-engineer-id71672-at-agileengine-4452719519",
+      "published": "2026-08-19T11:00:00-03:00",
+      "summary": "Application Security e DevSecOps com SAST, DAST, SCA, automação de segurança no SDLC e integração em pipelines CI/CD.",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "linkedin-techforti-security-4454022861",
+      "title": "Especialista em Redes e Segurança",
+      "company": "Tech For TI",
+      "location": "São Paulo, SP · Home Office",
+      "remote": true,
+      "work_model": "REMOTO",
+      "track": "SOC / BLUE TEAM",
+      "seniority": "SÊNIOR",
+      "source": "LinkedIn",
+      "url": "https://br.linkedin.com/jobs/view/especialista-em-redes-e-seguran%C3%A7a-at-tech-for-ti-4454022861",
+      "published": "2026-08-20T06:00:00-03:00",
+      "summary": "F5 LTM, Check Point, Fortinet, WAF, VPN, segmentação, automação e segurança de redes em modelo home office.",
+      "labs": [
+        {
+          "name": "Redes Zero ao Avançado",
+          "url": "https://github.com/marianabsctba/Redes_Zero_ao_Avancado"
+        },
+        {
+          "name": "SIEM Deploy Lab",
+          "url": "https://github.com/marianabsctba/SIEM_Deploy_Lab"
+        }
+      ]
+    },
+    {
+      "id": "linkedin-alignerr-dlp-4453623082",
+      "title": "Data Security & DLP Analyst",
+      "company": "Alignerr",
+      "location": "Brasil · Remoto",
+      "remote": true,
+      "work_model": "REMOTO",
+      "track": "GRC",
+      "seniority": "PLENO",
+      "source": "LinkedIn",
+      "url": "https://br.linkedin.com/jobs/view/data-security-dlp-analyst-at-alignerr-4453623082",
+      "published": "2026-08-19T16:00:00-03:00",
+      "summary": "Segurança de dados e DLP com classificação de informações, exposição, compliance e resposta a incidentes. Remoto no Brasil.",
+      "labs": [
+        {
+          "name": "GRC Tour",
+          "url": "https://github.com/marianabsctba/GRC_Tour_Senhor_dos_Aneis"
+        },
+        {
+          "name": "Desafio GRC",
+          "url": "https://github.com/marianabsctba/Desafio_Pratico_GRC"
+        }
+      ]
+    }
+  ]
+}
