@@ -1,6 +1,150 @@
 {
-  "updated_at": "2026-08-20T09:52:47.665581+00:00",
+  "updated_at": "2026-08-20T13:15:20.040346+00:00",
   "items": [
+    {
+      "title": "Atlassian e Splunk corrigem dezenas de vulnerabilidades críticas e de alta gravidade",
+      "summary": "As falhas poderiam ser exploradas para executar código arbitrário, acessar informações confidenciais e elevar privilégios. O post Atlassian, Splunk Patch Dezenas de Vulnerabilidades Críticas e de Alta Gravidade apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/",
+      "published": "2026-08-20T12:24:53+00:00",
+      "image": ""
+    },
+    {
+      "title": "Citrix incentiva os administradores a corrigir novas falhas do NetScaler o mais rápido possível",
+      "summary": "A Citrix alertou os clientes para protegerem imediatamente seus sistemas contra duas vulnerabilidades que afetam as soluções de acesso remoto seguro NetScaler Gateway e os dispositivos de rede NetScaler ADC. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
+      "published": "2026-08-20T12:14:38+00:00",
+      "image": ""
+    },
+    {
+      "title": "Vulnerabilidade do MLflow explorada para roubo de credenciais na nuvem",
+      "summary": "A falha de gravidade crítica permite que invasores enviem solicitações HTTP para endpoints internos e extraiam informações confidenciais. A postagem Vulnerabilidade do MLflow explorada para roubo de credenciais na nuvem apareceu pela primeira vez na SecurityWe",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/",
+      "published": "2026-08-20T12:05:55+00:00",
+      "image": ""
+    },
+    {
+      "title": "Ataque de cartão zumbi pode reviver cartões Visa expirados para pagamentos sem contato",
+      "summary": "Pesquisadores da Universidade de Massachusetts Amherst demonstraram um ataque que revive cartões de crédito sem contato Visa expirados para compras reais na loja, reescrevendo a data de validade que um terminal de ponto de venda (POS) lê através de comunicação",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
+      "published": "2026-08-20T12:01:24+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsJMUJluWegBU4C6RiZ4QHg6rTqhFHMt5JJt3RR2K7l06c3FOFlnq8gIVuBqVUX8qsJFiAh6KKAlDXpVAydAoC2rM0dUKUayta50sqRXoW36_V2OgSXJBKaaAFY4boBYhtHkqeyBaBZavbo7bz3S8otNwyb3NUmW9j88edph6zAfnyJikYhLBrAHuCdBA/s1600/visa.jpg"
+    },
+    {
+      "title": "Cisco corrige vulnerabilidades críticas de trabalho cruzado e segurança de carga de trabalho",
+      "summary": "As falhas podem levar à execução remota de código, desvios de autenticação e ataques de passagem de caminho. A postagem Cisco corrige vulnerabilidades críticas de crosswork e carga de trabalho segura apareceu pela primeira vez em SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/",
+      "published": "2026-08-20T11:46:04+00:00",
+      "image": ""
+    },
+    {
+      "title": "Por que a “Shady AI” é o próximo grande problema de governança da segurança",
+      "summary": "Em março de 2026, um agente interno de IA da Meta desencadeou um incidente “Sev 1” depois que dados confidenciais da empresa e do usuário foram expostos a funcionários que não estavam autorizados a acessá-los. O incidente começou quando um funcionário da Meta ",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
+      "published": "2026-08-20T11:45:00+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw0UN7paSPEt1BbP-tObzJmXd5LHvNrZpta_hHK2pwYGVsYyZt2FQO20Ld8uePEO35Hg9MUqHRoA3tvbxXf9Wdh2D8IgHIt9M56YTvveuPUILhMZ_drcaBL6ILCPzZmAwryt6cqjNvh4A0NUIPIBS6tpJCHJz6R5Lu42t06EyJ56wnlATWOg5UC-5JlBA/s1600/tines.jpg"
+    },
+    {
+      "title": "Ataque de tsunami CDN abusa da tradução HTTP/3 para amplificação DoS de até 350x",
+      "summary": "Pesquisadores de segurança cibernética divulgaram dois ataques de negação de serviço (DoS) que exploram como as principais redes de distribuição de conteúdo (CDNs) convertem o tráfego HTTP/3 voltado para o cliente em solicitações HTTP/1.1 para os sites que ace",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html",
+      "published": "2026-08-20T11:39:35+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDFisNx669R67D6R9VnkWr_DIhB1VjYqDPrXqKAoeCz0YxbSngLxB15XYLtuKb00YSEE0rxQEfop5v7JIr2SMVOErIM2r_GZqA6q1FDNl_wBeAaukVoAse6l0kXv35dJRTQjT8R0DhS9ihwYUXNd9cFuqYM3GS0o28NyIBAgliuQR8XhKQqhixFcjdZpo/s1600/cdn-boost.jpg"
+    },
+    {
+      "title": "Manic Android Malware extrai dados de telefones off-line por meio de dispositivos infectados próximos",
+      "summary": "Uma nova ameaça ao Android, com o codinome Manic, foi observada visando ativamente bancos ucranianos, serviços governamentais e de identidade e aplicativos de mensagens, bem como instituições financeiras russas e europeias, serviços globais de fintech e cripto",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html",
+      "published": "2026-08-20T11:26:08+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNJ75E0bEnkBf9REZEnmMNusCu2L2mrut4dSX8g-VVXH2THKdkXD1GwCZ_O5ZsnGzdamG2t0TVnelMj1TKMghauv4cIndc3OA7kuHQAdxf7FbngV7BaWV_-qmhvLZRNwN_5tkv5dSHViEwDgZ4Mou0TNLrFlyQ2yzyb7GYNQ6PPNVjCoJ7VzeKmly4Ntsf/s1600/Manic.jpg"
+    },
+    {
+      "title": "Ferramenta assistida por IA ajudou a proteger o sistema de comunicação por satélite após hacking russo em 2022",
+      "summary": "O produto Argo da Atalanta está agora a ser utilizado para provar a resiliência da rede de comunicações por satélite da Viasat. A postagem Ferramenta assistida por IA ajudou a proteger o sistema de comunicação por satélite após 2022, hacking russo apareceu pel",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ai-assisted-tool-helped-secure-satellite-communication-system-after-2022-russian-hacking/",
+      "published": "2026-08-20T11:08:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "CISA alerta sobre hackers que exploram vulnerabilidade crítica do MLflow",
+      "summary": "A Agência de Segurança Cibernética e de Infraestrutura (CISA) alertou as agências federais que os agentes de ameaças estão agora explorando uma vulnerabilidade crítica na plataforma de engenharia de IA de código aberto MLflow. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
+      "published": "2026-08-20T11:06:14+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falhas do AIT-GUI da NASA podem permitir que invasores não autenticados emitam comandos de naves espaciais",
+      "summary": "Pesquisadores de segurança da Cycode revelaram uma cadeia de falhas no AIT-GUI, o console do operador baseado em navegador para o AMMOS Instrument Toolkit de código aberto da NASA/JPL, que permite que um invasor não autenticado emita comandos arbitrários para ",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html",
+      "published": "2026-08-20T11:05:11+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0aHi13XpphD98KUUKTJJB0T5eJW8TLe8qecYWanC8lqujxWOn4dtJUXThwqpfnrd9daSkiLMxXb7r6EFFbYY2fy3qSZteMtPB5Sl5t4K01MKoHywiyohPzUQX17h3oj126zywGtTEP8twGQnbs0wjaecaY8nLhAWXLw0anuJuL2iSJmKBVnzlZhy842E/s1600/nasa.jpg"
+    },
+    {
+      "title": "Falhas do AIT-GUI da NASA podem permitir que invasores não autenticados emitam comandos de naves espaciais - The Hacker News",
+      "summary": "Falhas do AIT-GUI da NASA podem permitir que invasores não autenticados emitam comandos de naves espaciais The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NeWsyRGpmU1hZYTZMaktMYVNkWURNU1dLX2NCQVQ1N21aVHFmMUNUOXBOaHZCVUpnVXBSYjk4RXl6SXBQdmV6ZjRHbFUxR1hiRmZCU1lwemhLTFZ6TzJIZFV4Qkk3cGZIRWRFX1Vla1hoZkowbnc?oc=5",
+      "published": "2026-08-20T11:05:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "ToxicPanda 2.0 e GoldDigger expandem ataques bancários Android com fraude no dispositivo",
+      "summary": "Pesquisadores de segurança cibernética lançaram luz sobre uma versão atualizada do ToxicPanda (também conhecido como TgToxic) que vem com “melhorias significativas”, incluindo um conjunto de 167 comandos remotos e expande sua presença de segmentação globalment",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html",
+      "published": "2026-08-20T10:38:28+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq19iWDNnvPUAAC2_MJN09g-1SHoPWQv82zvmQGTvrniDXm9BUWK73QrKCNCgxk0uGp6MrKF8cDQrigQCI3CW1G8V8GNltJ0GRc-yBjt69zPem4YW_b0XCZwsIFhWiOoul7eIhEOjb_F0X9A9B_DOmQNbCWHF6AzqDro4U0XjH_CgtJ_J0MVZjDPmyDL1p/s1600/android-banking-malware.jpg"
+    },
+    {
+      "title": "OpenAI revisa a segurança do modelo com sandbox, alertas de 30 minutos e pausas de treinamento",
+      "summary": "A ação tomada pela OpenAI surge à luz do incidente Hugging Face e da descoberta das capacidades avançadas do modelo Astra. A postagem OpenAI revisa a segurança do modelo com sandboxing, alertas de 30 minutos e pausas de treinamento apareceu pela primeira vez e",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/openai-overhauls-model-security-with-sandboxing-30-minute-alerts-and-training-pauses/",
+      "published": "2026-08-20T10:36:14+00:00",
+      "image": ""
+    },
+    {
+      "title": "O novo malware Manic Android pode exfiltrar dados através de dispositivos próximos",
+      "summary": "Um novo malware para Android chamado Manic, direcionado a usuários em vários países europeus, possui um mecanismo alternativo de exfiltração de dados que usa dispositivos infectados próximos. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
+      "published": "2026-08-20T10:02:02+00:00",
+      "image": ""
+    },
+    {
+      "title": "UAT-10147: Adversário de língua chinesa integra IA de agência em operações pós-comprometimento",
+      "summary": "O Cisco Talos descobriu um grupo de crimes cibernéticos de língua chinesa, rastreado como UAT-10147, que tem como alvo uma ampla gama de servidores web vulneráveis. Esta é uma visão geral da campanha, examinando os países afetados, o impacto potencial das infe",
+      "category": "INCIDENTES",
+      "source": "Cisco Talos",
+      "url": "https://blog.talosintelligence.com/uat-10147-chinese-speaking-adversary-integrates-agentic-ai-into-post-compromise-operations/",
+      "published": "2026-08-20T10:00:32+00:00",
+      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/Fig-0.jpg"
+    },
     {
       "title": "Falha crítica do Zimbra RCE agora explorada ativamente em ataques",
       "summary": "CERT Polska, a equipe polonesa de resposta a emergências informáticas (CERT), alertou que os invasores começaram a explorar uma vulnerabilidade crítica no Zimbra Collaboration Suite (ZCS). [...]",
@@ -11,157 +155,13 @@
       "image": ""
     },
     {
-      "title": "Exploração esperada para desvio de autenticação crítica corrigido no Citrix NetScaler",
-      "summary": "Atacantes remotos e não autenticados poderiam explorar a falha de gravidade crítica sem interação do usuário. A postagem Exploração esperada para desvio de autenticação crítica corrigida no Citrix NetScaler apareceu pela primeira vez em SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/exploitation-expected-for-critical-authentication-bypass-patched-in-citrix-netscaler/",
-      "published": "2026-08-20T08:33:25+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falha crítica do GitLab explorada logo após a divulgação",
-      "summary": "CVE-2026-19478 pode ser explorado sem autenticação para modificar ou excluir projetos públicos e dados de usuários. A postagem Falha crítica do GitLab explorada logo após a divulgação apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/",
-      "published": "2026-08-20T07:48:24+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers usando IA para atingir PLCs da Siemens em setores críticos dos EUA",
-      "summary": "Um comunicado de segurança cibernética com detalhes técnicos e recomendações foi escrito pela NSA, CISA e outras agências. A postagem Hackers usando IA para atingir PLCs da Siemens em setores críticos dos EUA apareceu pela primeira vez na SecurityWeek.",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/hackers-using-ai-to-target-siemens-plcs-in-critical-us-sectors/",
-      "published": "2026-08-20T07:02:02+00:00",
-      "image": ""
-    },
-    {
-      "title": "A falha do Elementor Pro pode permitir que invasores não autenticados carreguem PHP e executem código",
-      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma falha crítica no plugin Elementor Pro WordPress que, se explorada com sucesso, pode levar à execução remota de código. A vulnerabilidade, rastreada como CVE-2026-32475, carrega uma pontuação CVS",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
-      "published": "2026-08-20T06:04:34+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitKWjeNJOL_DEahUmMAYpH9qh94s2iFi8igtfSlAzOVWiUBU-EIM0MWMsFYPmA5NDL6Rs9E-w9vvCmw3Cc6Og0q-TDt87Q2hwYIePNAQ0xQ3OJYHzgCizDFm-YK9SxW4ncWnuVLaOzgb3SPO7Qpx17zHMaFzBQfYllgz5IP-p1jMALgWlasRkj1nV3Tq3G/s1600/wordpress.jpg"
-    },
-    {
-      "title": "Falha do Elementor Pro pode permitir que invasores não autenticados carreguem PHP e executem código - The Hacker News",
-      "summary": "Falha do Elementor Pro pode permitir que invasores não autenticados carreguem PHP e executem código The Hacker News",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wSzMyMDQ2SXIxQmxacXJKc2pZWkVIdGljSWdkU2NnaVZGMnRDMTBiS3Boc3dTSFlmOFFVdEpfOHdWVk5uYjV6V05GR3l3ZTNRNE5KUF9GV2lKYjZ6WVBUbnlUSmVuaVEyNDBvbEJjT1lJUHp2Smc?oc=5",
-      "published": "2026-08-20T06:04:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Afiliada de ransomware desonesto se apresenta como empresa de recuperação para roubar pagamentos",
-      "summary": "Um suposto afiliado de ransomware está se passando por um serviço de recuperação de ransomware chamado “Ransom Busters”, entrando em contato com as vítimas antes que os ataques se tornem públicos e alegando ser capaz de fornecer chaves de descriptografia e exc",
+      "title": "40 extensões maliciosas do Firefox se apresentam como produtos Web3 para roubar segredos da carteira",
+      "summary": "Foi descoberto que um conjunto de 40 extensões do Mozilla Firefox se envolvem em roubo de carteiras de criptomoedas, disfarçando-se de OKX, Rabby Wallet, TronLink e outros produtos Web3. De acordo com a equipe do Socket Threat Research, as extensões fazem part",
       "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
-      "published": "2026-08-19T20:59:58+00:00",
-      "image": ""
-    },
-    {
-      "title": "Plataforma de IA 'criminosa' sem filtro levanta preocupações sobre crimes cibernéticos",
-      "summary": "A empresa de IA proíbe oficialmente o uso ilícito, ao mesmo tempo que oferece engenharia social sem proteção, crimes cibernéticos ofensivos e varredura OSINT para qualquer pessoa com um pouco de criptomoeda.",
-      "category": "CLOUD & IA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns",
-      "published": "2026-08-19T20:32:09+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt85eae7cdd5f0ecc5/6a86044bc3ca75985c01a97b/person_in_handcuffs-AnnaStills-GettyImages-2229493276.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "A violação de dados da empresa de tecnologia de saúde CareCloud afeta 3,7 milhões de pacientes",
-      "summary": "A empresa norte-americana de TI de saúde CareCloud divulgou que o incidente de violação de dados sofrido no início deste ano impactou mais de 3,7 milhões de indivíduos. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
-      "published": "2026-08-19T20:07:12+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ataque Spectre de trabalhadores da Cloudflare vaza JWT de trabalhador co-localizado a 12 bits/segundo",
-      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de um ataque remoto Spectre contra Cloudflare Workers que vazou um JSON Web Token (JWT) de um Worker co-localizado no ambiente de produção a até 12 bits por segundo, 360 vezes a taxa de um ataque anter",
-      "category": "INCIDENTES",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
-      "published": "2026-08-19T19:02:40+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi50HcHSWt796lc8zQ8Anp_fHUqgV-BM0xiS1NxJW8zRDgBRJ9ovZOECiIhdQt0aVTUdhduJYP1o5wTa5RpDoCwhihq8rKqWmh73E9E8UzafyDcq1n1khCEIDCikK2L6NEt1mbIuMRm6F36bap74JtZawFqqCPvWF72SAm25BzREVerWYaRIDEo1O89V4k/s1600/jwt.jpg"
-    },
-    {
-      "title": "Ataque Spectre de trabalhadores da Cloudflare vaza JWT de trabalhador co-localizado a 12 bits/segundo - The Hacker News",
-      "summary": "Ataque Spectre de trabalhadores da Cloudflare vaza JWT de trabalhador co-localizado a 12 bits/segundo The Hacker News",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa2pSQVUzY0hZMHFKT3hxMGJVMDh6NkRyckNEOXZOSXFhQkFiSUpYN05nVy01Wnl4cUJXV2VFNkpXYjBRZU1CWHlHMVhIUVl2d3VPTzNYNWxNRzVtX3RIbVAyWjZKeEdFa0ZodmZ6NVRVdElWb3dYV3hxUnlwRUJtNkpZcnI?oc=5",
-      "published": "2026-08-19T19:02:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "EUA alertam sobre ataques alimentados por IA a PLCs da Siemens em infraestrutura crítica",
-      "summary": "As agências de segurança cibernética dos EUA alertam que os agentes de ameaças estão usando scripts gerados por IA para explorar controladores lógicos programáveis ​​(PLCs) da série S7 da Siemens em infraestruturas críticas dos EUA. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
-      "published": "2026-08-19T17:50:01+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft nomeada líder no Frost Radar™: plataformas de proteção de carga de trabalho em nuvem, 2026",
-      "summary": "A Microsoft é nomeada líder visionária no 2026 Frost Radar for Cloud Workload Protection Platforms, reconhecida pela segurança de tempo de execução unificada com o Microsoft Defender for Cloud. A postagem Microsoft nomeada líder no Frost Radar™: plataformas de",
-      "category": "CLOUD & IA",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/",
-      "published": "2026-08-19T17:30:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "SilkParasite ameaça organizações da Ásia Central com uma enxurrada de RATs – Dark Reading",
-      "summary": "SilkParasite ameaça organizações da Ásia Central com uma enxurrada de RATs Dark Reading",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSWFJVHJqbEhTNHgtTVBjOXhyNTBLMXhGQ1pBUUJCcDdHd2VrUFhiTklMQlhMbDlqSWs1QWlsSlpibmVpcnRhUVZwMU5QY2pEeTJzT1gzTlduZjU2cXkyZW9lZ1VKX1ZETmt0UUQtZ3prdFQtemhDUTBQaWFwWVNYOEtfTGlMZVVOM3o3ZE9WbVZDVk03enc?oc=5",
-      "published": "2026-08-19T16:59:58+00:00",
-      "image": ""
-    },
-    {
-      "title": "SilkParasite ameaça organizações da Ásia Central com uma enxurrada de RATs",
-      "summary": "Uma campanha de spear-phishing levada a cabo por um grupo chinês ligado ao FamousSparrow fornece informações sobre movimentos globais geopolíticos, técnicos e estratégicos das APTs da China.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats",
-      "published": "2026-08-19T16:58:23+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf72b6d96243f3ad0/6a85b7da026bc525d4e194a5/rats-Andyworks-Getty-2192975649.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Os ataques de pulverização de senhas aumentam 155 vezes à medida que hackers exploram lacunas de MFA",
-      "summary": "A Huntress observou um aumento de 155 vezes nos ataques de pulverização de senhas no primeiro semestre de 2026, incluindo uma campanha que gerou mais de 81 milhões de tentativas de login em duas semanas. Os ataques exploraram a autenticação legada e lacunas na",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
-      "published": "2026-08-19T14:00:10+00:00",
-      "image": ""
-    },
-    {
-      "title": "Evento virtual hoje: CodeSecCon – Proteja seu código e aplicativos",
-      "summary": "CodeSecCon é o principal evento virtual que reúne desenvolvedores e profissionais de segurança cibernética para revolucionar a forma como os aplicativos são construídos, protegidos e mantidos. O post Evento Virtual Hoje: CodeSecCon – Proteja seu código e aplic",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/virtual-event-today-codeseccon-secure-your-code-and-applications/",
-      "published": "2026-08-19T13:36:17+00:00",
-      "image": ""
-    },
-    {
-      "title": "Campanha de espionagem SilkParasite visa governos da Ásia Central com cinco novos RATs",
-      "summary": "Uma operação de espionagem cibernética anteriormente não relatada, apelidada de SilkParasite, foi observada tendo como alvo órgãos governamentais na Ásia Central. O conjunto de intrusão utiliza sete famílias de ferramentas de acesso remoto (RAT), cinco das qua",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
-      "published": "2026-08-19T13:12:17+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgukQx26zt-EE2Q-I5EPzGDeXiUneL1NzNma73qc5r03gJ5Xj6kiTigXadbXa1XWqg7Y-UHq5YzEu7bPxN4BXjVUbId9eaPwWddiP_oB7Zz2fBV0bxr2S2wh9oVEFI-IEe4jMgA1REmrbKFSE33oztVDuz0p2TQhKA_0koqZ3qYcWH_d5Ec4lExxdMzWw5I/s1600/malware-code.jpg"
+      "url": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
+      "published": "2026-08-20T08:42:03+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA5ySurVDL2oPvG7l78G22fbZEDplybrP5KX79GCEuhHybqkIgDGWDY_iHNfSLhKMt4sxn51CF33lRNwyjQy-l4Zajbkl9qUFxsjHEIoVsFhWBcGoHavMzOnmbWAI-8VHreBmZhuoCPs_N5KAKLFccr-bFLhzvJq12bvhvp5upRSkZulRN4tUDUTkfTRqo/s1600/firefox.png"
     }
   ]
 }
