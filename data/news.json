@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-19T21:44:32.845948+00:00",
+  "updated_at": "2026-08-20T01:55:08.615640+00:00",
   "items": [
     {
-      "title": "Afiliada Rogue ransomware se apresenta como empresa de recuperação de dados para roubar pagamentos",
+      "title": "Afiliada de ransomware desonesto se apresenta como empresa de recuperação para roubar pagamentos",
       "summary": "Um suposto afiliado de ransomware está se passando por um serviço de recuperação de ransomware chamado “Ransom Busters”, entrando em contato com as vítimas antes que os ataques se tornem públicos e alegando ser capaz de fornecer chaves de descriptografia e exc",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-data-recovery-firm/",
+      "url": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
       "published": "2026-08-19T20:59:58+00:00",
       "image": ""
     },
@@ -36,6 +36,15 @@
       "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
       "published": "2026-08-19T19:02:40+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi50HcHSWt796lc8zQ8Anp_fHUqgV-BM0xiS1NxJW8zRDgBRJ9ovZOECiIhdQt0aVTUdhduJYP1o5wTa5RpDoCwhihq8rKqWmh73E9E8UzafyDcq1n1khCEIDCikK2L6NEt1mbIuMRm6F36bap74JtZawFqqCPvWF72SAm25BzREVerWYaRIDEo1O89V4k/s1600/jwt.jpg"
+    },
+    {
+      "title": "Ataque Spectre de trabalhadores da Cloudflare vaza JWT de trabalhador co-localizado a 12 bits/segundo - The Hacker News",
+      "summary": "Ataque Spectre de trabalhadores da Cloudflare vaza JWT de trabalhador co-localizado a 12 bits/segundo The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa2pSQVUzY0hZMHFKT3hxMGJVMDh6NkRyckNEOXZOSXFhQkFiSUpYN05nVy01Wnl4cUJXV2VFNkpXYjBRZU1CWHlHMVhIUVl2d3VPTzNYNWxNRzVtX3RIbVAyWjZKeEdFa0ZodmZ6NVRVdElWb3dYV3hxUnlwRUJtNkpZcnI?oc=5",
+      "published": "2026-08-19T19:02:00+00:00",
+      "image": ""
     },
     {
       "title": "EUA alertam sobre ataques alimentados por IA a PLCs da Siemens em infraestrutura crítica",
@@ -137,6 +146,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQNc2xSAgLu-A9p7sNrEqSu_NjH29MY18RsTwxzLEGW1a1qUJIMSu5RlZg1V8tPxQg55hqA94wYqBiD74lF3l6XXYB43oM_xalMLq8_uRR1xAuSX6dop3Cdmg3lwljU1Nl4aqsKHHDr1Ju4n5Q6j_0LqbGqX8coexq7DaRU9IzRZDHKbDqQoNYD1CRcNg/s1600/iron.jpg"
     },
     {
+      "title": "Phishing 3.0: a luta passa para agente versus agente - The Hacker News",
+      "summary": "Phishing 3.0: a luta passa para agente versus agente The Hacker News",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdW5ISnVzdWFad2RCSjNtRmpoWE1ZaktpSlBaS3pKOHZ3VUdzRllBaHNBTzFKeTlPVThRR1hBbzU1N1c2dXNHeERVckktdWlwMDAtYXU2eGh4aWV2UHhiX0RYWFFmbFJpOW9mLURvbUdxNnBsT01yc3NPNGZBR25PZVA5SXQ?oc=5",
+      "published": "2026-08-19T11:30:00+00:00",
+      "image": ""
+    },
+    {
       "title": "StopAndProtect usa quase 2.000 sites WordPress hackeados para espalhar malware e roubar dados",
       "summary": "Pesquisadores de segurança cibernética sinalizaram uma operação global de crimes cibernéticos que abusa de milhares de sites WordPress hackeados como infraestrutura para disseminar malware, comandar hosts infectados, armazenar documentos roubados, capturas de ",
       "category": "AMEAÇAS",
@@ -144,24 +162,6 @@
       "url": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
       "published": "2026-08-19T11:25:28+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHtWFBMa_xYpIkK39I2gvAJrksqJBAkRSnEZ-WjwpQtbV9mgfPRzWp3qtdhk_v1yOG67pAZ5H3DAFRVv7rEzbns9IuAa4_DV-MUBDIb6fuWzLyRvFXyC1fOaTUPbwxdoY4cykbPy3wXEn3HvlnbjbqH37vkLKMSJA799pVeD50RqMGlJJztFJZcFzR2xTf/s1600/wordpress-hacks.jpg"
-    },
-    {
-      "title": "StopAndProtect usa quase 2.000 sites WordPress hackeados para espalhar malware e roubar dados - The Hacker News",
-      "summary": "StopAndProtect usa quase 2.000 sites WordPress hackeados para espalhar malware e roubar dados The Hacker News",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM3I5dGdkUV9pM0RPM3FkanpKYXVlSFFYRUFURnk5bHhNaTUwQkdPbkFvSnMydE9GMTJLeEMwWGIxTVRJbWpWS0J5NU10RVZHY3lHb1FfUWVTSjN1dExNTWRGZVk5Z2NKOVE0WC1XOXhhSWZmMzhEMXg5RlNLT1ZXdWVfTQ?oc=5",
-      "published": "2026-08-19T11:25:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft corrige problema conhecido que causa travamentos do Windows Defender",
-      "summary": "A Microsoft resolveu um bug que causou o travamento do Windows Defender após uma atualização de segurança recente, resultando em erros de violação de acesso 0xc0000005 em alguns sistemas afetados. [...]",
-      "category": "DEFESA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
-      "published": "2026-08-19T11:14:28+00:00",
-      "image": ""
     }
   ]
 }
