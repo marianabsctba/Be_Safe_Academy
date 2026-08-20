@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-08-20T15:51:32.290865+00:00",
+  "updated_at": "2026-08-20T19:04:28.154308+00:00",
   "items": [
+    {
+      "title": "Apelando aos profissionais cibernéticos para ajudar a defender a prefeitura",
+      "summary": "Agências governamentais com orçamentos menores precisam de apoio – e veja como você pode ajudar.",
+      "category": "DEFESA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
+      "published": "2026-08-21T14:00:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "A Cyber ​​está sentindo falta da Marca?",
+      "summary": "No boletim informativo desta semana, o novo autor Mick Baccio apresenta-se e explora as implicações operacionais e de segurança do novo memorando da Casa Branca relativo à participação do sector privado em operações cibernéticas ofensivas autorizadas pelo gove",
+      "category": "DEFESA",
+      "source": "Cisco Talos",
+      "url": "https://blog.talosintelligence.com/is-cyber-missing-the-marque/",
+      "published": "2026-08-20T18:00:18+00:00",
+      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/threat_source-2.jpg"
+    },
+    {
+      "title": "Hackers envenenam arrayref Rust crate para enviar malware infostealer",
+      "summary": "Os hackers comprometeram a conta do mantenedor por trás do amplamente utilizado Rust crate arrayref para introduzir malware que foi executado nos sistemas dos desenvolvedores durante a compilação. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
+      "published": "2026-08-20T17:53:52+00:00",
+      "image": ""
+    },
+    {
+      "title": "Bug N-able expõe chaves mestras do cofre de senhas",
+      "summary": "O popular gerenciador de senhas “Passportal”, preferido por MSPs e SMBs, continua arriscado mesmo após seu patch, graças ao seu design baseado em nuvem. Esses produtos deveriam ficar totalmente longe da nuvem?",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys",
+      "published": "2026-08-20T17:39:24+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0a77c38c9943dba1/6a7ccfe21978b46e991f0379/Vault-Dragon_Claws-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Dinheiro e mentalidade: os dois maiores obstáculos ao policiamento cibernético",
+      "summary": "A formação policial não está a acompanhar o volume e a rápida evolução dos crimes cibernéticos, embora os agentes só precisem realmente de aprender o básico, mas a concentração e os orçamentos dificultam o progresso.",
+      "category": "DEFESA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing",
+      "published": "2026-08-20T17:32:51+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta7ace73c64110fdb/6a873d0883b3a602b22efba9/GettyImages-2226845743.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, recompensa de US$ 10 milhões, GLM-5.3 AI Exploit e muito mais",
+      "summary": "Muitos dos problemas desta semana começam com algo confiável fazendo exatamente o que lhe foi permitido fazer. Os motoristas assinados se voltam contra as defesas. Aplicativos legítimos ajudam o malware a se misturar. Uma verificação de cabeçalho fraca abre um",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
+      "published": "2026-08-20T17:23:48+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrmpCA-Pjqqy5BQaFvVtYqPZocJNkI4XUD8bcD9KrGaBcLyKd3J-aWVUtB8HwTiVqrFSI8U5wtTPhtjowrBWukeoUwSM5Y0-YKY535m1iDdQCXLYbSlx-qS-2TzZUpWVghvC3b9qWHxPoY4b-d3uUn3E4jeeW6iPt6Klxte-iNHfbq7K4aUpKH-EfhZV69/s1600/threatsday-main.png"
+    },
+    {
+      "title": "Scripts de exploração gerados por IA têm como alvo CLPs Siemens S7 em infraestrutura crítica dos EUA",
+      "summary": "O governo dos EUA alertou na quarta-feira sobre uma “ameaça ativa” visando organizações de infraestrutura crítica no país usando scripts de exploração gerados por inteligência artificial (IA). A atividade tem como alvo os Controladores Lógicos Programáveis ​​(",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
+      "published": "2026-08-20T16:59:44+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSn562AFIpj2ldmT5inFv5tGgfNbaM4F1OBNvCW-80nP-YmFewnJd9VMlbgYnhgWrUpHS81bS6uEXRgEmg37c14OqmkO29XqY3FcBCl637vmAxfqB3UDtL3Rvgio6cPAQQv3bYtLUIyRdog4bpgD8MqJJYhTLish4L2Ljt6aJ_WpjFmTXYhmrA-TguqH98/s1600/plc.jpg"
+    },
     {
       "title": "Tribo Transparente do Paquistão atualiza conjunto de ferramentas para ataques cibernéticos no Afeganistão",
       "summary": "Um actor ameaçador do Estado-nação está a implicar com organizações imaturas dirigidas pelos Taliban, mas a fracassar contra agências governamentais mais preparadas na Índia.",
@@ -27,6 +90,15 @@
       "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
       "published": "2026-08-20T14:39:48+00:00",
       "image": ""
+    },
+    {
+      "title": "Novo ataque de injeção de contexto criptográfico pode permitir que páginas da Web roubem dados de bate-papo do Grok",
+      "summary": "Adversa AI divulgou uma técnica de ataque que pode fazer com que o chatbot Grok da xAI envie o nome de um usuário, localização aproximada, nível de assinatura e os prompts da conversa em andamento para um servidor controlado pelo invasor após o usuário solicit",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
+      "published": "2026-08-20T14:36:27+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPv76ODDXuPeov3fu_Gs_V-72pKnjw38Qu9A4qXOn_2QFd9daTYFAXre2eubEQ6Fwb65SwXgv10mhyDCGE_KcvL69c-CGe2BfEiOj74UTHwv6WAhMyxNuVGOEdUZYwz0Y9v55SFmaOwjHQYHbOyzvZEofi0egkTfeFxQlJRD3Sj6ve-TZ47SM1sNfYGB0/s1600/grok-chat.jpg"
     },
     {
       "title": "Vigilância – tudo o que você queria saber, mas tinha medo de perguntar",
@@ -90,78 +162,6 @@
       "url": "https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/",
       "published": "2026-08-20T13:16:35+00:00",
       "image": ""
-    },
-    {
-      "title": "Atlassian e Splunk corrigem dezenas de vulnerabilidades críticas e de alta gravidade",
-      "summary": "As falhas poderiam ser exploradas para executar código arbitrário, acessar informações confidenciais e elevar privilégios. O post Atlassian, Splunk Patch Dezenas de Vulnerabilidades Críticas e de Alta Gravidade apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/",
-      "published": "2026-08-20T12:24:53+00:00",
-      "image": ""
-    },
-    {
-      "title": "Citrix incentiva os administradores a corrigir novas falhas do NetScaler o mais rápido possível",
-      "summary": "A Citrix alertou os clientes para protegerem imediatamente seus sistemas contra duas vulnerabilidades que afetam as soluções de acesso remoto seguro NetScaler Gateway e os dispositivos de rede NetScaler ADC. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
-      "published": "2026-08-20T12:14:38+00:00",
-      "image": ""
-    },
-    {
-      "title": "Vulnerabilidade do MLflow explorada para roubo de credenciais na nuvem",
-      "summary": "A falha de gravidade crítica permite que invasores enviem solicitações HTTP para endpoints internos e extraiam informações confidenciais. A postagem Vulnerabilidade do MLflow explorada para roubo de credenciais na nuvem apareceu pela primeira vez na SecurityWe",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/",
-      "published": "2026-08-20T12:05:55+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ataque de cartão zumbi pode reviver cartões Visa expirados para pagamentos sem contato",
-      "summary": "Pesquisadores da Universidade de Massachusetts Amherst demonstraram um ataque que revive cartões de crédito sem contato Visa expirados para compras reais na loja, reescrevendo a data de validade que um terminal de ponto de venda (POS) lê através de comunicação",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
-      "published": "2026-08-20T12:01:24+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsJMUJluWegBU4C6RiZ4QHg6rTqhFHMt5JJt3RR2K7l06c3FOFlnq8gIVuBqVUX8qsJFiAh6KKAlDXpVAydAoC2rM0dUKUayta50sqRXoW36_V2OgSXJBKaaAFY4boBYhtHkqeyBaBZavbo7bz3S8otNwyb3NUmW9j88edph6zAfnyJikYhLBrAHuCdBA/s1600/visa.jpg"
-    },
-    {
-      "title": "Cisco corrige vulnerabilidades críticas de trabalho cruzado e segurança de carga de trabalho",
-      "summary": "As falhas podem levar à execução remota de código, desvios de autenticação e ataques de passagem de caminho. A postagem Cisco corrige vulnerabilidades críticas de crosswork e carga de trabalho segura apareceu pela primeira vez em SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/",
-      "published": "2026-08-20T11:46:04+00:00",
-      "image": ""
-    },
-    {
-      "title": "Por que a “Shady AI” é o próximo grande problema de governança da segurança",
-      "summary": "Em março de 2026, um agente interno de IA da Meta desencadeou um incidente “Sev 1” depois que dados confidenciais da empresa e do usuário foram expostos a funcionários que não estavam autorizados a acessá-los. O incidente começou quando um funcionário da Meta ",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
-      "published": "2026-08-20T11:45:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw0UN7paSPEt1BbP-tObzJmXd5LHvNrZpta_hHK2pwYGVsYyZt2FQO20Ld8uePEO35Hg9MUqHRoA3tvbxXf9Wdh2D8IgHIt9M56YTvveuPUILhMZ_drcaBL6ILCPzZmAwryt6cqjNvh4A0NUIPIBS6tpJCHJz6R5Lu42t06EyJ56wnlATWOg5UC-5JlBA/s1600/tines.jpg"
-    },
-    {
-      "title": "Ataque de tsunami CDN abusa da tradução HTTP/3 para amplificação DoS de até 350x",
-      "summary": "Pesquisadores de segurança cibernética divulgaram dois ataques de negação de serviço (DoS) que exploram como as principais redes de distribuição de conteúdo (CDNs) convertem o tráfego HTTP/3 voltado para o cliente em solicitações HTTP/1.1 para os sites que ace",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html",
-      "published": "2026-08-20T11:39:35+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDFisNx669R67D6R9VnkWr_DIhB1VjYqDPrXqKAoeCz0YxbSngLxB15XYLtuKb00YSEE0rxQEfop5v7JIr2SMVOErIM2r_GZqA6q1FDNl_wBeAaukVoAse6l0kXv35dJRTQjT8R0DhS9ihwYUXNd9cFuqYM3GS0o28NyIBAgliuQR8XhKQqhixFcjdZpo/s1600/cdn-boost.jpg"
-    },
-    {
-      "title": "Manic Android Malware extrai dados de telefones off-line por meio de dispositivos infectados próximos",
-      "summary": "Uma nova ameaça ao Android, com o codinome Manic, foi observada visando ativamente bancos ucranianos, serviços governamentais e de identidade e aplicativos de mensagens, bem como instituições financeiras russas e europeias, serviços globais de fintech e cripto",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html",
-      "published": "2026-08-20T11:26:08+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNJ75E0bEnkBf9REZEnmMNusCu2L2mrut4dSX8g-VVXH2THKdkXD1GwCZ_O5ZsnGzdamG2t0TVnelMj1TKMghauv4cIndc3OA7kuHQAdxf7FbngV7BaWV_-qmhvLZRNwN_5tkv5dSHViEwDgZ4Mou0TNLrFlyQ2yzyb7GYNQ6PPNVjCoJ7VzeKmly4Ntsf/s1600/Manic.jpg"
     }
   ]
 }
