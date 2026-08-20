@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-08-20T07:10:53.726876+00:00",
+  "updated_at": "2026-08-20T09:52:47.665581+00:00",
   "items": [
+    {
+      "title": "Falha crítica do Zimbra RCE agora explorada ativamente em ataques",
+      "summary": "CERT Polska, a equipe polonesa de resposta a emergências informáticas (CERT), alertou que os invasores começaram a explorar uma vulnerabilidade crítica no Zimbra Collaboration Suite (ZCS). [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/",
+      "published": "2026-08-20T09:46:54+00:00",
+      "image": ""
+    },
+    {
+      "title": "Exploração esperada para desvio de autenticação crítica corrigido no Citrix NetScaler",
+      "summary": "Atacantes remotos e não autenticados poderiam explorar a falha de gravidade crítica sem interação do usuário. A postagem Exploração esperada para desvio de autenticação crítica corrigida no Citrix NetScaler apareceu pela primeira vez em SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/exploitation-expected-for-critical-authentication-bypass-patched-in-citrix-netscaler/",
+      "published": "2026-08-20T08:33:25+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falha crítica do GitLab explorada logo após a divulgação",
+      "summary": "CVE-2026-19478 pode ser explorado sem autenticação para modificar ou excluir projetos públicos e dados de usuários. A postagem Falha crítica do GitLab explorada logo após a divulgação apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/",
+      "published": "2026-08-20T07:48:24+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers usando IA para atingir PLCs da Siemens em setores críticos dos EUA",
+      "summary": "Um comunicado de segurança cibernética com detalhes técnicos e recomendações foi escrito pela NSA, CISA e outras agências. A postagem Hackers usando IA para atingir PLCs da Siemens em setores críticos dos EUA apareceu pela primeira vez na SecurityWeek.",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/hackers-using-ai-to-target-siemens-plcs-in-critical-us-sectors/",
+      "published": "2026-08-20T07:02:02+00:00",
+      "image": ""
+    },
     {
       "title": "A falha do Elementor Pro pode permitir que invasores não autenticados carreguem PHP e executem código",
       "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma falha crítica no plugin Elementor Pro WordPress que, se explorada com sucesso, pode levar à execução remota de código. A vulnerabilidade, rastreada como CVE-2026-32475, carrega uma pontuação CVS",
@@ -9,6 +45,15 @@
       "url": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
       "published": "2026-08-20T06:04:34+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitKWjeNJOL_DEahUmMAYpH9qh94s2iFi8igtfSlAzOVWiUBU-EIM0MWMsFYPmA5NDL6Rs9E-w9vvCmw3Cc6Og0q-TDt87Q2hwYIePNAQ0xQ3OJYHzgCizDFm-YK9SxW4ncWnuVLaOzgb3SPO7Qpx17zHMaFzBQfYllgz5IP-p1jMALgWlasRkj1nV3Tq3G/s1600/wordpress.jpg"
+    },
+    {
+      "title": "Falha do Elementor Pro pode permitir que invasores não autenticados carreguem PHP e executem código - The Hacker News",
+      "summary": "Falha do Elementor Pro pode permitir que invasores não autenticados carreguem PHP e executem código The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wSzMyMDQ2SXIxQmxacXJKc2pZWkVIdGljSWdkU2NnaVZGMnRDMTBiS3Boc3dTSFlmOFFVdEpfOHdWVk5uYjV6V05GR3l3ZTNRNE5KUF9GV2lKYjZ6WVBUbnlUSmVuaVEyNDBvbEJjT1lJUHp2Smc?oc=5",
+      "published": "2026-08-20T06:04:00+00:00",
+      "image": ""
     },
     {
       "title": "Afiliada de ransomware desonesto se apresenta como empresa de recuperação para roubar pagamentos",
@@ -117,51 +162,6 @@
       "url": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
       "published": "2026-08-19T13:12:17+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgukQx26zt-EE2Q-I5EPzGDeXiUneL1NzNma73qc5r03gJ5Xj6kiTigXadbXa1XWqg7Y-UHq5YzEu7bPxN4BXjVUbId9eaPwWddiP_oB7Zz2fBV0bxr2S2wh9oVEFI-IEe4jMgA1REmrbKFSE33oztVDuz0p2TQhKA_0koqZ3qYcWH_d5Ec4lExxdMzWw5I/s1600/malware-code.jpg"
-    },
-    {
-      "title": "Prevalent AI levanta US$ 22 milhões para expandir a plataforma Data Fabric",
-      "summary": "A empresa anteriormente inicializada ajuda as organizações a operar agentes de IA em escala de forma segura e confiável. A postagem Prevalent AI levanta US$ 22 milhões para expandir a plataforma Data Fabric apareceu pela primeira vez na SecurityWeek.",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/prevalent-ai-raises-22-million-to-expand-data-fabric-platform/",
-      "published": "2026-08-19T12:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers comprometeram mais de 14.500 dispositivos Dahua usando ataques de credenciais, desvios de autenticação e P2P",
-      "summary": "Pesquisadores de segurança cibernética da Hunt.io divulgaram detalhes de uma campanha que, segundo eles, comprometeu mais de 14.530 dispositivos Dahua entre 17 de junho e 22 de julho de 2026, usando ataques de credenciais, duas falhas de desvio de autenticação",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
-      "published": "2026-08-19T11:34:28+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMoFWi-QSod_BQxqARN9B9-f3XXRsEk-QHunmW3JSc9DHyZNKRK91l5KTzt_DYxGnTUtGqRMo1WHR9zfREMAXDAeDOYFgXpSJdgyUXHgOGTnpiokI06ZsJ1syAzn8GYlkzZqr6L73IsPJDAKgCbobSSkzZfWfJPapFiVJS4Kc1DyP3SBsMFgyZjCL6V6Y/s1600/camera.jpg"
-    },
-    {
-      "title": "Hackers comprometeram mais de 14.500 dispositivos Dahua usando ataques de credenciais, desvios de autenticação e P2P - The Hacker News",
-      "summary": "Hackers comprometeram mais de 14.500 dispositivos Dahua usando ataques de credenciais, desvios de autenticação e P2P The Hacker News",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNekdONGtJT29yY1dqUzZVamcxblV6c1BqWDU5TU9admIwQTliSzg0SERMVVlPMGh0RWt2S3N1Zl9kWG5jNy1WNHoyd1ludzB0d3FzbXRLY0dod0JhNVlTQ28xc0hsOFRZYzlrbzZrS21MdjFVVlhQY2RRQ1djWjBUSXU2Vm4?oc=5",
-      "published": "2026-08-19T11:34:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "EUA acusam 17 hackers iranianos e oferecem recompensas de US$ 10 milhões por 5 deles",
-      "summary": "Os 17 membros do Instituto Mabna visaram centenas de universidades e organizações nos EUA e no exterior. A postagem EUA acusa 17 hackers iranianos e oferece recompensas de US$ 10 milhões por 5 deles apareceu pela primeira vez na SecurityWeek.",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/us-charges-17-iranian-hackers-offers-10-million-rewards-for-5-of-them/",
-      "published": "2026-08-19T11:30:33+00:00",
-      "image": ""
-    },
-    {
-      "title": "Phishing 3.0: a luta passa para agente versus agente",
-      "summary": "A maioria das defesas de e-mail ainda fazem o trabalho que faziam há uma década. Digitalize a mensagem, procure por algo malicioso e bloqueie-a. Isso funcionou quando o perigo estava na carga útil, em um link ou anexo incorreto. Parou de funcionar quando o per",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
-      "published": "2026-08-19T11:30:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQNc2xSAgLu-A9p7sNrEqSu_NjH29MY18RsTwxzLEGW1a1qUJIMSu5RlZg1V8tPxQg55hqA94wYqBiD74lF3l6XXYB43oM_xalMLq8_uRR1xAuSX6dop3Cdmg3lwljU1Nl4aqsKHHDr1Ju4n5Q6j_0LqbGqX8coexq7DaRU9IzRZDHKbDqQoNYD1CRcNg/s1600/iron.jpg"
     }
   ]
 }
