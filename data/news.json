@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-08-20T04:03:09.093810+00:00",
+  "updated_at": "2026-08-20T07:10:53.726876+00:00",
   "items": [
+    {
+      "title": "A falha do Elementor Pro pode permitir que invasores não autenticados carreguem PHP e executem código",
+      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma falha crítica no plugin Elementor Pro WordPress que, se explorada com sucesso, pode levar à execução remota de código. A vulnerabilidade, rastreada como CVE-2026-32475, carrega uma pontuação CVS",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
+      "published": "2026-08-20T06:04:34+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitKWjeNJOL_DEahUmMAYpH9qh94s2iFi8igtfSlAzOVWiUBU-EIM0MWMsFYPmA5NDL6Rs9E-w9vvCmw3Cc6Og0q-TDt87Q2hwYIePNAQ0xQ3OJYHzgCizDFm-YK9SxW4ncWnuVLaOzgb3SPO7Qpx17zHMaFzBQfYllgz5IP-p1jMALgWlasRkj1nV3Tq3G/s1600/wordpress.jpg"
+    },
     {
       "title": "Afiliada de ransomware desonesto se apresenta como empresa de recuperação para roubar pagamentos",
       "summary": "Um suposto afiliado de ransomware está se passando por um serviço de recuperação de ransomware chamado “Ransom Busters”, entrando em contato com as vítimas antes que os ataques se tornem públicos e alegando ser capaz de fornecer chaves de descriptografia e exc",
@@ -153,15 +162,6 @@
       "url": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
       "published": "2026-08-19T11:30:00+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQNc2xSAgLu-A9p7sNrEqSu_NjH29MY18RsTwxzLEGW1a1qUJIMSu5RlZg1V8tPxQg55hqA94wYqBiD74lF3l6XXYB43oM_xalMLq8_uRR1xAuSX6dop3Cdmg3lwljU1Nl4aqsKHHDr1Ju4n5Q6j_0LqbGqX8coexq7DaRU9IzRZDHKbDqQoNYD1CRcNg/s1600/iron.jpg"
-    },
-    {
-      "title": "StopAndProtect usa quase 2.000 sites WordPress hackeados para espalhar malware e roubar dados",
-      "summary": "Pesquisadores de segurança cibernética sinalizaram uma operação global de crimes cibernéticos que abusa de milhares de sites WordPress hackeados como infraestrutura para disseminar malware, comandar hosts infectados, armazenar documentos roubados, capturas de ",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
-      "published": "2026-08-19T11:25:28+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHtWFBMa_xYpIkK39I2gvAJrksqJBAkRSnEZ-WjwpQtbV9mgfPRzWp3qtdhk_v1yOG67pAZ5H3DAFRVv7rEzbns9IuAa4_DV-MUBDIb6fuWzLyRvFXyC1fOaTUPbwxdoY4cykbPy3wXEn3HvlnbjbqH37vkLKMSJA799pVeD50RqMGlJJztFJZcFzR2xTf/s1600/wordpress-hacks.jpg"
     }
   ]
 }
