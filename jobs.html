@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#08090a">
+<meta name="description" content="Be Safe Jobs: radar gratuito de vagas de cibersegurança no Brasil inteiro.">
+<title>Cyber Jobs | Be Safe Academy</title>
+<style>
+:root{--bg:#08090a;--panel:#111318;--line:#292d35;--text:#f4f1eb;--muted:#a7adb8;--pink:#ff3d98;--cyan:#3de7ff;--lime:#caff33;--orange:#ff9f43}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:radial-gradient(circle at 85% 0,rgba(255,61,152,.12),transparent 28%),var(--bg);color:var(--text);font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}a{color:inherit;text-decoration:none}button,input{font:inherit}
+.top{position:sticky;top:0;z-index:30;display:flex;align-items:center;justify-content:space-between;padding:15px clamp(18px,5vw,72px);background:rgba(8,9,10,.92);border-bottom:1px solid var(--line);backdrop-filter:blur(16px)}.brand{font-weight:950;letter-spacing:-.05em;font-size:1.2rem}.brand b{color:var(--pink)}.back{padding:10px 14px;border:1px solid var(--line);border-radius:10px;font-size:.72rem;font-weight:900}
+.hero{max-width:1500px;margin:auto;padding:clamp(58px,8vw,110px) clamp(18px,7vw,110px) 45px}.eyebrow{color:var(--cyan);font-size:.7rem;font-weight:950;letter-spacing:.16em}.hero h1{margin:14px 0 18px;font-size:clamp(3.4rem,10vw,8.8rem);line-height:.78;letter-spacing:-.09em}.hero h1 em{color:var(--lime);font-style:normal}.hero p{max-width:790px;color:var(--muted);font-size:clamp(1rem,2vw,1.18rem);line-height:1.65}
+.meta{display:flex;flex-wrap:wrap;gap:10px;margin-top:27px}.pill{padding:8px 11px;border:1px solid var(--line);border-radius:999px;color:var(--muted);font-size:.67rem;font-weight:850}.live{color:var(--lime)}.live:before{content:"";display:inline-block;width:7px;height:7px;margin-right:7px;border-radius:50%;background:var(--lime);box-shadow:0 0 10px var(--lime)}
+.stats{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px;max-width:1100px;margin-top:34px}.stat{padding:18px;border:1px solid var(--line);border-radius:14px;background:rgba(17,19,24,.78)}.stat strong{display:block;font-size:1.8rem;letter-spacing:-.05em}.stat span{color:var(--muted);font-size:.61rem;font-weight:900;letter-spacing:.08em}
+.tools{position:sticky;top:65px;z-index:20;padding:14px clamp(18px,7vw,110px);background:rgba(8,9,10,.96);border-block:1px solid var(--line)}.toolbox{max-width:1500px;margin:auto}.toolrow{display:grid;grid-template-columns:minmax(220px,1fr) auto;gap:12px}.search{width:100%;padding:14px 16px;border:1px solid var(--line);border-radius:12px;background:#101217;color:#fff;outline:none}.search:focus{border-color:var(--cyan)}
+.filters,.levels{display:flex;gap:7px;overflow:auto;scrollbar-width:thin}.filters button,.levels button,.clear{white-space:nowrap;border:1px solid var(--line);background:#101217;color:var(--muted);font-weight:850;cursor:pointer}.filters button{padding:10px 12px;border-radius:10px}.levels{margin-top:10px}.levels button,.clear{padding:8px 11px;border-radius:999px;font-size:.7rem}.filters button.active{background:var(--pink);border-color:var(--pink);color:#17060e}.levels button.active{background:var(--lime);border-color:var(--lime);color:#0c1100}.clear{margin-left:auto;color:var(--cyan)}
+.resultsline{max-width:1500px;margin:0 auto;padding-top:9px;color:#7f8794;font-size:.68rem;font-weight:800;letter-spacing:.05em}
+.wrap{max-width:1500px;margin:auto;padding:34px clamp(18px,7vw,110px) 100px}.notice{margin-bottom:18px;padding:13px 15px;border:1px solid rgba(61,231,255,.25);border-radius:12px;background:rgba(61,231,255,.05);color:#bcdce3;font-size:.76rem;line-height:1.45}.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}.card{display:flex;flex-direction:column;min-height:365px;padding:21px;border:1px solid var(--line);border-radius:16px;background:linear-gradient(180deg,rgba(20,23,29,.96),rgba(13,15,19,.96));transition:.2s}.card:hover{transform:translateY(-4px);border-color:#4b5260}.cardtop{display:flex;align-items:flex-start;justify-content:space-between;gap:12px}.source{color:var(--cyan);font-size:.61rem;font-weight:950;letter-spacing:.12em;text-transform:uppercase}.new{color:var(--lime)}.card h2{margin:10px 0 6px;font-size:1.23rem;line-height:1.15;letter-spacing:-.025em}.company{font-weight:850;color:#d9d7d1}.location{margin-top:11px;color:var(--muted);font-size:.82rem}.badges{display:flex;flex-wrap:wrap;gap:6px;margin:14px 0}.badge{padding:6px 8px;border:1px solid var(--line);border-radius:999px;font-size:.59rem;font-weight:950;letter-spacing:.06em}.track{color:var(--pink);border-color:rgba(255,61,152,.35)}.remote{color:var(--lime);border-color:rgba(202,255,51,.3)}.level{color:var(--cyan);border-color:rgba(61,231,255,.3)}.summary{color:var(--muted);font-size:.82rem;line-height:1.5}.labs{margin-top:14px;padding-top:13px;border-top:1px solid var(--line)}.labs b{display:block;margin-bottom:7px;color:var(--orange);font-size:.64rem;letter-spacing:.08em}.labs a{display:inline-block;margin:0 7px 6px 0;color:#d6d9df;font-size:.7rem;text-decoration:underline;text-decoration-color:#555}.actions{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-top:auto;padding-top:18px}.date{color:#747d8d;font-size:.65rem}.apply{padding:10px 12px;border-radius:9px;background:var(--pink);color:#16060e;font-size:.68rem;font-weight:950;letter-spacing:.07em}.empty{padding:65px 20px;text-align:center;color:var(--muted);border:1px dashed var(--line);border-radius:16px}footer{padding:30px;text-align:center;border-top:1px solid var(--line);color:var(--muted);font-size:.72rem}
+@media(max-width:1050px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}.stats{grid-template-columns:repeat(3,1fr)}.toolrow{grid-template-columns:1fr}}
+@media(max-width:620px){.top{padding:12px 14px}.hero{padding-top:48px}.hero h1{font-size:3.7rem}.tools{top:59px;padding:10px 12px}.wrap{padding:24px 12px 70px}.grid{grid-template-columns:1fr}.stats{grid-template-columns:1fr 1fr}.card{min-height:340px}.levels{padding-bottom:4px}}
+</style>
+</head>
+<body>
+<nav class="top"><a class="brand" href="index.html">BE <b>SAFE</b> ACADEMY</a><a class="back" href="index.html">← VOLTAR AO HUB</a></nav>
+<header class="hero">
+<span class="eyebrow">RADAR NACIONAL DE CARREIRA CYBER</span>
+<h1>CYBER<br><em>JOBS.</em></h1>
+<p>Vagas de cibersegurança no Brasil inteiro, atualizadas automaticamente via Google Jobs, incluindo remoto elegível para quem está no Brasil. Aqui “security” precisa ser cyber mesmo, pq vaga de vigilante no meio do SOC ninguém merece. 😂</p>
+<div class="meta"><span class="pill live">VAGAS ATUALIZADAS · API PROTEGIDA</span><span class="pill" id="updated">CARREGANDO…</span><span class="pill">BRASIL + REMOTO BR</span></div>
+<div class="stats">
+<div class="stat"><strong id="total">0</strong><span>VAGAS</span></div>
+<div class="stat"><strong id="startCount">0</strong><span>START / JR</span></div>
+<div class="stat"><strong id="plenoCount">0</strong><span>PLENO</span></div>
+<div class="stat"><strong id="seniorCount">0</strong><span>SÊNIOR</span></div>
+<div class="stat"><strong id="remoteCount">0</strong><span>REMOTAS</span></div>
+</div>
+</header>
+
+<section class="tools">
+<div class="toolbox">
+<div class="toolrow">
+<input class="search" id="search" type="search" placeholder="Buscar cargo, empresa, cidade, SIEM, AppSec, IAM, Wazuh…">
+<div class="filters" id="tracks"></div>
+</div>
+<div class="levels" id="levels">
+<button data-level="TODOS" class="active">TODOS</button>
+<button data-level="START">START / JR</button>
+<button data-level="PLENO">PLENO</button>
+<button data-level="SÊNIOR">SÊNIOR</button>
+<button data-level="REMOTO">REMOTO</button>
+<button data-level="LOCAL">PRESENCIAL / HÍBRIDO</button>
+<button class="clear" id="clear">LIMPAR FILTROS</button>
+</div>
+<div class="resultsline" id="resultsLine">CARREGANDO VAGAS…</div>
+</div>
+</section>
+
+<main class="wrap">
+<div class="notice">O Be Safe Jobs é um radar comunitário. Sempre confira a disponibilidade e os requisitos na fonte original antes de se candidatar.</div>
+<section class="grid" id="grid" aria-live="polite"></section>
+<div class="empty" id="empty" hidden>Nenhuma vaga encontrada com esses filtros. Tenta outra trilha, amor — o mercado fez rate limit. 😂</div>
+</main>
+<footer>Mariana BS - Cybersecurity Engineer · Be Safe Academy · Sempre direcionando para a fonte original.</footer>
+
+<script>
+(function(){
+"use strict";
+let all=[], selectedTrack="TODAS", selectedLevel="TODOS";
+const $=id=>document.getElementById(id);
+const grid=$("grid"), empty=$("empty"), search=$("search"), tracks=$("tracks"), levels=$("levels");
+const esc=v=>String(v??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const normalizeLevel=v=>{
+  const s=String(v||"").trim().toUpperCase();
+  if(s==="START"||s==="JR"||s==="JÚNIOR"||s==="JUNIOR") return "START";
+  if(s==="PLENO") return "PLENO";
+  if(s==="SÊNIOR"||s==="SENIOR"||s==="SR") return "SÊNIOR";
+  return "NÃO INFORMADO";
+};
+const fmt=v=>{
+  if(!v)return"DATA NÃO INFORMADA";
+  const d=new Date(v);
+  if(Number.isNaN(d.getTime())) return String(v);
+  return new Intl.DateTimeFormat("pt-BR",{dateStyle:"medium"}).format(d);
+};
+const fresh=v=>v && (Date.now()-new Date(v).getTime()) < 3*86400000;
+
+function buildTrackButtons(){
+  const cats=["TODAS",...Array.from(new Set(all.map(x=>x.track).filter(Boolean))).sort()];
+  tracks.innerHTML=cats.map(c=>`<button data-track="${esc(c)}" class="${c===selectedTrack?"active":""}">${esc(c)}</button>`).join("");
+  tracks.querySelectorAll("[data-track]").forEach(btn=>{
+    btn.addEventListener("click",()=>{
+      selectedTrack=btn.dataset.track;
+      buildTrackButtons();
+      render();
+    });
+  });
+}
+
+function matchesLevel(x){
+  const lev=normalizeLevel(x.seniority);
+  if(selectedLevel==="TODOS") return true;
+  if(selectedLevel==="REMOTO") return !!x.remote || String(x.work_model||"").toUpperCase()==="REMOTO";
+  if(selectedLevel==="LOCAL") return !(!!x.remote || String(x.work_model||"").toUpperCase()==="REMOTO");
+  return lev===selectedLevel;
+}
+
+function filtered(){
+  const q=search.value.trim().toLowerCase();
+  return all.filter(x=>{
+    if(selectedTrack!=="TODAS" && x.track!==selectedTrack) return false;
+    if(!matchesLevel(x)) return false;
+    if(!q) return true;
+    return `${x.title||""} ${x.company||""} ${x.location||""} ${x.track||""} ${x.seniority||""} ${x.summary||""}`.toLowerCase().includes(q);
+  });
+}
+
+function render(){
+  const list=filtered();
+  $("resultsLine").textContent=`EXIBINDO ${list.length} DE ${all.length} VAGAS · ${selectedTrack} · ${selectedLevel}`;
+  empty.hidden=list.length!==0;
+  grid.innerHTML=list.map(x=>{
+    const lev=normalizeLevel(x.seniority);
+    const labs=Array.isArray(x.labs)?x.labs:[];
+    return `<article class="card">
+      <div class="cardtop">
+        <span class="source ${fresh(x.published)?"new":""}">${fresh(x.published)?"NOVA · ":""}${esc(x.source||"FONTE")}</span>
+        <span class="source">${esc(lev)}</span>
+      </div>
+      <h2>${esc(x.title)}</h2>
+      <div class="company">${esc(x.company)}</div>
+      <div class="location">📍 ${esc(x.location||"Brasil")}</div>
+      <div class="badges">
+        <span class="badge track">${esc(x.track||"CYBERSECURITY")}</span>
+        <span class="badge level">${esc(lev)}</span>
+        ${x.remote?'<span class="badge remote">REMOTO</span>':""}
+      </div>
+      ${x.summary?`<p class="summary">${esc(x.summary)}</p>`:""}
+      ${labs.length?`<div class="labs"><b>PREPARE-SE PRA ESSA TRILHA</b>${labs.map(l=>`<a href="${esc(l.url)}" target="_blank" rel="noopener noreferrer">${esc(l.name)}</a>`).join("")}</div>`:""}
+      <div class="actions">
+        <span class="date">${fmt(x.published)}</span>
+        <a class="apply" href="${esc(x.url)}" target="_blank" rel="noopener noreferrer">VER VAGA ↗</a>
+      </div>
+    </article>`;
+  }).join("");
+}
+
+levels.querySelectorAll("[data-level]").forEach(btn=>{
+  btn.addEventListener("click",()=>{
+    levels.querySelectorAll("[data-level]").forEach(b=>b.classList.remove("active"));
+    btn.classList.add("active");
+    selectedLevel=btn.dataset.level;
+    render();
+  });
+});
+$("clear").addEventListener("click",()=>{
+  selectedTrack="TODAS"; selectedLevel="TODOS"; search.value="";
+  levels.querySelectorAll("[data-level]").forEach(b=>b.classList.toggle("active",b.dataset.level==="TODOS"));
+  buildTrackButtons(); render();
+});
+search.addEventListener("input",render);
+
+const LIVE_API="https://be-safe-jobs-api.sukeviczmariana.workers.dev/jobs";
+
+function applyData(data, mode){
+  all=Array.isArray(data.items)?data.items:[];
+  $("updated").textContent=(mode==="live"?"AO VIVO · ":"FALLBACK · ")+(data.updated_at?fmt(data.updated_at):"AGORA");
+  $("total").textContent=all.length;
+  $("startCount").textContent=all.filter(x=>normalizeLevel(x.seniority)==="START").length;
+  $("plenoCount").textContent=all.filter(x=>normalizeLevel(x.seniority)==="PLENO").length;
+  $("seniorCount").textContent=all.filter(x=>normalizeLevel(x.seniority)==="SÊNIOR").length;
+  $("remoteCount").textContent=all.filter(x=>x.remote).length;
+  buildTrackButtons(); render();
+}
+
+fetch(LIVE_API,{cache:"no-store"})
+.then(r=>{if(!r.ok)throw new Error("API HTTP "+r.status);return r.json()})
+.then(data=>{
+  if(!data.ok || !Array.isArray(data.items) || data.items.length===0) throw new Error(data.error||"API sem vagas");
+  applyData(data,"live");
+})
+.catch(async err=>{
+  console.warn("API ao vivo indisponível. Usando fallback.",err);
+  $("resultsLine").textContent="API AO VIVO INDISPONÍVEL · CARREGANDO FALLBACK…";
+  try {
+    const r=await fetch("data/jobs.json?b="+Date.now(),{cache:"no-store"});
+    if(!r.ok) throw new Error("Fallback HTTP "+r.status);
+    const data=await r.json();
+    applyData(data,"fallback");
+  } catch(fallbackErr) {
+    console.error(fallbackErr);
+    $("resultsLine").textContent="NÃO FOI POSSÍVEL CARREGAR AS VAGAS";
+    grid.innerHTML='<div class="empty">A API ao vivo e o fallback estão indisponíveis no momento. Tenta novamente daqui a pouco, amor.</div>';
+  }
+});
+})();
+</script>
+</body>
+</html>
