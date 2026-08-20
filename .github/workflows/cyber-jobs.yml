@@ -1,0 +1,49 @@
+name: Atualizar Cyber Jobs
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "37 */4 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cyber-jobs
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        run: pip install requests beautifulsoup4
+
+      - name: Buscar vagas BR
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          GOOGLE_CSE_ID: ${{ secrets.GOOGLE_CSE_ID }}
+        run: python update_jobs.py
+
+      - name: Validar JSON
+        run: |
+          python - <<'PY'
+          import json
+          p=json.load(open("data/jobs.json",encoding="utf-8"))
+          assert isinstance(p.get("items"),list)
+          assert len(p["items"]) > 0, "jobs.json ficou vazio"
+          print("Vagas:",len(p["items"]))
+          print("Fontes:",p.get("sources",{}))
+          PY
+
+      - name: Publicar atualização
+        run: |
+          git config user.name "Be Safe Jobs Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/jobs.json
+          git diff --cached --quiet || git commit -m "jobs: atualização automática multi-fonte"
+          git push
