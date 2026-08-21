@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T04:05:22.043961+00:00",
+  "updated_at": "2026-08-21T07:11:20.019871+00:00",
   "items": [
     {
       "title": "Apelando aos profissionais cibernéticos para ajudar a defender a prefeitura",
@@ -9,6 +9,24 @@
       "url": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
       "published": "2026-08-21T14:00:00+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Falha do Microsoft Entra ID (CVSS 10.0) explorada de forma selvagem, permite execução remota de código",
+      "summary": "A Microsoft alertou na quinta-feira sobre uma falha de segurança de gravidade máxima no Entra ID que, segundo ela, foi explorada em estado selvagem, mas observou que nenhuma ação do cliente é necessária. A vulnerabilidade, rastreada como CVE-2026-69836 (pontua",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
+      "published": "2026-08-21T06:06:11+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid22xatm4tPGWO1VA9heA8p7i0iK4au3br36QORRasXlUO2uY5836xkZe6gywLOId9oHICopC6jZ8J-di4JI9O3CPOSOGsqoOR4Ps4DrEbKCXSXwMxX_wOGo0fY3zaTW4By4nzbY6jldD58kLAlBYfFxMOEeZOglaQu8R0TtT23Q2jLbQjHwJSoS21pqu5/s1600/entraid.jpg"
+    },
+    {
+      "title": "Falha do Microsoft Entra ID (CVSS 10.0) explorada de forma selvagem, permite a execução remota de código - The Hacker News",
+      "summary": "Falha do Microsoft Entra ID (CVSS 10.0) explorada de forma selvagem, permite execução remota de código The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuRjlmUzhUS1lzR3JURENlWUhjYlhZX3lJWmF1ajR1a3ZZSWpPWWhGRkUxSGw5dzBxbkFkSjFiZTVyRXM0MFZVWUJ0NWhXOF9fMm43Zjk5MktlbjdIRjJlQWtNNWVld1NuWm5mMmV3SU5KZklMVUMwWFdZcw?oc=5",
+      "published": "2026-08-21T06:06:00+00:00",
+      "image": ""
     },
     {
       "title": "Nova estrutura CUSTODY restringe agentes de IA dentro da rede",
@@ -143,24 +161,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
       "published": "2026-08-20T14:39:48+00:00",
-      "image": ""
-    },
-    {
-      "title": "Novo ataque de injeção de contexto criptográfico pode permitir que páginas da Web roubem dados de bate-papo do Grok",
-      "summary": "Adversa AI divulgou uma técnica de ataque que pode fazer com que o chatbot Grok da xAI envie o nome de um usuário, localização aproximada, nível de assinatura e os prompts da conversa em andamento para um servidor controlado pelo invasor após o usuário solicit",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
-      "published": "2026-08-20T14:36:27+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPv76ODDXuPeov3fu_Gs_V-72pKnjw38Qu9A4qXOn_2QFd9daTYFAXre2eubEQ6Fwb65SwXgv10mhyDCGE_KcvL69c-CGe2BfEiOj74UTHwv6WAhMyxNuVGOEdUZYwz0Y9v55SFmaOwjHQYHbOyzvZEofi0egkTfeFxQlJRD3Sj6ve-TZ47SM1sNfYGB0/s1600/grok-chat.jpg"
-    },
-    {
-      "title": "Vigilância – tudo o que você queria saber, mas tinha medo de perguntar",
-      "summary": "Todos nós sabemos que eles estão nos observando. Mas não sabemos quem eles são, nem por que nem como estão fazendo isso. O post Vigilância – Tudo o que você queria saber, mas tinha medo de perguntar apareceu pela primeira vez em SecurityWeek.",
-      "category": "PRIVACIDADE",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/surveillance-everything-you-wanted-to-know-but-were-afraid-to-ask/",
-      "published": "2026-08-20T14:30:00+00:00",
       "image": ""
     }
   ]
