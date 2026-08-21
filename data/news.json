@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T07:11:20.019871+00:00",
+  "updated_at": "2026-08-21T09:54:43.416843+00:00",
   "items": [
     {
       "title": "Apelando aos profissionais cibernéticos para ajudar a defender a prefeitura",
@@ -9,6 +9,51 @@
       "url": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
       "published": "2026-08-21T14:00:00+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Ataque de ferrugem na cadeia de suprimentos vinculado a hackers norte-coreanos",
+      "summary": "Os hackers lançaram uma versão envenenada do arrayref que adicionou uma dependência para buscar uma carga maliciosa de um servidor remoto. O posto Ataque de ferrugem na cadeia de suprimentos vinculado a hackers norte-coreanos apareceu pela primeira vez na Secu",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/",
+      "published": "2026-08-21T09:23:18+00:00",
+      "image": ""
+    },
+    {
+      "title": "A confiança do CMMC dos empreiteiros aumenta à medida que a capacidade de provar que fica para trás",
+      "summary": "Duas pesquisas do setor divulgadas esta semana pela Kiteworks e CyberSheath pintam um quadro consistente da base industrial de defesa. A postagem A confiança do CMMC dos empreiteiros aumenta à medida que a capacidade de provar que fica para trás apareceu pela ",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/",
+      "published": "2026-08-21T08:41:06+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft lança 22 novos patches de segurança",
+      "summary": "A maioria das correções resolve vulnerabilidades de execução de código, escalonamento de privilégios e divulgação de informações. A postagem Microsoft lança 22 novos patches de segurança apareceu pela primeira vez em SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
+      "published": "2026-08-21T08:12:19+00:00",
+      "image": ""
+    },
+    {
+      "title": "CISA pede correção imediata de vulnerabilidades TrueConf exploradas",
+      "summary": "O grupo hacktivista Head Mare tem explorado os bugs para implantar o malware PhantomCore. A postagem CISA pede correção imediata de vulnerabilidades TrueConf exploradas apareceu pela primeira vez em SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/",
+      "published": "2026-08-21T07:25:50+00:00",
+      "image": ""
+    },
+    {
+      "title": "GitLab CVE-2026-19478 entra em exploração ativa poucos dias após a divulgação",
+      "summary": "Uma falha de segurança recentemente divulgada no GitLab foi explorada ativamente poucos dias após a divulgação pública, de acordo com watchTowr. A vulnerabilidade em questão é CVE-2026-19478 (pontuação CVSS: 9.4), um caso de injeção de código que permite que u",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
+      "published": "2026-08-21T07:04:25+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8jpyIqzuMd0vBKcxrQRj7eBbEebcRgNHLRFpx7YuxJlTPksUDEar7HPu4unQPNaOzpChBl1-dYyPHwuyjhgetrrh6PZ9OHPRqnc6nXeNdaX9f8AcSDe6gpmRecFfryf3-3BgsNoxvOyNc6xz703Qzsd7hJLuKbQt4Q6bgVxRZDGdpFzy8O2SByvUouC3J/s1600/gitlab-cve.jpg"
     },
     {
       "title": "Falha do Microsoft Entra ID (CVSS 10.0) explorada de forma selvagem, permite execução remota de código",
@@ -117,51 +162,6 @@
       "url": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
       "published": "2026-08-20T17:23:48+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrmpCA-Pjqqy5BQaFvVtYqPZocJNkI4XUD8bcD9KrGaBcLyKd3J-aWVUtB8HwTiVqrFSI8U5wtTPhtjowrBWukeoUwSM5Y0-YKY535m1iDdQCXLYbSlx-qS-2TzZUpWVghvC3b9qWHxPoY4b-d3uUn3E4jeeW6iPt6Klxte-iNHfbq7K4aUpKH-EfhZV69/s1600/threatsday-main.png"
-    },
-    {
-      "title": "Scripts de exploração gerados por IA têm como alvo CLPs Siemens S7 em infraestrutura crítica dos EUA",
-      "summary": "O governo dos EUA alertou na quarta-feira sobre uma “ameaça ativa” visando organizações de infraestrutura crítica no país usando scripts de exploração gerados por inteligência artificial (IA). A atividade tem como alvo os Controladores Lógicos Programáveis ​​(",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
-      "published": "2026-08-20T16:59:44+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSn562AFIpj2ldmT5inFv5tGgfNbaM4F1OBNvCW-80nP-YmFewnJd9VMlbgYnhgWrUpHS81bS6uEXRgEmg37c14OqmkO29XqY3FcBCl637vmAxfqB3UDtL3Rvgio6cPAQQv3bYtLUIyRdog4bpgD8MqJJYhTLish4L2Ljt6aJ_WpjFmTXYhmrA-TguqH98/s1600/plc.jpg"
-    },
-    {
-      "title": "Scripts de exploração gerados por IA têm como alvo PLCs Siemens S7 em infraestrutura crítica dos EUA - The Hacker News",
-      "summary": "Scripts de exploração gerados por IA têm como alvo CLPs Siemens S7 em infraestrutura crítica dos EUA The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jZWZ1cy1fOFJ4TjJxSzlzTlJUejVsSzFrSXUyN3pZUDZCd1NBVjlwTmEtSXFSM2tDclp3Qm9Bb1piRmRmcWFpcm5xc1pjTk5kMW82QUJXYzVkUy1sczhXdlBXQTcyMVRYcExreEhRdTMzbHF3MlFCclVfQmN3Tm8?oc=5",
-      "published": "2026-08-20T16:59:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Tribo Transparente do Paquistão atualiza conjunto de ferramentas para ataques cibernéticos no Afeganistão",
-      "summary": "Um actor ameaçador do Estado-nação está a implicar com organizações imaturas dirigidas pelos Taliban, mas a fracassar contra agências governamentais mais preparadas na Índia.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
-      "published": "2026-08-20T14:59:22+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt26870a2d1ae3c096/6a85f88bf5ebd98f609005c8/Pakistan_map-Juanmonino-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Hackers visam servidores Zimbra em campanha de exploração ativa",
-      "summary": "A exploração da vulnerabilidade da Colaboração Zimbra CVE-2026-73570 foi observada pelo CERT Polska da Polônia. A postagem Hackers visam servidores Zimbra em campanha de exploração ativa apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/",
-      "published": "2026-08-20T14:50:49+00:00",
-      "image": ""
-    },
-    {
-      "title": "Bug crítico do Elementor Pro expõe sites WordPress a ataques RCE",
-      "summary": "Uma vulnerabilidade crítica no plugin Elementor Pro WordPress pode permitir que invasores carreguem arquivos executáveis ​​para execução remota de código no servidor. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
-      "published": "2026-08-20T14:39:48+00:00",
-      "image": ""
     }
   ]
 }
