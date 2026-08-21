@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T09:54:43.416843+00:00",
+  "updated_at": "2026-08-21T13:15:11.994010+00:00",
   "items": [
     {
       "title": "Apelando aos profissionais cibernéticos para ajudar a defender a prefeitura",
@@ -9,6 +9,78 @@
       "url": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
       "published": "2026-08-21T14:00:00+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Vulnerabilidade crítica de VM isolada leva a RCE no host",
+      "summary": "O bug de confusão de tipo pode levar ao escape da sandbox V8 e ao sequestro do fluxo de controle do processo host. A postagem Vulnerabilidade crítica de VM isolada leva ao RCE no host apareceu pela primeira vez em SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/",
+      "published": "2026-08-21T12:26:07+00:00",
+      "image": ""
+    },
+    {
+      "title": "CISA ordena que federais corrijam falhas exploradas ativamente no servidor TrueConf",
+      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) ordenou que as agências federais dos EUA priorizassem a correção de duas vulnerabilidades exploradas ativamente na plataforma de comunicações auto-hospedada TrueConf Server. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
+      "published": "2026-08-21T12:25:33+00:00",
+      "image": ""
+    },
+    {
+      "title": "Wazuh e IA para fluxos de trabalho SOC aprimorados",
+      "summary": "A Inteligência Artificial (IA) tornou-se uma das tecnologias definidoras desta década. Da saúde e finanças à indústria e educação, as organizações dependem cada vez mais da IA ​​para automatizar tarefas repetitivas, descobrir padrões ocultos em grandes conjunt",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
+      "published": "2026-08-21T11:21:39+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSZWG6Sgh8GPFwyz6pxs_gis36Lo0bAHyFSaNrybGElVQbCBkjPrypJ_abTOidSIKSaVJs574hUuDYvUPGymaq3qfnecNfbc-RMnwTuH8vr4jLcsnQCLnxjscJMSLEfITdwIvVt4Ax_wzwKe3MpD5Bm9vIW_f94MESP1p1qNpoxrkkDstHJ1lL7eljzB4/s1600/WAZUH.jpg"
+    },
+    {
+      "title": "Microsoft alerta sobre falha de gravidade máxima do Entra ID explorada em ataques",
+      "summary": "A Microsoft corrigiu uma vulnerabilidade de gravidade máxima na plataforma de gerenciamento de identidade e acesso (IAM) Entra ID que foi explorada em ataques. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
+      "published": "2026-08-21T11:04:10+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers abusam de banners de servidores FTP para entregar novo malware do Windows",
+      "summary": "Os agentes de ameaças estão abusando de banners de FTP para ocultar comandos que entregam dois trojans de acesso remoto anteriormente não documentados, chamados E4del e PINHOLE. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
+      "published": "2026-08-21T11:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "A violação de dados do SickKids expõe informações de funcionários e candidatos a emprego",
+      "summary": "O Hospital for Sick Children (SickKids) de Toronto afirma que um incidente de segurança cibernética expôs as informações pessoais de alguns funcionários atuais e ex-funcionários e candidatos a empregos, resultante de uma falha em software de terceiros. Os sist",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
+      "published": "2026-08-21T10:10:42+00:00",
+      "image": ""
+    },
+    {
+      "title": "Cisco corrige nove falhas de crosswork e carga de trabalho segura, cinco pontuações CVSS 10.0",
+      "summary": "A Cisco publicou outra rodada de atualizações de segurança para plataformas Crosswork e Secure Workload Software como parte de uma revisão contínua e abrangente de segurança interna. Quatro das vulnerabilidades de segurança afetam o Crosswork Data Gateway, o C",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
+      "published": "2026-08-21T10:03:11+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis5Ujhq79PHPVr7VjuOjS0fOAyYm0aDTCJi9c5ieu-uya3FUM4Dh58yAT5U5J3VaXaGfNb4XowkyJ1lj3UTy8bOoF-u0O-5qdl-O7leomQjQw5jAI3m8WpZvC3se70f8mRP_KKIcScS0Nf9wJcsq4TWgiS_li3K6CSUbbG643IMhZBVGzW5XflwAbz0d1M/s1600/cisco.jpg"
+    },
+    {
+      "title": "Cisco corrige nove falhas de crosswork e carga de trabalho segura, cinco pontuações CVSS 10.0 - The Hacker News",
+      "summary": "Cisco corrige nove falhas de crosswork e carga de trabalho segura, cinco pontuações CVSS 10.0 The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZVU5ZGpMWi00VUZjVmJxT05jNnpLSnVJRk5yc242T0xReGRjRXZmUzZNenlVNDdhMG4zQVVkSnk3VjRJdHBvZDVZaTFaaXhmaldidldwaGJYTHZDelM5OWJqTFB2LXJKVWRMeWhwZHVaSHFZX0ZXbGRzUzZFMXlyOHJ4MXU?oc=5",
+      "published": "2026-08-21T10:03:00+00:00",
+      "image": ""
     },
     {
       "title": "Ataque de ferrugem na cadeia de suprimentos vinculado a hackers norte-coreanos",
@@ -29,8 +101,8 @@
       "image": ""
     },
     {
-      "title": "Microsoft lança 22 novos patches de segurança",
-      "summary": "A maioria das correções resolve vulnerabilidades de execução de código, escalonamento de privilégios e divulgação de informações. A postagem Microsoft lança 22 novos patches de segurança apareceu pela primeira vez em SecurityWeek.",
+      "title": "Microsoft Patches Exploraram Vulnerabilidade de Entra ID",
+      "summary": "Um total de 22 patches foram lançados, a maioria para execução de código, escalonamento de privilégios e vulnerabilidades de divulgação de informações. A postagem Vulnerabilidade do Entra ID explorada pelos patches da Microsoft apareceu pela primeira vez na Se",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
@@ -54,6 +126,15 @@
       "url": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
       "published": "2026-08-21T07:04:25+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8jpyIqzuMd0vBKcxrQRj7eBbEebcRgNHLRFpx7YuxJlTPksUDEar7HPu4unQPNaOzpChBl1-dYyPHwuyjhgetrrh6PZ9OHPRqnc6nXeNdaX9f8AcSDe6gpmRecFfryf3-3BgsNoxvOyNc6xz703Qzsd7hJLuKbQt4Q6bgVxRZDGdpFzy8O2SByvUouC3J/s1600/gitlab-cve.jpg"
+    },
+    {
+      "title": "GitLab CVE-2026-19478 entra em exploração ativa poucos dias após a divulgação - The Hacker News",
+      "summary": "GitLab CVE-2026-19478 entra em exploração ativa poucos dias após a divulgação The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2TzhyTnl6QWhhWUhJTGJCajZqV3g5ekcyeU81LWpqRjdybVpLRkY0SS1GbzdHVTQxZ0xOQ3JoRnVUYXpmT0l1Tk90cl8yaTVkVzVQSTJUVXIyTkFVbDloNnN2bk5pVXpMMXNOaC1XOXFVS2E0WndEaWhUX2M?oc=5",
+      "published": "2026-08-21T07:04:00+00:00",
+      "image": ""
     },
     {
       "title": "Falha do Microsoft Entra ID (CVSS 10.0) explorada de forma selvagem, permite execução remota de código",
@@ -81,87 +162,6 @@
       "url": "https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network",
       "published": "2026-08-20T20:42:18+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5bccc03f4b27984e/6a8754a988809d97a89eb2b5/Jake_Williams_News_Desk_2026.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Ataque de ferrugem na cadeia de suprimentos coloca malware em tempo de construção em caixas com 245 milhões de downloads",
-      "summary": "O Rust Project excluiu versões maliciosas de três Rust crates amplamente usadas do crates.io depois que uma conta de mantenedor comprometida publicou lançamentos que adicionaram uma dependência typosquatted cujo script de construção baixou e executou uma carga",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
-      "published": "2026-08-20T20:22:35+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgshVe5DUMbByJkLQGRgak37eOf3HddCtrF6KCJfISPdm7l2ZwLFlnjQM3pN2mxPDpc9lWwSoH2fYfucYKBKk3vpuGAKdR5U685IZh8EFbMxWcyVenuRMyqIgvbFUa0_5Sx9pVl9Imu5omju6i7eRE0sKKxiCSKYEV1Say1LLhQHEufY10dgovzX0Nt7as/s1600/rust.jpg"
-    },
-    {
-      "title": "Ataque de ferrugem na cadeia de suprimentos coloca malware em tempo de construção em caixas com 245 milhões de downloads - The Hacker News",
-      "summary": "Ataque de ferrugem na cadeia de suprimentos coloca malware em tempo de construção em caixas com 245 milhões de downloads The Hacker News",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XQXRsR3laaVhCZndRaHdTMjRyZ2RXNS0wUmpuQmJ1ZVBtRkx4LUx5RFRqQUtacDZmZFZUSFRPS3Q2ckRLOGVXWXRMY0JrdVpRNmdHVjZvQXJtWU9PMU0xUWx3YS1HdU1sNDBySm5LV2VNUGx4anlSZHBBOWk1bFE?oc=5",
-      "published": "2026-08-20T20:22:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Supostos hackers russos abusam do Google OAuth e do WhatsApp vinculando-os a contas sequestradas",
-      "summary": "Foram observados três grupos distintos de ameaças russas suspeitas de espionagem cibernética, aproveitando fluxos de autenticação legítimos para destacar indivíduos que trabalham no meio acadêmico, aeroespacial e de defesa, governos e grupos de reflexão em tod",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
-      "published": "2026-08-20T19:59:19+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix5lAWOEf4I8fcz0CJYg-EBclOrTPnlbsf6tKT2-L8xsfQ4XqtjOq15iU6EBbIsWlqQq3e1-hIXrPe7MMg4JwSGj6mSwjSwG8V3UFMrfgYD-Lo9bKvncTGJ9lPbZoxq-1RNmKLyL_jZSiurWVgGuIxjgYYJeXW_wE51PRTDUhT7kRxp0MMpc3YflI9bntb/s1600/google-whatsapp.jpg"
-    },
-    {
-      "title": "O que perdemos: voo da Delta interrompido com hack de Wi-Fi",
-      "summary": "Neste vídeo, os editores da Dark Reading discutem algumas das notícias que não tiveram a chance de cobrir, incluindo alguns riscos assustadores à segurança dos aviões e a mais nova estratégia de “hack back” do governo dos EUA.",
-      "category": "DEFESA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack",
-      "published": "2026-08-20T19:11:15+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt873948c65f62f170/6a874b480989859872d1eb89/Delta_Vegas-Janice_Chen-GettyImages-2269887409.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "A Cyber ​​está sentindo falta da Marca?",
-      "summary": "No boletim informativo desta semana, o novo autor Mick Baccio apresenta-se e explora as implicações operacionais e de segurança do novo memorando da Casa Branca relativo à participação do sector privado em operações cibernéticas ofensivas autorizadas pelo gove",
-      "category": "DEFESA",
-      "source": "Cisco Talos",
-      "url": "https://blog.talosintelligence.com/is-cyber-missing-the-marque/",
-      "published": "2026-08-20T18:00:18+00:00",
-      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/threat_source-2.jpg"
-    },
-    {
-      "title": "Hackers envenenam arrayref Rust crate para enviar malware infostealer",
-      "summary": "Os hackers comprometeram a conta do mantenedor por trás do amplamente utilizado Rust crate arrayref para introduzir malware que foi executado nos sistemas dos desenvolvedores durante a compilação. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
-      "published": "2026-08-20T17:53:52+00:00",
-      "image": ""
-    },
-    {
-      "title": "Bug N-able expõe chaves mestras do cofre de senhas",
-      "summary": "O popular gerenciador de senhas “Passportal”, preferido por MSPs e SMBs, continua arriscado mesmo após seu patch, graças ao seu design baseado em nuvem. Esses produtos deveriam ficar totalmente longe da nuvem?",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys",
-      "published": "2026-08-20T17:39:24+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0a77c38c9943dba1/6a7ccfe21978b46e991f0379/Vault-Dragon_Claws-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Dinheiro e mentalidade: os dois maiores obstáculos ao policiamento cibernético",
-      "summary": "A formação policial não está a acompanhar o volume e a rápida evolução dos crimes cibernéticos, embora os agentes só precisem realmente de aprender o básico, mas a concentração e os orçamentos dificultam o progresso.",
-      "category": "DEFESA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing",
-      "published": "2026-08-20T17:32:51+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta7ace73c64110fdb/6a873d0883b3a602b22efba9/GettyImages-2226845743.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, recompensa de US$ 10 milhões, GLM-5.3 AI Exploit e muito mais",
-      "summary": "Muitos dos problemas desta semana começam com algo confiável fazendo exatamente o que lhe foi permitido fazer. Os motoristas assinados se voltam contra as defesas. Aplicativos legítimos ajudam o malware a se misturar. Uma verificação de cabeçalho fraca abre um",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
-      "published": "2026-08-20T17:23:48+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrmpCA-Pjqqy5BQaFvVtYqPZocJNkI4XUD8bcD9KrGaBcLyKd3J-aWVUtB8HwTiVqrFSI8U5wtTPhtjowrBWukeoUwSM5Y0-YKY535m1iDdQCXLYbSlx-qS-2TzZUpWVghvC3b9qWHxPoY4b-d3uUn3E4jeeW6iPt6Klxte-iNHfbq7K4aUpKH-EfhZV69/s1600/threatsday-main.png"
     }
   ]
 }
