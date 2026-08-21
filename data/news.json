@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-08-21T15:51:28.626954+00:00",
+  "updated_at": "2026-08-21T19:00:30.991418+00:00",
   "items": [
+    {
+      "title": "Novo malware SynkLoader lançado na campanha de phishing do Microsoft Teams",
+      "summary": "Uma família de malware até então desconhecida, chamada SynkLoader, está sendo distribuída em campanhas de phishing do Microsoft Teams para roubar credenciais por meio de uma tela de bloqueio falsa. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
+      "published": "2026-08-21T18:01:30+00:00",
+      "image": ""
+    },
+    {
+      "title": "OWASP sinaliza os principais riscos de habilidades de IA em novo plano de segurança",
+      "summary": "O Open Worldwide Application Security Project tem uma nova lista dos 10 principais seguranças, adaptada para a era moderna, e estreia um formato de habilidade universal para adicionar consistência e segurança aos complementos de IA.",
+      "category": "CLOUD & IA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint",
+      "published": "2026-08-21T17:36:53+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0778b75e05f471bd/6a8857b7c856a513e1627c23/purple-skills-flowchart-air-lemos.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Ex-diretor da NSA Paul Nakasone lança empresa de consultoria de segurança nacional",
+      "summary": "O recém-formado Grupo Nakasone aconselhará líderes governamentais, empresas, famílias proeminentes e outros clientes privados que enfrentam riscos de segurança cibernética, geopolítica e pessoal. A postagem O ex-diretor da NSA Paul Nakasone lança empresa de co",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/",
+      "published": "2026-08-21T16:27:52+00:00",
+      "image": ""
+    },
+    {
+      "title": "O próprio driver do Microsoft Defender pode ser armado para excluir software de segurança na inicialização",
+      "summary": "A Check Point Research divulgou uma técnica que usa o driver de remediação de tempo de inicialização legitimamente assinado do Microsoft Defender para executar arquivos arbitrários em nível de kernel e operações de registro em sistemas Windows que vão do Windo",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
+      "published": "2026-08-21T15:52:10+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCbsmb6Wk8pQKWQmByAl5wnZQEVjS7ZYiHrlsHRM7VlcoPL7s30TaoTReoaQ4LI8Oy3KfKlIRHn9sN_7bjEKd_FWPHi1V0JR6LERepKBWSdJOk6cSUNgfIN2KVc6ydfbTILTy11owREYfpO7K11gFQV00l6qf1zl5rzF28jPhcN744yTvRAA-EjyDSBXs/s1600/windows.jpg"
+    },
+    {
+      "title": "Malware para carros Android se espalha por meio de atualizadores integrados para fraude publicitária e botnet proxy",
+      "summary": "Pesquisadores de segurança cibernética sinalizaram uma nova família de malware projetada especificamente para infectar firmware de unidade principal de veículo baseado em Android desenvolvido pela DoFun. A Kaspersky, que descobriu a ameaça em junho de 2026, di",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
+      "published": "2026-08-21T15:41:44+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1EQE-DqLXTzpjwGf3nQnM4CTnjibkKl_2ersn8abw3Gmqoc5MUaFC2LvkA7c6Xoa0XBPZeHL4wHHiXU7Pc9nGLcI1zTorwFTwvYXfww4Q68oSUrgcQhmBzQBNqYp-woIZFK_I1OOsnBNptiwA90VHhpE_hvlz3qdFomOmOMLreYe5YCenvR2CeawvRrMU/s1600/car.png"
+    },
+    {
+      "title": "Malware para carros Android se espalha por meio de atualizadores integrados para fraude publicitária e botnet proxy - The Hacker News",
+      "summary": "Malware para carros Android se espalha por meio de atualizadores integrados para fraude publicitária, Proxy Botnet The Hacker News",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zM0VETHZjVDdKR0N4RWZQM3FWUE53SWJqZUkzWUU3UVJTeW9pVVU4YlpVTGZTMGFMdG9RSkNQOGt4Y2Nic3dzenhvMnZqbm1nWnRjOUI4WTFKTEZYOVBBNElLT3RCMGhPU3pFNUVFNjlWak1lVXpXN29TS01tZnc?oc=5",
+      "published": "2026-08-21T15:41:00+00:00",
+      "image": ""
+    },
     {
       "title": "Em outras notícias: Zombie Card Attack, T-Mobile corta cabo para impedir hackers, GitHub nega bug causado por IA",
       "summary": "Outras histórias dignas de nota que podem ter passado despercebidas: ataque Threema DDoS, botnet Evooo1Bot Linux, Crypto4A garante certificação NIST de alto nível. A postagem Em outras notícias: ataque de cartão zumbi, cabo cortado da T-Mobile para impedir hac",
@@ -107,60 +161,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
       "published": "2026-08-21T10:10:42+00:00",
-      "image": ""
-    },
-    {
-      "title": "Cisco corrige nove falhas de crosswork e carga de trabalho segura, cinco pontuações CVSS 10.0",
-      "summary": "A Cisco publicou outra rodada de atualizações de segurança para plataformas Crosswork e Secure Workload Software como parte de uma revisão contínua e abrangente de segurança interna. Quatro das vulnerabilidades de segurança afetam o Crosswork Data Gateway, o C",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
-      "published": "2026-08-21T10:03:11+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis5Ujhq79PHPVr7VjuOjS0fOAyYm0aDTCJi9c5ieu-uya3FUM4Dh58yAT5U5J3VaXaGfNb4XowkyJ1lj3UTy8bOoF-u0O-5qdl-O7leomQjQw5jAI3m8WpZvC3se70f8mRP_KKIcScS0Nf9wJcsq4TWgiS_li3K6CSUbbG643IMhZBVGzW5XflwAbz0d1M/s1600/cisco.jpg"
-    },
-    {
-      "title": "Cisco corrige nove falhas de crosswork e carga de trabalho segura, cinco pontuações CVSS 10.0 - The Hacker News",
-      "summary": "Cisco corrige nove falhas de crosswork e carga de trabalho segura, cinco pontuações CVSS 10.0 The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZVU5ZGpMWi00VUZjVmJxT05jNnpLSnVJRk5yc242T0xReGRjRXZmUzZNenlVNDdhMG4zQVVkSnk3VjRJdHBvZDVZaTFaaXhmaldidldwaGJYTHZDelM5OWJqTFB2LXJKVWRMeWhwZHVaSHFZX0ZXbGRzUzZFMXlyOHJ4MXU?oc=5",
-      "published": "2026-08-21T10:03:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ataque de ferrugem na cadeia de suprimentos vinculado a hackers norte-coreanos",
-      "summary": "Os hackers lançaram uma versão envenenada do arrayref que adicionou uma dependência para buscar uma carga maliciosa de um servidor remoto. O posto Ataque de ferrugem na cadeia de suprimentos vinculado a hackers norte-coreanos apareceu pela primeira vez na Secu",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/",
-      "published": "2026-08-21T09:23:18+00:00",
-      "image": ""
-    },
-    {
-      "title": "A confiança do CMMC dos empreiteiros aumenta à medida que a capacidade de provar que fica para trás",
-      "summary": "Duas pesquisas do setor divulgadas esta semana pela Kiteworks e CyberSheath pintam um quadro consistente da base industrial de defesa. A postagem A confiança do CMMC dos empreiteiros aumenta à medida que a capacidade de provar que fica para trás apareceu pela ",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/",
-      "published": "2026-08-21T08:41:06+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft Patches Exploraram Vulnerabilidade de Entra ID",
-      "summary": "Um total de 22 patches foram lançados, a maioria para execução de código, escalonamento de privilégios e vulnerabilidades de divulgação de informações. A postagem Vulnerabilidade do Entra ID explorada pelos patches da Microsoft apareceu pela primeira vez na Se",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
-      "published": "2026-08-21T08:12:19+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft Patches explora vulnerabilidade de Entra ID - SecurityWeek",
-      "summary": "Microsoft Patches Exploraram Vulnerabilidade Entra ID SecurityWeek",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZTBSb0RyMFluR0JVTUpVNVhqcjBhYU9uaEtaUllwcWFsSE16WmE3a05FOU9lXzBDTzFXNzJmaWltejFwQmQxUTBqSXJxV25ZTUNVT2NmX2d3dzBHYkVvNi1HNUVfdHhUZktwRl9aenFBektEZkZQMmgyUURMX2YxMdIBhgFBVV95cUxPbGpBOU11cEdXbUhnOE8tWHhLMXBOcVZUSWhxYmdZMFlNckgtMUs2cm16Y0NBWjFIM0p2TDRLSXdLWXRfWE1MdVVxdF9CMUotclJid2FoZjhvbWdOZVVsQmVkOVc2R1NuOEN4TFVtaVI5TjZIT2FKNXVFcGNtUHVaLWRGTTNpQQ?oc=5",
-      "published": "2026-08-21T08:12:19+00:00",
       "image": ""
     }
   ]
