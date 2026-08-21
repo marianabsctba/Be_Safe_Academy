@@ -1,14 +1,59 @@
 {
-  "updated_at": "2026-08-21T13:15:11.994010+00:00",
+  "updated_at": "2026-08-21T15:51:28.626954+00:00",
   "items": [
+    {
+      "title": "Em outras notícias: Zombie Card Attack, T-Mobile corta cabo para impedir hackers, GitHub nega bug causado por IA",
+      "summary": "Outras histórias dignas de nota que podem ter passado despercebidas: ataque Threema DDoS, botnet Evooo1Bot Linux, Crypto4A garante certificação NIST de alto nível. A postagem Em outras notícias: ataque de cartão zumbi, cabo cortado da T-Mobile para impedir hac",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/",
+      "published": "2026-08-21T15:11:16+00:00",
+      "image": ""
+    },
+    {
+      "title": "Prompts criptografados ignoram as proteções de segurança da IA ​​em Grok e Gemini",
+      "summary": "Os pesquisadores dizem que a nova técnica de “injeção de contexto criptográfico” oculta instruções maliciosas até que sejam descriptografadas dentro de um ambiente de execução confiável. A postagem Prompts criptografados ignoram as proteções de segurança da IA",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/",
+      "published": "2026-08-21T14:34:05+00:00",
+      "image": ""
+    },
+    {
+      "title": "Novo kit de ferramentas de phishing usa chaves de acesso para manter o acesso após redefinições de senha",
+      "summary": "Os pesquisadores dizem que o iAuthFlow V2 pode registrar uma chave de acesso controlada pelo invasor, permitindo acesso persistente mesmo após a alteração das senhas e a revogação das sessões ativas. A postagem Novo kit de ferramentas de phishing usa chaves de",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/",
+      "published": "2026-08-21T14:22:06+00:00",
+      "image": ""
+    },
+    {
+      "title": "A privacidade online é possível? Como as identidades digitais podem ajudar",
+      "summary": "Usar o mesmo e-mail, número de telefone, método de pagamento e outros identificadores torna mais fácil para corretores de dados e invasores traçarem o perfil de sua atividade. O Anonyome Labs explica como personas digitais separadas podem reduzir a correlação ",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
+      "published": "2026-08-21T14:00:10+00:00",
+      "image": ""
+    },
     {
       "title": "Apelando aos profissionais cibernéticos para ajudar a defender a prefeitura",
       "summary": "Agências governamentais com orçamentos menores precisam de apoio – e veja como você pode ajudar.",
       "category": "DEFESA",
       "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
+      "url": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
       "published": "2026-08-21T14:00:00+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "OpenAI adiciona controles que já deveriam estar lá",
+      "summary": "Os novos controles de segurança de IA seguem o incidente do Hugging Face no mês passado, embora muitas dessas adições talvez devessem ter sido implementadas antes da fuga dos modelos de fronteira.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/openai-adds-controls-already",
+      "published": "2026-08-21T13:30:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt21d988f2eb8aaa24/6a87514642723529ba68dda7/metal_guardrails-viti-GettyImages-897806150.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Vulnerabilidade crítica de VM isolada leva a RCE no host",
@@ -110,58 +155,13 @@
       "image": ""
     },
     {
-      "title": "CISA pede correção imediata de vulnerabilidades TrueConf exploradas",
-      "summary": "O grupo hacktivista Head Mare tem explorado os bugs para implantar o malware PhantomCore. A postagem CISA pede correção imediata de vulnerabilidades TrueConf exploradas apareceu pela primeira vez em SecurityWeek.",
+      "title": "Microsoft Patches explora vulnerabilidade de Entra ID - SecurityWeek",
+      "summary": "Microsoft Patches Exploraram Vulnerabilidade Entra ID SecurityWeek",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/",
-      "published": "2026-08-21T07:25:50+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZTBSb0RyMFluR0JVTUpVNVhqcjBhYU9uaEtaUllwcWFsSE16WmE3a05FOU9lXzBDTzFXNzJmaWltejFwQmQxUTBqSXJxV25ZTUNVT2NmX2d3dzBHYkVvNi1HNUVfdHhUZktwRl9aenFBektEZkZQMmgyUURMX2YxMdIBhgFBVV95cUxPbGpBOU11cEdXbUhnOE8tWHhLMXBOcVZUSWhxYmdZMFlNckgtMUs2cm16Y0NBWjFIM0p2TDRLSXdLWXRfWE1MdVVxdF9CMUotclJid2FoZjhvbWdOZVVsQmVkOVc2R1NuOEN4TFVtaVI5TjZIT2FKNXVFcGNtUHVaLWRGTTNpQQ?oc=5",
+      "published": "2026-08-21T08:12:19+00:00",
       "image": ""
-    },
-    {
-      "title": "GitLab CVE-2026-19478 entra em exploração ativa poucos dias após a divulgação",
-      "summary": "Uma falha de segurança recentemente divulgada no GitLab foi explorada ativamente poucos dias após a divulgação pública, de acordo com watchTowr. A vulnerabilidade em questão é CVE-2026-19478 (pontuação CVSS: 9.4), um caso de injeção de código que permite que u",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
-      "published": "2026-08-21T07:04:25+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8jpyIqzuMd0vBKcxrQRj7eBbEebcRgNHLRFpx7YuxJlTPksUDEar7HPu4unQPNaOzpChBl1-dYyPHwuyjhgetrrh6PZ9OHPRqnc6nXeNdaX9f8AcSDe6gpmRecFfryf3-3BgsNoxvOyNc6xz703Qzsd7hJLuKbQt4Q6bgVxRZDGdpFzy8O2SByvUouC3J/s1600/gitlab-cve.jpg"
-    },
-    {
-      "title": "GitLab CVE-2026-19478 entra em exploração ativa poucos dias após a divulgação - The Hacker News",
-      "summary": "GitLab CVE-2026-19478 entra em exploração ativa poucos dias após a divulgação The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA2TzhyTnl6QWhhWUhJTGJCajZqV3g5ekcyeU81LWpqRjdybVpLRkY0SS1GbzdHVTQxZ0xOQ3JoRnVUYXpmT0l1Tk90cl8yaTVkVzVQSTJUVXIyTkFVbDloNnN2bk5pVXpMMXNOaC1XOXFVS2E0WndEaWhUX2M?oc=5",
-      "published": "2026-08-21T07:04:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falha do Microsoft Entra ID (CVSS 10.0) explorada de forma selvagem, permite execução remota de código",
-      "summary": "A Microsoft alertou na quinta-feira sobre uma falha de segurança de gravidade máxima no Entra ID que, segundo ela, foi explorada em estado selvagem, mas observou que nenhuma ação do cliente é necessária. A vulnerabilidade, rastreada como CVE-2026-69836 (pontua",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
-      "published": "2026-08-21T06:06:11+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid22xatm4tPGWO1VA9heA8p7i0iK4au3br36QORRasXlUO2uY5836xkZe6gywLOId9oHICopC6jZ8J-di4JI9O3CPOSOGsqoOR4Ps4DrEbKCXSXwMxX_wOGo0fY3zaTW4By4nzbY6jldD58kLAlBYfFxMOEeZOglaQu8R0TtT23Q2jLbQjHwJSoS21pqu5/s1600/entraid.jpg"
-    },
-    {
-      "title": "Falha do Microsoft Entra ID (CVSS 10.0) explorada de forma selvagem, permite a execução remota de código - The Hacker News",
-      "summary": "Falha do Microsoft Entra ID (CVSS 10.0) explorada de forma selvagem, permite execução remota de código The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuRjlmUzhUS1lzR3JURENlWUhjYlhZX3lJWmF1ajR1a3ZZSWpPWWhGRkUxSGw5dzBxbkFkSjFiZTVyRXM0MFZVWUJ0NWhXOF9fMm43Zjk5MktlbjdIRjJlQWtNNWVld1NuWm5mMmV3SU5KZklMVUMwWFdZcw?oc=5",
-      "published": "2026-08-21T06:06:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Nova estrutura CUSTODY restringe agentes de IA dentro da rede",
-      "summary": "O especialista em segurança cibernética empresarial Jake Williams se junta ao Dark Reading News Desk para explicar por que decidiu lançar sua nova estrutura de IA agente após os ataques OpenAI ao Hugging Face.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network",
-      "published": "2026-08-20T20:42:18+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5bccc03f4b27984e/6a8754a988809d97a89eb2b5/Jake_Williams_News_Desk_2026.jpg?width=720&quality=80&disable=upscale"
     }
   ]
 }
