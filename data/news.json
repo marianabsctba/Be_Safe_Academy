@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T15:39:34.950096+00:00",
+  "updated_at": "2026-08-22T18:52:14.328138+00:00",
   "items": [
     {
       "title": "TikTok concorda com acordo de US$ 400 milhões em processo de privacidade infantil nos EUA",
@@ -12,7 +12,7 @@
     },
     {
       "title": "Hackers infectam unidades principais de carros Android com malware de botnet proxy",
-      "summary": "Um ataque à cadeia de suprimentos direcionado a unidades principais de automóveis baseadas em Android está usando um aplicativo legítimo de atualização de dispositivos para espalhar malware que inscreve dispositivos comprometidos em uma botnet proxy ou os util",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
@@ -20,7 +20,7 @@
       "image": ""
     },
     {
-      "title": "Pipes nomeados sob ataque: protegendo a comunicação entre processos do Windows",
+      "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
       "summary": "Os pipes nomeados do Windows fornecem comunicação rápida entre processos, mas controles de acesso fracos podem expor serviços privilegiados a processos não confiáveis. ThreatLocker explica como a verificação de endpoint, autorização de comando, validação de en",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
@@ -38,8 +38,8 @@
       "image": ""
     },
     {
-      "title": "14 pacotes npm trojanizados descartam backdoor Linux RedC2 4.0 com C2 assistido por IA",
-      "summary": "Pesquisadores de segurança cibernética descobriram um conjunto de pacotes npm trojanizados que se disfarçam como calendário de trabalho e utilitários de sequência, mas são projetados para fornecer furtivamente um implante Linux alimentado por inteligência arti",
+      "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "CLOUD & IA",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
@@ -56,7 +56,7 @@
       "image": ""
     },
     {
-      "title": "Novo malware SynkLoader lançado na campanha de phishing do Microsoft Teams",
+      "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
       "summary": "Uma família de malware até então desconhecida, chamada SynkLoader, está sendo distribuída em campanhas de phishing do Microsoft Teams para roubar credenciais por meio de uma tela de bloqueio falsa. [...]",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
@@ -65,8 +65,8 @@
       "image": ""
     },
     {
-      "title": "OWASP sinaliza os principais riscos de habilidades de IA em novo plano de segurança",
-      "summary": "O Open Worldwide Application Security Project tem uma nova lista dos 10 principais seguranças, adaptada para a era moderna, e estreia um formato de habilidade universal para adicionar consistência e segurança aos complementos de IA.",
+      "title": "OWASP Flags Top AI Skill Risks in New Security Blueprint",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "CLOUD & IA",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint",
@@ -74,7 +74,7 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0778b75e05f471bd/6a8857b7c856a513e1627c23/purple-skills-flowchart-air-lemos.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Ex-diretor da NSA Paul Nakasone lança empresa de consultoria de segurança nacional",
+      "title": "Former NSA Director Paul Nakasone Launches National Security Advisory Firm",
       "summary": "O recém-formado Grupo Nakasone aconselhará líderes governamentais, empresas, famílias proeminentes e outros clientes privados que enfrentam riscos de segurança cibernética, geopolítica e pessoal. A postagem O ex-diretor da NSA Paul Nakasone lança empresa de co",
       "category": "DEFESA",
       "source": "SecurityWeek",
@@ -93,7 +93,7 @@
     },
     {
       "title": "Malware para carros Android se espalha por meio de atualizadores integrados para fraude publicitária e botnet proxy",
-      "summary": "Pesquisadores de segurança cibernética sinalizaram uma nova família de malware projetada especificamente para infectar firmware de unidade principal de veículo baseado em Android desenvolvido pela DoFun. A Kaspersky, que descobriu a ameaça em junho de 2026, di",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
@@ -110,7 +110,7 @@
       "image": ""
     },
     {
-      "title": "Em outras notícias: Zombie Card Attack, T-Mobile corta cabo para impedir hackers, GitHub nega bug causado por IA",
+      "title": "In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug",
       "summary": "Outras histórias dignas de nota que podem ter passado despercebidas: ataque Threema DDoS, botnet Evooo1Bot Linux, Crypto4A garante certificação NIST de alto nível. A postagem Em outras notícias: ataque de cartão zumbi, cabo cortado da T-Mobile para impedir hac",
       "category": "AMEAÇAS",
       "source": "SecurityWeek",
@@ -147,7 +147,7 @@
     },
     {
       "title": "Apelando aos profissionais cibernéticos para ajudar a defender a prefeitura",
-      "summary": "Agências governamentais com orçamentos menores precisam de apoio – e veja como você pode ajudar.",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "DEFESA",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
@@ -155,8 +155,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "OpenAI adiciona controles que já deveriam estar lá",
-      "summary": "Os novos controles de segurança de IA seguem o incidente do Hugging Face no mês passado, embora muitas dessas adições talvez devessem ter sido implementadas antes da fuga dos modelos de fronteira.",
+      "title": "OpenAI Adds Controls That Should've Been There Already",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/application-security/openai-adds-controls-already",
