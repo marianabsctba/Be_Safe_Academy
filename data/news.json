@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-08-22T13:04:02.371967+00:00",
+  "updated_at": "2026-08-22T15:39:34.950096+00:00",
   "items": [
+    {
+      "title": "TikTok concorda com acordo de US$ 400 milhões em processo de privacidade infantil nos EUA",
+      "summary": "O Departamento de Justiça dos EUA (DoJ) anunciou na sexta-feira que o TikTok, de propriedade da ByteDance, pagará US$ 400 milhões para resolver um processo de 2024 que acusa a empresa de violar as leis de privacidade infantil no país. Como parte do acordo, a p",
+      "category": "PRIVACIDADE",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
+      "published": "2026-08-22T14:32:41+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuigeGBdB6K4zmYLAIVAQ2NR4LskJUGGLo94UiAtL1d89WIdT3ekZUY58J7Em-QxANVODEDSuLoEwVlBKiwEQCBss89hDYzpOuUWcAd8bUphqatYsgIA801ytGpe6c9Pr66CZicJqHx81XREePakS0n3RhYGdD_awrTW5UNGjUdSEmwcKo0K5UOrOIdyGo/s1600/tiktok.jpg"
+    },
+    {
+      "title": "Hackers infectam unidades principais de carros Android com malware de botnet proxy",
+      "summary": "Um ataque à cadeia de suprimentos direcionado a unidades principais de automóveis baseadas em Android está usando um aplicativo legítimo de atualização de dispositivos para espalhar malware que inscreve dispositivos comprometidos em uma botnet proxy ou os util",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
+      "published": "2026-08-22T14:14:24+00:00",
+      "image": ""
+    },
     {
       "title": "Pipes nomeados sob ataque: protegendo a comunicação entre processos do Windows",
       "summary": "Os pipes nomeados do Windows fornecem comunicação rápida entre processos, mas controles de acesso fracos podem expor serviços privilegiados a processos não confiáveis. ThreatLocker explica como a verificação de endpoint, autorização de comando, validação de en",
@@ -144,24 +162,6 @@
       "url": "https://www.darkreading.com/application-security/openai-adds-controls-already",
       "published": "2026-08-21T13:30:00+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt21d988f2eb8aaa24/6a87514642723529ba68dda7/metal_guardrails-viti-GettyImages-897806150.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Vulnerabilidade crítica de VM isolada leva a RCE no host",
-      "summary": "O bug de confusão de tipo pode levar ao escape da sandbox V8 e ao sequestro do fluxo de controle do processo host. A postagem Vulnerabilidade crítica de VM isolada leva ao RCE no host apareceu pela primeira vez em SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/",
-      "published": "2026-08-21T12:26:07+00:00",
-      "image": ""
-    },
-    {
-      "title": "CISA ordena que federais corrijam falhas exploradas ativamente no servidor TrueConf",
-      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) ordenou que as agências federais dos EUA priorizassem a correção de duas vulnerabilidades exploradas ativamente na plataforma de comunicações auto-hospedada TrueConf Server. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
-      "published": "2026-08-21T12:25:33+00:00",
-      "image": ""
     }
   ]
 }
