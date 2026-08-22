@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-08-22T09:45:57.732541+00:00",
+  "updated_at": "2026-08-22T13:04:02.371967+00:00",
   "items": [
+    {
+      "title": "Pipes nomeados sob ataque: protegendo a comunicação entre processos do Windows",
+      "summary": "Os pipes nomeados do Windows fornecem comunicação rápida entre processos, mas controles de acesso fracos podem expor serviços privilegiados a processos não confiáveis. ThreatLocker explica como a verificação de endpoint, autorização de comando, validação de en",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
+      "published": "2026-08-22T13:00:09+00:00",
+      "image": ""
+    },
     {
       "title": "Trojans bancários Manic, Grandoreiro, ToxicPanda 2.0 em destaque",
       "summary": "O Manic equipado com spyware, uma campanha persistente do Grandoreiro na América Latina e na Europa e um malware expandido ToxicPanda 2.0. O post Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 em destaque apareceu pela primeira vez na SecurityWeek.",
@@ -153,15 +162,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
       "published": "2026-08-21T12:25:33+00:00",
       "image": ""
-    },
-    {
-      "title": "Wazuh e IA para fluxos de trabalho SOC aprimorados",
-      "summary": "A Inteligência Artificial (IA) tornou-se uma das tecnologias definidoras desta década. Da saúde e finanças à indústria e educação, as organizações dependem cada vez mais da IA ​​para automatizar tarefas repetitivas, descobrir padrões ocultos em grandes conjunt",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
-      "published": "2026-08-21T11:21:39+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSZWG6Sgh8GPFwyz6pxs_gis36Lo0bAHyFSaNrybGElVQbCBkjPrypJ_abTOidSIKSaVJs574hUuDYvUPGymaq3qfnecNfbc-RMnwTuH8vr4jLcsnQCLnxjscJMSLEfITdwIvVt4Ax_wzwKe3MpD5Bm9vIW_f94MESP1p1qNpoxrkkDstHJ1lL7eljzB4/s1600/WAZUH.jpg"
     }
   ]
 }
