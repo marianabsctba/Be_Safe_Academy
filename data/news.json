@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-08-24T19:04:19.379430+00:00",
+  "updated_at": "2026-08-24T21:47:34.270768+00:00",
   "items": [
+    {
+      "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
+      "published": "2026-08-24T21:14:30+00:00",
+      "image": ""
+    },
+    {
+      "title": "Foul Language: WordlistLoader Disguises Malware as Ordinary Text",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text",
+      "published": "2026-08-24T20:51:27+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltefcd627d6f4a4bd5/6a8ca1d3f97edfa56696c6b5/Spy_Binoculars-Moor_Studio-GettyImages-2154379866.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
+      "published": "2026-08-24T19:26:32+00:00",
+      "image": ""
+    },
     {
       "title": "TikTok reaches $400M settlement with US over COPPA violations",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
@@ -135,33 +162,6 @@
       "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
       "published": "2026-08-24T11:58:00+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1E-F55owwrRxUZE2CT3U8U-Ibj1rhbLpTmF0diYP4-uP6clImo12GvOHx7X-W4KPLl1F_OXiXjkRqSjuAOn0Sh6kMjPFbh5c09h4Ua3TNfLI7_P87UrGtuTypzdlpgVAazbD2qXvesRgxLW1cPBkADNMaGDh06-9wPXSVwltxeR7e5ejENDWcHXssP3M/s1600/ai-webinar.jpg"
-    },
-    {
-      "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
-      "published": "2026-08-24T11:56:34+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhB3jURz2EzucPTALqHju1yDNnbHFvawrKxEfvNEprkdA3QIDyOjuUqvHOyTyiZuYJR-4KwewHnd8CdT37TDxBMBK3OLknOxym2a0klblR6rNUc2lqXHdAQUl1JO8uE7bGupO-WqsaEM0UDLUGyWICu5fkA6x4GwNUCo_w3quxp8joYWhNX8grP55eVg8/s1600/keylock.jpg"
-    },
-    {
-      "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY0t0Y1FyNmZXZ3pBTDNDWUE5Q1pYZUJsQTczdEplWVVHRUwtdjJFU19KN2FPZ1pGWjZqNUk1OFhDUFBxS1JKQlVuZDl3WjV5elJqbUE5eXAyT3BNZWRCX3B2bkNYNGxlNG9HUzRvZTlldURVN2N1eEo2THhDakdLU093?oc=5",
-      "published": "2026-08-24T11:56:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
-      "published": "2026-08-24T11:51:36+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAU29lFKKhJ4-37mroz3wn9p8YejZSqMG70AcTu4Z_FLB6hhof-kGO8-6KOfJcE5TXPvrziWpqDpLu_Mi64u8ilPMtdicwexovYdtmVQhhFOTlAeEamKEccbGQf4Y15ufNQRggwtyzLJy32qocItBHu4FX7FLYDYbnjBXuYMtflnNB4ttrzIdynMPcquxs/s1600/silver.jpg"
     }
   ]
 }
