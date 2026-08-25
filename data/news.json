@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-08-25T19:02:13.740401+00:00",
+  "updated_at": "2026-08-25T21:47:34.234900+00:00",
   "items": [
+    {
+      "title": "Hackers abuse npm mirrors to host phishing redirect pages",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/",
+      "published": "2026-08-25T21:39:01+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hidden Prompts Trick AI Into False Email Summaries",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries",
+      "published": "2026-08-25T21:08:55+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb89ba684bc1c6174/6a8df1b462865819d86ce1bf/llm_gguy_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
+      "published": "2026-08-25T20:25:26+00:00",
+      "image": ""
+    },
+    {
+      "title": "Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw",
+      "published": "2026-08-25T19:50:16+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd29ebaa9ac3f0fdd/6a8d90fa24739f39a5e9ecd4/openclaw_Koshiro_K_shutterstock.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
+      "published": "2026-08-25T18:17:17+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Uq1yn-ay_vU25xZUbhhvnVMHSWo2rQwy4HhIfNIdnk-MIF-cbtytzKqkvrcBNIGy6fDgW22x0dMZiNhTmvTY_V6SxK-FE6VificiC99BkJMHaWdJB_-tSZeNeM96lL-HaG4VvrBRuA3JmPlkL3sE_F6kfJYhW_ZaXXQK0dses4BK6A2G4yF9GsHUrgXo/s1600/iranian-hackers.jpg"
+    },
+    {
+      "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZTk5aGZUWEFEcUZNRnlrWHp2YV9XckZNWEE5czdleDZNcWw1cGVyTGtBVUhXN0lIVEt0UDkxMG1zYklsZm5EOEVlWks5V29ZTW5KMVhReVd4U1lteEpZS1VWRVVQYlFrNHRpSjJ2aldyQzVSNWpCUXA1eEhIdEp1dHZwUGU?oc=5",
+      "published": "2026-08-25T18:17:00+00:00",
+      "image": ""
+    },
     {
       "title": "Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
@@ -108,60 +162,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
       "published": "2026-08-25T13:00:00+00:00",
       "image": ""
-    },
-    {
-      "title": "WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/whatsapp-adds-multiple-passkeys-and-stronger-2sv-in-account-security-update/",
-      "published": "2026-08-25T13:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/hands-on-cyber-physical-systems-training-returns-to-ics-cybersecurity-conference/",
-      "published": "2026-08-25T12:57:59+00:00",
-      "image": ""
-    },
-    {
-      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
-      "published": "2026-08-25T12:43:51+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpC_dsMXsEscdzMT8fjZ3uZ86XgjBqYcYWA7ZodJJUvbK6vnmafx_dANiNsjoAeqYwDxzqeTerWaWEIMIZSmp7CqfynzhkfKEnuGIoizK5vihRhSJIeOVn4cK3CdIFjnURkvQvI1VX-Gm11mqNmxOQPVK5loEBRZ2ELFzLc1Y8C_z_ajrA5beUowEfwg0/s1600/marimo.jpg"
-    },
-    {
-      "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
-      "published": "2026-08-25T12:04:02+00:00",
-      "image": ""
-    },
-    {
-      "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
-      "published": "2026-08-25T11:56:15+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSPS7eK6wOjr-bcJ7RjMVB4C03l21IHeGkyUQNGJANpvXsE90ssTzIlECk6HcpnLkw5_4PYTQ7ZP9k8pj2GBmvLnIfFkv6e-0NkLC4ouAf8Hn24SrQY2egjmzprIkgcvfLRHrYrzPYtx6mXKb59jjGazFjHe_7ttNqB-7AX0OB8ZvTI_QpgCA_NCEZY8Q/s1600/usa.jpg"
-    },
-    {
-      "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
-      "published": "2026-08-25T11:52:43+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6XLRNvnqL3SBGR1Hrv9eIrUlQ8Tr6RhA2dwxYZYKiNoh7qZwgA8aGATBHsDqQCD6ilgXGlLdMIs54WZ5jEW4G_TjJiFyQ6u5acpyUE5vdHa-0E-SZwIliX9sTQqcOw6pNG0TlGm-lUQrvdEEKdSOnB-Mep1U7GVVW-qOQiD1PEDItN-lDv3mOjexfo29x/s1600/cf-phishing.jpg"
     }
   ]
 }
