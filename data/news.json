@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-08-26T04:06:27.640025+00:00",
+  "updated_at": "2026-08-26T07:12:40.345913+00:00",
   "items": [
+    {
+      "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
+      "published": "2026-08-26T06:27:07+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfnIeYEGY0lITUrkeCakPqo92gxAk1t2Rduq3Vvt-EkhAxg_vRxWngUZQjifYgv1MUnKyZMOzTPFtlOpkMfpn6K5V0ofNKBc5w0y4X2Kb3Zeoal_5J-yhUX8oPUHY8KUkDHvGc7mwp5mWm1q4pS8Xssnm13SVe9Ziunr0UeNwTq2smwxIXAP7yU_iY2rtz/s1600/cisa-git.jpg"
+    },
+    {
+      "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
+      "published": "2026-08-26T05:47:28+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ7ibePn1YRPkAC27RIrMl_O-41pR7ieF0Mkpr8WUTkzCddWjpttUiIrXWI3CYGukgNR8eoppnOFUYjzSbEm66XiK4ttGge7-KicMnSf49N5L-wKXyf4NIzWi1Yi5JbKQXPYpmtWfZfMADrNswG9-ZfOOE9LjWwUFl7twHmvEskgU9iXPR5AGEQ4hUETo/s1600/iphone-passcode.jpg"
+    },
+    {
+      "title": "CISA Warns of Exploited Gitea Vulnerability",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/",
+      "published": "2026-08-26T05:17:28+00:00",
+      "image": ""
+    },
     {
       "title": "LACMA data breach last year exposed social security and medical data",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
@@ -56,21 +83,21 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Uq1yn-ay_vU25xZUbhhvnVMHSWo2rQwy4HhIfNIdnk-MIF-cbtytzKqkvrcBNIGy6fDgW22x0dMZiNhTmvTY_V6SxK-FE6VificiC99BkJMHaWdJB_-tSZeNeM96lL-HaG4VvrBRuA3JmPlkL3sE_F6kfJYhW_ZaXXQK0dses4BK6A2G4yF9GsHUrgXo/s1600/iranian-hackers.jpg"
     },
     {
-      "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZTk5aGZUWEFEcUZNRnlrWHp2YV9XckZNWEE5czdleDZNcWw1cGVyTGtBVUhXN0lIVEt0UDkxMG1zYklsZm5EOEVlWks5V29ZTW5KMVhReVd4U1lteEpZS1VWRVVQYlFrNHRpSjJ2aldyQzVSNWpCUXA1eEhIdEp1dHZwUGU?oc=5",
-      "published": "2026-08-25T18:17:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "CLOUD & IA",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/",
       "published": "2026-08-25T16:23:45+00:00",
+      "image": ""
+    },
+    {
+      "title": "The patch window is collapsing: Why security needs a new control plane",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "Microsoft Security",
+      "url": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
+      "published": "2026-08-25T16:00:00+00:00",
       "image": ""
     },
     {
@@ -134,33 +161,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/",
       "published": "2026-08-25T13:33:12+00:00",
-      "image": ""
-    },
-    {
-      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
-      "published": "2026-08-25T13:19:41+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqyjfLJEnp8xcmcz9iVBOKykdcxx36J8KgONSwImU9YSYuvWD_uzKDaGkJre9D_8P1XLdE8vPHqNyBUKOvjYPLJj_oZ1T-pfUxdOm-bZTtaz4LC2eVcuFloJTtEE7IWVnOaVJIEtFUoPKfOn9xeBASQG7e7X2-wA7P-hwGIzqP7G_-Ot2BOpj-OSO0tUBh/s1600/whatsapp.jpg"
-    },
-    {
-      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uVlRnZkdMQXZVMDdnUXpMc1BvSGY3UGNMWXhqOEp5UVFuTFNadEtJVVFRa256ZDh0bWlsMzNZaEVRZERNNUlRb3RfSjlZb1lTUUhQQ1B5dnZVV05MWjc2Ry1JT0liU216cVA0ZjZwSzhEbVJXLTBBaENyeDZ1RGc?oc=5",
-      "published": "2026-08-25T13:19:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
-      "published": "2026-08-25T13:00:00+00:00",
       "image": ""
     }
   ]
