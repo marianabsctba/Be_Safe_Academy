@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-08-26T07:12:40.345913+00:00",
+  "updated_at": "2026-08-26T10:00:48.048227+00:00",
   "items": [
+    {
+      "title": "Choose your fighter: Balancing competing requirements to select models for your AI SOC",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "Cisco Talos",
+      "url": "https://blog.talosintelligence.com/choose-your-fighter-balancing-competing-requirements-to-select-models-for-your-ai-soc/",
+      "published": "2026-08-26T10:00:05+00:00",
+      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/tool_talk-1.jpg"
+    },
+    {
+      "title": "Chrome 152 Patches Over 300 Vulnerabilities",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/chrome-152-patches-over-300-vulnerabilities/",
+      "published": "2026-08-26T09:50:34+00:00",
+      "image": ""
+    },
+    {
+      "title": "Nigeria Looks to Sovereign Cloud for Cyber, National Security",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "CLOUD & IA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/nigeria-sovereign-cloud-cyber-national-security",
+      "published": "2026-08-26T08:00:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2e25e9502faafe2a/6a8e005307463c203cf304be/nigeria-flag-sovereign-cloud-QQMinh88-shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
+      "published": "2026-08-26T07:54:12+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYeHiMtBGSU21fSYRfXqsYMwsXlIfdl_w5goundqFoLSR1HYz30bgzdHuA1ft2gHjWiS5B-nE5ZpmY1gJiTDlsF8bwwYK9ogGAPmEHWNTA-hVLp09KaMvsu6DbcCW-ZTNtcZj2xHoH4fHhTsr7_zbUoiYKJI6Yj9YdxtbQNBEdv0apv1c3buQiaXmLeMkT/s1600/interpol.jpg"
+    },
+    {
+      "title": "Sensitive Information Exposed in Nutex Health Data Breach",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/sensitive-information-exposed-in-nutex-health-data-breach/",
+      "published": "2026-08-26T07:41:50+00:00",
+      "image": ""
+    },
+    {
+      "title": "Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
+      "published": "2026-08-26T07:12:55+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSnbO35IDgg9dQouCuUCpAko8PiGwwI3lhn7I68m0Ok-PGL84lR1CU0sKk5rWfurFY7u1Fz-9U0-CXi1VCuAVpZDpKF3uDnvtyb062Kls6vW8L7xkTnZBPPJteihNrIWV3C__6JMphWMC7ER4_2bsgKDfzIuq5naTBB3pgZvKvD2v4djmpMh96F62y8Qg/s1600/sleepwalker.jpg"
+    },
+    {
+      "title": "Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVV9QSWJENDJnckx1OGtYY2lWZ19hZkN2RDhUSG9aQnlWSVZXdUt2QmpWeHBtbmhtZDVXZ2JhRzc1ZUxNQ0hkaDZhZ2FpRWgyZFJxekRyczZBdnVob294bmRYZGREYjFiOTRSdE8zeFYzM3E0SXFEenI2X1RrMEtNLQ?oc=5",
+      "published": "2026-08-26T07:12:00+00:00",
+      "image": ""
+    },
     {
       "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
@@ -9,6 +72,15 @@
       "url": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
       "published": "2026-08-26T06:27:07+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfnIeYEGY0lITUrkeCakPqo92gxAk1t2Rduq3Vvt-EkhAxg_vRxWngUZQjifYgv1MUnKyZMOzTPFtlOpkMfpn6K5V0ofNKBc5w0y4X2Kb3Zeoal_5J-yhUX8oPUHY8KUkDHvGc7mwp5mWm1q4pS8Xssnm13SVe9Ziunr0UeNwTq2smwxIXAP7yU_iY2rtz/s1600/cisa-git.jpg"
+    },
+    {
+      "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa1VvbERhSERYYjQtQzZnMEVfVjkwcFQtNVh1c3ZCU244a1FnWWthcTBidlp1MGFseFVraWpxOWlfN0NHdTlCa285QnBzTkxHVzFsYWo5QmNMdFB2NUNaT25wc3pHUDFZcV9qdE5pdWdYM3F3M3EzOWNHYkJ5clFwSXdn?oc=5",
+      "published": "2026-08-26T06:27:00+00:00",
+      "image": ""
     },
     {
       "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
@@ -83,84 +155,12 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Uq1yn-ay_vU25xZUbhhvnVMHSWo2rQwy4HhIfNIdnk-MIF-cbtytzKqkvrcBNIGy6fDgW22x0dMZiNhTmvTY_V6SxK-FE6VificiC99BkJMHaWdJB_-tSZeNeM96lL-HaG4VvrBRuA3JmPlkL3sE_F6kfJYhW_ZaXXQK0dses4BK6A2G4yF9GsHUrgXo/s1600/iranian-hackers.jpg"
     },
     {
-      "title": "Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/",
-      "published": "2026-08-25T16:23:45+00:00",
-      "image": ""
-    },
-    {
-      "title": "The patch window is collapsing: Why security needs a new control plane",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "Microsoft Security",
-      "url": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
-      "published": "2026-08-25T16:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Massive DDoS attack disrupts Norway’s government digital services",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
-      "published": "2026-08-25T15:52:36+00:00",
-      "image": ""
-    },
-    {
-      "title": "Is Cyber Facing an Affordability Crisis?",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-",
-      "published": "2026-08-25T14:53:13+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2d6c1792a2093976/6a8daf2931dc781c97eef199/GettyImages-147695159.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Hospital operator Nutex Health says data stolen in cyberattack",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
-      "published": "2026-08-25T14:44:16+00:00",
-      "image": ""
-    },
-    {
-      "title": "Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/",
-      "published": "2026-08-25T14:11:59+00:00",
-      "image": ""
-    },
-    {
-      "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
+      "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches - The Hacker News",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
-      "published": "2026-08-25T14:07:37+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMaJs9yp_YLYc3dgsmzjU4_ma-6DC3KNpG4d3KhKtoIuhtpbYSnK0Wed5_8a0Jm6epc_RdLE9PVMO0FnkH7DFwRAI7lBZBXImFEu1emv-OarT-LPYE-QymTXPMkmDsYBXsz1TB3gASsiAEgZ4Jvt1YzQM3KHYpV0HMck686hTcXB7pn7uqLu2uTLVgPyE/s1600/nvidia.jpg"
-    },
-    {
-      "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
-      "published": "2026-08-25T14:01:11+00:00",
-      "image": ""
-    },
-    {
-      "title": "WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/",
-      "published": "2026-08-25T13:33:12+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZTk5aGZUWEFEcUZNRnlrWHp2YV9XckZNWEE5czdleDZNcWw1cGVyTGtBVUhXN0lIVEt0UDkxMG1zYklsZm5EOEVlWks5V29ZTW5KMVhReVd4U1lteEpZS1VWRVVQYlFrNHRpSjJ2aldyQzVSNWpCUXA1eEhIdEp1dHZwUGU?oc=5",
+      "published": "2026-08-25T18:17:00+00:00",
       "image": ""
     }
   ]
