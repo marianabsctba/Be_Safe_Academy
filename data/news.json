@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-08-26T13:26:26.720077+00:00",
+  "updated_at": "2026-08-26T16:35:25.336132+00:00",
   "items": [
+    {
+      "title": "AI Speeds Up Malware Development, Not Its Success Rate: Analysis",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ai-speeds-up-malware-development-not-its-success-rate-analysis/",
+      "published": "2026-08-26T15:23:45+00:00",
+      "image": ""
+    },
+    {
+      "title": "Boston Scientific says cyberattack disrupted operations globally",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/",
+      "published": "2026-08-26T15:19:21+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers target Microsoft SharePoint RCE chain with PoC exploit",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
+      "published": "2026-08-26T14:47:51+00:00",
+      "image": ""
+    },
+    {
+      "title": "FBI disrupts proxy network enabling Chinese espionage operations",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/",
+      "published": "2026-08-26T14:17:59+00:00",
+      "image": ""
+    },
+    {
+      "title": "Snowflake ends service-account passwords. Now comes the hard part",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/",
+      "published": "2026-08-26T14:01:11+00:00",
+      "image": ""
+    },
+    {
+      "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
+      "published": "2026-08-26T13:44:31+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz4GD3giiT1DIPT5Q13XvCZcwC8-STaGCZ3KbqUzQ5Q9oniGfA0Odbqfmwva6B-xSSTD2QG1wdqu5fFOleaBVFSA-t3ZfeqpcrYOEomdygWsZOONJXYcpxhRdT-EbTS_DZ0zYLrH_-1YN7TjXCsDuIj0I2G53mFT0df1HC3tjUdUQ5MCdHdEo27rDE2QEm/s1600/docusign.jpg"
+    },
     {
       "title": "Ubiquiti patches three max severity security vulnerabilities",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
@@ -9,6 +63,15 @@
       "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
       "published": "2026-08-26T13:17:54+00:00",
       "image": ""
+    },
+    {
+      "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
+      "published": "2026-08-26T13:07:02+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW3w9bF-wcalV_4xeymOZiHzRSkeBfz8Vh1B58JkthAgonYo-DGr3kWwNQ8ia760jX1kfC7NTkitD9rWxJNSNzMZWTAVWqrmJQXL7-1rOHbmC7mKSmfArdBAp5s4phuF3SlKr20agmwKrpI56a9SijzuYLnhYlb3R4l7uhb4S0Na0d3_OplvHmbC1EDCk/s1600/cisa-hack.jpg"
     },
     {
       "title": "Adobe and Nvidia Patch Dozens of Vulnerabilities",
@@ -36,6 +99,15 @@
       "url": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
       "published": "2026-08-26T11:55:00+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4vWsyC0OylljN3m8OwCHpDKLPXe9Sw7VI5ddPEuRswkrrsHlTyfbfkXAKOTX7jemZjktTQh1IlD1hjeWsOJwZm2aSe4OtppGdqTBMUCxgFAPIfI2RY-jAdZD5hfHsj7KpRexnN4SbfUJ8nsLB8w6P_me_L8xM00ZjskYgpyEbMkDBC5hSt5FAuLbFaK0/s1600/kaltura.jpg"
+    },
+    {
+      "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLUY5dGg3emhCLTZqTDJBdmRzWnVGU3EzdzdTYUF3QWJNcmE3QjFPMjA2Nm0yZ1RXaWxRWFdGV2taNWxWbHBPMTJ0dDJMdnR5T0xTeVVZQmJhSjc5a1l0ckdaOHJtNWlOTkNzVFlnYy13M2hsSFZaT0I4U3BHZXFPWkZR?oc=5",
+      "published": "2026-08-26T11:55:00+00:00",
+      "image": ""
     },
     {
       "title": "'NovaCookies' Kit Steals Microsoft 365 Sessions for $320 a Month",
@@ -90,78 +162,6 @@
       "url": "https://blog.talosintelligence.com/choose-your-fighter-balancing-competing-requirements-to-select-models-for-your-ai-soc/",
       "published": "2026-08-26T10:00:05+00:00",
       "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/08/tool_talk-1.jpg"
-    },
-    {
-      "title": "Chrome 152 Patches Over 300 Vulnerabilities",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/chrome-152-patches-over-300-vulnerabilities/",
-      "published": "2026-08-26T09:50:34+00:00",
-      "image": ""
-    },
-    {
-      "title": "Nigeria Looks to Sovereign Cloud for Cyber, National Security",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "CLOUD & IA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-operations/nigeria-sovereign-cloud-cyber-national-security",
-      "published": "2026-08-26T08:00:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2e25e9502faafe2a/6a8e005307463c203cf304be/nigeria-flag-sovereign-cloud-QQMinh88-shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
-      "published": "2026-08-26T07:54:12+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYeHiMtBGSU21fSYRfXqsYMwsXlIfdl_w5goundqFoLSR1HYz30bgzdHuA1ft2gHjWiS5B-nE5ZpmY1gJiTDlsF8bwwYK9ogGAPmEHWNTA-hVLp09KaMvsu6DbcCW-ZTNtcZj2xHoH4fHhTsr7_zbUoiYKJI6Yj9YdxtbQNBEdv0apv1c3buQiaXmLeMkT/s1600/interpol.jpg"
-    },
-    {
-      "title": "Sensitive Information Exposed in Nutex Health Data Breach",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/sensitive-information-exposed-in-nutex-health-data-breach/",
-      "published": "2026-08-26T07:41:50+00:00",
-      "image": ""
-    },
-    {
-      "title": "New SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
-      "published": "2026-08-26T07:12:55+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSnbO35IDgg9dQouCuUCpAko8PiGwwI3lhn7I68m0Ok-PGL84lR1CU0sKk5rWfurFY7u1Fz-9U0-CXi1VCuAVpZDpKF3uDnvtyb062Kls6vW8L7xkTnZBPPJteihNrIWV3C__6JMphWMC7ER4_2bsgKDfzIuq5naTBB3pgZvKvD2v4djmpMh96F62y8Qg/s1600/sleepwalker.jpg"
-    },
-    {
-      "title": "New SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVV9QSWJENDJnckx1OGtYY2lWZ19hZkN2RDhUSG9aQnlWSVZXdUt2QmpWeHBtbmhtZDVXZ2JhRzc1ZUxNQ0hkaDZhZ2FpRWgyZFJxekRyczZBdnVob294bmRYZGREYjFiOTRSdE8zeFYzM3E0SXFEenI2X1RrMEtNLQ?oc=5",
-      "published": "2026-08-26T07:12:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
-      "published": "2026-08-26T06:27:07+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfnIeYEGY0lITUrkeCakPqo92gxAk1t2Rduq3Vvt-EkhAxg_vRxWngUZQjifYgv1MUnKyZMOzTPFtlOpkMfpn6K5V0ofNKBc5w0y4X2Kb3Zeoal_5J-yhUX8oPUHY8KUkDHvGc7mwp5mWm1q4pS8Xssnm13SVe9Ziunr0UeNwTq2smwxIXAP7yU_iY2rtz/s1600/cisa-git.jpg"
-    },
-    {
-      "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa1VvbERhSERYYjQtQzZnMEVfVjkwcFQtNVh1c3ZCU244a1FnWWthcTBidlp1MGFseFVraWpxOWlfN0NHdTlCa285QnBzTkxHVzFsYWo5QmNMdFB2NUNaT25wc3pHUDFZcV9qdE5pdWdYM3F3M3EzOWNHYkJ5clFwSXdn?oc=5",
-      "published": "2026-08-26T06:27:00+00:00",
-      "image": ""
     }
   ]
 }
