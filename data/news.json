@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-08-26T20:10:02.778730+00:00",
+  "updated_at": "2026-08-27T00:51:23.512881+00:00",
   "items": [
+    {
+      "title": "Critical Avada WordPress theme flaw enables zero-click RCE",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
+      "published": "2026-08-26T21:33:20+00:00",
+      "image": ""
+    },
+    {
+      "title": "Dark Caracal Adds New Malware to Cyber Espionage Arsenal",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/dark-caracal-adds-new-malware-cyber-espionage-arsenal",
+      "published": "2026-08-26T21:33:06+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt47e8a731e9364c4c/6a8f4b1bd21c5bf1f56d2ce9/caracal_Szikorka_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
     {
       "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
@@ -45,6 +63,15 @@
       "url": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
       "published": "2026-08-26T15:35:05+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWDtkssu1a2OfGXtU3IlV8MARDVh3XpsurXStcVxASTKf_ACkwIhG6XVbR6fqqWFEFcOEOzLWpy1GGKHgTogw1hQL1O5CtLrLweaGx9GLnM-6CXDApf6VcpFzWFe0FaYgPi1TdhOotRrJ9xU39dk4efUJsMejezEs8t0v8oLyafMuVZrzgkeP-AEhls-x8/s1600/nimbus.png"
+    },
+    {
+      "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdG11VWllVkhQVmVRdjg2dHgtU3hJbDJ1OEY3OUc0YzBmbEFDeW1xblUwcGFqZDBtOW52c0dBX3lvTzZ2cW5pUklPbVhzME5yR25qSUJGQUotUXVCM0JEaWZJQmFFVUY4X1gwRFU3MHo4V1FzRGVLVmFGQXRhV2FmSEFn?oc=5",
+      "published": "2026-08-26T15:35:00+00:00",
+      "image": ""
     },
     {
       "title": "AI Speeds Up Malware Development, Not Its Success Rate: Analysis",
@@ -135,33 +162,6 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
       "published": "2026-08-26T12:06:28+00:00",
       "image": ""
-    },
-    {
-      "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
-      "published": "2026-08-26T11:55:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4vWsyC0OylljN3m8OwCHpDKLPXe9Sw7VI5ddPEuRswkrrsHlTyfbfkXAKOTX7jemZjktTQh1IlD1hjeWsOJwZm2aSe4OtppGdqTBMUCxgFAPIfI2RY-jAdZD5hfHsj7KpRexnN4SbfUJ8nsLB8w6P_me_L8xM00ZjskYgpyEbMkDBC5hSt5FAuLbFaK0/s1600/kaltura.jpg"
-    },
-    {
-      "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQLUY5dGg3emhCLTZqTDJBdmRzWnVGU3EzdzdTYUF3QWJNcmE3QjFPMjA2Nm0yZ1RXaWxRWFdGV2taNWxWbHBPMTJ0dDJMdnR5T0xTeVVZQmJhSjc5a1l0ckdaOHJtNWlOTkNzVFlnYy13M2hsSFZaT0I4U3BHZXFPWkZR?oc=5",
-      "published": "2026-08-26T11:55:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "'NovaCookies' Kit Steals Microsoft 365 Sessions for $320 a Month",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/endpoint-security/novacookies-steals-microsoft-365-sessions-320-a-month",
-      "published": "2026-08-26T11:33:40+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt282e8f2cd221edf1/6a8f1cccca0617268e4c2e0a/cookie_monster-dpa_picture_alliance-Alamy_REVISED_FOR_16_X_9.jpg?width=720&quality=80&disable=upscale"
     }
   ]
 }
