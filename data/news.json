@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-08-29T01:47:02.780145+00:00",
+  "updated_at": "2026-08-29T10:12:27.561470+00:00",
   "items": [
+    {
+      "title": "TerminalFix campaign deploys a reverse tunnel through multistage intrusion",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/",
+      "published": "2026-08-29T03:43:27+00:00",
+      "image": ""
+    },
     {
       "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
@@ -18,6 +27,15 @@
       "url": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
       "published": "2026-08-28T20:38:47+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRHWwlkIrD4ix8P1j7FGJW7pl0e6W600w61mPcVBRsL7BqK_8SNTLSSk-4498ZuyThNbHG8FmtGoMlR9B9ujcXUlHnRb9NTpBhImouOWrQK2WaxVVd5rjjL62kXl1fW9U5YyDN1Uc-M6OriHc7nQNzCbJAC3kRIsRgAnY5q2SSTL2TjLzix05DAoSa7jQ/s1600/cosmos-evm-hack.jpg"
+    },
+    {
+      "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdzZjN3g0LS0tTy1VcVhFdVJ5N1A2OEVwTURVU1pOUzZLQXlHLUthTnEtSGsyVWx3cDZRamJRdmctYUt1UFRZUGFVQ21haXZrY3d3YjlkTUhyQUlZd0huenJ2MVB3RTJXQWU1cWxJMGdLdVc0NEdKZHNoMTNEaExjT0dNZw?oc=5",
+      "published": "2026-08-28T20:38:00+00:00",
+      "image": ""
     },
     {
       "title": "Hundreds of OpenAI Agents Invaded Hugging Face Servers",
@@ -144,24 +162,6 @@
       "url": "https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy",
       "published": "2026-08-28T13:00:00+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5e076a0c3ac1a94e/6a90582107463c489bf30d27/New_York_flooding-jcrosemann-GettyImages-115026197.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Over 8,300 Gitea servers vulnerable to code execution attacks",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/",
-      "published": "2026-08-28T12:58:43+00:00",
-      "image": ""
-    },
-    {
-      "title": "OpenAI Agents Exploited Linux Kernel Flaw on Company’s Own Systems",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/",
-      "published": "2026-08-28T12:36:53+00:00",
-      "image": ""
     }
   ]
 }
