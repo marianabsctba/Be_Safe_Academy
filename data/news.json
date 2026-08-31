@@ -1,167 +1,167 @@
 {
-  "updated_at": "2026-08-31T05:45:18.707913+00:00",
+  "updated_at": "2026-08-31T14:02:46.151129+00:00",
   "items": [
     {
-      "title": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
-      "published": "2026-08-30T14:30:25+00:00",
-      "image": ""
-    },
-    {
-      "title": "Chrome Web Store extensions caught stealing crypto, browser data",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/",
-      "published": "2026-08-30T14:17:44+00:00",
-      "image": ""
-    },
-    {
-      "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "CLOUD & IA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
-      "published": "2026-08-30T07:36:33+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpxriybAzLw0daA0mtL3sZd04fy8Sal4s0mrBAz2-ksjwfP2V08YK_KbCJY57hKG28Kt6gn2mKq4HFSpkG2MNvA3Oz6MhNUe77_1Nvpahn2nnCFHPpxIlp5Ix4DvAZw08qXtxt1M-4zCtSENbBkODQyP_WDp9j3PXACc0XKYk1BK1K-2Xabho1cBPqerW9/s1600/cf-clickfix.jpg"
-    },
-    {
-      "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "CLOUD & IA",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3cmEzN2VsaHEybmVsZUdQY051SzVPT01SclA1QkNTRl9UU2Q0SUpqbkVRVFdOTXJidGtWVkNucU4zTXcwN244OWs3MVhFZHlXcGpNQm5uWnh5TWdfNXpuczBoYTQ4UFBXSHllUEd2QjBWZXExWElRQ1BUUQ?oc=5",
-      "published": "2026-08-30T07:36:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
+      "title": "ServiceNow Patches 3 Critical Code Injection Vulnerabilities",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
-      "published": "2026-08-29T16:25:03+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiROOqCRPV4u9cWfJL8nvCYKi4Ake-ki3_uh8Qn8RJ0P20h3Mz_qxVfF856pJ9DQZMHy922CeLwOHDc37Gpb4p1UCTMx6cMT5HeeAP_w4RitCuQficYcGDDkqpDVfW_nA3M7qWT-WyM6A5Adk3J2e8kMWSG1GSUOatrcVBmc7fmb2-ovadVS3fOdkd1ubFx/s1600/wordpress-themes.jpg"
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/servicenow-patches-3-critical-code-injection-vulnerabilities/",
+      "published": "2026-08-31T13:59:19+00:00",
+      "image": ""
     },
     {
-      "title": "Hasbro Data Breach Exposed Employee Personal Information",
+      "title": "Berlin confirms data theft after Rhysida ransomware attack claims",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/",
+      "published": "2026-08-31T13:30:01+00:00",
+      "image": ""
+    },
+    {
+      "title": "McKesson Confirms Data Breach as Attacker Deadline Looms",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/",
-      "published": "2026-08-29T11:55:00+00:00",
+      "url": "https://www.securityweek.com/mckesson-confirms-data-breach-as-attacker-deadline-looms/",
+      "published": "2026-08-31T13:14:46+00:00",
       "image": ""
     },
     {
-      "title": "TerminalFix campaign deploys a reverse tunnel through multistage intrusion",
+      "title": "What the Hugging Face Incident Teaches Security Leaders About AI Agent Access",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/what-the-hugging-face-incident-teaches-security-leaders-about-ai-agent-access/",
+      "published": "2026-08-31T12:15:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/",
-      "published": "2026-08-29T03:43:27+00:00",
-      "image": ""
-    },
-    {
-      "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
-      "published": "2026-08-28T22:40:17+00:00",
-      "image": ""
-    },
-    {
-      "title": "McKesson discloses breach after ShinyHunters claims patient data theft - BleepingComputer",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONWJLcER2bVM3eTJpcWFfa2JYbHhSZ0xveWQzakxhV0RDcF9pTTR1X2haSGlxbVZnUjVHY1I5ZDhOOGRwbThKLW5fMGprOERCbHdNWjVFbW1VT3VTNmJUM2hEMktVQWdSeVpTLTV5MnUzVWJMX1YtaHlrR2cyMENvLTFaSjhXU3BCLWJjUURld2VIdWZKdlZ2NjF5bW5iNC1BRWZQaS1PNjFzeFdDZzREX3ByQVkzd0w2LVHSAb8BQVVfeXFMT3UtbEdLdXNlRk5PR0d3ZjFuSEV0dnFlcEJ2bTFHRDBNbTQxOEd1amhtcnN6REYxTEM4UjhveWRVT2xLUXFCbjZGZ1NxSG5CVFd1TXFrZ3VKbEc3cjZBV014OWNxMnM2UHFlaWNkdjA5U3JwTlk1UnE1cDJPdHFMV3ZFM3J0a25aWWQwb1JXejhfbzR3Nmk5cW82T3VlQ0dHbzRnQnVFR2d2aEg1V080NFAyVWpjM3VydEkweW83RzA?oc=5",
-      "published": "2026-08-28T22:40:17+00:00",
-      "image": ""
-    },
-    {
-      "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
-      "published": "2026-08-28T20:38:47+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRHWwlkIrD4ix8P1j7FGJW7pl0e6W600w61mPcVBRsL7BqK_8SNTLSSk-4498ZuyThNbHG8FmtGoMlR9B9ujcXUlHnRb9NTpBhImouOWrQK2WaxVVd5rjjL62kXl1fW9U5YyDN1Uc-M6OriHc7nQNzCbJAC3kRIsRgAnY5q2SSTL2TjLzix05DAoSa7jQ/s1600/cosmos-evm-hack.jpg"
+      "url": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
+      "published": "2026-08-31T12:14:00+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8OUY2TmBxA9RLM9yG0dnv8OShMmr_0KXcJUWtPvcTbFKQ-jmG4_6PyVNCNxQH9VacMVqmi3ZdmcHepDqoLT4XOl5AHZ6mnxmg_QrTUmK2D01fsjrBJKQ1KmlodLNjgbNp65TVoTslEHW5s1IqgFR8xYQWab9WQBvn30sYuM-xh7pSQfAKUOFi3v4q3Do/s1600/adblock.jpg"
     },
     {
-      "title": "Hundreds of OpenAI Agents Invaded Hugging Face Servers",
+      "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions - The Hacker News",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers",
-      "published": "2026-08-28T20:19:22+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd16db4afaa70e4cc/6a91d9495d308674a5d86232/Bots-MASTER-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "PaperCut releases second emergency patch for exploited flaws",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
-      "published": "2026-08-28T19:08:26+00:00",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE04VEdiSmp3QnltaktZZTZPakwteThPaGExQUZOR3ZZZFFkSV9LNzluOGFldVdjR3V4OXVCcTlnSHp5RHhNVnl2WVpUQURLM05rTTd3SlBVRURRSkZEYXVsbDluSlFYc2J5M1AzaXAzMFlmUTNpcFVCYUh0cm80Zw?oc=5",
+      "published": "2026-08-31T12:14:00+00:00",
       "image": ""
     },
     {
-      "title": "Offensive Security Investments Surge as AI Threats Increase",
+      "title": "Anthropic Warns Claude Users of Infostealer Malware Infections",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase",
-      "published": "2026-08-28T18:25:43+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt95f718d0e919dd49/6a91bb856ab06b3d40bc21f3/lanowitz.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "GiveWP WordPress donation plugin flaw lets hackers execute server commands",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/",
-      "published": "2026-08-28T18:18:55+00:00",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/anthropic-warns-claude-users-of-infostealer-malware-infections/",
+      "published": "2026-08-31T12:11:58+00:00",
       "image": ""
     },
     {
-      "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
+      "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
+      "category": "AMEAÇAS",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
-      "published": "2026-08-28T17:12:15+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdtPabCvuR_F2UFdCw8LS5eoXtD-jOpbuCy8WZYRycSP2vu_6yQK45qTehHimhoS-eXFPMTwg5jNM3m_X7ma5ELVz60Rjt3rlQhrqE4iTz8ggysLCt388GyaBVQbT28sGDv9a6drKNZooBiQNy0L3v8Gc3vxB9JILUD-eTtj5LZAlBbA3EyLlp5SkgIKPG/s1600/1000103914.jpg"
+      "url": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
+      "published": "2026-08-31T11:47:24+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHyB4qaQy8srcEIgc1oMi08PMKtoVFIsmW3ho_7f7rISFML8Kmz8jYzDE1FCN9Nfo4LvvgVFV_FEijgLbCrZcJ5zy7xlvAYTKuyGrcE0IU6yqEd-awlmOyRQ3FXcSeA5yM71NLDa5nxpj9taGnNiVXvCb_5tun5j3dfb6z8j7cmwQ2O0PE2V3y0oKWv6sB/s1600/cursor.jpg"
     },
     {
-      "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication - The Hacker News",
+      "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
+      "published": "2026-08-31T11:31:47+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEithkMoEFgk1IZj_h_hGp94DwzD4UyQGh2f-epiRD6fn_XcMyB44HkXe-7XaHzviE8sImzIctDBjibyY0Gdrt_OPFFeja3KnOd9KsPFP3PeTxUzlshseSyukl0-cmQWZctAeVQHTUpvW99C8FZrhCcwPDZWoYShfC9jTGqmj1Va2K-Mo2kK6GbSksGIbM4/s1600/dan.jpg"
+    },
+    {
+      "title": "Critical Ruby on Rails Vulnerability in Attackers’ Crosshairs",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/critical-ruby-on-rails-vulnerability-in-attackers-crosshairs/",
+      "published": "2026-08-31T11:24:17+00:00",
+      "image": ""
+    },
+    {
+      "title": "Boston Scientific Still Recovering From Cyberattack",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/boston-scientific-still-recovering-from-cyberattack/",
+      "published": "2026-08-31T10:50:57+00:00",
+      "image": ""
+    },
+    {
+      "title": "Extortion Group Claims Manchester Airports Group Data Breach",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/extortion-group-claims-manchester-airports-group-data-breach/",
+      "published": "2026-08-31T10:29:10+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft says Windows 11 KB5120998 update resets mouse settings",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/",
+      "published": "2026-08-31T10:23:46+00:00",
+      "image": ""
+    },
+    {
+      "title": "Judge Says Pentagon’s Measures Against Anthropic Were ‘Illegal and Baseless’",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/judge-says-pentagons-measures-against-anthropic-were-illegal-and-baseless/",
+      "published": "2026-08-31T09:07:01+00:00",
+      "image": ""
+    },
+    {
+      "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZXRreUpKTUxNai15SmlJYTRnNGQteUtDc3ZqU3R6OWxxa1NZNjBQbE9LTF83MmliXzBEdzZMZVhoRUd6eklUMkJvWmNucWV4N3F5aWE4MXdjcThZcVA4THhPN0NpczlDbk8xVmhXR2R4czUxRXB3MU56NVlhdmltSW5R?oc=5",
-      "published": "2026-08-28T17:12:00+00:00",
+      "url": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
+      "published": "2026-08-31T09:04:55+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxYI5Ntk3CPoEGUHNQbd80hij-0QLnz3V_HBU3aXV-mvQq98IE6xsRlbuwZ2PNbbSV7dA-HlNfqRWj0_bd3XpQCOPt9R2gS3PJMm8lfMP_9IoKyhDNbY9NOotNDHO68v2DSUT_R-0UYTqZQc16DJM7OqS8_35iVUMqyy3GrUt7iMaIWz6iW6OSP2ddiDc/s1600/cisco-creds.jpg"
+    },
+    {
+      "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vOWpoREpIZFJrc0FybU1FYUY2ajBYaGl0TC02Z2k4XzVkR0JnRWhmeExNb2xzanNaUncwRUNxbGJfWDM5ay1BNzRxWncyYVpYRXhicjgzSFZoVGM2amJtQXUyREZra0tGdmx4WFhJa3JNOUMtdURkZjI4STFaQTg?oc=5",
+      "published": "2026-08-31T09:04:00+00:00",
       "image": ""
     },
     {
-      "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers",
+      "title": "Berlin Won’t Pay Extortion Group Claiming Data Theft",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "PRIVACIDADE",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
-      "published": "2026-08-28T16:20:46+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHdeGqGafTZXNtGvV_-qR7K3QId_-DpEfOzetKbhVQvNdNyTMAy-6gLXVFlkMHsGDN2wKK8v1ZMeOKe9_3XVYAY5TVkqH2heesi0c_QmJzLpDX1M-XfOtI_W4Qe8OM8Yhin40QWvN0XHvU9cqDlZH3eeZY_18euIxiBdcbhWMVnXct-x84k2gvchQYSiuN/s1600/1000103901.jpg"
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/berlin-wont-pay-extortion-group-claiming-data-theft/",
+      "published": "2026-08-31T08:49:36+00:00",
+      "image": ""
     },
     {
-      "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
+      "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
+      "category": "AMEAÇAS",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
-      "published": "2026-08-28T15:56:55+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZPm0X6hW-nz0AFZIB6eOBMEssN6dF5qeh2EOIBm1-ftaBEqcvJC5M0r_g3j-6Sp9x4sUnxVeOToWN_bFbr6T9flaScRcze4DRga0nqNe3LeQSvZaNPTiZC2C8GUeWWxMmIF1mybwuDaq5ZZummYiynDkf_1evTLKPicf4f2UUUb2d-0MMG6Ix-00ImwFN/s1600/1000103895.jpg"
+      "url": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
+      "published": "2026-08-31T07:56:53+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHmPwSKHINCGncOKbSs9X05lJ2CJQivbfLYQ6LP3njVHAc-4fgSYJz-C1u6SUiFEtcF4ddjW3PBayFsVaF2a03OOkaLfWlg8pxJelp5bEhJT0LEv8-XPs9bUf8ruFcGOzjWAbumEJ4Veirq9lAAalOThmUfD0i19Mo5X_HpDcI21_5pJp7WsA8OPh74Ad_/s1600/justice.jpg"
     }
   ]
 }
