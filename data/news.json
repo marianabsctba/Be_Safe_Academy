@@ -1,9 +1,90 @@
 {
-  "updated_at": "2026-09-01T14:11:36.782695+00:00",
+  "updated_at": "2026-09-01T18:36:42.165745+00:00",
   "items": [
     {
-      "title": "Why Even the Best Edge Security Still Misses High-Risk Sessions",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Sevii visa ataques de velocidade de IA com defesa autônoma preventiva",
+      "summary": "A Sevii expandiu sua plataforma ADR com agentes de IA projetados para investigar, conter e remediar ataques conduzidos por IA em poucos minutos. A postagem Sevii visa ataques de velocidade de IA com defesa autônoma preemptiva apareceu pela primeira vez na Secu",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/sevii-targets-ai-speed-attacks-with-preemptive-autonomous-defense/",
+      "published": "2026-09-01T18:30:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Guarda Costeira estabelece Escritório de Política de Cibersegurança Marítima",
+      "summary": "O novo escritório servirá como autoridade central para a política de segurança cibernética, abrangendo portos, navios e instalações marítimas dos EUA. A postagem Guarda Costeira estabelece escritório de política de segurança cibernética marítima apareceu pela ",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/coast-guard-establishes-office-of-maritime-cybersecurity-policy/",
+      "published": "2026-09-01T18:26:22+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falha crítica do Langflow explorada para roubar chaves OpenAI e AWS",
+      "summary": "Os atores da ameaça estão explorando uma vulnerabilidade de execução remota de código não autenticado (CVE-2026-0768) no Langflow, uma estrutura de código aberto para a construção de aplicativos de IA, para roubar credenciais, tokens e chaves. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
+      "published": "2026-09-01T17:54:22+00:00",
+      "image": ""
+    },
+    {
+      "title": "Atacantes exploram falha crítica do artefato JFrog para cunhar tokens de administração dias após a divulgação",
+      "summary": "Os atores da ameaça estão explorando uma falha crítica de segurança recém-corrigida que afeta o JFrog Artifactory poucos dias após a divulgação pública, de acordo com watchTowr. A vulnerabilidade em questão é CVE-2026-82329 (pontuação CVSS: 9,8), um caso de de",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
+      "published": "2026-09-01T17:53:11+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0o8dDcHW4CJBLnXfYzfofbG1w0Fi4zCPqcjEgASsL0gXnESv5isMONZgXzek2rM3VwkhnEqz2K4whDwB_lFylCYvfXASQmsQSPA-8U25998PBT2Xopdaaj9_iG0XqdBPu6iXRmtlN2CGc8b5mv3t68CVxV2HYneRkiUhUu3EIgSogEgipzJUiymLfl0NQ/s1600/jfrog.jpg"
+    },
+    {
+      "title": "Breeze Comet executa centenas de transações fraudulentas por meio de sistemas de pagamentos brasileiros",
+      "summary": "As organizações brasileiras de serviços financeiros, varejo e comércio eletrônico se tornaram alvo de um ator de ameaça com motivação financeira chamado Breeze Comet (anteriormente UNC5669) desde 2024. As equipes do Google Threat Intelligence Group (GTIG) e da",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
+      "published": "2026-09-01T17:19:24+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvGVdje0roDTqKcU541FTx34ODDmuBU-qtwYwoW0-qAYscD9yX5stIs8EhQtC7gnwM4WpqNTjYFRRwXm7w97C5tY7eEhCQJ89Y_uesRzrbbuR7knHdEkoDetSlRpfa8XOD_rdChE5yFh3VtBPlChgYRKp9ZDon-0B1_VAM9NOd0_xvgw9gD_YF7lSBXiPI/s1600/brazil.jpg"
+    },
+    {
+      "title": "Hackers enviam atualização maliciosa do Virtualizor em ataque de sequestro de BGP",
+      "summary": "Os hackers entregaram atualizações maliciosas ao software de gerenciamento Virtualizor VPS após sequestrar o roteamento BGP para sua infraestrutura de atualização e redirecionar solicitações de atualização para servidores maliciosos. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
+      "published": "2026-09-01T14:45:06+00:00",
+      "image": ""
+    },
+    {
+      "title": "A violação de dados da Novocure afeta mais de 1.400 pacientes com câncer",
+      "summary": "A empresa de tecnologia de saúde Novocure afirma que os dados de um número não revelado de funcionários e de mais de 1.400 pacientes com câncer nos EUA foram expostos em um ataque cibernético em meados de agosto. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/",
+      "published": "2026-09-01T14:28:40+00:00",
+      "image": ""
+    },
+    {
+      "title": "13 pacotes packagistas maliciosos têm como alvo iPhones sem patch para roubar sementes de carteira criptografada",
+      "summary": "Pesquisadores de segurança cibernética identificaram um conjunto de 13 pacotes temáticos maliciosos do Composer no Packagist que são projetados para injetar JavaScript em sites vietnamitas de streaming de filmes e quadrinhos que instalam essas bibliotecas e in",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
+      "published": "2026-09-01T14:07:20+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB8expOvrNoEO7Mb5MSWWRnW2eVksJz4NGRldHmcBuWZ76ojuMDD6HJk_i043g-KHOi2zjcYQtsvYGXL2lyzPNy-vwRTD5jzMz5qdEXwfvYqt9K1Uu0Z5fpEMV2EVh9Ap0JRUD391nDM_TjgEXXGnI_dHRpxwv1H5VLiyQN4F3LBpRaEnmtbmCqdllIob2/s1600/iphone.jpg"
+    },
+    {
+      "title": "13 pacotes packagistas maliciosos têm como alvo iPhones sem patch para roubar sementes de carteiras criptográficas - thehackernews.com",
+      "summary": "13 pacotes packagistas maliciosos têm como alvo iPhones sem patch para roubar sementes de carteira criptografada thehackernews.com",
+      "category": "VULNERABILIDADES",
+      "source": "thehackernews.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNW1IYmpoNlVmLVdvX0VCUEpGRHkzX0RXVjM3RTBTejlyUmZzNC14eFhrb0pzV0k4MV9JMzNhb0lnS1FCYUNhN0NWMW52Q1JHUUNIMFR3T1pYXzhHdkFvZWRWclFtcFFZMW1rSlRkYXhXcldWcVFBMVk3NlVNSnMxLXpRWQ?oc=5",
+      "published": "2026-09-01T14:07:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Por que mesmo a melhor segurança de borda ainda perde sessões de alto risco",
+      "summary": "Os invasores podem se esconder atrás de proxies residenciais, VPNs e outras infraestruturas que fazem com que sessões maliciosas pareçam legítimas para os controles de segurança de borda existentes. Spur explica como o enriquecimento de sessão adiciona pontos ",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
@@ -11,8 +92,17 @@
       "image": ""
     },
     {
-      "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Campanha ClickFix compromete 31 organizações e abusa do Polygon Blockchain",
+      "summary": "A campanha usa EtherHiding para atualizar dinamicamente seu servidor de comando e controle, abusando do blockchain como um catálogo de endereços controlado por invasores.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/endpoint-security/clickfix-campaign-comprises-31-orgs-abuses-polygon-blockchain",
+      "published": "2026-09-01T13:56:42+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6a0f2dc67da094b0/6a96c86cc735cc0c3671a7e3/blockchain_incamerastock_alamy.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Hackers iranianos se apresentam como recrutadores para fornecer RATs multiplataforma por meio de testes de codificação",
+      "summary": "O grupo de hackers iraniano Nimbus Manticore foi atribuído a duas famílias de malware anteriormente não documentadas que destacam a evolução contínua de seu conjunto de ferramentas e provavelmente expandem sua área de atuação para infectar sistemas Linux e App",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
@@ -20,8 +110,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm2I0vj1ygDfFQ8UzazaxECq0aAP3UJ_VRMzeCN0MgTkWk4yLEUbKKU9dE0pIyXZIfJ0MgxjYEqAqWLAXAtuATDCdFZPI9WGkgwz04Mdd7LChIfMrWk-vhGfaHDGtySDkbIXgzBcNfh5qcobm-bz8QWuyVCcH7z9CM_RNZusA2rPEHV5g2WJ2tU6Llrdnu/s1600/iran-hacking.jpg"
     },
     {
-      "title": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Quase 22.000 servidores Microsoft Exchange vulneráveis ​​a ataques de sequestro",
+      "summary": "Quase 22.000 servidores Microsoft Exchange expostos online permanecem sem correção contra uma vulnerabilidade de desvio de autenticação de alta gravidade que permite que invasores sequestrem todas as caixas de correio dos usuários. [...]",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/",
@@ -29,8 +119,8 @@
       "image": ""
     },
     {
-      "title": "Experiment: Porting a PLC Exploit With AI Takes Hours and Hundreds of Dollars",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Experiência: portar uma exploração de PLC com IA leva horas e centenas de dólares",
+      "summary": "Os pesquisadores da Forescout usaram Claude AI para portar uma exploração de execução remota de código entre modelos WAGO PLC. A postagem Experimento: portar uma exploração de PLC com IA leva horas e centenas de dólares apareceu pela primeira vez na SecurityWe",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/experiment-porting-a-plc-exploit-with-ai-takes-hours-and-hundreds-of-dollars/",
@@ -38,8 +128,8 @@
       "image": ""
     },
     {
-      "title": "Hackers Start Exploiting Critical Langflow Vulnerability",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Hackers começam a explorar vulnerabilidade crítica do Langflow",
+      "summary": "Rastreado como CVE-2026-0768, o defeito de segurança permite que invasores não autenticados executem código Python arbitrário remotamente. A postagem Hackers começam a explorar a vulnerabilidade crítica do Langflow apareceu pela primeira vez na SecurityWeek.",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/hackers-start-exploiting-critical-langflow-vulnerability/",
@@ -47,8 +137,8 @@
       "image": ""
     },
     {
-      "title": "Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Os atores da ameaça não querem ataques melhores. Eles querem repetíveis",
+      "summary": "A forma mais comum de entrar em uma empresa no ano passado foi perguntando. Uma página da web pede ao visitante para provar que não é um robô. Enquanto eles lêem as instruções, ele silenciosamente coloca um comando na área de transferência. Em seguida, ele ori",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
@@ -56,8 +146,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXRNAAGu1amxjm97oXzRGvVBD23d-thmuPvBbQm10hKlACH58ndu51swo4ggT2P2FJw1vbmWy6qdMZSyTRrgAXoi19O0Zf0vCcS47oMuhMuPSyKc1kL7bpIySVrQwgrIaYJkc4IiavU0rucYYMYWHwXgDCmsPLanV2LZv3mt__srP93r0vLWSz8Vp_L0o/s1600/click.jpg"
     },
     {
-      "title": "Five Venezuelans Plead Guilty in US Court to ATM Jackpotting",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Cinco venezuelanos se declaram culpados em tribunal dos EUA por jackpotting em caixas eletrônicos",
+      "summary": "Os réus tentaram, sem sucesso, instalar fisicamente malware em caixas eletrônicos para forçá-los a distribuir dinheiro. A postagem Cinco venezuelanos se declaram culpados no tribunal dos EUA por jackpot em caixas eletrônicos apareceu pela primeira vez em Secur",
       "category": "AMEAÇAS",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/five-venezuelans-plead-guilty-in-us-court-to-atm-jackpotting/",
@@ -65,103 +155,13 @@
       "image": ""
     },
     {
-      "title": "Ransomware Gang Claims Nutex Health Data Breach",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Gangue de ransomware alega violação de dados de saúde da Nutex",
+      "summary": "A empresa notificou a SEC que hackers acessaram informações de pacientes, funcionários, fornecedores, negócios e financeiras. A postagem Gangue de ransomware reivindica violação de dados de saúde da Nutex apareceu pela primeira vez na SecurityWeek.",
       "category": "AMEAÇAS",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/ransomware-gang-claims-nutex-health-data-breach/",
       "published": "2026-09-01T10:47:47+00:00",
       "image": ""
-    },
-    {
-      "title": "Critical JFrog Artifactory Vulnerability Reportedly Exploited in the Wild",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/critical-jfrog-artifactory-vulnerability-reportedly-exploited-in-the-wild/",
-      "published": "2026-09-01T09:59:44+00:00",
-      "image": ""
-    },
-    {
-      "title": "Five Venezuelans plead guilty to ATM jackpotting attacks in US",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/",
-      "published": "2026-09-01T09:15:07+00:00",
-      "image": ""
-    },
-    {
-      "title": "9.5 Million Impacted by Aesto Health Data Breach",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/9-5-million-impacted-by-aesto-health-data-breach/",
-      "published": "2026-09-01T09:09:34+00:00",
-      "image": ""
-    },
-    {
-      "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
-      "published": "2026-09-01T09:05:30+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2b-1gQHvYc7ZLc86QFtZ2LoJ7zFalpJtSy_e_laxiM_f4Ftnhuvp5eCJZRSk2NL_0tZAZAl2z1UPYfOBSTbdGOPOZexgt3GkuUqsrZPgFB2F-qG2Ir_c7Ioj6zcJVdWjzBo90HpcObPWan5eID2df6OXyn3F7-LRpdOvO8TfiZSp8L2j89p2UbsDi3zM4/s1600/metr.jpg"
-    },
-    {
-      "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000 - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5BS1hOOEx5MjU1YlV6SUpiNy1kc0M1dHljVWg1ZFBzRURrNmt5Wk1uYlBGUWdDNlgwT1cza1NKWDBaeE5wdktZQk1ZZG9kNjZTMTVmMGtZVU5lTTdGMkpoVFd4aXVRSEo4YmxiN3FsVEQ4NTFaTm1LYVRFUQ?oc=5",
-      "published": "2026-09-01T09:05:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "WatchGuard Patches Critical Vulnerabilities",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/watchguard-patches-critical-vulnerabilities/",
-      "published": "2026-09-01T08:50:04+00:00",
-      "image": ""
-    },
-    {
-      "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
-      "published": "2026-09-01T08:26:24+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS-2JWiSkzpLkhR3nGp917yyeS4NATTlFhnDXcvmQdrc42BPgObEnlmwXMDP7fN8ruoEJ13Zru_lTVjPwTfU8aeSfK9uGt5H9dYK0s-STCiRMe4Wai1tgbeAU9CaaYZ9aIAZSDv3hVTD5UHKdCGNXGRkkrXDgsc0_3wHruuxZg4uRJDMhuSWSXKfgFanBb/s1600/russian.jpg"
-    },
-    {
-      "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSDlYNUpkZ3Q1QzNZeTFFWlVsVVVlODljUW9RNU9sNWZjYnhvYTJsUEV3MlRRV0k4SGZsWDlRVW45bjgxblIxU2VjZ1lMUU81N0dnenNUU0ROX2dUWF9SMEFsVlIybFNKMGU0eU0yN0w1VEtNREViWFF2TVZqck1obFFRYw?oc=5",
-      "published": "2026-09-01T08:26:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Recently patched PaperCut zero-days used in data theft attacks",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/",
-      "published": "2026-09-01T07:48:24+00:00",
-      "image": ""
-    },
-    {
-      "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
-      "published": "2026-09-01T07:22:30+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9_EygYWh8fZRphLL1V9dg-h1jgQ0f9xmlVuPwPAaaEUUCBkKbQ4nTaL27WIevCJg42GWtDGMKyRvzBUz9MWtD2FxPx7vCKwXLirO-N1YRcpPy0mX_B_fTG2gBS-JPRJGXfCh_I2yHJgoi1V5lve7Opcm-M0ApWs6gohPjNhBi-0CsP49guHlM2lzHLsiD/s1600/lang.jpg"
     }
   ]
 }
