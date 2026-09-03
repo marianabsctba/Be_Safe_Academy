@@ -1,6 +1,96 @@
 {
-  "updated_at": "2026-09-03T11:23:42.599467+00:00",
+  "updated_at": "2026-09-03T16:31:26.953395+00:00",
   "items": [
+    {
+      "title": "Dados do Manchester Airports Group sobre 8,8 milhões de pessoas vazaram após recusa de resgate",
+      "summary": "O grupo de hackers publicou cerca de 550 GB de dados depois que a MAG se recusou a pagar um pedido de resgate; o grupo diz que obteve acesso por meio de chaves de administrador expostas. A postagem Dados do Manchester Airports Group sobre 8,8 milhões de pessoa",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/",
+      "published": "2026-09-03T15:35:19+00:00",
+      "image": ""
+    },
+    {
+      "title": "Capsule Security lança ‘AI Circuit Breaker’ para impedir agentes desonestos",
+      "summary": "Novos modelos, treinados usando NVIDIA Nemotron 3 Ultra, visam detectar o comportamento de agentes não autorizados antes de sua execução, sem a latência da revisão de modelos grandes. A postagem Capsule Security lança ‘AI Circuit Breaker’ para impedir agentes ",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/",
+      "published": "2026-09-03T15:15:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falha crítica do Elementor Pro explorada para assumir o controle de sites WordPress",
+      "summary": "Uma vulnerabilidade crítica recentemente corrigida (CVE-2026-32475) no plugin Elementor Pro para WordPress está sendo explorada em ataques que entregam uma carga útil do webshell e executam comandos arbitrários no servidor. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
+      "published": "2026-09-03T14:52:20+00:00",
+      "image": ""
+    },
+    {
+      "title": "AI ‘Machine Speed’ reduz ataque de 2 semanas para 10 horas",
+      "summary": "O incidente demonstra como os agentes de IA de ponta podem comprimir drasticamente o cronograma de um ataque e coordenar uma violação em grande escala, de acordo com os pesquisadores.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours",
+      "published": "2026-09-03T14:38:49+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaeb9af6be92c2692/6a9957f44e3e378865d50a6b/working-with-AI-agents-ImageFlow-shutterstock.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "A senha do seu funcionário apareceu em um registro do Infostealer. E agora?",
+      "summary": "Os infostealers podem expor muito mais do que senhas, incluindo sessões autenticadas que podem permitir que invasores contornem a MFA. Flare explica como os defensores podem priorizar identidades comprometidas, determinar se o acesso roubado ainda pode ser usa",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
+      "published": "2026-09-03T13:50:59+00:00",
+      "image": ""
+    },
+    {
+      "title": "HiddenLayer levanta US$ 100 milhões para segurança de tempo de execução de IA",
+      "summary": "A empresa sediada em Austin investirá em recursos de segurança de tempo de execução de agentes para proteger os agentes de codificação de IA. A postagem HiddenLayer levanta US$ 100 milhões para AI Runtime Security apareceu pela primeira vez na SecurityWeek.",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/",
+      "published": "2026-09-03T12:17:30+00:00",
+      "image": ""
+    },
+    {
+      "title": "AI Agent Firewall Startup AIR Security emerge do sigilo com US$ 50 milhões",
+      "summary": "O firewall da startup avalia habilidades de IA, plug-ins e servidores MCP em busca de instruções maliciosas, permissões excessivas e riscos na cadeia de fornecimento de software. A postagem AI Agent Firewall Startup AIR Security emerge do stealth com US$ 50 mi",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/",
+      "published": "2026-09-03T12:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "'Breeze Comet' atinge os sistemas financeiros brasileiros e globais",
+      "summary": "O grupo de ameaças mais sofisticado do Brasil está simplificando o trabalho dos sistemas financeiros do país, colocando dinheiro diretamente em seu próprio bolso.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems",
+      "published": "2026-09-03T12:00:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta8d176cc1b018d8c/6a988a8143fb84770fcc31de/Brazil-Gwengoat-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "EUA se tornam o principal alvo da campanha de phishing RMM abrangendo 46 países",
+      "summary": "Uma campanha de phishing RMM inicialmente associada à segmentação canadense devido ao uso de formulários fiscais da Agência de Receitas do Canadá (CRA) como iscas acabou por fazer parte de uma campanha mais ampla que abrange 46 países. Cerca de 45% da atividad",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
+      "published": "2026-09-03T11:58:00+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_OZ4yHwsQM1Z9se2g-uJPuSkiSNpmyWCCi_a9dKpH9jnTuFYyts16e2gdkB45YknrA-nuzp6-mbEi-1adV92N-7aBjfYL69ECPlWOV7a5xb5rG6kqsMzc3WJ0-lXLBMO86aB3WTJ6MFLR0N0YbC8TElIg0-Jh6SIDe8mc3nCyzoE6zugVDFHFfjPEGkI/s1600/targets.jpg"
+    },
+    {
+      "title": "EUA se tornam o principal alvo da campanha de phishing RMM abrangendo 46 países - The Hacker News",
+      "summary": "EUA se tornam o principal alvo da campanha de phishing RMM abrangendo 46 países The Hacker News",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNGQzTmVZM3EyYkhXSlRzbEpPNGNyMGxsNDhBVVBPOHItdXhjb0ZJUnZoQjVPMzdaRU5mSGluUk5ya1oxWGdYb1o1aThMd3J6RHJoQk94SVNfcWI1Yk5XM2FPMmZVRVZ3MEpOTGNjY01feUxIY3ZfOG5saW5oazVfUXRR?oc=5",
+      "published": "2026-09-03T11:58:00+00:00",
+      "image": ""
+    },
     {
       "title": "Plex alerta os usuários para corrigir vulnerabilidades de segurança imediatamente",
       "summary": "Plex pediu aos usuários esta semana que atualizassem seus clientes de desktop e servidores de mídia imediatamente para corrigir várias vulnerabilidades de segurança. [...]",
@@ -20,6 +110,24 @@
       "image": ""
     },
     {
+      "title": "Atacantes transformam tempo de execução confiável do Node.js em ferramenta de entrega de malware em ataques direcionados",
+      "summary": "Os agentes de ameaças estão aproveitando o tempo de execução JavaScript confiável do Node.js em vários ataques cibernéticos como uma forma de implantar cargas maliciosas. De acordo com um novo relatório publicado hoje pela equipe Symantec Threat Hunter, o méto",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
+      "published": "2026-09-03T10:43:01+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixQdi-o7wSstsDvvGluX8EDCUhGUHwpKjSkMSaigZZkFOEI_mWS0kLYvjSaG9olG2Y8GYxqH2kKRUtT82RVMLfW-FuBdrWMbGSfJMVVK3YAL3FClWT6t0Dz33NzHEYK1dL93JLl7YzyETY1i9ZYpRty-BG5Vfk_vGUggKigBtpQZxKuUW8-Jg3m9xZV8BL/s1600/jsnode.jpg"
+    },
+    {
+      "title": "Atacantes transformam tempo de execução confiável do Node.js em ferramenta de entrega de malware em ataques direcionados - The Hacker News",
+      "summary": "Atacantes transformam tempo de execução confiável do Node.js em ferramenta de entrega de malware em ataques direcionados The Hacker News",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMThmM29ibXRaUGJNbkM2OFBVTTY5QU9ueTNISXpLbmlsV0wwc2h2RGVUUkVwcmN3X2NPdFpBUFhBNkZueUpwTlFFOFlOU3VaS0lFTzd2ZTdZS2tCaFNmNGwyQmhtYXVuQjhJd2pkbVQ4NUoyQkxZYkVkWVhFME85ZjVB?oc=5",
+      "published": "2026-09-03T10:43:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Mais de 3 milhões de sites WordPress afetados pela vulnerabilidade do plug-in de migração",
       "summary": "A falha de injeção SQL de alta gravidade (CVE-2026-19949) pode permitir que invasores não autenticados realizem a execução remota de código. A postagem Mais de 3 milhões de sites WordPress afetados pela vulnerabilidade do plug-in de migração apareceu pela prim",
       "category": "VULNERABILIDADES",
@@ -27,6 +135,15 @@
       "url": "https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/",
       "published": "2026-09-03T10:40:00+00:00",
       "image": ""
+    },
+    {
+      "title": "O alcance de Shai-Hulud acaba de crescer para 469 locais de credenciais. Aqui está o que isso significa",
+      "summary": "No início de agosto, os pesquisadores do GitGuardian descobriram que uma variante recente do worm infostealer Shai-Hulud evoluiu para verificar credenciais em 469 locais em ambientes de desenvolvedor, ferramentas de integração contínua/implantação contínua (CI",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
+      "published": "2026-09-03T10:36:39+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfx0JCqLgANXGkgF5NMg__RxJg5IJ8HgQcvr_2zxEM6HSYzesKdLjKbrqmtAegyIpBmLxnryF5CeJlRh4J09q3e1kOo8dEzGXjhQpunnmGoL6wzEW_6R7lsN4zE5IybADP50VCjGGrBercYm6OIMCYsSgbHJ6sN9AYY3v6kCqPof8TWzR2O_ybViE1aYo/s1600/Shai-Hulud.gif"
     },
     {
       "title": "Cisco alerta sobre falhas de e-mail seguro não corrigidas e corrige vulnerabilidades críticas de switches",
@@ -45,123 +162,6 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
       "published": "2026-09-03T08:55:25+00:00",
       "image": ""
-    },
-    {
-      "title": "Exploração de spyware Pegasus Zero-Click infecta iPhone de membro do movimento estudantil sérvio",
-      "summary": "O iPhone pertencente a um membro do movimento de protesto estudantil da Sérvia foi infectado com o spyware Pegasus do Grupo NSO, de acordo com novas descobertas do Citizen Lab em colaboração com a SHARE Foundation. “Nossa análise confirmou que uma exploração d",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
-      "published": "2026-09-03T08:43:17+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaEvtAyNP-TiY3M6wMUFNKymiK_BeQH_MEIzeFf79X0fNFV0gyV3MiegzULqTG6bC-20nprEpTHySkf3Hf0N72sLy-oVN6_ndqU4OwSm37Cx0OYrr2MbzpiII3ly4tEv891mjYhbSV18Eg94BBSitXG8XnON3QjpRqGkErk15L1FoeYT94R8WGlK8xUuJt/s1600/iphone-exploit.jpg"
-    },
-    {
-      "title": "Pesquisador lança FalconFlank PoC mostrando escalonamento de privilégios no CrowdStrike Falcon",
-      "summary": "O pesquisador de segurança conhecido como Chaotic Eclipse (também conhecido como INFINITE NIGHTMARE, MSNightmare e Nightmare-Eclipse) lançou um novo dia zero chamado FalconFlank, uma falha de escalonamento de privilégios que afeta o Crowdstrike Falcon. “Falcon",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
-      "published": "2026-09-03T06:26:59+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmg6caSDWQVOPIIl9NAXS4ofXmOdWz1eIGPMKMLCbHXc_uWiv11QNh2k-f43JAoVVQNMQj54d2yqJ_iO9vzwIO8nvQIyxr7N6GDCKsYDmSJEpyjiUBsY-zhMcmfEsWcEqDrKvrEkXxQC1LPldFXkqbJHO81V7oHnsRtuyjMZKzubBjwrK_yQ2xT2om89Ja/s1600/windows-exploit.jpg"
-    },
-    {
-      "title": "CISA adiciona sete falhas exploradas à medida que invasores implantam shells reversos e mineradores de criptografia",
-      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) adicionou na quarta-feira sete falhas de segurança ao seu catálogo de Vulnerabilidades Exploradas Conhecidas (KEV) depois que elas caíram na mira dos invasores. As vulnerabilidades são as se",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
-      "published": "2026-09-03T05:19:04+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaGEC2JQn3dU5muXzZhp9ouduHJ5hE4vWW4zHDomXp7hJ3hHafGPmMU33aKs7A8dwhvqsMiwh8PNi4GUNzH635enPZT3oPdcZejqkA9vpPYbQTLZaAhzAVAuUFksC4mCNX6SRUzUx1vhSxokKBz9RBGXXOBJshSXfYLIox2OCi2htQdcmyDJDMvWTamC8/s1600/cisa.jpg"
-    },
-    {
-      "title": "CISA adiciona sete falhas exploradas à medida que invasores implantam shells reversos e mineradores de criptografia - The Hacker News",
-      "summary": "CISA adiciona sete falhas exploradas à medida que invasores implantam shells reversos e mineradores de criptografia The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NdVZYenoxdEdpdGp2ZUtyeHQySDdrUTd2ZFJKbFJDWTR0N3hDUGMyTVZVUjVyQUFWTVZDbWlRMEtEV3N6bHpBYzdDVWRoLTctMmtrU1BIZlRmb1FqWHc0LXBmTGJpX1lMR2w3di02TWlsamNXTVkyalV2MDVpQQ?oc=5",
-      "published": "2026-09-03T05:19:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Representando o suporte de TI: como os agentes de ameaças transformam uma sessão remota em acesso para toda a empresa",
-      "summary": "O Microsoft Threat Intelligence observou uma campanha de intrusão operada por humanos que abusa da colaboração externa do Microsoft Teams para se passar por suporte de TI, obter acesso remoto e implantar um implante baseado em Node.js. Saiba como os invasores ",
-      "category": "AMEAÇAS",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/",
-      "published": "2026-09-02T22:51:18+00:00",
-      "image": ""
-    },
-    {
-      "title": "O aumento de vulnerabilidade da IA ​​pode ser mais gerenciável do que se temia inicialmente – Dark Reading",
-      "summary": "O aumento de vulnerabilidade da IA ​​pode ser mais gerenciável do que a primeira leitura sombria temida",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ0Z0OHhGdllub0RxZkV2ZDFybkN0UENJaVFDcTV1N08xT0xFYkRmWVlZemd3bUFsNmVtdzJiZ0FvQmo3Q01tc2JWcEFtdHVMSVBGbnctcF9YR3BsZ0lqTEtaeVU0R2hOUXNPazBZOUFpRFEwVnRFaTZsd0Y3YjlVb2p2bUFLanItcVZEekRvZ3J2bXI1T0pud0hvQ2VFY1MwSlE?oc=5",
-      "published": "2026-09-02T21:53:38+00:00",
-      "image": ""
-    },
-    {
-      "title": "O aumento de vulnerabilidade da IA ​​pode ser mais gerenciável do que se temia inicialmente",
-      "summary": "Uma nova pesquisa sugere que o próximo Vulnpocalypse pode não ser tão esmagador para as equipes de segurança corporativa – se elas tiverem as estratégias certas.",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared",
-      "published": "2026-09-02T21:14:06+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte6af1f929e3d31c4/6a9884c2f1ca2225aef25fe1/claude_FotoField_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Hackers exploram falha Sangoma Switchvox para implantar shells reversos",
-      "summary": "Os invasores estão explorando ativamente o CVE-2026-9586, uma vulnerabilidade de injeção SQL não autenticada na plataforma VoIP Sangoma Switchvox que pode levar à execução remota de código. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
-      "published": "2026-09-02T21:00:13+00:00",
-      "image": ""
-    },
-    {
-      "title": "SonicWall SMA 1000 Zero-Days habilita RCE não autenticado",
-      "summary": "A atividade de exploração segue ataques no início deste verão a duas outras vulnerabilidades de dia zero nos dispositivos de ponta do fornecedor.",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce",
-      "published": "2026-09-02T20:43:59+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0cc4f85814cf1849/6a9871830d1dd21ef2d9772c/barbed_wire_fence-dzika_mrowka-GettyImages-175913576.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "IA dá aos cibercriminosos uma vantagem de tempo perigosa",
-      "summary": "O ex-criminoso cibernético Brett Johnson oferece uma visão interna da mente de um ator de ameaça e discute onde a IA oferece mais valor para os invasores.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/threat-intelligence/ai-gives-cybercriminals-dangerous-time-advantage",
-      "published": "2026-09-02T19:46:31+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdcb9093a068b61f4/6a9742405acd0c12e2c414bc/cybercriminal1800_dem10_GettyImages-2153654043.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "OpenLeash adiciona uma verificação humana às ações arriscadas do agente de IA",
-      "summary": "A ferramenta de segurança intercepta ações potencialmente perigosas de agentes, bloqueando ameaças claras e solicitando aprovação humana quando a intenção é incerta. A postagem OpenLeash adiciona uma verificação humana às ações arriscadas do agente de IA apare",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/",
-      "published": "2026-09-02T19:30:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falha no plugin de backup do WordPress expõe milhões de sites a ataques de controle",
-      "summary": "Uma vulnerabilidade de injeção de SQL no plug-in All-in-One WP Migration and Backup para WordPress pode permitir que invasores não autenticados executem código remoto e assumam o controle dos sites afetados. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
-      "published": "2026-09-02T19:28:46+00:00",
-      "image": ""
-    },
-    {
-      "title": "Google, Anthropic e OpenAI revelam modelos de IA cibernética, salvaguardas e programas de acesso",
-      "summary": "O Google anunciou na quarta-feira o Gemini 3.8 Flash Cyber, que descreveu como seu modelo de segurança cibernética mais capaz, e o disponibilizou para um conjunto de defensores confiáveis ​​por meio de uma nova iniciativa chamada Programa Fairwind. \"O Programa",
-      "category": "CLOUD & IA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
-      "published": "2026-09-02T18:27:49+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu5sAuC-e7tUigtaAj0gicqzy_kWZTZRujpV3IxqGW1wr_VCuXbKXG7M-nNIac5QO2GY_KtEQ8HfnUENc6JZpS8haeGQIvOH4EddDvrQTJwXY2kkZcz41JbeT1_YhVuyrArJV4sUB3hrT9dFIazMbT-_8hLxg0jrQzHLPLv_h3bNb98puP5yVwgA1zoIsQ/s1600/aiai.jpg"
     }
   ]
 }
