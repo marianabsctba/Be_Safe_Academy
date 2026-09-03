@@ -1,9 +1,90 @@
 {
-  "updated_at": "2026-09-03T16:31:26.953395+00:00",
+  "updated_at": "2026-09-03T21:07:18.851817+00:00",
   "items": [
     {
-      "title": "Dados do Manchester Airports Group sobre 8,8 milhões de pessoas vazaram após recusa de resgate",
-      "summary": "O grupo de hackers publicou cerca de 550 GB de dados depois que a MAG se recusou a pagar um pedido de resgate; o grupo diz que obteve acesso por meio de chaves de administrador expostas. A postagem Dados do Manchester Airports Group sobre 8,8 milhões de pessoa",
+      "title": "Introducing context-aware vulnerability discovery and remediation with Cloudflare Managed Defense and OpenAI Daybreak models",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "Cloudflare Security",
+      "url": "https://blog.cloudflare.com/vulnerability-discovery-remediation/",
+      "published": "2026-09-03T21:03:02+00:00",
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M1JDYW2RHXMJDDXS13K6VESF.01M1JDYX370D7EV4BHCDQS4C6J.png"
+    },
+    {
+      "title": "Large Enterprises Targeted in Fake Merger & Acquisition Scams",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/large-enterprises-fake-merger-acquisition-scams",
+      "published": "2026-09-03T20:18:14+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt006c86eb4bc5e69b/6a99c21172642e574d2f52ff/NDA-William_Potter-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Coder's registry infrastructure compromised to push malicious modules",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
+      "published": "2026-09-03T20:04:24+00:00",
+      "image": ""
+    },
+    {
+      "title": "What We Missed: Did ShinyHunters 'Breach' ReliaQuest?",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest",
+      "published": "2026-09-03T19:42:39+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt04917d22b035a07c/6a99bfc6e564e71c991d4f19/vishing-FranRodriguez-Getty-1387702656.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
+      "published": "2026-09-03T18:28:12+00:00",
+      "image": ""
+    },
+    {
+      "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
+      "published": "2026-09-03T18:02:47+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUcEnh-e0_L2Oz7JQcSCFBd90F29Z7_wHbJYiWOxWeZTeLLHbRZYK6vt1PrcUOgSFei7fxLMnP2lp0QyEOW2rzfcsnBFhayNHtKLPtHJFsu55w_GxuA3XLkZf-kleynMxXjc8zELZt7FBZFdqCAtesj3Fj148fwlGitAxZxu6t1wZDb7wgZQ1MR-Vmc4FL/s1600/threats-main.jpg"
+    },
+    {
+      "title": "The story behind the intelligence",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "Cisco Talos",
+      "url": "https://blog.talosintelligence.com/the-story-behind-the-intelligence/",
+      "published": "2026-09-03T18:00:13+00:00",
+      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/threat_source.jpg"
+    },
+    {
+      "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/",
+      "published": "2026-09-03T16:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
+      "published": "2026-09-03T15:52:07+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj9su2Wd6Yb88IvMpg5v1P8IyPg4KWKTeBXjerFgxz0U5WLKO2U50jymR-fKujsKeMFZ3q1VEupMRFZUz5gD47JRzVceagYJJ3bCTT8t532rY63po54kanBCPX4_hmKsxe-1b52IGrYc__TH5Y2F13G6L32HNKPQxL34iqzEPuBGynDCu6xFdKHplXvdY/s1600/cisco-flaws.jpg"
+    },
+    {
+      "title": "Manchester Airports Group Data on 8.8 Million People Leaked After Ransom Refusal",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/manchester-airports-group-data-on-8-8-million-people-leaked-after-ransom-refusal/",
@@ -11,8 +92,26 @@
       "image": ""
     },
     {
-      "title": "Capsule Security lança ‘AI Circuit Breaker’ para impedir agentes desonestos",
-      "summary": "Novos modelos, treinados usando NVIDIA Nemotron 3 Ultra, visam detectar o comportamento de agentes não autorizados antes de sua execução, sem a latência da revisão de modelos grandes. A postagem Capsule Security lança ‘AI Circuit Breaker’ para impedir agentes ",
+      "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
+      "published": "2026-09-03T15:26:47+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9vYkFCrVzaEl0WQj4XBILj6pIxDJ92eWgVrkOa_pdvJJoKF95JCX7VmQzY0HPZkhg5IMvjfCu15YCs5AMJ22NM6SBX7j7sCgpfiaUZZAL4Uc5vP0-q9VKN4LNSY4a701mmRCgLJQxCjnmnsSAxD7gFnyf9-dRaSxPZuGqLuOIQ415vCOjH-DZRtYSBHA/s1600/access-for-sale.jpg"
+    },
+    {
+      "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE13RVV5WkRzRkt3ZDF6T2MxVGVVdGw2UXMtX09qcDVMbnY0NWljenpCN3ljX3RTUG1YclJuS1VVTEZBRDNXdzBLUm15YVM1Skgtai1pZW56aDRFcVFiOEhyLXdLWXVkWXU0eWNtcTBfaGlORzBaZ2hUWElwVWpfZw?oc=5",
+      "published": "2026-09-03T15:26:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Capsule Security Launches ‘AI Circuit Breaker’ to Stop Rogue Agents",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "DEFESA",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/capsule-security-launches-ai-circuit-breaker-to-stop-rogue-agents/",
@@ -20,8 +119,8 @@
       "image": ""
     },
     {
-      "title": "Falha crítica do Elementor Pro explorada para assumir o controle de sites WordPress",
-      "summary": "Uma vulnerabilidade crítica recentemente corrigida (CVE-2026-32475) no plugin Elementor Pro para WordPress está sendo explorada em ataques que entregam uma carga útil do webshell e executam comandos arbitrários no servidor. [...]",
+      "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
@@ -29,8 +128,17 @@
       "image": ""
     },
     {
-      "title": "AI ‘Machine Speed’ reduz ataque de 2 semanas para 10 horas",
-      "summary": "O incidente demonstra como os agentes de IA de ponta podem comprimir drasticamente o cronograma de um ataque e coordenar uma violação em grande escala, de acordo com os pesquisadores.",
+      "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
+      "published": "2026-09-03T14:39:05+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX1nx19KbhbT0_rYFjMzqgJuG35q7QvJiMrikolTZV9sWztkSoSFUr95E-h-9vHv-GBGmRHAyh5Du0DDMYMr1m0VbD5YgYO6dVoY7p8d6Z5BbORiBOGgJfZjg4euf9uwUkGO4ZX8QZXUpuU0CFUwNV46UozcdMJ9SyZ4T4cy4pAI9ho7xYQ8cDJaFdfKM/s1600/reuters.jpg"
+    },
+    {
+      "title": "AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours",
@@ -38,8 +146,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaeb9af6be92c2692/6a9957f44e3e378865d50a6b/working-with-AI-agents-ImageFlow-shutterstock.png?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "A senha do seu funcionário apareceu em um registro do Infostealer. E agora?",
-      "summary": "Os infostealers podem expor muito mais do que senhas, incluindo sessões autenticadas que podem permitir que invasores contornem a MFA. Flare explica como os defensores podem priorizar identidades comprometidas, determinar se o acesso roubado ainda pode ser usa",
+      "title": "Your Employee’s Password Appeared in an Infostealer Log. Now What?",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
@@ -47,120 +155,12 @@
       "image": ""
     },
     {
-      "title": "HiddenLayer levanta US$ 100 milhões para segurança de tempo de execução de IA",
-      "summary": "A empresa sediada em Austin investirá em recursos de segurança de tempo de execução de agentes para proteger os agentes de codificação de IA. A postagem HiddenLayer levanta US$ 100 milhões para AI Runtime Security apareceu pela primeira vez na SecurityWeek.",
+      "title": "HiddenLayer Raises $100 Million for AI Runtime Security",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "CLOUD & IA",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/hiddenlayer-raises-100-million-for-ai-runtime-security/",
       "published": "2026-09-03T12:17:30+00:00",
-      "image": ""
-    },
-    {
-      "title": "AI Agent Firewall Startup AIR Security emerge do sigilo com US$ 50 milhões",
-      "summary": "O firewall da startup avalia habilidades de IA, plug-ins e servidores MCP em busca de instruções maliciosas, permissões excessivas e riscos na cadeia de fornecimento de software. A postagem AI Agent Firewall Startup AIR Security emerge do stealth com US$ 50 mi",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ai-agent-firewall-startup-air-security-emerges-from-stealth-with-50-million/",
-      "published": "2026-09-03T12:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "'Breeze Comet' atinge os sistemas financeiros brasileiros e globais",
-      "summary": "O grupo de ameaças mais sofisticado do Brasil está simplificando o trabalho dos sistemas financeiros do país, colocando dinheiro diretamente em seu próprio bolso.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/threat-intelligence/breeze-comet-brazilian-global-financial-systems",
-      "published": "2026-09-03T12:00:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta8d176cc1b018d8c/6a988a8143fb84770fcc31de/Brazil-Gwengoat-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "EUA se tornam o principal alvo da campanha de phishing RMM abrangendo 46 países",
-      "summary": "Uma campanha de phishing RMM inicialmente associada à segmentação canadense devido ao uso de formulários fiscais da Agência de Receitas do Canadá (CRA) como iscas acabou por fazer parte de uma campanha mais ampla que abrange 46 países. Cerca de 45% da atividad",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
-      "published": "2026-09-03T11:58:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_OZ4yHwsQM1Z9se2g-uJPuSkiSNpmyWCCi_a9dKpH9jnTuFYyts16e2gdkB45YknrA-nuzp6-mbEi-1adV92N-7aBjfYL69ECPlWOV7a5xb5rG6kqsMzc3WJ0-lXLBMO86aB3WTJ6MFLR0N0YbC8TElIg0-Jh6SIDe8mc3nCyzoE6zugVDFHFfjPEGkI/s1600/targets.jpg"
-    },
-    {
-      "title": "EUA se tornam o principal alvo da campanha de phishing RMM abrangendo 46 países - The Hacker News",
-      "summary": "EUA se tornam o principal alvo da campanha de phishing RMM abrangendo 46 países The Hacker News",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNGQzTmVZM3EyYkhXSlRzbEpPNGNyMGxsNDhBVVBPOHItdXhjb0ZJUnZoQjVPMzdaRU5mSGluUk5ya1oxWGdYb1o1aThMd3J6RHJoQk94SVNfcWI1Yk5XM2FPMmZVRVZ3MEpOTGNjY01feUxIY3ZfOG5saW5oazVfUXRR?oc=5",
-      "published": "2026-09-03T11:58:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Plex alerta os usuários para corrigir vulnerabilidades de segurança imediatamente",
-      "summary": "Plex pediu aos usuários esta semana que atualizassem seus clientes de desktop e servidores de mídia imediatamente para corrigir várias vulnerabilidades de segurança. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/",
-      "published": "2026-09-03T11:02:22+00:00",
-      "image": ""
-    },
-    {
-      "title": "153 milhões de imagens de carteira de motorista oferecidas na Dark Web",
-      "summary": "Os cibercriminosos estão oferecendo digitalizações de carteiras de motorista dos EUA e do Canadá, provavelmente roubadas do IDScan.net. A postagem 153 milhões de imagens de carteira de motorista oferecidas na Dark Web apareceu pela primeira vez na SecurityWeek",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/",
-      "published": "2026-09-03T10:54:18+00:00",
-      "image": ""
-    },
-    {
-      "title": "Atacantes transformam tempo de execução confiável do Node.js em ferramenta de entrega de malware em ataques direcionados",
-      "summary": "Os agentes de ameaças estão aproveitando o tempo de execução JavaScript confiável do Node.js em vários ataques cibernéticos como uma forma de implantar cargas maliciosas. De acordo com um novo relatório publicado hoje pela equipe Symantec Threat Hunter, o méto",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
-      "published": "2026-09-03T10:43:01+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixQdi-o7wSstsDvvGluX8EDCUhGUHwpKjSkMSaigZZkFOEI_mWS0kLYvjSaG9olG2Y8GYxqH2kKRUtT82RVMLfW-FuBdrWMbGSfJMVVK3YAL3FClWT6t0Dz33NzHEYK1dL93JLl7YzyETY1i9ZYpRty-BG5Vfk_vGUggKigBtpQZxKuUW8-Jg3m9xZV8BL/s1600/jsnode.jpg"
-    },
-    {
-      "title": "Atacantes transformam tempo de execução confiável do Node.js em ferramenta de entrega de malware em ataques direcionados - The Hacker News",
-      "summary": "Atacantes transformam tempo de execução confiável do Node.js em ferramenta de entrega de malware em ataques direcionados The Hacker News",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMThmM29ibXRaUGJNbkM2OFBVTTY5QU9ueTNISXpLbmlsV0wwc2h2RGVUUkVwcmN3X2NPdFpBUFhBNkZueUpwTlFFOFlOU3VaS0lFTzd2ZTdZS2tCaFNmNGwyQmhtYXVuQjhJd2pkbVQ4NUoyQkxZYkVkWVhFME85ZjVB?oc=5",
-      "published": "2026-09-03T10:43:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Mais de 3 milhões de sites WordPress afetados pela vulnerabilidade do plug-in de migração",
-      "summary": "A falha de injeção SQL de alta gravidade (CVE-2026-19949) pode permitir que invasores não autenticados realizem a execução remota de código. A postagem Mais de 3 milhões de sites WordPress afetados pela vulnerabilidade do plug-in de migração apareceu pela prim",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/",
-      "published": "2026-09-03T10:40:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "O alcance de Shai-Hulud acaba de crescer para 469 locais de credenciais. Aqui está o que isso significa",
-      "summary": "No início de agosto, os pesquisadores do GitGuardian descobriram que uma variante recente do worm infostealer Shai-Hulud evoluiu para verificar credenciais em 469 locais em ambientes de desenvolvedor, ferramentas de integração contínua/implantação contínua (CI",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
-      "published": "2026-09-03T10:36:39+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfx0JCqLgANXGkgF5NMg__RxJg5IJ8HgQcvr_2zxEM6HSYzesKdLjKbrqmtAegyIpBmLxnryF5CeJlRh4J09q3e1kOo8dEzGXjhQpunnmGoL6wzEW_6R7lsN4zE5IybADP50VCjGGrBercYm6OIMCYsSgbHJ6sN9AYY3v6kCqPof8TWzR2O_ybViE1aYo/s1600/Shai-Hulud.gif"
-    },
-    {
-      "title": "Cisco alerta sobre falhas de e-mail seguro não corrigidas e corrige vulnerabilidades críticas de switches",
-      "summary": "Falhas S/MIME divulgadas publicamente podem expor o conteúdo de e-mail criptografado, enquanto bugs críticos do IOS XR e do Nexus podem permitir a execução remota de código e o desvio de autenticação. A postagem Cisco alerta sobre falhas de e-mail seguro não c",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/",
-      "published": "2026-09-03T10:30:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft Teams e Outlook não conseguem iniciar em PCs Windows baseados em ARM",
-      "summary": "A Microsoft está trabalhando para corrigir um problema conhecido que causa travamentos e falhas de inicialização para usuários do Microsoft Teams e novos usuários do Outlook após a instalação de atualizações lançadas desde o patch de terça-feira de agosto de 2",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
-      "published": "2026-09-03T08:55:25+00:00",
       "image": ""
     }
   ]
