@@ -1,9 +1,90 @@
 {
-  "updated_at": "2026-09-03T04:39:41.301642+00:00",
+  "updated_at": "2026-09-03T11:23:42.599467+00:00",
   "items": [
     {
-      "title": "Impersonating IT support: how threat actors turn a remote session into enterprise-wide access",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Plex alerta os usuários para corrigir vulnerabilidades de segurança imediatamente",
+      "summary": "Plex pediu aos usuários esta semana que atualizassem seus clientes de desktop e servidores de mídia imediatamente para corrigir várias vulnerabilidades de segurança. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/",
+      "published": "2026-09-03T11:02:22+00:00",
+      "image": ""
+    },
+    {
+      "title": "153 milhões de imagens de carteira de motorista oferecidas na Dark Web",
+      "summary": "Os cibercriminosos estão oferecendo digitalizações de carteiras de motorista dos EUA e do Canadá, provavelmente roubadas do IDScan.net. A postagem 153 milhões de imagens de carteira de motorista oferecidas na Dark Web apareceu pela primeira vez na SecurityWeek",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/153-million-driver-license-images-offered-on-dark-web/",
+      "published": "2026-09-03T10:54:18+00:00",
+      "image": ""
+    },
+    {
+      "title": "Mais de 3 milhões de sites WordPress afetados pela vulnerabilidade do plug-in de migração",
+      "summary": "A falha de injeção SQL de alta gravidade (CVE-2026-19949) pode permitir que invasores não autenticados realizem a execução remota de código. A postagem Mais de 3 milhões de sites WordPress afetados pela vulnerabilidade do plug-in de migração apareceu pela prim",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/",
+      "published": "2026-09-03T10:40:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Cisco alerta sobre falhas de e-mail seguro não corrigidas e corrige vulnerabilidades críticas de switches",
+      "summary": "Falhas S/MIME divulgadas publicamente podem expor o conteúdo de e-mail criptografado, enquanto bugs críticos do IOS XR e do Nexus podem permitir a execução remota de código e o desvio de autenticação. A postagem Cisco alerta sobre falhas de e-mail seguro não c",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/cisco-warns-of-unpatched-secure-email-flaws-patches-critical-switch-vulnerabilities/",
+      "published": "2026-09-03T10:30:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft Teams e Outlook não conseguem iniciar em PCs Windows baseados em ARM",
+      "summary": "A Microsoft está trabalhando para corrigir um problema conhecido que causa travamentos e falhas de inicialização para usuários do Microsoft Teams e novos usuários do Outlook após a instalação de atualizações lançadas desde o patch de terça-feira de agosto de 2",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/",
+      "published": "2026-09-03T08:55:25+00:00",
+      "image": ""
+    },
+    {
+      "title": "Exploração de spyware Pegasus Zero-Click infecta iPhone de membro do movimento estudantil sérvio",
+      "summary": "O iPhone pertencente a um membro do movimento de protesto estudantil da Sérvia foi infectado com o spyware Pegasus do Grupo NSO, de acordo com novas descobertas do Citizen Lab em colaboração com a SHARE Foundation. “Nossa análise confirmou que uma exploração d",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
+      "published": "2026-09-03T08:43:17+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaEvtAyNP-TiY3M6wMUFNKymiK_BeQH_MEIzeFf79X0fNFV0gyV3MiegzULqTG6bC-20nprEpTHySkf3Hf0N72sLy-oVN6_ndqU4OwSm37Cx0OYrr2MbzpiII3ly4tEv891mjYhbSV18Eg94BBSitXG8XnON3QjpRqGkErk15L1FoeYT94R8WGlK8xUuJt/s1600/iphone-exploit.jpg"
+    },
+    {
+      "title": "Pesquisador lança FalconFlank PoC mostrando escalonamento de privilégios no CrowdStrike Falcon",
+      "summary": "O pesquisador de segurança conhecido como Chaotic Eclipse (também conhecido como INFINITE NIGHTMARE, MSNightmare e Nightmare-Eclipse) lançou um novo dia zero chamado FalconFlank, uma falha de escalonamento de privilégios que afeta o Crowdstrike Falcon. “Falcon",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
+      "published": "2026-09-03T06:26:59+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmg6caSDWQVOPIIl9NAXS4ofXmOdWz1eIGPMKMLCbHXc_uWiv11QNh2k-f43JAoVVQNMQj54d2yqJ_iO9vzwIO8nvQIyxr7N6GDCKsYDmSJEpyjiUBsY-zhMcmfEsWcEqDrKvrEkXxQC1LPldFXkqbJHO81V7oHnsRtuyjMZKzubBjwrK_yQ2xT2om89Ja/s1600/windows-exploit.jpg"
+    },
+    {
+      "title": "CISA adiciona sete falhas exploradas à medida que invasores implantam shells reversos e mineradores de criptografia",
+      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) adicionou na quarta-feira sete falhas de segurança ao seu catálogo de Vulnerabilidades Exploradas Conhecidas (KEV) depois que elas caíram na mira dos invasores. As vulnerabilidades são as se",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
+      "published": "2026-09-03T05:19:04+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaGEC2JQn3dU5muXzZhp9ouduHJ5hE4vWW4zHDomXp7hJ3hHafGPmMU33aKs7A8dwhvqsMiwh8PNi4GUNzH635enPZT3oPdcZejqkA9vpPYbQTLZaAhzAVAuUFksC4mCNX6SRUzUx1vhSxokKBz9RBGXXOBJshSXfYLIox2OCi2htQdcmyDJDMvWTamC8/s1600/cisa.jpg"
+    },
+    {
+      "title": "CISA adiciona sete falhas exploradas à medida que invasores implantam shells reversos e mineradores de criptografia - The Hacker News",
+      "summary": "CISA adiciona sete falhas exploradas à medida que invasores implantam shells reversos e mineradores de criptografia The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NdVZYenoxdEdpdGp2ZUtyeHQySDdrUTd2ZFJKbFJDWTR0N3hDUGMyTVZVUjVyQUFWTVZDbWlRMEtEV3N6bHpBYzdDVWRoLTctMmtrU1BIZlRmb1FqWHc0LXBmTGJpX1lMR2w3di02TWlsamNXTVkyalV2MDVpQQ?oc=5",
+      "published": "2026-09-03T05:19:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Representando o suporte de TI: como os agentes de ameaças transformam uma sessão remota em acesso para toda a empresa",
+      "summary": "O Microsoft Threat Intelligence observou uma campanha de intrusão operada por humanos que abusa da colaboração externa do Microsoft Teams para se passar por suporte de TI, obter acesso remoto e implantar um implante baseado em Node.js. Saiba como os invasores ",
       "category": "AMEAÇAS",
       "source": "Microsoft Security",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/",
@@ -11,8 +92,17 @@
       "image": ""
     },
     {
-      "title": "AI’s Vulnerability Surge May Be More Manageable Than First Feared",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "O aumento de vulnerabilidade da IA ​​pode ser mais gerenciável do que se temia inicialmente – Dark Reading",
+      "summary": "O aumento de vulnerabilidade da IA ​​pode ser mais gerenciável do que a primeira leitura sombria temida",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ0Z0OHhGdllub0RxZkV2ZDFybkN0UENJaVFDcTV1N08xT0xFYkRmWVlZemd3bUFsNmVtdzJiZ0FvQmo3Q01tc2JWcEFtdHVMSVBGbnctcF9YR3BsZ0lqTEtaeVU0R2hOUXNPazBZOUFpRFEwVnRFaTZsd0Y3YjlVb2p2bUFLanItcVZEekRvZ3J2bXI1T0pud0hvQ2VFY1MwSlE?oc=5",
+      "published": "2026-09-02T21:53:38+00:00",
+      "image": ""
+    },
+    {
+      "title": "O aumento de vulnerabilidade da IA ​​pode ser mais gerenciável do que se temia inicialmente",
+      "summary": "Uma nova pesquisa sugere que o próximo Vulnpocalypse pode não ser tão esmagador para as equipes de segurança corporativa – se elas tiverem as estratégias certas.",
       "category": "VULNERABILIDADES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/application-security/ai-vulnerability-surge-manageable-than-first-feared",
@@ -20,8 +110,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte6af1f929e3d31c4/6a9884c2f1ca2225aef25fe1/claude_FotoField_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Hackers exploram falha Sangoma Switchvox para implantar shells reversos",
+      "summary": "Os invasores estão explorando ativamente o CVE-2026-9586, uma vulnerabilidade de injeção SQL não autenticada na plataforma VoIP Sangoma Switchvox que pode levar à execução remota de código. [...]",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
@@ -29,8 +119,8 @@
       "image": ""
     },
     {
-      "title": "SonicWall SMA 1000 Zero-Days Enable Unauthenticated RCE",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "SonicWall SMA 1000 Zero-Days habilita RCE não autenticado",
+      "summary": "A atividade de exploração segue ataques no início deste verão a duas outras vulnerabilidades de dia zero nos dispositivos de ponta do fornecedor.",
       "category": "VULNERABILIDADES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/vulnerabilities-threats/sonicwall-sma-1000-zero-days-unauthenticated-rce",
@@ -38,8 +128,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0cc4f85814cf1849/6a9871830d1dd21ef2d9772c/barbed_wire_fence-dzika_mrowka-GettyImages-175913576.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "AI Gives Cybercriminals a Dangerous Time Advantage",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "IA dá aos cibercriminosos uma vantagem de tempo perigosa",
+      "summary": "O ex-criminoso cibernético Brett Johnson oferece uma visão interna da mente de um ator de ameaça e discute onde a IA oferece mais valor para os invasores.",
       "category": "AMEAÇAS",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/threat-intelligence/ai-gives-cybercriminals-dangerous-time-advantage",
@@ -47,8 +137,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdcb9093a068b61f4/6a9742405acd0c12e2c414bc/cybercriminal1800_dem10_GettyImages-2153654043.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "OpenLeash Adds a Human Check to Risky AI Agent Actions",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "OpenLeash adiciona uma verificação humana às ações arriscadas do agente de IA",
+      "summary": "A ferramenta de segurança intercepta ações potencialmente perigosas de agentes, bloqueando ameaças claras e solicitando aprovação humana quando a intenção é incerta. A postagem OpenLeash adiciona uma verificação humana às ações arriscadas do agente de IA apare",
       "category": "AMEAÇAS",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/openleash-adds-a-human-check-to-risky-ai-agent-actions/",
@@ -56,8 +146,8 @@
       "image": ""
     },
     {
-      "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Falha no plugin de backup do WordPress expõe milhões de sites a ataques de controle",
+      "summary": "Uma vulnerabilidade de injeção de SQL no plug-in All-in-One WP Migration and Backup para WordPress pode permitir que invasores não autenticados executem código remoto e assumam o controle dos sites afetados. [...]",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
@@ -65,103 +155,13 @@
       "image": ""
     },
     {
-      "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Google, Anthropic e OpenAI revelam modelos de IA cibernética, salvaguardas e programas de acesso",
+      "summary": "O Google anunciou na quarta-feira o Gemini 3.8 Flash Cyber, que descreveu como seu modelo de segurança cibernética mais capaz, e o disponibilizou para um conjunto de defensores confiáveis ​​por meio de uma nova iniciativa chamada Programa Fairwind. \"O Programa",
       "category": "CLOUD & IA",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
       "published": "2026-09-02T18:27:49+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu5sAuC-e7tUigtaAj0gicqzy_kWZTZRujpV3IxqGW1wr_VCuXbKXG7M-nNIac5QO2GY_KtEQ8HfnUENc6JZpS8haeGQIvOH4EddDvrQTJwXY2kkZcz41JbeT1_YhVuyrArJV4sUB3hrT9dFIazMbT-_8hLxg0jrQzHLPLv_h3bNb98puP5yVwgA1zoIsQ/s1600/aiai.jpg"
-    },
-    {
-      "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "CLOUD & IA",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE42YzZVZWJvNVN5MnFiNl9zVXVadzBVTi1xaHVId0Q5SnJfck5NVG9RS3RsWmJvaWlheWdmUV9QeFRqV0lWTnFTYTVhM3U2NU0xV1AtZ2R3NWRkVVlQOW9vZ3R4anpONVNhUnQ5ZFM0LXpqNEJEQXFsdjNWWEU2Zw?oc=5",
-      "published": "2026-09-02T18:27:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Threat Gang 'Springs' Vishing Attacks on Microsoft Teams Users",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/threat-gang-springs-vishing-attacks-microsoft-teams-users",
-      "published": "2026-09-02T16:51:21+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3c8192b6490626c0/6a981a98644fc5665f78add9/phone-Brian_Jackson-Alamy.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Fake Software Installers Disable Windows Update and Weaken Microsoft Defender",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/fake-software-installers-disable.html",
-      "published": "2026-09-02T16:41:06+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhKCtgI2bIF4kLY71qjkluS80XAm5YPA9y9GzTxC8XBTaxq1d42jyZ-bxAr7OlZ-wCc4-RDp_NmUPKxd9TS1dvtjt3gysB86SkMuQ5q6vGb7HTh-DVMNC8VJcJFC2sJmiSQ740SX-miCoyiGfkAXLqO1ySH3zenWcAP7g6ilReO9jRsnl3Tnw279K7NYF3/s1600/windows-updates.jpg"
-    },
-    {
-      "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
-      "published": "2026-09-02T15:47:08+00:00",
-      "image": ""
-    },
-    {
-      "title": "UK Moves to Block High-Risk Tech Suppliers From Critical Infrastructure",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/uk-moves-to-block-high-risk-tech-suppliers-from-critical-infrastructure/",
-      "published": "2026-09-02T15:45:08+00:00",
-      "image": ""
-    },
-    {
-      "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
-      "published": "2026-09-02T14:06:59+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlrspu4otI5zjtu2q78NDrwnqfbTv4jzqXhH-txAo8pCjXDPRJjLvfWpRyHvbimqVvAOZWI0pMVmu2jWVdETbh2csa2UkMHx0M2uu9cJkB0_E4x1mjjs_1F9RYZjozZQvIYN5Xux43DX1u0jCQE_Pk19yE8BnR_RxXN-QXmP5jf74ZQgE9uQVUONJoQKQ/s1600/aix.gif"
-    },
-    {
-      "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/",
-      "published": "2026-09-02T14:02:12+00:00",
-      "image": ""
-    },
-    {
-      "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
-      "published": "2026-09-02T13:44:16+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixn-0jJvMDlL85UUyW0E5PUDeUnMbGMxZJEnJMOAXXAuiqD-e1D9IoZdYsNwwDY16NA7x7GFHzVrx6LqJU7u7ywR50UWP4DGybNAhTlLPeAiBcVwVUJPgV1KbD1u0aUNy_468Y6gMQJ8FlnfGFlz_iCJcAeOeTiPViV1195lHwovULdtSBlsvPWOGpNU8/s1600/check.jpg"
-    },
-    {
-      "title": "Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/",
-      "published": "2026-09-02T12:39:07+00:00",
-      "image": ""
-    },
-    {
-      "title": "Dropbox accounts breached through Lenovo email verification flaw",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
-      "published": "2026-09-02T12:30:22+00:00",
-      "image": ""
     }
   ]
 }
