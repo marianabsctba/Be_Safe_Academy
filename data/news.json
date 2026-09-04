@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T20:50:27.407583+00:00",
+  "updated_at": "2026-09-04T23:04:45.793107+00:00",
   "items": [
     {
       "title": "Como proteger a IA de ponta em ambientes de propriedade do cliente",
@@ -26,6 +26,15 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/",
       "published": "2026-09-04T16:18:30+00:00",
+      "image": ""
+    },
+    {
+      "title": "As empresas têm 6 meses para se preparar para ataques automatizados - darkreading.com",
+      "summary": "As empresas têm 6 meses para se preparar para ataques automatizados darkreading.com",
+      "category": "INCIDENTES",
+      "source": "darkreading.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSHB6RzdieTlnOXk2bkpxN3NReUZRM2VRVW13WUtKdUhPOUdGcHZhdDFpVFktc0pOMVhWY3BlQ2xWYWtSVkZZVi1xTV9ZMXJJbXdqUWxpTHRXVlc5alpOdXJ0MGRTUHIwWGl0NE9mMVlBSzhvZGl3Zlh1QURoamtOUm10cERZOXhIYnNOUXV3RkRaX0t1OTRQQW1GRUE3YjI1?oc=5",
+      "published": "2026-09-04T16:12:12+00:00",
       "image": ""
     },
     {
@@ -101,6 +110,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzLyhHupZwRy1pOQzT93Qhs5waZ8gqtlgDJUKgt1f37dz3KqIDDZY8uNo8QguZNccBHivdA_ecnY8cQUyhZQAvLH4APu3imxP-rwo2dYLZtKnJ92IkRPFmwepmJgRk9GrLrJiN_IbInwvNXaW7N5761YfEB1IIK4uDdNBTy6Koz8uXgOSXaQWixXM1Wts/s1600/HAProxy.jpg"
     },
     {
+      "title": "Novo backdoor Ted se esconde dentro das próprias construções HAProxy das vítimas para interceptar o tráfego da Web - The Hacker News",
+      "summary": "Novo backdoor Ted se esconde dentro das próprias construções HAProxy das vítimas para interceptar o tráfego da Web The Hacker News",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaHBZQnJ0cndWR2pKa1JNallLNl80MkI1VnlxU0pHZEg0ZHdXc2w2ZHlWT3l5YlVodlhrTFJoVXBGTVJFZkttYl82Qk42eFRwNkR5YnZfY3o4S1pqT0pQQnA5ZFF1QlNDV0VtcGIwdFBPRjdzRk5fUExwWkJqeUJNdUp3?oc=5",
+      "published": "2026-09-04T14:51:00+00:00",
+      "image": ""
+    },
+    {
       "title": "39 novos métodos que comprometem a autenticação por chave de acesso",
       "summary": "As chaves de acesso eliminam muitos ataques baseados em senhas, mas os pesquisadores documentaram 39 métodos para comprometer a autenticação construída em torno delas. Token explica como os invasores podem abusar dos prompts de autenticação, credenciais sincro",
       "category": "INCIDENTES",
@@ -143,24 +161,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/catch-raises-5-million-for-ai-executive-assistant-with-guardrails/",
       "published": "2026-09-04T11:55:17+00:00",
-      "image": ""
-    },
-    {
-      "title": "Google alerta sobre nova falha de dia zero do Chrome explorada em ataques",
-      "summary": "O Google atualizou o navegador Chrome para resolver uma falha de dia zero de alta gravidade explorada ativamente no mecanismo V8 e 11 outras vulnerabilidades. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
-      "published": "2026-09-04T11:48:17+00:00",
-      "image": ""
-    },
-    {
-      "title": "Vulnerabilidade crítica de patch de atualizações de VMware Workstation e Fusion",
-      "summary": "As falhas podem permitir que invasores com acesso administrativo a uma máquina virtual executem código no sistema host. A postagem Vulnerabilidade crítica do patch de atualizações do VMware Workstation e Fusion apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/",
-      "published": "2026-09-04T11:42:55+00:00",
       "image": ""
     }
   ]
