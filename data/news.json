@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-04T16:27:50.879870+00:00",
+  "updated_at": "2026-09-04T20:50:27.407583+00:00",
   "items": [
+    {
+      "title": "Como proteger a IA de ponta em ambientes de propriedade do cliente",
+      "summary": "À medida que a IA avança para ambientes de propriedade do cliente, as organizações precisam de novas maneiras de verificar os sistemas, software e ativos de IA em que confiam antes de liberar dados, credenciais e modelos confidenciais. A postagem Como proteger",
+      "category": "CLOUD & IA",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/",
+      "published": "2026-09-04T19:10:10+00:00",
+      "image": ""
+    },
+    {
+      "title": "IDScan processou por suposta violação de dados que afetou 153 milhões de motoristas",
+      "summary": "Vários processos foram movidos contra a empresa de verificação de identidade IDScan depois que hackers supostamente violaram o serviço e se ofereceram para vender mais de 153 milhões de carteiras de motorista. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
+      "published": "2026-09-04T16:56:45+00:00",
+      "image": ""
+    },
     {
       "title": "Em outras notícias: patches de nuvem da Microsoft, contas hackeadas do Dropbox, avaliação de US$ 1,1 bilhão do Guardio",
       "summary": "Histórias dignas de nota que podem ter passado despercebidas: a Microsoft lançou patches para serviços em nuvem, hackers comprometeram 5.000 contas do Dropbox e Guardio está agora avaliado em US$ 1,1 bilhão. A postagem Em outras notícias: patches de nuvem da M",
@@ -29,7 +47,7 @@
       "image": ""
     },
     {
-      "title": "As empresas têm seis meses para se preparar para ataques automatizados",
+      "title": "As empresas têm 6 meses para se preparar para ataques automatizados",
       "summary": "Os modelos de Frontier AI já demonstraram que podem de forma autónoma – e em alguns casos, inadvertidamente – realizar compromissos de ponta a ponta, mas a situação tornar-se-á mais urgente muito em breve.",
       "category": "INCIDENTES",
       "source": "Dark Reading",
@@ -47,6 +65,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoD4eMYuhLT8HvcHbYe8A4hkhmDH1f4pIWTIm5AXKueqdpY1NS8yNiTtlzS4mdIS8PLY8_zM1uQDNpO1U49HCUoJT8nn2Bpb6krpcYpOSQ3H3Z6fUsm-UkoFvj8fk8oShK0eUhO6px8hox_ZzlnX8tu0pJKpJ3UAF2Vcb3XyBXjCt_8uD8OOkMMgUjv8Pc/s1600/emails.jpg"
     },
     {
+      "title": "Campanha de phishing envia milhões de e-mails usando Unicode invisível para escapar de filtros - The Hacker News",
+      "summary": "Campanha de phishing envia milhões de e-mails usando Unicode invisível para escapar de filtros The Hacker News",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYS3VvcXJEUDhlNWMxN3NwXzhacTFxWmJRRDV6dG5QV3NneFpNSXQyMGJTbXR2ZWRTT3ZyekowQmhHRVd0N3laMzh5T1p0eXk3STdLZmFETkZIdFAyZ3N5OHFSM1RJMkJmSHdwdkl3bDYwaGR1XzlaeHNOVVRLN2M?oc=5",
+      "published": "2026-09-04T15:57:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Desvio crítico de autenticação do Citrix NetScaler agora aproveitado em ataques",
       "summary": "Os invasores começaram a atacar uma falha de desvio de autenticação do Citrix NetScaler de gravidade crítica (CVE-2026-19490) em estado selvagem, de acordo com a empresa de inteligência de vulnerabilidade Previdian. [...]",
       "category": "VULNERABILIDADES",
@@ -56,7 +83,7 @@
       "image": ""
     },
     {
-      "title": "PostgreSQL corrige falha de decodificação lógica de 12 anos, permitindo a execução de código de função de replicação",
+      "title": "PostgreSQL corrige falha de decodificação lógica de 12 anos, permitindo execução de código de função de replicação",
       "summary": "O PostgreSQL lançou atualizações para solucionar uma falha de segurança que permite que uma conta com o atributo REPLICATION execute código arbitrário como o usuário do sistema operacional que executa o servidor de banco de dados. A falha, rastreada como CVE-2",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
@@ -92,7 +119,7 @@
       "image": ""
     },
     {
-      "title": "Novo dia zero CrowdStrike ‘FalconFlank’ concede privilégios SYSTEM",
+      "title": "Novo dia zero CrowdStrike 'FalconFlank' concede privilégios de SYSTEM",
       "summary": "Um pesquisador de segurança anônimo que usa o identificador “Nightmare Eclipse” lançou uma exploração de dia zero do CrowdStrike Falcon chamada “FalconFlank” que permite que invasores aumentem privilégios em sistemas Windows atualizados. [...]",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
@@ -102,19 +129,10 @@
     },
     {
       "title": "Vulnerabilidade do PostgreSQL de 12 anos permite controle de banco de dados e servidor",
-      "summary": "Apelidado de PostGREShell, o CVE-2026-6471 transforma o acesso de replicação de baixo nível em execução de código, privilégios permanentes de superusuário e um backdoor de banco de dados persistente. A postagem Vulnerabilidade do PostgreSQL de 12 anos permite ",
+      "summary": "Chamado de PostGREShell, o CVE-2026-6471 transforma o acesso de replicação de baixo nível em execução de código, privilégios permanentes de superusuário e um backdoor de banco de dados persistente. A postagem Vulnerabilidade do PostgreSQL de 12 anos permite ba",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/",
-      "published": "2026-09-04T12:06:13+00:00",
-      "image": ""
-    },
-    {
-      "title": "Vulnerabilidade do PostgreSQL de 12 anos permite controle de banco de dados e servidores - SecurityWeek",
-      "summary": "Vulnerabilidade do PostgreSQL de 12 anos permite controle de banco de dados e servidores SecurityWeek",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ0NfNWV2ajlrVU9iZ3J6bDZta29rSy13QUhaVmttR3FXZE5UdkM2WkN4eGFlZks5bFdQWnlIMVJjMXNkazhlelNsMnlkYXhiRlhkYjJuOGtZNU1CWWtOTDBCU0VwbG56Y2Q4LS0tZWV6T3RCZEVkTkRlcHdKeXdRVzh5WjNLQjlRQUNFMjFuRnF0MHhTYS00bVNRcjlodzcz0gGmAUFVX3lxTE1Wa2R3XzE2RTkxTG1KWVRIc0dZbFV6VGVjTW5nM21SeXZtZzQ1QWh0bGRpZkk5V1JfR1VNRG5KT2UtWWlYdGg4RFRkUnpsa0F1dzMtdFFhZnNaWmcwZ2RlNkI5TDJQOG1vWGE5S2o5YUxDSjVlcUhUVzZ2a0ZPUkZ4aHlzMF9rcHA1dXg4cllHU2J2Wl9qNkpRV29EdWlEQXQtUEthR3c?oc=5",
       "published": "2026-09-04T12:06:13+00:00",
       "image": ""
     },
@@ -138,29 +156,11 @@
     },
     {
       "title": "Vulnerabilidade crítica de patch de atualizações de VMware Workstation e Fusion",
-      "summary": "As falhas podem permitir que invasores com acesso administrativo a uma máquina virtual executem código no sistema host. A postagem Vulnerabilidade crítica de patch de atualizações de VMware Workstation e Fusion apareceu pela primeira vez em SecurityWeek.",
+      "summary": "As falhas podem permitir que invasores com acesso administrativo a uma máquina virtual executem código no sistema host. A postagem Vulnerabilidade crítica do patch de atualizações do VMware Workstation e Fusion apareceu pela primeira vez na SecurityWeek.",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/",
       "published": "2026-09-04T11:42:55+00:00",
-      "image": ""
-    },
-    {
-      "title": "Google corrige o 6º dia zero do Chrome de 2026",
-      "summary": "A atualização de segurança do Chrome 152 do Google resolve 12 vulnerabilidades, incluindo uma falha de confusão de alta gravidade no mecanismo V8. A postagem Google Patches 6º Chrome Zero-Day de 2026 apareceu pela primeira vez em SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/google-patches-6th-chrome-zero-day-of-2026/",
-      "published": "2026-09-04T11:31:52+00:00",
-      "image": ""
-    },
-    {
-      "title": "Nvidia está comprando AI Platform Hugging Face por US$ 13 bilhões",
-      "summary": "O acordo destaca o esforço da Nvidia para defender modelos de IA de código aberto cada vez mais populares. A postagem Nvidia está comprando AI Platform Hugging Face por US$ 13 bilhões apareceu pela primeira vez na SecurityWeek.",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/nvidia-is-buying-ai-platform-hugging-face-for-13-billion/",
-      "published": "2026-09-04T10:00:00+00:00",
       "image": ""
     }
   ]
