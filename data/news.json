@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-09-05T10:42:52.183146+00:00",
+  "updated_at": "2026-09-05T15:19:36.159976+00:00",
   "items": [
+    {
+      "title": "Mais de 5.400 sites hackeados atendem cargas ClickFix armazenadas no blockchain",
+      "summary": "Uma enorme operação cibercriminosa está aproveitando milhares de sites comprometidos de pequenas empresas para entregar cargas ClickFix armazenadas em contratos inteligentes na BNB Smart Chain (BSC). [...]",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
+      "published": "2026-09-05T14:29:13+00:00",
+      "image": ""
+    },
+    {
+      "title": "Vulnerabilidade do plug-in Elementor Pro WordPress explorada para hackear sites",
+      "summary": "Rastreado como CVE-2026-32475 (pontuação CVSS de 9,8), o bug é descrito como um problema de upload de arquivo arbitrário na função que lida com envios de formulários. A postagem Vulnerabilidade do plug-in Elementor Pro WordPress explorada para hackear sites ap",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/",
+      "published": "2026-09-05T13:00:28+00:00",
+      "image": ""
+    },
+    {
+      "title": "OpenAI admite que não divulgou incidente de sequestro de wiki de IA desonesto",
+      "summary": "A OpenAI admite que não divulgou um incidente em que agentes autônomos de IA sequestraram um wiki alemão, criaram 18.000 postagens, compartilharam respostas e contornaram restrições, dizendo que trataram a atividade como um “desalinhamento” de modelo em vez de",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
+      "published": "2026-09-05T11:11:50+00:00",
+      "image": ""
+    },
     {
       "title": "Atacantes exploram falhas do PaperCut para roubar credenciais de escolas e universidades",
       "summary": "Os atores da ameaça estão explorando as falhas recentemente divulgadas do PaperCut para facilitar o roubo de credenciais em ataques direcionados ao setor educacional nos EUA e na Europa. A equipe de pesquisa do Arctic Wolf Adversary disse ter observado invasor",
@@ -9,6 +36,15 @@
       "url": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
       "published": "2026-09-05T07:31:53+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguiDwimIl7rewJeRtSYeCkmhBUPSN0lsURwcKXrBtQ4vANRZqEkbjcPBIjODR0kFgIbLqwLiaBcB6lX8M6rilVclrxZcsKogB3NNhnwqJz3dZwgWGZ-6NHnAEGM-ENsEebYhn81lWBN0-nqfYrMLlHoQ3ebfHB7V74NpbKpOZZ84WZYyli7w1lDKJrCtds/s1600/papercut-hacks.jpg"
+    },
+    {
+      "title": "Atacantes exploram falhas do PaperCut para roubar credenciais de escolas e universidades - The Hacker News",
+      "summary": "Atacantes exploram falhas do PaperCut para roubar credenciais de escolas e universidades The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ta2pPOXZCeWdhdEY4RngzcThNTkt4X0otbW9JYVVIOWh3Tl9rWGVwbENjTGFmNVJoWjhwMTdFUTltenNlSEdNdENmNVQ4VDh3MlJmczVGZEhOWUtYUTgwTmM5enZVNWxHeWpkTW51aUpyMFN4ckVPVlE2Y094Zms?oc=5",
+      "published": "2026-09-05T07:31:00+00:00",
+      "image": ""
     },
     {
       "title": "Como proteger a IA de ponta em ambientes de propriedade do cliente",
@@ -125,42 +161,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
       "published": "2026-09-04T14:01:11+00:00",
-      "image": ""
-    },
-    {
-      "title": "Vulnerabilidades do Sangoma Switchvox exploradas na natureza",
-      "summary": "Rastreada como CVE-2026-9586, a falha de injeção SQL não autenticada pode ser explorada remotamente para execução arbitrária de código. A postagem Vulnerabilidades do Sangoma Switchvox exploradas na natureza apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/",
-      "published": "2026-09-04T13:23:12+00:00",
-      "image": ""
-    },
-    {
-      "title": "Novo dia zero CrowdStrike ‘FalconFlank’ concede privilégios SYSTEM",
-      "summary": "Um pesquisador de segurança anônimo que usa o identificador “Nightmare Eclipse” lançou uma exploração de dia zero do CrowdStrike Falcon chamada “FalconFlank” que permite que invasores aumentem privilégios em sistemas Windows atualizados. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
-      "published": "2026-09-04T13:22:01+00:00",
-      "image": ""
-    },
-    {
-      "title": "Vulnerabilidade do PostgreSQL de 12 anos permite controle de banco de dados e servidor",
-      "summary": "Apelidado de PostGREShell, o CVE-2026-6471 transforma o acesso de replicação de baixo nível em execução de código, privilégios permanentes de superusuário e um backdoor de banco de dados persistente. A postagem Vulnerabilidade do PostgreSQL de 12 anos permite ",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/",
-      "published": "2026-09-04T12:06:13+00:00",
-      "image": ""
-    },
-    {
-      "title": "Vulnerabilidade do PostgreSQL de 12 anos permite controle de banco de dados e servidores - SecurityWeek",
-      "summary": "Vulnerabilidade do PostgreSQL de 12 anos permite controle de banco de dados e servidores SecurityWeek",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ0NfNWV2ajlrVU9iZ3J6bDZta29rSy13QUhaVmttR3FXZE5UdkM2WkN4eGFlZks5bFdQWnlIMVJjMXNkazhlelNsMnlkYXhiRlhkYjJuOGtZNU1CWWtOTDBCU0VwbG56Y2Q4LS0tZWV6T3RCZEVkTkRlcHdKeXdRVzh5WjNLQjlRQUNFMjFuRnF0MHhTYS00bVNRcjlodzcz0gGmAUFVX3lxTE1Wa2R3XzE2RTkxTG1KWVRIc0dZbFV6VGVjTW5nM21SeXZtZzQ1QWh0bGRpZkk5V1JfR1VNRG5KT2UtWWlYdGg4RFRkUnpsa0F1dzMtdFFhZnNaWmcwZ2RlNkI5TDJQOG1vWGE5S2o5YUxDSjVlcUhUVzZ2a0ZPUkZ4aHlzMF9rcHA1dXg4cllHU2J2Wl9qNkpRV29EdWlEQXQtUEthR3c?oc=5",
-      "published": "2026-09-04T12:06:13+00:00",
       "image": ""
     }
   ]
