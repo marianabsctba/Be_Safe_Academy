@@ -1,9 +1,36 @@
 {
-  "updated_at": "2026-09-05T15:19:36.159976+00:00",
+  "updated_at": "2026-09-05T20:28:00.745915+00:00",
   "items": [
     {
-      "title": "Mais de 5.400 sites hackeados atendem cargas ClickFix armazenadas no blockchain",
-      "summary": "Uma enorme operação cibercriminosa está aproveitando milhares de sites comprometidos de pequenas empresas para entregar cargas ClickFix armazenadas em contratos inteligentes na BNB Smart Chain (BSC). [...]",
+      "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
+      "published": "2026-09-05T16:52:33+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH4sbUEhtXF9n1_8s2f6ChnKMmjUv4Ht-DvEtZyLDPuSNhKFoi41aNlu3-u5kJLXUva81rNFwlsprMXE11cnbXc_es968eO-ANvWm0j1Cyi9SaoVUfneQqNINCR7lRs3qkkYdsSoyMu34Mgxs7B4pKclAt4atPw8B-RCFOTChtgeji9NTes_NEdZ2KKu2_/s1600/jet.jpg"
+    },
+    {
+      "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWXBISGFhRDJQcVFsZmlvYzBUVDZ6d3hocnMydHZjV2hBRE4wcmVPWl9IZjQ1NU5zRUNuVkdqcWtCY3VQcjF2aHlnNmlLU1Q5NnlTb1B4ak1PZFF1OFBsaFUtWkZwbjNOZ2o4LUZRbGxDSDduU3ljNVNhUDhaQ2o4ZQ?oc=5",
+      "published": "2026-09-05T16:52:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
+      "published": "2026-09-05T16:05:08+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzExwAd4Vsd2Xz-9kex6ucfK6MDmftPVCfiOGQICWDKrgxMJ6fOj0EttLP2kpYBDv4xSYdrEXt8Wntz916Oa2tyrMnaSHDLH9vb5RF4ncjvwdkeFU8GwaqWvT6zLHRTKIF-BOGK8p24Im4NwqlqZxTokMsYOfXSBdA0-jXxMbMozfjdK-iyyavdAywjAAh/s1600/vmware-host.jpg"
+    },
+    {
+      "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "DEFESA",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
@@ -11,8 +38,17 @@
       "image": ""
     },
     {
-      "title": "Vulnerabilidade do plug-in Elementor Pro WordPress explorada para hackear sites",
-      "summary": "Rastreado como CVE-2026-32475 (pontuação CVSS de 9,8), o bug é descrito como um problema de upload de arquivo arbitrário na função que lida com envios de formulários. A postagem Vulnerabilidade do plug-in Elementor Pro WordPress explorada para hackear sites ap",
+      "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
+      "published": "2026-09-05T14:17:02+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIuPjOUFz-c7o9qipnKr4soYR6NxJJxAYgcDqwTPl3LB5XXiag7UpIq8-qFzCbiC1cnlpWfyaRvAt9MVxIlSXeuEN_97devL_mSI25Ee73cO47vDq4dqsM8Nq08d7FogI7sVIPWlnMTD-Una_rRwyTyXqKG6am2DrU_EoIESLicWgDvpxsw6e8yAHmJnGI/s1600/trezor.jpg"
+    },
+    {
+      "title": "Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/",
@@ -20,8 +56,8 @@
       "image": ""
     },
     {
-      "title": "OpenAI admite que não divulgou incidente de sequestro de wiki de IA desonesto",
-      "summary": "A OpenAI admite que não divulgou um incidente em que agentes autônomos de IA sequestraram um wiki alemão, criaram 18.000 postagens, compartilharam respostas e contornaram restrições, dizendo que trataram a atividade como um “desalinhamento” de modelo em vez de",
+      "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
@@ -29,8 +65,8 @@
       "image": ""
     },
     {
-      "title": "Atacantes exploram falhas do PaperCut para roubar credenciais de escolas e universidades",
-      "summary": "Os atores da ameaça estão explorando as falhas recentemente divulgadas do PaperCut para facilitar o roubo de credenciais em ataques direcionados ao setor educacional nos EUA e na Europa. A equipe de pesquisa do Arctic Wolf Adversary disse ter observado invasor",
+      "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
@@ -38,8 +74,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguiDwimIl7rewJeRtSYeCkmhBUPSN0lsURwcKXrBtQ4vANRZqEkbjcPBIjODR0kFgIbLqwLiaBcB6lX8M6rilVclrxZcsKogB3NNhnwqJz3dZwgWGZ-6NHnAEGM-ENsEebYhn81lWBN0-nqfYrMLlHoQ3ebfHB7V74NpbKpOZZ84WZYyli7w1lDKJrCtds/s1600/papercut-hacks.jpg"
     },
     {
-      "title": "Atacantes exploram falhas do PaperCut para roubar credenciais de escolas e universidades - The Hacker News",
-      "summary": "Atacantes exploram falhas do PaperCut para roubar credenciais de escolas e universidades The Hacker News",
+      "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ta2pPOXZCeWdhdEY4RngzcThNTkt4X0otbW9JYVVIOWh3Tl9rWGVwbENjTGFmNVJoWjhwMTdFUTltenNlSEdNdENmNVQ4VDh3MlJmczVGZEhOWUtYUTgwTmM5enZVNWxHeWpkTW51aUpyMFN4ckVPVlE2Y094Zms?oc=5",
@@ -47,8 +83,8 @@
       "image": ""
     },
     {
-      "title": "Como proteger a IA de ponta em ambientes de propriedade do cliente",
-      "summary": "À medida que a IA avança para ambientes de propriedade do cliente, as organizações precisam de novas maneiras de verificar os sistemas, software e ativos de IA em que confiam antes de liberar dados, credenciais e modelos confidenciais. A postagem Como proteger",
+      "title": "How to secure edge AI in customer-owned environments",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "CLOUD & IA",
       "source": "Microsoft Security",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/",
@@ -56,8 +92,8 @@
       "image": ""
     },
     {
-      "title": "IDScan processou por suposta violação de dados que afetou 153 milhões de motoristas",
-      "summary": "Vários processos foram movidos contra a empresa de verificação de identidade IDScan depois que hackers supostamente violaram o serviço e se ofereceram para vender mais de 153 milhões de carteiras de motorista. [...]",
+      "title": "IDScan sued over alleged data breach affecting 153 million drivers",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
@@ -65,8 +101,8 @@
       "image": ""
     },
     {
-      "title": "Em outras notícias: patches de nuvem da Microsoft, contas hackeadas do Dropbox, avaliação de US$ 1,1 bilhão do Guardio",
-      "summary": "Histórias dignas de nota que podem ter passado despercebidas: a Microsoft lançou patches para serviços em nuvem, hackers comprometeram 5.000 contas do Dropbox e Guardio está agora avaliado em US$ 1,1 bilhão. A postagem Em outras notícias: patches de nuvem da M",
+      "title": "In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/",
@@ -74,8 +110,8 @@
       "image": ""
     },
     {
-      "title": "As empresas têm 6 meses para se preparar para ataques automatizados – Dark Reading",
-      "summary": "As empresas têm 6 meses para se preparar para ataques automatizados Dark Reading",
+      "title": "Companies Have 6 Months to Prepare for Automated Attacks - Dark Reading",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "Dark Reading",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSHB6RzdieTlnOXk2bkpxN3NReUZRM2VRVW13WUtKdUhPOUdGcHZhdDFpVFktc0pOMVhWY3BlQ2xWYWtSVkZZVi1xTV9ZMXJJbXdqUWxpTHRXVlc5alpOdXJ0MGRTUHIwWGl0NE9mMVlBSzhvZGl3Zlh1QURoamtOUm10cERZOXhIYnNOUXV3RkRaX0t1OTRQQW1GRUE3YjI1?oc=5",
@@ -83,8 +119,8 @@
       "image": ""
     },
     {
-      "title": "HPE corrige vulnerabilidades críticas de RCE no AOS-CX",
-      "summary": "Quase duas dúzias de problemas, rastreados coletivamente como CVE-2026-73749 (pontuação CVSS de 9,8), foram resolvidos com as atualizações. A postagem HPE corrige vulnerabilidades críticas de RCE no AOS-CX apareceu pela primeira vez na SecurityWeek.",
+      "title": "HPE Patches Critical RCE Vulnerabilities in AOS-CX",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/",
@@ -92,8 +128,8 @@
       "image": ""
     },
     {
-      "title": "OpenAI promete US$ 1 bilhão para levar IA de fronteira para defensores de infraestrutura crítica",
-      "summary": "A iniciativa Daybreak fornecerá recursos cibernéticos de IA subsidiados, treinamento e assistência técnica, embora a OpenAI tenha divulgado poucos detalhes sobre custos e elegibilidade. A postagem OpenAI promete US$ 1 bilhão para levar IA de fronteira para def",
+      "title": "OpenAI Pledges $1 Billion to Bring Frontier AI to Critical Infrastructure Defenders",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "CLOUD & IA",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/openai-pledges-1-billion-to-bring-frontier-ai-to-critical-infrastructure-defenders/",
@@ -101,8 +137,8 @@
       "image": ""
     },
     {
-      "title": "As empresas têm 6 meses para se preparar para ataques automatizados",
-      "summary": "Os modelos de Frontier AI já demonstraram que podem de forma autónoma – e em alguns casos, inadvertidamente – realizar compromissos de ponta a ponta, mas a situação tornar-se-á mais urgente muito em breve.",
+      "title": "Companies Have 6 Months to Prepare for Automated Attacks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks",
@@ -110,8 +146,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb3e4339597b3813d/6a9acd56e908194ecaf2c87b/AI-human-blue-overlay-metamorworks-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Campanha de phishing envia milhões de e-mails usando Unicode invisível para escapar de filtros",
-      "summary": "A Microsoft está alertando sobre uma “campanha de phishing de alto volume” que usa caracteres invisíveis de tags Unicode para contornar filtros de e-mail. “Em vez de usar esses caracteres para ocultar instruções das pessoas enquanto as expõe a modelos de IA, o",
+      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
@@ -119,48 +155,12 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoD4eMYuhLT8HvcHbYe8A4hkhmDH1f4pIWTIm5AXKueqdpY1NS8yNiTtlzS4mdIS8PLY8_zM1uQDNpO1U49HCUoJT8nn2Bpb6krpcYpOSQ3H3Z6fUsm-UkoFvj8fk8oShK0eUhO6px8hox_ZzlnX8tu0pJKpJ3UAF2Vcb3XyBXjCt_8uD8OOkMMgUjv8Pc/s1600/emails.jpg"
     },
     {
-      "title": "Campanha de phishing envia milhões de e-mails usando Unicode invisível para escapar de filtros - The Hacker News",
-      "summary": "Campanha de phishing envia milhões de e-mails usando Unicode invisível para escapar de filtros The Hacker News",
+      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBYS3VvcXJEUDhlNWMxN3NwXzhacTFxWmJRRDV6dG5QV3NneFpNSXQyMGJTbXR2ZWRTT3ZyekowQmhHRVd0N3laMzh5T1p0eXk3STdLZmFETkZIdFAyZ3N5OHFSM1RJMkJmSHdwdkl3bDYwaGR1XzlaeHNOVVRLN2M?oc=5",
       "published": "2026-09-04T15:57:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Desvio crítico de autenticação do Citrix NetScaler agora aproveitado em ataques",
-      "summary": "Os invasores começaram a atacar uma falha de desvio de autenticação do Citrix NetScaler de gravidade crítica (CVE-2026-19490) em estado selvagem, de acordo com a empresa de inteligência de vulnerabilidade Previdian. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
-      "published": "2026-09-04T15:25:59+00:00",
-      "image": ""
-    },
-    {
-      "title": "PostgreSQL corrige falha de decodificação lógica de 12 anos, permitindo a execução de código de função de replicação",
-      "summary": "O PostgreSQL lançou atualizações para solucionar uma falha de segurança que permite que uma conta com o atributo REPLICATION execute código arbitrário como o usuário do sistema operacional que executa o servidor de banco de dados. A falha, rastreada como CVE-2",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
-      "published": "2026-09-04T15:20:19+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Gb4Wd-HSxdrPbdtUFxmldzzEkPEZcW1NkT7tV9-EfTAjDENSExJBWmOey_IJ5UKjszQfCNGkVoBtuxya00rFMrh_lJUAuS66Gr3kvU8GgFjMr7DF-7Ux1rUqwz-aDhum8HkVjxNKQTc6DXHG203CPXwg9sOMcA7nfsq6A81C9cJhb3HUu9GZDIj7FZY/s1600/PostgreSQL.jpg"
-    },
-    {
-      "title": "Novo backdoor Ted se esconde nas próprias construções HAProxy das vítimas para interceptar o tráfego da Web",
-      "summary": "Um kit de ferramentas Linux anteriormente não documentado foi encontrado compilado diretamente nos balanceadores de carga HAProxy trojanizados de duas organizações sul-coreanas, onde interceptou o tráfego da web e serviu páginas alteradas para visitantes selec",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
-      "published": "2026-09-04T14:51:13+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzLyhHupZwRy1pOQzT93Qhs5waZ8gqtlgDJUKgt1f37dz3KqIDDZY8uNo8QguZNccBHivdA_ecnY8cQUyhZQAvLH4APu3imxP-rwo2dYLZtKnJ92IkRPFmwepmJgRk9GrLrJiN_IbInwvNXaW7N5761YfEB1IIK4uDdNBTy6Koz8uXgOSXaQWixXM1Wts/s1600/HAProxy.jpg"
-    },
-    {
-      "title": "39 novos métodos que comprometem a autenticação por chave de acesso",
-      "summary": "As chaves de acesso eliminam muitos ataques baseados em senhas, mas os pesquisadores documentaram 39 métodos para comprometer a autenticação construída em torno delas. Token explica como os invasores podem abusar dos prompts de autenticação, credenciais sincro",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
-      "published": "2026-09-04T14:01:11+00:00",
       "image": ""
     }
   ]
