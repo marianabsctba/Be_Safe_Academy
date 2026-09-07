@@ -1,6 +1,114 @@
 {
-  "updated_at": "2026-09-07T04:52:02.686882+00:00",
+  "updated_at": "2026-09-07T12:44:25.312442+00:00",
   "items": [
+    {
+      "title": "Trezor data breach impact now reaches 81,000 customers",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
+      "published": "2026-09-07T12:16:32+00:00",
+      "image": ""
+    },
+    {
+      "title": "Nightmare Eclipse Drops CrowdStrike, Nvidia, Avast Zero-Day Exploits",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/nightmare-eclipse-drops-crowdstrike-nvidia-avast-zero-day-exploits/",
+      "published": "2026-09-07T12:15:57+00:00",
+      "image": ""
+    },
+    {
+      "title": "North Korean Hackers Deploy New Linux Espionage Toolkit",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "PRIVACIDADE",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/",
+      "published": "2026-09-07T12:12:08+00:00",
+      "image": ""
+    },
+    {
+      "title": "OpenAI Agents Hijack Another Victim Website",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/openai-agents-hijack-another-victim-website/",
+      "published": "2026-09-07T12:03:04+00:00",
+      "image": ""
+    },
+    {
+      "title": "Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/",
+      "published": "2026-09-07T11:58:37+00:00",
+      "image": ""
+    },
+    {
+      "title": "Modified ScreenConnect Clients Used in Worm-Like Campaign",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/",
+      "published": "2026-09-07T11:45:48+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
+      "published": "2026-09-07T10:32:40+00:00",
+      "image": ""
+    },
+    {
+      "title": "ConnectWise warns of new ScreenConnect flaw without patch",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
+      "published": "2026-09-07T10:06:38+00:00",
+      "image": ""
+    },
+    {
+      "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
+      "published": "2026-09-07T08:31:12+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOtysh_bb-hej1pQzey0RUhPD2w29ONlPDQMzE9Nc4lM529hKaHhuLKfGXEnqVZyUkMKhJchEeoN1clSKo3-opm2_BQkN6FJ72xBZOZwxX6sTwU4Zzk_j6taOwBpioZOnolR9idUjpydUlQ84TQ9pdWUlUm61JH0Xh8-6_0fo3VieeW3xVQwk4UvXcSu4/s1600/nable.jpg"
+    },
+    {
+      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
+      "published": "2026-09-07T07:53:04+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilF0_vQTn1mpUhivH8aX0vt8SA_Y5wkJqpHriuAdDQKVuWON7ZSzOAbWlwm50oxWlOJ5wMdzBjzy1wRVGNL6IqY8eYFUlIyayK6aiwcXK1fTO9JWZ9hG_QYrNnY_fdm2Lu7Z87p0JOR4WkYD2HNK-6WlcJQgxmUsG1k8k3ye5AT1ggaoiIDAm0kHxYQJ6V/s1600/chrome-cookies.jpg"
+    },
+    {
+      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5mVGtqWVRxckZvMUZnYklkR1FLWElkZUJ2UUpvZDJZNzY5aXBWWUpXZkNpclhiTFBfUGs2Zzl2NzZBMHZNV2FtYUVSWHFmVnpwM19Rc0dkME5NTy13ZVI3Y2ZWZGo0VFZ3OUpBa1NsN1V6TExSaDMtbjJtcw?oc=5",
+      "published": "2026-09-07T07:53:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "N-able patches max severity N-central flaw amid ongoing attacks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
+      "published": "2026-09-07T06:17:41+00:00",
+      "image": ""
+    },
     {
       "title": "Attackers conceal phishing lures using invisible Unicode characters",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
@@ -18,15 +126,6 @@
       "url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
       "published": "2026-09-06T09:32:38+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiSiBDO5j21gorWS-UjrLlDl0RzniibBPjfO4xfPBBLbH1yTQIB88G-hUBRtYNufYwkPpVjWWLu0GXk1TB7pv_x8KbQCbfsL5Ft8JlZLa6iZfvuHU-vKSPNq5Li-e9DtoOvZIOXPYmibx9uc_imnug4ZJUog31KwlA3YKmY8ghOpROVQR8mwPj9qb-1kA/s1600/micro.jpg"
-    },
-    {
-      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42OURKSS1Dd3Nfam5KTnIzODREY25SR1VZN2RxMGl5ckhqYm0wdWxxSjB5Y3dEMkNHdUdrQ3NKUWlvVUZIdW0wWk9HRmg3bXdTR1ZvNHNPV0Nra1cwT1lLenQwcTFrVEtCUGxjNG5uYmhSY0Fpak1HZ2tfRU4?oc=5",
-      "published": "2026-09-06T09:32:00+00:00",
-      "image": ""
     },
     {
       "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
@@ -62,105 +161,6 @@
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWXBISGFhRDJQcVFsZmlvYzBUVDZ6d3hocnMydHZjV2hBRE4wcmVPWl9IZjQ1NU5zRUNuVkdqcWtCY3VQcjF2aHlnNmlLU1Q5NnlTb1B4ak1PZFF1OFBsaFUtWkZwbjNOZ2o4LUZRbGxDSDduU3ljNVNhUDhaQ2o4ZQ?oc=5",
       "published": "2026-09-05T16:52:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
-      "published": "2026-09-05T16:05:08+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzExwAd4Vsd2Xz-9kex6ucfK6MDmftPVCfiOGQICWDKrgxMJ6fOj0EttLP2kpYBDv4xSYdrEXt8Wntz916Oa2tyrMnaSHDLH9vb5RF4ncjvwdkeFU8GwaqWvT6zLHRTKIF-BOGK8p24Im4NwqlqZxTokMsYOfXSBdA0-jXxMbMozfjdK-iyyavdAywjAAh/s1600/vmware-host.jpg"
-    },
-    {
-      "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
-      "published": "2026-09-05T14:29:13+00:00",
-      "image": ""
-    },
-    {
-      "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
-      "published": "2026-09-05T14:17:02+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIuPjOUFz-c7o9qipnKr4soYR6NxJJxAYgcDqwTPl3LB5XXiag7UpIq8-qFzCbiC1cnlpWfyaRvAt9MVxIlSXeuEN_97devL_mSI25Ee73cO47vDq4dqsM8Nq08d7FogI7sVIPWlnMTD-Una_rRwyTyXqKG6am2DrU_EoIESLicWgDvpxsw6e8yAHmJnGI/s1600/trezor.jpg"
-    },
-    {
-      "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VNkN0eVA4TURiMnBBS2E3ektncXZSS0Q3Yml6OXhGUkJnVkRYbnRhQU50OHc1SHBRN2RweEdNSEJ2ZkxydmJ5NC04VzBTV0Zac0tpc3o0RDdldkpaQWFEV2lZWDY0ZTZqd0wwVkVvcnktcml5VE4yWWtncUhBTTQ?oc=5",
-      "published": "2026-09-05T14:17:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/",
-      "published": "2026-09-05T13:00:28+00:00",
-      "image": ""
-    },
-    {
-      "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
-      "published": "2026-09-05T11:11:50+00:00",
-      "image": ""
-    },
-    {
-      "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
-      "published": "2026-09-05T07:31:53+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguiDwimIl7rewJeRtSYeCkmhBUPSN0lsURwcKXrBtQ4vANRZqEkbjcPBIjODR0kFgIbLqwLiaBcB6lX8M6rilVclrxZcsKogB3NNhnwqJz3dZwgWGZ-6NHnAEGM-ENsEebYhn81lWBN0-nqfYrMLlHoQ3ebfHB7V74NpbKpOZZ84WZYyli7w1lDKJrCtds/s1600/papercut-hacks.jpg"
-    },
-    {
-      "title": "How to secure edge AI in customer-owned environments",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "CLOUD & IA",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/",
-      "published": "2026-09-04T19:10:10+00:00",
-      "image": ""
-    },
-    {
-      "title": "IDScan sued over alleged data breach affecting 153 million drivers",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
-      "published": "2026-09-04T16:56:45+00:00",
-      "image": ""
-    },
-    {
-      "title": "In Other News: Microsoft’s Cloud Patches, Hacked Dropbox Accounts, Guardio’s $1.1B Valuation",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/in-other-news-microsofts-cloud-patches-hacked-dropbox-accounts-guardios-1-1b-valuation/",
-      "published": "2026-09-04T16:18:30+00:00",
-      "image": ""
-    },
-    {
-      "title": "Companies Have 6 Months to Prepare for Automated Attacks - Dark Reading",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSHB6RzdieTlnOXk2bkpxN3NReUZRM2VRVW13WUtKdUhPOUdGcHZhdDFpVFktc0pOMVhWY3BlQ2xWYWtSVkZZVi1xTV9ZMXJJbXdqUWxpTHRXVlc5alpOdXJ0MGRTUHIwWGl0NE9mMVlBSzhvZGl3Zlh1QURoamtOUm10cERZOXhIYnNOUXV3RkRaX0t1OTRQQW1GRUE3YjI1?oc=5",
-      "published": "2026-09-04T16:12:12+00:00",
       "image": ""
     }
   ]
