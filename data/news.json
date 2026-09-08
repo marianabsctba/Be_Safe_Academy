@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-09-08T21:14:37.281624+00:00",
+  "updated_at": "2026-09-08T23:27:23.364856+00:00",
   "items": [
+    {
+      "title": "Microsoft Patch Tuesday for September 2026 — Snort rules and prominent vulnerabilities",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "Cisco Talos",
+      "url": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-september-2026/",
+      "published": "2026-09-08T22:16:35+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "KrebsOnSecurity",
+      "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
+      "published": "2026-09-08T21:44:22+00:00",
+      "image": ""
+    },
+    {
+      "title": "Patch Tuesday Sets Another Record With 974 CVEs",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves",
+      "published": "2026-09-08T21:26:02+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd98de777797b4199/6aa074f14648d949d3cdf38d/ptchtuesday_bombermoon_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
     {
       "title": "Attackers Use Multi-Hop Google Redirects for Phishing Campaign",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
@@ -43,6 +70,15 @@
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/microsoft-patches-record-974-vulnerabilities-including-two-exploited-zero-days/",
+      "published": "2026-09-08T19:20:06+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited Zero-Days - SecurityWeek",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOalFyNjhoWXYxeVBqZ1ZZUVRhLWE5SUliMEUyYVFBQThsWU56NVpJQzBuUnJ2UDgxOEZaaDRYQ044NDloNlBrY1BsQ0xWaGNwSGF1OTJxaVBvbXBiZHlBMkxReU9GaTlZMlVGbW5wc1pIWjg2clg2UVBvSUNYWndMMnNZU0c0NzZxVWRkZ1I0WXhDX09LczQ4dWgyRmRrX2FETG5UcXFMd0p2SWxV0gGyAUFVX3lxTE00OUJ6SGRreEZwR2VmZ3BlZFFXcWE4b1Izb19wMTFKVk1NSUZWUkNwZ1pESkxCRHNQbWozdHN5djVUSkw0dEQ3MDZZT0xBbE1oOTVmd1RZMnBUN3A4X01uRWRBZmtmUzlHZ2pSQmh6eGp0RDEzd2NuNmJmNkFkY1k3UnhzZDJUS2N1dUNEOGNpaGlPemt4Z0NKQXVBeG1CNzVLdnJmZlBFN3dqRk5nTUNDYVE?oc=5",
       "published": "2026-09-08T19:20:06+00:00",
       "image": ""
     },
@@ -126,42 +162,6 @@
       "url": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html",
       "published": "2026-09-08T16:20:23+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim6TzHNI7Stg7pvo_Pu0vMltU2jmnIr922wxLWIYFfaRpN3G7rVZCy76FgWwyZUCT36dRygtzxVmZPFTPSm1FuRrmqXwuvTjJhxwJE7zl34ZHuwZUEDdlrnunlem-Xo7KS6Buy1xlHYYxf-0u-d3qWer-o64MrNvrsh5V1WC7dVtGVwubINEgB1AtfQBNC/s1600/brazil-hackers.jpg"
-    },
-    {
-      "title": "August updates trigger 0xc0000409 errors on Windows Server 2016",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/",
-      "published": "2026-09-08T15:22:33+00:00",
-      "image": ""
-    },
-    {
-      "title": "Cylake Raises $245 Million Ahead of Cybersecurity Platform Beta",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/cylake-raises-245-million-ahead-of-cybersecurity-platform-beta/",
-      "published": "2026-09-08T15:21:01+00:00",
-      "image": ""
-    },
-    {
-      "title": "SAP warns of maximum severity 'OVERPASS' kernel vulnerability",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/",
-      "published": "2026-09-08T14:55:20+00:00",
-      "image": ""
-    },
-    {
-      "title": "SAP Patches Critical Extended Passport Processing Vulnerability",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/sap-patches-critical-extended-passport-processing-vulnerability/",
-      "published": "2026-09-08T14:55:06+00:00",
-      "image": ""
     }
   ]
 }
