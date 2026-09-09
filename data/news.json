@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-09-09T21:00:20.870097+00:00",
+  "updated_at": "2026-09-09T23:19:22.285824+00:00",
   "items": [
+    {
+      "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
+      "published": "2026-09-09T21:40:44+00:00",
+      "image": ""
+    },
+    {
+      "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
+      "published": "2026-09-09T21:30:36+00:00",
+      "image": ""
+    },
+    {
+      "title": "Threat Matrix: Mapping threats across cloud web applications",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/",
+      "published": "2026-09-09T21:30:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Mythos Vulnerability Firehose Hits a Human Bottleneck",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck",
+      "published": "2026-09-09T21:19:55+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt439f596f6fab9438/6aa1bda507331dcf89c77c60/firehose_sirloh_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
     {
       "title": "Passkey-themed social engineering leads to identity and cloud compromise",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
@@ -45,6 +81,15 @@
       "url": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
       "published": "2026-09-09T16:34:05+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxouoVfK0MjZpruL0J1chmWnC7avUov1fOLbgX-XyFGrTcXeOh08tVntBjzJ7wBMmOB3P-PpxMr6E868Wpsaky-b-Nrf1LajzoQFfmjnkI1KHQzGXrCcVnC57nF2ndYZHCLx5WA3dENCWmCbZlSAb5TC-p8DXCGWxWB7I3iRIsdMMk6SS6IV03722lZIS4/s1600/spy.jpg"
+    },
+    {
+      "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZGREWl9CbjlSRURrSFZ3ZTJGam9TN1djYlVxMF9JSlJ4U1VtY1FULUZTY3VHaHZsRVdkOFhGVjUyVzJVUldIdXBhSlVHNWFkWWE3X05tcVFfcE5wYUxwQjJSbUMtM3dRZ1RkNWljaXRIemRZRnBaX2pBVWtoM29OWA?oc=5",
+      "published": "2026-09-09T16:34:00+00:00",
+      "image": ""
     },
     {
       "title": "Android’s September 2026 Updates Patch 180 Vulnerabilities",
@@ -117,51 +162,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
       "published": "2026-09-09T14:01:11+00:00",
       "image": ""
-    },
-    {
-      "title": "US Agencies Warn China Is Systematically Extracting Frontier AI Capabilities",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/us-agencies-warn-china-is-systematically-extracting-frontier-ai-capabilities/",
-      "published": "2026-09-09T12:32:13+00:00",
-      "image": ""
-    },
-    {
-      "title": "Meta Launches Personal AI Agent, Muse, Emphasizes Safety and Privacy",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/meta-launches-personal-ai-agent-muse-emphasizes-safety-and-privacy/",
-      "published": "2026-09-09T12:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
-      "published": "2026-09-09T11:57:36+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6J-Pt0v8CDXEvzMCsK37Gumde1WYysaqiuzK3Rg_dGXBeFEhbxFpLRbwaFSMOVcAz5XsbJXD9977trBg0eHEY-x4mZiu9W4ASLWGnIIA4kWkTmtIF-uBYlQWfLhQjAUL0llbl1Jn2hKfz5Wr78TR4Retzt9PlGD4mEGifQCvrEfFfqMy5966fDGvFHgY/s1600/tines-webinar.jpg"
-    },
-    {
-      "title": "ICS Patch Tuesday: Schneider Electric, Siemens Fix Critical Flaws",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ics-patch-tuesday-schneider-electric-siemens-fix-critical-flaws/",
-      "published": "2026-09-09T10:49:30+00:00",
-      "image": ""
-    },
-    {
-      "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
-      "published": "2026-09-09T10:43:04+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfzwXsolZOaoU8mikO234FpoGAc_3wiI_OZ-Acpc-yPphzhUWmDh13CKiEG9xFbotf8RFEBh9jljS6pwUS4gryY-kk5UzPc7Mtb4Ds3mDpAhjyFoJibRDmnGXrLNt4VjGpTs1W5l6la2q4jO7D9hytPbAnLEFCHYVxxpcj7H-XNRDpGLfYSWAYqF7pl54/s1600/alby-warning.jpg"
     }
   ]
 }
