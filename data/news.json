@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-09-09T16:44:32.700273+00:00",
+  "updated_at": "2026-09-09T21:00:20.870097+00:00",
   "items": [
+    {
+      "title": "Passkey-themed social engineering leads to identity and cloud compromise",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/",
+      "published": "2026-09-09T17:41:18+00:00",
+      "image": ""
+    },
+    {
+      "title": "HelmGuard Raises $7.3 Million for Agentic GRC and Security",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/helmguard-raises-7-3-million-for-agentic-grc-and-security/",
+      "published": "2026-09-09T17:23:58+00:00",
+      "image": ""
+    },
+    {
+      "title": "AI Is Giving Lesser-Resourced Attackers Nation-State-Level Reach, Google Warns",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ai-is-giving-lesser-resourced-attackers-nation-state-level-reach-google-warns/",
+      "published": "2026-09-09T16:56:25+00:00",
+      "image": ""
+    },
+    {
+      "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
+      "published": "2026-09-09T16:48:33+00:00",
+      "image": ""
+    },
+    {
+      "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
+      "published": "2026-09-09T16:34:05+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxouoVfK0MjZpruL0J1chmWnC7avUov1fOLbgX-XyFGrTcXeOh08tVntBjzJ7wBMmOB3P-PpxMr6E868Wpsaky-b-Nrf1LajzoQFfmjnkI1KHQzGXrCcVnC57nF2ndYZHCLx5WA3dENCWmCbZlSAb5TC-p8DXCGWxWB7I3iRIsdMMk6SS6IV03722lZIS4/s1600/spy.jpg"
+    },
     {
       "title": "Android’s September 2026 Updates Patch 180 Vulnerabilities",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
@@ -117,51 +162,6 @@
       "url": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
       "published": "2026-09-09T10:43:04+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfzwXsolZOaoU8mikO234FpoGAc_3wiI_OZ-Acpc-yPphzhUWmDh13CKiEG9xFbotf8RFEBh9jljS6pwUS4gryY-kk5UzPc7Mtb4Ds3mDpAhjyFoJibRDmnGXrLNt4VjGpTs1W5l6la2q4jO7D9hytPbAnLEFCHYVxxpcj7H-XNRDpGLfYSWAYqF7pl54/s1600/alby-warning.jpg"
-    },
-    {
-      "title": "Ivanti Patches Critical Flaws Across Enterprise Security Products",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ivanti-patches-critical-flaws-across-enterprise-security-products/",
-      "published": "2026-09-09T10:28:34+00:00",
-      "image": ""
-    },
-    {
-      "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
-      "published": "2026-09-09T10:11:29+00:00",
-      "image": ""
-    },
-    {
-      "title": "This Key Will Self-Destruct: An Open Standard for Revocable API Keys",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/this-key-will-self-destruct-an-open-standard-for-revocable-api-keys/",
-      "published": "2026-09-09T10:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "New Phishing Attack Creates Malicious Pages Inside the Victim’s Browser",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/new-phishing-attack-creates-malicious-pages-inside-the-victims-browser/",
-      "published": "2026-09-09T10:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Chrome 153 Patches Seventh Zero-Day of 2026",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/chrome-153-patches-seventh-zero-day-of-2026/",
-      "published": "2026-09-09T09:45:00+00:00",
-      "image": ""
     }
   ]
 }
