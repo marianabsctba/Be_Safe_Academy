@@ -1,167 +1,167 @@
 {
-  "updated_at": "2026-09-09T04:50:48.638685+00:00",
+  "updated_at": "2026-09-09T11:33:02.944283+00:00",
   "items": [
     {
-      "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Patch ICS terça-feira: Schneider Electric e Siemens corrigem falhas críticas",
+      "summary": "A AVEVA e a Rockwell Automation também lançaram patches para vulnerabilidades que afetam produtos de sistemas de controle industrial. O posto ICS Patch Tuesday: Schneider Electric e Siemens corrigem falhas críticas apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ics-patch-tuesday-schneider-electric-siemens-fix-critical-flaws/",
+      "published": "2026-09-09T10:49:30+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falha crítica do Alby Hub pode permitir que invasores assumam carteiras de Bitcoin expostas à Internet",
+      "summary": "A empresa de carteiras Bitcoin Alby alertou sobre uma falha crítica no Alby Hub que poderia ter permitido que um invasor assumisse o controle de uma carteira e enviasse seus fundos, mas apenas onde o proprietário tivesse tornado o Hub acessível pela Internet. ",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
+      "published": "2026-09-09T10:43:04+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfzwXsolZOaoU8mikO234FpoGAc_3wiI_OZ-Acpc-yPphzhUWmDh13CKiEG9xFbotf8RFEBh9jljS6pwUS4gryY-kk5UzPc7Mtb4Ds3mDpAhjyFoJibRDmnGXrLNt4VjGpTs1W5l6la2q4jO7D9hytPbAnLEFCHYVxxpcj7H-XNRDpGLfYSWAYqF7pl54/s1600/alby-warning.jpg"
+    },
+    {
+      "title": "Ivanti corrige falhas críticas em produtos de segurança empresarial",
+      "summary": "Seis vulnerabilidades críticas no Neurons for ITSM poderiam permitir a execução remota de código, enquanto Sentry e EPMM receberam patches para falhas de desvio de autenticação. A postagem Ivanti corrige falhas críticas em produtos de segurança empresarial apa",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ivanti-patches-critical-flaws-across-enterprise-security-products/",
+      "published": "2026-09-09T10:28:34+00:00",
+      "image": ""
+    },
+    {
+      "title": "Mais de 36.000 servidores Plex expostos e vulneráveis ​​a falhas recentes",
+      "summary": "Mais de 36.000 servidores Plex Media expostos online permanecem sem correção contra diversas vulnerabilidades de segurança e são vulneráveis ​​a ataques. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
+      "published": "2026-09-09T10:11:29+00:00",
+      "image": ""
+    },
+    {
+      "title": "Esta chave se autodestruirá: um padrão aberto para chaves de API revogáveis",
+      "summary": "Cada credencial vazada deve estar morta ou morrendo dentro de sessenta segundos após ser encontrada. Aqui está uma proposta para tornar isso o padrão. A postagem Esta chave se autodestruirá: um padrão aberto para chaves de API revogáveis ​​apareceu pela primei",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/this-key-will-self-destruct-an-open-standard-for-revocable-api-keys/",
+      "published": "2026-09-09T10:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Novo ataque de phishing cria páginas maliciosas dentro do navegador da vítima",
+      "summary": "Os invasores estão usando serviços confiáveis ​​da Microsoft e URLs de blob para gerar páginas de phishing furtivas que deixam os defensores sem nenhum site estático para detectar ou bloquear. A postagem Novo ataque de phishing cria páginas maliciosas dentro d",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/new-phishing-attack-creates-malicious-pages-inside-the-victims-browser/",
+      "published": "2026-09-09T10:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Patches do Chrome 153, sétimo dia zero de 2026",
+      "summary": "A atualização do Chrome inclui 230 correções de segurança e os usuários são aconselhados a atualizar seus navegadores o mais rápido possível. O posto Chrome 153 Patches Sétimo Dia Zero de 2026 apareceu pela primeira vez em SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/chrome-153-patches-seventh-zero-day-of-2026/",
+      "published": "2026-09-09T09:45:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Agências dos EUA acusam empresas de IA da China de destilar Claude, GPT, Gemini e Grok",
+      "summary": "As agências de segurança cibernética e inteligência dos EUA acusaram empresas de inteligência artificial (IA) baseadas na China de conduzirem “extração sistemática” de funcionalidades e capacidades proprietárias de modelos de fronteira americanos por meio de a",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
+      "published": "2026-09-09T09:32:26+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL63HDvTiCn3B33K6DsfIbMLjHqXlJAUtoh6euiAwcooJCTdK4Zdkoh8rZ93iQsAAkscB3CmOH6TUQJPor4yH4wN97ABinyCN_5hcHNZ2gAMZH4YtTO3kon5Ws7MZGI5CULnH4SpafnrFsfZO_8j8wfaOFEinAnLIP-LHom_9LNQRJ2wrlYy66bO1RNpwg/s1600/ai-china.jpg"
+    },
+    {
+      "title": "Chrome V8 Zero-Day explorado em estado selvagem permite a execução de código dentro do sandbox",
+      "summary": "O Google lançou na quinta-feira atualizações para corrigir 230 vulnerabilidades de segurança, incluindo uma que está sob exploração ativa em estado selvagem. A vulnerabilidade de gravidade média, atribuída ao identificador CVE CVE-2026-87491 (pontuação CVSS: N",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
-      "published": "2026-09-09T04:27:51+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMxDWMjpVE5kkeTzvYQ-YAyekZZ6U6CzCYj462wNRwiMna-44-sJo8kY5Nz2-f_D1N7c0lkhR8Hr2BoAvsP6vVb7ea_R5s-UxdKkwnv6apOIM8sIxEoBRQXek7U5lrR0VaP9q_W8hFULVW7qyvskPiGvZN9wyC_FAUm23HdPcLw_wsmfU0-GoQ3PVkNNyJ/s1600/n-able.jpg"
+      "url": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
+      "published": "2026-09-09T09:11:03+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZvl2DE9GFM-4rdFgtQOOp1Dk3Xgp7xWysUv5zKTFwxqWYTurcgXgE-PDMn3_2AAIihh4YeiRvmwpb6GVDB1-8kxqasUWwX-FFa4mA41kXpFbzdt9hOvzW4xcyKBFttqIzbFSl-1SSSO0P_URv3Sy9QamkQZ55qzX5Y9Kmv5NdBCBHXCcUziiO6mfrqURE/s1600/chrome-zeroday.jpg"
     },
     {
-      "title": "Microsoft Patch Tuesday for September 2026 — Snort rules and prominent vulnerabilities",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "Cisco Talos",
-      "url": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-september-2026/",
-      "published": "2026-09-08T22:16:35+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "KrebsOnSecurity",
-      "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
-      "published": "2026-09-08T21:44:22+00:00",
-      "image": ""
-    },
-    {
-      "title": "Patch Tuesday Sets Another Record With 974 CVEs",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves",
-      "published": "2026-09-08T21:26:02+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd98de777797b4199/6aa074f14648d949d3cdf38d/ptchtuesday_bombermoon_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Attackers Use Multi-Hop Google Redirects for Phishing Campaign",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign",
-      "published": "2026-09-08T21:03:46+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt03ee880bdb37bd5a/6aa06071aa16bb4982ce6be0/hopscotch-LeoPatrizi-GettyImages-1303877346.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "OpenAI Agents Took Over Wiki Site Before Hugging Face Attack",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack",
-      "published": "2026-09-08T20:36:15+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt498dd0b9b6ab45c6/6a9ffd284648d9bc55cdf333/Robot_escape-gremlin-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "The EU CRA's Real Question: What Shipped, and When Did You Know?",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/",
-      "published": "2026-09-08T20:24:16+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
-      "published": "2026-09-08T20:08:55+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited Zero-Days",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/microsoft-patches-record-974-vulnerabilities-including-two-exploited-zero-days/",
-      "published": "2026-09-08T19:20:06+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited Zero-Days - SecurityWeek",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOalFyNjhoWXYxeVBqZ1ZZUVRhLWE5SUliMEUyYVFBQThsWU56NVpJQzBuUnJ2UDgxOEZaaDRYQ044NDloNlBrY1BsQ0xWaGNwSGF1OTJxaVBvbXBiZHlBMkxReU9GaTlZMlVGbW5wc1pIWjg2clg2UVBvSUNYWndMMnNZU0c0NzZxVWRkZ1I0WXhDX09LczQ4dWgyRmRrX2FETG5UcXFMd0p2SWxV0gGyAUFVX3lxTE00OUJ6SGRreEZwR2VmZ3BlZFFXcWE4b1Izb19wMTFKVk1NSUZWUkNwZ1pESkxCRHNQbWozdHN5djVUSkw0dEQ3MDZZT0xBbE1oOTVmd1RZMnBUN3A4X01uRWRBZmtmUzlHZ2pSQmh6eGp0RDEzd2NuNmJmNkFkY1k3UnhzZDJUS2N1dUNEOGNpaGlPemt4Z0NKQXVBeG1CNzVLdnJmZlBFN3dqRk5nTUNDYVE?oc=5",
-      "published": "2026-09-08T19:20:06+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft releases Windows 10 KB5122878 extended security update",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/",
-      "published": "2026-09-08T18:49:19+00:00",
-      "image": ""
-    },
-    {
-      "title": "Adobe Patches Over 170 Vulnerabilities, Including Commerce Zero-Day",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/adobe-patches-over-170-vulnerabilities-including-commerce-zero-day/",
-      "published": "2026-09-08T18:37:17+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/",
-      "published": "2026-09-08T18:18:05+00:00",
-      "image": ""
-    },
-    {
-      "title": "Windows 11 cumulative updates KB5124008 & KB5122880 released",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Homem pega 15 anos por extorquir mulheres com vídeos pornográficos gerados por IA",
+      "summary": "Um homem de Ohio foi condenado a 15 anos de prisão por vários crimes cibernéticos, incluindo sextorsão e perseguição cibernética de inúmeras vítimas usando conteúdo sexualmente explícito gerado por IA. [...]",
       "category": "DEFESA",
       "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/",
-      "published": "2026-09-08T17:57:03+00:00",
+      "url": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
+      "published": "2026-09-09T08:44:22+00:00",
       "image": ""
     },
     {
-      "title": "ClickFix Campaigns Abuse Legitimate Services for Persistent Access",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Nova falha do cPanel permite que uma conta de hospedagem com privilégios de email execute código como root",
+      "summary": "O cPanel corrigiu uma falha que permite que uma única conta de hospedagem assuma o controle de um servidor inteiro. Um titular de conta autenticado com privilégios relacionados a correio pode criar arquivos de sua escolha no servidor por meio do EmailTrack e, ",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
+      "published": "2026-09-09T08:19:32+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM_YdNiqGpEWkDm5hEkF-RhZ94vv84sJmONomdRsksJ65GwI388Va-uVIzXWhwZtHmBTF3oze2l4Sscj2zpTsn6lqdPWPKAeL1iP6SSyzvNBOA4dLAKxfSmfThhmQgIc_1AYGWG9dbrCLFg_dk4m8pCHxFcJBRnThru8PtB7UJqUy3VjW15-vQlRvuwpc/s1600/cpanel-bug.jpg"
+    },
+    {
+      "title": "Malware F5 BIG-IP APM injeta um shell PHP Web na memória, evitando verificações de disco",
+      "summary": "Malware vinculado a invasões em dispositivos F5 BIG-IP Access Policy Manager esconde um web shell PHP na memória em vez de em um arquivo no disco, disse a Sophos em uma análise publicada em 7 de setembro. Quando o Apache carrega qualquer um dos três próprios d",
       "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/endpoint-security/clickfix-campaigns-legitimate-services-persistent-access",
-      "published": "2026-09-08T17:25:37+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt96e63b09ee56a517/6aa00b69572e2132fa0a49b3/Womantyping_Rawpixel.com_shutterstock.jpg?width=720&quality=80&disable=upscale"
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html",
+      "published": "2026-09-09T07:36:49+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIA552mINL2oyFm7mf9nHTwjJGJUVAtfYnMXbqYsowSEsDMzVsAgHG8MHKn5_EmwZ9bgRmhEndE20FhQAN4rvOLv5ESSAu0kHTV4QyygvUePYCJ1fvda0bU0Mzi5B9J8LHhULDeRRI9HGC84dntx8jaLu6WFLOz6OOhEwKNnSf6zzFRyAtlLKDQzHvygg/s1600/f5-malware.jpg"
     },
     {
-      "title": "The Hidden Instructions That Can Hijack AI Agents",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/the-hidden-instructions-that-can-hijack-ai-agents/",
-      "published": "2026-09-08T17:00:00+00:00",
+      "title": "Malware F5 BIG-IP APM injeta um shell PHP Web na memória, evitando verificações de disco - The Hacker News",
+      "summary": "Malware F5 BIG-IP APM injeta um shell PHP na memória, evitando verificações de disco The Hacker News",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSXEwTUtNcTJTdDRpbzVEdDdPbGtFM1NJRW9NRUZkYXNRYll3ZGFZLVlyX3E1MnVfbWxYX205WkFqalR1ZlNzRGFLOFMtMndNZ0dueDdUSFdudGRLMjJaUmMwUmI2NmNiYTVLSmhFbWlfYjVLUHNCNkhEV1dLLVgzUV9B?oc=5",
+      "published": "2026-09-09T07:36:00+00:00",
       "image": ""
     },
     {
-      "title": "Hackers Return $263 Million Stolen From Liquid Network",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/hackers-return-263-million-stolen-from-liquid-network/",
-      "published": "2026-09-08T16:35:54+00:00",
-      "image": ""
-    },
-    {
-      "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
+      "title": "O novo dia zero ‘ShieldCrash’ do Microsoft Defender concede acesso ao SISTEMA",
+      "summary": "Um pesquisador de segurança anônimo conhecido como Nightmare Eclipse lançou um novo exploit de dia zero do Microsoft Defender chamado “ShieldCrash” logo após a Microsoft lançar suas atualizações de segurança Patch Tuesday de setembro de 2026. [...]",
+      "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/",
-      "published": "2026-09-08T16:35:47+00:00",
+      "url": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
+      "published": "2026-09-09T07:30:15+00:00",
       "image": ""
+    },
+    {
+      "title": "Pesquisador lança novo Microsoft Defender PoC mostrando que patch ShieldBreak pode ser contornado",
+      "summary": "O pesquisador de segurança conhecido como Chaotic Eclipse abandonou uma prova de conceito (PoC) para mais um dia zero no Microsoft Defender. A vulnerabilidade, codinome ShieldCrash, é avaliada como um desvio de patch para CVE-2026-69414 (pontuação CVSS: 7,8), ",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html",
+      "published": "2026-09-09T06:47:27+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZtPq88H-iuD1vEn_DT-1UgFvWXy-P5eKMUm280xVsPt3_Dja1q22icfvF49OduVCGmazXmVmi51Oj58t-2H6JMA4e89X_-obRVRVORjeAZoQzNnw3Io6ad_LofQ1kfum9XeiHC9cijCgAiRL-RsRYjECDVPD_ZT3w61CFj1lkwe2sSZ_1_eSn6Oruh9MJ/s1600/windows-poc.jpg"
+    },
+    {
+      "title": "Pesquisador lança novo Microsoft Defender PoC mostrando que o patch ShieldBreak pode ser ignorado - The Hacker News",
+      "summary": "Pesquisador lança novo Microsoft Defender PoC mostrando que patch ShieldBreak pode ser contornado The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMndGeWg0RWU2eU1QSFU5a19sTUFvZ1FDakJFd0lkWVhkOVM2OU1xSHY3QTMyQk9jY3dtVmdaUHhtNENOUnRacFA3bnR6ME95LWV2cGZVc1JjLVg5Nm1XeERlQmRNbm9CNGtOY1pGejBkQVh1bnJPYUx3V3BKS0RfWmVMX0M?oc=5",
+      "published": "2026-09-09T06:47:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Google alerta sobre novo bug de dia zero do Chrome explorado em ataques",
+      "summary": "O Google corrigiu 230 vulnerabilidades na terça-feira, incluindo outro bug de dia zero do Chrome explorado ativamente, a sétima vulnerabilidade corrigida desde o início do ano. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
+      "published": "2026-09-09T06:25:48+00:00",
+      "image": ""
+    },
+    {
+      "title": "SAP corrige falha no kernel do CVSS 10.0, permitindo execução remota de código não autenticado",
+      "summary": "A SAP lançou atualizações de segurança para solucionar diversas vulnerabilidades, incluindo uma falha de gravidade máxima no processamento do SAP Extended Passport (EPP) que pode ter um impacto grave na confidencialidade, integridade e disponibilidade do aplic",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html",
+      "published": "2026-09-09T06:25:45+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwUnFS6EAvkjYM7AC_3-k8C6QSAmpatuThkiXaa1WxvtiZU7M-n384kpPN4-VSAQfwL8PCTPUVd3iYeTDn_V5ZoZGEfuizJSZghdAw4Ldq_wFg7rxWyKBbwdMctiiBaykAmL40L6wappUeeyIr58u8SFFSszCP-rszf5ioHsaz0dtKilEpkw1LTEmtaCtZ/s1600/sap-flaws.jpg"
     }
   ]
 }
