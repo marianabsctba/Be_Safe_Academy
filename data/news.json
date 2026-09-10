@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-09-10T16:30:41.130066+00:00",
+  "updated_at": "2026-09-10T20:56:52.966547+00:00",
   "items": [
+    {
+      "title": "September Windows Server updates break Remote Desktop Services",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/",
+      "published": "2026-09-10T20:34:37+00:00",
+      "image": ""
+    },
+    {
+      "title": "Mandiant Founder Kevin Mandia Joins Amazon Board",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/mandiant-founder-kevin-mandia-joins-amazon-board/",
+      "published": "2026-09-10T20:30:44+00:00",
+      "image": ""
+    },
+    {
+      "title": "Surfshark VPN says hackers breached internal testing, proxy servers",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/",
+      "published": "2026-09-10T19:15:07+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft Excel KB5002914 update breaks copy and paste for some users",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/",
+      "published": "2026-09-10T19:07:33+00:00",
+      "image": ""
+    },
+    {
+      "title": "We've got one word for it, and it's usually the wrong one",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "Cisco Talos",
+      "url": "https://blog.talosintelligence.com/weve-got-one-word-for-it-and-its-usually-the-wrong-one/",
+      "published": "2026-09-10T18:00:15+00:00",
+      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/threat_source-1.jpg"
+    },
+    {
+      "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
+      "published": "2026-09-10T17:47:38+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFNPIVe_Yx__WtfjnMTnoJSKPMcGPiMCP5NxEyv1gRcGSlnozG41TeGldWhQi7Hsc0XgcmC9tfTEBS-CdLLAz8cOskVbBOsghdSM9kg_AhQmhfMada8rs4l7O7Py8YJErqK54BIt0r06Sm1l62fy8yv6H8PJrEXWxjnvyLkyFKzzXcGI_h00yeBqck5v9L/s1600/td-main.jpg"
+    },
+    {
+      "title": "Protecting organizations from AI-assisted executive impersonation and invoice fraud",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/10/protecting-organizations-ai-assisted-executive-impersonation-invoice-fraud/",
+      "published": "2026-09-10T17:23:05+00:00",
+      "image": ""
+    },
     {
       "title": "Cybersecurity M&A Roundup: 33 Deals Announced in August 2026",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
@@ -8,6 +71,15 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/",
       "published": "2026-09-10T16:14:58+00:00",
+      "image": ""
+    },
+    {
+      "title": "Detect and disrupt AI-themed attacks with Microsoft Defender",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/10/detect-and-disrupt-ai-themed-attacks-with-microsoft-defender/",
+      "published": "2026-09-10T16:00:00+00:00",
       "image": ""
     },
     {
@@ -29,7 +101,7 @@
       "image": ""
     },
     {
-      "title": "Nightmare-Eclipse Strikes Again with 'ShieldCrash' Windows Exploit",
+      "title": "Nightmare-Eclipse Strikes Again With 'ShieldCrash' Windows Exploit",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "Dark Reading",
@@ -89,78 +161,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/deceptive-android-apps-exploit-google-play-early-access-to-evade-reviews/",
       "published": "2026-09-10T13:39:52+00:00",
-      "image": ""
-    },
-    {
-      "title": "Webinar Today: Keep Pace With AI – A New Operating Model for Endpoint Remediation",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/webinar-today-keep-pace-with-ai-a-new-operating-model-for-endpoint-remediation/",
-      "published": "2026-09-10T13:30:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Critical NetScaler Vulnerability Exploited in Attacks",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/critical-netscaler-vulnerability-exploited-in-attacks/",
-      "published": "2026-09-10T12:20:21+00:00",
-      "image": ""
-    },
-    {
-      "title": "Widened Scan Turns Up Fourth Rogue Claude Cyber Incident",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/widened-scan-turns-up-fourth-rogue-claude-cyber-incident/",
-      "published": "2026-09-10T11:52:44+00:00",
-      "image": ""
-    },
-    {
-      "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
-      "published": "2026-09-10T11:45:05+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyc0Kqar7_6N4y9ymGxw8ukQCQbqQ_pGCfnoXYMBZoNZK1w3ljkO26S_rhVhJaIVcx8rcEK95njKyaYj5g63VByKh8ncf_s84nUBWoyEbWZH6uaLYjnu5fNt_TC9wz-r6P_RTJgZ83Z5wmurzSb9_lHVfV1t9STts4WCZr18AH-3XRHTn5pj15uURIM-0/s1600/checkpoint.jpg"
-    },
-    {
-      "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
-      "published": "2026-09-10T11:41:53+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkLW3i6mB4uE2g7Ze6CDAess3UTTeol7YmRP-N3uTkLJHPglZc0BHvTlESyulvcTp05ObPwuGY5XHqV9q599pqLmK-ypamAPNUdHa9y-34Q4IEE3EBId9UrN9L0J3zK1TTf1Atovhkz51Gk_2gul7DmjvLmJd7BbwgqMhmVODTiQUuqu_IdFFGJt0WAiC_/s1600/paper.jpg"
-    },
-    {
-      "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTzJvclZ4VTZWSktkOXVNZjk4a0NMWTZReXpWU0dma250dXlIdzBhWWgzLU1aYnpZNnVDUHZZRjMwdlJ0bzJNekt6VGQtczlHRnVQTHh2cG05OTUzTnpKZUpkdHBmRE9UaWU1czAyNXo4RWhrSU1XNnFkWkVEYWNkbjFB?oc=5",
-      "published": "2026-09-10T11:41:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
-      "published": "2026-09-10T11:33:43+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJHT3nuLNpTkrzjiictjYuKsyepFXuDoZVUZB_Gz6yQFCP4CYdOIpSDon_tEsZ43eVe2_qiPXs7V9byKtyoYZ7HE7QltUfQgEUTnSSjmclQH27vVm5JjVIcrvANMIEOxUDmOWy0dPeHVOkiYoFZMgubtGqZJKfgft34Z-q5F7dyqPoJ6iInpgMwyIL3l8/s1600/android-work.jpg"
-    },
-    {
-      "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMzV1R3FSNzRnLS13Z3N1emEtSnBQcmFHdjdpcHVxZzdXVVdlaXJ3QVo3TGlHYnotMVV5STJVVU9PX01Xd0w0bERPc2xEM2N2RnEtTFBCU2FGSUJsN05WdDlKcmI3TEVncmN6VWJpc0NzTlJXTVdJdlZieXRzamhZemVR?oc=5",
-      "published": "2026-09-10T11:33:00+00:00",
       "image": ""
     }
   ]
