@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-09-11T16:35:09.297911+00:00",
+  "updated_at": "2026-09-11T21:02:28.738224+00:00",
   "items": [
+    {
+      "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
+      "published": "2026-09-11T20:19:09+00:00",
+      "image": ""
+    },
+    {
+      "title": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days",
+      "published": "2026-09-11T19:21:08+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta544980c27f53cb0/6aa439f3f857854e31bd9c8a/Email_trap-sesame-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Florida confirms DMV database breached via stolen police account",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
+      "published": "2026-09-11T19:00:29+00:00",
+      "image": ""
+    },
+    {
+      "title": "CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate",
+      "published": "2026-09-11T18:44:03+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8adea69aa40a4f52/6aa3151ad2a293fb0a02efea/GettyImages-2220810557.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
+      "published": "2026-09-11T17:26:50+00:00",
+      "image": ""
+    },
+    {
+      "title": "Phishing Research Challenges Conventional Security Awareness Testing",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/",
+      "published": "2026-09-11T17:23:36+00:00",
+      "image": ""
+    },
+    {
+      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
+      "published": "2026-09-11T16:30:18+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioFH6aWhF9NgRW1O3yFExc7paTA9akN5-3IUQF8mvEiSTaFJjKvm6YQzFX6MP2uimYplHe1MJXz6eZtPtnxaLy25jJBhU6KuhsWFpIlnqhbn6OI6QTcfp6Olp1-VDUEF4KEYFF7hQDBdmgtxibsg9MkvbcOJIlR8Of2Flyw2m9zYfXC6gUm-TV8XA6vU43/s1600/gitlab-wild.jpg"
+    },
     {
       "title": "Artifactory flaws chained in attacks deploying backdoor malware",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
@@ -8,6 +71,24 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
       "published": "2026-09-11T16:29:44+00:00",
+      "image": ""
+    },
+    {
+      "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
+      "published": "2026-09-11T16:15:29+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIEiaJBfFrHCrYlSFKWGSRYD6CW_EeKfmYWCZw4jm5c9hyphenhyphenDVbaSIhyphenhyphenXwFB0ncQOoB10crmwgJV9nsvhQzJNuVMsDh6jPVt2ep23r0A2PB7ZhLfTroa0Ff__kyjjX2MjP4ok4DtBwFEF1VZC7b5OOCkibJBbwECsR0Y_9S1-NpdEIw04J5FtY9OloB084t_/s1600/claude-china.jpg"
+    },
+    {
+      "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMMVJKbnJua1o4S0pnako5MlpKNFNyVnFlTFFTYVhsM3VQS0EwSXVBczd4YjNVeDJUZE96RlQzc0dMdGZ6c3RDSHFRVm1yTGt6NzgxaHR4aWZnUzBNSDN3cFc3ZXVlMy1JT1BVdzVHTDlZc2NQN0FIY015X0V0NXM?oc=5",
+      "published": "2026-09-11T16:15:00+00:00",
       "image": ""
     },
     {
@@ -36,6 +117,15 @@
       "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
       "published": "2026-09-11T14:29:47+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG0iCBQ4Eqxn0QOtvYZSysksPzr5fT0m8aLqNTa0a7Gcz3A5ikRt1oAenJwzo8rxcLERq54SNLtRvkYXKMTo0nMOmV8pWh4It3T0vP7q4J5Z23tdDkbBf3j7v317S7sQbBBbN6j6MuHusofo3qcbm2Y3DWT76gHp4Z1_En2QnJMCyEpvCo1sCcXoRZVw5-/s1600/claudeai.jpg"
+    },
+    {
+      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR1Z1RURQbnlHRnNWMzNyTEJuOWsyNHlmcDliOVpzVlVUbG9UOUk5UjFfUHduUzZicmF5N0xrN01WYld4dHhZaFd3QzM0bEZ3N1F0X2I5Q2JJR0ExYVJlb240Ti1sUDBQLWFaZjZvN0xpc1UzNW9DdWFtaFFubTdUWQ?oc=5",
+      "published": "2026-09-11T14:29:00+00:00",
+      "image": ""
     },
     {
       "title": "In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review",
@@ -71,96 +161,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
       "published": "2026-09-11T14:01:11+00:00",
-      "image": ""
-    },
-    {
-      "title": "Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/",
-      "published": "2026-09-11T12:48:04+00:00",
-      "image": ""
-    },
-    {
-      "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
-      "published": "2026-09-11T11:30:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPPe_ve3Cylrq2fJ8HTFPebWF7lR7tvzMvL3mwFcGZNF2KWesOGc66BfO7NbiPxmsiao8jcItyikguKNqsEGfpJEcAvacbP7rflAaAT-e0Y1IbsNCNvdqvXMbwERLlPpV0PMhk9c5esoEjCE97wglh8rU9xZ7eGz2N4BOpzFYTb9-Ln3FaBRQiscqzK7U/s1600/breachlock.jpg"
-    },
-    {
-      "title": "Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/",
-      "published": "2026-09-11T11:29:09+00:00",
-      "image": ""
-    },
-    {
-      "title": "GitLab urges users to patch max severity path traversal flaw",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
-      "published": "2026-09-11T11:15:22+00:00",
-      "image": ""
-    },
-    {
-      "title": "Check Point Patches Critical VPN Vulnerabilities",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/",
-      "published": "2026-09-11T11:10:02+00:00",
-      "image": ""
-    },
-    {
-      "title": "Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/kiteworks-acquires-bonfy-ai-to-fill-the-ai-gap-in-data-governance/",
-      "published": "2026-09-11T10:56:16+00:00",
-      "image": ""
-    },
-    {
-      "title": "Surfshark Systems Targeted by Hackers",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/surfshark-systems-targeted-by-hackers/",
-      "published": "2026-09-11T09:41:03+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
-      "published": "2026-09-11T09:39:37+00:00",
-      "image": ""
-    },
-    {
-      "title": "Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/",
-      "published": "2026-09-11T08:47:07+00:00",
-      "image": ""
-    },
-    {
-      "title": "PaperCut Flaws Exploited in AI-Powered Attacks",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/papercut-flaws-exploited-in-ai-powered-attacks/",
-      "published": "2026-09-11T08:18:23+00:00",
       "image": ""
     }
   ]
