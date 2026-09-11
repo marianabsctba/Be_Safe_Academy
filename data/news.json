@@ -1,6 +1,96 @@
 {
-  "updated_at": "2026-09-11T11:31:01.955343+00:00",
+  "updated_at": "2026-09-11T16:35:09.297911+00:00",
   "items": [
+    {
+      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
+      "published": "2026-09-11T16:29:44+00:00",
+      "image": ""
+    },
+    {
+      "title": "GitLab Vulnerability Exploited One Day After Disclosure",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/",
+      "published": "2026-09-11T16:11:08+00:00",
+      "image": ""
+    },
+    {
+      "title": "Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/papercut-ai-swarm-attack-cyber-kill-chain",
+      "published": "2026-09-11T15:48:27+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8cf4e55b02be84ac/6aa41d1ff4f5704c3b28690b/bees-Trevor_Srednick-GettyImages-2204460367.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
+      "published": "2026-09-11T14:29:47+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG0iCBQ4Eqxn0QOtvYZSysksPzr5fT0m8aLqNTa0a7Gcz3A5ikRt1oAenJwzo8rxcLERq54SNLtRvkYXKMTo0nMOmV8pWh4It3T0vP7q4J5Z23tdDkbBf3j7v317S7sQbBBbN6j6MuHusofo3qcbm2Y3DWT76gHp4Z1_En2QnJMCyEpvCo1sCcXoRZVw5-/s1600/claudeai.jpg"
+    },
+    {
+      "title": "In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/",
+      "published": "2026-09-11T14:19:18+00:00",
+      "image": ""
+    },
+    {
+      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
+      "published": "2026-09-11T14:10:20+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtfzeoSe_6tXrJiKsyJfN4vYk6suLsJPF3-SOJWE8LAaZ6_WixrsJVjZ0T8O6jdtB1d08IR8swK6H0B4S_m7-0YfIiJlVPHuL7guxwC-4ANLXUyNsEWfIusPzvOMPOKSBmFcBT1NBBVWIglIRlT8fs6O9Uc6ZRBRgWZNPbvgAVIj8gIXfusRwZh0tndhni/s1600/claude-malware.jpg"
+    },
+    {
+      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pODZWNDlXTy0wVjJXVF9jYlN0OW5YZlFPd0RIZW8yNGRCLUxlN1RvQy1WNkNkcWJwZHczeHBDcjVYTURHd0Q1cE5SMmtWSzlvOF9pVzBvTmZjTDdGdU5oOUw5ZGNzZEZvRE9FSlZNcEhldzdCcTRCQTFLQ0thQTQ?oc=5",
+      "published": "2026-09-11T14:10:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
+      "published": "2026-09-11T14:01:11+00:00",
+      "image": ""
+    },
+    {
+      "title": "Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/",
+      "published": "2026-09-11T12:48:04+00:00",
+      "image": ""
+    },
+    {
+      "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
+      "published": "2026-09-11T11:30:00+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPPe_ve3Cylrq2fJ8HTFPebWF7lR7tvzMvL3mwFcGZNF2KWesOGc66BfO7NbiPxmsiao8jcItyikguKNqsEGfpJEcAvacbP7rflAaAT-e0Y1IbsNCNvdqvXMbwERLlPpV0PMhk9c5esoEjCE97wglh8rU9xZ7eGz2N4BOpzFYTb9-Ln3FaBRQiscqzK7U/s1600/breachlock.jpg"
+    },
     {
       "title": "Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
@@ -72,96 +162,6 @@
       "url": "https://www.securityweek.com/papercut-flaws-exploited-in-ai-powered-attacks/",
       "published": "2026-09-11T08:18:23+00:00",
       "image": ""
-    },
-    {
-      "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
-      "published": "2026-09-11T07:55:15+00:00",
-      "image": ""
-    },
-    {
-      "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
-      "published": "2026-09-11T07:31:05+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX61WXln9MMGAzqzflpRDt_LZGfB7ZJ_u1fsQhr5FRnml48-E-V-uxtCIF-GERZlt-eBhw3MDT7_6jFgwEDF1ppC7YZlB_CZn-q4_nKD9S3fQTI3kDQFe2Izsq6_NoGnCRtRZckr8Irg9kOJ8Fwghl3qHqwg1zWoN6ff-VsmlCaojw2Divb6L00F34lJk/s1600/jfrog-art.jpg"
-    },
-    {
-      "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZGdURVVvS1NkWVZqVTBYMmw2Y0lHTzcwdDcxejdCZmtCejFYbXFpTjR6bEJTSzIwTjlBYTExLV9wWDFCTGFYRUladXJoZTQ5ZkVpUUNSeGF1SWt3dHBaZDR5eUNiV1pYYXZncF9NLVN1Ukx5bmliM2ZPR0dVLTVNV0M2SUo?oc=5",
-      "published": "2026-09-11T07:31:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
-      "published": "2026-09-11T07:14:09+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp8vDxYtUGwWuRZlSSBh2ghvSf6GTi_VlTQSQXTaIWSlQgHY_imEfl4hyAcrhPz9w3_ejmdAKK7ZeOt5gBsNZI7mhxJsnbyLT8Bo6O6HdM01yCNuDjuz-IU64LRuAuVDOzh2Z0vLhvzwP9PUUBKE_OLn0YD7m74-kZpo1dr5c0hzCMRHxrgfIzjk9MnR4/s1600/chinese.jpg"
-    },
-    {
-      "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWHNBRGhLaFhkS252SlhNdHd0ZEtLVzUyVXB0aGFuMTdxMjNXbTFCTW1TMzlnUzQ5dUNhT05ZV0p4UFF3bS1qWVZsTnhCcGdDZG1vLU13Y1lXcWR3dzREbG9lZmJrQzdpZUZwcHFoTXo3WnR0bi1lb1dRdkVZYUsxdw?oc=5",
-      "published": "2026-09-11T07:14:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Conti ransomware gang member sentenced to 4 years in prison",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
-      "published": "2026-09-11T06:48:37+00:00",
-      "image": ""
-    },
-    {
-      "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
-      "published": "2026-09-11T06:46:18+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6b7k7Y60TgLLmuruqSocYNfZoYEmONgga8CidWSXIdOZLWlgCYLuXOe9bWQRi_3BRkOmJvPNANZAOS85Xx6RtuQTVCg2-QNi3dXfELQm8bglTMUK9rn54e-sLoslCkVYlPGiyGSnsu58yxo9EkC3PvXDWVTYhTRgDQqTDAQTs69vPBh7xjq0Fwm7bY40/s1600/papercut-flaws.jpg"
-    },
-    {
-      "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
-      "published": "2026-09-11T06:19:59+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJizB5uHZncQAbfKm3-k256bJHufHNcClzKqXH2XK79HlAw8egcuz3abU_gxrTbR2zrWqpMmFcHApBqp5AvC2uox6vEeOlDt1JdRy-A6WAqpFPfVeZ4hM4gp-lCqqY_hIXMu2VVupFLGzbv1sBXLjQGSPlORsnaEdcOqjLJQKAKfDMHJqGY6KY1NZCLth0/s1600/cisco-ransomware.jpg"
-    },
-    {
-      "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtRHJFWjVHdVR6RlNmTFlmU2dFUGpaUlJFMEZKVm9lcmlzYndtOWlPdmN1MHNXcTFPZjBwbzdZQ2FjVWRfWTduNFQ5OGJxOEFjbHptWDdsZWVGck5rLTNOZjdyaXdPcFpvdnkwSFhidmdiMi1ydllyT0R3UnlVZw?oc=5",
-      "published": "2026-09-11T06:19:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Indonesia Hit by Android Banking App-Cloning Campaign",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/mobile-security/indonesia-android-banking-app-cloning-campaign",
-      "published": "2026-09-11T01:00:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaf1f330952367016/6aa3075b6e51441d4542eee8/indonesia_flag-peng_song-GettyImages-1371211038.jpg?width=720&quality=80&disable=upscale"
     }
   ]
 }
