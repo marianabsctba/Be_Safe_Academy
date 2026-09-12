@@ -1,9 +1,18 @@
 {
-  "updated_at": "2026-09-12T15:36:58.250923+00:00",
+  "updated_at": "2026-09-12T20:38:47.200179+00:00",
   "items": [
     {
-      "title": "NCSC holandês: A exploração de falhas críticas da VPN no ponto de verificação é iminente",
-      "summary": "O Centro Nacional Holandês de Segurança Cibernética (NCSC) está alertando sobre a exploração iminente de duas falhas críticas no Check Point VPN rastreadas como CVE-2026-85102 e CVE-2026-85103. [...]",
+      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
+      "published": "2026-09-12T15:54:45+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhva55LDIsAmtR2cRnUJw2XZ3Rvo4YhdJe39cfng8EZ1oHjLevxwRcYoFdg-ydI2I7fdt9OxGj7aMcaHMekZmy9hwSlopIZ4_KQgRnmiSy0OfGh8zO26StiEeOsHaQ4fYed0dbEUCUcz4gJM9Lu6Wt7m-ppDmI7iMl52-cRfQfsu9d90Sp2ncuvbVpAPupe/s1600/jj.jpg"
+    },
+    {
+      "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
@@ -11,8 +20,8 @@
       "image": ""
     },
     {
-      "title": "BlueMoon Exploit Kit Chains Chrome recente, Windows Zero-Days",
-      "summary": "Vários atores de ameaças motivados por espionagem adotaram o BlueMoon em implantações oportunistas e apressadas. A postagem BlueMoon Exploit Kit Chains Chrome recente, Windows Zero-Days apareceu pela primeira vez em SecurityWeek.",
+      "title": "BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/",
@@ -20,8 +29,8 @@
       "image": ""
     },
     {
-      "title": "Quando toda a empresa adota a IA: o que ela faz com o seu SOC",
-      "summary": "No ano passado, vimos uma nova classe de alerta aparecer nos centros de operações de segurança corporativa e crescer mais rápido do que qualquer outra coisa no fluxo: alertas que foram acionados por ferramentas e agentes de IA. Não são ataques contra a IA, mas",
+      "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
@@ -29,8 +38,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx03NP3tJYBFro8_pZ2g6irfvMJFy0HGYqvUu9kkRJZBnMJ-BcA9aWGZZ1vS4a71YOgpB5qLBDkoNnMyOBJXGhfsyQQMK0IgaGunMOUTLnFUSFddG_5NwlnXsUCWJpGh3bGOcWLHpxXTAqv0i4QAYyRZPXcm0Rcp5K9Yfc7o7SEeLZXNtGp3NZVMzlv1M/s1600/in.jpg"
     },
     {
-      "title": "Agentes OpenAI vinculados à campanha RubyGems que ganharam RCE em servidores RubyDoc",
-      "summary": "O “grande ataque malicioso” que teve como alvo RubyGems em maio de 2026 foi obra de um enxame de agentes OpenAI, de acordo com um novo relatório publicado pelos pesquisadores Spencer Kitts, Thomas Larsen e Sydney Von Arx. Em 12 de maio, Maciej Mensfeld, gerent",
+      "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
@@ -38,8 +47,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSyR4P1ZPtVeXKeb60Ut1xdO4OhRvHWFmoYNgM7SI3NEwfwcTi3Ut60xwcqIfP56OzGFtixKW4Aeo14cVZNE6TPmpC-x8qFgofgMToETQ82bp1aMIMBuaOER2Rq6PkhONMhZPGLFSKFfxVjY4_zDNJOXYHPbQaorfgr74o2PimTPeCf1hgZQ0spe-nJoiU/s1600/rubygems-openai.jpg"
     },
     {
-      "title": "Usuários no Iêmen controlados pelos Houthi tentaram desenvolver armas avançadas com IA, afirma a Anthropic",
-      "summary": "A Antrópico disse que os usuários não conseguiram “colocar em campo um dispositivo operacional”, mas realizaram um teste fracassado de um foguete guiado. A postagem Usuários no Iêmen detidos por Houthi tentaram desenvolver armas avançadas com IA, afirma a Anth",
+      "title": "Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "DEFESA",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/",
@@ -47,8 +56,8 @@
       "image": ""
     },
     {
-      "title": "Hackers abusaram de Claude para extrair segredos de 1,8 milhão de aplicativos Android",
-      "summary": "A Anthropic afirma que vários grupos de ameaças, incluindo grupos de espionagem com motivação financeira e patrocinados pelo Estado, ligados à Rússia e à China, tentaram abusar do seu modelo Claude AI para fins maliciosos. [...]",
+      "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
@@ -56,8 +65,8 @@
       "image": ""
     },
     {
-      "title": "Ator de ameaças gera 1 milhão de e-mails de fraude personalizados em 3 dias",
-      "summary": "Os cibercriminosos por trás de campanhas de e-mail maliciosas não precisam mais comprometer o volume para obter credibilidade, ou vice-versa, graças à IA.",
+      "title": "Threat Actor Generates 1M Personalized Fraud Emails in 3 Days",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days",
@@ -65,8 +74,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta544980c27f53cb0/6aa439f3f857854e31bd9c8a/Email_trap-sesame-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Flórida confirma que banco de dados do DMV foi violado por meio de conta policial roubada",
-      "summary": "O Departamento de Segurança Rodoviária e Veículos Motorizados da Flórida (FLHSMV) confirmou que seu banco de dados de motoristas DAVID sofreu uma violação de dados, dizendo que os invasores obtiveram acesso usando credenciais pertencentes a um funcionário do d",
+      "title": "Florida confirms DMV database breached via stolen police account",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
@@ -74,8 +83,8 @@
       "image": ""
     },
     {
-      "title": "CISA pede mais orientação e menos manobras à medida que as interrupções cibernéticas aumentam",
-      "summary": "Um novo comunicado conjunto do governo sinaliza uma mudança regulatória, pressionando as organizações a adotarem protocolos mais transparentes de notificação de violações e resposta a incidentes.",
+      "title": "CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate",
@@ -83,8 +92,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8adea69aa40a4f52/6aa3151ad2a293fb0a02efea/GettyImages-2220810557.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Ataques de phishing com tema de chave de acesso levam ao roubo de dados do Microsoft 365",
-      "summary": "A Microsoft afirma que agentes de ameaças vinculados a ShinyHunters, Helix e outras gangues de extorsão estão usando ataques de engenharia social com tema de chave de acesso e logon único para comprometer contas corporativas da Microsoft e roubar dados de serv",
+      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
@@ -92,8 +101,8 @@
       "image": ""
     },
     {
-      "title": "A pesquisa de phishing desafia os testes convencionais de conscientização sobre segurança",
-      "summary": "A análise de 2,47 milhões de ataques simulados mostra por que as organizações devem medir vazamentos de credenciais e relatórios, e não apenas cliques. A postagem A pesquisa de phishing desafia os testes convencionais de conscientização sobre segurança aparece",
+      "title": "Phishing Research Challenges Conventional Security Awareness Testing",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/",
@@ -101,8 +110,8 @@
       "image": ""
     },
     {
-      "title": "Falha de leitura de arquivo GitLab CVSS 10 atrai investigações in-the-wild após divulgação",
-      "summary": "O GitLab lançou patches para resolver várias falhas, incluindo uma vulnerabilidade de segurança de gravidade máxima que testemunhou investigações em andamento poucas horas após a divulgação pública. A vulnerabilidade em questão é CVE-2026-85706 (pontuação CVSS",
+      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
@@ -110,8 +119,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioFH6aWhF9NgRW1O3yFExc7paTA9akN5-3IUQF8mvEiSTaFJjKvm6YQzFX6MP2uimYplHe1MJXz6eZtPtnxaLy25jJBhU6KuhsWFpIlnqhbn6OI6QTcfp6Olp1-VDUEF4KEYFF7hQDBdmgtxibsg9MkvbcOJIlR8Of2Flyw2m9zYfXC6gUm-TV8XA6vU43/s1600/gitlab-wild.jpg"
     },
     {
-      "title": "Falhas artificiais encadeadas em ataques que implantam malware backdoor",
-      "summary": "Os agentes de ameaças estão explorando vulnerabilidades críticas e de alta gravidade no JFrog Artifactory para ignorar a autenticação, obter privilégios administrativos e implantar um backdoor Rust em servidores auto-hospedados vulneráveis. [...]",
+      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
@@ -119,8 +128,8 @@
       "image": ""
     },
     {
-      "title": "Anthropic afirma que sete laboratórios de IA baseados na China realizaram ataques de destilação Claude em escala industrial",
-      "summary": "A Anthropic disse na quinta-feira que identificou e interrompeu ataques de destilação ilícita em escala industrial contra Claude de sete laboratórios baseados na China, incluindo Alibaba, Moonshot, DeepSeek, Z.ai (também conhecido como Zhipu) e MiniMax. A dest",
+      "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
@@ -128,8 +137,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIEiaJBfFrHCrYlSFKWGSRYD6CW_EeKfmYWCZw4jm5c9hyphenhyphenDVbaSIhyphenhyphenXwFB0ncQOoB10crmwgJV9nsvhQzJNuVMsDh6jPVt2ep23r0A2PB7ZhLfTroa0Ff__kyjjX2MjP4ok4DtBwFEF1VZC7b5OOCkibJBbwECsR0Y_9S1-NpdEIw04J5FtY9OloB084t_/s1600/claude-china.jpg"
     },
     {
-      "title": "Vulnerabilidade do GitLab explorada um dia após a divulgação",
-      "summary": "A falha de travessia de caminho de gravidade crítica permite que invasores não autenticados leiam arquivos arbitrários do servidor GitLab. A postagem Vulnerabilidade do GitLab explorada um dia após a divulgação apareceu pela primeira vez na SecurityWeek.",
+      "title": "GitLab Vulnerability Exploited One Day After Disclosure",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/",
@@ -137,8 +146,8 @@
       "image": ""
     },
     {
-      "title": "Papercut AI Swarm Attack anuncia mudanças na cadeia de mortes cibernéticas",
-      "summary": "Desde a criação de ambientes de laboratório para preparação e teste de ataques de agentes até reconhecimento, movimento lateral e exfiltração, os invasores mais inovadores estão incorporando amplamente a IA.",
+      "title": "Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/papercut-ai-swarm-attack-cyber-kill-chain",
@@ -146,22 +155,13 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8cf4e55b02be84ac/6aa41d1ff4f5704c3b28690b/bees-Trevor_Srednick-GettyImages-2204460367.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Claude costumava automatizar a exploração e o roubo de dados entre múltiplas vítimas",
-      "summary": "A Anthropic alertou que tanto cibercriminosos quanto hackers patrocinados pelo Estado estão usando seus modelos Claude para ataques cibernéticos, design de armas, propaganda e vigilância em massa entre dezembro de 2025 e agosto de 2026. Os atores da ameaça, qu",
+      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
       "published": "2026-09-11T14:29:47+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG0iCBQ4Eqxn0QOtvYZSysksPzr5fT0m8aLqNTa0a7Gcz3A5ikRt1oAenJwzo8rxcLERq54SNLtRvkYXKMTo0nMOmV8pWh4It3T0vP7q4J5Z23tdDkbBf3j7v317S7sQbBBbN6j6MuHusofo3qcbm2Y3DWT76gHp4Z1_En2QnJMCyEpvCo1sCcXoRZVw5-/s1600/claudeai.jpg"
-    },
-    {
-      "title": "Claude costumava automatizar a exploração e o roubo de dados entre múltiplas vítimas - The Hacker News",
-      "summary": "Claude costumava automatizar a exploração e o roubo de dados entre múltiplas vítimas The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR1Z1RURQbnlHRnNWMzNyTEJuOWsyNHlmcDliOVpzVlVUbG9UOUk5UjFfUHduUzZicmF5N0xrN01WYld4dHhZaFd3QzM0bEZ3N1F0X2I5Q2JJR0ExYVJlb240Ti1sUDBQLWFaZjZvN0xpc1UzNW9DdWFtaFFubTdUWQ?oc=5",
-      "published": "2026-09-11T14:29:00+00:00",
-      "image": ""
     }
   ]
 }
