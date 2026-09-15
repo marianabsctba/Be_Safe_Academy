@@ -1,9 +1,135 @@
 {
-  "updated_at": "2026-09-15T05:01:22.995098+00:00",
+  "updated_at": "2026-09-15T11:52:12.986240+00:00",
   "items": [
     {
-      "title": "'Sandworm' encadeia vulnerabilidades da Cisco para implantar Cyclops Blink",
-      "summary": "O notório grupo de ameaças russo está espalhando uma versão atualizada do malware botnet, que o FBI interrompeu em 2022.",
+      "title": "240,000 Hit by Data Breach at Japan’s Digital Agency",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/240000-hit-by-data-breach-at-japans-digital-agency/",
+      "published": "2026-09-15T11:45:31+00:00",
+      "image": ""
+    },
+    {
+      "title": "Apple Patches 200 Vulnerabilities With New iOS 27, macOS Golden Gate 27 Releases",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/apple-patches-200-vulnerabilities-with-new-ios-27-macos-golden-gate-27-releases/",
+      "published": "2026-09-15T11:06:11+00:00",
+      "image": ""
+    },
+    {
+      "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
+      "published": "2026-09-15T09:50:25+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft AI Code of Conduct Sets Cyberattack Boundaries, Chain of Command, Safety Constraints",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/microsoft-ai-code-of-conduct-sets-cyberattack-boundaries-chain-of-command-safety-constraints/",
+      "published": "2026-09-15T09:40:25+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hacked HBO Max Reddit Account Used for Malware Delivery via ClickFix Attack",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/hacked-hbo-reddit-account-used-for-malware-delivery-via-clickfix-attack/",
+      "published": "2026-09-15T09:09:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
+      "published": "2026-09-15T08:40:20+00:00",
+      "image": ""
+    },
+    {
+      "title": "Cisco patches Secure Email Gateway zero-day exploited in attacks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/",
+      "published": "2026-09-15T07:31:09+00:00",
+      "image": ""
+    },
+    {
+      "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
+      "published": "2026-09-15T06:52:16+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRVzSne-2lfRX57xj9CbnkpX1fjEWXYoPN0tDsXwgBwaE_LVqYBKtWbO1nudNLKp89aR90EeszJUqsNvZN4ZLzU1i7hm89ihV-lK1mIKiNXl6GWAWkn6uz7WlRVfIdJrS7Nfn6x-1Cclf6oTs3RxVNWxQSVBsvhzDjMBnmU3l3oERVu3b5hqag5mSeKoU/s1600/litespeed.jpg"
+    },
+    {
+      "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
+      "published": "2026-09-15T06:11:11+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu8z5yuk0NLq0i2IvKx9dibCdw5at8BanYNBhjn665PLV0EanY_s0UV0D4D0wcPijyd5r8sS4eCMDwKdsVQ9GktnqcPRympe7ZqI7Bh8ZSBukLsxFSQ3-SFRb10ylKsDPl7tU2-M3w_E0eNSe_ytrRE-JZ62fvAExuQCawQJZFjYwArFC550Ri8mOQ1q1s/s1600/cisco-email.jpg"
+    },
+    {
+      "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ieDFfelY3bmNxOThWUUhhSDdRZHhpMktWT3d2TVoydVc2d3Ytb0pzZEdBenBELXVJWU53SURSeVNGeno0aE9ESUdQU1FNOUdPdVlzQkw1aElKN0JpSU1lMEdYdjk1S2tzMFU2TEVacVhma2lOT2plemx3?oc=5",
+      "published": "2026-09-15T06:11:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
+      "published": "2026-09-15T05:31:05+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5aJxmkQeaEoRUyxjlnH4uMELX24ICkHN1UpJaF3kM181M-V32GMskTo1YCRAf-8m4rsHw0nEYM53AC1CAZekv6yOEfBkj1ZNxL3lWatq_F5Bpuwsvw7snHIiIz62EA1pX-bPaawFgIwbvtUH020WdVwEupWi_CkYJVDog_w0LVEnMMvRYo0D7giAdtuGK/s1600/chrome-windows.jpg"
+    },
+    {
+      "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iODZ0eWdVZ0FSNzNwTGc2bDlHb0ZHc1ZJalFYSEJ6VFZ6TkJVcUtUTnJKWWtHMlZ4QTV2QUM1aGFDTGlLSGpHOUh6UUxjNnF2TkxRUGRBcm0xSmxvSUJWcFN0alQxXy1vZ2lkYW5CWHdvRmFabkhBSmlVcXVycEk?oc=5",
+      "published": "2026-09-15T05:31:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/",
+      "published": "2026-09-15T05:18:51+00:00",
+      "image": ""
+    },
+    {
+      "title": "Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation - SecurityWeek",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd2ctYkszWjgzRlkxWmIzNzNINlNhdVNURmd2WDNXWXNzdm9LdGpiOFFueGw4bnp4LXRpaGZqa2hQdnJ0TkJybFFKNnJzc09BODU0NFJyeTlqNGYwZXNET0ZSZmtKamhfa1NKRGdVZGxXYVhJc3lXZkxoOFZTWE1ucmFaUkt2dmh4TW5CNHNTaFhKRFkyaVc5NUdWTTNqajBrS3ZWNkx30gGrAUFVX3lxTE5VNmpWXzAwTlY1VzFVemotSXhOb2RLYTV3MUVZMlY4b1YtMUdrVHlJX05OcnJkT2p6dTF1emlqd25zYksyYmJrTGJBMWRZWXhJZU02M3pwV1NTREpJdnBNMUlWb2RNeEVsYkJtRWU4RExKUl9fdmNVOWpyNlM5aWRlUXNiMlE1VGRyQlZ2UERsaXZmYVZMTEtyLUVYcUtUakJudmszdU9ya1dZWQ?oc=5",
+      "published": "2026-09-15T05:18:51+00:00",
+      "image": ""
+    },
+    {
+      "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink",
@@ -11,8 +137,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc3c48d3f94f040d1/6aa866a635d26cae06cd28c4/cyclops-ratpack223-Getty-2194261969.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Microsoft lança atualizações emergenciais do Windows para corrigir falhas de RDS",
-      "summary": "A Microsoft lançou atualizações emergenciais fora de banda do Windows para corrigir falhas dos Serviços de Área de Trabalho Remota causadas pelas atualizações de segurança deste mês, junto com problemas de áudio Hyper-V e USB em algumas versões do Windows. [..",
+      "title": "Microsoft releases emergency Windows updates to fix RDS failures",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "DEFESA",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
@@ -20,8 +146,8 @@
       "image": ""
     },
     {
-      "title": "Agência Digital do Japão afirma que falha na VPN expôs 246 mil registros pessoais",
-      "summary": "A Agência Digital do Japão descobriu uma violação de dados que pode ter exposto cerca de 246 mil linhas de registros contendo informações pessoais de funcionários do governo. [...]",
+      "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
@@ -29,139 +155,13 @@
       "image": ""
     },
     {
-      "title": "Falha de gravidade máxima no GitLab coloca as cadeias de suprimentos em risco",
-      "summary": "CVE-2026-85706 é uma vulnerabilidade de passagem de caminho com pontuação CVSS de 10 em 10, afetando instâncias do GitLab Community Edition e Enterprise Edition.",
+      "title": "Maximum Severity GitLab Flaw Puts Supply Chains at Risk",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk",
       "published": "2026-09-14T20:19:22+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1a9ed3a258b13f14/6aa83d3cc934fc9f7a138382/supplychain-Infinite_Creations-Getty-2289795401.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Homebrew 7.0.0 obtém GUI integrada, melhores controles de segurança",
-      "summary": "O gerenciador de pacotes Homebrew versão 7.0.0 foi lançado com um scanner de vulnerabilidade integrado, controles de segurança mais fortes e o lançamento completo de sua interface gráfica nativa BrewUI. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
-      "published": "2026-09-14T19:51:04+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers sequestram conta HBO Max Reddit para enviar malware em anúncios ClickFix",
-      "summary": "Os hackers comprometeram a conta oficial do Reddit da HBO Max e a usaram para enviar anúncios maliciosos que lançaram ataques ClickFix para infectar dispositivos Windows e macOS com malware que rouba informações. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
-      "published": "2026-09-14T18:34:16+00:00",
-      "image": ""
-    },
-    {
-      "title": "Novo ataque DDRop quebra a computação confidencial Intel TDX e AMD SEV-SNP",
-      "summary": "Pesquisadores divulgaram um novo ataque de hardware, chamado DDRop, que quebra a proteção de memória na computação confidencial da Intel e da AMD, descartando silenciosamente gravações na memória de um servidor, de modo que o processador continue lendo dados c",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
-      "published": "2026-09-14T18:02:13+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4IfzHWVZbbX-Jlw_WME4viVgnupLfVdkxzfZ0skzjQpB5I32f-nua5-Gt6UJGJ9-cwTyrHqaCxBFndtNkIFx_Tj9sf3LnxfrqlecJ0zh0N83i5YRdukZRTpTiUP-kVrkpF4gMJZN-tONZy7jjk2gqdq87ELsUHDlyjQDFCIX6Rioz3ljHItZ2IeLDqb-w/s1600/DDRop.gif"
-    },
-    {
-      "title": "O invasor 3BB usou backdoor MeshCentral para acesso root e credenciais de assinante direcionadas",
-      "summary": "Um invasor operava dentro da rede da 3BB, um dos maiores provedores de banda larga da Tailândia, e mantinha o controle remoto de máquinas internas usando uma ferramenta de gerenciamento legítima chamada MeshCentral, disse a empresa de inteligência de ameaças H",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
-      "published": "2026-09-14T18:01:49+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9khzZCrFkNfQ1fOYHT8A4LJrIsfc52ppe6xZffdUrfRacqTVQ76P0VPDZhqC2UfKM32jdbEiQfaCZDbrV2F0_dssOM8V8nT3ZZYvwhflLdfEhJhdNa0-UntK9XHkFJ4R5RthFMOM2X5kDZxUKW1RnRLmmQ0xLh5foMldMZovB0ZPdafoRf9cEb_w9Hwk/s1600/3bb.jpg"
-    },
-    {
-      "title": "O invasor 3BB usou backdoor MeshCentral para acesso root, credenciais de assinante direcionadas - The Hacker News",
-      "summary": "O invasor 3BB usou backdoor MeshCentral para acesso root, credenciais de assinante direcionadas The Hacker News",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaXpFRU9RalF5VDg5dFVyUHhfclpxVkUwa1dGRElncXNUM3p5WExCMUNZaGdJanR1eHZzaDJJNFR1bTE5cUh3NEZ2N0dVel9ZNUJZWkxnOHlrTUlNemdwOW5haGZMd3dzZ1ZNNm9HT1hrSkhUU1dPd01UZWxJYi0tSlFnYw?oc=5",
-      "published": "2026-09-14T18:01:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falha no Telegram Desktop permite que JavaScript oculto exfiltre mensagens de exportações HTML",
-      "summary": "Uma falha no Telegram Desktop permitiu que uma mensagem de bot plantasse JavaScript oculto dentro de bate-papos que os usuários exportavam para arquivos HTML, disseram pesquisadores de segurança da ExPatch em um artigo publicado em 12 de setembro. No Telegram,",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
-      "published": "2026-09-14T17:58:16+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7YYT-Mf718wZ9kLasqkkPZ1Drw4dlLUMaHtOPuWRltuG7bOcA-d4bFr4GRmer0MMohBwgv7HFVFADi-EeDvIMcbEaJUiyn8t-iLxtR8PVRDWHLmxKnofrZgoPOH_RS7qaUkzd0Ery8Rr7oWlgoPJligCMSSywXmXdMHgzuER6M77sWisfdMOo_rqudmk/s1600/telehgram.jpg"
-    },
-    {
-      "title": "Red Heron explora Gitea RCE para comprometer 13 organizações em seis países",
-      "summary": "Um suspeito de ameaça chinês rastreado como Red Heron foi atribuído à rápida exploração de uma vulnerabilidade de segurança recentemente divulgada em Gitea para comprometer instâncias que enfrentam a Internet como parte de uma campanha multinacional. \"Red Hero",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
-      "published": "2026-09-14T16:56:30+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijvj2lBIP05rWNCbhHf0wzhfJ35HBSL0rrr99VOwBa-AzBrvlz0hpopABC1zCHMLj6mqJTNSiij7cFcocgbHUyRbh1QV3V7OCWDLXn3fJ_fRJQxaj63BC8UOjjNlcBdwZ0jdD3zWDA6XpA3Xt2an-6vAE-kyo3sPOpjNa5tzWnntDxaeia-0zzKa-PuywC/s1600/gitea-hacked.jpg"
-    },
-    {
-      "title": "Red Heron explora Gitea RCE para comprometer 13 organizações em seis países - The Hacker News",
-      "summary": "Red Heron explora Gitea RCE para comprometer 13 organizações em seis países The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pNktzMTVESHNISUJNUkZxbERIN2w1MXoxTU5neGlZSVhWdnBfaVcwbDBhTjBhZnMzblJiOFdrUG01bTlaVUtMa0dFeThXNWFLME9DWHZXUEF6Sk5aZmZSTTFVN0ZpbGxzZkVzQ1dhTG01bjY1ZEhKd1Vn?oc=5",
-      "published": "2026-09-14T16:56:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "CEO da Anthropic: hora de mudar da melhoria para o controle da IA",
-      "summary": "Dario Amodei diz que é hora de desacelerar o ritmo das melhorias de ponta na IA para que os esforços de segurança e prevenção de riscos possam alcançá-los. O que isso significa para as empresas?",
-      "category": "CLOUD & IA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai",
-      "published": "2026-09-14T16:41:10+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdc1ceecd5c1e4406/6aa7f8ab9253248bcbbd9bdb/AI_agent_concept_Brain_light_Alamy.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "WordPress adiciona análises automatizadas de plug-ins para bloquear atualizações de alto risco antes da distribuição",
-      "summary": "O WordPress anunciou que está lançando uma revisão automatizada de segurança para cada versão de um plugin antes de ser distribuído através da API de atualização do WordPress.org, para analisá-lo em busca de possíveis problemas de segurança e garantir que não ",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
-      "published": "2026-09-14T16:00:04+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6NRxf0-3Ca12cwdQVS-bicsxwk-06KQZJaLMbd2d217NkuO82Bld3P_E96WP8OEqZXSjDoLtW0JfnRYkQSyl0BlQDNkQoBOf7x-Q5wOmpc59Z4v1ycux0YWShQpPIyvYmMmIRJ0c5Zv_38VFrhwtdcdoxycqIm0b5Df7AeYjbr-8KCJlbujHVhmpvdtrk/s1600/wordpress-auto.jpg"
-    },
-    {
-      "title": "⚡ Recapitulação semanal: agentes de IA desonestos, worm WeChat, ataques PaperCut, espionagem de IA e rootkits",
-      "summary": "A IA continua aparecendo nos lugares errados. Os invasores estão usando-o para acelerar explorações, testar defesas e automatizar mais tarefas. Alguns modelos também cruzam os limites por conta própria. Essa não é uma ótima combinação. O resto da semana é mais",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
-      "published": "2026-09-14T14:40:34+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgubijVX34VFFHDXzT2j2iTTWrHaElVXjylLKHKAjeSU59q3jTZvRM_O35zw5QOCnrT8ejrYHTG-kjYyt0-R127H_2qEgIWJNuKynEL1FcM9JLyPbsJPY5OZW9rrkJpRprrxpWP8oAGZA2ARZ3xg_0DvBw1I2wbIoXKItcVEjNXQH-CXCMRyuqp1u53ALj7/s1600/recap-cyber.jpg"
-    },
-    {
-      "title": "⚡ Recapitulação semanal: agentes de IA desonestos, worm WeChat, ataques PaperCut, espionagem de IA e rootkits - The Hacker News",
-      "summary": "⚡ Recapitulação semanal: agentes de IA desonestos, worm WeChat, ataques PaperCut, espionagem de IA e rootkits The Hacker News",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tMjhoa24xN0hTQmcyU2p5cVdEM0YxX0t5b09neHZnTHRSTEduWF96cnlwQ2F5cGhyQ3ktT0F3bF82OWVzdVZvTjFTcnVhNkRtU0xOcGJaSzlNeWFKc3lpYk56R1JqVGRMaW5HUVZMRXJHZmp2dGU1LUFSdlZRX0k?oc=5",
-      "published": "2026-09-14T14:40:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Pequim responde ao apelo do CEO da Anthropic para conter o desenvolvimento de IA na China",
-      "summary": "O Ministério dos Negócios Estrangeiros da China respondeu a uma pergunta sobre o ensaio de Amodei dizendo que todas as partes deveriam trabalhar juntas na IA. A postagem Pequim reage ao apelo do CEO da Anthropic para conter o desenvolvimento de IA na China apa",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/beijing-hits-back-at-anthropic-ceos-call-to-curb-chinas-ai-development/",
-      "published": "2026-09-14T14:28:26+00:00",
-      "image": ""
-    },
-    {
-      "title": "Por que a automação de patches precisa de freios, não apenas de um acelerador",
-      "summary": "A automação de patches pode ajudar as equipes de TI a acompanhar o crescimento dos volumes de atualização, mas a implantação mais rápida também significa que atualizações ruins podem se espalhar mais rapidamente. Action1 explica como os anéis de atualização, o",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
-      "published": "2026-09-14T14:01:11+00:00",
-      "image": ""
     }
   ]
 }
