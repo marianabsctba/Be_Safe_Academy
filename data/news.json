@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-14T23:53:45.126949+00:00",
+  "updated_at": "2026-09-15T05:01:22.995098+00:00",
   "items": [
     {
-      "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "'Sandworm' encadeia vulnerabilidades da Cisco para implantar Cyclops Blink",
+      "summary": "O notório grupo de ameaças russo está espalhando uma versão atualizada do malware botnet, que o FBI interrompeu em 2022.",
       "category": "AMEAÇAS",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink",
@@ -11,8 +11,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc3c48d3f94f040d1/6aa866a635d26cae06cd28c4/cyclops-ratpack223-Getty-2194261969.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Microsoft releases emergency Windows updates to fix RDS failures",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Microsoft lança atualizações emergenciais do Windows para corrigir falhas de RDS",
+      "summary": "A Microsoft lançou atualizações emergenciais fora de banda do Windows para corrigir falhas dos Serviços de Área de Trabalho Remota causadas pelas atualizações de segurança deste mês, junto com problemas de áudio Hyper-V e USB em algumas versões do Windows. [..",
       "category": "DEFESA",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
@@ -20,8 +20,8 @@
       "image": ""
     },
     {
-      "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Agência Digital do Japão afirma que falha na VPN expôs 246 mil registros pessoais",
+      "summary": "A Agência Digital do Japão descobriu uma violação de dados que pode ter exposto cerca de 246 mil linhas de registros contendo informações pessoais de funcionários do governo. [...]",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
@@ -29,8 +29,8 @@
       "image": ""
     },
     {
-      "title": "Maximum Severity GitLab Flaw Puts Supply Chains at Risk",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Falha de gravidade máxima no GitLab coloca as cadeias de suprimentos em risco",
+      "summary": "CVE-2026-85706 é uma vulnerabilidade de passagem de caminho com pontuação CVSS de 10 em 10, afetando instâncias do GitLab Community Edition e Enterprise Edition.",
       "category": "VULNERABILIDADES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk",
@@ -38,8 +38,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1a9ed3a258b13f14/6aa83d3cc934fc9f7a138382/supplychain-Infinite_Creations-Getty-2289795401.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Homebrew 7.0.0 obtém GUI integrada, melhores controles de segurança",
+      "summary": "O gerenciador de pacotes Homebrew versão 7.0.0 foi lançado com um scanner de vulnerabilidade integrado, controles de segurança mais fortes e o lançamento completo de sua interface gráfica nativa BrewUI. [...]",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
@@ -47,8 +47,8 @@
       "image": ""
     },
     {
-      "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Hackers sequestram conta HBO Max Reddit para enviar malware em anúncios ClickFix",
+      "summary": "Os hackers comprometeram a conta oficial do Reddit da HBO Max e a usaram para enviar anúncios maliciosos que lançaram ataques ClickFix para infectar dispositivos Windows e macOS com malware que rouba informações. [...]",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
@@ -56,8 +56,8 @@
       "image": ""
     },
     {
-      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Novo ataque DDRop quebra a computação confidencial Intel TDX e AMD SEV-SNP",
+      "summary": "Pesquisadores divulgaram um novo ataque de hardware, chamado DDRop, que quebra a proteção de memória na computação confidencial da Intel e da AMD, descartando silenciosamente gravações na memória de um servidor, de modo que o processador continue lendo dados c",
       "category": "INCIDENTES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
@@ -65,8 +65,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4IfzHWVZbbX-Jlw_WME4viVgnupLfVdkxzfZ0skzjQpB5I32f-nua5-Gt6UJGJ9-cwTyrHqaCxBFndtNkIFx_Tj9sf3LnxfrqlecJ0zh0N83i5YRdukZRTpTiUP-kVrkpF4gMJZN-tONZy7jjk2gqdq87ELsUHDlyjQDFCIX6Rioz3ljHItZ2IeLDqb-w/s1600/DDRop.gif"
     },
     {
-      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "O invasor 3BB usou backdoor MeshCentral para acesso root e credenciais de assinante direcionadas",
+      "summary": "Um invasor operava dentro da rede da 3BB, um dos maiores provedores de banda larga da Tailândia, e mantinha o controle remoto de máquinas internas usando uma ferramenta de gerenciamento legítima chamada MeshCentral, disse a empresa de inteligência de ameaças H",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
@@ -74,8 +74,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9khzZCrFkNfQ1fOYHT8A4LJrIsfc52ppe6xZffdUrfRacqTVQ76P0VPDZhqC2UfKM32jdbEiQfaCZDbrV2F0_dssOM8V8nT3ZZYvwhflLdfEhJhdNa0-UntK9XHkFJ4R5RthFMOM2X5kDZxUKW1RnRLmmQ0xLh5foMldMZovB0ZPdafoRf9cEb_w9Hwk/s1600/3bb.jpg"
     },
     {
-      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "O invasor 3BB usou backdoor MeshCentral para acesso root, credenciais de assinante direcionadas - The Hacker News",
+      "summary": "O invasor 3BB usou backdoor MeshCentral para acesso root, credenciais de assinante direcionadas The Hacker News",
       "category": "INCIDENTES",
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaXpFRU9RalF5VDg5dFVyUHhfclpxVkUwa1dGRElncXNUM3p5WExCMUNZaGdJanR1eHZzaDJJNFR1bTE5cUh3NEZ2N0dVel9ZNUJZWkxnOHlrTUlNemdwOW5haGZMd3dzZ1ZNNm9HT1hrSkhUU1dPd01UZWxJYi0tSlFnYw?oc=5",
@@ -83,8 +83,8 @@
       "image": ""
     },
     {
-      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Falha no Telegram Desktop permite que JavaScript oculto exfiltre mensagens de exportações HTML",
+      "summary": "Uma falha no Telegram Desktop permitiu que uma mensagem de bot plantasse JavaScript oculto dentro de bate-papos que os usuários exportavam para arquivos HTML, disseram pesquisadores de segurança da ExPatch em um artigo publicado em 12 de setembro. No Telegram,",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
@@ -92,8 +92,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7YYT-Mf718wZ9kLasqkkPZ1Drw4dlLUMaHtOPuWRltuG7bOcA-d4bFr4GRmer0MMohBwgv7HFVFADi-EeDvIMcbEaJUiyn8t-iLxtR8PVRDWHLmxKnofrZgoPOH_RS7qaUkzd0Ery8Rr7oWlgoPJligCMSSywXmXdMHgzuER6M77sWisfdMOo_rqudmk/s1600/telehgram.jpg"
     },
     {
-      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Red Heron explora Gitea RCE para comprometer 13 organizações em seis países",
+      "summary": "Um suspeito de ameaça chinês rastreado como Red Heron foi atribuído à rápida exploração de uma vulnerabilidade de segurança recentemente divulgada em Gitea para comprometer instâncias que enfrentam a Internet como parte de uma campanha multinacional. \"Red Hero",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
@@ -101,8 +101,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijvj2lBIP05rWNCbhHf0wzhfJ35HBSL0rrr99VOwBa-AzBrvlz0hpopABC1zCHMLj6mqJTNSiij7cFcocgbHUyRbh1QV3V7OCWDLXn3fJ_fRJQxaj63BC8UOjjNlcBdwZ0jdD3zWDA6XpA3Xt2an-6vAE-kyo3sPOpjNa5tzWnntDxaeia-0zzKa-PuywC/s1600/gitea-hacked.jpg"
     },
     {
-      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Red Heron explora Gitea RCE para comprometer 13 organizações em seis países - The Hacker News",
+      "summary": "Red Heron explora Gitea RCE para comprometer 13 organizações em seis países The Hacker News",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pNktzMTVESHNISUJNUkZxbERIN2w1MXoxTU5neGlZSVhWdnBfaVcwbDBhTjBhZnMzblJiOFdrUG01bTlaVUtMa0dFeThXNWFLME9DWHZXUEF6Sk5aZmZSTTFVN0ZpbGxzZkVzQ1dhTG01bjY1ZEhKd1Vn?oc=5",
@@ -110,8 +110,8 @@
       "image": ""
     },
     {
-      "title": "Anthropic CEO: Time to Shift From Improving to Controlling AI",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "CEO da Anthropic: hora de mudar da melhoria para o controle da IA",
+      "summary": "Dario Amodei diz que é hora de desacelerar o ritmo das melhorias de ponta na IA para que os esforços de segurança e prevenção de riscos possam alcançá-los. O que isso significa para as empresas?",
       "category": "CLOUD & IA",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyber-risk/anthropic-ceo-shift-from-improving-to-controlling-ai",
@@ -119,8 +119,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdc1ceecd5c1e4406/6aa7f8ab9253248bcbbd9bdb/AI_agent_concept_Brain_light_Alamy.png?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "WordPress adiciona análises automatizadas de plug-ins para bloquear atualizações de alto risco antes da distribuição",
+      "summary": "O WordPress anunciou que está lançando uma revisão automatizada de segurança para cada versão de um plugin antes de ser distribuído através da API de atualização do WordPress.org, para analisá-lo em busca de possíveis problemas de segurança e garantir que não ",
       "category": "DEFESA",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
@@ -128,8 +128,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6NRxf0-3Ca12cwdQVS-bicsxwk-06KQZJaLMbd2d217NkuO82Bld3P_E96WP8OEqZXSjDoLtW0JfnRYkQSyl0BlQDNkQoBOf7x-Q5wOmpc59Z4v1ycux0YWShQpPIyvYmMmIRJ0c5Zv_38VFrhwtdcdoxycqIm0b5Df7AeYjbr-8KCJlbujHVhmpvdtrk/s1600/wordpress-auto.jpg"
     },
     {
-      "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "⚡ Recapitulação semanal: agentes de IA desonestos, worm WeChat, ataques PaperCut, espionagem de IA e rootkits",
+      "summary": "A IA continua aparecendo nos lugares errados. Os invasores estão usando-o para acelerar explorações, testar defesas e automatizar mais tarefas. Alguns modelos também cruzam os limites por conta própria. Essa não é uma ótima combinação. O resto da semana é mais",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
@@ -137,8 +137,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgubijVX34VFFHDXzT2j2iTTWrHaElVXjylLKHKAjeSU59q3jTZvRM_O35zw5QOCnrT8ejrYHTG-kjYyt0-R127H_2qEgIWJNuKynEL1FcM9JLyPbsJPY5OZW9rrkJpRprrxpWP8oAGZA2ARZ3xg_0DvBw1I2wbIoXKItcVEjNXQH-CXCMRyuqp1u53ALj7/s1600/recap-cyber.jpg"
     },
     {
-      "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "⚡ Recapitulação semanal: agentes de IA desonestos, worm WeChat, ataques PaperCut, espionagem de IA e rootkits - The Hacker News",
+      "summary": "⚡ Recapitulação semanal: agentes de IA desonestos, worm WeChat, ataques PaperCut, espionagem de IA e rootkits The Hacker News",
       "category": "INCIDENTES",
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tMjhoa24xN0hTQmcyU2p5cVdEM0YxX0t5b09neHZnTHRSTEduWF96cnlwQ2F5cGhyQ3ktT0F3bF82OWVzdVZvTjFTcnVhNkRtU0xOcGJaSzlNeWFKc3lpYk56R1JqVGRMaW5HUVZMRXJHZmp2dGU1LUFSdlZRX0k?oc=5",
@@ -146,8 +146,8 @@
       "image": ""
     },
     {
-      "title": "Beijing Hits Back at Anthropic CEO’s Call to Curb China’s AI Development",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Pequim responde ao apelo do CEO da Anthropic para conter o desenvolvimento de IA na China",
+      "summary": "O Ministério dos Negócios Estrangeiros da China respondeu a uma pergunta sobre o ensaio de Amodei dizendo que todas as partes deveriam trabalhar juntas na IA. A postagem Pequim reage ao apelo do CEO da Anthropic para conter o desenvolvimento de IA na China apa",
       "category": "CLOUD & IA",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/beijing-hits-back-at-anthropic-ceos-call-to-curb-chinas-ai-development/",
@@ -155,8 +155,8 @@
       "image": ""
     },
     {
-      "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Por que a automação de patches precisa de freios, não apenas de um acelerador",
+      "summary": "A automação de patches pode ajudar as equipes de TI a acompanhar o crescimento dos volumes de atualização, mas a implantação mais rápida também significa que atualizações ruins podem se espalhar mais rapidamente. Action1 explica como os anéis de atualização, o",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
