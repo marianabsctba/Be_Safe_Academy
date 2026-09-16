@@ -1,9 +1,27 @@
 {
-  "updated_at": "2026-09-15T21:27:49.916576+00:00",
+  "updated_at": "2026-09-16T04:56:28.159569+00:00",
   "items": [
     {
-      "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Cyber ​​Op tem como alvo os setores automotivo e de mídia sul-coreanos",
+      "summary": "Um provável grupo norte-coreano de ameaças persistentes avançadas (APT) usou um kit de ferramentas de espionagem Linux anteriormente não documentado para comprometer balanceadores de carga, obter acesso a comunicações e explorar ainda mais as redes.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive",
+      "published": "2026-09-16T01:00:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd024a0beb5b45fd6/6aa9b79b31811693de070eeb/dprk-rok-tech-security-QQMinh88-shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Acronis alerta sobre falha explorada ativamente em seu plugin de backup cPanel",
+      "summary": "A Acronis divulgou uma vulnerabilidade de escalonamento de privilégios locais do Linux de alta gravidade em seu plugin de backup para cPanel, WebHost Manager (WHM) e Plesk que pode ser explorada em liberdade. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
+      "published": "2026-09-15T21:37:35+00:00",
+      "image": ""
+    },
+    {
+      "title": "Plugin Malcious Admin Menu Editor Pro backdoors em 1.500 sites WordPress",
+      "summary": "Versões maliciosas do plugin Admin Menu Editor Pro para WordPress foram distribuídas para mais de 200 clientes depois que um agente de ameaça comprometeu o site do mantenedor e enviou atualizações que criaram uma conta de usuário oculta. [...]",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
@@ -11,8 +29,8 @@
       "image": ""
     },
     {
-      "title": "Microsoft Commits to Sweeping AI Privacy Rules for Students. Will Other Tech Giants Follow?",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Microsoft se compromete com regras abrangentes de privacidade de IA para estudantes. Outros gigantes da tecnologia seguirão?",
+      "summary": "A Microsoft concordou em adotar proteções e padrões de privacidade para sua IA nas escolas, conforme negociado com a Federação Americana de Professores. A postagem Microsoft se compromete com regras abrangentes de privacidade de IA para estudantes. Outros giga",
       "category": "CLOUD & IA",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/microsoft-commits-to-sweeping-ai-privacy-rules-for-students-will-other-tech-giants-follow/",
@@ -20,8 +38,8 @@
       "image": ""
     },
     {
-      "title": "Microsoft Issues Emergency Fixes After Massive Patch Tuesday",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Microsoft emite correções de emergência após grande patch na terça-feira",
+      "summary": "Você não pode fazer uma omelete sem quebrar alguns ovos e não pode consertar quase 1.000 CVEs sem algumas falhas.",
       "category": "VULNERABILIDADES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday",
@@ -29,8 +47,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf29a4f8e7f31399c/6aa99ef8490d641d3386d500/patching-da-kuk-Getty-2219524542.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "“We Think the Security Control Is Working” Is No Longer Good Enough",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "“Achamos que o controle de segurança está funcionando” não é mais suficiente",
+      "summary": "As auditorias pontuais e as avaliações por amostragem oferecem apenas instantâneos; o monitoramento contínuo dos controles fornece evidências de que os controles de segurança estão funcionando hoje. A postagem “Achamos que o controle de segurança está funciona",
       "category": "DEFESA",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/we-think-the-security-control-is-working-is-no-longer-good-enough/",
@@ -38,8 +56,8 @@
       "image": ""
     },
     {
-      "title": "Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Incident",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Chapéu Preto EUA 2026 | As notícias de última hora: o incidente OpenAI – Hugging Face",
+      "summary": "As notícias de última hora: O incidente OpenAI – Hugging Face - Uma reconstrução técnica e suas implicações para a IA Nesta palestra da Black Hat USA 2026, engenheiros e pesquisadores de segurança da OpenAI reconstruirão o incidente OpenAI-Hugging Face e exami",
       "category": "INCIDENTES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk",
@@ -47,8 +65,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt886d5ec4d2c71007/6aa99c49ca8ea7e099dd4980/huggingfacescreenshot.png?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Malware bancário KREMLIN sequestra Chrome e Edge para roubar credenciais e tokens de sessão",
+      "summary": "Pesquisadores de segurança cibernética lançaram luz sobre uma operação de malware bancário brasileiro, anteriormente não documentada, que fornece um kit de ferramentas chamado KREMLIN. O Elastic Security Labs está rastreando a atividade sob o nome REF9334. Ati",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
@@ -56,8 +74,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPTs6qupSdjinGg233zkoldOvlD4cva51loWufV3l9GrlDopNRIKsV9yluCDjbGELBAAvVGx_h4R-sjx4jvDp290Znzhv6j546sq5JB0NJUShGVV3w0gKU7nu4dBVCosaPeKW-Pr1_WHn4FV26aEJRgEo7oSJsgUE5_ZGCMKWPPBdZ7NMh5XRr04Cs6qTh/s1600/browser-malware.jpg"
     },
     {
-      "title": "VectraRAT Can Hack Windows Enterprises for $250 per Month",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "VectraRAT pode hackear Windows Enterprises por US$ 250 por mês",
+      "summary": "A plataforma de serviço completo de malware como serviço (MaaS) oferece um implante Windows, infraestrutura de comando e controle (C2) e um painel de operador para acesso remoto abrangente.",
       "category": "AMEAÇAS",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/endpoint-security/vectrarat-hack-windows-enterprises",
@@ -65,8 +83,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdd19a1ede5fda05d/6aa9273ab525586149ce55e2/rat-David_Chapman-Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "CenterPoint Energy confirma dados de clientes roubados em ataque cibernético",
+      "summary": "A CenterPoint Energy divulgou uma violação que comprometeu as informações pessoais de alguns clientes depois que um invasor vazou dados supostamente roubados da concessionária. [...]",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
@@ -74,8 +92,8 @@
       "image": ""
     },
     {
-      "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Hackers iranianos usam malware controlado por telegrama para espionar dissidentes e jornalistas",
+      "summary": "Agências de segurança cibernética nos Estados Unidos, no Reino Unido e na Holanda detalharam um malware para Windows que, segundo eles, o serviço de inteligência do Irã usa para espionar dissidentes, jornalistas e ativistas em todo o mundo. O malware é control",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
@@ -83,17 +101,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZTZstgI7jZKSq2kVj82ewI26neoU-YsSa1z0LIJdjqdsCSk8zS3VYdvhFyfE0rq75UOlst77oTDBZ-mVzRDaqljLl-jJrvxWzLBmj74k8kWFjld5o2uTB59tskHlBqM0JTuf5yuTMsWMBuE-Y_2LtkIfKT-l9C-h5Y5rvkAJKlIGD5rQLbUuWRNx8y5k/s1600/iran-malware.jpg"
     },
     {
-      "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU3hMMG1DcTBIbzhpTUM4clUxb3d3VVlLMG8tWjJyV2ZzSUlEanJlbkE5MXJuZHpMX0JYcEJJdDllTXRadUc0VVZOZ0hWVXRoVjZvRFZyemRzcEtJNzJVV0MtUHNvNURNSldVZ2dTTkpGU3ZfcUtCOGJBMmwxZlVyYWVaM04?oc=5",
-      "published": "2026-09-15T16:29:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "$1 Million Sandbox Challenge Uncovers Linux Kernel Flaws",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Desafio Sandbox de US$ 1 milhão revela falhas do kernel do Linux",
+      "summary": "Pesquisadores assistidos por IA inundaram a Vercel com relatórios, forçando a empresa a automatizar a triagem de vulnerabilidades. A postagem Desafio Sandbox de US$ 1 milhão revela falhas no kernel do Linux apareceu pela primeira vez na SecurityWeek.",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/1-million-sandbox-challenge-uncovers-linux-kernel-flaws/",
@@ -101,8 +110,8 @@
       "image": ""
     },
     {
-      "title": "Exein Secures $270M at $1.7B Valuation for Physical AI Security",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Exein garante US$ 270 milhões com avaliação de US$ 1,7 bilhão para segurança física de IA",
+      "summary": "A startup de segurança cibernética está construindo um modelo de base proprietário e planeja acelerar a expansão global. A postagem Exein garante avaliação de US$ 270 milhões com avaliação de US$ 1,7 bilhão para segurança física de IA apareceu pela primeira ve",
       "category": "CLOUD & IA",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/exein-secures-270m-at-1-7b-valuation-for-physical-ai-security/",
@@ -110,8 +119,8 @@
       "image": ""
     },
     {
-      "title": "Texas Utility CenterPoint Energy Confirms Breach After Hacker Leaks Data",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Texas Utility CenterPoint Energy confirma violação após hacker vazar dados",
+      "summary": "Um hacker afirma ter roubado 7,5 milhões de registros de clientes após violar os sistemas da empresa. A postagem Texas Utility CenterPoint Energy confirma violação após hacker vazar dados apareceu pela primeira vez na SecurityWeek.",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/texas-utility-centerpoint-energy-confirms-breach-after-hacker-leaks-data/",
@@ -119,8 +128,8 @@
       "image": ""
     },
     {
-      "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "O malware BambooToken usa MQTT para controlar sistemas Windows e Linux",
+      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma campanha multiplataforma que usa o protocolo Message Queuing Telemetry Transport (MQTT) como canal de comunicação para controlar sistemas Windows e Linux. A família emergente de malware, de codi",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
@@ -128,17 +137,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7hFIl_GRAlPuegwLGZ2PzXVsPEUTEevpEYhkU2Va9isB7aC8a0jJCLVszVOUc_CAIb4IkIkmRjkvyaTIadUizNNEhHTxvzlPX0EUN6UQutjyrauyi35fzRtBjFudyOW4HlAnTRNC9XDj39uNBMKUWHUV2g0Rt8o3aSADZAeAIYgLN-dT0q8gIH9cWUDBF/s1600/windows-linux.jpg"
     },
     {
-      "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5wc2ZtRHF4NTRJamR6azZKSFMydkMxTl9aekxnaGk3ZTZrXzFFNTdsTG1iamtfdU5vRDlIQTltX1F2Tnlsb1RLSXpvSW1tSDc3ekVnWlBHdzYxUmJmYnBCVjBpYUlrTzN3TDZNWVNZVldHQURZVkVPMlAtNA?oc=5",
-      "published": "2026-09-15T15:23:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "BambooToken malware controls Windows and Linux systems via MQTT",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "O malware BambooToken controla sistemas Windows e Linux via MQTT",
+      "summary": "Uma estrutura de malware anteriormente desconhecida chamada BambooToken, ativa pelo menos desde 2023, agora está usando o protocolo Message Queuing Telemetry Transport (MQTT) para se comunicar com sistemas Windows e Linux. [...]",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
@@ -146,8 +146,8 @@
       "image": ""
     },
     {
-      "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Hackers atacam sites WordPress por meio do plugin WooCommerce de terceiros",
+      "summary": "Os hackers estão explorando ativamente uma vulnerabilidade crítica no plug-in premium WooCommerce Wholesale Lead Capture para WordPress para fazer upload de um backdoor PHP. [...]",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
@@ -155,8 +155,8 @@
       "image": ""
     },
     {
-      "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Qual deveria ser a resposta de dia zero na era pós-mito",
+      "summary": "A IA está diminuindo o tempo entre a divulgação de vulnerabilidades e a exploração, deixando aos defensores menos tempo para esperar por patches ou explorações públicas. Picus Security explica como a validação de explorabilidade, testes de controle de seguranç",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
