@@ -1,9 +1,153 @@
 {
-  "updated_at": "2026-09-16T11:46:41.479152+00:00",
+  "updated_at": "2026-09-16T17:06:36.354237+00:00",
   "items": [
     {
-      "title": "Falhas de RCE não autenticadas podem expor mais de 200.000 sites WordPress à aquisição",
-      "summary": "Vulnerabilidades no Calendário de Eventos podem fornecer aos invasores recursos de execução remota de código. A postagem Falhas de RCE não autenticadas podem expor mais de 200.000 sites WordPress ao controle apareceu pela primeira vez em SecurityWeek.",
+      "title": "BragJack Attack Can Turn a Browser's Agentic AI Against It",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai",
+      "published": "2026-09-16T16:43:37+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt64d615142d7be882/6882572f618f869f048e5227/Agentic_AI_(1800)_Pattara_Alamy.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "First Agentic AI Data Breach Reported to Spanish Regulator",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/",
+      "published": "2026-09-16T16:39:19+00:00",
+      "image": ""
+    },
+    {
+      "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
+      "published": "2026-09-16T15:50:59+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aXi8Vt3MH8e38-ViNXz-m4hRPrbqDMGcpbMtOc3b-cDLIyEZEjqGvSscW6mR34ZrmPM4lSnv6C9XFTHlgq3UyGLA24gySGqcCzdKr-hIY2QZO8VSXnC-KAsdEz6vTkgdRnVxAZVM7NyrhgpL2xDWR8lcvPInEwgvj0pTgHkC7KStUFglwcLext7eb3w5/s1600/issa.jpg"
+    },
+    {
+      "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
+      "published": "2026-09-16T15:27:49+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMMZZrs8eh-baUC-73E9tejQYA0JZzWyoElUJGhCi0N4_f2EzmPPhQW3xY0kmNZv775T26ywu4czdta-vHaLp1gaI03eqho2SSe3riHMZP8hLTrU1ETnIv-k1ywOpnBFvbkyQJNZt7F4Xx4NndvvS8esTt1jzaCdeN9JZNkNB8sBU1vytibSRAjMsLZzc6/s1600/russian-groups.jpg"
+    },
+    {
+      "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONUVvWVpNTjBXSUxEM2lsRWR5TWExQWd1ajVYaDVmM0pvN2xMRzgtS3BqUWtIbEtBVUVtUjJVRUpXX3IzVEo4WWhaVFFfTUFfM2NKNGFDTUhGemNOREdLbjR0ZlVsb2tBM0dtcmZ5X0VhbWpuQm1lM2t4Zl9od0NfMQ?oc=5",
+      "published": "2026-09-16T14:41:41+00:00",
+      "image": ""
+    },
+    {
+      "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "CLOUD & IA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
+      "published": "2026-09-16T14:36:44+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnDFTLauyvgkyhmqrKcQ3QI3yCM1vbu_L8iwQK997zJz25tL7Gkm50y5S_wiSVF7hSJ7sLUMJEwXzxaubfjQc9JTdwttimIg5POxADfGNPLZEWbplFqzlKn2SZPvPuAyN0BhFtsc8PCzV2bZdBtx3z6qnRdRfw9tj-zk3aWL3t4TufGwksVdAjBuhVdO0/s1600/jack.jpg"
+    },
+    {
+      "title": "Virtual Event Today: Attack Surface Management Summit",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/virtual-event-today-attack-surface-management-summit-2/",
+      "published": "2026-09-16T14:35:04+00:00",
+      "image": ""
+    },
+    {
+      "title": "EU Chief Warns of AI-Powered Hacking, Moves to Rein In Social Media",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/eu-chief-warns-of-ai-powered-hacking-moves-to-rein-in-social-media/",
+      "published": "2026-09-16T14:15:18+00:00",
+      "image": ""
+    },
+    {
+      "title": "The true cost of a ransomware attack, with and without BCDR",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
+      "published": "2026-09-16T14:00:10+00:00",
+      "image": ""
+    },
+    {
+      "title": "AIUC Raises $40 Million to Certify Enterprise AI Agents",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/aiuc-raises-40-million-to-certify-enterprise-ai-agents/",
+      "published": "2026-09-16T13:38:36+00:00",
+      "image": ""
+    },
+    {
+      "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
+      "published": "2026-09-16T13:37:07+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghZsSi9JbsiALEhfWv_49vjKw2uHa-lBOUWCwhyphenhyphensppIZLuNgoQ-VQTs2EjRmXjemfvM0Fj9knUSdDIYbSWg5Pf_sqKBOGV5BA67GVYn_lNreIN_Kwpp3u0yxKgF4dIHXRj-NKcCyimE0kwHUWHqxP7SHUd-Tu31S3jfzxOPmN8_Xk8d5GYRce2N4MdmYY/s1600/shai.jpg"
+    },
+    {
+      "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
+      "published": "2026-09-16T13:14:05+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjExQfYsCTPbCiUrkVUWdKhrZNgpAVRtutRYt2c4x-f5ClJdNYjERcet4Fctan3gEOl0DPk64GUGZv5IK3Cd_pi3Jk1cyH3tdYig9mpc2XTLjJaK0KM3aiqE6W1OeGiKr_kRWNRmty1u4Cwf_9-S1KrKdqUeL25YwL6tt5Z-nUcvzj0F8NemzMbSUmvTJ4/s1600/parashells.jpg"
+    },
+    {
+      "title": "Pixel Modem Zero-Day Exploited in Targeted Attacks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/pixel-modem-zero-day-exploited-in-targeted-attacks/",
+      "published": "2026-09-16T13:10:54+00:00",
+      "image": ""
+    },
+    {
+      "title": "Webinar: What happens in the first hours of a Google Workspace breach",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/",
+      "published": "2026-09-16T12:11:19+00:00",
+      "image": ""
+    },
+    {
+      "title": "US, UK, Dutch Agencies Expose Iranian ‘Chosen Brick’ Surveillance Malware",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/us-uk-dutch-agencies-expose-iranian-chosen-brick-surveillance-malware/",
+      "published": "2026-09-16T12:00:14+00:00",
+      "image": ""
+    },
+    {
+      "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
+      "published": "2026-09-16T11:58:00+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji_HlxXvIPYjLUnTTNbkIHzO8UKX2MISan0W6hxfEB55j5U8GUlvJexOakfaxqEyihcT1mluW0C2l2X73wbAk8V3K514rf7X4N0Iojw-JrbimvmTAAOQ-3aawWLHywrmGYkwyCzl_zZI5FjVdlY2GIVIPIDn0v1EEh4PqQlAh9tkNk5NjRyoILB5-D7gI/s1600/N0va.jpg"
+    },
+    {
+      "title": "Unauthenticated RCE Flaws Could Expose 200,000+ WordPress Sites to Takeover",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/unauthenticated-rce-flaws-could-expose-200000-wordpress-sites-to-takeover/",
@@ -11,157 +155,13 @@
       "image": ""
     },
     {
-      "title": "Google corrige falha do modem Pixel em meio a sinais de exploração direcionada limitada",
-      "summary": "O Google divulgou que uma falha de segurança de alta gravidade em seu Pixel Cellular Modem está sendo explorada à solta. A vulnerabilidade, rastreada como CVE-2026-58704 (pontuação CVSS: 8,0), é uma falha de escalonamento de privilégios. “No modem celular, há ",
+      "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
       "published": "2026-09-16T11:15:58+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdVCezHTU2PU4DuL9ysF0nQFJLLR2QyxyexdJN5iv1QQnl4-mFFupADzryOhW_lsM_nI5OgHH5krMBLOErLl9GNmyJeaGEDGQNnhhyphenhyphenNs2ZXIwBLTIY8poIVxLKPNRRAipPFbKv_a7CPzE86rB_nItrsiirydPRuCZrvkDymktX28d1O7kSbEhIgmEPh6oy/s1600/pixel.jpg"
-    },
-    {
-      "title": "A inteligência de ameaças por si só não resolverá a lacuna de exploração",
-      "summary": "Uma credencial vazada aparece em um mercado criminoso, ou uma vulnerabilidade recebe um aviso de divulgação, e qualquer uma delas pode ser usada como arma contra um alvo real antes que a maioria das equipes de segurança tenha feito a triagem do alerta. Os inva",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
-      "published": "2026-09-16T11:15:48+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNTaZ2mJpwks9AMkwh4I_Q5sK5sgj01Fd4eW4c47_ZsHN_8hKPjptnlJ_P0RboejQy7PB6Ad4UXLFggJXAGlVsBigp46txL8LoSlpMuwQ0sXkAPQZ4TYtg89jNIa6SLPxuv-YC-_LlNZq2FZdNHRnrP_iQUYPSj2-MzugjnlL_CrIJw80lMzbVCZEf0x8/s1600/pentera.jpg"
-    },
-    {
-      "title": "Falha crítica do ScreenConnect agora explorada ativamente em ataques",
-      "summary": "Os invasores agora exploram uma vulnerabilidade ConnectWise ScreenConnect de gravidade crítica, de acordo com a Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA). [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/",
-      "published": "2026-09-16T11:14:28+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackuity levanta US$ 19 milhões para gerenciamento de vulnerabilidades baseado em IA",
-      "summary": "A empresa utilizará o novo capital para expandir a sua plataforma de operações de vulnerabilidade e apoiar o crescimento internacional. A postagem Hackuity levanta US$ 19 milhões para gerenciamento de vulnerabilidades baseado em IA apareceu pela primeira vez n",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/hackuity-raises-19-million-for-ai-powered-vulnerability-management/",
-      "published": "2026-09-16T11:11:23+00:00",
-      "image": ""
-    },
-    {
-      "title": "Vulnerabilidade do plug-in de backup Acronis cPanel explorada em ataques direcionados",
-      "summary": "A Acronis alertou que uma falha de segurança de alta gravidade em seu plugin de backup para implantações cPanel e Web Host Manager (WHM) foi explorada à solta. A vulnerabilidade, rastreada como CVE-2026-87886 (pontuação CVSS: 7,8), é descrita como um caso de e",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
-      "published": "2026-09-16T11:08:54+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOvbeWtAztd1-F4zbNa4Ei7kEh-C7s4QGW-rmB8ug7-mXRIcdL_mAqtAA_hqAG7QtaHUMTxSYa5dFw0080LoR66SUCPLGybqueRLeUJvQQ6unmg4WqExx08rrv0NZaZkQldGURtIDMZRpregBaFLhjws2d_eRt0I0VcZdaSGZS6twj0AvBK74TAJx-veBz/s1600/acronis.jpg"
-    },
-    {
-      "title": "280.000 impactados pela violação de dados do Premier Medical Group",
-      "summary": "Em junho de 2026, hackers acessaram arquivos contendo nomes de pacientes, informações de contato, detalhes de diagnóstico e informações de seguro saúde. A postagem 280.000 impactados pela violação de dados do Premier Medical Group apareceu pela primeira vez na",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/280000-impacted-by-premier-medical-group-data-breach/",
-      "published": "2026-09-16T10:47:18+00:00",
-      "image": ""
-    },
-    {
-      "title": "Chrome e Firefox atualizam vulnerabilidades do patch 115",
-      "summary": "O Google resolveu 42 defeitos de segurança no Chrome e a Mozilla corrigiu 73 bugs no Firefox. O post Chrome, Firefox atualiza vulnerabilidades do patch 115 apareceu pela primeira vez em SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/chrome-firefox-updates-patch-115-vulnerabilities/",
-      "published": "2026-09-16T10:28:36+00:00",
-      "image": ""
-    },
-    {
-      "title": "Protegendo o que não pode ser corrigido em uma era de vulnerabilidades impulsionadas pela IA",
-      "summary": "Os avanços na tecnologia de IA continuarão a identificar vulnerabilidades que, em algumas circunstâncias, são difíceis, ou efetivamente impossíveis, de corrigir. A segmentação apropriada da rede, a visibilidade rigorosa e a implantação de combinações NGFW/IPS ",
-      "category": "VULNERABILIDADES",
-      "source": "Cisco Talos",
-      "url": "https://blog.talosintelligence.com/securing-the-unpatchable-in-an-age-of-ai-driven-vulnerabilities/",
-      "published": "2026-09-16T10:00:36+00:00",
-      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/on_the_radar.jpg"
-    },
-    {
-      "title": "Vulnerabilidade explorada de patches da Acronis no plug-in de backup cPanel",
-      "summary": "CVE-2026-87886 é uma falha de permissão de arquivo insegura de alta gravidade que pode levar ao escalonamento de privilégios locais. A postagem Acronis Patches Exploited Vulnerability in cPanel Backup Plugin apareceu pela primeira vez em SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/acronis-patches-exploited-vulnerability-in-cpanel-backup-plugin/",
-      "published": "2026-09-16T09:52:31+00:00",
-      "image": ""
-    },
-    {
-      "title": "Empresas alertadas sobre ataques que exploram a vulnerabilidade do WSO2",
-      "summary": "A vulnerabilidade, rastreada como CVE-2026-5430, pode ser explorada para obter acesso a dados corporativos valiosos. A postagem Empresas alertadas sobre ataques que exploram a vulnerabilidade do WSO2 apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/enterprises-warned-of-attacks-exploiting-wso2-vulnerability/",
-      "published": "2026-09-16T08:39:05+00:00",
-      "image": ""
-    },
-    {
-      "title": "Oracle corrige mais de 800 vulnerabilidades na atualização de segurança de setembro de 2026",
-      "summary": "As atualizações de segurança resolvem mais de 800 vulnerabilidades em 17 famílias de produtos, incluindo mais de 100 falhas de gravidade crítica. A postagem Oracle Patches 800+ Vulnerabilidades na atualização de segurança de setembro de 2026 apareceu pela prim",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/oracle-patches-800-vulnerabilities-in-september-2026-security-update/",
-      "published": "2026-09-16T08:06:33+00:00",
-      "image": ""
-    },
-    {
-      "title": "O Google corrige o dia zero do Android explorado ativamente em dispositivos Pixel",
-      "summary": "O Google lançou patches de segurança de setembro de 2026 para resolver 110 vulnerabilidades que afetam seus dispositivos Pixel, incluindo uma falha de dia zero explorada ativamente em ataques direcionados. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
-      "published": "2026-09-16T07:00:19+00:00",
-      "image": ""
-    },
-    {
-      "title": "Atacantes exploram falha de captura de leads no atacado do WooCommerce para plantar shells da Web em PHP",
-      "summary": "Os agentes de ameaças estão explorando uma falha crítica de segurança no WooCommerce Wholesale Lead Capture, um plugin premium para WordPress que tem mais de 6.000 instalações ativas. “Essa vulnerabilidade pode ser aproveitada por invasores não autenticados pa",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
-      "published": "2026-09-16T05:48:28+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaDJy8WPrkf8CE0D66EluNlAxZjtSyl-SeLt9BmCzqINPxm9H08ACj6o1nZWYQxcR5FYK-RrzDRXe014EEAMDH1wBa-SSXV1HNXJyLZsOWzNxU533Err9iI0Z_PQwy2Z6pY3LkGMSB2xKwQPIJe5mXgCJFeeUGj8qDKSmA9I9RS0MNl7jtlUhqkVPOkIfL/s1600/wordpress-shell.jpg"
-    },
-    {
-      "title": "Atacantes exploram falha de captura de leads no atacado do WooCommerce para plantar shells da Web em PHP - The Hacker News",
-      "summary": "Atacantes exploram falha de captura de leads no atacado do WooCommerce para plantar shells PHP Web The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUGs5R0l1VE9IWjYtMDdweHpyOUpxb0ZQMkxOSkN3UHV1bXc0N284UzcxV3U3bXVYRDR4eEhpR0NXWTF0d0RkMTdFX1daa2stN2tkOUhkX2JTRTNtVFYwUFFSampTZklTeUZ0dVJjbEIwekdJTmtNbVNCcFNrTVR6elZQLWs?oc=5",
-      "published": "2026-09-16T05:48:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Tentativas de exploração ativas visam o desvio JWT do gerenciador de API WSO2 com tokens de administrador forjados",
-      "summary": "Uma falha crítica de segurança no WSO2 API Manager está sob exploração ativa, de acordo com as descobertas do watchTowr. A vulnerabilidade, rastreada como CVE-2026-5430 (pontuação CVSS: 9,8/10,0), é um caso de verificação inadequada de uma assinatura criptográ",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
-      "published": "2026-09-16T05:18:06+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjenXPNzZ8-fnZOSWlAtRwfZVCV0iy-vnK86gK4vmTGsWSjSS7x9a3k80NLsiEZUym2AjBaYj7pLtxyQju7Hiyl6ttQPyXEPMy7Gwn_bQTTTaUOB-8HbhJfYxl54Z3WE5yqKEoW1vvkCBukKwea-6DlpBiO6i08Zo0GhBoqgRsGGXadsOYy8COPUPQ7rn2w/s1600/jwt-api.jpg"
-    },
-    {
-      "title": "Cyber ​​Op tem como alvo os setores automotivo e de mídia da Coreia do Sul – Dark Reading",
-      "summary": "Cyber ​​Op tem como alvo a mídia sul-coreana e os setores automotivos Dark Reading",
-      "category": "DEFESA",
-      "source": "Dark Reading",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdWVRaERJNER5enlpalBucEtXNFZzYWdPZklFSmRqN1ZRSGg3U0Nhd1N5Z1lGbjFYa0FsbE9ua05Da1JXdXRpbGF0TkxBRnVYQVlHZUNZQ0FmRzdBQ09VNUZoY3Q3MEFTUzFRVWNOaHZrS2tIcFQwMnRnczVCS1c4OGFDaF9BQWZtYzlQeG5KWDM5ZDRZ?oc=5",
-      "published": "2026-09-16T01:00:23+00:00",
-      "image": ""
-    },
-    {
-      "title": "Cyber ​​Op tem como alvo os setores automotivo e de mídia sul-coreanos",
-      "summary": "Um provável grupo norte-coreano de ameaças persistentes avançadas (APT) usou um kit de ferramentas de espionagem Linux anteriormente não documentado para comprometer balanceadores de carga, obter acesso a comunicações e explorar ainda mais as redes.",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive",
-      "published": "2026-09-16T01:00:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd024a0beb5b45fd6/6aa9b79b31811693de070eeb/dprk-rok-tech-security-QQMinh88-shutterstock.jpg?width=720&quality=80&disable=upscale"
     }
   ]
 }
