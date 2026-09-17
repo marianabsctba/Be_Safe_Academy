@@ -1,6 +1,123 @@
 {
-  "updated_at": "2026-09-17T11:50:56.854481+00:00",
+  "updated_at": "2026-09-17T17:07:12.238853+00:00",
   "items": [
+    {
+      "title": "OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/",
+      "published": "2026-09-17T15:45:29+00:00",
+      "image": ""
+    },
+    {
+      "title": "CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/",
+      "published": "2026-09-17T14:28:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
+      "published": "2026-09-17T14:01:11+00:00",
+      "image": ""
+    },
+    {
+      "title": "Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/",
+      "published": "2026-09-17T13:57:41+00:00",
+      "image": ""
+    },
+    {
+      "title": "Comp AI Raises $34 Million for AI-Native Compliance and Security",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/comp-ai-raises-34-million-for-ai-native-compliance-and-security/",
+      "published": "2026-09-17T13:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "ISC Patches 14 Vulnerabilities in BIND 9 Security Update",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/isc-patches-14-vulnerabilities-in-bind-9-security-update/",
+      "published": "2026-09-17T12:39:28+00:00",
+      "image": ""
+    },
+    {
+      "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
+      "published": "2026-09-17T12:30:00+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiFNFekCjM7qSAMNaeoNatwUPsjJY0Nj67yGKdlhq_zzLH9tyjQrXAByn9B6BvXEcMabyWnO5oWWE11_orN2h7G-7jRjGPSW48xtd4HySWIkI1fQzCbUDCVzRyc_KG3curUoXk4LgyckPwUO8aP65kR0CYnc90pkfXctHKXVQ7grKsc43drFZ63yRur20/s1600/dns-admin.jpg"
+    },
+    {
+      "title": "Ransomware Attacks on Manufacturers Surge as Supply Chain Risk Grows",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ransomware-attacks-on-manufacturers-surge-as-supply-chain-risk-grows/",
+      "published": "2026-09-17T12:29:53+00:00",
+      "image": ""
+    },
+    {
+      "title": "Cisco Fixes Dozens of Flaws Across FMC, ISE and Nexus Dashboard",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/cisco-fixes-dozens-of-flaws-across-fmc-ise-and-nexus-dashboard/",
+      "published": "2026-09-17T12:17:40+00:00",
+      "image": ""
+    },
+    {
+      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+      "published": "2026-09-17T11:50:00+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSkWwlEMQDwM0PU3XRgsqUUT_CNE0pGhBazuPl1AOqwEHAlaRqZr9sYVLlyvKmaLoNKBY8IeKO0F0L6dDZmQ-_s8-HzQZu4Xx17kqlNYy3-iNL0BeLD2BPA9WcrHMry3c3u-Kz-iHIuSjCtbLzzWd2vQiOHW4LSuE3SMgADJaQeJNI2HPIwAXp0j6yJlk/s1600/picus-webinar.jpg"
+    },
+    {
+      "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
+      "published": "2026-09-17T10:50:53+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqOqtV_80Gn3utPVzonjyU94CgrwrcRNCUvdMEMZbOJGmKGOGD_ly8yH-V5AVwUtyNADgEPXySLFga7FZiWBSHCESverdknL-LS6MJSrkv6ejTaFkDM087mWkfBfur7UQ_vXsM8gcBByxyYyn0g3rAENhqJamGszCkPf2LM31d3wDgEUpCuFrGt4mZnUE/s1600/REFF.jpg"
+    },
+    {
+      "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
+      "published": "2026-09-17T10:05:45+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOuXwG1YyG0uUU23HOcrfuGGEs6q0HvIDe8f7tcoTc3Vg049ITdUDCK_oyfFs8F68GEANNMqayc_75ARq5bBdbIu8qplp_nwC8hWxALOjCCGyf_Pb76GvNjEEfoWybq1nM9WXuxoPvYiRN_vJewkghj5IAYOaCh9JulsW4DnZLCEOhg_mXL_ykI0_oJwah/s1600/chinese-hackers.jpg"
+    },
+    {
+      "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KU3ZGdkJMTDEzcFNoWjZMdXJjX0hUeHc3LXpQN2FqVklrenRfUDg0SDNEOUdWWVdIOV9rWHd2NjdVLTVHRVhRclB1dEFaSHVhZE55NU1nWTBicUVudXhfZklFNHQ2M3JTdW5ON2JxYXFkTU84cG8xVWJRMjh6dE0?oc=5",
+      "published": "2026-09-17T10:05:00+00:00",
+      "image": ""
+    },
     {
       "title": "Ransomware incidents in Japan in the first half of 2026: Investigation of The Gentlemen’s infrastructure and evidence of Qilin's AI use",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
@@ -29,138 +146,21 @@
       "image": ""
     },
     {
+      "title": "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html",
+      "published": "2026-09-17T08:00:29+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEd6WLqBvkSx9Y2P6HrNL-VApj7Xb05Wlhnw4pPW6-X9NwGiAeAm_Hf4KYj_1hEy6uITGe8kh3xgYeTAha8nR5inx0snMzfWGP2Qd8kRuiOp0h4O49J-33kPpA1cuGhClV2qAvPyhyr2BqSYj9ZIvI6c-wncUNGESpGK-3tivnS-HIrOj9ZdSJALq_8Ts/s1600/bind9.jpg"
+    },
+    {
       "title": "CISA Releases Cyber Decoy Guidance to Strengthen Critical Infrastructure Defenses",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "DEFESA",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/",
       "published": "2026-09-17T07:53:43+00:00",
-      "image": ""
-    },
-    {
-      "title": "AI Agents Can Retrain Own Models Mid-Task, Leaking Secrets and Erasing Refusals",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ai-agents-can-retrain-own-models-mid-task-leaking-secrets-and-erasing-refusals/",
-      "published": "2026-09-17T07:41:29+00:00",
-      "image": ""
-    },
-    {
-      "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
-      "published": "2026-09-17T07:20:54+00:00",
-      "image": ""
-    },
-    {
-      "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQjlOc0xJcFN3MVBCdVAtT1pMUm10TTFJSmszQzg5cFhJZUc4aDZZZlM4Q2FBT2VLMHAxc0lnNHplMzVkdHBqdk9tcXdBZlN1WmxBRk0tSXIwLXFwdjBVTFl0WmpZUURpdmh1a3ZiSmVQOGtwMXBKMGxOZk1nd0ZURQ?oc=5",
-      "published": "2026-09-17T06:39:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/active-exploitation-triggers-emergency-patch-for-cisco-ise-zero-day/",
-      "published": "2026-09-17T06:19:52+00:00",
-      "image": ""
-    },
-    {
-      "title": "AI Security Spending Jumps as Fear Outpaces Proof of Value",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "CLOUD & IA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value",
-      "published": "2026-09-16T21:26:55+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcb03b6fd2d90125e/6aab0ffae6306a5a1058a24b/aiinvestment-chiewr-Getty-2220824575.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Windows 11 KB5124008 update breaks domain trust for some users",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
-      "published": "2026-09-16T20:39:29+00:00",
-      "image": ""
-    },
-    {
-      "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/",
-      "published": "2026-09-16T20:24:55+00:00",
-      "image": ""
-    },
-    {
-      "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
-      "published": "2026-09-16T18:50:53+00:00",
-      "image": ""
-    },
-    {
-      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "PRIVACIDADE",
-      "source": "KrebsOnSecurity",
-      "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
-      "published": "2026-09-16T18:14:22+00:00",
-      "image": ""
-    },
-    {
-      "title": "Fighting Your Dragons Through Tough Tech Times",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market",
-      "published": "2026-09-16T18:00:54+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Spain's data agency gets first report of AI-powered data breach",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
-      "published": "2026-09-16T17:26:41+00:00",
-      "image": ""
-    },
-    {
-      "title": "BragJack Attack Can Turn a Browser's Agentic AI Against It - Dark Reading",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xREg0aHQ4RUtkNTdLaHVwZFNFTnpwYmw4OXZxZUU0S2docVhveEQxUHhnaWdSUnZjZk42RlZZUUg2bmxFbjFMbFFyblBLalJFcWpiZXliaGxJRXB0c3gxNUhFSjdUN2xNeXR3djVubVVBTTlTcHBIVmtTNDg5UQ?oc=5",
-      "published": "2026-09-16T16:55:36+00:00",
-      "image": ""
-    },
-    {
-      "title": "BragJack Attack Can Turn a Browser's Agentic AI Against It",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai",
-      "published": "2026-09-16T16:43:37+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt64d615142d7be882/6882572f618f869f048e5227/Agentic_AI_(1800)_Pattara_Alamy.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "First Agentic AI Data Breach Reported to Spanish Regulator",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/",
-      "published": "2026-09-16T16:39:19+00:00",
       "image": ""
     }
   ]
