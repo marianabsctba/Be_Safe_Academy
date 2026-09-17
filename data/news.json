@@ -1,9 +1,18 @@
 {
-  "updated_at": "2026-09-16T21:23:56.119748+00:00",
+  "updated_at": "2026-09-17T04:59:46.523523+00:00",
   "items": [
     {
-      "title": "Windows 11 KB5124008 update breaks domain trust for some users",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Os gastos com segurança em IA aumentam à medida que o medo supera a prova de valor",
+      "summary": "Os CISOs não esperam que a IA prove o seu valor em segurança cibernética antes de investirem na tecnologia. É o movimento certo?",
+      "category": "CLOUD & IA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value",
+      "published": "2026-09-16T21:26:55+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcb03b6fd2d90125e/6aab0ffae6306a5a1058a24b/aiinvestment-chiewr-Getty-2220824575.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "A atualização KB5124008 do Windows 11 quebra a confiança do domínio para alguns usuários",
+      "summary": "A Microsoft está investigando relatos de que a atualização de segurança KB5124008 do Windows 11 está quebrando relações de confiança de domínio em alguns sistemas corporativos, impedindo que os usuários façam login com credenciais de domínio válidas. [...]",
       "category": "DEFESA",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
@@ -11,8 +20,8 @@
       "image": ""
     },
     {
-      "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Hackers iranianos usam malware CHOSEN BRICK Windows para espionar alvos",
+      "summary": "As agências governamentais estão alertando que hackers ligados ao Estado iraniano estão usando uma variedade de malware do Windows chamada CHOSEN BRICK para atingir dissidentes, ativistas e jornalistas em todo o mundo. [...]",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/",
@@ -20,8 +29,8 @@
       "image": ""
     },
     {
-      "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "O malware ignora as verificações do navegador para forçar a instalação de extensões do Chrome e Edge",
+      "summary": "Uma operação de malware bancário ativa desde meados de 2025 tem usado um kit de ferramentas chamado KREMLIN para instalar extensões maliciosas do Chrome e Edge que roubam credenciais, tokens de sessão e dados confidenciais. [...]",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
@@ -29,8 +38,8 @@
       "image": ""
     },
     {
-      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Data Broker Radaris perde domínios na luta pela privacidade",
+      "summary": "O corretor de dados do consumidor Radaris.com tem há muito tempo a reputação de ignorar pedidos de remoção de informações pessoais do seu vasto império de serviços de pesquisa de pessoas online. Essa reputação atingiu a empresa recentemente em um processo aleg",
       "category": "PRIVACIDADE",
       "source": "KrebsOnSecurity",
       "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
@@ -38,8 +47,8 @@
       "image": ""
     },
     {
-      "title": "Fighting Your Dragons Through Tough Tech Times",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Lutando contra seus dragões em tempos difíceis de tecnologia",
+      "summary": "O veterano da indústria de segurança cibernética Hal Pomeranz dá uma palestra estimulante sobre ansiedade e dúvidas profissionais e compartilha como construir conexões significativas durante crises históricas da indústria de tecnologia.",
       "category": "DEFESA",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market",
@@ -47,8 +56,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Spain's data agency gets first report of AI-powered data breach",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Agência de dados da Espanha recebe primeiro relatório de violação de dados alimentada por IA",
+      "summary": "A Agência Espanhola de Proteção de Dados (AEPD) foi notificada de um ataque supostamente realizado com um agente de IA alimentado por um conhecido modelo de linguagem grande (LLM). [...]",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
@@ -56,8 +65,17 @@
       "image": ""
     },
     {
-      "title": "BragJack Attack Can Turn a Browser's Agentic AI Against It",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "O ataque BragJack pode virar a IA Agentic de um navegador contra ele – Dark Reading",
+      "summary": "O ataque BragJack pode transformar a IA Agentic de um navegador contra a leitura obscura",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xREg0aHQ4RUtkNTdLaHVwZFNFTnpwYmw4OXZxZUU0S2docVhveEQxUHhnaWdSUnZjZk42RlZZUUg2bmxFbjFMbFFyblBLalJFcWpiZXliaGxJRXB0c3gxNUhFSjdUN2xNeXR3djVubVVBTTlTcHBIVmtTNDg5UQ?oc=5",
+      "published": "2026-09-16T16:55:36+00:00",
+      "image": ""
+    },
+    {
+      "title": "O ataque BragJack pode virar a IA Agentic de um navegador contra ele",
+      "summary": "Um novo tipo de ataque sequestra o assistente de IA integrado diretamente em vários navegadores para acessar informações confidenciais, executar ações maliciosas e exfiltrar dados.",
       "category": "INCIDENTES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai",
@@ -65,8 +83,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt64d615142d7be882/6882572f618f869f048e5227/Agentic_AI_(1800)_Pattara_Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "First Agentic AI Data Breach Reported to Spanish Regulator",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Primeira violação de dados de IA da Agentic relatada ao regulador espanhol",
+      "summary": "Os reguladores espanhóis dizem que um agente de IA encadeou um login bem-sucedido, descoberta de vulnerabilidades e acesso a dados pessoais em um marco potencial para ataques cibernéticos autônomos. A postagem Primeira violação de dados de IA da Agentic relata",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/",
@@ -74,8 +92,8 @@
       "image": ""
     },
     {
-      "title": "First Agentic AI Data Breach Reported to Spanish Regulator - SecurityWeek",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Primeira violação de dados de IA da Agentic relatada ao regulador espanhol - SecurityWeek",
+      "summary": "Primeira violação de dados de IA da Agentic relatada ao regulador espanhol SecurityWeek",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQnRMcE9RVmlmM2oxbjNzeEd5TG5qN3FkeVB4RGRFbGxmdmZvSUJXc2hnaDNvSjZYSHN2X2lrQlRKVmNYNl9uRFBTWnZsQ2J0eEtJQ09paXdxVmlNelZEeVhKNzBqYW9uYW42MlhaQjlQTXA2M0hFX2Zjdlh3dnVmOXFNQzFoREVSQ2wzMUlFblJSUdIBlwFBVV95cUxPcFlwdVlKWWJ5UmZqd1RhZmxVTm5waDFjVExGTWNaWFQ2ZGthaEJCYUFtYWVhOGNYODlJMXRIT0pCTWFlWmw5cXNsMTVNUWEyNUZLWGFhbDhUdEwzMzhJemNNdnQzTGdyZHQzRHVfbGxYNks1dnZaeHZQWUQwNmZtMzdnQ3lNMjMxYmMzaXJrS2Z1S29KVHJn?oc=5",
@@ -83,8 +101,8 @@
       "image": ""
     },
     {
-      "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Atacantes exploram falha da estrutura Issabel, permitindo execução de comandos do sistema operacional não autenticado",
+      "summary": "Uma falha crítica de segurança no Issabel Framework, uma estrutura baseada na web para o software PBX de comunicações unificadas de código aberto, está sob exploração ativa. A vulnerabilidade em questão é CVE-2026-89026 (pontuação CVSS v3.1: 9.8/pontuação CVSS",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
@@ -92,8 +110,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aXi8Vt3MH8e38-ViNXz-m4hRPrbqDMGcpbMtOc3b-cDLIyEZEjqGvSscW6mR34ZrmPM4lSnv6C9XFTHlgq3UyGLA24gySGqcCzdKr-hIY2QZO8VSXnC-KAsdEz6vTkgdRnVxAZVM7NyrhgpL2xDWR8lcvPInEwgvj0pTgHkC7KStUFglwcLext7eb3w5/s1600/issa.jpg"
     },
     {
-      "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Atacantes exploram falha da estrutura Issabel, permitindo execução de comandos do sistema operacional não autenticado - The Hacker News",
+      "summary": "Atacantes exploram falha da estrutura Issabel, permitindo execução de comandos do sistema operacional não autenticado The Hacker News",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WcVRlNy1XSVo0S3FscWVxalRfY0otNGh4S3ZSU2U3SlhXUVNoc3pfdmpkN2ktSzJTQ1Vjc3g5NThGWXhpTXZWVkdiVGdhMkVmOWRldWozaWh4RFpjclR1Tk1kcms5NmViZkZFQ0NaWEJxZzZNc0Y3VjU4R01iV0U?oc=5",
@@ -101,8 +119,8 @@
       "image": ""
     },
     {
-      "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Três grupos de ameaças visam empresas russas com backdoors, ransomware e limpadores",
+      "summary": "As empresas na Rússia surgiram como alvo de três grupos de atividades de ameaças rastreados como NightEagle, Hacking Cat e Toy Ghouls, de acordo com vários relatórios da Kaspersky. O fornecedor de segurança cibernética disse que identificou ataques montados po",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
@@ -110,8 +128,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMMZZrs8eh-baUC-73E9tejQYA0JZzWyoElUJGhCi0N4_f2EzmPPhQW3xY0kmNZv775T26ywu4czdta-vHaLp1gaI03eqho2SSe3riHMZP8hLTrU1ETnIv-k1ywOpnBFvbkyQJNZt7F4Xx4NndvvS8esTt1jzaCdeN9JZNkNB8sBU1vytibSRAjMsLZzc6/s1600/russian-groups.jpg"
     },
     {
-      "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Google corrige falha do modem Pixel em meio a sinais de exploração direcionada limitada – The Hacker News",
+      "summary": "Google corrige falha do modem Pixel em meio a sinais de exploração direcionada limitada The Hacker News",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONUVvWVpNTjBXSUxEM2lsRWR5TWExQWd1ajVYaDVmM0pvN2xMRzgtS3BqUWtIbEtBVUVtUjJVRUpXX3IzVEo4WWhaVFFfTUFfM2NKNGFDTUhGemNOREdLbjR0ZlVsb2tBM0dtcmZ5X0VhbWpuQm1lM2t4Zl9od0NfMQ?oc=5",
@@ -119,8 +137,8 @@
       "image": ""
     },
     {
-      "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Uma extensão pode sequestrar assistentes de IA no Chrome, Comet, Edge, Opera Neon e Claude",
+      "summary": "Pesquisadores de segurança da Forever Security mostraram que uma extensão comum de navegador poderia assumir o controle dos assistentes de IA integrados em cinco produtos baseados em Chromium: Gemini Live in Chrome, Perplexity Comet, Microsoft Edge, Opera Neon",
       "category": "CLOUD & IA",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
@@ -128,8 +146,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnDFTLauyvgkyhmqrKcQ3QI3yCM1vbu_L8iwQK997zJz25tL7Gkm50y5S_wiSVF7hSJ7sLUMJEwXzxaubfjQc9JTdwttimIg5POxADfGNPLZEWbplFqzlKn2SZPvPuAyN0BhFtsc8PCzV2bZdBtx3z6qnRdRfw9tj-zk3aWL3t4TufGwksVdAjBuhVdO0/s1600/jack.jpg"
     },
     {
-      "title": "Virtual Event Today: Attack Surface Management Summit",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Evento Virtual Hoje: Cúpula de Gerenciamento de Superfície de Ataque",
+      "summary": "Participe hoje mesmo da SecurityWeek para um encontro virtual que explora as estratégias e ferramentas que as organizações precisam para descobrir, priorizar e defender suas superfícies de ataque em expansão. O posto Evento Virtual Hoje: Cúpula de Gerenciament",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/virtual-event-today-attack-surface-management-summit-2/",
@@ -137,30 +155,12 @@
       "image": ""
     },
     {
-      "title": "EU Chief Warns of AI-Powered Hacking, Moves to Rein In Social Media",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Chefe da UE alerta sobre hackers alimentados por IA e toma medidas para controlar as mídias sociais",
+      "summary": "Ursula von der Leyen alerta que a IA avançada pode desencadear a pirataria informática numa escala sem precedentes, à medida que a Europa prepara novas protecções contra a “captura” de crianças pelas redes sociais. A postagem Chefe da UE alerta sobre hackers a",
       "category": "CLOUD & IA",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/eu-chief-warns-of-ai-powered-hacking-moves-to-rein-in-social-media/",
       "published": "2026-09-16T14:15:18+00:00",
-      "image": ""
-    },
-    {
-      "title": "The true cost of a ransomware attack, with and without BCDR",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
-      "published": "2026-09-16T14:00:10+00:00",
-      "image": ""
-    },
-    {
-      "title": "AIUC Raises $40 Million to Certify Enterprise AI Agents",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/aiuc-raises-40-million-to-certify-enterprise-ai-agents/",
-      "published": "2026-09-16T13:38:36+00:00",
       "image": ""
     }
   ]
