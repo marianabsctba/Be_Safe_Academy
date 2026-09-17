@@ -1,9 +1,81 @@
 {
-  "updated_at": "2026-09-17T04:59:46.523523+00:00",
+  "updated_at": "2026-09-17T11:50:56.854481+00:00",
   "items": [
     {
-      "title": "Os gastos com segurança em IA aumentam à medida que o medo supera a prova de valor",
-      "summary": "Os CISOs não esperam que a IA prove o seu valor em segurança cibernética antes de investirem na tecnologia. É o movimento certo?",
+      "title": "Ransomware incidents in Japan in the first half of 2026: Investigation of The Gentlemen’s infrastructure and evidence of Qilin's AI use",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "Cisco Talos",
+      "url": "https://blog.talosintelligence.com/ransomware-incidents-in-japan-in-the-first-half-of-2026/",
+      "published": "2026-09-17T10:00:43+00:00",
+      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/TheGentlemen-Header.jpg"
+    },
+    {
+      "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
+      "published": "2026-09-17T09:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft shares workaround for Windows domain login issues",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/",
+      "published": "2026-09-17T08:24:48+00:00",
+      "image": ""
+    },
+    {
+      "title": "CISA Releases Cyber Decoy Guidance to Strengthen Critical Infrastructure Defenses",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/",
+      "published": "2026-09-17T07:53:43+00:00",
+      "image": ""
+    },
+    {
+      "title": "AI Agents Can Retrain Own Models Mid-Task, Leaking Secrets and Erasing Refusals",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ai-agents-can-retrain-own-models-mid-task-leaking-secrets-and-erasing-refusals/",
+      "published": "2026-09-17T07:41:29+00:00",
+      "image": ""
+    },
+    {
+      "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
+      "published": "2026-09-17T07:20:54+00:00",
+      "image": ""
+    },
+    {
+      "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQjlOc0xJcFN3MVBCdVAtT1pMUm10TTFJSmszQzg5cFhJZUc4aDZZZlM4Q2FBT2VLMHAxc0lnNHplMzVkdHBqdk9tcXdBZlN1WmxBRk0tSXIwLXFwdjBVTFl0WmpZUURpdmh1a3ZiSmVQOGtwMXBKMGxOZk1nd0ZURQ?oc=5",
+      "published": "2026-09-17T06:39:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/active-exploitation-triggers-emergency-patch-for-cisco-ise-zero-day/",
+      "published": "2026-09-17T06:19:52+00:00",
+      "image": ""
+    },
+    {
+      "title": "AI Security Spending Jumps as Fear Outpaces Proof of Value",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "CLOUD & IA",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value",
@@ -11,8 +83,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcb03b6fd2d90125e/6aab0ffae6306a5a1058a24b/aiinvestment-chiewr-Getty-2220824575.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "A atualização KB5124008 do Windows 11 quebra a confiança do domínio para alguns usuários",
-      "summary": "A Microsoft está investigando relatos de que a atualização de segurança KB5124008 do Windows 11 está quebrando relações de confiança de domínio em alguns sistemas corporativos, impedindo que os usuários façam login com credenciais de domínio válidas. [...]",
+      "title": "Windows 11 KB5124008 update breaks domain trust for some users",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "DEFESA",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
@@ -20,8 +92,8 @@
       "image": ""
     },
     {
-      "title": "Hackers iranianos usam malware CHOSEN BRICK Windows para espionar alvos",
-      "summary": "As agências governamentais estão alertando que hackers ligados ao Estado iraniano estão usando uma variedade de malware do Windows chamada CHOSEN BRICK para atingir dissidentes, ativistas e jornalistas em todo o mundo. [...]",
+      "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/",
@@ -29,8 +101,8 @@
       "image": ""
     },
     {
-      "title": "O malware ignora as verificações do navegador para forçar a instalação de extensões do Chrome e Edge",
-      "summary": "Uma operação de malware bancário ativa desde meados de 2025 tem usado um kit de ferramentas chamado KREMLIN para instalar extensões maliciosas do Chrome e Edge que roubam credenciais, tokens de sessão e dados confidenciais. [...]",
+      "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
@@ -38,8 +110,8 @@
       "image": ""
     },
     {
-      "title": "Data Broker Radaris perde domínios na luta pela privacidade",
-      "summary": "O corretor de dados do consumidor Radaris.com tem há muito tempo a reputação de ignorar pedidos de remoção de informações pessoais do seu vasto império de serviços de pesquisa de pessoas online. Essa reputação atingiu a empresa recentemente em um processo aleg",
+      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "PRIVACIDADE",
       "source": "KrebsOnSecurity",
       "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
@@ -47,8 +119,8 @@
       "image": ""
     },
     {
-      "title": "Lutando contra seus dragões em tempos difíceis de tecnologia",
-      "summary": "O veterano da indústria de segurança cibernética Hal Pomeranz dá uma palestra estimulante sobre ansiedade e dúvidas profissionais e compartilha como construir conexões significativas durante crises históricas da indústria de tecnologia.",
+      "title": "Fighting Your Dragons Through Tough Tech Times",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "DEFESA",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market",
@@ -56,8 +128,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Agência de dados da Espanha recebe primeiro relatório de violação de dados alimentada por IA",
-      "summary": "A Agência Espanhola de Proteção de Dados (AEPD) foi notificada de um ataque supostamente realizado com um agente de IA alimentado por um conhecido modelo de linguagem grande (LLM). [...]",
+      "title": "Spain's data agency gets first report of AI-powered data breach",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
@@ -65,8 +137,8 @@
       "image": ""
     },
     {
-      "title": "O ataque BragJack pode virar a IA Agentic de um navegador contra ele – Dark Reading",
-      "summary": "O ataque BragJack pode transformar a IA Agentic de um navegador contra a leitura obscura",
+      "title": "BragJack Attack Can Turn a Browser's Agentic AI Against It - Dark Reading",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "Dark Reading",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xREg0aHQ4RUtkNTdLaHVwZFNFTnpwYmw4OXZxZUU0S2docVhveEQxUHhnaWdSUnZjZk42RlZZUUg2bmxFbjFMbFFyblBLalJFcWpiZXliaGxJRXB0c3gxNUhFSjdUN2xNeXR3djVubVVBTTlTcHBIVmtTNDg5UQ?oc=5",
@@ -74,8 +146,8 @@
       "image": ""
     },
     {
-      "title": "O ataque BragJack pode virar a IA Agentic de um navegador contra ele",
-      "summary": "Um novo tipo de ataque sequestra o assistente de IA integrado diretamente em vários navegadores para acessar informações confidenciais, executar ações maliciosas e exfiltrar dados.",
+      "title": "BragJack Attack Can Turn a Browser's Agentic AI Against It",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai",
@@ -83,84 +155,12 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt64d615142d7be882/6882572f618f869f048e5227/Agentic_AI_(1800)_Pattara_Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Primeira violação de dados de IA da Agentic relatada ao regulador espanhol",
-      "summary": "Os reguladores espanhóis dizem que um agente de IA encadeou um login bem-sucedido, descoberta de vulnerabilidades e acesso a dados pessoais em um marco potencial para ataques cibernéticos autônomos. A postagem Primeira violação de dados de IA da Agentic relata",
+      "title": "First Agentic AI Data Breach Reported to Spanish Regulator",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/first-agentic-ai-data-breach-reported-to-spanish-regulator/",
       "published": "2026-09-16T16:39:19+00:00",
-      "image": ""
-    },
-    {
-      "title": "Primeira violação de dados de IA da Agentic relatada ao regulador espanhol - SecurityWeek",
-      "summary": "Primeira violação de dados de IA da Agentic relatada ao regulador espanhol SecurityWeek",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQnRMcE9RVmlmM2oxbjNzeEd5TG5qN3FkeVB4RGRFbGxmdmZvSUJXc2hnaDNvSjZYSHN2X2lrQlRKVmNYNl9uRFBTWnZsQ2J0eEtJQ09paXdxVmlNelZEeVhKNzBqYW9uYW42MlhaQjlQTXA2M0hFX2Zjdlh3dnVmOXFNQzFoREVSQ2wzMUlFblJSUdIBlwFBVV95cUxPcFlwdVlKWWJ5UmZqd1RhZmxVTm5waDFjVExGTWNaWFQ2ZGthaEJCYUFtYWVhOGNYODlJMXRIT0pCTWFlWmw5cXNsMTVNUWEyNUZLWGFhbDhUdEwzMzhJemNNdnQzTGdyZHQzRHVfbGxYNks1dnZaeHZQWUQwNmZtMzdnQ3lNMjMxYmMzaXJrS2Z1S29KVHJn?oc=5",
-      "published": "2026-09-16T16:39:19+00:00",
-      "image": ""
-    },
-    {
-      "title": "Atacantes exploram falha da estrutura Issabel, permitindo execução de comandos do sistema operacional não autenticado",
-      "summary": "Uma falha crítica de segurança no Issabel Framework, uma estrutura baseada na web para o software PBX de comunicações unificadas de código aberto, está sob exploração ativa. A vulnerabilidade em questão é CVE-2026-89026 (pontuação CVSS v3.1: 9.8/pontuação CVSS",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
-      "published": "2026-09-16T15:50:59+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5aXi8Vt3MH8e38-ViNXz-m4hRPrbqDMGcpbMtOc3b-cDLIyEZEjqGvSscW6mR34ZrmPM4lSnv6C9XFTHlgq3UyGLA24gySGqcCzdKr-hIY2QZO8VSXnC-KAsdEz6vTkgdRnVxAZVM7NyrhgpL2xDWR8lcvPInEwgvj0pTgHkC7KStUFglwcLext7eb3w5/s1600/issa.jpg"
-    },
-    {
-      "title": "Atacantes exploram falha da estrutura Issabel, permitindo execução de comandos do sistema operacional não autenticado - The Hacker News",
-      "summary": "Atacantes exploram falha da estrutura Issabel, permitindo execução de comandos do sistema operacional não autenticado The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WcVRlNy1XSVo0S3FscWVxalRfY0otNGh4S3ZSU2U3SlhXUVNoc3pfdmpkN2ktSzJTQ1Vjc3g5NThGWXhpTXZWVkdiVGdhMkVmOWRldWozaWh4RFpjclR1Tk1kcms5NmViZkZFQ0NaWEJxZzZNc0Y3VjU4R01iV0U?oc=5",
-      "published": "2026-09-16T15:50:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Três grupos de ameaças visam empresas russas com backdoors, ransomware e limpadores",
-      "summary": "As empresas na Rússia surgiram como alvo de três grupos de atividades de ameaças rastreados como NightEagle, Hacking Cat e Toy Ghouls, de acordo com vários relatórios da Kaspersky. O fornecedor de segurança cibernética disse que identificou ataques montados po",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
-      "published": "2026-09-16T15:27:49+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMMZZrs8eh-baUC-73E9tejQYA0JZzWyoElUJGhCi0N4_f2EzmPPhQW3xY0kmNZv775T26ywu4czdta-vHaLp1gaI03eqho2SSe3riHMZP8hLTrU1ETnIv-k1ywOpnBFvbkyQJNZt7F4Xx4NndvvS8esTt1jzaCdeN9JZNkNB8sBU1vytibSRAjMsLZzc6/s1600/russian-groups.jpg"
-    },
-    {
-      "title": "Google corrige falha do modem Pixel em meio a sinais de exploração direcionada limitada – The Hacker News",
-      "summary": "Google corrige falha do modem Pixel em meio a sinais de exploração direcionada limitada The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONUVvWVpNTjBXSUxEM2lsRWR5TWExQWd1ajVYaDVmM0pvN2xMRzgtS3BqUWtIbEtBVUVtUjJVRUpXX3IzVEo4WWhaVFFfTUFfM2NKNGFDTUhGemNOREdLbjR0ZlVsb2tBM0dtcmZ5X0VhbWpuQm1lM2t4Zl9od0NfMQ?oc=5",
-      "published": "2026-09-16T14:41:41+00:00",
-      "image": ""
-    },
-    {
-      "title": "Uma extensão pode sequestrar assistentes de IA no Chrome, Comet, Edge, Opera Neon e Claude",
-      "summary": "Pesquisadores de segurança da Forever Security mostraram que uma extensão comum de navegador poderia assumir o controle dos assistentes de IA integrados em cinco produtos baseados em Chromium: Gemini Live in Chrome, Perplexity Comet, Microsoft Edge, Opera Neon",
-      "category": "CLOUD & IA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
-      "published": "2026-09-16T14:36:44+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnDFTLauyvgkyhmqrKcQ3QI3yCM1vbu_L8iwQK997zJz25tL7Gkm50y5S_wiSVF7hSJ7sLUMJEwXzxaubfjQc9JTdwttimIg5POxADfGNPLZEWbplFqzlKn2SZPvPuAyN0BhFtsc8PCzV2bZdBtx3z6qnRdRfw9tj-zk3aWL3t4TufGwksVdAjBuhVdO0/s1600/jack.jpg"
-    },
-    {
-      "title": "Evento Virtual Hoje: Cúpula de Gerenciamento de Superfície de Ataque",
-      "summary": "Participe hoje mesmo da SecurityWeek para um encontro virtual que explora as estratégias e ferramentas que as organizações precisam para descobrir, priorizar e defender suas superfícies de ataque em expansão. O posto Evento Virtual Hoje: Cúpula de Gerenciament",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/virtual-event-today-attack-surface-management-summit-2/",
-      "published": "2026-09-16T14:35:04+00:00",
-      "image": ""
-    },
-    {
-      "title": "Chefe da UE alerta sobre hackers alimentados por IA e toma medidas para controlar as mídias sociais",
-      "summary": "Ursula von der Leyen alerta que a IA avançada pode desencadear a pirataria informática numa escala sem precedentes, à medida que a Europa prepara novas protecções contra a “captura” de crianças pelas redes sociais. A postagem Chefe da UE alerta sobre hackers a",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/eu-chief-warns-of-ai-powered-hacking-moves-to-rein-in-social-media/",
-      "published": "2026-09-16T14:15:18+00:00",
       "image": ""
     }
   ]
