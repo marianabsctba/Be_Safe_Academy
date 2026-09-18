@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T11:25:56.129907+00:00",
+  "updated_at": "2026-09-18T16:31:52.569140+00:00",
   "items": [
     {
       "title": "[Evento Virtual] Outlook de Cibersegurança 2027",
@@ -9,6 +9,105 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "published": "2026-12-03T16:00:00+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Falha do servidor Gyazo explorada para roubar 23,6 milhões de registros de usuários",
+      "summary": "A plataforma de compartilhamento de imagens Gyazo confirmou que sofreu uma violação de dados depois que hackers exploraram uma vulnerabilidade do servidor que lhes permitiu roubar 23,6 milhões de registros de usuários. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
+      "published": "2026-09-18T16:00:38+00:00",
+      "image": ""
+    },
+    {
+      "title": "Transparent Tribe implanta novo backdoor Rust usando repositórios GitHub privados para C2",
+      "summary": "O grupo de ameaças alinhado ao Paquistão e conhecido como Tribo Transparente (também conhecido como APT36 e Earth Karkaddan) foi atribuído a um novo conjunto de ataques cibernéticos contra entidades governamentais e de defesa na Índia e no Afeganistão. Os ataq",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+      "published": "2026-09-18T15:24:16+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhBM0nXgCLpwEyXmAdxLO_GatYww1Cem0yuGGqhmMwCB5N8w-TeoMm7jV4SbH4hjfYmxctUjyPiSlR3Caj2cSu7L_1nxTzg5xtfJrxhq5y0elL7yh8J2S5lakpnTbck3XhMVB1iG3obibSh64E8z877YcECkeJBs_rrZARXefKDeYQJ9Nf2u8pnxD0gEnx/s1600/rust-malware.jpg"
+    },
+    {
+      "title": "Repositórios falsos do LastPass Authenticator GitHub enviam novo infostealer Rapuncel",
+      "summary": "Uma campanha de malware em andamento usa repositórios GitHub otimizados para SEO para se passar por empresas de software conhecidas e pressionar um ladrão de informações anteriormente não documentado chamado Rapuncel. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
+      "published": "2026-09-18T15:19:06+00:00",
+      "image": ""
+    },
+    {
+      "title": "Em outras notícias: Desenvolvedor de ransomware condenado, ataque Plugin4Shell AI, falha crítica do SAP",
+      "summary": "Histórias dignas de nota que podem ter passado despercebidas: relatório de risco de IA de 2026 da Mandiant, malware PhantomRaven usado por caçador de recompensas de bugs, bug de plugin do WordPress explorado. A postagem Em outras notícias: Desenvolvedor de ran",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/",
+      "published": "2026-09-18T14:25:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "O Microsoft Teams permitirá que os administradores bloqueiem extensões de arquivo personalizadas",
+      "summary": "Em breve, o Microsoft Teams permitirá que os administradores ajustem a lista de extensões de arquivo comumente associadas a ameaças de segurança para atender aos requisitos de segurança de suas empresas. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
+      "published": "2026-09-18T13:58:40+00:00",
+      "image": ""
+    },
+    {
+      "title": "Webinar: quais controles de segurança do Google Workspace realmente importam?",
+      "summary": "As empresas em rápido crescimento enfrentam inúmeras recomendações para proteger o Google Workspace, mas nem todos os controles oferecem o mesmo valor. Este webinar examina violações do mundo real para explorar quais controles de segurança são mais importantes",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
+      "published": "2026-09-18T13:10:19+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft corrige falha do Azure AI Foundry no CVSS 10.0, permitindo escalonamento de privilégios não autorizado",
+      "summary": "A Microsoft lançou correções para uma falha de segurança de gravidade máxima no Azure AI Foundry que poderia ser explorada para obter escalonamento de privilégios. Nenhuma ação do cliente é necessária. A vulnerabilidade, rastreada como CVE-2026-85889, carrega ",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
+      "published": "2026-09-18T12:47:04+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiML2C2l_2QmIUPPt9Gs6K9nVdVk9WZWhJaeBQjf92a7R0O0ghnhNznkqPHwG1quCmfadrkibl0WJhLioNmbATDXGxPcy6EHuDVvUrcDF_q0m23IQD1CxL0DsMZT2ZnXCtOyGADMztIcBmgQzaAvNQR39JWnvbG085s4q4W01UQnH4g-Yj15_ZKrJXDaOpQ/s1600/ms-azure.jpg"
+    },
+    {
+      "title": "Microsoft corrige falha do CVSS 10.0 Azure AI Foundry, permitindo escalonamento de privilégios não autorizados - The Hacker News",
+      "summary": "Microsoft corrige falha do Azure AI Foundry no CVSS 10.0, permitindo escalonamento de privilégios não autorizado The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DNVRVWUw5LUlib1hhX180Z191NmxSamo0YzFFdFcweVJaeW1VeS1GNFk0U2NDNFJ6R01pSkQ3QVFYOVRidGhDVG0xNHBhVThQN2xITk5EX1BlS1Qyc2stTG1FOEpPaDFoNURET2JhQmFfM2ZEMjZTWTF1NGtOMkU?oc=5",
+      "published": "2026-09-18T12:47:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Exploração construída por IA e falha de login abriram caminho para código OpenAI interno",
+      "summary": "Os pesquisadores da Hacktron ganharam uma recompensa por bugs após demonstrar acesso às contas de funcionários da OpenAI. A postagem Exploração construída por IA e falha de login abriram caminho para código OpenAI interno apareceu pela primeira vez na Security",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/",
+      "published": "2026-09-18T12:45:24+00:00",
+      "image": ""
+    },
+    {
+      "title": "23 milhões de registros de usuários comprometidos na violação de dados Gyazo",
+      "summary": "O fabricante do Gyazo, Helpfeel, disse que o invasor explorou uma vulnerabilidade em seu servidor de upload de imagens para obter acesso não autorizado. A postagem 23 milhões de registros de usuários comprometidos na violação de dados Gyazo apareceu pela prime",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/",
+      "published": "2026-09-18T11:38:40+00:00",
+      "image": ""
+    },
+    {
+      "title": "Plugin4Shell permite que proprietários de repositórios troquem código de plug-in fixado entre quatro agentes de codificação de IA",
+      "summary": "Uma falha em quatro agentes de codificação de IA amplamente usados ​​permite que alguém que controla o repositório de código de um plugin troque o plugin que um agente instala por um malicioso, mesmo quando o agente bloqueou esse plugin para uma versão específ",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
+      "published": "2026-09-18T11:01:01+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNK9maRYTbrRVwr9_9b7Sm_IizPdRJh0AbH1GtKU1BNPrcxJydnUdRQxRxauE5p1ejpfk4ihANpP7HAoXbRCDD1Pu-ZZD1dnfzLFjysOSJm7gGRKYrkUjxVF-tX-0neJMQtN87iyk1DRD70hKKtFU_J6idWK4aoZr3k4DAz4q8pkjTfKTX10Vttaiwag/s1600/coding-agents.jpg"
     },
     {
       "title": "Microsoft corrige 18 vulnerabilidades em IA e produtos em nuvem",
@@ -47,6 +146,15 @@
       "image": ""
     },
     {
+      "title": "Ataque Brevo à cadeia de suprimentos injeta malware em 100.000 sites",
+      "summary": "Ataque Brevo à cadeia de suprimentos injeta malware em 100.000 sites SecurityWeek",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdDJyRzRCeExLbUI0b040bFhHWHQ3RVo1eXkzSkNHZ3p3V2xsRDBLTzljQmRINXMwcVFRWU1zOWZQejJUOFhBdnpCeDduRDZIRWxDV2ZIRVJBMVl6NEtEQktiMm03TmgwZF9jRGNRbnhuZGdoT1RYVkZPYTgxd1I2a3htbTlBVDJwTzBGQzdrVzV3cEpGRW9Z0gGcAUFVX3lxTE43NHgtb2laSXd4M2pQb1VtQV9xeXRNalRqZHpfbVlCUmlhTWNOUXFQeElrT2tKcjZmY3hRUmJSSFhIUGpjakE1eU1SZHh6dU5Pd0ZNdTFxd1BJdHBiX2J4eEg1UHM4Ukc5WEl2TEFMSExUNG1QQWJLQTdzTWVnU3JJeEppa0YtdmEwSlM3TUljQjFySDRWSkliOVNMMQ?oc=5",
+      "published": "2026-09-18T09:46:57+00:00",
+      "image": ""
+    },
+    {
       "title": "Nova falha do Check Point permite que hackers executem código com privilégios de root",
       "summary": "A Check Point Software lançou atualizações de segurança para solucionar uma vulnerabilidade crítica que pode permitir que invasores executem código com privilégios de root em sistemas de gerenciamento. [...]",
       "category": "VULNERABILIDADES",
@@ -54,114 +162,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
       "published": "2026-09-18T09:34:33+00:00",
       "image": ""
-    },
-    {
-      "title": "Alegado Bug Bounty Hunter provavelmente usou LLM para construir PhantomRaven npm Stealer",
-      "summary": "Um ator de ameaça com motivação financeira foi vinculado ao desenvolvimento e distribuição de um ladrão de informações baseado em JavaScript (JS), conhecido como PhantomRaven, por meio do registro de pacotes npm. “O desenvolvedor provavelmente escreveu o malwa",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
-      "published": "2026-09-18T09:18:03+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyW8DcUYeyW1LOG-Gc3uqyV8_5rO4iwyEIM6FbRFwuvilvbfC7RSTjueJ4lEELpGvXX-22zzWuNCusN2qdODymiKNOQSz_8f1Q4u59bH7HCEZFT5PVsyBjj2NhWtlYiwvhXzXbwG_n3P_DCloZvMdajsc93hvqbJo6HCJy5wjNevUyN46ODFo7AlYsj499/s1600/npm-cicd.jpg"
-    },
-    {
-      "title": "Vulnerabilidade crítica do condutor Orkes explorada em ataques",
-      "summary": "CVE-2026-58138 é uma vulnerabilidade de execução remota de código não autenticada que os invasores podem explorar por meio de definições de fluxo de trabalho inline. A postagem Vulnerabilidade crítica do condutor Orkes explorada em ataques apareceu pela primei",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/",
-      "published": "2026-09-18T08:42:18+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft corrige cópia e colagem quebrada para usuários do Excel 2016",
-      "summary": "A Microsoft corrigiu um problema conhecido que causa falhas de copiar e colar para alguns usuários do Excel após instalar a atualização de segurança KB5002914 de setembro de 2026. [...]",
-      "category": "DEFESA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
-      "published": "2026-09-18T07:35:31+00:00",
-      "image": ""
-    },
-    {
-      "title": "MIND garante US$ 72 milhões para DLP alimentado por IA",
-      "summary": "A empresa utilizará o financiamento para acelerar o desenvolvimento da plataforma e expandir a sua presença nos principais mercados empresariais. A postagem MIND garante US$ 72 milhões para DLP alimentado por IA apareceu pela primeira vez na SecurityWeek.",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/mind-secures-72-million-for-ai-powered-dlp/",
-      "published": "2026-09-18T07:25:27+00:00",
-      "image": ""
-    },
-    {
-      "title": "Vulnerabilidades de produtos Check Point, Kaspersky e Tanium Patch",
-      "summary": "Check Point Security Management e Log Servers são afetados por uma vulnerabilidade crítica que pode permitir a execução remota de código com privilégios de root. A postagem Vulnerabilidades do produto Check Point, Kaspersky, Tanium Patch apareceu pela primeira",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/check-point-kaspersky-tanium-patch-product-vulnerabilities/",
-      "published": "2026-09-18T07:14:04+00:00",
-      "image": ""
-    },
-    {
-      "title": "Agente de IA viola organização espanhola e modifica dados pessoais – Dark Reading",
-      "summary": "Agente de IA viola organização espanhola e modifica leitura obscura de dados pessoais",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM29kMDRuSVM0NVprMVljeGZ4WThtc3h5dVAyZnk1QllYRTdiY2ZuaXVYZXVNOXFlU21aTjB2RjFkc3NWNC0yME1aRjdjNHhYQ0lEZHFpbVFPOGNsMUVhcVJxZXdYTzlpQkpLckw0eHVqUC1IYV9La0hSaHpWRkhya0dyem45SjdzcU13ZzBreXdOMW5xcE4tUkZjc0NMOHY4YjZrbnNyS2c2ZUU?oc=5",
-      "published": "2026-09-18T07:01:04+00:00",
-      "image": ""
-    },
-    {
-      "title": "Agente de IA viola organização espanhola e modifica dados pessoais",
-      "summary": "Os ataques cibernéticos conduzidos por IA costumavam ser exóticos. Em breve, será estranho se os agentes da ameaça não estiverem usando agentes para cumprir todas as suas ordens.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data",
-      "published": "2026-09-18T07:00:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd2c0cfe5f9c4744c/6aac3ea5108059d6dac02186/Digital_trap-Moor_Studio-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Malware RatHat Android abusa do ADB para manter o acesso ao Shell após a desinstalação",
-      "summary": "Pesquisadores de segurança cibernética sinalizaram um novo malware para Android chamado RatHat, que foi avaliado como sendo operado por agentes de ameaças baseados na China e apresenta um sistema alimentado por inteligência artificial (IA) para navegar e contr",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
-      "published": "2026-09-18T06:17:25+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Psm8tS3JWb6ev7nZoz7YQDPIgoHj9gwbNjgjxbokxICdzRIUb5YJI-XfDx0NQgm8afhayc-Zd51hjuxqi7Sk_XxCNXoTNt7nIZWpxCBcDMLjSm3uW38HRciOu3WNtaUT0a-2NSsOX91GbXpCScryNirImMMC4lkuVysHku58maTbm9XvAwJ0-X6O_wDE/s1600/1000109602.jpg"
-    },
-    {
-      "title": "Malware RatHat Android abusa do ADB para manter o acesso ao Shell após a desinstalação - The Hacker News",
-      "summary": "Malware RatHat Android abusa do ADB para manter o acesso ao Shell após a desinstalação The Hacker News",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUDZWbHd1c012UjlRTUEtLUdoMFlDWk8xY29GZFJWQjNuUkdUcW9YUmYyN3pRZi1GaVE3NnVrUGR2VWE3RzdOMzYtSmg0UXJrcU5CeUFrQTExSC0xUEphRlR1VGIxcmdzVkF1Qk9RZjJWekJZQzFOa0JZcXZYSnlNZA?oc=5",
-      "published": "2026-09-18T06:17:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Novo malware RatHat Android usa IA para automatizar o controle de dispositivos",
-      "summary": "Um novo malware Android chamado RatHat foi descoberto, visando usuários com um subsistema alimentado por IA que ajuda os operadores a navegar remotamente em dispositivos comprometidos. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
-      "published": "2026-09-17T21:50:26+00:00",
-      "image": ""
-    },
-    {
-      "title": "CISA dispensa resumos semanais de vulnerabilidades para foco baseado em risco – Dark Reading",
-      "summary": "CISA dispensa resumos semanais de vulnerabilidade para leitura obscura com foco baseado em risco",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM0dxc2FtWWtTVy1pU3FjZVVWNUpVeFBCNXRQQUtUMnd6Z2tXQWtFYm5CN0ItV1UzeGxtdGVjNkNqc0Y0UFRFVUR5aWk4MS1mT3dTdnhyX1RfQVlRNjhfclAwMjRVOUwzWnZaM0p4czVoMTFRb0FWMjBmNlpzRllUMmoyRzlWbWRiSURRemZTRmNyZjA?oc=5",
-      "published": "2026-09-17T21:41:37+00:00",
-      "image": ""
-    },
-    {
-      "title": "CISA dispensa resumos semanais de vulnerabilidade para foco baseado em risco",
-      "summary": "A medida é consistente com o conselho da agência sobre a necessidade de as organizações priorizarem as vulnerabilidades que realmente importam.",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
-      "published": "2026-09-17T21:23:50+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltff913968a26e2946/6aac4af4108059de52c02196/cisa_Jack_the_sparow_shutterstock.jpg?width=720&quality=80&disable=upscale"
     }
   ]
 }
