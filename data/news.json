@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-17T21:28:35.001148+00:00",
+  "updated_at": "2026-09-18T04:52:01.278103+00:00",
   "items": [
     {
-      "title": "[Evento Virtual] Outlook de Cibersegurança 2027",
+      "title": "[Virtual Event] Cybersecurity Outlook 2027",
       "summary": "",
       "category": "DEFESA",
       "source": "Dark Reading",
@@ -11,8 +11,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "FamousSparrow APT da China espiona a política dos EUA na América Latina",
-      "summary": "No meio da luta dos EUA e da China pela influência eco-colonial na América Latina, uma porta dos fundos furtiva fugiu.",
+      "title": "New RatHat Android malware uses AI to automate device control",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
+      "published": "2026-09-17T21:50:26+00:00",
+      "image": ""
+    },
+    {
+      "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
+      "published": "2026-09-17T21:23:50+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltff913968a26e2946/6aac4af4108059de52c02196/cisa_Jack_the_sparow_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "China's FamousSparrow APT Spies on US Politics in Latin America",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "DEFESA",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america",
@@ -20,8 +38,26 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdb2f18082a854a7f/6aac39581080593b25c02180/sparrow-KenCanning-GettyImages-157477304_(1).jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Você deveria se preocupar com uma “desaceleração da IA?”",
-      "summary": "No Threat Source desta semana, David fala sobre por que focar nos princípios básicos de segurança ainda é sua melhor aposta, mesmo em um mundo com rápidos avanços em IA.",
+      "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
+      "published": "2026-09-17T18:08:28+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuFSb4LQQ7e_Iz1RS0JfQEDY9G9LcQZ23RM0h6ladr56GJ6nN3kPwVoZPpNVJUyJEBmLVEyMaIxytF2XqyQs8fGjIdd_ymPjwaZA8Q8R7JiXC-srMFj0_YBd-a94juv46HZm4ie72j7PTj45veyTgOBaeuN53HvktSH3JTgasvV_Mo-RwjsTPnRLlHFVk/s1600/cp-main.jpg"
+    },
+    {
+      "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTE1ZRkpCdUNMYVVmOS0xRlR5ekQ0UldMdVhocGRhTzd3SXdoMW45TWZ4dmlsVVM3TnktSEYtM2xJbU1Ha193N0ZJbEsybnFGWTVTQmxXTko5OS1tX1l4d1pza0J4VlNWaEJwR1V4dGdjSkozc1JNMTRDSmYzdGtZM2hvRQ?oc=5",
+      "published": "2026-09-17T18:08:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Should you care about an “AI slowdown?”",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "Cisco Talos",
       "url": "https://blog.talosintelligence.com/should-you-care-about-an-ai-slowdown/",
@@ -29,8 +65,17 @@
       "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/threat_source-2.jpg"
     },
     {
-      "title": "O ataque à cadeia de suprimentos Brevo injetou scripts ClickFix nos sites dos clientes",
-      "summary": "Brevo confirmou que os invasores roubaram uma chave de API Cloudflare e a usaram para injetar scripts ClickFix maliciosos em seus sites e arquivos JavaScript incorporados em sites de clientes para distribuir malware. [...]",
+      "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
+      "published": "2026-09-17T17:32:22+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizRobrCcZcWNzLjEmyk91HaJj5g2vkMbOgX_lP1vNQqfvh8krm4975WJ5zi9VFY1FsF44ZTJ5znBY5sBuKYiN-riJQspK3iLLnvhW5crViG9fJMPF_SCEN3dKPk-ypSjFQfD_gN1zA-KbryzexASNOVcKRHf4hf3iZ1XBuvYG9WKWhBdVWbs1dzJS9BUIQ/s1600/threatsday-main.jpg"
+    },
+    {
+      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
@@ -38,8 +83,8 @@
       "image": ""
     },
     {
-      "title": "Ataques cibernéticos a dois petroleiros levam a Guarda Costeira e o FBI a embarcar em navios",
-      "summary": "A Guarda Costeira confirmou evidências de atividades cibernéticas maliciosas no VL Prosperity, mas não atribuiu o ataque ao Irã. A postagem Ataques cibernéticos a dois petroleiros solicitam que a Guarda Costeira e o FBI embarquem em navios apareceu pela primei",
+      "title": "Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/",
@@ -47,8 +92,8 @@
       "image": ""
     },
     {
-      "title": "Da orientação à ação: fundamentos de segurança que reduzem materialmente o risco",
-      "summary": "A IA fez mudanças fundamentais no ambiente operacional para segurança cibernética. Explore as orientações de gerenciamento de exposição sobre os controles recomendados, tome medidas e fique à frente das ameaças cibernéticas. A postagem Da orientação à ação: fu",
+      "title": "From guidance to action: Security fundamentals that materially reduce risk",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "Microsoft Security",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk/",
@@ -56,8 +101,8 @@
       "image": ""
     },
     {
-      "title": "Melhorando os resultados de segurança de email com insights reais do Microsoft Defender",
-      "summary": "Os mais recentes relatórios de benchmarking de segurança de e-mail mostram um forte desempenho do Microsoft Defender em cenários de pré e pós-entrega e revelam onde as ameaças e defesas continuam a evoluir. A postagem Melhorando os resultados de segurança de e",
+      "title": "Improving email security outcomes with real-world Microsoft Defender insights",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "Microsoft Security",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/09/17/improving-email-security-outcomes-with-real-world-microsoft-defender-insights/",
@@ -65,8 +110,8 @@
       "image": ""
     },
     {
-      "title": "OpenAI afirma que seus modelos pesquisaram no GitHub em busca de chaves de API vazadas durante o treinamento",
-      "summary": "A OpenAI publicou uma estrutura para divulgar o desalinhamento do modelo juntamente com seis relatórios que descrevem comportamentos problemáticos. A postagem OpenAI afirma que seus modelos pesquisaram no GitHub por chaves de API vazadas durante o treinamento ",
+      "title": "OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/",
@@ -74,8 +119,17 @@
       "image": ""
     },
     {
-      "title": "CISA retira boletim semanal de vulnerabilidade em pivô baseado em risco",
-      "summary": "A decisão segue o BOD 26-04, que orienta as organizações federais a priorizar vulnerabilidades com base no risco do mundo real. A postagem CISA retira boletim semanal de vulnerabilidade em pivô baseado em risco apareceu pela primeira vez em SecurityWeek.",
+      "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
+      "published": "2026-09-17T15:37:56+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJbYvRH1MRTGK43JYSWe2X3djxWAuNa3_r94FvOPBjt9sWrkRiEQi7D0DPksj3NH9vDPjm7MGSGY9UEc7JqePjd4aA-c4zuMzLZXH0Y5NWKWGnzNgbFe0tYlEFSFLrJFWVRuRKs_PQN8IKkdzYYNn8T7YWuUkZC4_2skq3deXYAw7i0aqWdx6G0FQwVzs/s1600/docker-macos.jpg"
+    },
+    {
+      "title": "CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/",
@@ -83,8 +137,17 @@
       "image": ""
     },
     {
-      "title": "O que os recentes ataques baseados em IA significam para a segurança da sua identidade",
-      "summary": "A IA está tornando o roubo de credenciais mais rápido e fácil de escalar, dando aos invasores mais oportunidades de abusar de identidades válidas. Specops explica por que a segurança da identidade deve ir além da autenticação bem-sucedida, verificando se tanto",
+      "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "PRIVACIDADE",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
+      "published": "2026-09-17T14:03:13+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdqFZ07lueoUFevcbuCOBavlR6CaAxmFqFs7hLpyqw-maKbLcISxW0Q-y7JwvoRrhDumRNaJo_Z4T6QRrGLUTDEE8yYqFfoRLmkoc_J4omdeCAmew1_5k-NwnNWJyYawal5nni-TVZu8M4aDsGNhbwlpp1Y7wLUSjsFR-olY89Mls9hD4CiL9jq0roUpzA/s1600/telegram-handala.jpg"
+    },
+    {
+      "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
@@ -92,76 +155,13 @@
       "image": ""
     },
     {
-      "title": "Violação de dados Revolut: 5 meses, 680 contas de alto perfil, resgate de US$ 3 milhões",
-      "summary": "A Revolut supostamente forneceu informações de clientes a hackers que se faziam passar por uma agência governamental italiana durante cinco meses. A postagem Violação de dados Revolut: 5 meses, 680 contas de alto perfil, resgate de US$ 3 milhões apareceu pela ",
+      "title": "Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/",
       "published": "2026-09-17T13:57:41+00:00",
       "image": ""
-    },
-    {
-      "title": "Comp AI levanta US$ 34 milhões para conformidade e segurança nativas de IA",
-      "summary": "A empresa planeja expandir para a segurança cibernética contínua, oferecendo testes de segurança em aplicativos e infraestrutura. A postagem Comp AI levanta US$ 34 milhões para conformidade e segurança nativa de IA apareceu pela primeira vez na SecurityWeek.",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/comp-ai-raises-34-million-for-ai-native-compliance-and-security/",
-      "published": "2026-09-17T13:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "ISC corrige 14 vulnerabilidades na atualização de segurança do BIND 9",
-      "summary": "Os invasores podem explorar as falhas para aumentar o uso de recursos, desencadear uma saída inesperada do programa ou encerrar o processo nomeado. A postagem ISC Patches 14 Vulnerabilidades na atualização de segurança do BIND 9 apareceu pela primeira vez em S",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/isc-patches-14-vulnerabilities-in-bind-9-security-update/",
-      "published": "2026-09-17T12:39:28+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falha crítica do validador DNSSEC não consolidado pode permitir RCE por meio de uma zona DNS mal-intencionada",
-      "summary": "Cada versão do resolvedor DNS Unbound antes de 1.26.1 tem um heap overflow crítico em seu validador DNSSEC, disse o mantenedor NLnet Labs em um comunicado na quarta-feira. Um invasor que controla uma zona maliciosa e consulta um resolvedor vulnerável pode acio",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
-      "published": "2026-09-17T12:30:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiFNFekCjM7qSAMNaeoNatwUPsjJY0Nj67yGKdlhq_zzLH9tyjQrXAByn9B6BvXEcMabyWnO5oWWE11_orN2h7G-7jRjGPSW48xtd4HySWIkI1fQzCbUDCVzRyc_KG3curUoXk4LgyckPwUO8aP65kR0CYnc90pkfXctHKXVQ7grKsc43drFZ63yRur20/s1600/dns-admin.jpg"
-    },
-    {
-      "title": "Ataques de ransomware a fabricantes aumentam à medida que aumenta o risco da cadeia de suprimentos",
-      "summary": "A investigação mostra que os ataques aos fabricantes aumentaram 40% no início de 2026, à medida que os grupos de ransomware exploram cada vez mais a interrupção da cadeia de abastecimento causada por encerramentos operacionais. A postagem Ataques de ransomware",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ransomware-attacks-on-manufacturers-surge-as-supply-chain-risk-grows/",
-      "published": "2026-09-17T12:29:53+00:00",
-      "image": ""
-    },
-    {
-      "title": "Cisco corrige dezenas de falhas no FMC, ISE e Nexus Dashboard",
-      "summary": "As vulnerabilidades podem levar ao acesso root, execução de comandos, desvios, injeção de SQL e execução remota de código. A postagem Cisco corrige dezenas de falhas no FMC, ISE e Nexus Dashboard apareceu pela primeira vez na SecurityWeek.",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/cisco-fixes-dozens-of-flaws-across-fmc-ise-and-nexus-dashboard/",
-      "published": "2026-09-17T12:17:40+00:00",
-      "image": ""
-    },
-    {
-      "title": "Você pode provar que um novo CVE é explorável antes que os invasores o façam? Aprenda como neste webinar",
-      "summary": "Um novo CVE cai. Seu scanner o encontra. A pontuação de gravidade parece feia. Mas isso ainda não responde à questão que importa: pode realmente ser explorado no seu ambiente? A IA da classe Mythos está reduzindo o tempo entre a divulgação e a exploração opera",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-      "published": "2026-09-17T11:50:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSkWwlEMQDwM0PU3XRgsqUUT_CNE0pGhBazuPl1AOqwEHAlaRqZr9sYVLlyvKmaLoNKBY8IeKO0F0L6dDZmQ-_s8-HzQZu4Xx17kqlNYy3-iNL0BeLD2BPA9WcrHMry3c3u-Kz-iHIuSjCtbLzzWd2vQiOHW4LSuE3SMgADJaQeJNI2HPIwAXp0j6yJlk/s1600/picus-webinar.jpg"
-    },
-    {
-      "title": "Guia especializado do CISO para testes de agência para sites",
-      "summary": "Os invasores agora transformam novas vulnerabilidades em armas em cerca de cinco dias (Mandiant, parte do Google Cloud). A organização média leva 43 dias para corrigir um (Verizon DBIR 2026). Um novo guia gratuito explica como os agentes autônomos de IA estão ",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
-      "published": "2026-09-17T10:50:53+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqOqtV_80Gn3utPVzonjyU94CgrwrcRNCUvdMEMZbOJGmKGOGD_ly8yH-V5AVwUtyNADgEPXySLFga7FZiWBSHCESverdknL-LS6MJSrkv6ejTaFkDM087mWkfBfur7UQ_vXsM8gcBByxyYyn0g3rAENhqJamGszCkPf2LM31d3wDgEUpCuFrGt4mZnUE/s1600/REFF.jpg"
     }
   ]
 }
