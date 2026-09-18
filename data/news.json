@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-18T04:52:01.278103+00:00",
+  "updated_at": "2026-09-18T11:25:56.129907+00:00",
   "items": [
     {
-      "title": "[Virtual Event] Cybersecurity Outlook 2027",
+      "title": "[Evento Virtual] Outlook de Cibersegurança 2027",
       "summary": "",
       "category": "DEFESA",
       "source": "Dark Reading",
@@ -11,8 +11,134 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "New RatHat Android malware uses AI to automate device control",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Microsoft corrige 18 vulnerabilidades em IA e produtos em nuvem",
+      "summary": "A Microsoft corrigiu vulnerabilidades em produtos Azure e da marca AI, com falhas de escalonamento de privilégios representando a maioria. A postagem Microsoft corrige 18 vulnerabilidades em IA e produtos em nuvem apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/",
+      "published": "2026-09-18T10:57:03+00:00",
+      "image": ""
+    },
+    {
+      "title": "WeaselBiscuit Stealer se espalha por meio de pacotes de 13 npm para coletar armazenamento de extensão do Chrome",
+      "summary": "Pesquisadores de segurança cibernética descobriram um conjunto de pacotes de 13 npm que entregam um ladrão de JavaScript anteriormente não documentado, de codinome WeaselBiscuit. A nova família de malware, de acordo com OpenSourceMalware, exibe sobreposições f",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
+      "published": "2026-09-18T10:40:06+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZypkEn_5V1qllBxmH8UMxTPyA9qoXxQtKpBpJlFq2rtHgMM1wnknkyq4Vmmy0NiCHn2IjS0nyvtmiZpJ-vYOd6VxMFBexh_p6GXuq3Cjda-YfjDOUE5u5V5HfBBAQzEm5DLX3jg_ZrIfEBFlpcBod65T3Q0pXVR7vERfitlS6cBHYVG2K7ek5ivweYTRq/s1600/npm-chrome.jpg"
+    },
+    {
+      "title": "Serviço DDoS NightmareStresser interrompido em operação internacional",
+      "summary": "Ativo desde pelo menos 2022, NightmareStresser foi um dos serviços de DDoS de aluguel mais antigos do mundo. O posto Serviço DDoS NightmareStresser interrompido em operação internacional apareceu pela primeira vez em SecurityWeek.",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/",
+      "published": "2026-09-18T10:12:33+00:00",
+      "image": ""
+    },
+    {
+      "title": "Ataque Brevo à cadeia de suprimentos injeta malware em 100.000 sites",
+      "summary": "Os hackers usaram uma chave de API comprometida para implantar um trabalhador Cloudflare que injetou scripts maliciosos. A postagem Ataque Brevo à cadeia de suprimentos injeta malware em 100.000 sites apareceu pela primeira vez na SecurityWeek.",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/",
+      "published": "2026-09-18T09:46:57+00:00",
+      "image": ""
+    },
+    {
+      "title": "Nova falha do Check Point permite que hackers executem código com privilégios de root",
+      "summary": "A Check Point Software lançou atualizações de segurança para solucionar uma vulnerabilidade crítica que pode permitir que invasores executem código com privilégios de root em sistemas de gerenciamento. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
+      "published": "2026-09-18T09:34:33+00:00",
+      "image": ""
+    },
+    {
+      "title": "Alegado Bug Bounty Hunter provavelmente usou LLM para construir PhantomRaven npm Stealer",
+      "summary": "Um ator de ameaça com motivação financeira foi vinculado ao desenvolvimento e distribuição de um ladrão de informações baseado em JavaScript (JS), conhecido como PhantomRaven, por meio do registro de pacotes npm. “O desenvolvedor provavelmente escreveu o malwa",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
+      "published": "2026-09-18T09:18:03+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyW8DcUYeyW1LOG-Gc3uqyV8_5rO4iwyEIM6FbRFwuvilvbfC7RSTjueJ4lEELpGvXX-22zzWuNCusN2qdODymiKNOQSz_8f1Q4u59bH7HCEZFT5PVsyBjj2NhWtlYiwvhXzXbwG_n3P_DCloZvMdajsc93hvqbJo6HCJy5wjNevUyN46ODFo7AlYsj499/s1600/npm-cicd.jpg"
+    },
+    {
+      "title": "Vulnerabilidade crítica do condutor Orkes explorada em ataques",
+      "summary": "CVE-2026-58138 é uma vulnerabilidade de execução remota de código não autenticada que os invasores podem explorar por meio de definições de fluxo de trabalho inline. A postagem Vulnerabilidade crítica do condutor Orkes explorada em ataques apareceu pela primei",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/",
+      "published": "2026-09-18T08:42:18+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft corrige cópia e colagem quebrada para usuários do Excel 2016",
+      "summary": "A Microsoft corrigiu um problema conhecido que causa falhas de copiar e colar para alguns usuários do Excel após instalar a atualização de segurança KB5002914 de setembro de 2026. [...]",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
+      "published": "2026-09-18T07:35:31+00:00",
+      "image": ""
+    },
+    {
+      "title": "MIND garante US$ 72 milhões para DLP alimentado por IA",
+      "summary": "A empresa utilizará o financiamento para acelerar o desenvolvimento da plataforma e expandir a sua presença nos principais mercados empresariais. A postagem MIND garante US$ 72 milhões para DLP alimentado por IA apareceu pela primeira vez na SecurityWeek.",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/mind-secures-72-million-for-ai-powered-dlp/",
+      "published": "2026-09-18T07:25:27+00:00",
+      "image": ""
+    },
+    {
+      "title": "Vulnerabilidades de produtos Check Point, Kaspersky e Tanium Patch",
+      "summary": "Check Point Security Management e Log Servers são afetados por uma vulnerabilidade crítica que pode permitir a execução remota de código com privilégios de root. A postagem Vulnerabilidades do produto Check Point, Kaspersky, Tanium Patch apareceu pela primeira",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/check-point-kaspersky-tanium-patch-product-vulnerabilities/",
+      "published": "2026-09-18T07:14:04+00:00",
+      "image": ""
+    },
+    {
+      "title": "Agente de IA viola organização espanhola e modifica dados pessoais – Dark Reading",
+      "summary": "Agente de IA viola organização espanhola e modifica leitura obscura de dados pessoais",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM29kMDRuSVM0NVprMVljeGZ4WThtc3h5dVAyZnk1QllYRTdiY2ZuaXVYZXVNOXFlU21aTjB2RjFkc3NWNC0yME1aRjdjNHhYQ0lEZHFpbVFPOGNsMUVhcVJxZXdYTzlpQkpLckw0eHVqUC1IYV9La0hSaHpWRkhya0dyem45SjdzcU13ZzBreXdOMW5xcE4tUkZjc0NMOHY4YjZrbnNyS2c2ZUU?oc=5",
+      "published": "2026-09-18T07:01:04+00:00",
+      "image": ""
+    },
+    {
+      "title": "Agente de IA viola organização espanhola e modifica dados pessoais",
+      "summary": "Os ataques cibernéticos conduzidos por IA costumavam ser exóticos. Em breve, será estranho se os agentes da ameaça não estiverem usando agentes para cumprir todas as suas ordens.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data",
+      "published": "2026-09-18T07:00:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd2c0cfe5f9c4744c/6aac3ea5108059d6dac02186/Digital_trap-Moor_Studio-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Malware RatHat Android abusa do ADB para manter o acesso ao Shell após a desinstalação",
+      "summary": "Pesquisadores de segurança cibernética sinalizaram um novo malware para Android chamado RatHat, que foi avaliado como sendo operado por agentes de ameaças baseados na China e apresenta um sistema alimentado por inteligência artificial (IA) para navegar e contr",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
+      "published": "2026-09-18T06:17:25+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Psm8tS3JWb6ev7nZoz7YQDPIgoHj9gwbNjgjxbokxICdzRIUb5YJI-XfDx0NQgm8afhayc-Zd51hjuxqi7Sk_XxCNXoTNt7nIZWpxCBcDMLjSm3uW38HRciOu3WNtaUT0a-2NSsOX91GbXpCScryNirImMMC4lkuVysHku58maTbm9XvAwJ0-X6O_wDE/s1600/1000109602.jpg"
+    },
+    {
+      "title": "Malware RatHat Android abusa do ADB para manter o acesso ao Shell após a desinstalação - The Hacker News",
+      "summary": "Malware RatHat Android abusa do ADB para manter o acesso ao Shell após a desinstalação The Hacker News",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUDZWbHd1c012UjlRTUEtLUdoMFlDWk8xY29GZFJWQjNuUkdUcW9YUmYyN3pRZi1GaVE3NnVrUGR2VWE3RzdOMzYtSmg0UXJrcU5CeUFrQTExSC0xUEphRlR1VGIxcmdzVkF1Qk9RZjJWekJZQzFOa0JZcXZYSnlNZA?oc=5",
+      "published": "2026-09-18T06:17:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Novo malware RatHat Android usa IA para automatizar o controle de dispositivos",
+      "summary": "Um novo malware Android chamado RatHat foi descoberto, visando usuários com um subsistema alimentado por IA que ajuda os operadores a navegar remotamente em dispositivos comprometidos. [...]",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
@@ -20,148 +146,22 @@
       "image": ""
     },
     {
-      "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "CISA dispensa resumos semanais de vulnerabilidades para foco baseado em risco – Dark Reading",
+      "summary": "CISA dispensa resumos semanais de vulnerabilidade para leitura obscura com foco baseado em risco",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM0dxc2FtWWtTVy1pU3FjZVVWNUpVeFBCNXRQQUtUMnd6Z2tXQWtFYm5CN0ItV1UzeGxtdGVjNkNqc0Y0UFRFVUR5aWk4MS1mT3dTdnhyX1RfQVlRNjhfclAwMjRVOUwzWnZaM0p4czVoMTFRb0FWMjBmNlpzRllUMmoyRzlWbWRiSURRemZTRmNyZjA?oc=5",
+      "published": "2026-09-17T21:41:37+00:00",
+      "image": ""
+    },
+    {
+      "title": "CISA dispensa resumos semanais de vulnerabilidade para foco baseado em risco",
+      "summary": "A medida é consistente com o conselho da agência sobre a necessidade de as organizações priorizarem as vulnerabilidades que realmente importam.",
       "category": "VULNERABILIDADES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
       "published": "2026-09-17T21:23:50+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltff913968a26e2946/6aac4af4108059de52c02196/cisa_Jack_the_sparow_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "China's FamousSparrow APT Spies on US Politics in Latin America",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-spies-latin-america",
-      "published": "2026-09-17T19:15:38+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdb2f18082a854a7f/6aac39581080593b25c02180/sparrow-KenCanning-GettyImages-157477304_(1).jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
-      "published": "2026-09-17T18:08:28+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuFSb4LQQ7e_Iz1RS0JfQEDY9G9LcQZ23RM0h6ladr56GJ6nN3kPwVoZPpNVJUyJEBmLVEyMaIxytF2XqyQs8fGjIdd_ymPjwaZA8Q8R7JiXC-srMFj0_YBd-a94juv46HZm4ie72j7PTj45veyTgOBaeuN53HvktSH3JTgasvV_Mo-RwjsTPnRLlHFVk/s1600/cp-main.jpg"
-    },
-    {
-      "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTE1ZRkpCdUNMYVVmOS0xRlR5ekQ0UldMdVhocGRhTzd3SXdoMW45TWZ4dmlsVVM3TnktSEYtM2xJbU1Ha193N0ZJbEsybnFGWTVTQmxXTko5OS1tX1l4d1pza0J4VlNWaEJwR1V4dGdjSkozc1JNMTRDSmYzdGtZM2hvRQ?oc=5",
-      "published": "2026-09-17T18:08:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Should you care about an “AI slowdown?”",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "Cisco Talos",
-      "url": "https://blog.talosintelligence.com/should-you-care-about-an-ai-slowdown/",
-      "published": "2026-09-17T18:00:23+00:00",
-      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/threat_source-2.jpg"
-    },
-    {
-      "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
-      "published": "2026-09-17T17:32:22+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizRobrCcZcWNzLjEmyk91HaJj5g2vkMbOgX_lP1vNQqfvh8krm4975WJ5zi9VFY1FsF44ZTJ5znBY5sBuKYiN-riJQspK3iLLnvhW5crViG9fJMPF_SCEN3dKPk-ypSjFQfD_gN1zA-KbryzexASNOVcKRHf4hf3iZ1XBuvYG9WKWhBdVWbs1dzJS9BUIQ/s1600/threatsday-main.jpg"
-    },
-    {
-      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
-      "published": "2026-09-17T17:11:34+00:00",
-      "image": ""
-    },
-    {
-      "title": "Cyberattacks on Two Oil Tankers Prompt Coast Guard, FBI to Board Vessels",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/cyberattacks-on-two-oil-tankers-prompt-coast-guard-fbi-to-board-vessels/",
-      "published": "2026-09-17T17:09:40+00:00",
-      "image": ""
-    },
-    {
-      "title": "From guidance to action: Security fundamentals that materially reduce risk",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk/",
-      "published": "2026-09-17T17:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Improving email security outcomes with real-world Microsoft Defender insights",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/17/improving-email-security-outcomes-with-real-world-microsoft-defender-insights/",
-      "published": "2026-09-17T16:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "OpenAI Says Its Models Searched GitHub for Leaked API Keys During Training",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/openai-says-its-models-hunted-github-for-leaked-api-keys-during-training/",
-      "published": "2026-09-17T15:45:29+00:00",
-      "image": ""
-    },
-    {
-      "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
-      "published": "2026-09-17T15:37:56+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJbYvRH1MRTGK43JYSWe2X3djxWAuNa3_r94FvOPBjt9sWrkRiEQi7D0DPksj3NH9vDPjm7MGSGY9UEc7JqePjd4aA-c4zuMzLZXH0Y5NWKWGnzNgbFe0tYlEFSFLrJFWVRuRKs_PQN8IKkdzYYNn8T7YWuUkZC4_2skq3deXYAw7i0aqWdx6G0FQwVzs/s1600/docker-macos.jpg"
-    },
-    {
-      "title": "CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/",
-      "published": "2026-09-17T14:28:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "PRIVACIDADE",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
-      "published": "2026-09-17T14:03:13+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdqFZ07lueoUFevcbuCOBavlR6CaAxmFqFs7hLpyqw-maKbLcISxW0Q-y7JwvoRrhDumRNaJo_Z4T6QRrGLUTDEE8yYqFfoRLmkoc_J4omdeCAmew1_5k-NwnNWJyYawal5nni-TVZu8M4aDsGNhbwlpp1Y7wLUSjsFR-olY89Mls9hD4CiL9jq0roUpzA/s1600/telegram-handala.jpg"
-    },
-    {
-      "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
-      "published": "2026-09-17T14:01:11+00:00",
-      "image": ""
-    },
-    {
-      "title": "Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/",
-      "published": "2026-09-17T13:57:41+00:00",
-      "image": ""
     }
   ]
 }
