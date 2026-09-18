@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T16:31:52.569140+00:00",
+  "updated_at": "2026-09-18T20:58:22.292331+00:00",
   "items": [
     {
       "title": "[Evento Virtual] Outlook de Cibersegurança 2027",
@@ -9,6 +9,51 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "published": "2026-12-03T16:00:00+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Vectra AI lança Ascent para ajudar a enfrentar a nova era de ataques baseados em IA",
+      "summary": "O novo programa expande a estratégia de parceria da Vectra AI à medida que ambientes de segurança cada vez mais complexos e o uso crescente de IA criam demanda por conhecimentos, serviços e resultados de segurança mais amplos em IA.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks",
+      "published": "2026-09-18T20:24:51+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Cisco Zero-Day destaca problemas de autenticação de endpoint de API",
+      "summary": "A falha de desvio de autenticação CVE-2026-76460 afeta o Identity Services Engine (ISE) da Cisco e recebeu uma pontuação CVSS máxima de 10 em 10.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
+      "published": "2026-09-18T19:26:47+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9b9202e55102d483/6aad857c8cb60c3268956114/api-saifulasmee_chede-Getty-2203607940.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Explorações públicas lançadas para quatro falhas do kernel Linux que permitem raiz local",
+      "summary": "Um pesquisador de segurança lançou um código de exploração funcional para quatro falhas do kernel do Linux, cada uma permitindo que um usuário local obtenha root, o nível mais alto de acesso em uma máquina. Os mantenedores do kernel corrigiram todos os quatro ",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
+      "published": "2026-09-18T18:02:24+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixfmcEQbMRp9dJbUmuhA3LSquz7yG3lph_Nbh6NqiVGOPOiOoKYcWbspSqEDBpeyUMH-KK_DHWoBSFmaZPE_BlWRjy4swhpEPCBJ-p2NCJRTceTeDx84tDToap0VrFW304zxv0nKsRSVOMM3GPhFyJ7GZkGPG92N3aKvW3edGBBdoAJl0_fH6IehDA0I8/s1600/linux-kernel.jpg"
+    },
+    {
+      "title": "Explorações públicas lançadas para quatro falhas do kernel do Linux que permitem raiz local - The Hacker News",
+      "summary": "Exploits públicos lançados para quatro falhas do kernel do Linux que permitem root local The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb2xtQ0k0YV96ODhUOWFCMWlLaWhOTnhmbHpBLWpvZzFvZzBpai1fNDk3YXhtdmRaVi13QmdQLW9IZVhGS21oSHhWVmhCYkJnTF9TQU96UGVGNXQ3NG9EY0dlSnlmd0dnRHNObEJFY2hTMlhjLTFvcm82RDhtbDNUMEhCUEg?oc=5",
+      "published": "2026-09-18T18:02:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Nova instalação do tema Click2Shell Flaw Forces do WordPress, pode encadear para execução de código",
+      "summary": "O WordPress lançou hoje patches para corrigir um novo conjunto de vulnerabilidades em seu software principal, um dos quais poderia permitir que um link da web criado, aberto por um administrador logado, instalasse um tema do diretório oficial do WordPress.org ",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
+      "published": "2026-09-18T16:56:19+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRmEdVvBEJZEaIzJ4GYHX3cDjJq5YaLQby6GeVwDl-uVl_qIR_tkRSx6aKpzoYhGVvp0E3NDIe9aum5f5N_lI-RPz6eDNGHC7vpKMa0UrlT1J1_bRJrJ8Wk0htpyFoR3ezoqh-BCJePJU914UFlL7gS45RXbWoVi3Lp49iNSkUt7eLrJyQTAEIGE-VRgY/s1600/click2shell.gif"
     },
     {
       "title": "Falha do servidor Gyazo explorada para roubar 23,6 milhões de registros de usuários",
@@ -75,7 +120,7 @@
     },
     {
       "title": "Microsoft corrige falha do CVSS 10.0 Azure AI Foundry, permitindo escalonamento de privilégios não autorizados - The Hacker News",
-      "summary": "Microsoft corrige falha do Azure AI Foundry no CVSS 10.0, permitindo escalonamento de privilégios não autorizado The Hacker News",
+      "summary": "Microsoft corrige falha no CVSS 10.0 do Azure AI Foundry, permitindo escalonamento de privilégios não autorizado The Hacker News",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DNVRVWUw5LUlib1hhX180Z191NmxSamo0YzFFdFcweVJaeW1VeS1GNFk0U2NDNFJ6R01pSkQ3QVFYOVRidGhDVG0xNHBhVThQN2xITk5EX1BlS1Qyc2stTG1FOEpPaDFoNURET2JhQmFfM2ZEMjZTWTF1NGtOMkU?oc=5",
@@ -116,51 +161,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/",
       "published": "2026-09-18T10:57:03+00:00",
-      "image": ""
-    },
-    {
-      "title": "WeaselBiscuit Stealer se espalha por meio de pacotes de 13 npm para coletar armazenamento de extensão do Chrome",
-      "summary": "Pesquisadores de segurança cibernética descobriram um conjunto de pacotes de 13 npm que entregam um ladrão de JavaScript anteriormente não documentado, de codinome WeaselBiscuit. A nova família de malware, de acordo com OpenSourceMalware, exibe sobreposições f",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
-      "published": "2026-09-18T10:40:06+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZypkEn_5V1qllBxmH8UMxTPyA9qoXxQtKpBpJlFq2rtHgMM1wnknkyq4Vmmy0NiCHn2IjS0nyvtmiZpJ-vYOd6VxMFBexh_p6GXuq3Cjda-YfjDOUE5u5V5HfBBAQzEm5DLX3jg_ZrIfEBFlpcBod65T3Q0pXVR7vERfitlS6cBHYVG2K7ek5ivweYTRq/s1600/npm-chrome.jpg"
-    },
-    {
-      "title": "Serviço DDoS NightmareStresser interrompido em operação internacional",
-      "summary": "Ativo desde pelo menos 2022, NightmareStresser foi um dos serviços de DDoS de aluguel mais antigos do mundo. O posto Serviço DDoS NightmareStresser interrompido em operação internacional apareceu pela primeira vez em SecurityWeek.",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/",
-      "published": "2026-09-18T10:12:33+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ataque Brevo à cadeia de suprimentos injeta malware em 100.000 sites",
-      "summary": "Os hackers usaram uma chave de API comprometida para implantar um trabalhador Cloudflare que injetou scripts maliciosos. A postagem Ataque Brevo à cadeia de suprimentos injeta malware em 100.000 sites apareceu pela primeira vez na SecurityWeek.",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/",
-      "published": "2026-09-18T09:46:57+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ataque Brevo à cadeia de suprimentos injeta malware em 100.000 sites",
-      "summary": "Ataque Brevo à cadeia de suprimentos injeta malware em 100.000 sites SecurityWeek",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdDJyRzRCeExLbUI0b040bFhHWHQ3RVo1eXkzSkNHZ3p3V2xsRDBLTzljQmRINXMwcVFRWU1zOWZQejJUOFhBdnpCeDduRDZIRWxDV2ZIRVJBMVl6NEtEQktiMm03TmgwZF9jRGNRbnhuZGdoT1RYVkZPYTgxd1I2a3htbTlBVDJwTzBGQzdrVzV3cEpGRW9Z0gGcAUFVX3lxTE43NHgtb2laSXd4M2pQb1VtQV9xeXRNalRqZHpfbVlCUmlhTWNOUXFQeElrT2tKcjZmY3hRUmJSSFhIUGpjakE1eU1SZHh6dU5Pd0ZNdTFxd1BJdHBiX2J4eEg1UHM4Ukc5WEl2TEFMSExUNG1QQWJLQTdzTWVnU3JJeEppa0YtdmEwSlM3TUljQjFySDRWSkliOVNMMQ?oc=5",
-      "published": "2026-09-18T09:46:57+00:00",
-      "image": ""
-    },
-    {
-      "title": "Nova falha do Check Point permite que hackers executem código com privilégios de root",
-      "summary": "A Check Point Software lançou atualizações de segurança para solucionar uma vulnerabilidade crítica que pode permitir que invasores executem código com privilégios de root em sistemas de gerenciamento. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
-      "published": "2026-09-18T09:34:33+00:00",
       "image": ""
     }
   ]
