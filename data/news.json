@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-19T11:09:21.334913+00:00",
+  "updated_at": "2026-09-19T15:56:53.351600+00:00",
   "items": [
     {
-      "title": "[Virtual Event] Cybersecurity Outlook 2027",
+      "title": "[Evento Virtual] Outlook de Cibersegurança 2027",
       "summary": "",
       "category": "DEFESA",
       "source": "Dark Reading",
@@ -11,8 +11,71 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "BragJack ataca sequestradores de agentes de navegador de IA por meio de extensões maliciosas",
+      "summary": "BragJack, um ataque de prova de conceito de Gal Weizman da Forever Security, sequestra os assistentes de IA no Chrome, Edge, Opera Neon, Perplexity Comet e Claude no Chrome usando uma extensão maliciosa. A técnica Prompt Forcing rendeu mais de US$ 20.000 em re",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
+      "published": "2026-09-19T14:56:31+00:00",
+      "image": ""
+    },
+    {
+      "title": "TigerByte Cyber ​​emerge do sigilo com US$ 3 milhões em financiamento",
+      "summary": "A empresa garantiu mais de US$ 7 milhões em contratos com agências governamentais dos EUA, incluindo a Força Espacial dos EUA, a Marinha dos EUA e a DARPA. A postagem TigerByte Cyber ​​emerge do sigilo com US$ 3 milhões em financiamento apareceu pela primeira ",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/",
+      "published": "2026-09-19T14:30:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "ShinyHunters hackeia site de vazamento do Clop e ameaça extorquir gangue de ransomware",
+      "summary": "A gangue de extorsão ShinyHunters violou o site de vazamento de dados da operação de ransomware Clop (também conhecido como Cl0p), desfigurando o site Tor e supostamente roubando dados do servidor e as chaves privadas para seu serviço de cebola. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
+      "published": "2026-09-19T13:48:32+00:00",
+      "image": ""
+    },
+    {
+      "title": "Você pode provar que um novo CVE é explorável antes que os invasores o façam? Aprenda como neste webinar",
+      "summary": "Um novo CVE cai. Seu scanner o encontra. A pontuação de gravidade parece feia. Mas isso ainda não responde à questão que importa: pode realmente ser explorado no seu ambiente? A IA da classe Mythos está reduzindo o tempo entre a divulgação e a exploração opera",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+      "published": "2026-09-19T13:28:48+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVgJqM9WZF6u_WZBeTJKqe35CDnh_4kxjLjZa3w63XbqfKBRNUENbTh5HGVrgYUGtmLRW9Px3GGzNcewMJWzd7CRxsk66eY1D70or8gasHUroPNdbUJ6ordqjxb7s8gKqQwuyWxCWC2BT0Matusn6PLXV9xus1PlqqqD3JITL_Unxt2xP8UK6zlX9Tmr0A/s1600/cves.jpg"
+    },
+    {
+      "title": "Visibilidade da identidade em 2026: a base da segurança da identidade",
+      "summary": "A visibilidade da identidade é um ponto de partida para a segurança de identidade moderna, porque credenciais roubadas e mal utilizadas estão entre os vetores de acesso inicial relatados com mais frequência em pesquisas de violação, incluindo o Relatório Anual",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
+      "published": "2026-09-19T13:28:41+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTFTNQKV-yV8FRZZRLBPRxZDhk6E7s3v8SpP5xW_aeDyMz-xMvi-xAVUmvDvMC-CnU1kddKpVGN9BBzeoH4xeq8zE3OAqUq5441sYhC4tfYcyU1-3_yPkVphC-20dCQX_e5kN_G-Ji42wbYuxavkjczHwYn9QP0WRXnN16KUA33kizHwh38yQl7clZAA0/s1600/ORCHID-1.jpg"
+    },
+    {
+      "title": "Claude Opus 5 ajudou pesquisadores a assumir contas de funcionários da OpenAI por meio de falhas encadeadas",
+      "summary": "Três pesquisadores da empresa de segurança Hacktron usaram Claude Opus 5 da Anthropic para encadear duas falhas e assumir o controle das contas ChatGPT e Codex de vários funcionários da OpenAI e, em seguida, acessar um repositório interno de código OpenAI. A c",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+      "published": "2026-09-19T13:28:35+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAElV4rXwWf_kTjj5e0UJFsEG-a0B7MUsCFqhFLYEA76kk2A7UeXbaG0DfRt-Syf7dxx4bHUanr0lVvwIUFyFgtPIfhyphenhyphenx61ccuo3oDZr6-wKROoEAVWjrAcKWuZ5WdlvL_pmKC91i9juBrsnI3FiLTGGgjnnJRAnjTgAxAbMjcbCTxZSWybZPPtG8HN1E/s1600/claude-openai.jpg"
+    },
+    {
+      "title": "SolarWinds corrige falha de chave codificada do ARM, permitindo RCE não autenticado",
+      "summary": "A SolarWinds lançou atualizações de segurança para solucionar uma falha de alta gravidade no Access Rights Manager (ARM) que, se explorada com sucesso, pode levar a uma vulnerabilidade de execução remota de código não autenticado. A vulnerabilidade, rastreada ",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
+      "published": "2026-09-19T09:31:17+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXW-SaTg898BaxxlrDjSCrcm6ZYDgxoeuYCBY4QNWs6Nt5RhyphenhyphenCf4iSIyodz-7jk8rTqUT8hjlMT74dIf6ZjL_pD5NmiNbAHhsZwzw2rakJUDaU1tVeEvKw7Az3tMf34Xwh3ffToJeI1tpTQ8rAR8AvVn2XTupFgfhehb9sHClHDDGeDd4Y9z4oUf5CYPoS/s1600/solar.jpg"
+    },
+    {
+      "title": "RCE de pré-autenticação crítica na plataforma de fluxo de trabalho Orkes Conductor explorada na natureza",
+      "summary": "Uma vulnerabilidade crítica que afeta o Orkes Conductor está sendo explorada ativamente, de acordo com a Fortinet. A vulnerabilidade em questão é CVE-2026-58138 (pontuação CVSS v3.1: 9.8/pontuação CVSS v4: 9.3), que se refere a um caso de execução remota de có",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
@@ -20,8 +83,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL-YeIVFaRBKvtwQKBxAilhKMaZP_x6L979d8JL60W3AEHy9o2sfL_dMrJWy_sPIV70oIbP6DYe2KVhHh-mwbB4zBvrV_jEgdRiuc_IzNyyPSfUAOGvAp7J7JO06OWUWjSwuqpU4JJ_kNy0vtW1D9_gEtQNNVmWiYzRTpYMwhe-J3Bvve3EHrAp81Wht4L/s1600/orkes.jpg"
     },
     {
-      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Google Gemini invadiu sistemas de empresas reais após confusão de domínios de teste de segurança",
+      "summary": "O modelo Gemini do Google se tornou o mais recente sistema de inteligência artificial (IA) para acessar a internet e invadir outras empresas durante uma avaliação de segurança cibernética. O desenvolvimento foi relatado pela primeira vez pelo The Wall Street J",
       "category": "INCIDENTES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
@@ -29,8 +92,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm1vwiJZKRchF7LYZ5yklmFs_RohvMasYHTdoHF_qDFFePLtM0KdHNBzPMWQYWlN05rsn5gBZ0SV3mU69LwLtHTVNf_59TpPC3pOn-z1ENVZw-V0kdX7W4j-K83Vtc7ukjZIQjXxSEFTmo3-wkx5hL7IGdxkUXKQYHzGy-IAcetXr70chvzQxtRahueg2H/s1600/gemini-hack.jpg"
     },
     {
-      "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Google Gemini invadiu sistemas reais de empresas após confusão de domínios de teste de segurança - The Hacker News",
+      "summary": "Google Gemini invadiu sistemas de empresas reais após confusão de domínios de teste de segurança The Hacker News",
       "category": "DEFESA",
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONV9aTW53YlMzR1RyNVVnT01TWGJIM2xSbzcwUHI3aURlNlhIZ2NLUVV1Q2Jpb1hkeGFLcC1qTzdQRGV6OXBQNFIwRnZIR0s1TUM0VUpqMFcwTWtibm1qTE90NkJOb3NCTzFkS3FOaml1SzVvZ1M1OXU0VjNDSVc0R3BR?oc=5",
@@ -38,8 +101,8 @@
       "image": ""
     },
     {
-      "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "CrowdSec afirma que o ataque TanStack npm levou à cópia de 170 repositórios privados do GitHub",
+      "summary": "Um invasor copiou cerca de 170 repositórios privados do GitHub da CrowdSec em 22 de maio usando a conta de um funcionário que havia acabado de sair, disse a CrowdSec em 18 de setembro. CrowdSec diz que seu laptop foi comprometido no ataque à cadeia de suprimen",
       "category": "INCIDENTES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
@@ -47,8 +110,17 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1oastBaXn1Z-Cqbx-BPWZb2oSsgDseV8bReFs787OUvmfsQxJppvU6Fq_uUY_yrCdz1Z4xuevbNRdG88X9lnejn0NUF2RILOB8VxTm8lGXQ6VpZ1hPPqfmC4U86Ci2iYpIqpjy_3H3rCxJe6_9AKm0U9vgO6GHGrDHaKSdzCcFfgpUolbZvSB6VPbCC8/s1600/crowdsec.jpg"
     },
     {
-      "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "CrowdSec afirma que o ataque TanStack npm levou à cópia de 170 repositórios privados do GitHub - The Hacker News",
+      "summary": "CrowdSec afirma que o ataque TanStack npm levou à cópia de 170 repositórios privados do GitHub The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZVNXVzNyLVF1V2JvdWNHS1NjNnRRVGJvcHA5dmZvYTA4cFlHTjRPcjktRXZrQmh1LVNMaDhjcWtTUGVNRUJlYTg3RGJLemRqRFJxU0JxblFmSDQyWC1Kc0sza1BrR0lrcE5Gc01HcUZrOHA2TUxncTRWaEhIWENfSHJB?oc=5",
+      "published": "2026-09-19T07:14:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "CISA sinaliza três vulnerabilidades do kernel Linux exploradas em estado selvagem",
+      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) adicionou na sexta-feira três falhas de segurança que afetam o kernel Linux ao seu catálogo de Vulnerabilidades Exploradas Conhecidas (KEV), citando evidências de exploração ativa. As vulner",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
@@ -56,8 +128,17 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcKuQ4GC9r1-4fQ3Ap_CQko0y3nMI0SnATF3WNSv48uFtNskrV4PqnyW4s0L7sXcojrHoJCEZRazGJNz5JhxrTTSYZSAQeD-xwdquE3X7pJ_ylBUerrybIiaE3V-i1vXdiLr_N1KCM9GTmeAKLlgySqEr0QeCB5ckvnppiEHSZhnEqv0IfUnqCKdA1kKsN/s1600/cisa-linux.jpg"
     },
     {
-      "title": "Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "CISA sinaliza três vulnerabilidades do kernel Linux exploradas na natureza - The Hacker News",
+      "summary": "CISA sinaliza três vulnerabilidades do kernel Linux exploradas em estado selvagem The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tWjQ1VVhTT0JITllaQXJZTHk0Q2ZudkpZclVlZk1EYlVhYTlWMEdZX2Z4enVxNkdiYlNNSVdwclBSdHozeEd6TE9kOFh0ZmMtMG9acDlwc3AzY2QzaUdyU3QxZ3FaQm1RWTlNbEhVcTdRWEwyT1VB?oc=5",
+      "published": "2026-09-19T06:24:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Vectra AI lança Ascent para ajudar a enfrentar a nova era de ataques baseados em IA",
+      "summary": "O novo programa expande a estratégia de parceria da Vectra AI à medida que ambientes de segurança cada vez mais complexos e o uso crescente de IA criam demanda por conhecimentos, serviços e resultados de segurança mais amplos em IA.",
       "category": "INCIDENTES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks",
@@ -65,8 +146,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Cisco Zero-Day Highlights API Endpoint Authentication Issues",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Cisco Zero-Day destaca problemas de autenticação de endpoint de API",
+      "summary": "A falha de desvio de autenticação CVE-2026-76460 afeta o Identity Services Engine (ISE) da Cisco e recebeu uma pontuação CVSS máxima de 10 em 10.",
       "category": "VULNERABILIDADES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
@@ -74,94 +155,13 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9b9202e55102d483/6aad857c8cb60c3268956114/api-saifulasmee_chede-Getty-2203607940.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Explorações públicas lançadas para quatro falhas do kernel Linux que permitem raiz local",
+      "summary": "Um pesquisador de segurança lançou um código de exploração funcional para quatro falhas do kernel do Linux, cada uma permitindo que um usuário local obtenha root, o nível mais alto de acesso em uma máquina. Os mantenedores do kernel corrigiram todos os quatro ",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
       "published": "2026-09-18T18:02:24+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixfmcEQbMRp9dJbUmuhA3LSquz7yG3lph_Nbh6NqiVGOPOiOoKYcWbspSqEDBpeyUMH-KK_DHWoBSFmaZPE_BlWRjy4swhpEPCBJ-p2NCJRTceTeDx84tDToap0VrFW304zxv0nKsRSVOMM3GPhFyJ7GZkGPG92N3aKvW3edGBBdoAJl0_fH6IehDA0I8/s1600/linux-kernel.jpg"
-    },
-    {
-      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb2xtQ0k0YV96ODhUOWFCMWlLaWhOTnhmbHpBLWpvZzFvZzBpai1fNDk3YXhtdmRaVi13QmdQLW9IZVhGS21oSHhWVmhCYkJnTF9TQU96UGVGNXQ3NG9EY0dlSnlmd0dnRHNObEJFY2hTMlhjLTFvcm82RDhtbDNUMEhCUEg?oc=5",
-      "published": "2026-09-18T18:02:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
-      "published": "2026-09-18T16:56:19+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRmEdVvBEJZEaIzJ4GYHX3cDjJq5YaLQby6GeVwDl-uVl_qIR_tkRSx6aKpzoYhGVvp0E3NDIe9aum5f5N_lI-RPz6eDNGHC7vpKMa0UrlT1J1_bRJrJ8Wk0htpyFoR3ezoqh-BCJePJU914UFlL7gS45RXbWoVi3Lp49iNSkUt7eLrJyQTAEIGE-VRgY/s1600/click2shell.gif"
-    },
-    {
-      "title": "Gyazo server flaw exploited to steal 23.6 million user records",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
-      "published": "2026-09-18T16:00:38+00:00",
-      "image": ""
-    },
-    {
-      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
-      "published": "2026-09-18T15:24:16+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhBM0nXgCLpwEyXmAdxLO_GatYww1Cem0yuGGqhmMwCB5N8w-TeoMm7jV4SbH4hjfYmxctUjyPiSlR3Caj2cSu7L_1nxTzg5xtfJrxhq5y0elL7yh8J2S5lakpnTbck3XhMVB1iG3obibSh64E8z877YcECkeJBs_rrZARXefKDeYQJ9Nf2u8pnxD0gEnx/s1600/rust-malware.jpg"
-    },
-    {
-      "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
-      "published": "2026-09-18T15:19:06+00:00",
-      "image": ""
-    },
-    {
-      "title": "In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/in-other-news-ransomware-developer-sentenced-plugin4shell-ai-attack-critical-sap-flaw/",
-      "published": "2026-09-18T14:25:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft Teams will let admins block custom file extensions",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
-      "published": "2026-09-18T13:58:40+00:00",
-      "image": ""
-    },
-    {
-      "title": "Webinar: Which Google Workspace security controls actually matter?",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
-      "published": "2026-09-18T13:10:19+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
-      "published": "2026-09-18T12:47:04+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiML2C2l_2QmIUPPt9Gs6K9nVdVk9WZWhJaeBQjf92a7R0O0ghnhNznkqPHwG1quCmfadrkibl0WJhLioNmbATDXGxPcy6EHuDVvUrcDF_q0m23IQD1CxL0DsMZT2ZnXCtOyGADMztIcBmgQzaAvNQR39JWnvbG085s4q4W01UQnH4g-Yj15_ZKrJXDaOpQ/s1600/ms-azure.jpg"
     }
   ]
 }
