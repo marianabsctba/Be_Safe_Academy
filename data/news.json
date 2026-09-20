@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T05:00:25.603366+00:00",
+  "updated_at": "2026-09-20T11:33:36.543037+00:00",
   "items": [
     {
       "title": "[Evento Virtual] Outlook de Cibersegurança 2027",
@@ -92,15 +92,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL-YeIVFaRBKvtwQKBxAilhKMaZP_x6L979d8JL60W3AEHy9o2sfL_dMrJWy_sPIV70oIbP6DYe2KVhHh-mwbB4zBvrV_jEgdRiuc_IzNyyPSfUAOGvAp7J7JO06OWUWjSwuqpU4JJ_kNy0vtW1D9_gEtQNNVmWiYzRTpYMwhe-J3Bvve3EHrAp81Wht4L/s1600/orkes.jpg"
     },
     {
-      "title": "RCE de pré-autenticação crítica na plataforma de fluxo de trabalho Orkes Conductor explorada na natureza - The Hacker News",
-      "summary": "RCE de pré-autenticação crítica na plataforma de fluxo de trabalho Orkes Conductor explorada em estado selvagem The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5LUU9BR2wxa2RUNFhGNVJhTFZGME1fcExRYmRJaDFLMjVTOFM0V1JQUEZuWTN3T3YtZkFzbWsyZnhCNjRXbzhidEdnRFBvOWNDY1dpUGhSVEJ1aENNNlFqWFBYZWhtbzBSRFlvX0Q1YlprSnpOQjN5SA?oc=5",
-      "published": "2026-09-19T08:18:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Google Gemini invadiu sistemas de empresas reais após confusão de domínios de teste de segurança",
       "summary": "O modelo Gemini do Google se tornou o mais recente sistema de inteligência artificial (IA) para acessar a internet e invadir outras empresas durante uma avaliação de segurança cibernética. O desenvolvimento foi relatado pela primeira vez pelo The Wall Street J",
       "category": "INCIDENTES",
@@ -162,6 +153,15 @@
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks",
       "published": "2026-09-18T20:24:51+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Cisco Zero-Day destaca problemas de autenticação de endpoint de API",
+      "summary": "A falha de desvio de autenticação CVE-2026-76460 afeta o Identity Services Engine (ISE) da Cisco e recebeu uma pontuação CVSS máxima de 10 em 10.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
+      "published": "2026-09-18T19:26:47+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9b9202e55102d483/6aad857c8cb60c3268956114/api-saifulasmee_chede-Getty-2203607940.jpg?width=720&quality=80&disable=upscale"
     }
   ]
 }
