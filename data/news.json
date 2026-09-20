@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T11:33:36.543037+00:00",
+  "updated_at": "2026-09-20T16:13:59.884160+00:00",
   "items": [
     {
       "title": "[Evento Virtual] Outlook de Cibersegurança 2027",
@@ -9,6 +9,24 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "published": "2026-12-03T16:00:00+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Pacotes npm maliciosos evitam as defesas do script de instalação em tempo de execução",
+      "summary": "Uma campanha contínua de malware npm envolvendo o pacote 'indexed-btree' mostra como os agentes de ameaças contornam as defesas da cadeia de suprimentos, escondendo código malicioso no comportamento normal de tempo de execução de um pacote, em vez de em script",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
+      "published": "2026-09-20T14:11:21+00:00",
+      "image": ""
+    },
+    {
+      "title": "Pesquisadores escapam da sandbox OpenAI Codex para executar comandos no host",
+      "summary": "Os pesquisadores escaparam da sandbox Codex da OpenAI de duas maneiras, uma executando comandos na máquina de um desenvolvedor em seu modo mais bloqueado. OpenAI corrigiu ambos. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
+      "published": "2026-09-20T12:00:00+00:00",
+      "image": ""
     },
     {
       "title": "Claude Opus 5 ajudou pesquisadores a assumir contas de funcionários da OpenAI por meio de falhas encadeadas",
@@ -48,7 +66,7 @@
     },
     {
       "title": "Você pode provar que um novo CVE é explorável antes que os invasores o façam? Aprenda como neste webinar",
-      "summary": "Um novo CVE cai. Seu scanner o encontra. A pontuação de gravidade parece feia. Mas isso ainda não responde à questão importante: pode realmente ser explorado no seu ambiente? A IA da classe Mythos está reduzindo o tempo entre a divulgação e a exploração operac",
+      "summary": "Um novo CVE cai. Seu scanner o encontra. A pontuação de gravidade parece feia. Mas isso ainda não responde à questão que importa: pode realmente ser explorado no seu ambiente? A IA da classe Mythos está reduzindo o tempo entre a divulgação e a exploração opera",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
@@ -65,6 +83,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTFTNQKV-yV8FRZZRLBPRxZDhk6E7s3v8SpP5xW_aeDyMz-xMvi-xAVUmvDvMC-CnU1kddKpVGN9BBzeoH4xeq8zE3OAqUq5441sYhC4tfYcyU1-3_yPkVphC-20dCQX_e5kN_G-Ji42wbYuxavkjczHwYn9QP0WRXnN16KUA33kizHwh38yQl7clZAA0/s1600/ORCHID-1.jpg"
     },
     {
+      "title": "Visibilidade da identidade em 2026: a base da segurança da identidade - The Hacker News",
+      "summary": "Visibilidade da identidade em 2026: a base da segurança da identidade The Hacker News",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3FUeU9BRzhnZVlEOGpXazJHUmg4N2F4bk9uNmVTRVFNZDRYTnN3MTdpcTBvdFI0VTFhVzE4VjkyQ0JFS0RqVkxKT2g5X2NNQTFnU3pHYk5aeDkzOFRZWmlKNDQwU1ZqVVMyZ2ZwZ19ib1J1ZVNzSk9YMndPZC1ZRDQwSQ?oc=5",
+      "published": "2026-09-19T13:28:00+00:00",
+      "image": ""
+    },
+    {
       "title": "SolarWinds corrige falha de chave codificada do ARM, permitindo RCE não autenticado",
       "summary": "A SolarWinds lançou atualizações de segurança para solucionar uma falha de alta gravidade no Access Rights Manager (ARM) que, se explorada com sucesso, pode levar a uma vulnerabilidade de execução remota de código não autenticado. A vulnerabilidade, rastreada ",
       "category": "VULNERABILIDADES",
@@ -72,15 +99,6 @@
       "url": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
       "published": "2026-09-19T09:31:17+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXW-SaTg898BaxxlrDjSCrcm6ZYDgxoeuYCBY4QNWs6Nt5RhyphenhyphenCf4iSIyodz-7jk8rTqUT8hjlMT74dIf6ZjL_pD5NmiNbAHhsZwzw2rakJUDaU1tVeEvKw7Az3tMf34Xwh3ffToJeI1tpTQ8rAR8AvVn2XTupFgfhehb9sHClHDDGeDd4Y9z4oUf5CYPoS/s1600/solar.jpg"
-    },
-    {
-      "title": "SolarWinds corrige falha de chave codificada do ARM, permitindo RCE não autenticado - The Hacker News",
-      "summary": "SolarWinds corrige falha de chave codificada em ARM, permitindo RCE não autenticado The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNam1IYUxic3JRZ0hJV0pqLVBoMlhWY0Jxa1dveVVBdEZTRFBIVEJXMmtkTXozRjNrbXJpNFN1dTlaemgxMk5BRkxadDZxNUpWdEVYR3FuZEh3dFlJZzE3YlIxZGRlemV6T29zZzRTNzBCT21SSkhSb1pUYXo2dzVMd2xR?oc=5",
-      "published": "2026-09-19T09:31:00+00:00",
-      "image": ""
     },
     {
       "title": "RCE de pré-autenticação crítica na plataforma de fluxo de trabalho Orkes Conductor explorada na natureza",
@@ -101,7 +119,7 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm1vwiJZKRchF7LYZ5yklmFs_RohvMasYHTdoHF_qDFFePLtM0KdHNBzPMWQYWlN05rsn5gBZ0SV3mU69LwLtHTVNf_59TpPC3pOn-z1ENVZw-V0kdX7W4j-K83Vtc7ukjZIQjXxSEFTmo3-wkx5hL7IGdxkUXKQYHzGy-IAcetXr70chvzQxtRahueg2H/s1600/gemini-hack.jpg"
     },
     {
-      "title": "O Google Gemini invadiu sistemas reais de empresas após confusão de domínios de teste de segurança - The Hacker News",
+      "title": "Google Gemini invadiu sistemas reais de empresas após confusão de domínios de teste de segurança - The Hacker News",
       "summary": "Google Gemini invadiu sistemas de empresas reais após confusão de domínios de teste de segurança The Hacker News",
       "category": "DEFESA",
       "source": "The Hacker News",
@@ -144,24 +162,6 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tWjQ1VVhTT0JITllaQXJZTHk0Q2ZudkpZclVlZk1EYlVhYTlWMEdZX2Z4enVxNkdiYlNNSVdwclBSdHozeEd6TE9kOFh0ZmMtMG9acDlwc3AzY2QzaUdyU3QxZ3FaQm1RWTlNbEhVcTdRWEwyT1VB?oc=5",
       "published": "2026-09-19T06:24:00+00:00",
       "image": ""
-    },
-    {
-      "title": "Vectra AI lança Ascent para ajudar a enfrentar a nova era de ataques baseados em IA",
-      "summary": "O novo programa expande a estratégia de parceria da Vectra AI à medida que ambientes de segurança cada vez mais complexos e o uso crescente de IA criam demanda por conhecimentos, serviços e resultados de segurança mais amplos em IA.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks",
-      "published": "2026-09-18T20:24:51+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Cisco Zero-Day destaca problemas de autenticação de endpoint de API",
-      "summary": "A falha de desvio de autenticação CVE-2026-76460 afeta o Identity Services Engine (ISE) da Cisco e recebeu uma pontuação CVSS máxima de 10 em 10.",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
-      "published": "2026-09-18T19:26:47+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9b9202e55102d483/6aad857c8cb60c3268956114/api-saifulasmee_chede-Getty-2203607940.jpg?width=720&quality=80&disable=upscale"
     }
   ]
 }
