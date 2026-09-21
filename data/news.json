@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T05:05:24.976460+00:00",
+  "updated_at": "2026-09-21T12:58:47.340881+00:00",
   "items": [
     {
       "title": "[Evento Virtual] Outlook de Cibersegurança 2027",
@@ -9,6 +9,96 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "published": "2026-12-03T16:00:00+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Trojan RatHat Android usa IA para automação",
+      "summary": "O malware depende de IA para navegação e controle de dispositivos em tempo real, aumentando a adaptabilidade e a evasão. O posto Trojan Android RatHat usa IA para automação apareceu pela primeira vez na SecurityWeek.",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/rathat-android-trojan-uses-ai-for-automation/",
+      "published": "2026-09-21T12:51:41+00:00",
+      "image": ""
+    },
+    {
+      "title": "Membros da equipe Rust e proprietários de caixas populares direcionados por videochamadas",
+      "summary": "Não está claro se os ataques fazem parte de campanhas anteriores contra Rust, mas as técnicas utilizadas pelos atacantes coincidem com as utilizadas pela Coreia do Norte. A postagem Membros da equipe Rust e proprietários de caixas populares visados ​​por video",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/",
+      "published": "2026-09-21T11:57:35+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft: atualizações de setembro interrompem o recurso de backup do histórico de arquivos",
+      "summary": "A Microsoft alertou que o recurso integrado de backup do histórico de arquivos do Windows pode parar de funcionar em alguns sistemas após a instalação das atualizações de segurança de setembro de 2026. [...]",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
+      "published": "2026-09-21T11:45:54+00:00",
+      "image": ""
+    },
+    {
+      "title": "CrowdSec confirma código-fonte roubado em ataque à cadeia de suprimentos",
+      "summary": "A empresa de segurança cibernética acredita que a violação de dados foi o resultado do ataque à cadeia de suprimentos TanStack de maio de 2026. A postagem CrowdSec confirma código-fonte roubado em ataque à cadeia de suprimentos apareceu pela primeira vez em Se",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/",
+      "published": "2026-09-21T10:55:46+00:00",
+      "image": ""
+    },
+    {
+      "title": "Empresas de água do Colorado atingidas por ataques cibernéticos direcionados a sistemas TO",
+      "summary": "Os hackers alteraram as configurações do equipamento, desativaram o acesso remoto e os alarmes e alteraram os ciclos de bombeamento, disseram as autoridades. A postagem Colorado Water Utilities atingida por ataques cibernéticos direcionados a sistemas OT apare",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/",
+      "published": "2026-09-21T10:03:44+00:00",
+      "image": ""
+    },
+    {
+      "title": "Organizações alertadas sobre três vulnerabilidades exploradas no kernel do Linux",
+      "summary": "Os invasores poderiam explorar as falhas para causar condições de negação de serviço, divulgar memória ou modificar a memória. A postagem Organizações alertadas sobre três vulnerabilidades exploradas no kernel do Linux apareceu pela primeira vez na SecurityWee",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/",
+      "published": "2026-09-21T09:31:12+00:00",
+      "image": ""
+    },
+    {
+      "title": "ClickFix Lures implanta ChainScript RAT usando Polygon para girar a infraestrutura C2",
+      "summary": "Os agentes de ameaças estão aproveitando iscas do tipo ClickFix para entregar um trojan de acesso remoto (RAT) anteriormente não documentado chamado ChainScript. \"ChainScript apareceu sob vários nomes de construção, incluindo ComponentTask33, UpdateDigital, Ho",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
+      "published": "2026-09-21T08:39:38+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-cgmwQRZh142Z19A3s7K7tpaXtsyy6Imy9cYGM7nFP1DAZoSK9gDw8T0dGXlkFWOGDFShJWMNjC7jbwoSvLokr1pX27u2B1SABpBL-aWtaXj2hYYrqVwTE7LpEDn_iIbRYCro8sH2hzAEsjHLGkpFqTjEKlFHi2o2pgacFJQvYkPDCKVEhkJgW8OWhpZA/s1600/poly.jpg"
+    },
+    {
+      "title": "Google confirma que Gemini AI violou três empresas",
+      "summary": "O Google é o mais recente gigante da IA ​​a confirmar que seus modelos escaparam de um ambiente de testes e hackearam empresas reais. A postagem Google confirma que Gemini AI violou três empresas apareceu pela primeira vez na SecurityWeek.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/",
+      "published": "2026-09-21T07:20:46+00:00",
+      "image": ""
+    },
+    {
+      "title": "Google confirma que Gemini AI violou três empresas – SecurityWeek",
+      "summary": "Google confirma que Gemini AI violou três empresas SecurityWeek",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObFRHaVRJanFkaWFmN2hwQ01mY0dyWmluaW5xaUx0c2pLUE1yZnEyd0NJZkRTV0x4NnNYNkVteV9BRlRORE1ubUtNamVuRUhrdlAtTnF2cm85dmFEVGswRGhaanNvclVFRXBnR29wbnFkeEpseUZBWWdnZUdXYXBiNTdn0gGHAUFVX3lxTE9JcTBCbHpwbWQ2TzJMTmZMVklHRUtReVIwdHdSMWlkV2lNQXBQUGVYMFpUMmFybVBtYndqVWdtYkh5d1U5YjBJcnFGMmNpRWlkMTdGRWRhRXVVT0hUTGRCazBidlRyX0hadWVLWXJkcHkzRHBSYmc0NXM0UTdKTlI4al9jU0I1RQ?oc=5",
+      "published": "2026-09-21T07:20:46+00:00",
+      "image": ""
+    },
+    {
+      "title": "Jade Sleet vinculado a violação de provedor de TI indiano com backdoors FLATROOF e ROOFDECK",
+      "summary": "O ator de ameaça norte-coreano conhecido como Jade Sleet foi atribuído ao comprometimento de uma \"organização muito menor\" com sede na Índia na indústria de serviços de tecnologia da informação (TI), destacando mais uma vez como o adversário continua a atacar ",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
+      "published": "2026-09-21T06:06:44+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-xFiujwBJLdl6_4wZSMCWdeyCgev2EqszOLkIJ5I9Kbanu6YNmQ36nM615XmLQ-sq2aqldOHfl47jaMNRtDd80RT8k5f6I7eQuszf7wsIg49sEdMW36hsEKUtVUkZabRlGvvDxn7H7COmRCV8qP2pzQm9LNo5QKRnnptxmxTlJ8BMcPxuiqdaMjn-are0/s1600/it-services.jpg"
     },
     {
       "title": "Pacotes npm maliciosos evitam as defesas do script de instalação em tempo de execução",
@@ -72,96 +162,6 @@
       "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
       "published": "2026-09-19T13:28:48+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVgJqM9WZF6u_WZBeTJKqe35CDnh_4kxjLjZa3w63XbqfKBRNUENbTh5HGVrgYUGtmLRW9Px3GGzNcewMJWzd7CRxsk66eY1D70or8gasHUroPNdbUJ6ordqjxb7s8gKqQwuyWxCWC2BT0Matusn6PLXV9xus1PlqqqD3JITL_Unxt2xP8UK6zlX9Tmr0A/s1600/cves.jpg"
-    },
-    {
-      "title": "Visibilidade da identidade em 2026: a base da segurança da identidade",
-      "summary": "A visibilidade da identidade é um ponto de partida para a segurança de identidade moderna, porque credenciais roubadas e mal utilizadas estão entre os vetores de acesso inicial relatados com mais frequência em pesquisas de violação, incluindo o Relatório Anual",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
-      "published": "2026-09-19T13:28:41+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTFTNQKV-yV8FRZZRLBPRxZDhk6E7s3v8SpP5xW_aeDyMz-xMvi-xAVUmvDvMC-CnU1kddKpVGN9BBzeoH4xeq8zE3OAqUq5441sYhC4tfYcyU1-3_yPkVphC-20dCQX_e5kN_G-Ji42wbYuxavkjczHwYn9QP0WRXnN16KUA33kizHwh38yQl7clZAA0/s1600/ORCHID-1.jpg"
-    },
-    {
-      "title": "Visibilidade da identidade em 2026: a base da segurança da identidade - thehackernews.com",
-      "summary": "Visibilidade da identidade em 2026: a base da segurança da identidade thehackernews.com",
-      "category": "DEFESA",
-      "source": "thehackernews.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ3FUeU9BRzhnZVlEOGpXazJHUmg4N2F4bk9uNmVTRVFNZDRYTnN3MTdpcTBvdFI0VTFhVzE4VjkyQ0JFS0RqVkxKT2g5X2NNQTFnU3pHYk5aeDkzOFRZWmlKNDQwU1ZqVVMyZ2ZwZ19ib1J1ZVNzSk9YMndPZC1ZRDQwSQ?oc=5",
-      "published": "2026-09-19T13:28:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "SolarWinds corrige falha de chave codificada do ARM, permitindo RCE não autenticado",
-      "summary": "A SolarWinds lançou atualizações de segurança para solucionar uma falha de alta gravidade no Access Rights Manager (ARM) que, se explorada com sucesso, pode levar a uma vulnerabilidade de execução remota de código não autenticado. A vulnerabilidade, rastreada ",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
-      "published": "2026-09-19T09:31:17+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXW-SaTg898BaxxlrDjSCrcm6ZYDgxoeuYCBY4QNWs6Nt5RhyphenhyphenCf4iSIyodz-7jk8rTqUT8hjlMT74dIf6ZjL_pD5NmiNbAHhsZwzw2rakJUDaU1tVeEvKw7Az3tMf34Xwh3ffToJeI1tpTQ8rAR8AvVn2XTupFgfhehb9sHClHDDGeDd4Y9z4oUf5CYPoS/s1600/solar.jpg"
-    },
-    {
-      "title": "SolarWinds corrige falha de chave codificada do ARM, permitindo RCE não autenticado - thehackernews.com",
-      "summary": "SolarWinds corrige falha de chave codificada em ARM, permitindo RCE não autenticado thehackernews.com",
-      "category": "VULNERABILIDADES",
-      "source": "thehackernews.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNam1IYUxic3JRZ0hJV0pqLVBoMlhWY0Jxa1dveVVBdEZTRFBIVEJXMmtkTXozRjNrbXJpNFN1dTlaemgxMk5BRkxadDZxNUpWdEVYR3FuZEh3dFlJZzE3YlIxZGRlemV6T29zZzRTNzBCT21SSkhSb1pUYXo2dzVMd2xR?oc=5",
-      "published": "2026-09-19T09:31:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "RCE de pré-autenticação crítica na plataforma de fluxo de trabalho Orkes Conductor explorada na natureza",
-      "summary": "Uma vulnerabilidade crítica que afeta o Orkes Conductor está sendo explorada ativamente, de acordo com a Fortinet. A vulnerabilidade em questão é CVE-2026-58138 (pontuação CVSS v3.1: 9.8/pontuação CVSS v4: 9.3), que se refere a um caso de execução remota de có",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
-      "published": "2026-09-19T08:18:54+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL-YeIVFaRBKvtwQKBxAilhKMaZP_x6L979d8JL60W3AEHy9o2sfL_dMrJWy_sPIV70oIbP6DYe2KVhHh-mwbB4zBvrV_jEgdRiuc_IzNyyPSfUAOGvAp7J7JO06OWUWjSwuqpU4JJ_kNy0vtW1D9_gEtQNNVmWiYzRTpYMwhe-J3Bvve3EHrAp81Wht4L/s1600/orkes.jpg"
-    },
-    {
-      "title": "Google Gemini invadiu sistemas de empresas reais após confusão de domínios de teste de segurança",
-      "summary": "O modelo Gemini do Google se tornou o mais recente sistema de inteligência artificial (IA) para acessar a internet e invadir outras empresas durante uma avaliação de segurança cibernética. O desenvolvimento foi relatado pela primeira vez pelo The Wall Street J",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
-      "published": "2026-09-19T07:51:34+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgm1vwiJZKRchF7LYZ5yklmFs_RohvMasYHTdoHF_qDFFePLtM0KdHNBzPMWQYWlN05rsn5gBZ0SV3mU69LwLtHTVNf_59TpPC3pOn-z1ENVZw-V0kdX7W4j-K83Vtc7ukjZIQjXxSEFTmo3-wkx5hL7IGdxkUXKQYHzGy-IAcetXr70chvzQxtRahueg2H/s1600/gemini-hack.jpg"
-    },
-    {
-      "title": "Google Gemini invadiu sistemas de empresas reais após confusão de domínios de teste de segurança - thehackernews.com",
-      "summary": "Google Gemini invadiu sistemas de empresas reais após confusão de domínios de teste de segurança thehackernews.com",
-      "category": "DEFESA",
-      "source": "thehackernews.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONV9aTW53YlMzR1RyNVVnT01TWGJIM2xSbzcwUHI3aURlNlhIZ2NLUVV1Q2Jpb1hkeGFLcC1qTzdQRGV6OXBQNFIwRnZIR0s1TUM0VUpqMFcwTWtibm1qTE90NkJOb3NCTzFkS3FOaml1SzVvZ1M1OXU0VjNDSVc0R3BR?oc=5",
-      "published": "2026-09-19T07:51:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "CrowdSec afirma que o ataque TanStack npm levou à cópia de 170 repositórios privados do GitHub",
-      "summary": "Um invasor copiou cerca de 170 repositórios privados do GitHub da CrowdSec em 22 de maio usando a conta de um funcionário que havia acabado de sair, disse a CrowdSec em 18 de setembro. CrowdSec diz que seu laptop foi comprometido no ataque à cadeia de suprimen",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
-      "published": "2026-09-19T07:14:54+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1oastBaXn1Z-Cqbx-BPWZb2oSsgDseV8bReFs787OUvmfsQxJppvU6Fq_uUY_yrCdz1Z4xuevbNRdG88X9lnejn0NUF2RILOB8VxTm8lGXQ6VpZ1hPPqfmC4U86Ci2iYpIqpjy_3H3rCxJe6_9AKm0U9vgO6GHGrDHaKSdzCcFfgpUolbZvSB6VPbCC8/s1600/crowdsec.jpg"
-    },
-    {
-      "title": "CrowdSec afirma que o ataque TanStack npm levou à cópia de 170 repositórios privados do GitHub - thehackernews.com",
-      "summary": "CrowdSec afirma que o ataque TanStack npm levou à cópia de 170 repositórios privados do GitHub thehackernews.com",
-      "category": "INCIDENTES",
-      "source": "thehackernews.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZVNXVzNyLVF1V2JvdWNHS1NjNnRRVGJvcHA5dmZvYTA4cFlHTjRPcjktRXZrQmh1LVNMaDhjcWtTUGVNRUJlYTg3RGJLemRqRFJxU0JxblFmSDQyWC1Kc0sza1BrR0lrcE5Gc01HcUZrOHA2TUxncTRWaEhIWENfSHJB?oc=5",
-      "published": "2026-09-19T07:14:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "CISA sinaliza três vulnerabilidades do kernel Linux exploradas em estado selvagem",
-      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) adicionou na sexta-feira três falhas de segurança que afetam o kernel Linux ao seu catálogo de Vulnerabilidades Exploradas Conhecidas (KEV), citando evidências de exploração ativa. As vulner",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
-      "published": "2026-09-19T06:24:10+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcKuQ4GC9r1-4fQ3Ap_CQko0y3nMI0SnATF3WNSv48uFtNskrV4PqnyW4s0L7sXcojrHoJCEZRazGJNz5JhxrTTSYZSAQeD-xwdquE3X7pJ_ylBUerrybIiaE3V-i1vXdiLr_N1KCM9GTmeAKLlgySqEr0QeCB5ckvnppiEHSZhnEqv0IfUnqCKdA1kKsN/s1600/cisa-linux.jpg"
     }
   ]
 }
