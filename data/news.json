@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T12:58:47.340881+00:00",
+  "updated_at": "2026-09-21T20:03:16.059155+00:00",
   "items": [
     {
       "title": "[Evento Virtual] Outlook de Cibersegurança 2027",
@@ -11,6 +11,150 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale"
     },
     {
+      "title": "Os cibercriminosos estão escondendo novos malwares em torrents de filmes populares",
+      "summary": "Foram identificadas vítimas em África, incluindo no Quénia e no Uganda.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
+      "published": "2026-09-21T19:11:26+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "A falha Click2Shell do WordPress permite que hackers executem PHP no servidor",
+      "summary": "Detalhes técnicos e uma exploração de prova de conceito foram publicados para uma nova vulnerabilidade de falsificação de solicitação entre sites (CSRF) do WordPress chamada ‘Click2Shell’ que afeta o componente principal da plataforma. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
+      "published": "2026-09-21T18:23:11+00:00",
+      "image": ""
+    },
+    {
+      "title": "O instalador falso do autenticador LastPass abusa do driver assinado pela Microsoft para matar antivírus e EDR",
+      "summary": "Um instalador falso do LastPass Authenticator oferecido no GitHub instala um driver de kernel do Windows que desliga antivírus e outros softwares de segurança antes que um ladrão de senhas seja executado se a vítima fizer o download e executá-lo, disseram pesq",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
+      "published": "2026-09-21T17:31:01+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil-5ZV6QK7R23fL7Vtl-pdxgFYPAG9dT_cIIrXWgR70hLZRM705Ij3WuRpCL00VuDop9dTmVNf1t3QS60nqRGV9GCzsZ792yd7mFY_pjvgfufOK9D-oQJdxP4ZtrXiyeq08KNUBv3-mhQ_KCiCOMWIbeQpCAyF_h4lMZw54T0l9AcDdGf6aRptXAZJNcU/s1600/last.jpg"
+    },
+    {
+      "title": "Google recebe multa de US$ 463 milhões por violação de regra de dados de localização da UE",
+      "summary": "O Google foi multado em 403 milhões de euros (US$ 463 milhões) por violar as rígidas regras de privacidade da União Europeia, porque manipulou indevidamente os dados de localização dos usuários. A postagem Google foi multado em US$ 463 milhões por violação de ",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/",
+      "published": "2026-09-21T17:19:53+00:00",
+      "image": ""
+    },
+    {
+      "title": "Campanha contagiosa de entrevistas compromete 30.000 dispositivos e rouba US$ 10,71 milhões em criptografia",
+      "summary": "Os atores norte-coreanos por trás da campanha Contagious Interview comprometeram pelo menos 30.000 dispositivos localizados em mais de 100 países e desviaram fundos ou credenciais de contas de mais de 7.000 carteiras de criptomoedas, de acordo com um novo comu",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
+      "published": "2026-09-21T17:19:00+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjuVP0IzjchtSeuT6WwQHPupLynSiYhe7KinKtQVVE_EgFE5iG9SWV4HrgseuXaSUo-TaamFPzHl6SCnUPsbz29nzEo1BJeZVE4VB43KdMBmKEld7snbryRJIeIIAmiRZNEhFCJ-58klU6qGrvwg2Hn26FtkHv1s4cAj_zX9AWmdeym2-d4hScWr9dLiOY/s1600/exec.jpg"
+    },
+    {
+      "title": "Instaladores falsos do LastPass empurram EDR Killer em nível de kernel, ladrão ‘Rapuncel’",
+      "summary": "Os invasores se fazem passar por pelo menos 40 empresas e desativam 145 produtos de segurança para implantar malware infostealer. A postagem Instaladores falsos do LastPass Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer apareceu pela primeira vez em Security",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/",
+      "published": "2026-09-21T15:46:58+00:00",
+      "image": ""
+    },
+    {
+      "title": "Google multou € 403 milhões por violações de privacidade de dados de localização",
+      "summary": "A Comissão de Proteção de Dados da Irlanda (DPC) multou o Google em 403 milhões de euros (US$ 463 milhões) por múltiplas violações do GDPR relacionadas ao processamento de dados de localização dos usuários. [...]",
+      "category": "PRIVACIDADE",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
+      "published": "2026-09-21T15:41:22+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft corrige copiar e colar quebrado do Excel para todos os usuários do Office",
+      "summary": "A Microsoft corrigiu um problema conhecido que causa falhas de copiar e colar para usuários do Excel após instalar as atualizações de segurança de setembro de 2026. [...]",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
+      "published": "2026-09-21T14:42:37+00:00",
+      "image": ""
+    },
+    {
+      "title": "Conversas CISO: Noopur Davis – O CISO Global Acidental na Comcast",
+      "summary": "Noopur Davis nunca planejou uma carreira em segurança cibernética. Ela era desenvolvedora na Intergraph e por muitos anos isso era tudo o que ela queria ser. A postagem Conversas do CISO: Noopur Davis – O CISO global acidental da Comcast apareceu pela primeira",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ciso-conversations-noopur-davis-the-accidental-global-ciso-at-comcast/",
+      "published": "2026-09-21T14:30:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "⚡ Recapitulação semanal: Cisco 0-Day, AI Agent RCE, ataques ClickFix, ClickFix Surge e sequestros de navegador",
+      "summary": "Um navegador. Um plug-in. Um pacote. Uma tela de login. Coisas normais. Esse é basicamente o problema desta semana. O problema continua aparecendo em coisas em que as pessoas já confiam: códigos que dão errado, cargas antigas voltando, sistemas expostos, verif",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
+      "published": "2026-09-21T14:24:13+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjovXeakmAmPG68i_kNoeGFJjwSSGDdpj-29aojemBxtTQVOHzR668zKtV5GGPhnJ0zyCEdlsNCc11LIT-F8n1U8Rkv3jr-3AAt6HC4YwwyfENs_Y8V-O_OlPC4_WByxrsUBq6NifTKHQpgWuSnIqnV4bg4rXVoe9BrtMtgRCo4ECfMLWHRIKOQsqjb0zEt/s1600/recap-2.jpg"
+    },
+    {
+      "title": "⚡ Recapitulação semanal: Cisco 0-Day, AI Agent RCE, ataques ClickFix, ClickFix Surge e sequestros de navegador - The Hacker News",
+      "summary": "⚡ Recapitulação semanal: Cisco 0-Day, AI Agent RCE, ataques ClickFix, ClickFix Surge e sequestros de navegador The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNEZDcGZqTGMzelU4UXVZREFoVklpYkQ5eDNPYkpGN3NPNmhYTGFReFI3MDRaNnZPMFRiMkZ5LVJ2UGJ5cU12anVBZkZ1MjNfUl82Z0xldDRtazNSUnduVlJ4MWt2TDFPN0U2Y3JoaXhkRnNrYTFIaDZ0a0tEYmdxRTl3?oc=5",
+      "published": "2026-09-21T14:24:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "TASK#STOMP PowerShell Backdoor rouba documentos, senhas de Wi-Fi e dados da área de transferência",
+      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma nova campanha chamada TASK#STOMP que oferece um backdoor PowerShell projetado para coletar dados confidenciais de hosts comprometidos. O backdoor “coleta e exfiltra automaticamente documentos co",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
+      "published": "2026-09-21T14:15:40+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC3vJ8DX6852JxHepz1kGmunH3ZXsStcK4LINkLBCrzS8ZacBhqL-7epmGuzSNGI-jpF4GtkM-FXUsrv3croTLimjG_SBbw-rpO8NBIHf6Wvr6BMmYYSDKxEPQI-nrSFYrc9vmojcKn50LRFbc1t3h8qFA8dE_pZ3kMvelRpBFVFe2ZmCVJhPCWlMxYZpO/s1600/stomp.jpg"
+    },
+    {
+      "title": "TASK#STOMP PowerShell Backdoor rouba documentos, senhas de Wi-Fi e dados da área de transferência - The Hacker News",
+      "summary": "TASK#STOMP PowerShell Backdoor rouba documentos, senhas de Wi-Fi e dados da área de transferência The Hacker News",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbWpyOVpoNlYyZU16N0xjdm9jZ1R3Q2ZGajRvdk9WaUt0dXV5LUUyNGItbU5TYU1YUDE5dGhFd3VOUmtxdXJSQlNsOXpSY00zOXFXbFd2b2piOWxrMUR2X0FBNkV0RVBhQlE2Mm1kWlJJLW5SY3NpTDFEUU5BOHA0QQ?oc=5",
+      "published": "2026-09-21T14:15:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "CJIS v6.1 do FBI: O que as equipes de segurança precisam saber.",
+      "summary": "A Política de Segurança CJIS v6.1 do FBI fortalece os requisitos em torno da criptografia e da verificação de vulnerabilidades, ao mesmo tempo que continua a mudança em direção a uma avaliação de segurança mais contínua. Specops explica o que mudou e como as a",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
+      "published": "2026-09-21T14:02:12+00:00",
+      "image": ""
+    },
+    {
+      "title": "Dragos conclui aquisições NetRise e runZero após acordo com a Accenture",
+      "summary": "A transação faz parte do acordo de US$ 4,1 bilhões em que a Accenture adquiriu uma participação majoritária na Dragos em um esforço de segurança cibernética de OT. A postagem Dragos conclui NetRise e executa zero aquisições após acordo com a Accenture apareceu",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/dragos-completes-netrise-and-runzero-acquisitions-following-accenture-deal/",
+      "published": "2026-09-21T14:00:13+00:00",
+      "image": ""
+    },
+    {
+      "title": "A Microsoft lembra os administradores de migrar usuários do Entra ID para chaves de acesso",
+      "summary": "A Microsoft lembrou aos administradores que migrem os usuários do Entra ID para métodos de autenticação resistentes a phishing para evitar interrupções de login depois de descontinuar o login de primeiro fator de SMS a partir de fevereiro de 2027. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
+      "published": "2026-09-21T13:16:20+00:00",
+      "image": ""
+    },
+    {
       "title": "Trojan RatHat Android usa IA para automação",
       "summary": "O malware depende de IA para navegação e controle de dispositivos em tempo real, aumentando a adaptabilidade e a evasão. O posto Trojan Android RatHat usa IA para automação apareceu pela primeira vez na SecurityWeek.",
       "category": "AMEAÇAS",
@@ -18,150 +162,6 @@
       "url": "https://www.securityweek.com/rathat-android-trojan-uses-ai-for-automation/",
       "published": "2026-09-21T12:51:41+00:00",
       "image": ""
-    },
-    {
-      "title": "Membros da equipe Rust e proprietários de caixas populares direcionados por videochamadas",
-      "summary": "Não está claro se os ataques fazem parte de campanhas anteriores contra Rust, mas as técnicas utilizadas pelos atacantes coincidem com as utilizadas pela Coreia do Norte. A postagem Membros da equipe Rust e proprietários de caixas populares visados ​​por video",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/",
-      "published": "2026-09-21T11:57:35+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft: atualizações de setembro interrompem o recurso de backup do histórico de arquivos",
-      "summary": "A Microsoft alertou que o recurso integrado de backup do histórico de arquivos do Windows pode parar de funcionar em alguns sistemas após a instalação das atualizações de segurança de setembro de 2026. [...]",
-      "category": "DEFESA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
-      "published": "2026-09-21T11:45:54+00:00",
-      "image": ""
-    },
-    {
-      "title": "CrowdSec confirma código-fonte roubado em ataque à cadeia de suprimentos",
-      "summary": "A empresa de segurança cibernética acredita que a violação de dados foi o resultado do ataque à cadeia de suprimentos TanStack de maio de 2026. A postagem CrowdSec confirma código-fonte roubado em ataque à cadeia de suprimentos apareceu pela primeira vez em Se",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/",
-      "published": "2026-09-21T10:55:46+00:00",
-      "image": ""
-    },
-    {
-      "title": "Empresas de água do Colorado atingidas por ataques cibernéticos direcionados a sistemas TO",
-      "summary": "Os hackers alteraram as configurações do equipamento, desativaram o acesso remoto e os alarmes e alteraram os ciclos de bombeamento, disseram as autoridades. A postagem Colorado Water Utilities atingida por ataques cibernéticos direcionados a sistemas OT apare",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/",
-      "published": "2026-09-21T10:03:44+00:00",
-      "image": ""
-    },
-    {
-      "title": "Organizações alertadas sobre três vulnerabilidades exploradas no kernel do Linux",
-      "summary": "Os invasores poderiam explorar as falhas para causar condições de negação de serviço, divulgar memória ou modificar a memória. A postagem Organizações alertadas sobre três vulnerabilidades exploradas no kernel do Linux apareceu pela primeira vez na SecurityWee",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/",
-      "published": "2026-09-21T09:31:12+00:00",
-      "image": ""
-    },
-    {
-      "title": "ClickFix Lures implanta ChainScript RAT usando Polygon para girar a infraestrutura C2",
-      "summary": "Os agentes de ameaças estão aproveitando iscas do tipo ClickFix para entregar um trojan de acesso remoto (RAT) anteriormente não documentado chamado ChainScript. \"ChainScript apareceu sob vários nomes de construção, incluindo ComponentTask33, UpdateDigital, Ho",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
-      "published": "2026-09-21T08:39:38+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-cgmwQRZh142Z19A3s7K7tpaXtsyy6Imy9cYGM7nFP1DAZoSK9gDw8T0dGXlkFWOGDFShJWMNjC7jbwoSvLokr1pX27u2B1SABpBL-aWtaXj2hYYrqVwTE7LpEDn_iIbRYCro8sH2hzAEsjHLGkpFqTjEKlFHi2o2pgacFJQvYkPDCKVEhkJgW8OWhpZA/s1600/poly.jpg"
-    },
-    {
-      "title": "Google confirma que Gemini AI violou três empresas",
-      "summary": "O Google é o mais recente gigante da IA ​​a confirmar que seus modelos escaparam de um ambiente de testes e hackearam empresas reais. A postagem Google confirma que Gemini AI violou três empresas apareceu pela primeira vez na SecurityWeek.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/google-confirms-gemini-ai-breached-three-firms/",
-      "published": "2026-09-21T07:20:46+00:00",
-      "image": ""
-    },
-    {
-      "title": "Google confirma que Gemini AI violou três empresas – SecurityWeek",
-      "summary": "Google confirma que Gemini AI violou três empresas SecurityWeek",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObFRHaVRJanFkaWFmN2hwQ01mY0dyWmluaW5xaUx0c2pLUE1yZnEyd0NJZkRTV0x4NnNYNkVteV9BRlRORE1ubUtNamVuRUhrdlAtTnF2cm85dmFEVGswRGhaanNvclVFRXBnR29wbnFkeEpseUZBWWdnZUdXYXBiNTdn0gGHAUFVX3lxTE9JcTBCbHpwbWQ2TzJMTmZMVklHRUtReVIwdHdSMWlkV2lNQXBQUGVYMFpUMmFybVBtYndqVWdtYkh5d1U5YjBJcnFGMmNpRWlkMTdGRWRhRXVVT0hUTGRCazBidlRyX0hadWVLWXJkcHkzRHBSYmc0NXM0UTdKTlI4al9jU0I1RQ?oc=5",
-      "published": "2026-09-21T07:20:46+00:00",
-      "image": ""
-    },
-    {
-      "title": "Jade Sleet vinculado a violação de provedor de TI indiano com backdoors FLATROOF e ROOFDECK",
-      "summary": "O ator de ameaça norte-coreano conhecido como Jade Sleet foi atribuído ao comprometimento de uma \"organização muito menor\" com sede na Índia na indústria de serviços de tecnologia da informação (TI), destacando mais uma vez como o adversário continua a atacar ",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
-      "published": "2026-09-21T06:06:44+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-xFiujwBJLdl6_4wZSMCWdeyCgev2EqszOLkIJ5I9Kbanu6YNmQ36nM615XmLQ-sq2aqldOHfl47jaMNRtDd80RT8k5f6I7eQuszf7wsIg49sEdMW36hsEKUtVUkZabRlGvvDxn7H7COmRCV8qP2pzQm9LNo5QKRnnptxmxTlJ8BMcPxuiqdaMjn-are0/s1600/it-services.jpg"
-    },
-    {
-      "title": "Pacotes npm maliciosos evitam as defesas do script de instalação em tempo de execução",
-      "summary": "Uma campanha contínua de malware npm envolvendo o pacote 'indexed-btree' mostra como os agentes de ameaças contornam as defesas da cadeia de suprimentos, escondendo código malicioso no comportamento normal de tempo de execução de um pacote, em vez de em script",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
-      "published": "2026-09-20T14:11:21+00:00",
-      "image": ""
-    },
-    {
-      "title": "Pesquisadores escapam da sandbox OpenAI Codex para executar comandos no host",
-      "summary": "Os pesquisadores escaparam da sandbox Codex da OpenAI de duas maneiras, uma executando comandos na máquina de um desenvolvedor em seu modo mais bloqueado. OpenAI corrigiu ambos. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
-      "published": "2026-09-20T12:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Claude Opus 5 ajudou pesquisadores a assumir contas de funcionários da OpenAI por meio de falhas encadeadas",
-      "summary": "Três pesquisadores da empresa de segurança Hacktron usaram Claude Opus 5 da Anthropic para encadear duas falhas e assumir o controle das contas ChatGPT e Codex de vários funcionários da OpenAI e, em seguida, acessar um repositório interno de código OpenAI. A c",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-      "published": "2026-09-19T18:36:53+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAElV4rXwWf_kTjj5e0UJFsEG-a0B7MUsCFqhFLYEA76kk2A7UeXbaG0DfRt-Syf7dxx4bHUanr0lVvwIUFyFgtPIfhyphenhyphenx61ccuo3oDZr6-wKROoEAVWjrAcKWuZ5WdlvL_pmKC91i9juBrsnI3FiLTGGgjnnJRAnjTgAxAbMjcbCTxZSWybZPPtG8HN1E/s1600/claude-openai.jpg"
-    },
-    {
-      "title": "BragJack ataca sequestradores de agentes de navegador de IA por meio de extensões maliciosas",
-      "summary": "BragJack, um ataque de prova de conceito de Gal Weizman da Forever Security, sequestra os assistentes de IA no Chrome, Edge, Opera Neon, Perplexity Comet e Claude no Chrome usando uma extensão maliciosa. A técnica Prompt Forcing rendeu mais de US$ 20.000 em re",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
-      "published": "2026-09-19T14:56:31+00:00",
-      "image": ""
-    },
-    {
-      "title": "TigerByte Cyber ​​emerge do sigilo com US$ 3 milhões em financiamento",
-      "summary": "A empresa garantiu mais de US$ 7 milhões em contratos com agências governamentais dos EUA, incluindo a Força Espacial dos EUA, a Marinha dos EUA e a DARPA. A postagem TigerByte Cyber ​​emerge do sigilo com US$ 3 milhões em financiamento apareceu pela primeira ",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/",
-      "published": "2026-09-19T14:30:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "ShinyHunters hackeia site de vazamento do Clop e ameaça extorquir gangue de ransomware",
-      "summary": "A gangue de extorsão ShinyHunters violou o site de vazamento de dados da operação de ransomware Clop (também conhecido como Cl0p), desfigurando o site Tor e supostamente roubando dados do servidor e as chaves privadas para seu serviço de cebola. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
-      "published": "2026-09-19T13:48:32+00:00",
-      "image": ""
-    },
-    {
-      "title": "Você pode provar que um novo CVE é explorável antes que os invasores o façam? Aprenda como neste webinar",
-      "summary": "Um novo CVE cai. Seu scanner o encontra. A pontuação de gravidade parece feia. Mas isso ainda não responde à questão importante: pode realmente ser explorado no seu ambiente? A IA da classe Mythos está reduzindo o tempo entre a divulgação e a exploração operac",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-      "published": "2026-09-19T13:28:48+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVgJqM9WZF6u_WZBeTJKqe35CDnh_4kxjLjZa3w63XbqfKBRNUENbTh5HGVrgYUGtmLRW9Px3GGzNcewMJWzd7CRxsk66eY1D70or8gasHUroPNdbUJ6ordqjxb7s8gKqQwuyWxCWC2BT0Matusn6PLXV9xus1PlqqqD3JITL_Unxt2xP8UK6zlX9Tmr0A/s1600/cves.jpg"
     }
   ]
 }
