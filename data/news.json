@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T20:03:16.059155+00:00",
+  "updated_at": "2026-09-22T00:12:39.745468+00:00",
   "items": [
     {
       "title": "[Evento Virtual] Outlook de Cibersegurança 2027",
@@ -9,6 +9,24 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "published": "2026-12-03T16:00:00+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "BigCommerce alerta comerciantes sobre violação de dados vinculada a aplicativos Ribon",
+      "summary": "A plataforma de comércio eletrônico BigCommerce alertou vários comerciantes sobre violações de dados depois que invasores comprometeram credenciais de aplicativos Ribon de terceiros e os usaram para injetar scripts maliciosos em lojas online. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
+      "published": "2026-09-21T21:18:49+00:00",
+      "image": ""
+    },
+    {
+      "title": "Alertas CISA sobre exploração ativa de três falhas do kernel Linux",
+      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) está alertando que hackers estão explorando três vulnerabilidades do kernel Linux, uma delas classificada como crítica. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
+      "published": "2026-09-21T20:12:17+00:00",
+      "image": ""
     },
     {
       "title": "Os cibercriminosos estão escondendo novos malwares em torrents de filmes populares",
@@ -47,7 +65,7 @@
       "image": ""
     },
     {
-      "title": "Campanha contagiosa de entrevistas compromete 30.000 dispositivos e rouba US$ 10,71 milhões em criptografia",
+      "title": "Campanha contagiosa de entrevistas compromete 30.000 dispositivos e rouba US$ 10,71 milhões em criptomoedas",
       "summary": "Os atores norte-coreanos por trás da campanha Contagious Interview comprometeram pelo menos 30.000 dispositivos localizados em mais de 100 países e desviaram fundos ou credenciais de contas de mais de 7.000 carteiras de criptomoedas, de acordo com um novo comu",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
@@ -101,10 +119,10 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjovXeakmAmPG68i_kNoeGFJjwSSGDdpj-29aojemBxtTQVOHzR668zKtV5GGPhnJ0zyCEdlsNCc11LIT-F8n1U8Rkv3jr-3AAt6HC4YwwyfENs_Y8V-O_OlPC4_WByxrsUBq6NifTKHQpgWuSnIqnV4bg4rXVoe9BrtMtgRCo4ECfMLWHRIKOQsqjb0zEt/s1600/recap-2.jpg"
     },
     {
-      "title": "⚡ Recapitulação semanal: Cisco 0-Day, AI Agent RCE, ataques ClickFix, ClickFix Surge e sequestros de navegador - The Hacker News",
-      "summary": "⚡ Recapitulação semanal: Cisco 0-Day, AI Agent RCE, ataques ClickFix, ClickFix Surge e sequestros de navegador The Hacker News",
+      "title": "⚡ Recapitulação semanal: Cisco 0-Day, AI Agent RCE, ataques ClickFix, ClickFix Surge e sequestros de navegador - thehackernews.com",
+      "summary": "⚡ Recapitulação semanal: Cisco 0-Day, AI Agent RCE, ataques ClickFix, ClickFix Surge e sequestros de navegador thehackernews.com",
       "category": "INCIDENTES",
-      "source": "The Hacker News",
+      "source": "thehackernews.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNEZDcGZqTGMzelU4UXVZREFoVklpYkQ5eDNPYkpGN3NPNmhYTGFReFI3MDRaNnZPMFRiMkZ5LVJ2UGJ5cU12anVBZkZ1MjNfUl82Z0xldDRtazNSUnduVlJ4MWt2TDFPN0U2Y3JoaXhkRnNrYTFIaDZ0a0tEYmdxRTl3?oc=5",
       "published": "2026-09-21T14:24:00+00:00",
       "image": ""
@@ -119,10 +137,10 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC3vJ8DX6852JxHepz1kGmunH3ZXsStcK4LINkLBCrzS8ZacBhqL-7epmGuzSNGI-jpF4GtkM-FXUsrv3croTLimjG_SBbw-rpO8NBIHf6Wvr6BMmYYSDKxEPQI-nrSFYrc9vmojcKn50LRFbc1t3h8qFA8dE_pZ3kMvelRpBFVFe2ZmCVJhPCWlMxYZpO/s1600/stomp.jpg"
     },
     {
-      "title": "TASK#STOMP PowerShell Backdoor rouba documentos, senhas de Wi-Fi e dados da área de transferência - The Hacker News",
-      "summary": "TASK#STOMP PowerShell Backdoor rouba documentos, senhas de Wi-Fi e dados da área de transferência The Hacker News",
+      "title": "TASK#STOMP PowerShell Backdoor rouba documentos, senhas de Wi-Fi e dados da área de transferência - thehackernews.com",
+      "summary": "TASK#STOMP PowerShell Backdoor rouba documentos, senhas de Wi-Fi e dados da área de transferência thehackernews.com",
       "category": "DEFESA",
-      "source": "The Hacker News",
+      "source": "thehackernews.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbWpyOVpoNlYyZU16N0xjdm9jZ1R3Q2ZGajRvdk9WaUt0dXV5LUUyNGItbU5TYU1YUDE5dGhFd3VOUmtxdXJSQlNsOXpSY00zOXFXbFd2b2piOWxrMUR2X0FBNkV0RVBhQlE2Mm1kWlJJLW5SY3NpTDFEUU5BOHA0QQ?oc=5",
       "published": "2026-09-21T14:15:00+00:00",
       "image": ""
@@ -143,24 +161,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/dragos-completes-netrise-and-runzero-acquisitions-following-accenture-deal/",
       "published": "2026-09-21T14:00:13+00:00",
-      "image": ""
-    },
-    {
-      "title": "A Microsoft lembra os administradores de migrar usuários do Entra ID para chaves de acesso",
-      "summary": "A Microsoft lembrou aos administradores que migrem os usuários do Entra ID para métodos de autenticação resistentes a phishing para evitar interrupções de login depois de descontinuar o login de primeiro fator de SMS a partir de fevereiro de 2027. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
-      "published": "2026-09-21T13:16:20+00:00",
-      "image": ""
-    },
-    {
-      "title": "Trojan RatHat Android usa IA para automação",
-      "summary": "O malware depende de IA para navegação e controle de dispositivos em tempo real, aumentando a adaptabilidade e a evasão. O posto Trojan Android RatHat usa IA para automação apareceu pela primeira vez na SecurityWeek.",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/rathat-android-trojan-uses-ai-for-automation/",
-      "published": "2026-09-21T12:51:41+00:00",
       "image": ""
     }
   ]
