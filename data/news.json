@@ -1,14 +1,131 @@
 {
-  "updated_at": "2026-09-22T11:50:06.592174+00:00",
+  "updated_at": "2026-09-22T17:04:32.672020+00:00",
   "items": [
     {
-      "title": "[Evento Virtual] Outlook de Cibersegurança 2027",
-      "summary": "",
+      "title": "Check Point alerta sobre exploração de dia zero do Management Server em ataques",
+      "summary": "A Check Point Software lançou hotfixes de emergência para resolver uma vulnerabilidade crítica do Security Management Server que poderia permitir que invasores executassem scripts arbitrários. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
+      "published": "2026-09-22T16:32:47+00:00",
+      "image": ""
+    },
+    {
+      "title": "Desmascarando EvilTokens: Chegando à raiz do phishing de código de dispositivo",
+      "summary": "EvilTokens rapidamente se tornou uma das principais plataformas PhaaS, permitindo ataques de phishing de código de dispositivo por meio de iscas assistidas por IA, infraestrutura automatizada e roubo de tokens. Em colaboração com parceiros, a Unidade de Crimes",
+      "category": "AMEAÇAS",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/",
+      "published": "2026-09-22T15:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Cyera levanta US$ 400 milhões com avaliação de mais de US$ 12 bilhões",
+      "summary": "A empresa de segurança de dados recebeu o novo investimento da Goldman Sachs Alternatives, ampliando sua rodada de financiamento da Série G. A postagem Cyera levanta US$ 400 milhões com avaliação de mais de US$ 12 bilhões apareceu pela primeira vez na Security",
       "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/cyera-raises-400-million-at-12-billion-valuation/",
+      "published": "2026-09-22T14:29:34+00:00",
+      "image": ""
+    },
+    {
+      "title": "Nightmare Eclipse descarta nova exploração do Microsoft Defender após revelar identidade",
+      "summary": "Abdelhamid Naceri, ex-funcionário da Microsoft Alemanha, é o vazador de exploração Nightmare Eclipse, também conhecido como Chaotic Eclipse. A postagem Nightmare Eclipse descarta nova exploração do Microsoft Defender após revelar identidade apareceu pela prime",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/nightmare-eclipse-drops-new-microsoft-defender-exploit-after-revealing-identity/",
+      "published": "2026-09-22T13:26:51+00:00",
+      "image": ""
+    },
+    {
+      "title": "Webinar amanhã: Por dentro das violações do Google Workspace no mundo real",
+      "summary": "O webinar de amanhã examina violações reais do Google Workspace envolvendo engenharia social e aplicativos OAuth maliciosos, desde o acesso inicial até as primeiras horas críticas de resposta a incidentes. Saiba quais controles de segurança e decisões de respo",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
+      "published": "2026-09-22T12:57:07+00:00",
+      "image": ""
+    },
+    {
+      "title": "D-Link alerta sobre bug de gravidade máxima de dia zero em roteadores DIR-822A",
+      "summary": "A D-Link alertou os clientes sobre uma vulnerabilidade de gravidade máxima (CVE-2026-86296) com código de exploração de prova de conceito (PoC) pública e sem patch, afetando roteadores Wi-Fi de banda dupla legados DIR-822A. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
+      "published": "2026-09-22T12:48:06+00:00",
+      "image": ""
+    },
+    {
+      "title": "Agentes de IA estão reescrevendo as regras do movimento lateral",
+      "summary": "As equipes de segurança passaram décadas perguntando se uma identidade tem muito acesso. Os agentes de IA levantam uma questão mais difícil: como podemos determinar quais caminhos um sistema autônomo pode descobrir, dado o acesso que já possui? Uma pessoa pode",
+      "category": "CLOUD & IA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
+      "published": "2026-09-22T12:30:00+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9ivhHLwWwT7Ptbr537Fd2CV3d_maDSNRmH0up0x67UPpc5x45Uuz0Bg8EnLkjrtB3DYXldW7aKbzx5uljQSF7IhQlzHHA1HR0F16Eaxs8Y3tgURkizSrA79L3EqyD5RDlqPGljbXCTQj0tFFG2EOVueksvhyrmdmC-v6VFjs76KdzZlCg1juWiVOPDnU/s1600/token.jpg"
+    },
+    {
+      "title": "Nova falha do CVSS 10.0 VeloCloud Orchestrator explorada ativamente em configurações baseadas em certificados",
+      "summary": "Os invasores estão explorando uma nova falha no VeloCloud Orchestrator (VCO) local, o servidor que gerencia os dispositivos Edge em um VeloCloud SD-WAN, disse Arista em 22 de setembro. A falha, rastreada como CVE-2026-93952, pode permitir que um invasor remoto",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html",
+      "published": "2026-09-22T12:29:00+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN5Up_REU7_SnA-Ce9D8UGRsM8WbkkcjR6kjirzb-tSFejrL-qnZkXrp2gNa3OA-4PgvkUqHs59j9Qc8srbfm2JOUIOvEa1c_d8Il3kUDAGyr49FuXwq_n438Vf9txfq1fVwcpykkZAKz1o2QFGUJDLF4wnXzNWLdH1tYft3bd-vJywPppGjEfoikG22s/s1600/VeloCloud.jpg"
+    },
+    {
+      "title": "Nova falha do CVSS 10.0 VeloCloud Orchestrator explorada ativamente em configurações baseadas em certificados - The Hacker News",
+      "summary": "Nova falha do CVSS 10.0 VeloCloud Orchestrator explorada ativamente em configurações baseadas em certificados The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVRTM2VVVJQkdRTG9razI2RkRZQjlialVZTFpzbG9KWXpWQUJuR0JNTklQRmpmMUl0UDNuU2pkVzRiVjhld1pRTUF2d2I1bW85ZlVNeXdZaUVlTnRRa1NzTVRwLWdxSFZ0dk1oY1MwRExWRzBPLWhab0tzUldheGM?oc=5",
+      "published": "2026-09-22T12:29:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Apenas 13% dos segmentos de rede OT estão totalmente isolados: análise",
+      "summary": "A nova pesquisa de segmentação de rede da Forescout mostra que TO e dispositivos médicos geralmente compartilham segmentos de rede com outros ativos empresariais. A postagem Apenas 13% dos segmentos de rede OT estão totalmente isolados: análise apareceu pela p",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/only-13-of-ot-network-segments-are-fully-isolated-analysis/",
+      "published": "2026-09-22T12:24:30+00:00",
+      "image": ""
+    },
+    {
+      "title": "Mais de um terço das organizações industriais vêem o risco de segurança cibernética como o principal obstáculo ao crescimento, conclui estudo",
+      "summary": "As empresas industriais estão a aumentar o investimento em segurança cibernética à medida que as operações conectadas, a adoção da IA ​​e a convergência TI/TO expandem o risco operacional.",
+      "category": "CLOUD & IA",
       "source": "Dark Reading",
-      "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
-      "published": "2026-12-03T16:00:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale"
+      "url": "https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle",
+      "published": "2026-09-22T12:00:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Vulnerabilidade recente do switch ZyXEL explorada por hackers chineses",
+      "summary": "Um agente de ameaças chinês explorou o bug para extrair informações confidenciais de quase 1.000 switches ZyXEL. A postagem Vulnerabilidade recente do switch ZyXEL explorada por hackers chineses apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/",
+      "published": "2026-09-22T11:55:20+00:00",
+      "image": ""
+    },
+    {
+      "title": "DORA Ano Dois: Seu SOC pode realmente ver o ataque?",
+      "summary": "Quando a Lei de Resiliência Operacional Digital (DORA) se tornou aplicável em toda a União Europeia em Janeiro de 2025, desencadeou uma corrida administrativa. As entidades financeiras passaram o primeiro ano estabelecendo governança de risco, avaliando presta",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
+      "published": "2026-09-22T11:45:00+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSfPPym5AUNkyGqTS_emtDBNfEzrtWQJSHGSMl0V3KkDS2_hMcu_cpDslIX9LUv9nvHbQzY9hnwDEKjdlxe6vFS3N2_PHkTk_0TdKBE7RrAdniL9dObHd24tudc-Ymy8FTsV9y6Io68EhjR6fRrRwMEJhdKczg6vpRP2Bp06cxX_EqgmqXps8ih3Tfq08/s1600/core.jpg"
+    },
+    {
+      "title": "Nova falha no kernel do Linux dá aos convidados ARM64 KVM acesso de leitura e gravação à memória do host",
+      "summary": "Uma nova falha no código de virtualização KVM do kernel Linux para processadores ARM64 pode deixar uma parte liberada da memória do host exposta a uma máquina virtual convidada em hosts com virtualização aninhada habilitada. O bug, rastreado como CVE-2026-8977",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
+      "published": "2026-09-22T11:38:40+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCjDxUEx5QKzby2TlrL6Swi0MV7BdrkgjM6Y5Xby9IU8L9JSdG09pwRemVtrYQtUrvp8QIDduyiDuojZVzZ6GrpzUJIVrThvC4CZ_kd8kckdhBt0MLWDLXD_QwN2wciIA9bqLee51246mEpWx0ZnlcOfXD2U3QWpvmpKZyxx75T7MXK-b8zBMmrouCZJc/s1600/linux-kvm.jpg"
     },
     {
       "title": "Pacote NPM malicioso de árvore B acumula milhões de downloads",
@@ -18,6 +135,15 @@
       "url": "https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/",
       "published": "2026-09-22T11:33:59+00:00",
       "image": ""
+    },
+    {
+      "title": "Falha do SharePoint inicialmente listada como spoofing pela Microsoft permite RCE autenticado",
+      "summary": "Uma vulnerabilidade do SharePoint Server que a Microsoft classificou inicialmente como uma falha de falsificação com uma pontuação CVSS de 6,5, na verdade, permite a execução remota de código autenticado, de acordo com detalhes técnicos completos publicados ho",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
+      "published": "2026-09-22T11:17:41+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu0R8P6iyk50vNReEGl0FkwYoFPk5n2fkVC3_3Mf2J5SaQ7yFIHbA3xuQpCATCQ9Y5Ie2ysz9EVaDb_vR5Bbnp209w28bSDK2Rqggotv4NPQbFB5LX4SUT4eztA-6939clsV9QQ41MHwIl8MFSzaJwyFFeBusztZ9H7oZhiUOlFYrL8BQh6hXWegn39uU/s1600/ms-rce.jpg"
     },
     {
       "title": "WordPress corrige vulnerabilidade ‘Click2Shell’",
@@ -36,132 +162,6 @@
       "url": "https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/",
       "published": "2026-09-22T10:00:58+00:00",
       "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/closed-quorum-header.jpg"
-    },
-    {
-      "title": "Apresentando CAIRN: rastreamento de fronteira para malware integrado à IA",
-      "summary": "A Talos está lançando o CAIRN, um kit de ferramentas de pesquisa para caçar, classificar e rastrear malwares emergentes integrados à IA.",
-      "category": "AMEAÇAS",
-      "source": "Cisco Talos",
-      "url": "https://blog.talosintelligence.com/introducing-cairn-frontier-tracking-for-ai-integrated-malware/",
-      "published": "2026-09-22T10:00:25+00:00",
-      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/CAIRN-TechBlog-Header.jpg"
-    },
-    {
-      "title": "O novo dia zero do Windows Defender bloqueia atualizações de antivírus da Microsoft",
-      "summary": "No fim de semana, o pesquisador de segurança Abdelhamid Naceri (também conhecido como Nightmare Eclipse) lançou outra exploração de dia zero do Microsoft Defender que bloqueia atualizações de antivírus. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
-      "published": "2026-09-22T09:55:11+00:00",
-      "image": ""
-    },
-    {
-      "title": "Pacote npm malicioso indexed-btree escondeu seu carregador no código de tempo de execução antes da remoção",
-      "summary": "Um pacote npm malicioso chamado “indexed-btree” foi observado escondendo seu comportamento malicioso no código do aplicativo, em vez de usar scripts de ciclo de vida, indicando que os atores da ameaça provavelmente estão mudando de tática em resposta aos contr",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
-      "published": "2026-09-22T09:38:18+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaN7aXt0PoPdZQ_VG77wkwdIyNugcdkFD6MnMvlj5LN_byw2ZrX8-gtpDld4CviuW1MOhHiElsvFtIkO9IfhBr4af-sJwM1zvR-RFICRll4G5jG4JNPX1vx4sup3omlw8uTJgro9UUfzecLMI1Whls3ihqZ9OXYJliIBjhpoodf4WI9j1lA6EUjms7x1pG/s1600/rth.jpg"
-    },
-    {
-      "title": "CISA ordena que federais corrijam falha do Zyxel explorada para roubo de dados",
-      "summary": "​Os invasores agora estão explorando ativamente uma vulnerabilidade de alta gravidade nos switches da série Zyxel GS1900, de acordo com a Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA). [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
-      "published": "2026-09-22T08:53:09+00:00",
-      "image": ""
-    },
-    {
-      "title": "Japão desmonta primeira fazenda de laptops norte-coreana enquanto EUA e aliados detalham esquema mais amplo",
-      "summary": "Os EUA, o Japão, a Alemanha e a Austrália publicaram um relatório conjunto detalhando o âmbito da campanha WaterPlum da Coreia do Norte. A postagem Japão desmonta a primeira fazenda de laptops norte-coreana enquanto o esquema detalhado dos EUA e dos aliados ap",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/",
-      "published": "2026-09-22T08:37:06+00:00",
-      "image": ""
-    },
-    {
-      "title": "SideCopy amplia a segmentação da Índia para a academia com ReverseRAT Spear-Phishing",
-      "summary": "O ator de ameaça conhecido como SideCopy foi observado usando iscas de spear-phishing para atingir instituições acadêmicas na Índia, expandindo seu foco estratégico para além das entidades governamentais. “As operações da campanha SideCopy normalmente iniciam ",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
-      "published": "2026-09-22T07:52:03+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVXTuBFDgZyaNFTznwdu5HXSKuVHU5xpM7JDvXP_Ra-68CsYd68bb6xMWPXbjmsM5oO211hZgzIN0NENk_cMBZZpL88LMsIaNkfSEpIWRRzyjRt7Ke6ZMeUXvIKcH3ncgDouKN8FGuunAFQFMolel0GgTBm1lzdVDH28WpWFUCI4Fvl9ju0q4Vv0S55PVx/s1600/word-school.jpg"
-    },
-    {
-      "title": "SideCopy amplia a segmentação da Índia para a academia com ReverseRAT Spear-Phishing - The Hacker News",
-      "summary": "SideCopy amplia o direcionamento da Índia para a academia com ReverseRAT Spear-Phishing The Hacker News",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQajJ5dS1GNUtsVkVZaml0c2s5b0ZScWZlVTdyMnhYVU5YRThIdTBPNU92b0N2YUJxRHRxWG9tdGtJWkVIRlhXTWlaSmg4V3M5ZHFpLTZ0OFJfenMxTEtILW1WMzJSYlpwZmRfLS05QkJ5V3NJNE9iYkI1NmUtWjJiXw?oc=5",
-      "published": "2026-09-22T07:52:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Uma configuração oculta do Meta Muse pode permitir que invasores transformem o assistente de IA em um backdoor",
-      "summary": "O malware já em execução em um Mac pode silenciosamente assumir o controle do assistente Muse do Meta e usar o amplo acesso que seu proprietário concedeu ao aplicativo, mostrou o pesquisador de segurança Patrick Wardle em uma prova de conceito lançada em 21 de",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
-      "published": "2026-09-22T06:33:57+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjZLVTtI-AEbGRQqJ7aGa0tbXedD5L6P7VCEKIOGXOBZe7S3mhA-PnoHVEoZf3LBMzhcZSIX5sCTveGyZ-8qAqyAVaMXfEoxPL70OIESq-Iolqjkv8GuDjcVs1Jgh3k3SoOOGPDWFr6Lmk83avLqG1whcaiDclv5waXYhCuEqXk569wfwV8Ilrmvv3IKE/s1600/muse.jpg"
-    },
-    {
-      "title": "Uma configuração oculta do Meta Muse pode permitir que invasores transformem o assistente de IA em um backdoor - The Hacker News",
-      "summary": "Uma configuração oculta do Meta Muse pode permitir que invasores transformem o assistente de IA em um backdoor The Hacker News",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTExlUDU5NGxnWnEyandQRWR6T2pySjd0Vl9yemZuT3d0c1hsaE55NEg2SE1COGlaajlUY05XdG04SkZjVzFZcnUzMjZicFU3VmVwUzhWeTNXMHhYTGRqS2k3M2NFMXAweUlwSTVEM1JDMUdlM3dyVWsyR0pfRVpnSnJzaw?oc=5",
-      "published": "2026-09-22T06:33:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falha no WordPress Comment2Shell pode transformar comentários anônimos XSS em RCE por meio de sessão de administrador",
-      "summary": "Uma nova falha no núcleo do WordPress permitiu que um visitante anônimo deixasse um comentário que plantava um script oculto na página. Se um administrador conectado abrisse essa página posteriormente, o script poderia executar o código no servidor do site. O ",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
-      "published": "2026-09-22T06:03:14+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPBWV1XNsTGB5ImLNRGJTygk0-82k7xTHmuOr7lTivRRDcF83ddu4jLOpdkQYMq7VB3j5SMpA9zBRvM3-SUkDLBhN5-j-Z6UltcTnVfXOxHDzfBYWiw_fRiRefAYa1XSiFu5JMzb06dwqV4PhKaZkPt3vKZFHQjdVFUgbr2B3nOEoFs_qHe6zwGayHM2I/s1600/wordpress-comment.jpg"
-    },
-    {
-      "title": "Falhas Zyxel e Veeam sob exploração ativa com comando e acesso ao sistema",
-      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) adicionou na segunda-feira uma falha de segurança agora corrigida que afeta os switches da série Zyxel GS1900 ao seu catálogo de Vulnerabilidades Exploradas Conhecidas (KEV), citando evidênc",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
-      "published": "2026-09-22T05:31:59+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj9eouOxeSvnYBzl5A8tWvEQ4w_CCx94YcFmpBAXXqHWNqvFBWj4vOgeZdHYAf0MU-chY63biCpHDnzRC0pwR7s3pTdQAWwPAVI-olRZuBwG0ilgAxnIY_1KofE3cpuA8lKOE01U26EFHYE_nLrXYXOWl47G1KaoFTZ5UOO81Cw0Kb20pFSfAc1b9i9E_K/s1600/veeam.jpg"
-    },
-    {
-      "title": "Falhas de Zyxel e Veeam sob exploração ativa com comando e acesso ao SISTEMA - The Hacker News",
-      "summary": "Falhas de Zyxel e Veeam sob exploração ativa com acesso de comando e sistema The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HU0NVeTkwTU43ZEpkRDRSdFNYT1I4eWt4VlhFTDF6WnNqX1dMZS0xREdNY2hRWEliTDFwS2M3cG1sampINTJ0c1JEai1QZUFrTWFPUjY4NmdGMmVsdWdZdXU3YjNxNUtZZ1ZQRlUtU2k1T3ZOcnZFeGxGV1liZw?oc=5",
-      "published": "2026-09-22T05:31:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "EUA propõem sistema de alerta de incidentes de IA em negociações com a China, afirma Bessent",
-      "summary": "Trump resistiu aos apelos para desacelerar o desenvolvimento da IA, dizendo que isso ajudaria a China a alcançar as empresas norte-americanas. A postagem EUA propõem sistema de alerta de incidentes de IA em negociações com a China, diz Bessent, apareceu pela p",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/",
-      "published": "2026-09-22T02:01:24+00:00",
-      "image": ""
-    },
-    {
-      "title": "BigCommerce alerta comerciantes sobre violação de dados vinculada a aplicativos Ribon",
-      "summary": "A plataforma de comércio eletrônico BigCommerce alertou vários comerciantes sobre violações de dados depois que invasores comprometeram credenciais de aplicativos Ribon de terceiros e os usaram para injetar scripts maliciosos em lojas online. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
-      "published": "2026-09-21T21:18:49+00:00",
-      "image": ""
     }
   ]
 }
