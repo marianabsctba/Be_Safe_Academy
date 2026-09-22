@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T05:09:41.095463+00:00",
+  "updated_at": "2026-09-22T11:50:06.592174+00:00",
   "items": [
     {
       "title": "[Evento Virtual] Outlook de Cibersegurança 2027",
@@ -9,6 +9,141 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "published": "2026-12-03T16:00:00+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Pacote NPM malicioso de árvore B acumula milhões de downloads",
+      "summary": "Apresentando-se como o pacote legítimo sorted-btree, o indexed-btree esconde um gatilho de malware em seu método de protótipo. O posto Pacote NPM malicioso de árvore B acumula milhões de downloads apareceu pela primeira vez na SecurityWeek.",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/",
+      "published": "2026-09-22T11:33:59+00:00",
+      "image": ""
+    },
+    {
+      "title": "WordPress corrige vulnerabilidade ‘Click2Shell’",
+      "summary": "O bug permite que invasores instalem e visualizem temas automaticamente e pode levar à execução remota de código. A postagem Vulnerabilidade ‘Click2Shell’ dos patches do WordPress apareceu pela primeira vez em SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/wordpress-patches-click2shell-vulnerability/",
+      "published": "2026-09-22T10:22:27+00:00",
+      "image": ""
+    },
+    {
+      "title": "O quórum fechado: por dentro do primeiro implante AI C2 autônomo relatado",
+      "summary": "CLOSEDQUORUM, um binário de malware descoberto por meio do projeto CAIRN do Cisco Talos, exibe comando e controle totalmente autônomos (C2). Representa uma mudança no deslocamento de esforço para os atacantes, em que porções em expansão da cadeia de ataque pod",
+      "category": "AMEAÇAS",
+      "source": "Cisco Talos",
+      "url": "https://blog.talosintelligence.com/the-closed-quorum-inside-the-first-reported-autonomous-ai-c2-implant/",
+      "published": "2026-09-22T10:00:58+00:00",
+      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/closed-quorum-header.jpg"
+    },
+    {
+      "title": "Apresentando CAIRN: rastreamento de fronteira para malware integrado à IA",
+      "summary": "A Talos está lançando o CAIRN, um kit de ferramentas de pesquisa para caçar, classificar e rastrear malwares emergentes integrados à IA.",
+      "category": "AMEAÇAS",
+      "source": "Cisco Talos",
+      "url": "https://blog.talosintelligence.com/introducing-cairn-frontier-tracking-for-ai-integrated-malware/",
+      "published": "2026-09-22T10:00:25+00:00",
+      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/CAIRN-TechBlog-Header.jpg"
+    },
+    {
+      "title": "O novo dia zero do Windows Defender bloqueia atualizações de antivírus da Microsoft",
+      "summary": "No fim de semana, o pesquisador de segurança Abdelhamid Naceri (também conhecido como Nightmare Eclipse) lançou outra exploração de dia zero do Microsoft Defender que bloqueia atualizações de antivírus. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
+      "published": "2026-09-22T09:55:11+00:00",
+      "image": ""
+    },
+    {
+      "title": "Pacote npm malicioso indexed-btree escondeu seu carregador no código de tempo de execução antes da remoção",
+      "summary": "Um pacote npm malicioso chamado “indexed-btree” foi observado escondendo seu comportamento malicioso no código do aplicativo, em vez de usar scripts de ciclo de vida, indicando que os atores da ameaça provavelmente estão mudando de tática em resposta aos contr",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
+      "published": "2026-09-22T09:38:18+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaN7aXt0PoPdZQ_VG77wkwdIyNugcdkFD6MnMvlj5LN_byw2ZrX8-gtpDld4CviuW1MOhHiElsvFtIkO9IfhBr4af-sJwM1zvR-RFICRll4G5jG4JNPX1vx4sup3omlw8uTJgro9UUfzecLMI1Whls3ihqZ9OXYJliIBjhpoodf4WI9j1lA6EUjms7x1pG/s1600/rth.jpg"
+    },
+    {
+      "title": "CISA ordena que federais corrijam falha do Zyxel explorada para roubo de dados",
+      "summary": "​Os invasores agora estão explorando ativamente uma vulnerabilidade de alta gravidade nos switches da série Zyxel GS1900, de acordo com a Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA). [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
+      "published": "2026-09-22T08:53:09+00:00",
+      "image": ""
+    },
+    {
+      "title": "Japão desmonta primeira fazenda de laptops norte-coreana enquanto EUA e aliados detalham esquema mais amplo",
+      "summary": "Os EUA, o Japão, a Alemanha e a Austrália publicaram um relatório conjunto detalhando o âmbito da campanha WaterPlum da Coreia do Norte. A postagem Japão desmonta a primeira fazenda de laptops norte-coreana enquanto o esquema detalhado dos EUA e dos aliados ap",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/",
+      "published": "2026-09-22T08:37:06+00:00",
+      "image": ""
+    },
+    {
+      "title": "SideCopy amplia a segmentação da Índia para a academia com ReverseRAT Spear-Phishing",
+      "summary": "O ator de ameaça conhecido como SideCopy foi observado usando iscas de spear-phishing para atingir instituições acadêmicas na Índia, expandindo seu foco estratégico para além das entidades governamentais. “As operações da campanha SideCopy normalmente iniciam ",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
+      "published": "2026-09-22T07:52:03+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVXTuBFDgZyaNFTznwdu5HXSKuVHU5xpM7JDvXP_Ra-68CsYd68bb6xMWPXbjmsM5oO211hZgzIN0NENk_cMBZZpL88LMsIaNkfSEpIWRRzyjRt7Ke6ZMeUXvIKcH3ncgDouKN8FGuunAFQFMolel0GgTBm1lzdVDH28WpWFUCI4Fvl9ju0q4Vv0S55PVx/s1600/word-school.jpg"
+    },
+    {
+      "title": "SideCopy amplia a segmentação da Índia para a academia com ReverseRAT Spear-Phishing - The Hacker News",
+      "summary": "SideCopy amplia o direcionamento da Índia para a academia com ReverseRAT Spear-Phishing The Hacker News",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQajJ5dS1GNUtsVkVZaml0c2s5b0ZScWZlVTdyMnhYVU5YRThIdTBPNU92b0N2YUJxRHRxWG9tdGtJWkVIRlhXTWlaSmg4V3M5ZHFpLTZ0OFJfenMxTEtILW1WMzJSYlpwZmRfLS05QkJ5V3NJNE9iYkI1NmUtWjJiXw?oc=5",
+      "published": "2026-09-22T07:52:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Uma configuração oculta do Meta Muse pode permitir que invasores transformem o assistente de IA em um backdoor",
+      "summary": "O malware já em execução em um Mac pode silenciosamente assumir o controle do assistente Muse do Meta e usar o amplo acesso que seu proprietário concedeu ao aplicativo, mostrou o pesquisador de segurança Patrick Wardle em uma prova de conceito lançada em 21 de",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
+      "published": "2026-09-22T06:33:57+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjZLVTtI-AEbGRQqJ7aGa0tbXedD5L6P7VCEKIOGXOBZe7S3mhA-PnoHVEoZf3LBMzhcZSIX5sCTveGyZ-8qAqyAVaMXfEoxPL70OIESq-Iolqjkv8GuDjcVs1Jgh3k3SoOOGPDWFr6Lmk83avLqG1whcaiDclv5waXYhCuEqXk569wfwV8Ilrmvv3IKE/s1600/muse.jpg"
+    },
+    {
+      "title": "Uma configuração oculta do Meta Muse pode permitir que invasores transformem o assistente de IA em um backdoor - The Hacker News",
+      "summary": "Uma configuração oculta do Meta Muse pode permitir que invasores transformem o assistente de IA em um backdoor The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTExlUDU5NGxnWnEyandQRWR6T2pySjd0Vl9yemZuT3d0c1hsaE55NEg2SE1COGlaajlUY05XdG04SkZjVzFZcnUzMjZicFU3VmVwUzhWeTNXMHhYTGRqS2k3M2NFMXAweUlwSTVEM1JDMUdlM3dyVWsyR0pfRVpnSnJzaw?oc=5",
+      "published": "2026-09-22T06:33:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falha no WordPress Comment2Shell pode transformar comentários anônimos XSS em RCE por meio de sessão de administrador",
+      "summary": "Uma nova falha no núcleo do WordPress permitiu que um visitante anônimo deixasse um comentário que plantava um script oculto na página. Se um administrador conectado abrisse essa página posteriormente, o script poderia executar o código no servidor do site. O ",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
+      "published": "2026-09-22T06:03:14+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPBWV1XNsTGB5ImLNRGJTygk0-82k7xTHmuOr7lTivRRDcF83ddu4jLOpdkQYMq7VB3j5SMpA9zBRvM3-SUkDLBhN5-j-Z6UltcTnVfXOxHDzfBYWiw_fRiRefAYa1XSiFu5JMzb06dwqV4PhKaZkPt3vKZFHQjdVFUgbr2B3nOEoFs_qHe6zwGayHM2I/s1600/wordpress-comment.jpg"
+    },
+    {
+      "title": "Falhas Zyxel e Veeam sob exploração ativa com comando e acesso ao sistema",
+      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) adicionou na segunda-feira uma falha de segurança agora corrigida que afeta os switches da série Zyxel GS1900 ao seu catálogo de Vulnerabilidades Exploradas Conhecidas (KEV), citando evidênc",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
+      "published": "2026-09-22T05:31:59+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj9eouOxeSvnYBzl5A8tWvEQ4w_CCx94YcFmpBAXXqHWNqvFBWj4vOgeZdHYAf0MU-chY63biCpHDnzRC0pwR7s3pTdQAWwPAVI-olRZuBwG0ilgAxnIY_1KofE3cpuA8lKOE01U26EFHYE_nLrXYXOWl47G1KaoFTZ5UOO81Cw0Kb20pFSfAc1b9i9E_K/s1600/veeam.jpg"
+    },
+    {
+      "title": "Falhas de Zyxel e Veeam sob exploração ativa com comando e acesso ao SISTEMA - The Hacker News",
+      "summary": "Falhas de Zyxel e Veeam sob exploração ativa com acesso de comando e sistema The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HU0NVeTkwTU43ZEpkRDRSdFNYT1I4eWt4VlhFTDF6WnNqX1dMZS0xREdNY2hRWEliTDFwS2M3cG1sampINTJ0c1JEai1QZUFrTWFPUjY4NmdGMmVsdWdZdXU3YjNxNUtZZ1ZQRlUtU2k1T3ZOcnZFeGxGV1liZw?oc=5",
+      "published": "2026-09-22T05:31:00+00:00",
+      "image": ""
     },
     {
       "title": "EUA propõem sistema de alerta de incidentes de IA em negociações com a China, afirma Bessent",
@@ -26,141 +161,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
       "published": "2026-09-21T21:18:49+00:00",
-      "image": ""
-    },
-    {
-      "title": "Alertas CISA sobre exploração ativa de três falhas do kernel Linux",
-      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) está alertando que hackers estão explorando três vulnerabilidades do kernel Linux, uma delas classificada como crítica. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
-      "published": "2026-09-21T20:12:17+00:00",
-      "image": ""
-    },
-    {
-      "title": "Os cibercriminosos estão escondendo novos malwares em torrents de filmes populares",
-      "summary": "Foram identificadas vítimas em África, incluindo no Quénia e no Uganda.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
-      "published": "2026-09-21T19:11:26+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "A falha Click2Shell do WordPress permite que hackers executem PHP no servidor",
-      "summary": "Detalhes técnicos e uma exploração de prova de conceito foram publicados para uma nova vulnerabilidade de falsificação de solicitação entre sites (CSRF) do WordPress chamada ‘Click2Shell’ que afeta o componente principal da plataforma. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
-      "published": "2026-09-21T18:23:11+00:00",
-      "image": ""
-    },
-    {
-      "title": "O instalador falso do autenticador LastPass abusa do driver assinado pela Microsoft para matar antivírus e EDR",
-      "summary": "Um instalador falso do LastPass Authenticator oferecido no GitHub instala um driver de kernel do Windows que desliga antivírus e outros softwares de segurança antes que um ladrão de senhas seja executado se a vítima fizer o download e executá-lo, disseram pesq",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
-      "published": "2026-09-21T17:31:01+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil-5ZV6QK7R23fL7Vtl-pdxgFYPAG9dT_cIIrXWgR70hLZRM705Ij3WuRpCL00VuDop9dTmVNf1t3QS60nqRGV9GCzsZ792yd7mFY_pjvgfufOK9D-oQJdxP4ZtrXiyeq08KNUBv3-mhQ_KCiCOMWIbeQpCAyF_h4lMZw54T0l9AcDdGf6aRptXAZJNcU/s1600/last.jpg"
-    },
-    {
-      "title": "Google recebe multa de US$ 463 milhões por violação de regra de dados de localização da UE",
-      "summary": "O Google foi multado em 403 milhões de euros (US$ 463 milhões) por violar as rígidas regras de privacidade da União Europeia, porque manipulou indevidamente os dados de localização dos usuários. A postagem Google foi multado em US$ 463 milhões por violação de ",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/",
-      "published": "2026-09-21T17:19:53+00:00",
-      "image": ""
-    },
-    {
-      "title": "Campanha contagiosa de entrevistas compromete 30.000 dispositivos e rouba US$ 10,71 milhões em criptografia",
-      "summary": "Os atores norte-coreanos por trás da campanha Contagious Interview comprometeram pelo menos 30.000 dispositivos localizados em mais de 100 países e desviaram fundos ou credenciais de contas de mais de 7.000 carteiras de criptomoedas, de acordo com um novo comu",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
-      "published": "2026-09-21T17:19:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjuVP0IzjchtSeuT6WwQHPupLynSiYhe7KinKtQVVE_EgFE5iG9SWV4HrgseuXaSUo-TaamFPzHl6SCnUPsbz29nzEo1BJeZVE4VB43KdMBmKEld7snbryRJIeIIAmiRZNEhFCJ-58klU6qGrvwg2Hn26FtkHv1s4cAj_zX9AWmdeym2-d4hScWr9dLiOY/s1600/exec.jpg"
-    },
-    {
-      "title": "Instaladores falsos do LastPass empurram EDR Killer em nível de kernel, ladrão ‘Rapuncel’",
-      "summary": "Os invasores se fazem passar por pelo menos 40 empresas e desativam 145 produtos de segurança para implantar malware infostealer. A postagem Instaladores falsos do LastPass Push Kernel-Level EDR Killer, ‘Rapuncel’ Stealer apareceu pela primeira vez em Security",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/fake-lastpass-installers-push-kernel-level-edr-killer-rapuncel-stealer/",
-      "published": "2026-09-21T15:46:58+00:00",
-      "image": ""
-    },
-    {
-      "title": "Google multou € 403 milhões por violações de privacidade de dados de localização",
-      "summary": "A Comissão de Proteção de Dados da Irlanda (DPC) multou o Google em 403 milhões de euros (US$ 463 milhões) por múltiplas violações do GDPR relacionadas ao processamento de dados de localização dos usuários. [...]",
-      "category": "PRIVACIDADE",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
-      "published": "2026-09-21T15:41:22+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft corrige cópia e colagem quebrada do Excel para todos os usuários do Office",
-      "summary": "A Microsoft corrigiu um problema conhecido que causa falhas de copiar e colar para usuários do Excel após instalar as atualizações de segurança de setembro de 2026. [...]",
-      "category": "DEFESA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
-      "published": "2026-09-21T14:42:37+00:00",
-      "image": ""
-    },
-    {
-      "title": "Conversas CISO: Noopur Davis – O CISO Global Acidental na Comcast",
-      "summary": "Noopur Davis nunca planejou uma carreira em segurança cibernética. Ela era desenvolvedora na Intergraph e por muitos anos isso era tudo o que ela queria ser. A postagem Conversas do CISO: Noopur Davis – O CISO global acidental da Comcast apareceu pela primeira",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ciso-conversations-noopur-davis-the-accidental-global-ciso-at-comcast/",
-      "published": "2026-09-21T14:30:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "⚡ Recapitulação semanal: Cisco 0-Day, AI Agent RCE, ataques ClickFix, ClickFix Surge e sequestros de navegador",
-      "summary": "Um navegador. Um plug-in. Um pacote. Uma tela de login. Coisas normais. Esse é basicamente o problema desta semana. O problema continua aparecendo em coisas em que as pessoas já confiam: códigos que dão errado, cargas antigas voltando, sistemas expostos, verif",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
-      "published": "2026-09-21T14:24:13+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjovXeakmAmPG68i_kNoeGFJjwSSGDdpj-29aojemBxtTQVOHzR668zKtV5GGPhnJ0zyCEdlsNCc11LIT-F8n1U8Rkv3jr-3AAt6HC4YwwyfENs_Y8V-O_OlPC4_WByxrsUBq6NifTKHQpgWuSnIqnV4bg4rXVoe9BrtMtgRCo4ECfMLWHRIKOQsqjb0zEt/s1600/recap-2.jpg"
-    },
-    {
-      "title": "⚡ Recapitulação semanal: Cisco 0-Day, AI Agent RCE, ataques ClickFix, ClickFix Surge e sequestros de navegador - The Hacker News",
-      "summary": "⚡ Recapitulação semanal: Cisco 0-Day, AI Agent RCE, ataques ClickFix, ClickFix Surge e sequestros de navegador The Hacker News",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNEZDcGZqTGMzelU4UXVZREFoVklpYkQ5eDNPYkpGN3NPNmhYTGFReFI3MDRaNnZPMFRiMkZ5LVJ2UGJ5cU12anVBZkZ1MjNfUl82Z0xldDRtazNSUnduVlJ4MWt2TDFPN0U2Y3JoaXhkRnNrYTFIaDZ0a0tEYmdxRTl3?oc=5",
-      "published": "2026-09-21T14:24:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "TASK#STOMP PowerShell Backdoor rouba documentos, senhas de Wi-Fi e dados da área de transferência",
-      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma nova campanha chamada TASK#STOMP que oferece um backdoor PowerShell projetado para coletar dados confidenciais de hosts comprometidos. O backdoor “coleta e exfiltra automaticamente documentos co",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
-      "published": "2026-09-21T14:15:40+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC3vJ8DX6852JxHepz1kGmunH3ZXsStcK4LINkLBCrzS8ZacBhqL-7epmGuzSNGI-jpF4GtkM-FXUsrv3croTLimjG_SBbw-rpO8NBIHf6Wvr6BMmYYSDKxEPQI-nrSFYrc9vmojcKn50LRFbc1t3h8qFA8dE_pZ3kMvelRpBFVFe2ZmCVJhPCWlMxYZpO/s1600/stomp.jpg"
-    },
-    {
-      "title": "TASK#STOMP PowerShell Backdoor rouba documentos, senhas de Wi-Fi e dados da área de transferência - The Hacker News",
-      "summary": "TASK#STOMP PowerShell Backdoor rouba documentos, senhas de Wi-Fi e dados da área de transferência The Hacker News",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbWpyOVpoNlYyZU16N0xjdm9jZ1R3Q2ZGajRvdk9WaUt0dXV5LUUyNGItbU5TYU1YUDE5dGhFd3VOUmtxdXJSQlNsOXpSY00zOXFXbFd2b2piOWxrMUR2X0FBNkV0RVBhQlE2Mm1kWlJJLW5SY3NpTDFEUU5BOHA0QQ?oc=5",
-      "published": "2026-09-21T14:15:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "CJIS v6.1 do FBI: O que as equipes de segurança precisam saber.",
-      "summary": "A Política de Segurança CJIS v6.1 do FBI fortalece os requisitos em torno da criptografia e da verificação de vulnerabilidades, ao mesmo tempo que continua a mudança em direção a uma avaliação de segurança mais contínua. Specops explica o que mudou e como as a",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
-      "published": "2026-09-21T14:02:12+00:00",
       "image": ""
     }
   ]
