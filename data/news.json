@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-09-23T17:13:28.555646+00:00",
+  "updated_at": "2026-09-23T21:36:57.533817+00:00",
   "items": [
+    {
+      "title": "Novo malware bancário RemControl para Android tem como alvo usuários na Europa e no Canadá",
+      "summary": "Uma nova plataforma de malware como serviço (MaaS) para Android chamada RemControl tem como alvo os usuários por meio de campanhas de malvertising que se fazem passar pelo aplicativo TVTap IPTV. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
+      "published": "2026-09-23T21:25:13+00:00",
+      "image": ""
+    },
+    {
+      "title": "Endereços de e-mail do GitLab podem ser armados para ataques à cadeia de suprimentos",
+      "summary": "Os endereços de e-mail recebidos atribuídos automaticamente a cada usuário na plataforma contêm tokens de acesso altamente privilegiados que os invasores podem usar.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks",
+      "published": "2026-09-23T20:53:38+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt60455cbfb6e49e3c/6ab3c1c302cf7035adb7a896/email-Bussarin_Rinchumrus-Getty-2157664756.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Check Point alerta sobre hackers explorando falha RCE do Security Gateway VPN",
+      "summary": "A empresa de segurança cibernética Check Point confirmou a exploração ativa de CVE-2026-85102, uma vulnerabilidade de execução remota de código (RCE) de pré-autenticação na funcionalidade de manipulação de certificados VPN de seu produto Security Gateway. [...",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
+      "published": "2026-09-23T19:53:54+00:00",
+      "image": ""
+    },
+    {
+      "title": "IonQ visa gargalo de correção de erros quânticos com decodificador de CPU únicaIonQ diz pecado",
+      "summary": "O novo decodificador de erros quânticos de processador único da IonQ minimiza a sobrecarga de computação clássica na correção de erros quânticos. A postagem IonQ tem como alvo o gargalo de correção de erros quânticos com decodificador de CPU únicaIonQ diz que ",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/",
+      "published": "2026-09-23T19:32:49+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers começam a explorar falha crítica do WordPress para execução de código",
+      "summary": "Os atores da ameaça deixaram de investigar sites WordPress vulneráveis ​​​​ao CVE-2026-87902 e passaram a explorar a falha para gravar arquivos em disco que executam comandos shell quando acessados. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
+      "published": "2026-09-23T18:31:22+00:00",
+      "image": ""
+    },
+    {
+      "title": "Os invasores usam provedores Terraform maliciosos para entregar malware Go por meio do registro HashiCorp",
+      "summary": "Pesquisadores de segurança cibernética divulgaram malware baseado em Go distribuído por meio de dois módulos Go e dois provedores Terraform, marcando a primeira vez que os atores de ameaças estão usando o repositório centralizado hospedado pela HashiCorp como ",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
+      "published": "2026-09-23T18:06:30+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8VNxKl5_NBWXcUoDi3VxoksbOSAixGFGd8EmIaZmKRQpsGhOj6SLg8fmHktJbtvR7wofZNG1AFIzSGnVFq8OJHgq27dhqNtc0cz457ZqqQQ6INHwnExfLu3xKERaNt0GmOpxJ6WR6oxp5FZTT-q3Q5YWAnVawXYfY51GRl09ovsDkhM3U8tRUTR4ClSfj/s1600/terraform.jpg"
+    },
+    {
+      "title": "As preocupações com uma aquisição da Internet pela IA ganham nova urgência entre os cenários do Juízo Final",
+      "summary": "A ideia de que a IA poderia romper e trabalhar em prol da sua própria agenda parece cada vez mais plausível para investigadores e especialistas. A postagem Preocupações com uma aquisição da Internet pela IA ganham nova urgência entre os cenários do Juízo Final",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/",
+      "published": "2026-09-23T18:05:58+00:00",
+      "image": ""
+    },
+    {
+      "title": "Um endereço de e-mail vazado do GitLab permite que qualquer pessoa envie código e execute trabalhos de CI como você",
+      "summary": "O endereço de e-mail privado que o GitLab fornece para registrar problemas por e-mail é uma credencial. Qualquer pessoa que o receber pode enviar por e-mail um patch que o GitLab envia em seu nome, para qualquer branch para o qual você possa enviar, incluindo ",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
+      "published": "2026-09-23T16:53:10+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaHKzSxkk0R4wjlziQHsR5vS1s1mTJovZkES9XL9nn5VLYiM55XuJoiGP9cugwNUOBMEMG3NrW3iBL9cVOqfp0F-9roYS7K7R5w8t3_NJr61_2_XgRNltvjXBFoGLfQPQFhUk0ju_mMCRCqJHjr76BrbngafAtElKkD-LZWZ7uUcY82i8PAMKh0ljHJQI/s1600/gitlab-email.jpg"
+    },
     {
       "title": "Agentes maliciosos de IA roubam 600 mil cartões de crédito e infectam mais de 100 sites com skimmers",
       "summary": "Um ator de ameaças com motivação financeira está usando estruturas de agentes de IA de código aberto para atacar centenas de varejistas on-line em grande escala, roubando mais de 600.000 registros de cartões de crédito. [...]",
@@ -18,6 +90,15 @@
       "url": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
       "published": "2026-09-23T16:06:41+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjudzrtqX93WzCbZQoGI06WzKFtFpQsZaQB7GUao4yzBncGN3nxn0GzmYNybpL9SeKFttznMsVCZpQEQ_fD5kP_0nJRL4ZN6ZgHrXR2c33bpZN33gEyIkk6aBtx0k7znzalUe6epmrCO5VSCCH6beY_chvz9Pl0t5BbBtCLntTnNMwi3cFPXFd0p09FxA4/s1600/microtik.jpg"
+    },
+    {
+      "title": "Cadeia MikroTrick permite que invasores assumam o controle de roteadores MikroTik sem senha ou chave SSH - The Hacker News",
+      "summary": "Cadeia MikroTrick permite que invasores assumam o controle de roteadores MikroTik sem senha ou chave SSH The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Qa25aWnd6RXJnWEI2RFd4YXM5V1JXTTdrMGg1dEZZOVVyS0lyQnpFZFVGaDB4X2VfWjhvRS1JNmdnNms3U1hKMGhnb0xmekcwUEtBc3N5aWtQZ1pEWHQ0S3lZNGlpbGFjVGI1c3ZxMk4zR01QZkJNQWwxRG51WTg?oc=5",
+      "published": "2026-09-23T16:06:00+00:00",
+      "image": ""
     },
     {
       "title": "Emirados Árabes Unidos e Arábia Saudita enfrentam ataques cibernéticos cada vez mais complexos",
@@ -38,15 +119,6 @@
       "image": ""
     },
     {
-      "title": "Atacantes manipulam chatbots de IA em desinformação em massa e campanha de phishing – Dark Reading",
-      "summary": "Atacantes manipulam chatbots de IA em desinformação em massa, leitura obscura de campanha de phishing",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaXQtZUpLbjNtcC1HNm4xYjd0Y0pKM1BoYkpXNHFKd0R5OElyLWotMVJNcXJfQXZ5QzQ3OHZXaTFQRXVDd1RUaFJDbnRRMEZZdmlQM2FqU0lvSDJNYVAtblUtemRpREdOUTNxS3ZsclNJZmxJTGNZOXlVTG9LcFNYd1p3cnY0ak5fT2NENWxDakhQeFlRc0hMWUdCNEJDc2Z2cTFCNUp1eFZOR2tQcEwzeTdnV0NndmQwTUE?oc=5",
-      "published": "2026-09-23T14:49:49+00:00",
-      "image": ""
-    },
-    {
       "title": "Atacantes manipulam chatbots de IA em desinformação em massa e campanha de phishing",
       "summary": "Os atores da ameaça estão envenenando as respostas do ChatGPT, Gemini e Google AI Overview, semeando a Web com links e dados maliciosos e, em seguida, otimizando o conteúdo.",
       "category": "AMEAÇAS",
@@ -56,7 +128,7 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdc4ade55d77fb4ff/6ab3b76557365fe244f410ae/chatbot_khunkornStudio_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Relatório da InfraTrust alerta sistemas de gerenciamento de rede sob ataque",
+      "title": "Relatório InfraTrust alerta sistemas de gerenciamento de rede sob ataque",
       "summary": "Os atacantes têm cada vez mais como alvo os sistemas de gestão utilizados para controlar a infraestrutura empresarial, com diversas vulnerabilidades críticas exploradas ativamente antes ou pouco depois de os fornecedores as divulgarem. [...]",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
@@ -90,78 +162,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
       "published": "2026-09-23T14:01:11+00:00",
       "image": ""
-    },
-    {
-      "title": "Pacotes MemTensor comprometidos entregam sckit Credential Stealer via npm e PyPI",
-      "summary": "Atores de ameaças desconhecidos conseguiram comprometer dois pacotes MemTensor legítimos nos repositórios npm e Python Package Index (PyPI) para enviar um implante baseado em Go específico da plataforma, denominado sckit, projetado para Windows, Linux e macOS.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
-      "published": "2026-09-23T13:52:46+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFThFSFsti-2SIka75bNuMKpyJHtOW2ZPrZtcSjbjFQ64GCNn0WtdssYuWlVTbhaLB5cAJ0vu8FgyNmNsDa8g0Ijy-D1zP4FW7ihVfAjk9xWMYDMMdfZPICGyVdjeDwH3-jyKLHOUnjfaXBJIMxGn_3ngeXFsbb4CLnOibRd4fbwXHYpBkMQTcBQAf0edq/s1600/npm-pypi.jpg"
-    },
-    {
-      "title": "Os patches da Arista exploraram ativamente o VeloCloud Orchestrator de dia zero",
-      "summary": "A Arista Networks lançou patches de segurança para uma falha de dia zero que está sendo explorada ativamente e afeta as implantações locais do VeloCloud Orchestrator (VCO). [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
-      "published": "2026-09-23T12:29:53+00:00",
-      "image": ""
-    },
-    {
-      "title": "Honeywell: equipes de segurança de TO adotam IA, mas autonomia ainda é rara",
-      "summary": "Apenas 21% dos líderes de segurança industrial relatam um inventário completo de ativos de TO, mesmo quando 88% consideram os seus programas maduros. A postagem Honeywell: equipes de segurança OT adotam IA, mas a autonomia ainda é rara apareceu pela primeira v",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/honeywell-ot-security-teams-embrace-ai-but-autonomy-still-rare/",
-      "published": "2026-09-23T12:17:28+00:00",
-      "image": ""
-    },
-    {
-      "title": "545 hackers testaram primeiro. Agora o XRanges for AI avalia seu agente de segurança",
-      "summary": "Os agentes de segurança autônomos estão ficando bons em encontrar bugs. Ninguém tem uma boa maneira de medir o quão bom. Aponte um alvo realista e o que retorna é um relatório que o agente escreveu sobre si mesmo: prosa confiante, uma lista de descobertas e ne",
-      "category": "CLOUD & IA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
-      "published": "2026-09-23T11:47:19+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio2c14ELRJEhvTuDrxQmhUG4G9aGoVRrooBMMfuK7LyHPKW6HuJbI9PkKF-WG_5HlEz8NKcuj08XRmv1jNqfBtiDwXmC7e9P9lxoSHK5nUz023YCgoLQuo0BI_9hX4U9Vv97bGJejb4W0jvgv_3btkfj6BWnXwalfyI3k34wveC6n3k47ZdoGq2P0Yaw0/s1600/main.png"
-    },
-    {
-      "title": "Adobe corrige falhas críticas no Connect, AEM Forms",
-      "summary": "Os nove defeitos críticos de segurança poderiam ser explorados para execução arbitrária de códigos e escalonamento de privilégios. A postagem Adobe corrige falhas críticas no Connect, AEM Forms apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/adobe-patches-critical-flaws-in-connect-aem-forms/",
-      "published": "2026-09-23T11:40:59+00:00",
-      "image": ""
-    },
-    {
-      "title": "Plataforma de phishing alimentada por IA EvilTokens interrompida pela Microsoft",
-      "summary": "A plataforma de crime cibernético aproveitou a IA em todas as etapas da cadeia de ataque, incluindo a escrita de mensagens de engenharia social e a decisão de alvos. A postagem EvilTokens da plataforma de phishing alimentada por IA interrompida pela Microsoft ",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ai-powered-phishing-platform-eviltokens-disrupted-by-microsoft/",
-      "published": "2026-09-23T11:23:30+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft: atualizações do Windows de setembro interrompem conexões VPN Always On",
-      "summary": "A Microsoft alertou que as atualizações de segurança de setembro de 2026 também podem interromper as conexões VPN Always On em alguns sistemas Windows 11. [...]",
-      "category": "DEFESA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
-      "published": "2026-09-23T11:18:13+00:00",
-      "image": ""
-    },
-    {
-      "title": "Exploit lançado para falha não corrigida do Ubuntu Linux, permitindo escape do contêiner Host-Root",
-      "summary": "Um uso após liberação no subsistema de soquete AF_UNIX do kernel Linux pode ser usado para escapar de um contêiner e obter root no host, disse a empresa de segurança DepthFirst em pesquisa publicada em 22 de setembro. A falha, rastreada como CVE-2026-80521 (po",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
-      "published": "2026-09-23T11:12:18+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZjw_aCdQxMfwTv_-KFLK5KRCd96MoivCQPTAZcAWJal5_84FgCny9Um8csMgDDqta40CUGMPDO14hdbUo9CRk-FMJwY70MsDfV25AC8VmL-8_yDO_UWHYXbmeJ9jZANptIeHqJX9axqzxxn68AHEj8zFhYbh8coIbxWAVC9XbtG9CjxMBpQqclG14QuM/s1600/linux.gif"
     }
   ]
 }
