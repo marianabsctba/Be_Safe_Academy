@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-22T21:27:51.706131+00:00",
+  "updated_at": "2026-09-23T04:53:49.488092+00:00",
   "items": [
+    {
+      "title": "Provedores externos de MFA desonestos podem roubar senhas durante logins",
+      "summary": "Pesquisadores de segurança desenvolveram um ataque que permite que hackers com acesso privilegiado registrem um provedor externo de MFA desonesto que rouba as senhas dos usuários durante tentativas legítimas de login. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
+      "published": "2026-09-22T21:45:45+00:00",
+      "image": ""
+    },
+    {
+      "title": "Suécia multa dados ambientais em US$ 183 mil por violação que afeta 2,2 milhões",
+      "summary": "O regulador de privacidade de dados da Suécia, IMY, impôs uma multa de 183.000 dólares (1,8 milhões de coroas suecas) ao fornecedor de sistemas de TI Miljödata por medidas de segurança inadequadas que levaram a uma violação em agosto de 2025 que afetou 2,2 mil",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
+      "published": "2026-09-22T21:40:37+00:00",
+      "image": ""
+    },
     {
       "title": "Hackers chineses exploram falhas do WordPress e Zyxel para roubar dados governamentais",
       "summary": "Um ator de ameaça que fala chinês tem explorado vulnerabilidades nos switches gerenciados inteligentes ZyXEL GS1900 e no WordPress para roubar dados confidenciais de 996 dispositivos e mais de 18.500 registros armazenados em bancos de dados de back-end. [...]",
@@ -38,6 +56,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipTjrp93lIMdPVKigtkoXjbsk75AIXEvqJuXoYMQLAmvzQfqSy3V1XhBTLXY1SAWp92vTbajtnxBgHYvDr2e3EZOi9Yf8KgT8EzQOp61PjmPsI55nERsYckaL-pfmQDDzRTiCWXegVWrJ0Fu_9I8GUi5O0M0103r218S3dC67Zmr9BZ3quLBRBm9T6Xqo/s1600/cp-upload.jpg"
     },
     {
+      "title": "Check Point alerta sobre exploração de dia zero do servidor de gerenciamento em ataques direcionados - The Hacker News",
+      "summary": "Check Point alerta sobre exploração de dia zero do servidor de gerenciamento em ataques direcionados The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMU4xQi1PQnUzaEU4VjdZY3hQMG00RktrQkpDU01GNGk3My1hVy11eWJ0ekpOd2tiMVF0NDdwb2NrdGhyODItcU5PMkJxLWoyMWFxS3pOYWVTYzVVSWszVzNmbER5bnpUUkxOa2FkckJ2Y3dWRVVfUjZNb3NNNnhMazZZMA?oc=5",
+      "published": "2026-09-22T18:29:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Novo malware ClosedQuorum para Windows usa IA para decisões de ataque",
       "summary": "Um novo malware do Windows chamado ClosedQuorum usa os modelos Google Gemini, DeepSeek, Qwen e Mistral AI para determinar de forma autônoma as ações a serem tomadas durante os estágios pós-comprometimento de um ataque. [...]",
       "category": "AMEAÇAS",
@@ -56,10 +83,10 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcFso-nJC2Re_gThOMTjPhyphenhyphenaOti1Mpn2_nb6NYGitzjVHTtvHN_q4oKg_FGa4IrTt81BAuA4qWzeJJZkxdV7F0-iSBR3ZwSUmqfBhvBX2ArxLTZqYjbtCPhu2Gw7PLSmOS5kOGQ9f0I46xPwhp5VCflFSN8YEm-z8VXdk1XRJwCvbqbljSZqorD4MpbQc/s1600/wp-update.jpg"
     },
     {
-      "title": "WordPress emite patch para falha crítica que pode permitir a execução de código em alguns servidores - thehackernews.com",
-      "summary": "WordPress emite patch para falha crítica que pode permitir a execução de código em alguns servidores thehackernews.com",
+      "title": "WordPress emite patch para falha crítica que pode permitir a execução de código em alguns servidores – The Hacker News",
+      "summary": "WordPress emite patch para falha crítica que pode permitir a execução de código em alguns servidores The Hacker News",
       "category": "VULNERABILIDADES",
-      "source": "thehackernews.com",
+      "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxOGJITVYxa00yUV9iYzZLOVh4cEZ5bkZyblJ1U3JTRWxTekR0ZkVOWno3cG1semlra1VoYWl6c0pOUjZmbWdxckpEWGd0bnNMUWJzTzNUZlNjNTFWUWg2R29nRUtoZ3FDRUpsNTlMWnJuOEtPems2SDdvbUQtSmM?oc=5",
       "published": "2026-09-22T18:03:00+00:00",
       "image": ""
@@ -110,10 +137,10 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyLwFD0zZ8OEPo1dkZ0Tz87aOYoCklNQODjV4MMj90RNo6hRh9rGuJmFQBx5igj0gT1CabBEkSERWh7w_VdfZWpfs6BaJmEMc0KN9nIJXtxpYUINf1alSW9K2whcD9MXF4CaCWAKLJRJQlI51aqGtdpbpbdiX7WjpjTUxDvNgb0gc4qtmuZLat8-lGSFhu/s1600/ms-eviltokens.jpg"
     },
     {
-      "title": "Microsoft retira serviço de phishing de código de dispositivo EvilTokens vinculado a 12.000 comprometimentos de caixa de entrada - thehackernews.com",
-      "summary": "Microsoft derruba serviço de phishing de código de dispositivo EvilTokens vinculado a 12.000 comprometimentos de caixas de entrada thehackernews.com",
+      "title": "Microsoft derruba serviço de phishing de código de dispositivo EvilTokens vinculado a 12.000 comprometimentos de caixa de entrada - The Hacker News",
+      "summary": "Microsoft derruba serviço de phishing de código de dispositivo EvilTokens vinculado a 12.000 comprometimentos de caixas de entrada The Hacker News",
       "category": "AMEAÇAS",
-      "source": "thehackernews.com",
+      "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVXE4QTYyeEJ6ZjlYdlZUcHdrTEhVbjdQTWVfb0tINFBxWjBHRjBaM1hJMGh2dElBTS1HbzB2YlZXclNVaThPRlpMa0hHWGNMQ3pFVWJuMDhpc3dQUDBHM1RYWXVfR1lBXzV6RlpmNEg2eHF2a3B3eXlZTzRxb1d4WkpCYw?oc=5",
       "published": "2026-09-22T17:03:00+00:00",
       "image": ""
@@ -134,33 +161,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
       "published": "2026-09-22T16:32:47+00:00",
-      "image": ""
-    },
-    {
-      "title": "Pesquisador descarta BigDiskBuster Zero-Day PoC que bloqueia atualizações do Microsoft Defender",
-      "summary": "Uma ferramenta de prova de conceito de dia zero que impede o Microsoft Defender de instalar atualizações de plataforma e assinatura, preenchendo todo o espaço disponível em disco, foi publicada no GitHub em 19 de setembro. A ferramenta, chamada BigDiskBuster, ",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
-      "published": "2026-09-22T16:14:04+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf-fkqiHh6b0UEKMHUcsG54QVwJxghIbQLMNWeEG5LWKfUsicLMxisz4Mi8lXdfTdwVYDFpIrCFj5D7-JXXynq8lWhnNn1rJH2t8mgKUeZ4WMePwZktZRnIe2549JW3VXc2HYD9qpsvO8He0J0zCyAzsaRxWtiP46RSrd7jt4QnzKACJhfWnkmyWcFcQs/s1600/ms-def.jpg"
-    },
-    {
-      "title": "Pesquisador descarta BigDiskBuster Zero-Day PoC que bloqueia atualizações do Microsoft Defender - thehackernews.com",
-      "summary": "Pesquisador descarta BigDiskBuster Zero-Day PoC que bloqueia atualizações do Microsoft Defender thehackernews.com",
-      "category": "VULNERABILIDADES",
-      "source": "thehackernews.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVWlFQXduamR2UldWYjY4YUtKYTkxMi1RbjcxNnFPVlp0Y3JCaXBqRHNlV25NWEVUQ3k3SnZHc0ZwdzNSanJzSVhubW9sRk5TLTZ5NGtldUhSblIzNEhJVkpTUXJWWVJFYlE4eFZoT2tsbXVPUGV2elpJck9YOFo0Tno3QXQ?oc=5",
-      "published": "2026-09-22T16:14:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Desmascarando EvilTokens: Chegando à raiz do phishing de código de dispositivo",
-      "summary": "EvilTokens rapidamente se tornou uma das principais plataformas PhaaS, permitindo ataques de phishing de código de dispositivo por meio de iscas assistidas por IA, infraestrutura automatizada e roubo de tokens. Em colaboração com parceiros, a Unidade de Crimes",
-      "category": "AMEAÇAS",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/",
-      "published": "2026-09-22T15:00:00+00:00",
       "image": ""
     }
   ]
