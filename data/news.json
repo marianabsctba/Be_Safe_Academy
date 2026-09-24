@@ -1,6 +1,141 @@
 {
-  "updated_at": "2026-09-24T05:03:23.944374+00:00",
+  "updated_at": "2026-09-24T11:57:47.359208+00:00",
   "items": [
+    {
+      "title": "Island levanta US$ 400 milhões com avaliação de US$ 6,4 bilhões",
+      "summary": "A empresa de segurança empresarial arrecadou mais de US$ 1 bilhão desde seu lançamento em 2020; Evolution Equity Partners liderou a última rodada de financiamento. A postagem Island levanta US$ 400 milhões com avaliação de US$ 6,4 bilhões apareceu pela primeir",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/island-raises-400-million-at-6-4-billion-valuation/",
+      "published": "2026-09-24T11:39:09+00:00",
+      "image": ""
+    },
+    {
+      "title": "Orientação de segurança OT: Guia atualizado de rascunhos do NIST, aconselhamento CISA/FBI sobre integradores ICS",
+      "summary": "A revisão 4 do guia de segurança de tecnologia operacional do NIST está aberta para comentários públicos até 30 de novembro. A publicação OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators apareceu pela primeira vez na Security",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/",
+      "published": "2026-09-24T11:05:16+00:00",
+      "image": ""
+    },
+    {
+      "title": "Comece pelo fim: como ativar a remediação agente",
+      "summary": "A remediação agentegênica não é um ato de fé. Estamos falando de resolver problemas conhecidos, e não de julgamentos sobre riscos desconhecidos. A postagem Comece pelo fim: como ativar a remediação de agente apareceu pela primeira vez na SecurityWeek.",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/",
+      "published": "2026-09-24T11:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "CISA: Gangues de ransomware agora exploram falha crítica do TeamCity",
+      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) alertou as agências federais na quarta-feira que gangues de ransomware agora também estão explorando uma vulnerabilidade crítica do JetBrains TeamCity corrigida em julho. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
+      "published": "2026-09-24T10:42:37+00:00",
+      "image": ""
+    },
+    {
+      "title": "SolarWinds corrige falhas críticas de RCE na observabilidade auto-hospedada",
+      "summary": "As vulnerabilidades, rastreadas como CVE-2026-28324 e CVE-2026-28325, podem ser exploradas sem autenticação. A postagem SolarWinds corrige falhas críticas de RCE na capacidade de observação auto-hospedada apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/",
+      "published": "2026-09-24T10:40:40+00:00",
+      "image": ""
+    },
+    {
+      "title": "A violação de dados da Astrana Health afeta informações privadas e confidenciais",
+      "summary": "Os hackers se passaram por funcionários da empresa e contataram seus funcionários para obter acesso aos servidores da Astrana Health. A postagem A violação de dados da Astrana Health afeta informações privadas e confidenciais apareceu pela primeira vez na Secu",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/",
+      "published": "2026-09-24T09:56:04+00:00",
+      "image": ""
+    },
+    {
+      "title": "OpenAI invadiu site governamental australiano do Medicare e investigou provedores de dados",
+      "summary": "Os agentes da OpenAI visaram fornecedores de dados públicos em vários países, investigando algumas vulnerabilidades e explorando uma falha de segurança num portal do governo australiano enquanto executavam tarefas de recuperação de informações como parte de um",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
+      "published": "2026-09-24T09:38:53+00:00",
+      "image": ""
+    },
+    {
+      "title": "17.000 URLs revelam como ClickFix transforma sites confiáveis ​​em armadilhas de malware: relatório do CTM360",
+      "summary": "ClickFix se tornou a maneira mais comum de os invasores entrarem em redes corporativas, e fazem isso sem exploração, anexo ou arquivo em disco. Nosso novo relatório de ameaças globais rastreia a técnica desde uma novidade no final de 2023 até um produto de ass",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
+      "published": "2026-09-24T09:14:21+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOah63YM6pjk2RAIcCXy-NSbO_uPPCSp4DsR-9-jeGLCRZCd9E1QSd0_b4c6xc5wFp_ncqCH3LPtBR_C1auF3Fid-DNSCtQh9eEArgNe0syhvA4I9EdDU454uAqieiAGyyI-dXW5AsA5X4zsbhTpHKjXfIbgM35i4MOC7Jcbk5SiILRU9_BgcV2H-_BxI/s1600/ctm360.jpg"
+    },
+    {
+      "title": "Tribunal dos EUA condena homem armênio à prisão por ataques de ransomware Ryuk",
+      "summary": "Karen Vardanyan também foi condenada a pagar mais de US$ 1,2 milhão em restituição às vítimas. A postagem Tribunal dos EUA condena homem armênio à prisão por ataques de ransomware Ryuk apareceu pela primeira vez em SecurityWeek.",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/",
+      "published": "2026-09-24T08:38:29+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft corrige bug que interrompeu o recurso de backup do histórico de arquivos do Windows",
+      "summary": "A Microsoft corrigiu um problema conhecido que interrompe o recurso integrado de backup do histórico de arquivos em alguns sistemas Windows após instalar as atualizações de segurança de setembro de 2026. [...]",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
+      "published": "2026-09-24T08:14:47+00:00",
+      "image": ""
+    },
+    {
+      "title": "Vulnerabilidade crítica do WordPress explorada imediatamente após divulgação",
+      "summary": "Rastreada como CVE-2026-87902, a falha de passagem de caminho permite que invasores remotos e não autenticados executem código arbitrário. A postagem Vulnerabilidade crítica do WordPress explorada imediatamente após a divulgação apareceu pela primeira vez na S",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/",
+      "published": "2026-09-24T07:12:26+00:00",
+      "image": ""
+    },
+    {
+      "title": "Campanha TeamFiltration compromete sete contas do Microsoft 365 usando senhas padrão",
+      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma campanha ativa do TeamFiltration com o codinome UNK_CondorFiltration que atingiu mais de 5.700 contas em 28 locatários do Microsoft 365. De acordo com a Proofpoint, a atividade concentrou-se pri",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
+      "published": "2026-09-24T06:32:03+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQgKN3zS7GtEpakDcL7zk0tL-zcz3GJMkVf9vMLCVXf33XZ1Yad77dg3Zen_EEB58BltCG_pj0c-yVDm6VbV9cw5Baxtf26vVtRwW4qwDDy1s8HYMFKfTyl382lwJIRfSWBSA-WK6RAZ8lmy9zf5IZb_Ilqol0AcVdEaMp599tZ4NxqUc-KY4-fyFNYYFg/s1600/ms-365.jpg"
+    },
+    {
+      "title": "Campanha TeamFiltration compromete sete contas do Microsoft 365 usando senhas padrão – The Hacker News",
+      "summary": "Campanha TeamFiltration compromete sete contas do Microsoft 365 usando senhas padrão The Hacker News",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zVk5JbzkxTUVPVXBuMERlTEIyU1hJNkYxa1RvMDg1MDZ1bDMzbXh6ZDhpZmdRcTBSWXFPUEM3VWJ6cVRfWDBiZC1OdVR1U2tyaFdlUkR5OWNrMEF1M3ZwVTNDOWhfWmUyNFdZN2M1LTF5WEhvWEQ0X0x1dw?oc=5",
+      "published": "2026-09-24T06:32:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Atacantes exploram WordPress CVE-2026-87902 poucas horas após divulgação",
+      "summary": "Os atores da ameaça começaram a explorar ativamente uma falha crítica de segurança no WordPress poucas horas após a divulgação pública. A vulnerabilidade em questão é CVE-2026-87902 (pontuação CVSS: 9.2), que pode permitir que um invasor não autenticado obtenh",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
+      "published": "2026-09-24T05:36:18+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizoRcyQE1N3fGUKa2FY_q_T7EG_CyjTpMGGk1oFUF-XpBZa0zCA6V2yEuv3_Z1OrEjMmhbHdaVmo6NMrwb98U9VFGXDpRcItboVuZH7qc9QgPd5ZLDudfJPWoaSDbtkoXJeLTZw-6JDbq5F6YEp4AkeoJd10Nb_H9tuU0fYdgqkLrP6BTpAPOYwO6WdmkN/s1600/wordpress-exploits.jpg"
+    },
+    {
+      "title": "Atacantes exploram WordPress CVE-2026-87902 poucas horas após divulgação - The Hacker News",
+      "summary": "Atacantes exploram WordPress CVE-2026-87902 poucas horas após a divulgação The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWlZqdDJMbGltTkJQNU9KZFgwRDdEa0sxZGZDNmdDdWduYk56bXJLcVJPRV9GRnVTOGNldHlaWHRYSFBDaTUtcDhQSWd2UmtwOTFUdjkzdDdxTVMzRFB0T3p3dW43Unh1UFJrWThaa0dlTXBJM2ZnZm1UemZIUDNOUA?oc=5",
+      "published": "2026-09-24T05:36:00+00:00",
+      "image": ""
+    },
     {
       "title": "Domínio de espaço reservado usado em documentos de desenvolvimento agora serve ataques ClickFix",
       "summary": "O domínio “third-party.com”, comumente usado como espaço reservado na documentação do desenvolvedor e exemplos de código, está servindo uma página falsa de verificação da Cloudflare que tenta enganar os usuários do Windows para que executem comandos do PowerSh",
@@ -27,141 +162,6 @@
       "url": "https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks",
       "published": "2026-09-23T20:53:38+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt60455cbfb6e49e3c/6ab3c1c302cf7035adb7a896/email-Bussarin_Rinchumrus-Getty-2157664756.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Check Point alerta sobre hackers explorando falha RCE do Security Gateway VPN",
-      "summary": "A empresa de segurança cibernética Check Point confirmou a exploração ativa de CVE-2026-85102, uma vulnerabilidade de execução remota de código (RCE) de pré-autenticação na funcionalidade de manipulação de certificados VPN de seu produto Security Gateway. [...",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
-      "published": "2026-09-23T19:53:54+00:00",
-      "image": ""
-    },
-    {
-      "title": "IonQ visa gargalo de correção de erros quânticos com decodificador de CPU única",
-      "summary": "O novo decodificador de erros quânticos de processador único da IonQ minimiza a sobrecarga de computação clássica na correção de erros quânticos. A postagem IonQ visa gargalo de correção de erros quânticos com decodificador de CPU única apareceu pela primeira ",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/",
-      "published": "2026-09-23T19:32:49+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers começam a explorar falha crítica do WordPress para execução de código",
-      "summary": "Os atores da ameaça deixaram de investigar sites WordPress vulneráveis ​​​​ao CVE-2026-87902 e passaram a explorar a falha para gravar arquivos em disco que executam comandos shell quando acessados. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
-      "published": "2026-09-23T18:31:22+00:00",
-      "image": ""
-    },
-    {
-      "title": "Os invasores usam provedores Terraform maliciosos para entregar malware Go por meio do registro HashiCorp",
-      "summary": "Pesquisadores de segurança cibernética divulgaram malware baseado em Go distribuído por meio de dois módulos Go e dois provedores Terraform, marcando a primeira vez que os atores de ameaças estão usando o repositório centralizado hospedado pela HashiCorp como ",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
-      "published": "2026-09-23T18:06:30+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8VNxKl5_NBWXcUoDi3VxoksbOSAixGFGd8EmIaZmKRQpsGhOj6SLg8fmHktJbtvR7wofZNG1AFIzSGnVFq8OJHgq27dhqNtc0cz457ZqqQQ6INHwnExfLu3xKERaNt0GmOpxJ6WR6oxp5FZTT-q3Q5YWAnVawXYfY51GRl09ovsDkhM3U8tRUTR4ClSfj/s1600/terraform.jpg"
-    },
-    {
-      "title": "Os invasores usam provedores Terraform maliciosos para entregar malware Go por meio do registro HashiCorp - The Hacker News",
-      "summary": "Atacantes usam provedores Terraform maliciosos para entregar malware Go por meio do registro HashiCorp The Hacker News",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DbGRTX3VwYjM3QVdicWt6ZVp1UVNlYlNhTjVhVUZRYjBXb2ZfeklBeE1Bckt4WkVxb3JvWVoxOGVKVVUwUGtTQll2SkY3bWduaW1lM3RHemc1ZkpLSU9MV05Vdl9ZeDNDSnZ4LWlFdzI4NlFXbjlwNk95Qk4?oc=5",
-      "published": "2026-09-23T18:06:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "As preocupações com uma aquisição da Internet pela IA ganham nova urgência entre os cenários do Juízo Final",
-      "summary": "A ideia de que a IA poderia romper e trabalhar em prol da sua própria agenda parece cada vez mais plausível para investigadores e especialistas. A postagem Preocupações com uma aquisição da Internet pela IA ganham nova urgência entre os cenários do Juízo Final",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/",
-      "published": "2026-09-23T18:05:58+00:00",
-      "image": ""
-    },
-    {
-      "title": "Um endereço de e-mail vazado do GitLab permite que qualquer pessoa envie código e execute trabalhos de CI como você",
-      "summary": "O endereço de e-mail privado que o GitLab fornece para registrar problemas por e-mail é uma credencial. Qualquer pessoa que o receber pode enviar por e-mail um patch que o GitLab envia em seu nome, para qualquer branch para o qual você possa enviar, incluindo ",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
-      "published": "2026-09-23T16:53:10+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaHKzSxkk0R4wjlziQHsR5vS1s1mTJovZkES9XL9nn5VLYiM55XuJoiGP9cugwNUOBMEMG3NrW3iBL9cVOqfp0F-9roYS7K7R5w8t3_NJr61_2_XgRNltvjXBFoGLfQPQFhUk0ju_mMCRCqJHjr76BrbngafAtElKkD-LZWZ7uUcY82i8PAMKh0ljHJQI/s1600/gitlab-email.jpg"
-    },
-    {
-      "title": "Agentes maliciosos de IA roubam 600 mil cartões de crédito e infectam mais de 100 sites com skimmers",
-      "summary": "Um ator de ameaças com motivação financeira está usando estruturas de agentes de IA de código aberto para atacar centenas de varejistas on-line em grande escala, roubando mais de 600.000 registros de cartões de crédito. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
-      "published": "2026-09-23T16:20:54+00:00",
-      "image": ""
-    },
-    {
-      "title": "Cadeia MikroTrick permite que invasores assumam o controle de roteadores MikroTik sem senha ou chave SSH",
-      "summary": "Duas vulnerabilidades SSH do MikroTik RouterOS encadeadas permitem que os invasores assumam o controle administrativo total dos roteadores expostos à Internet sem uma senha, chave SSH ou autenticação completa. A cadeia, que a CERT Polska chama de MikroTrick, c",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
-      "published": "2026-09-23T16:06:41+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjudzrtqX93WzCbZQoGI06WzKFtFpQsZaQB7GUao4yzBncGN3nxn0GzmYNybpL9SeKFttznMsVCZpQEQ_fD5kP_0nJRL4ZN6ZgHrXR2c33bpZN33gEyIkk6aBtx0k7znzalUe6epmrCO5VSCCH6beY_chvz9Pl0t5BbBtCLntTnNMwi3cFPXFd0p09FxA4/s1600/microtik.jpg"
-    },
-    {
-      "title": "Cadeia MikroTrick permite que invasores assumam o controle de roteadores MikroTik sem senha ou chave SSH - The Hacker News",
-      "summary": "Cadeia MikroTrick permite que invasores assumam o controle de roteadores MikroTik sem senha ou chave SSH The Hacker News",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Qa25aWnd6RXJnWEI2RFd4YXM5V1JXTTdrMGg1dEZZOVVyS0lyQnpFZFVGaDB4X2VfWjhvRS1JNmdnNms3U1hKMGhnb0xmekcwUEtBc3N5aWtQZ1pEWHQ0S3lZNGlpbGFjVGI1c3ZxMk4zR01QZkJNQWwxRG51WTg?oc=5",
-      "published": "2026-09-23T16:06:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Emirados Árabes Unidos e Arábia Saudita enfrentam ataques cibernéticos cada vez mais complexos",
-      "summary": "Os Emirados Árabes Unidos e o Reino da Arábia Saudita absorveram juntos 50% de todos os ataques cibernéticos registados na região do Golfo no primeiro semestre de 2026.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks",
-      "published": "2026-09-23T16:01:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt39d212f369d2f318/6ab3d536eb663180d5ee85fb/middleeast-200mm-Getty-168644028.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Reimaginando o SOC para a era agente no Microsoft Defender",
-      "summary": "Estamos anunciando o ISOC no Microsoft Defender: uma base construída para segurança de agente que reúne soluções líderes para SIEM e proteção contra ameaças. A postagem Reimaginando o SOC para a era agente no Microsoft Defender apareceu pela primeira vez no Bl",
-      "category": "AMEAÇAS",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/23/reimagining-the-soc-for-the-agentic-era-in-microsoft-defender/",
-      "published": "2026-09-23T16:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Atacantes manipulam chatbots de IA em desinformação em massa e campanha de phishing",
-      "summary": "Os atores da ameaça estão envenenando as respostas do ChatGPT, Gemini e Google AI Overview, semeando a Web com links e dados maliciosos e, em seguida, otimizando o conteúdo.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign",
-      "published": "2026-09-23T14:47:09+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdc4ade55d77fb4ff/6ab3b76557365fe244f410ae/chatbot_khunkornStudio_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Relatório InfraTrust alerta sistemas de gerenciamento de rede sob ataque",
-      "summary": "Os atacantes têm cada vez mais como alvo os sistemas de gestão utilizados para controlar a infraestrutura empresarial, com diversas vulnerabilidades críticas exploradas ativamente antes ou pouco depois de os fornecedores as divulgarem. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
-      "published": "2026-09-23T14:35:26+00:00",
-      "image": ""
-    },
-    {
-      "title": "Este malware do Windows foi criado para permitir que até quatro modelos de IA votem em seu próximo passo",
-      "summary": "Um malware para Windows chamado CLOSEDQUORUM foi desenvolvido para receber ordens de votação de até quatro modelos de IA em vez do servidor de um invasor, disse Cisco Talos em 22 de setembro. Os modelos podem optar por roubar credenciais do Windows, senhas de ",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
-      "published": "2026-09-23T14:17:58+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZdSpi6aqUlY2q-T-3eJ4YCn7G3jYa9Exo6BMffjdRLuqg9Gdn4ImZXKjcYX8s5Swz3W_WhxMZ_Z7qbu0Z60KrCk8EUhRV8bJ7l1mXOoDCo-XAXyq69_rtFDoVhvAiuJP1rCdSf9KixTqgAA52iwqWsqB5T0uJaRGFz1hpBcpfQuvPMYd17UcrfrnUV0c/s1600/closed.jpg"
     }
   ]
 }
