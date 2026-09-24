@@ -1,6 +1,123 @@
 {
-  "updated_at": "2026-09-24T11:57:47.359208+00:00",
+  "updated_at": "2026-09-24T17:20:12.628626+00:00",
   "items": [
+    {
+      "title": "Além do ransomware: Rastreando o trabalho consistente do Storm-2570 em todas as implantações",
+      "summary": "Storm-2570 é uma afiliada de ransomware que usa ferramentas e técnicas pós-comprometimento consistentes em implantações envolvendo ransomware Qilin, DragonForce, Anubis e BERT e fornece orientação para ajudar os defensores a detectar e interromper essa ativida",
+      "category": "AMEAÇAS",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments/",
+      "published": "2026-09-24T16:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "​​​​​​​​O que há de novo na segurança da Microsoft: setembro de 2026​​",
+      "summary": "As atualizações deste mês ajudam você a descobrir e controlar agentes locais de IA, estender o Zero Trust ao tráfego de agentes e fortalecer as bases do SOC. A postagem​​​​​​O que há de novo na segurança da Microsoft: setembro de 2026​​ apareceu pela primeira ",
+      "category": "CLOUD & IA",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/24/whats-new-in-microsoft-security-september-2026/",
+      "published": "2026-09-24T16:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Kontext Security surge com US$ 4 milhões para controles de tempo de execução de agentes de IA",
+      "summary": "A plataforma de aplicação do tempo de execução da startup avalia os agentes de IA em tempo real para fornecer visibilidade e controle sobre suas ações. A postagem Kontext Security surge com US$ 4 milhões para controles de tempo de execução de agentes de IA apa",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/",
+      "published": "2026-09-24T15:52:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Placeholder third-party[.]com referenciado em mais de 1.700 repositórios agora veicula conteúdo malicioso",
+      "summary": "O domínio \"third-party[.]com\", comumente usado como espaço reservado para documentação, foi observado servindo como uma isca ClickFix para navegadores Windows, ao mesmo tempo em que exibe uma isca inofensiva para outros usuários. “third-party[.]com tem sido um",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
+      "published": "2026-09-24T15:27:32+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy4aXDWSC5cKzOZO8lRbk8o5I1fHPlCGbfxxYL6tyJxauEL-8EVj7-AypDhYt_Wg6bDLqlj0UK4LrGJdeI4ChsksaB6tTZxo8ikCLdwC0wjRfJPE_Z1qM_CVUg7s1ORdmWW2XTDtlPPDcI8JvelrbmJhcjVthnqYWQrZ7ySnIMMPRZfa_VzgaBCWyWc_JJ/s1600/third.jpg"
+    },
+    {
+      "title": "3 ameaças cibernéticas que definiram o verão de 2026",
+      "summary": "Esta parte da série de vídeos Reporters' Notebook discute o impacto da violação do Hugging Face por agentes de IA, do ataque de ransomware da Fairlife e de atores de ameaças ligados ao Irã que comprometeram uma dúzia de sistemas de água dos EUA. Foi um verão a",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
+      "published": "2026-09-24T14:44:12+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcaceb4dbae83cc73/6ab2a824f707d014a4ded803/GettyImages-2212090355.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Agentes OpenAI investigaram sites em busca de vulnerabilidades enquanto buscavam dados públicos",
+      "summary": "A Austrália divulgou que um agente da OpenAI obteve acesso não autorizado a informações governamentais não públicas. A postagem Agentes OpenAI investigaram vulnerabilidades em sites durante a busca de dados públicos apareceu pela primeira vez na SecurityWeek.",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/",
+      "published": "2026-09-24T14:43:13+00:00",
+      "image": ""
+    },
+    {
+      "title": "Como construir uma estrutura SASE para segurança cibernética moderna",
+      "summary": "Manter a computação de ponta segura exige que as organizações repensem fundamentalmente a governança da segurança. Aqui está um caminho a seguir: um guia passo a passo para construir uma estrutura SASE.",
+      "category": "DEFESA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cloud-security/how-to-build-sase-framework",
+      "published": "2026-09-24T14:02:43+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb78cadaedd123808/6728c89f936b643041fefd4a/framework-jozef_sedmak-Alamy-resized.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "FedRAMP VDR e VER: verificações diárias são apenas o começo",
+      "summary": "Os novos requisitos de VDR e VER do FedRAMP tornam o gerenciamento de vulnerabilidades mais contínuo, com verificação mais rápida, prazos de correção mais curtos e requisitos de evidências mais rigorosos. Anecdotes explica por que o prazo de 7 de dezembro é ap",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
+      "published": "2026-09-24T14:02:12+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers agora exploram falha crítica do Roundcube em ataques de injeção de código",
+      "summary": "Uma vulnerabilidade de alta gravidade do Roundcube Webmail corrigida em maio está agora sendo ativamente explorada em ataques, de acordo com o Centro Canadense de Segurança Cibernética. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
+      "published": "2026-09-24T13:27:57+00:00",
+      "image": ""
+    },
+    {
+      "title": "Bug de injeção imediata atinge aplicativo Agentic AI de US$ 4 bilhões ‘Manus’",
+      "summary": "Os aplicativos de IA que interpretam dados externos (leia-se: a maioria dos aplicativos de IA) precisam de filtros de segurança excepcionalmente rigorosos, ou os invasores podem tirar vantagem.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/prompt-injection-bug-agentic-ai-app-manus",
+      "published": "2026-09-24T13:00:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6cc4d4a12e6b7c68/6ab0590fdb2c1e1226ff0b0f/Hand_snap-Viktar_Sarkisian-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Campanha baseada em IA tem como alvo centenas de varejistas on-line",
+      "summary": "Um ator de ameaça está usando três recursos de IA para pesquisa de vulnerabilidades, exploração e orquestração de ataques. A postagem Campanha baseada em IA tem como alvo centenas de varejistas on-line apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ai-powered-campaign-targets-hundreds-of-online-retailers/",
+      "published": "2026-09-24T12:48:14+00:00",
+      "image": ""
+    },
+    {
+      "title": "Atualização KB5124010 do Windows 11 lançada com 46 alterações e correções",
+      "summary": "A Microsoft lançou a atualização de visualização não relacionada à segurança KB5124010 de setembro de 2026 para Windows 11 24H2 e 25H2, com 46 alterações, incluindo melhorias no Bluetooth e a capacidade de remapear a chave Copilot. [...]",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/",
+      "published": "2026-09-24T12:16:32+00:00",
+      "image": ""
+    },
+    {
+      "title": "Corp MDM Spyware tem como alvo empresas de logística, rouba novos SMS e redireciona chamadas",
+      "summary": "O setor de logística tornou-se alvo de uma nova campanha cibernética maliciosa que distribui um spyware Android com o codinome Corp MDM. De acordo com Have I Been Squatted, a campanha usa páginas falsas do Google Play com as marcas CEVA e TKW Logistics para di",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html",
+      "published": "2026-09-24T12:05:27+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhitRqKj3-JlcQ69xxlsxJs80aq7MNxgAc_VrV-TCrHGTVEwdWKIdvAiwB4szXMT3cRKpkzCRVObZxAO47CLl3JWLRerxVSITKy9xorsP-XY212M07JzDkZ7VXOA-r0maycB0jMv0r5Kl3q0VgrxpoeYfHJ_gkeXbzXLKz_3gAhDGy1ML06lfta_5w8u_Xo/s1600/1000110893.jpg"
+    },
     {
       "title": "Island levanta US$ 400 milhões com avaliação de US$ 6,4 bilhões",
       "summary": "A empresa de segurança empresarial arrecadou mais de US$ 1 bilhão desde seu lançamento em 2020; Evolution Equity Partners liderou a última rodada de financiamento. A postagem Island levanta US$ 400 milhões com avaliação de US$ 6,4 bilhões apareceu pela primeir",
@@ -21,7 +138,7 @@
     },
     {
       "title": "Comece pelo fim: como ativar a remediação agente",
-      "summary": "A remediação agentegênica não é um ato de fé. Estamos falando de resolver problemas conhecidos, e não de julgamentos sobre riscos desconhecidos. A postagem Comece pelo fim: como ativar a remediação de agente apareceu pela primeira vez na SecurityWeek.",
+      "summary": "A remediação agentegênica não é um ato de fé. Estamos falando de resolver problemas conhecidos, e não de julgamentos sobre riscos desconhecidos. A postagem Comece pelo fim: como habilitar a remediação de agente apareceu pela primeira vez na SecurityWeek.",
       "category": "DEFESA",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/",
@@ -45,123 +162,6 @@
       "url": "https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/",
       "published": "2026-09-24T10:40:40+00:00",
       "image": ""
-    },
-    {
-      "title": "A violação de dados da Astrana Health afeta informações privadas e confidenciais",
-      "summary": "Os hackers se passaram por funcionários da empresa e contataram seus funcionários para obter acesso aos servidores da Astrana Health. A postagem A violação de dados da Astrana Health afeta informações privadas e confidenciais apareceu pela primeira vez na Secu",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/",
-      "published": "2026-09-24T09:56:04+00:00",
-      "image": ""
-    },
-    {
-      "title": "OpenAI invadiu site governamental australiano do Medicare e investigou provedores de dados",
-      "summary": "Os agentes da OpenAI visaram fornecedores de dados públicos em vários países, investigando algumas vulnerabilidades e explorando uma falha de segurança num portal do governo australiano enquanto executavam tarefas de recuperação de informações como parte de um",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
-      "published": "2026-09-24T09:38:53+00:00",
-      "image": ""
-    },
-    {
-      "title": "17.000 URLs revelam como ClickFix transforma sites confiáveis ​​em armadilhas de malware: relatório do CTM360",
-      "summary": "ClickFix se tornou a maneira mais comum de os invasores entrarem em redes corporativas, e fazem isso sem exploração, anexo ou arquivo em disco. Nosso novo relatório de ameaças globais rastreia a técnica desde uma novidade no final de 2023 até um produto de ass",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
-      "published": "2026-09-24T09:14:21+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOah63YM6pjk2RAIcCXy-NSbO_uPPCSp4DsR-9-jeGLCRZCd9E1QSd0_b4c6xc5wFp_ncqCH3LPtBR_C1auF3Fid-DNSCtQh9eEArgNe0syhvA4I9EdDU454uAqieiAGyyI-dXW5AsA5X4zsbhTpHKjXfIbgM35i4MOC7Jcbk5SiILRU9_BgcV2H-_BxI/s1600/ctm360.jpg"
-    },
-    {
-      "title": "Tribunal dos EUA condena homem armênio à prisão por ataques de ransomware Ryuk",
-      "summary": "Karen Vardanyan também foi condenada a pagar mais de US$ 1,2 milhão em restituição às vítimas. A postagem Tribunal dos EUA condena homem armênio à prisão por ataques de ransomware Ryuk apareceu pela primeira vez em SecurityWeek.",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/",
-      "published": "2026-09-24T08:38:29+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft corrige bug que interrompeu o recurso de backup do histórico de arquivos do Windows",
-      "summary": "A Microsoft corrigiu um problema conhecido que interrompe o recurso integrado de backup do histórico de arquivos em alguns sistemas Windows após instalar as atualizações de segurança de setembro de 2026. [...]",
-      "category": "DEFESA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
-      "published": "2026-09-24T08:14:47+00:00",
-      "image": ""
-    },
-    {
-      "title": "Vulnerabilidade crítica do WordPress explorada imediatamente após divulgação",
-      "summary": "Rastreada como CVE-2026-87902, a falha de passagem de caminho permite que invasores remotos e não autenticados executem código arbitrário. A postagem Vulnerabilidade crítica do WordPress explorada imediatamente após a divulgação apareceu pela primeira vez na S",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/",
-      "published": "2026-09-24T07:12:26+00:00",
-      "image": ""
-    },
-    {
-      "title": "Campanha TeamFiltration compromete sete contas do Microsoft 365 usando senhas padrão",
-      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma campanha ativa do TeamFiltration com o codinome UNK_CondorFiltration que atingiu mais de 5.700 contas em 28 locatários do Microsoft 365. De acordo com a Proofpoint, a atividade concentrou-se pri",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
-      "published": "2026-09-24T06:32:03+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQgKN3zS7GtEpakDcL7zk0tL-zcz3GJMkVf9vMLCVXf33XZ1Yad77dg3Zen_EEB58BltCG_pj0c-yVDm6VbV9cw5Baxtf26vVtRwW4qwDDy1s8HYMFKfTyl382lwJIRfSWBSA-WK6RAZ8lmy9zf5IZb_Ilqol0AcVdEaMp599tZ4NxqUc-KY4-fyFNYYFg/s1600/ms-365.jpg"
-    },
-    {
-      "title": "Campanha TeamFiltration compromete sete contas do Microsoft 365 usando senhas padrão – The Hacker News",
-      "summary": "Campanha TeamFiltration compromete sete contas do Microsoft 365 usando senhas padrão The Hacker News",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1zVk5JbzkxTUVPVXBuMERlTEIyU1hJNkYxa1RvMDg1MDZ1bDMzbXh6ZDhpZmdRcTBSWXFPUEM3VWJ6cVRfWDBiZC1OdVR1U2tyaFdlUkR5OWNrMEF1M3ZwVTNDOWhfWmUyNFdZN2M1LTF5WEhvWEQ0X0x1dw?oc=5",
-      "published": "2026-09-24T06:32:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Atacantes exploram WordPress CVE-2026-87902 poucas horas após divulgação",
-      "summary": "Os atores da ameaça começaram a explorar ativamente uma falha crítica de segurança no WordPress poucas horas após a divulgação pública. A vulnerabilidade em questão é CVE-2026-87902 (pontuação CVSS: 9.2), que pode permitir que um invasor não autenticado obtenh",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
-      "published": "2026-09-24T05:36:18+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizoRcyQE1N3fGUKa2FY_q_T7EG_CyjTpMGGk1oFUF-XpBZa0zCA6V2yEuv3_Z1OrEjMmhbHdaVmo6NMrwb98U9VFGXDpRcItboVuZH7qc9QgPd5ZLDudfJPWoaSDbtkoXJeLTZw-6JDbq5F6YEp4AkeoJd10Nb_H9tuU0fYdgqkLrP6BTpAPOYwO6WdmkN/s1600/wordpress-exploits.jpg"
-    },
-    {
-      "title": "Atacantes exploram WordPress CVE-2026-87902 poucas horas após divulgação - The Hacker News",
-      "summary": "Atacantes exploram WordPress CVE-2026-87902 poucas horas após a divulgação The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWlZqdDJMbGltTkJQNU9KZFgwRDdEa0sxZGZDNmdDdWduYk56bXJLcVJPRV9GRnVTOGNldHlaWHRYSFBDaTUtcDhQSWd2UmtwOTFUdjkzdDdxTVMzRFB0T3p3dW43Unh1UFJrWThaa0dlTXBJM2ZnZm1UemZIUDNOUA?oc=5",
-      "published": "2026-09-24T05:36:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Domínio de espaço reservado usado em documentos de desenvolvimento agora serve ataques ClickFix",
-      "summary": "O domínio “third-party.com”, comumente usado como espaço reservado na documentação do desenvolvedor e exemplos de código, está servindo uma página falsa de verificação da Cloudflare que tenta enganar os usuários do Windows para que executem comandos do PowerSh",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
-      "published": "2026-09-23T22:46:01+00:00",
-      "image": ""
-    },
-    {
-      "title": "Novo malware bancário RemControl para Android tem como alvo usuários na Europa e no Canadá",
-      "summary": "Uma nova plataforma de malware como serviço (MaaS) para Android chamada RemControl tem como alvo os usuários por meio de campanhas de malvertising que se fazem passar pelo aplicativo TVTap IPTV. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
-      "published": "2026-09-23T21:25:13+00:00",
-      "image": ""
-    },
-    {
-      "title": "Endereços de e-mail do GitLab podem ser armados para ataques à cadeia de suprimentos",
-      "summary": "Os endereços de e-mail recebidos atribuídos automaticamente a cada usuário na plataforma contêm tokens de acesso altamente privilegiados que os invasores podem usar.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks",
-      "published": "2026-09-23T20:53:38+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt60455cbfb6e49e3c/6ab3c1c302cf7035adb7a896/email-Bussarin_Rinchumrus-Getty-2157664756.jpg?width=720&quality=80&disable=upscale"
     }
   ]
 }
