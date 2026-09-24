@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-09-24T17:20:12.628626+00:00",
+  "updated_at": "2026-09-24T21:37:31.468514+00:00",
   "items": [
+    {
+      "title": "'Salesbleed' explora agentes Salesforce para permitir phishing no Slack",
+      "summary": "A Agentic AI pode contrabandear instruções arbitrárias da Web, através de vários aplicativos, para canais de comunicação internos confiáveis.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
+      "published": "2026-09-24T21:04:03+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte47deb12795d1329/6ab55cc6323c1e2e79062eb7/Cloud_painting-Igor_Miller-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "O malware MacSync usa calendários públicos do iCloud para entregar novas cargas",
+      "summary": "Uma nova variante do malware MacSync direcionado a sistemas macOS agora usa eventos públicos do calendário do iCloud para entregar novas cargas nativas. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
+      "published": "2026-09-24T20:53:35+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hacks autônomos de IA levantam questões espinhosas de responsabilidade legal",
+      "summary": "A perspectiva de responsabilização legal não é clara. Os processos judiciais são uma possibilidade, mas alguns especialistas jurídicos acreditam que quaisquer investigações criminais enfrentariam um fardo extremamente elevado. A postagem Hacks autônomos de IA ",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/",
+      "published": "2026-09-24T20:35:21+00:00",
+      "image": ""
+    },
+    {
+      "title": "Novo malware Carbonato usa agentes de IA para sequestrar hosts Docker expostos",
+      "summary": "Um novo malware de botnet chamado Carbonato tem como alvo hosts inseguros que executam daemons Docker para instalar a estrutura Hermes Agent AI e assumir o controle. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
+      "published": "2026-09-24T20:10:48+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falhas do OnePlus não corrigidas permitem que aplicativos Android instalados ganhem root sem permissões",
+      "summary": "Um OnePlus 15 executando o OxygenOS mais recente pode ser enraizado por um aplicativo malicioso instalado pelo proprietário, que não solicita permissões especiais. Um pesquisador, Rasmus Moorats, encadeou duas falhas no software do OnePlus para obter acesso ro",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
+      "published": "2026-09-24T18:10:18+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiGu2guziH88Cs_LnFsPkCJ4zuxqgSX7q3SRrBXdSAEeJPhmYnpNp-c0WCNCqoOoyCv6NcnmCKm20rhqSb2rjw7KZ6Kh6UssR2fZG5SZX9Pjhb_fjONdBfgpxqpWNABPDvSmD9Hp913nErgH4PQm1ehlyspJt5RXASYckP6jHE3G0V2ou5fwkG7JOZyBY/s1600/oneplus.jpg"
+    },
+    {
+      "title": "Confiança e a atraente oferta de consultoria",
+      "summary": "No boletim informativo desta semana, Martin reflete sobre uma suscitação muito suspeita nas redes sociais e sobre o verdadeiro valor da confiança no ecossistema cibernético. A arrogância pode ser a verdadeira vulnerabilidade com a qual a indústria cibernética ",
+      "category": "VULNERABILIDADES",
+      "source": "Cisco Talos",
+      "url": "https://blog.talosintelligence.com/trust-and-the-enticing-consultancy-offer/",
+      "published": "2026-09-24T18:00:37+00:00",
+      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/threat_source-3.jpg"
+    },
+    {
+      "title": "ThreatsDay: envenenamento de pesquisa de IA, repositórios de vazamento de ferramenta de codificação de IA, execução de código com um clique e mais 13 histórias",
+      "summary": "Esta semana, as coisas perigosas continuam chegando vestidas de algo chato. Uma atualização. Uma caixa de login. Uma resposta de pesquisa. Uma ferramenta de codificação. Um link em que você clicou centenas de vezes antes. Esse é o fio que atravessa a pilha. Ca",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
+      "published": "2026-09-24T17:52:43+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQeh1uEFjgxcgPPJkrXkAnJxZRxA9_ZolFQXNONWmfMGLViusszn4KTiJ9-8_r-AV94NS5BQlZ5eOrFnTvinPXcJB_G4o_BEZdv7xXMdAqfvZPfiUzKjlE70q2V6C9ze8H58pqYh-suKm_Yu1q3LoevignMd7nfjbjV7qx_vEad6BEFKUHwV5UlTFW1-dh/s1600/threatsday-sep.jpg"
+    },
+    {
+      "title": "Endereços de e-mail expostos do projeto GitLab permitem que invasores enviem código",
+      "summary": "Endereços de e-mail privados do GitLab que permitem aos desenvolvedores enviar problemas ou tarefas para um projeto estão sendo deliberadamente expostos em READMEs, guias de contribuição e páginas de suporte usadas para coletar relatórios de bugs. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
+      "published": "2026-09-24T17:47:44+00:00",
+      "image": ""
+    },
     {
       "title": "Além do ransomware: Rastreando o trabalho consistente do Storm-2570 em todas as implantações",
       "summary": "Storm-2570 é uma afiliada de ransomware que usa ferramentas e técnicas pós-comprometimento consistentes em implantações envolvendo ransomware Qilin, DragonForce, Anubis e BERT e fornece orientação para ajudar os defensores a detectar e interromper essa ativida",
@@ -38,6 +110,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy4aXDWSC5cKzOZO8lRbk8o5I1fHPlCGbfxxYL6tyJxauEL-8EVj7-AypDhYt_Wg6bDLqlj0UK4LrGJdeI4ChsksaB6tTZxo8ikCLdwC0wjRfJPE_Z1qM_CVUg7s1ORdmWW2XTDtlPPDcI8JvelrbmJhcjVthnqYWQrZ7ySnIMMPRZfa_VzgaBCWyWc_JJ/s1600/third.jpg"
     },
     {
+      "title": "Como a Cloudflare abordou uma vulnerabilidade de exposição de dados entre locatários em contêineres",
+      "summary": "Pesquisadores de segurança externos da Accomplish identificaram uma vulnerabilidade nos Cloudflare Containers que poderia expor dados residuais do disco de cargas de trabalho anteriores. Explicamos como o problema funcionou, como o investigamos e as etapas que",
+      "category": "VULNERABILIDADES",
+      "source": "Cloudflare Security",
+      "url": "https://blog.cloudflare.com/containers-cross-tenant-vulnerability/",
+      "published": "2026-09-24T15:00:00+00:00",
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M38DQFQRTYYSM43H964E1E3F.01M38DQGBNEE0N3C6WAXNMGS0H.png"
+    },
+    {
       "title": "3 ameaças cibernéticas que definiram o verão de 2026",
       "summary": "Esta parte da série de vídeos Reporters' Notebook discute o impacto da violação do Hugging Face por agentes de IA, do ataque de ransomware da Fairlife e de atores de ameaças ligados ao Irã que comprometeram uma dúzia de sistemas de água dos EUA. Foi um verão a",
       "category": "AMEAÇAS",
@@ -66,7 +147,7 @@
     },
     {
       "title": "FedRAMP VDR e VER: verificações diárias são apenas o começo",
-      "summary": "Os novos requisitos de VDR e VER do FedRAMP tornam o gerenciamento de vulnerabilidades mais contínuo, com verificação mais rápida, prazos de correção mais curtos e requisitos de evidências mais rigorosos. Anecdotes explica por que o prazo de 7 de dezembro é ap",
+      "summary": "Os novos requisitos de VDR e VER do FedRAMP tornam o gerenciamento de vulnerabilidades mais contínuo, com varredura mais rápida, prazos de correção mais curtos e requisitos de evidências mais rigorosos. Anecdotes explica por que o prazo de 7 de dezembro é apen",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
@@ -80,87 +161,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
       "published": "2026-09-24T13:27:57+00:00",
-      "image": ""
-    },
-    {
-      "title": "Bug de injeção imediata atinge aplicativo Agentic AI de US$ 4 bilhões ‘Manus’",
-      "summary": "Os aplicativos de IA que interpretam dados externos (leia-se: a maioria dos aplicativos de IA) precisam de filtros de segurança excepcionalmente rigorosos, ou os invasores podem tirar vantagem.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/application-security/prompt-injection-bug-agentic-ai-app-manus",
-      "published": "2026-09-24T13:00:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6cc4d4a12e6b7c68/6ab0590fdb2c1e1226ff0b0f/Hand_snap-Viktar_Sarkisian-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Campanha baseada em IA tem como alvo centenas de varejistas on-line",
-      "summary": "Um ator de ameaça está usando três recursos de IA para pesquisa de vulnerabilidades, exploração e orquestração de ataques. A postagem Campanha baseada em IA tem como alvo centenas de varejistas on-line apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ai-powered-campaign-targets-hundreds-of-online-retailers/",
-      "published": "2026-09-24T12:48:14+00:00",
-      "image": ""
-    },
-    {
-      "title": "Atualização KB5124010 do Windows 11 lançada com 46 alterações e correções",
-      "summary": "A Microsoft lançou a atualização de visualização não relacionada à segurança KB5124010 de setembro de 2026 para Windows 11 24H2 e 25H2, com 46 alterações, incluindo melhorias no Bluetooth e a capacidade de remapear a chave Copilot. [...]",
-      "category": "DEFESA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/",
-      "published": "2026-09-24T12:16:32+00:00",
-      "image": ""
-    },
-    {
-      "title": "Corp MDM Spyware tem como alvo empresas de logística, rouba novos SMS e redireciona chamadas",
-      "summary": "O setor de logística tornou-se alvo de uma nova campanha cibernética maliciosa que distribui um spyware Android com o codinome Corp MDM. De acordo com Have I Been Squatted, a campanha usa páginas falsas do Google Play com as marcas CEVA e TKW Logistics para di",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html",
-      "published": "2026-09-24T12:05:27+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhitRqKj3-JlcQ69xxlsxJs80aq7MNxgAc_VrV-TCrHGTVEwdWKIdvAiwB4szXMT3cRKpkzCRVObZxAO47CLl3JWLRerxVSITKy9xorsP-XY212M07JzDkZ7VXOA-r0maycB0jMv0r5Kl3q0VgrxpoeYfHJ_gkeXbzXLKz_3gAhDGy1ML06lfta_5w8u_Xo/s1600/1000110893.jpg"
-    },
-    {
-      "title": "Island levanta US$ 400 milhões com avaliação de US$ 6,4 bilhões",
-      "summary": "A empresa de segurança empresarial arrecadou mais de US$ 1 bilhão desde seu lançamento em 2020; Evolution Equity Partners liderou a última rodada de financiamento. A postagem Island levanta US$ 400 milhões com avaliação de US$ 6,4 bilhões apareceu pela primeir",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/island-raises-400-million-at-6-4-billion-valuation/",
-      "published": "2026-09-24T11:39:09+00:00",
-      "image": ""
-    },
-    {
-      "title": "Orientação de segurança OT: Guia atualizado de rascunhos do NIST, aconselhamento CISA/FBI sobre integradores ICS",
-      "summary": "A revisão 4 do guia de segurança de tecnologia operacional do NIST está aberta para comentários públicos até 30 de novembro. A publicação OT Security Guidance: NIST Drafts Updated Guide, CISA/FBI Advise on ICS Integrators apareceu pela primeira vez na Security",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ot-security-guidance-nist-drafts-updated-guide-cisa-fbi-advise-on-ics-integrators/",
-      "published": "2026-09-24T11:05:16+00:00",
-      "image": ""
-    },
-    {
-      "title": "Comece pelo fim: como ativar a remediação agente",
-      "summary": "A remediação agentegênica não é um ato de fé. Estamos falando de resolver problemas conhecidos, e não de julgamentos sobre riscos desconhecidos. A postagem Comece pelo fim: como habilitar a remediação de agente apareceu pela primeira vez na SecurityWeek.",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/begin-at-the-end-how-to-enable-agentic-remediation/",
-      "published": "2026-09-24T11:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "CISA: Gangues de ransomware agora exploram falha crítica do TeamCity",
-      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) alertou as agências federais na quarta-feira que gangues de ransomware agora também estão explorando uma vulnerabilidade crítica do JetBrains TeamCity corrigida em julho. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
-      "published": "2026-09-24T10:42:37+00:00",
-      "image": ""
-    },
-    {
-      "title": "SolarWinds corrige falhas críticas de RCE na observabilidade auto-hospedada",
-      "summary": "As vulnerabilidades, rastreadas como CVE-2026-28324 e CVE-2026-28325, podem ser exploradas sem autenticação. A postagem SolarWinds corrige falhas críticas de RCE na capacidade de observação auto-hospedada apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/",
-      "published": "2026-09-24T10:40:40+00:00",
       "image": ""
     }
   ]
