@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-23T21:36:57.533817+00:00",
+  "updated_at": "2026-09-24T05:03:23.944374+00:00",
   "items": [
+    {
+      "title": "Domínio de espaço reservado usado em documentos de desenvolvimento agora serve ataques ClickFix",
+      "summary": "O domínio “third-party.com”, comumente usado como espaço reservado na documentação do desenvolvedor e exemplos de código, está servindo uma página falsa de verificação da Cloudflare que tenta enganar os usuários do Windows para que executem comandos do PowerSh",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
+      "published": "2026-09-23T22:46:01+00:00",
+      "image": ""
+    },
     {
       "title": "Novo malware bancário RemControl para Android tem como alvo usuários na Europa e no Canadá",
       "summary": "Uma nova plataforma de malware como serviço (MaaS) para Android chamada RemControl tem como alvo os usuários por meio de campanhas de malvertising que se fazem passar pelo aplicativo TVTap IPTV. [...]",
@@ -29,8 +38,8 @@
       "image": ""
     },
     {
-      "title": "IonQ visa gargalo de correção de erros quânticos com decodificador de CPU únicaIonQ diz pecado",
-      "summary": "O novo decodificador de erros quânticos de processador único da IonQ minimiza a sobrecarga de computação clássica na correção de erros quânticos. A postagem IonQ tem como alvo o gargalo de correção de erros quânticos com decodificador de CPU únicaIonQ diz que ",
+      "title": "IonQ visa gargalo de correção de erros quânticos com decodificador de CPU única",
+      "summary": "O novo decodificador de erros quânticos de processador único da IonQ minimiza a sobrecarga de computação clássica na correção de erros quânticos. A postagem IonQ visa gargalo de correção de erros quânticos com decodificador de CPU única apareceu pela primeira ",
       "category": "DEFESA",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/",
@@ -54,6 +63,15 @@
       "url": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
       "published": "2026-09-23T18:06:30+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8VNxKl5_NBWXcUoDi3VxoksbOSAixGFGd8EmIaZmKRQpsGhOj6SLg8fmHktJbtvR7wofZNG1AFIzSGnVFq8OJHgq27dhqNtc0cz457ZqqQQ6INHwnExfLu3xKERaNt0GmOpxJ6WR6oxp5FZTT-q3Q5YWAnVawXYfY51GRl09ovsDkhM3U8tRUTR4ClSfj/s1600/terraform.jpg"
+    },
+    {
+      "title": "Os invasores usam provedores Terraform maliciosos para entregar malware Go por meio do registro HashiCorp - The Hacker News",
+      "summary": "Atacantes usam provedores Terraform maliciosos para entregar malware Go por meio do registro HashiCorp The Hacker News",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DbGRTX3VwYjM3QVdicWt6ZVp1UVNlYlNhTjVhVUZRYjBXb2ZfeklBeE1Bckt4WkVxb3JvWVoxOGVKVVUwUGtTQll2SkY3bWduaW1lM3RHemc1ZkpLSU9MV05Vdl9ZeDNDSnZ4LWlFdzI4NlFXbjlwNk95Qk4?oc=5",
+      "published": "2026-09-23T18:06:00+00:00",
+      "image": ""
     },
     {
       "title": "As preocupações com uma aquisição da Internet pela IA ganham nova urgência entre os cenários do Juízo Final",
@@ -138,30 +156,12 @@
     },
     {
       "title": "Este malware do Windows foi criado para permitir que até quatro modelos de IA votem em seu próximo passo",
-      "summary": "Um malware do Windows chamado CLOSEDQUORUM foi desenvolvido para receber ordens de votação de até quatro modelos de IA em vez do servidor do invasor, disse Cisco Talos em 22 de setembro. Os modelos podem optar por roubar credenciais do Windows, senhas de naveg",
+      "summary": "Um malware para Windows chamado CLOSEDQUORUM foi desenvolvido para receber ordens de votação de até quatro modelos de IA em vez do servidor de um invasor, disse Cisco Talos em 22 de setembro. Os modelos podem optar por roubar credenciais do Windows, senhas de ",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
       "published": "2026-09-23T14:17:58+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZdSpi6aqUlY2q-T-3eJ4YCn7G3jYa9Exo6BMffjdRLuqg9Gdn4ImZXKjcYX8s5Swz3W_WhxMZ_Z7qbu0Z60KrCk8EUhRV8bJ7l1mXOoDCo-XAXyq69_rtFDoVhvAiuJP1rCdSf9KixTqgAA52iwqWsqB5T0uJaRGFz1hpBcpfQuvPMYd17UcrfrnUV0c/s1600/closed.jpg"
-    },
-    {
-      "title": "Este malware do Windows foi criado para permitir que até quatro modelos de IA votem em seu próximo passo - The Hacker News",
-      "summary": "Este malware do Windows foi criado para permitir que até quatro modelos de IA votem em seu próximo passo The Hacker News",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSzNTVGdyaWt6V0V5M2dvd3hrYlc1Z0c3My1xV1lSSDNvWXNTOW9lb01FbXp4Rmctcng5Q2VTUVpBVEJkMS1iSnNqbXNsek54VlY2YlhlU2VSb1V5bUdGT2NZX1NKcUVmUlJuV19LTThDQmd3YXRERTVoZmhYVGNtb1ZR?oc=5",
-      "published": "2026-09-23T14:17:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Como um Kubernetes YAML pode entregar uma organização GCP",
-      "summary": "Um usuário do Kubernetes com permissões limitadas pode potencialmente obter o controle de toda uma organização do Google Cloud explorando a autoridade concedida ao Google Kubernetes Config Connector. Varonis explica como esse confuso problema de deputado pode ",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
-      "published": "2026-09-23T14:01:11+00:00",
-      "image": ""
     }
   ]
 }
