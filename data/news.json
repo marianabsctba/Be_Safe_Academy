@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-09-25T17:20:18.648081+00:00",
+  "updated_at": "2026-09-25T21:42:00.862617+00:00",
   "items": [
+    {
+      "title": "ShinyHunters hackeou site de vazamento Clop usando falha de passagem de caminho Grav CMS",
+      "summary": "A gangue de ransomware Clop mudou seu site de vazamento de dados para um novo endereço Tor depois de confirmar que seu servidor anterior foi comprometido e desfigurado por meio de uma falha não corrigida do Grav CMS que o BleepingComputer descobriu ser uma vul",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
+      "published": "2026-09-25T20:57:55+00:00",
+      "image": ""
+    },
+    {
+      "title": "A falha do Elementor WordPress permite que invasores criem contas de administrador",
+      "summary": "Uma vulnerabilidade de falsificação de solicitação entre sites (CSRF) no plugin Elementor para WordPress pode permitir que um invasor não autenticado crie contas de administrador. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
+      "published": "2026-09-25T18:13:33+00:00",
+      "image": ""
+    },
+    {
+      "title": "CISA alerta sobre falhas do Sharepoint, WSO2 e Adobe Commerce exploradas em ataques",
+      "summary": "A Agência de Segurança Cibernética e de Infraestrutura (CISA) alerta que os hackers estão explorando uma vulnerabilidade crítica de desvio de autenticação (CVE-2026-5430) que afeta vários produtos do fornecedor de software empresarial WSO2. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
+      "published": "2026-09-25T17:24:20+00:00",
+      "image": ""
+    },
+    {
+      "title": "Storm-3168: Ataques em nuvem conduzidos por agentes usando entidades de serviço comprometidas",
+      "summary": "A Microsoft detalha o reconhecimento do Azure vinculado ao JADEPUFFER, a exclusão de recursos e o acesso a credenciais usando entidades de serviço comprometidas, identificando a atividade como associada ao Storm-3168 e fornecendo orientação aos defensores. A p",
+      "category": "INCIDENTES",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
+      "published": "2026-09-25T15:35:08+00:00",
+      "image": ""
+    },
     {
       "title": "Em outras notícias: Clop Leak Site Takeover, Docker Botnet Hunts AI Keys, Water Utility Exposure",
       "summary": "Histórias dignas de nota que podem ter passado despercebidas: ataque BragJack contra assistentes de IA do navegador, falha no TDengine ameaça o tempo de atividade da telemetria industrial, revisão da atualização do Ubuntu. A postagem Em outras notícias: Clop L",
@@ -75,7 +111,7 @@
     },
     {
       "title": "Os agentes agora podem configurar a segurança do seu site com Turnstile Spin",
-      "summary": "A configuração incorreta do Turnstile, ignorando a validação de back-end, deixa os sites expostos a bots. O Turnstile Spin corrige configurações incompletas usando seu agente de codificação de IA preferido para conectar a verificação do lado do servidor.",
+      "summary": "A configuração incorreta do Turnstile, ignorando a validação de back-end, deixa os sites expostos a bots. Turnstile Spin corrige configurações incompletas usando seu agente de codificação de IA preferido para conectar a verificação do lado do servidor.",
       "category": "CLOUD & IA",
       "source": "Cloudflare Security",
       "url": "https://blog.cloudflare.com/turnstile-spin/",
@@ -125,42 +161,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/",
       "published": "2026-09-25T10:53:32+00:00",
-      "image": ""
-    },
-    {
-      "title": "Bitget afirma que suspeitos de hackers norte-coreanos roubaram US$ 351,6 milhões após comprometimento de back-end",
-      "summary": "A exchange de criptomoedas Bitget disse que supostos atores de ameaças norte-coreanos roubaram US$ 351,6 milhões de suas carteiras quentes e quentes. “Às 18h31 UTC de 24 de setembro de 2026, os sistemas de segurança da Bitget identificaram transferências não a",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
-      "published": "2026-09-25T10:35:55+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpydVf-1UN81MyiMH8sAYBd4xiIBuM52UV7kyWmhhBlqohwuaFwgnP5wVx35gG3dHMWrtw0aoPh2zPLW-NaUI4qc_nmpybfA87lo6bzZmLb4WXnpNkYyEYEYMk7kaHeKH4G01yOeEBm44R8a7uAQmabg1k2pEd7MBRp9FM4QN4uA3rsXxkAfuKLWBUxQd_/s1600/bitget.jpg"
-    },
-    {
-      "title": "Falha de injeção de SQL pré-autenticação do Roundcube explorada ativamente na natureza",
-      "summary": "O Centro Canadense de Segurança Cibernética alertou que uma vulnerabilidade do Roundcube Webmail, agora corrigida, está sendo ativamente explorada em estado selvagem. A vulnerabilidade em questão é CVE-2026-48842 (pontuação CVSS: 8.1), uma injeção SQL de pré-a",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
-      "published": "2026-09-25T10:14:02+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8MACS_IO_gIvzTjppTIaHyXZKPha3ZR13_sXQS7u9Ajphpz-FRL5GNIQzhpbveUPPLuMCq72MYNtdX5o6gF-9MZZg4rPF7mbOP_pjSXyTVOFy3XtzlQiMH6sIdTdsqgZpgQf-yZmk688M6BiOWdUNYZswJVQETAInFkZVZCl99ZoYoGhhgtpJZ0hs9JmV/s1600/roundcube.jpg"
-    },
-    {
-      "title": "Falha de injeção SQL de pré-autenticação do Roundcube ativamente explorada na natureza - The Hacker News",
-      "summary": "Falha de injeção de SQL pré-autenticação do Roundcube explorada ativamente na natureza The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdWN0LWRObDhEekVvZTlDM3ptZWRPT2lnXzd1bmlSNVhlWHp6SVRZVHNDZzBQaXFHcUZoN25yWFI5eTBtUWZfYTlWTkJwU0IyX04zZThIMnBhODNDdEVVREw1V2s5ZWUtNkFuVUN2RW5fbHBXY3AzLWlpRHVaUU1BdGVB?oc=5",
-      "published": "2026-09-25T10:14:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falhas ‘SalesBleed’ na exfiltração de dados com zero clique habilitada pelo Salesforce Agentforce",
-      "summary": "Três vulnerabilidades no Salesforce Agentforce permitiram que hackers sequestrassem agentes confiáveis, roubassem dados e lançassem ataques de phishing. A postagem Falhas ‘SalesBleed’ na exfiltração de dados com zero clique habilitada pelo Salesforce Agentforc",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/",
-      "published": "2026-09-25T09:27:51+00:00",
       "image": ""
     }
   ]
