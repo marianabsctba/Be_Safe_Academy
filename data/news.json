@@ -1,6 +1,87 @@
 {
-  "updated_at": "2026-09-25T05:06:51.580325+00:00",
+  "updated_at": "2026-09-25T11:59:59.055300+00:00",
   "items": [
+    {
+      "title": "Administrador do mercado Rydox se declara culpado e pode pegar 22 anos de prisão",
+      "summary": "Um cidadão do Kosovo se declarou culpado de operar o Rydox, um grande mercado online ilegal que vendia informações pessoais roubadas, credenciais de login, detalhes de cartão de crédito e ferramentas de crime cibernético. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
+      "published": "2026-09-25T11:35:14+00:00",
+      "image": ""
+    },
+    {
+      "title": "Sistemas de notificação de arquivos Windows, Linux e Android vazam atividade do usuário",
+      "summary": "Os pesquisadores mostram que os sistemas de notificação de alteração de arquivos podem vazar o tempo de digitação, a atividade de navegação e os eventos de mídia do WhatsApp. A postagem Atividade do usuário com vazamento de sistemas de notificação de arquivos ",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/",
+      "published": "2026-09-25T10:53:32+00:00",
+      "image": ""
+    },
+    {
+      "title": "Bitget afirma que suspeitos de hackers norte-coreanos roubaram US$ 351,6 milhões após comprometimento de back-end",
+      "summary": "A exchange de criptomoedas Bitget disse que supostos atores de ameaças norte-coreanos roubaram US$ 351,6 milhões de suas carteiras quentes e quentes. “Às 18h31 UTC de 24 de setembro de 2026, os sistemas de segurança da Bitget identificaram transferências não a",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
+      "published": "2026-09-25T10:35:55+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpydVf-1UN81MyiMH8sAYBd4xiIBuM52UV7kyWmhhBlqohwuaFwgnP5wVx35gG3dHMWrtw0aoPh2zPLW-NaUI4qc_nmpybfA87lo6bzZmLb4WXnpNkYyEYEYMk7kaHeKH4G01yOeEBm44R8a7uAQmabg1k2pEd7MBRp9FM4QN4uA3rsXxkAfuKLWBUxQd_/s1600/bitget.jpg"
+    },
+    {
+      "title": "Falha de injeção de SQL pré-autenticação do Roundcube explorada ativamente na natureza",
+      "summary": "O Centro Canadense de Segurança Cibernética alertou que uma vulnerabilidade do Roundcube Webmail, agora corrigida, está sendo explorada ativamente. A vulnerabilidade em questão é CVE-2026-48842 (pontuação CVSS: 8.1), uma injeção SQL de pré-autenticação no plug",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
+      "published": "2026-09-25T10:14:02+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8MACS_IO_gIvzTjppTIaHyXZKPha3ZR13_sXQS7u9Ajphpz-FRL5GNIQzhpbveUPPLuMCq72MYNtdX5o6gF-9MZZg4rPF7mbOP_pjSXyTVOFy3XtzlQiMH6sIdTdsqgZpgQf-yZmk688M6BiOWdUNYZswJVQETAInFkZVZCl99ZoYoGhhgtpJZ0hs9JmV/s1600/roundcube.jpg"
+    },
+    {
+      "title": "Falhas ‘SalesBleed’ na exfiltração de dados com zero clique habilitada pelo Salesforce Agentforce",
+      "summary": "Três vulnerabilidades no Salesforce Agentforce permitiram que hackers sequestrassem agentes confiáveis, roubassem dados e lançassem ataques de phishing. A postagem Falhas ‘SalesBleed’ na exfiltração de dados com zero clique habilitada pelo Salesforce Agentforc",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/",
+      "published": "2026-09-25T09:27:51+00:00",
+      "image": ""
+    },
+    {
+      "title": "A guerra ciberfísica híbrida da Rússia na Europa esquenta",
+      "summary": "Uma tempestade assola sob a forma de sabotagem cibernética, desinformação e ataques de drones contra as nações europeias, especialmente aquelas que fornecem apoio material à Ucrânia.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe",
+      "published": "2026-09-25T07:00:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8a27dbac2edf719a/6ab57742417cfced0b651132/Cyber_Russia-traffic_analyzer-GettyImages-952919134.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Vulnerabilidade do Webmail Roundcube na mira dos invasores",
+      "summary": "Rastreado como CVE-2026-48842, o bug explorado é uma injeção de SQL que pode ser explorada sem autenticação. A postagem Vulnerabilidade do Webmail Roundcube na mira dos invasores apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/",
+      "published": "2026-09-25T06:57:40+00:00",
+      "image": ""
+    },
+    {
+      "title": "Cloudflare corrige falha que permitia que um contêiner lesse dados restantes do disco de outro cliente",
+      "summary": "Uma falha no Cloudflare Containers permitiu que um cliente pagante lesse dados que os contêineres de outros clientes haviam deixado para trás no mesmo servidor, disseram a Cloudflare e os pesquisadores que o encontraram na quinta-feira. Os dados vieram do espa",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
+      "published": "2026-09-25T04:49:22+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJuj6tshfElqbwJCAvJf00nvl1Tng8D3yBW5uZZyVpwOqXJuzBB1df67IlNM1OSkHdGH11R6G8rseykpeXWUBu24sJvyxDL-uiqA7NC2ItwUUN2fMdaTWhqcHR2WYfpI6ihc0EVpEXfep1VFBygmh2-F6cAL1lwin0qQbmSebV5OmhqFmgBs3i0_WtdGI/s1600/cf-escape.jpg"
+    },
+    {
+      "title": "Falhas WSO2 e Adobe Commerce exploradas em ataques, adicionadas ao CISA KEV",
+      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA), na quinta-feira, adicionou duas falhas críticas de segurança que impactam o WSO2, o Adobe Commerce e o Magento ao seu catálogo de Vulnerabilidades Exploradas Conhecidas (KEV), com base em e",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
+      "published": "2026-09-25T04:46:34+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqTAzyCx7Cezy4z5oRz-uAHvdvW1IZDrQlfIqT_ZDJ22Hvarb4lmYWkjqBDI_CngiSy2wuot68b2CgMS_0CWVZS93lYo5wqJsd5-WdFQgO3dieodXpVQiizcFjQsPzUOlVrs32zkBaHAwOyD7S4GCZ3b1d-Jyt4-ZTaMltfU0jG5dwBw5cxj880D4Cx8W0/s1600/ADOBE-CISA.jpg"
+    },
     {
       "title": "'Salesbleed' explora agentes Salesforce para permitir phishing no Slack",
       "summary": "A Agentic AI pode contrabandear instruções arbitrárias da Web, através de vários aplicativos, para canais de comunicação internos confiáveis.",
@@ -65,10 +146,10 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQeh1uEFjgxcgPPJkrXkAnJxZRxA9_ZolFQXNONWmfMGLViusszn4KTiJ9-8_r-AV94NS5BQlZ5eOrFnTvinPXcJB_G4o_BEZdv7xXMdAqfvZPfiUzKjlE70q2V6C9ze8H58pqYh-suKm_Yu1q3LoevignMd7nfjbjV7qx_vEad6BEFKUHwV5UlTFW1-dh/s1600/threatsday-sep.jpg"
     },
     {
-      "title": "ThreatsDay: envenenamento de pesquisa de IA, repositórios de vazamento de ferramenta de codificação de IA, execução de código com um clique e mais 13 histórias - thehackernews.com",
-      "summary": "ThreatsDay: envenenamento de pesquisa de IA, repositórios de vazamento de ferramenta de codificação de IA, execução de código com um clique e mais 13 histórias thehackernews.com",
+      "title": "ThreatsDay: envenenamento de pesquisa de IA, repositórios de vazamento de ferramenta de codificação de IA, execução de código com um clique e mais 13 histórias - The Hacker News",
+      "summary": "ThreatsDay: envenenamento de pesquisa de IA, repositórios de vazamento de ferramenta de codificação de IA, execução de código com um clique e mais 13 histórias The Hacker News",
       "category": "AMEAÇAS",
-      "source": "thehackernews.com",
+      "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iRkwzMVBQX291ZTVaMFpva0Rub0dHd2NORUNKazlGUll5bFJPcHBrdGRXU254blFFVXBSbTdwMURySlJFUWMyS2FHdW5iQmlxcjlFenYxWndEWTVnWE5HeFVvRTRUN05lTFZ4NjBKRUZBVzJ0NGRYT2k1WnE?oc=5",
       "published": "2026-09-24T17:52:00+00:00",
       "image": ""
@@ -80,87 +161,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
       "published": "2026-09-24T17:47:44+00:00",
-      "image": ""
-    },
-    {
-      "title": "Além do ransomware: Rastreando o trabalho consistente do Storm-2570 em todas as implantações",
-      "summary": "Storm-2570 é uma afiliada de ransomware que usa ferramentas e técnicas pós-comprometimento consistentes em implantações envolvendo ransomware Qilin, DragonForce, Anubis e BERT e fornece orientação para ajudar os defensores a detectar e interromper essa ativida",
-      "category": "AMEAÇAS",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments/",
-      "published": "2026-09-24T16:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "​​​​​​​​O que há de novo na segurança da Microsoft: setembro de 2026​​",
-      "summary": "As atualizações deste mês ajudam você a descobrir e controlar agentes locais de IA, estender o Zero Trust ao tráfego de agentes e fortalecer as bases do SOC. A postagem​​​​​​O que há de novo na segurança da Microsoft: setembro de 2026​​ apareceu pela primeira ",
-      "category": "CLOUD & IA",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/24/whats-new-in-microsoft-security-september-2026/",
-      "published": "2026-09-24T16:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Kontext Security surge com US$ 4 milhões para controles de tempo de execução de agentes de IA",
-      "summary": "A plataforma de aplicação do tempo de execução da startup avalia os agentes de IA em tempo real para fornecer visibilidade e controle sobre suas ações. A postagem Kontext Security surge com US$ 4 milhões para controles de tempo de execução de agentes de IA apa",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/",
-      "published": "2026-09-24T15:52:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Placeholder third-party[.]com referenciado em mais de 1.700 repositórios agora veicula conteúdo malicioso",
-      "summary": "O domínio \"third-party[.]com\", comumente usado como espaço reservado para documentação, foi observado servindo como uma isca ClickFix para navegadores Windows, ao mesmo tempo em que exibe uma isca inofensiva para outros usuários. “third-party[.]com tem sido um",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
-      "published": "2026-09-24T15:27:32+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy4aXDWSC5cKzOZO8lRbk8o5I1fHPlCGbfxxYL6tyJxauEL-8EVj7-AypDhYt_Wg6bDLqlj0UK4LrGJdeI4ChsksaB6tTZxo8ikCLdwC0wjRfJPE_Z1qM_CVUg7s1ORdmWW2XTDtlPPDcI8JvelrbmJhcjVthnqYWQrZ7ySnIMMPRZfa_VzgaBCWyWc_JJ/s1600/third.jpg"
-    },
-    {
-      "title": "Como a Cloudflare abordou uma vulnerabilidade de exposição de dados entre locatários em contêineres",
-      "summary": "Pesquisadores de segurança externos da Accomplish identificaram uma vulnerabilidade nos Cloudflare Containers que poderia expor dados residuais do disco de cargas de trabalho anteriores. Explicamos como o problema funcionou, como o investigamos e as etapas que",
-      "category": "VULNERABILIDADES",
-      "source": "Cloudflare Security",
-      "url": "https://blog.cloudflare.com/containers-cross-tenant-vulnerability/",
-      "published": "2026-09-24T15:00:00+00:00",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M38DQFQRTYYSM43H964E1E3F.01M38DQGBNEE0N3C6WAXNMGS0H.png"
-    },
-    {
-      "title": "3 ameaças cibernéticas que definiram o verão de 2026",
-      "summary": "Esta parte da série de vídeos Reporters' Notebook discute o impacto da violação do Hugging Face por agentes de IA, do ataque de ransomware da Fairlife e de atores de ameaças ligados ao Irã que comprometeram uma dúzia de sistemas de água dos EUA. Foi um verão a",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
-      "published": "2026-09-24T14:44:12+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcaceb4dbae83cc73/6ab2a824f707d014a4ded803/GettyImages-2212090355.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Agentes OpenAI investigaram sites em busca de vulnerabilidades enquanto buscavam dados públicos",
-      "summary": "A Austrália divulgou que um agente da OpenAI obteve acesso não autorizado a informações governamentais não públicas. A postagem Agentes OpenAI investigaram vulnerabilidades em sites durante a busca de dados públicos apareceu pela primeira vez na SecurityWeek.",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/",
-      "published": "2026-09-24T14:43:13+00:00",
-      "image": ""
-    },
-    {
-      "title": "Como construir uma estrutura SASE para segurança cibernética moderna",
-      "summary": "Manter a computação de ponta segura exige que as organizações repensem fundamentalmente a governança da segurança. Aqui está um caminho a seguir: um guia passo a passo para construir uma estrutura SASE.",
-      "category": "DEFESA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cloud-security/how-to-build-sase-framework",
-      "published": "2026-09-24T14:02:43+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb78cadaedd123808/6728c89f936b643041fefd4a/framework-jozef_sedmak-Alamy-resized.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "FedRAMP VDR e VER: verificações diárias são apenas o começo",
-      "summary": "Os novos requisitos de VDR e VER do FedRAMP tornam o gerenciamento de vulnerabilidades mais contínuo, com verificação mais rápida, prazos de correção mais curtos e requisitos de evidências mais rigorosos. Anecdotes explica por que o prazo de 7 de dezembro é ap",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
-      "published": "2026-09-24T14:02:12+00:00",
       "image": ""
     }
   ]
