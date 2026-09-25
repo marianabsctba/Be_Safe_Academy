@@ -1,6 +1,105 @@
 {
-  "updated_at": "2026-09-25T11:59:59.055300+00:00",
+  "updated_at": "2026-09-25T17:20:18.648081+00:00",
   "items": [
+    {
+      "title": "Em outras notícias: Clop Leak Site Takeover, Docker Botnet Hunts AI Keys, Water Utility Exposure",
+      "summary": "Histórias dignas de nota que podem ter passado despercebidas: ataque BragJack contra assistentes de IA do navegador, falha no TDengine ameaça o tempo de atividade da telemetria industrial, revisão da atualização do Ubuntu. A postagem Em outras notícias: Clop L",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/in-other-news-clop-leak-site-takeover-docker-botnet-hunts-ai-keys-water-utility-exposure/",
+      "published": "2026-09-25T15:07:31+00:00",
+      "image": ""
+    },
+    {
+      "title": "Com a ascensão dos agentes de IA, o SOC 2 deve se adaptar ou arriscar a irrelevância",
+      "summary": "Os agentes de IA podem operar através de credenciais humanas e realizar ações que os controles SOC 2 existentes podem não distinguir da atividade humana. A Token Security explica por que o SOC 2 precisa se adaptar para resolver as lacunas de segurança criadas ",
+      "category": "CLOUD & IA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
+      "published": "2026-09-25T14:51:10+00:00",
+      "image": ""
+    },
+    {
+      "title": "Impedir golpes de profissionais de TI requer um processo de RH renovado",
+      "summary": "Treinar gerentes de recursos humanos nas táticas e sinais de alerta mais recentes ajuda muito a atenuar a ameaça, mas a análise automatizada pode ajudar ainda mais.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process",
+      "published": "2026-09-25T14:46:13+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf21a6316df171b0e/6ab67c37f1423b08bb4916ee/IT-worker-silouette-manufacturing-DC_Studio-shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Ações comprometidas do GitHub voltaram on-line e retomaram a execução do malware Mini Shai-Hulud",
+      "summary": "Duas ações legais do GitHub foram desativadas pela segunda vez depois que os repositórios se tornaram acessíveis na semana passada, meses depois de terem sido comprometidos durante a campanha Mini Shai-Hulud de maio de 2026. As ações afetadas do GitHub estão l",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
+      "published": "2026-09-25T14:44:41+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJFMIQ6v0uJDRoxyIhqsoqsYoXN00dcDH4IvkdQAkRBRj6ha5LIu2-2yzzvQk1OZTc-7tK1fjeqyIh8xvRNvz_CotOtGNsYnejlbHED7cI-bmZFP80JIdxk_0D9I6Zo10-6b4x4euCTaRtz8c6ncYKykDsW7Bt4oFEVYWTe3AHJdiUxM32R6hGP9C0Y0Xf/s1600/github-shai.jpg"
+    },
+    {
+      "title": "Ações comprometidas do GitHub voltaram on-line e retomaram a execução do malware Mini Shai-Hulud - The Hacker News",
+      "summary": "Ações comprometidas do GitHub voltaram on-line e retomaram a execução do malware Mini Shai-Hulud The Hacker News",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS29xd1YzekRTeHZQd25tTVgzbjJ0Ukd2Z1VndzdsVFd5N2ZVT20xYzhVclZwcGdKSE9TU2JfUUhDeGFrUGR6WVhBdXZBNWZvVDcyMjd3OW11S3ZjRDFaT2tBNTZDVlZxQjN3OTFlSFpQRzVsTFZRWmdrd1dXNzlhZQ?oc=5",
+      "published": "2026-09-25T14:44:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Coreia do Norte suspeita de roubo de criptografia Bitget de US$ 351 milhões",
+      "summary": "Os sistemas de segurança da Bitget detectaram as transferências não autorizadas em 24 de setembro, e alguns endereços de carteira vinculados ao invasor foram congelados. A postagem Coreia do Norte é suspeita de roubo de criptografia Bitget de US$ 351 milhões a",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/north-korea-suspected-in-351-million-bitget-crypto-heist/",
+      "published": "2026-09-25T14:16:18+00:00",
+      "image": ""
+    },
+    {
+      "title": "Malware PamStealer macOS adiciona descriptografia de carga útil C2 ao vivo e persistência multicamadas",
+      "summary": "Pesquisadores de segurança cibernética sinalizaram uma nova versão do PamStealer que garante que a carga principal só possa ser recuperada usando uma cadeia de descriptografia do lado do servidor. Os artefatos mais recentes, de acordo com Jamf Threat Labs, con",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html",
+      "published": "2026-09-25T13:18:06+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRZ3gQjU3cKnH6bHzlz8PjeaUqGcrVWnRx-bT-mgDBYv-G4CM2Iix8afTJe8sAXEghuPTiD5KszOYzA0peRhyoGKNW9YE1QtwLubBFuv9YZjXnANEGyMGwi7-oEdIqmtRBWPzUZV7S91WiUX4cI2YVMHVSQbByCmIwAX9oZxvzjb2ScVJmpmMCzpDKaKtN/s1600/macos.jpg"
+    },
+    {
+      "title": "Malware PamStealer macOS adiciona descriptografia de carga útil C2 ao vivo e persistência multicamadas - The Hacker News",
+      "summary": "Malware PamStealer macOS adiciona descriptografia de carga útil C2 ao vivo e persistência multicamadas The Hacker News",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZTlhczE5dXdXYjhNT1pnNHEwT2xvVVh2NUU5Y0M0c0tXMnl2X3dpSlJHd2lpbkZVREwtQXZNaG9LRjNzNHBiZUpYVEstUl9NN2lPZHRJbEZDdlNkQzR3QnRmRTItT0dLcDN6SkxHOFVPemhKZE14VEpJeWtzRUlzdTJR?oc=5",
+      "published": "2026-09-25T13:18:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Os agentes agora podem configurar a segurança do seu site com Turnstile Spin",
+      "summary": "A configuração incorreta do Turnstile, ignorando a validação de back-end, deixa os sites expostos a bots. O Turnstile Spin corrige configurações incompletas usando seu agente de codificação de IA preferido para conectar a verificação do lado do servidor.",
+      "category": "CLOUD & IA",
+      "source": "Cloudflare Security",
+      "url": "https://blog.cloudflare.com/turnstile-spin/",
+      "published": "2026-09-25T13:00:00+00:00",
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M3CQMQWGC7WBK8ZR7DG13PFE.01M3CQMRMEBSVS7GAD6GNHZ9JD.png"
+    },
+    {
+      "title": "Plano de segurança eleitoral da CISA sinaliza barreiras de correção e ataques a bancos de dados de eleitores",
+      "summary": "O secretário de Segurança Interna, Markwayne Mullin, encarregou a CISA de desenvolver o plano em julho. A postagem Plano de segurança eleitoral da CISA sinaliza barreiras de correção e ataques ao banco de dados de eleitores apareceu pela primeira vez em Securi",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/cisa-election-security-plan-flags-patching-barriers-voter-database-attacks/",
+      "published": "2026-09-25T12:39:12+00:00",
+      "image": ""
+    },
+    {
+      "title": "Proprietário Kosovar do Rydox Marketplace se declara culpado em tribunal dos EUA",
+      "summary": "Ardit Kutleshi criou e operou o Rydox, que permitiu que criminosos comercializassem ferramentas e serviços de PII e de crime cibernético. A postagem Proprietário Kosovar do Rydox Marketplace se declara culpado no tribunal dos EUA apareceu pela primeira vez na ",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/kosovar-owner-of-rydox-marketplace-pleads-guilty-in-us-court/",
+      "published": "2026-09-25T12:16:27+00:00",
+      "image": ""
+    },
     {
       "title": "Administrador do mercado Rydox se declara culpado e pode pegar 22 anos de prisão",
       "summary": "Um cidadão do Kosovo se declarou culpado de operar o Rydox, um grande mercado online ilegal que vendia informações pessoais roubadas, credenciais de login, detalhes de cartão de crédito e ferramentas de crime cibernético. [...]",
@@ -9,6 +108,15 @@
       "url": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
       "published": "2026-09-25T11:35:14+00:00",
       "image": ""
+    },
+    {
+      "title": "O SOC não precisa recomeçar a cada alerta",
+      "summary": "Os líderes de segurança continuam a debater se a IA produzirá uma classe inteiramente nova de ataques cibernéticos. A mudança mais próxima é mais silenciosa e já visível: a IA tornou barato um ataque fracassado para tentar novamente. A versão de rotina é assim",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
+      "published": "2026-09-25T11:30:00+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0sz5D5hiSWYuUfbRDYDloMNzbx5dpvVQjC5ZVoYzIgvWL_Tkyx8AjNHjZ27RAwaPbCIQXNWB6o_FYzxjimFYHY2pHfp6m6b97tARxhdhqSHBkp2lYpfekwVLvUIm63ruwsHR7RlQkR-2jfOPELG2hjZrrYr9JYr4ndSfVaYIajhTpmB6Ud0DIXz1D_uI/s1600/soc-1.jpg"
     },
     {
       "title": "Sistemas de notificação de arquivos Windows, Linux e Android vazam atividade do usuário",
@@ -30,12 +138,21 @@
     },
     {
       "title": "Falha de injeção de SQL pré-autenticação do Roundcube explorada ativamente na natureza",
-      "summary": "O Centro Canadense de Segurança Cibernética alertou que uma vulnerabilidade do Roundcube Webmail, agora corrigida, está sendo explorada ativamente. A vulnerabilidade em questão é CVE-2026-48842 (pontuação CVSS: 8.1), uma injeção SQL de pré-autenticação no plug",
+      "summary": "O Centro Canadense de Segurança Cibernética alertou que uma vulnerabilidade do Roundcube Webmail, agora corrigida, está sendo ativamente explorada em estado selvagem. A vulnerabilidade em questão é CVE-2026-48842 (pontuação CVSS: 8.1), uma injeção SQL de pré-a",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
       "published": "2026-09-25T10:14:02+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8MACS_IO_gIvzTjppTIaHyXZKPha3ZR13_sXQS7u9Ajphpz-FRL5GNIQzhpbveUPPLuMCq72MYNtdX5o6gF-9MZZg4rPF7mbOP_pjSXyTVOFy3XtzlQiMH6sIdTdsqgZpgQf-yZmk688M6BiOWdUNYZswJVQETAInFkZVZCl99ZoYoGhhgtpJZ0hs9JmV/s1600/roundcube.jpg"
+    },
+    {
+      "title": "Falha de injeção SQL de pré-autenticação do Roundcube ativamente explorada na natureza - The Hacker News",
+      "summary": "Falha de injeção de SQL pré-autenticação do Roundcube explorada ativamente na natureza The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdWN0LWRObDhEekVvZTlDM3ptZWRPT2lnXzd1bmlSNVhlWHp6SVRZVHNDZzBQaXFHcUZoN25yWFI5eTBtUWZfYTlWTkJwU0IyX04zZThIMnBhODNDdEVVREw1V2s5ZWUtNkFuVUN2RW5fbHBXY3AzLWlpRHVaUU1BdGVB?oc=5",
+      "published": "2026-09-25T10:14:00+00:00",
+      "image": ""
     },
     {
       "title": "Falhas ‘SalesBleed’ na exfiltração de dados com zero clique habilitada pelo Salesforce Agentforce",
@@ -44,123 +161,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/",
       "published": "2026-09-25T09:27:51+00:00",
-      "image": ""
-    },
-    {
-      "title": "A guerra ciberfísica híbrida da Rússia na Europa esquenta",
-      "summary": "Uma tempestade assola sob a forma de sabotagem cibernética, desinformação e ataques de drones contra as nações europeias, especialmente aquelas que fornecem apoio material à Ucrânia.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe",
-      "published": "2026-09-25T07:00:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8a27dbac2edf719a/6ab57742417cfced0b651132/Cyber_Russia-traffic_analyzer-GettyImages-952919134.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Vulnerabilidade do Webmail Roundcube na mira dos invasores",
-      "summary": "Rastreado como CVE-2026-48842, o bug explorado é uma injeção de SQL que pode ser explorada sem autenticação. A postagem Vulnerabilidade do Webmail Roundcube na mira dos invasores apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/",
-      "published": "2026-09-25T06:57:40+00:00",
-      "image": ""
-    },
-    {
-      "title": "Cloudflare corrige falha que permitia que um contêiner lesse dados restantes do disco de outro cliente",
-      "summary": "Uma falha no Cloudflare Containers permitiu que um cliente pagante lesse dados que os contêineres de outros clientes haviam deixado para trás no mesmo servidor, disseram a Cloudflare e os pesquisadores que o encontraram na quinta-feira. Os dados vieram do espa",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
-      "published": "2026-09-25T04:49:22+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJuj6tshfElqbwJCAvJf00nvl1Tng8D3yBW5uZZyVpwOqXJuzBB1df67IlNM1OSkHdGH11R6G8rseykpeXWUBu24sJvyxDL-uiqA7NC2ItwUUN2fMdaTWhqcHR2WYfpI6ihc0EVpEXfep1VFBygmh2-F6cAL1lwin0qQbmSebV5OmhqFmgBs3i0_WtdGI/s1600/cf-escape.jpg"
-    },
-    {
-      "title": "Falhas WSO2 e Adobe Commerce exploradas em ataques, adicionadas ao CISA KEV",
-      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA), na quinta-feira, adicionou duas falhas críticas de segurança que impactam o WSO2, o Adobe Commerce e o Magento ao seu catálogo de Vulnerabilidades Exploradas Conhecidas (KEV), com base em e",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
-      "published": "2026-09-25T04:46:34+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqTAzyCx7Cezy4z5oRz-uAHvdvW1IZDrQlfIqT_ZDJ22Hvarb4lmYWkjqBDI_CngiSy2wuot68b2CgMS_0CWVZS93lYo5wqJsd5-WdFQgO3dieodXpVQiizcFjQsPzUOlVrs32zkBaHAwOyD7S4GCZ3b1d-Jyt4-ZTaMltfU0jG5dwBw5cxj880D4Cx8W0/s1600/ADOBE-CISA.jpg"
-    },
-    {
-      "title": "'Salesbleed' explora agentes Salesforce para permitir phishing no Slack",
-      "summary": "A Agentic AI pode contrabandear instruções arbitrárias da Web, através de vários aplicativos, para canais de comunicação internos confiáveis.",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
-      "published": "2026-09-24T21:04:03+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte47deb12795d1329/6ab55cc6323c1e2e79062eb7/Cloud_painting-Igor_Miller-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "O malware MacSync usa calendários públicos do iCloud para entregar novas cargas",
-      "summary": "Uma nova variante do malware MacSync direcionado a sistemas macOS agora usa eventos públicos do calendário do iCloud para entregar novas cargas nativas. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
-      "published": "2026-09-24T20:53:35+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hacks autônomos de IA levantam questões espinhosas de responsabilidade legal",
-      "summary": "A perspectiva de responsabilização legal não é clara. Os processos judiciais são uma possibilidade, mas alguns especialistas jurídicos acreditam que quaisquer investigações criminais enfrentariam um fardo extremamente elevado. A postagem Hacks autônomos de IA ",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/",
-      "published": "2026-09-24T20:35:21+00:00",
-      "image": ""
-    },
-    {
-      "title": "Novo malware Carbonato usa agentes de IA para sequestrar hosts Docker expostos",
-      "summary": "Um novo malware de botnet chamado Carbonato tem como alvo hosts inseguros que executam daemons Docker para instalar a estrutura Hermes Agent AI e assumir o controle. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
-      "published": "2026-09-24T20:10:48+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falhas não corrigidas do OnePlus permitem que aplicativos Android instalados ganhem root sem permissões",
-      "summary": "Um OnePlus 15 executando o OxygenOS mais recente pode ser enraizado por um aplicativo malicioso instalado pelo proprietário, que não solicita permissões especiais. Um pesquisador, Rasmus Moorats, encadeou duas falhas no software do OnePlus para obter acesso ro",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
-      "published": "2026-09-24T18:10:18+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiGu2guziH88Cs_LnFsPkCJ4zuxqgSX7q3SRrBXdSAEeJPhmYnpNp-c0WCNCqoOoyCv6NcnmCKm20rhqSb2rjw7KZ6Kh6UssR2fZG5SZX9Pjhb_fjONdBfgpxqpWNABPDvSmD9Hp913nErgH4PQm1ehlyspJt5RXASYckP6jHE3G0V2ou5fwkG7JOZyBY/s1600/oneplus.jpg"
-    },
-    {
-      "title": "Confiança e a atraente oferta de consultoria",
-      "summary": "No boletim informativo desta semana, Martin reflete sobre uma suscitação muito suspeita nas redes sociais e sobre o verdadeiro valor da confiança no ecossistema cibernético. A arrogância pode ser a verdadeira vulnerabilidade com a qual a indústria cibernética ",
-      "category": "VULNERABILIDADES",
-      "source": "Cisco Talos",
-      "url": "https://blog.talosintelligence.com/trust-and-the-enticing-consultancy-offer/",
-      "published": "2026-09-24T18:00:37+00:00",
-      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/threat_source-3.jpg"
-    },
-    {
-      "title": "ThreatsDay: envenenamento de pesquisa de IA, repositórios de vazamento de ferramenta de codificação de IA, execução de código com um clique e mais 13 histórias",
-      "summary": "Esta semana, as coisas perigosas continuam chegando disfarçadas de algo chato. Uma atualização. Uma caixa de login. Uma resposta de pesquisa. Uma ferramenta de codificação. Um link em que você clicou centenas de vezes antes. Esse é o fio que atravessa a pilha.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
-      "published": "2026-09-24T17:52:43+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQeh1uEFjgxcgPPJkrXkAnJxZRxA9_ZolFQXNONWmfMGLViusszn4KTiJ9-8_r-AV94NS5BQlZ5eOrFnTvinPXcJB_G4o_BEZdv7xXMdAqfvZPfiUzKjlE70q2V6C9ze8H58pqYh-suKm_Yu1q3LoevignMd7nfjbjV7qx_vEad6BEFKUHwV5UlTFW1-dh/s1600/threatsday-sep.jpg"
-    },
-    {
-      "title": "ThreatsDay: envenenamento de pesquisa de IA, repositórios de vazamento de ferramenta de codificação de IA, execução de código com um clique e mais 13 histórias - The Hacker News",
-      "summary": "ThreatsDay: envenenamento de pesquisa de IA, repositórios de vazamento de ferramenta de codificação de IA, execução de código com um clique e mais 13 histórias The Hacker News",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iRkwzMVBQX291ZTVaMFpva0Rub0dHd2NORUNKazlGUll5bFJPcHBrdGRXU254blFFVXBSbTdwMURySlJFUWMyS2FHdW5iQmlxcjlFenYxWndEWTVnWE5HeFVvRTRUN05lTFZ4NjBKRUZBVzJ0NGRYT2k1WnE?oc=5",
-      "published": "2026-09-24T17:52:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Endereços de e-mail expostos do projeto GitLab permitem que invasores enviem código",
-      "summary": "Endereços de e-mail privados do GitLab que permitem aos desenvolvedores enviar problemas ou tarefas para um projeto estão sendo deliberadamente expostos em READMEs, guias de contribuição e páginas de suporte usadas para coletar relatórios de bugs. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
-      "published": "2026-09-24T17:47:44+00:00",
       "image": ""
     }
   ]
