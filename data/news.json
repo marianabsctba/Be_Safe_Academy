@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-24T21:37:31.468514+00:00",
+  "updated_at": "2026-09-25T05:06:51.580325+00:00",
   "items": [
     {
       "title": "'Salesbleed' explora agentes Salesforce para permitir phishing no Slack",
@@ -38,7 +38,7 @@
       "image": ""
     },
     {
-      "title": "Falhas do OnePlus não corrigidas permitem que aplicativos Android instalados ganhem root sem permissões",
+      "title": "Falhas não corrigidas do OnePlus permitem que aplicativos Android instalados ganhem root sem permissões",
       "summary": "Um OnePlus 15 executando o OxygenOS mais recente pode ser enraizado por um aplicativo malicioso instalado pelo proprietário, que não solicita permissões especiais. Um pesquisador, Rasmus Moorats, encadeou duas falhas no software do OnePlus para obter acesso ro",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
@@ -57,12 +57,21 @@
     },
     {
       "title": "ThreatsDay: envenenamento de pesquisa de IA, repositórios de vazamento de ferramenta de codificação de IA, execução de código com um clique e mais 13 histórias",
-      "summary": "Esta semana, as coisas perigosas continuam chegando vestidas de algo chato. Uma atualização. Uma caixa de login. Uma resposta de pesquisa. Uma ferramenta de codificação. Um link em que você clicou centenas de vezes antes. Esse é o fio que atravessa a pilha. Ca",
+      "summary": "Esta semana, as coisas perigosas continuam chegando disfarçadas de algo chato. Uma atualização. Uma caixa de login. Uma resposta de pesquisa. Uma ferramenta de codificação. Um link em que você clicou centenas de vezes antes. Esse é o fio que atravessa a pilha.",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
       "published": "2026-09-24T17:52:43+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQeh1uEFjgxcgPPJkrXkAnJxZRxA9_ZolFQXNONWmfMGLViusszn4KTiJ9-8_r-AV94NS5BQlZ5eOrFnTvinPXcJB_G4o_BEZdv7xXMdAqfvZPfiUzKjlE70q2V6C9ze8H58pqYh-suKm_Yu1q3LoevignMd7nfjbjV7qx_vEad6BEFKUHwV5UlTFW1-dh/s1600/threatsday-sep.jpg"
+    },
+    {
+      "title": "ThreatsDay: envenenamento de pesquisa de IA, repositórios de vazamento de ferramenta de codificação de IA, execução de código com um clique e mais 13 histórias - thehackernews.com",
+      "summary": "ThreatsDay: envenenamento de pesquisa de IA, repositórios de vazamento de ferramenta de codificação de IA, execução de código com um clique e mais 13 histórias thehackernews.com",
+      "category": "AMEAÇAS",
+      "source": "thehackernews.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iRkwzMVBQX291ZTVaMFpva0Rub0dHd2NORUNKazlGUll5bFJPcHBrdGRXU254blFFVXBSbTdwMURySlJFUWMyS2FHdW5iQmlxcjlFenYxWndEWTVnWE5HeFVvRTRUN05lTFZ4NjBKRUZBVzJ0NGRYT2k1WnE?oc=5",
+      "published": "2026-09-24T17:52:00+00:00",
+      "image": ""
     },
     {
       "title": "Endereços de e-mail expostos do projeto GitLab permitem que invasores enviem código",
@@ -147,20 +156,11 @@
     },
     {
       "title": "FedRAMP VDR e VER: verificações diárias são apenas o começo",
-      "summary": "Os novos requisitos de VDR e VER do FedRAMP tornam o gerenciamento de vulnerabilidades mais contínuo, com varredura mais rápida, prazos de correção mais curtos e requisitos de evidências mais rigorosos. Anecdotes explica por que o prazo de 7 de dezembro é apen",
+      "summary": "Os novos requisitos de VDR e VER do FedRAMP tornam o gerenciamento de vulnerabilidades mais contínuo, com verificação mais rápida, prazos de correção mais curtos e requisitos de evidências mais rigorosos. Anecdotes explica por que o prazo de 7 de dezembro é ap",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
       "published": "2026-09-24T14:02:12+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers agora exploram falha crítica do Roundcube em ataques de injeção de código",
-      "summary": "Uma vulnerabilidade de alta gravidade do Roundcube Webmail corrigida em maio está agora sendo ativamente explorada em ataques, de acordo com o Centro Canadense de Segurança Cibernética. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
-      "published": "2026-09-24T13:27:57+00:00",
       "image": ""
     }
   ]
