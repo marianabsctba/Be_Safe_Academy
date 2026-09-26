@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-25T21:42:00.862617+00:00",
+  "updated_at": "2026-09-26T05:09:36.556892+00:00",
   "items": [
+    {
+      "title": "Kiteworks pede desligamento do servidor em 6 horas devido a possíveis ataques de dia zero",
+      "summary": "A empresa de software de compartilhamento seguro de arquivos Kiteworks está pedindo aos clientes em todo o mundo que desliguem temporariamente seus servidores no sábado por um período de seis horas, após receberem um alerta de inteligência sobre ameaças sobre ",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
+      "published": "2026-09-25T21:41:07+00:00",
+      "image": ""
+    },
     {
       "title": "ShinyHunters hackeou site de vazamento Clop usando falha de passagem de caminho Grav CMS",
       "summary": "A gangue de ransomware Clop mudou seu site de vazamento de dados para um novo endereço Tor depois de confirmar que seu servidor anterior foi comprometido e desfigurado por meio de uma falha não corrigida do Grav CMS que o BleepingComputer descobriu ser uma vul",
@@ -74,10 +83,10 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJFMIQ6v0uJDRoxyIhqsoqsYoXN00dcDH4IvkdQAkRBRj6ha5LIu2-2yzzvQk1OZTc-7tK1fjeqyIh8xvRNvz_CotOtGNsYnejlbHED7cI-bmZFP80JIdxk_0D9I6Zo10-6b4x4euCTaRtz8c6ncYKykDsW7Bt4oFEVYWTe3AHJdiUxM32R6hGP9C0Y0Xf/s1600/github-shai.jpg"
     },
     {
-      "title": "Ações comprometidas do GitHub voltaram on-line e retomaram a execução do malware Mini Shai-Hulud - The Hacker News",
-      "summary": "Ações comprometidas do GitHub voltaram on-line e retomaram a execução do malware Mini Shai-Hulud The Hacker News",
+      "title": "Ações comprometidas do GitHub voltaram on-line e retomaram a execução do malware Mini Shai-Hulud - thehackernews.com",
+      "summary": "Ações comprometidas do GitHub voltaram on-line e retomaram a execução do malware Mini Shai-Hulud thehackernews.com",
       "category": "AMEAÇAS",
-      "source": "The Hacker News",
+      "source": "thehackernews.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS29xd1YzekRTeHZQd25tTVgzbjJ0Ukd2Z1VndzdsVFd5N2ZVT20xYzhVclZwcGdKSE9TU2JfUUhDeGFrUGR6WVhBdXZBNWZvVDcyMjd3OW11S3ZjRDFaT2tBNTZDVlZxQjN3OTFlSFpQRzVsTFZRWmdrd1dXNzlhZQ?oc=5",
       "published": "2026-09-25T14:44:00+00:00",
       "image": ""
@@ -101,17 +110,17 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRZ3gQjU3cKnH6bHzlz8PjeaUqGcrVWnRx-bT-mgDBYv-G4CM2Iix8afTJe8sAXEghuPTiD5KszOYzA0peRhyoGKNW9YE1QtwLubBFuv9YZjXnANEGyMGwi7-oEdIqmtRBWPzUZV7S91WiUX4cI2YVMHVSQbByCmIwAX9oZxvzjb2ScVJmpmMCzpDKaKtN/s1600/macos.jpg"
     },
     {
-      "title": "Malware PamStealer macOS adiciona descriptografia de carga útil C2 ao vivo e persistência multicamadas - The Hacker News",
-      "summary": "Malware PamStealer macOS adiciona descriptografia de carga útil C2 ao vivo e persistência multicamadas The Hacker News",
+      "title": "Malware PamStealer macOS adiciona descriptografia de carga útil C2 ao vivo e persistência multicamadas - thehackernews.com",
+      "summary": "Malware PamStealer macOS adiciona descriptografia de carga útil C2 ao vivo e persistência multicamadas thehackernews.com",
       "category": "AMEAÇAS",
-      "source": "The Hacker News",
+      "source": "thehackernews.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZTlhczE5dXdXYjhNT1pnNHEwT2xvVVh2NUU5Y0M0c0tXMnl2X3dpSlJHd2lpbkZVREwtQXZNaG9LRjNzNHBiZUpYVEstUl9NN2lPZHRJbEZDdlNkQzR3QnRmRTItT0dLcDN6SkxHOFVPemhKZE14VEpJeWtzRUlzdTJR?oc=5",
       "published": "2026-09-25T13:18:00+00:00",
       "image": ""
     },
     {
       "title": "Os agentes agora podem configurar a segurança do seu site com Turnstile Spin",
-      "summary": "A configuração incorreta do Turnstile, ignorando a validação de back-end, deixa os sites expostos a bots. Turnstile Spin corrige configurações incompletas usando seu agente de codificação de IA preferido para conectar a verificação do lado do servidor.",
+      "summary": "A configuração incorreta do Turnstile, ignorando a validação de back-end, deixa os sites expostos a bots. O Turnstile Spin corrige configurações incompletas usando seu agente de codificação de IA preferido para conectar a verificação do lado do servidor.",
       "category": "CLOUD & IA",
       "source": "Cloudflare Security",
       "url": "https://blog.cloudflare.com/turnstile-spin/",
@@ -153,15 +162,6 @@
       "url": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
       "published": "2026-09-25T11:30:00+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0sz5D5hiSWYuUfbRDYDloMNzbx5dpvVQjC5ZVoYzIgvWL_Tkyx8AjNHjZ27RAwaPbCIQXNWB6o_FYzxjimFYHY2pHfp6m6b97tARxhdhqSHBkp2lYpfekwVLvUIm63ruwsHR7RlQkR-2jfOPELG2hjZrrYr9JYr4ndSfVaYIajhTpmB6Ud0DIXz1D_uI/s1600/soc-1.jpg"
-    },
-    {
-      "title": "Sistemas de notificação de arquivos Windows, Linux e Android vazam atividade do usuário",
-      "summary": "Os pesquisadores mostram que os sistemas de notificação de alteração de arquivos podem vazar o tempo de digitação, a atividade de navegação e os eventos de mídia do WhatsApp. A postagem Atividade do usuário com vazamento de sistemas de notificação de arquivos ",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/",
-      "published": "2026-09-25T10:53:32+00:00",
-      "image": ""
     }
   ]
 }
