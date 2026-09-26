@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-09-26T16:31:49.683741+00:00",
+  "updated_at": "2026-09-26T21:18:16.933012+00:00",
   "items": [
+    {
+      "title": "ShinyHunters usa truque de desvio de WAF em ataques Oracle PeopleSoft",
+      "summary": "A gangue de extorsão ShinyHunters está usando um truque de codificação de URL para contornar as regras de firewall de aplicativos da web que atenuam a falha Oracle PeopleSoft CVE-2026-35273, permitindo que os atores da ameaça retomem a exploração generalizada ",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
+      "published": "2026-09-26T19:03:34+00:00",
+      "image": ""
+    },
+    {
+      "title": "Lunex Stealer abusa do driver AMD para desativar o monitoramento de segurança e roubar credenciais do navegador",
+      "summary": "O malware Psychedelic Stealer distribuído por meio de sites ucranianos comprometidos usando verificações Cloudflare no estilo ClickFix faz parte de uma plataforma mais ampla de malware como serviço (MaaS) chamada Lunex. As novas descobertas vêm de Ontinue, que",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
+      "published": "2026-09-26T18:22:52+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlKEfNLMvV7mEVtxmw1nS48l0bWRxvhvRH5MHdn20FjDTm6B0_5okfLjQ49AamYo9DPVC1aV1O2bl11Vd8776ziWsV96tcxQviDK0RjOnGK_Dyx_Zs2e2VBjgChf91_H2cHH0u_UoyAGlGlJkKnozWFqf-sxmXNW0QlnfY3Ilgdkg3p4qG7p3Z0SmdnJMq/s1600/stealer-malware.jpg"
+    },
+    {
+      "title": "China e EUA concordam em estabelecer canal de segurança de IA e continuar negociações comerciais e militares",
+      "summary": "Os EUA e a China concordaram em criar um mecanismo de comunicação para incidentes relacionados com inteligência artificial. A postagem China e EUA concordam em estabelecer canal de segurança de IA e continuar negociações comerciais e militares apareceu pela pr",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/china-and-us-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks/",
+      "published": "2026-09-26T18:09:28+00:00",
+      "image": ""
+    },
     {
       "title": "Novo botnet x47.c do Windows arma xAI Grok e drenagem de API de IA",
       "summary": "O botnet do Windows depende da IA ​​para manter a persistência, usando xAI Grok para escolher ações predefinidas. A postagem Novo botnet x47.c do Windows arma xAI Grok e drenagem de API de IA apareceu pela primeira vez em SecurityWeek.",
@@ -20,7 +47,7 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYN2VWIT2g8mQkV0GeZWzYErKcubb0-baI8J__2nmdElucECc7HrLkdPsR1dz93qjMBI5sr_dL8yPWHf2bwWCBXa3YfutHAeJ-70UCSMuJrHhyOB3RO4OkuDjuw7gxRLXUnK-CeK9jZO0uOJRy-N3w-rV7uZ4t1FnFIWNjEsKtSYQINUvPX31mKzV_5Ert/s1600/oracle-flaw.jpg"
     },
     {
-      "title": "OpenAI afirma que seus modelos estão envolvidos com sites do governo dos EUA na divulgação de mau comportamento de novo modelo",
+      "title": "OpenAI afirma que seus modelos se envolveram com sites do governo dos EUA na divulgação de mau comportamento de novo modelo",
       "summary": "O CEO da OpenAI disse que há uma “revisão extensa e contínua relacionada ao uso do acesso à Internet por nossos agentes durante o treinamento e avaliação”. A postagem OpenAI afirma que seus modelos estão envolvidos com sites do governo dos EUA na divulgação de",
       "category": "DEFESA",
       "source": "SecurityWeek",
@@ -36,6 +63,15 @@
       "url": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
       "published": "2026-09-26T09:55:22+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoCsmpn_im_gimeko6yEdebgucFfzjRrTH0Hmvl1triNXT64w_JdoBIqCrFEApRZ9mmKBYfJQ1fqgfubPH3ZRaWW7SJ2HSr18mBsjSdFE6AwVl362SwcdzHp0EtlL2qoVuYARkSKmOqQaORUjjYVAM-PCT9Itvvkgb69lyVLttezAFtAuCw86RpPu3lAo4/s1600/wordpress-ele.jpg"
+    },
+    {
+      "title": "A falha Elementor CSRF permite que invasores assumam o controle de sites depois que o administrador clica no link criado - The Hacker News",
+      "summary": "A falha Elementor CSRF permite que invasores assumam o controle de sites após o administrador clicar no link criado The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb09jVl8tRnI4dGxxREtrdWJNdGE3RU8yaXNyYmNOUlp4SGh3WGFJMjBWMkNMWk03QzU5QjJpSWNWRlFfWjVSQm1maElfY0x2TnBYQVBrbWxrUGRRSW1ON0FxQ1JzVjFaX2RMUVY3M3lSV3Y5cmJHQ0g0R1hLNl9ObmZyZUY?oc=5",
+      "published": "2026-09-26T09:55:00+00:00",
+      "image": ""
     },
     {
       "title": "Falhas do SharePoint RCE e MikroTik RouterOS exploradas ativamente na natureza",
@@ -125,42 +161,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/in-other-news-clop-leak-site-takeover-docker-botnet-hunts-ai-keys-water-utility-exposure/",
       "published": "2026-09-25T15:07:31+00:00",
-      "image": ""
-    },
-    {
-      "title": "Com a ascensão dos agentes de IA, o SOC 2 deve se adaptar ou arriscar a irrelevância",
-      "summary": "Os agentes de IA podem operar através de credenciais humanas e realizar ações que os controles SOC 2 existentes podem não distinguir da atividade humana. A Token Security explica por que o SOC 2 precisa se adaptar para resolver as lacunas de segurança criadas ",
-      "category": "CLOUD & IA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
-      "published": "2026-09-25T14:51:10+00:00",
-      "image": ""
-    },
-    {
-      "title": "Impedir golpes de profissionais de TI requer um processo de RH renovado",
-      "summary": "Treinar gerentes de recursos humanos nas táticas e sinais de alerta mais recentes ajuda muito a atenuar a ameaça, mas a análise automatizada pode ajudar ainda mais.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process",
-      "published": "2026-09-25T14:46:13+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf21a6316df171b0e/6ab67c37f1423b08bb4916ee/IT-worker-silouette-manufacturing-DC_Studio-shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Ações comprometidas do GitHub voltaram on-line e retomaram a execução do malware Mini Shai-Hulud",
-      "summary": "Duas ações legais do GitHub foram desativadas pela segunda vez depois que os repositórios se tornaram acessíveis na semana passada, meses depois de terem sido comprometidos durante a campanha Mini Shai-Hulud de maio de 2026. As ações afetadas do GitHub estão l",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
-      "published": "2026-09-25T14:44:41+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJFMIQ6v0uJDRoxyIhqsoqsYoXN00dcDH4IvkdQAkRBRj6ha5LIu2-2yzzvQk1OZTc-7tK1fjeqyIh8xvRNvz_CotOtGNsYnejlbHED7cI-bmZFP80JIdxk_0D9I6Zo10-6b4x4euCTaRtz8c6ncYKykDsW7Bt4oFEVYWTe3AHJdiUxM32R6hGP9C0Y0Xf/s1600/github-shai.jpg"
-    },
-    {
-      "title": "Ações comprometidas do GitHub voltaram on-line e retomaram a execução do malware Mini Shai-Hulud - The Hacker News",
-      "summary": "Ações comprometidas do GitHub voltaram on-line e retomaram a execução do malware Mini Shai-Hulud The Hacker News",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS29xd1YzekRTeHZQd25tTVgzbjJ0Ukd2Z1VndzdsVFd5N2ZVT20xYzhVclZwcGdKSE9TU2JfUUhDeGFrUGR6WVhBdXZBNWZvVDcyMjd3OW11S3ZjRDFaT2tBNTZDVlZxQjN3OTFlSFpQRzVsTFZRWmdrd1dXNzlhZQ?oc=5",
-      "published": "2026-09-25T14:44:00+00:00",
       "image": ""
     }
   ]
