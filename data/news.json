@@ -1,8 +1,26 @@
 {
-  "updated_at": "2026-09-26T11:34:44.887593+00:00",
+  "updated_at": "2026-09-26T16:31:49.683741+00:00",
   "items": [
     {
-      "title": "OpenAI afirma que seus modelos se envolveram com sites do governo dos EUA na divulgação de mau comportamento de novo modelo",
+      "title": "Novo botnet x47.c do Windows arma xAI Grok e drenagem de API de IA",
+      "summary": "O botnet do Windows depende da IA ​​para manter a persistência, usando xAI Grok para escolher ações predefinidas. A postagem Novo botnet x47.c do Windows arma xAI Grok e drenagem de API de IA apareceu pela primeira vez em SecurityWeek.",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/",
+      "published": "2026-09-26T12:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Os invasores ignoram os WAFs para explorar a falha do Oracle PeopleSoft e implantar Web Shells",
+      "summary": "O Google está alertando sobre a nova exploração em massa de uma vulnerabilidade de segurança conhecida no Oracle PeopleSoft como parte de uma campanha que visa vários setores em todo o mundo. A atividade vinculada ao ShinyHunters envolve a transformação do CVE",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
+      "published": "2026-09-26T11:46:40+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYN2VWIT2g8mQkV0GeZWzYErKcubb0-baI8J__2nmdElucECc7HrLkdPsR1dz93qjMBI5sr_dL8yPWHf2bwWCBXa3YfutHAeJ-70UCSMuJrHhyOB3RO4OkuDjuw7gxRLXUnK-CeK9jZO0uOJRy-N3w-rV7uZ4t1FnFIWNjEsKtSYQINUvPX31mKzV_5Ert/s1600/oracle-flaw.jpg"
+    },
+    {
+      "title": "OpenAI afirma que seus modelos estão envolvidos com sites do governo dos EUA na divulgação de mau comportamento de novo modelo",
       "summary": "O CEO da OpenAI disse que há uma “revisão extensa e contínua relacionada ao uso do acesso à Internet por nossos agentes durante o treinamento e avaliação”. A postagem OpenAI afirma que seus modelos estão envolvidos com sites do governo dos EUA na divulgação de",
       "category": "DEFESA",
       "source": "SecurityWeek",
@@ -29,6 +47,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHEPamtRBBEzltsUWnj-F8umrMf4eUUhTmGUJdhHlrvWZamHWpBtXcrpQKDArTziRiiIWv8psX4DTZyN9kLBtcAyLOPJma9_M7sYKgYz6WBISbOhJrRlfByfCKfTTMdBqaYUp-0nskrt2ndt3poUFLDGegEFJojS0EzEvwAqzaUNtvX26jZopYE4zA4S3K/s1600/share-kev.jpg"
     },
     {
+      "title": "Falhas do SharePoint RCE e MikroTik RouterOS exploradas ativamente na natureza - The Hacker News",
+      "summary": "Falhas do SharePoint RCE e do MikroTik RouterOS exploradas ativamente na natureza The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNi00NWxsazhoQXFxRzVMSExtclBGOXFIbEJFaWFRbUdDc3dIdXYxVi1IaGdNaXh2RG8xVW5YMWZmQlVaZldQd2U3eXlJcWxNeHo4U1VzcEFSQVFyakRYa2xCWXczSExnUjRzSHhORVZ3SE8zR2xjWkxmbXBPNm50dA?oc=5",
+      "published": "2026-09-26T08:49:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Kiteworks pede aos clientes que desliguem os sistemas por 9 horas devido a um possível ataque cibernético",
       "summary": "A Kiteworks (anteriormente Accellion) está pedindo aos clientes que desliguem seus sistemas como medida de precaução por nove horas no fim de semana, depois de receber informações sobre ameaças sobre um ataque cibernético iminente. \"A Kiteworks recebeu informa",
       "category": "AMEAÇAS",
@@ -36,6 +63,15 @@
       "url": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
       "published": "2026-09-26T07:48:33+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv53vaJYNeZNicsGcrBICKzTEXfHanPN-VR6-pTFsSJEV2IGpJn2MainwfMgqV2k96VN_ocXYLbmykTSVpwTPZr16tauFV37hU3g-lA4X31aqJQFYIsdwlHwNUIhNn9euB8SddL8d7wRKa7Ira2vNi51WNHyJivZ2Z3kkRDcAZtCQfSyvZHNLrZbqbF7jr/s1600/kite.jpg"
+    },
+    {
+      "title": "Kiteworks pede aos clientes que desliguem os sistemas por 9 horas devido a um possível ataque cibernético - The Hacker News",
+      "summary": "Kiteworks pede aos clientes que desliguem os sistemas por 9 horas devido a um possível ataque cibernético The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOVlzV0FhbXpmSXRjMXU2QUticlJUNlpoQ2ZqMEF3TUhjd1BjWlRTcUJMaWhNckthT19jdF9DM3VuWkdrbmhHdkk2VFpmWHQ5eVZrTE55UEU1dkZ3UTBoaVVJbTdTNmJ5MkFpSXRhMEZlNloyQkk1VzE0Y0pfdGZwZ0x5aw?oc=5",
+      "published": "2026-09-26T07:48:00+00:00",
+      "image": ""
     },
     {
       "title": "Kiteworks pede desligamento do servidor em 6 horas devido a possíveis ataques de dia zero",
@@ -126,42 +162,6 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS29xd1YzekRTeHZQd25tTVgzbjJ0Ukd2Z1VndzdsVFd5N2ZVT20xYzhVclZwcGdKSE9TU2JfUUhDeGFrUGR6WVhBdXZBNWZvVDcyMjd3OW11S3ZjRDFaT2tBNTZDVlZxQjN3OTFlSFpQRzVsTFZRWmdrd1dXNzlhZQ?oc=5",
       "published": "2026-09-25T14:44:00+00:00",
       "image": ""
-    },
-    {
-      "title": "Coreia do Norte suspeita de roubo de criptografia Bitget de US$ 351 milhões",
-      "summary": "Os sistemas de segurança da Bitget detectaram as transferências não autorizadas em 24 de setembro, e alguns endereços de carteira vinculados ao invasor foram congelados. A postagem Coreia do Norte é suspeita de roubo de criptografia Bitget de US$ 351 milhões a",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/north-korea-suspected-in-351-million-bitget-crypto-heist/",
-      "published": "2026-09-25T14:16:18+00:00",
-      "image": ""
-    },
-    {
-      "title": "Malware PamStealer macOS adiciona descriptografia de carga útil C2 ao vivo e persistência multicamadas",
-      "summary": "Pesquisadores de segurança cibernética sinalizaram uma nova versão do PamStealer que garante que a carga principal só possa ser recuperada usando uma cadeia de descriptografia do lado do servidor. Os artefatos mais recentes, de acordo com Jamf Threat Labs, con",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html",
-      "published": "2026-09-25T13:18:06+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRZ3gQjU3cKnH6bHzlz8PjeaUqGcrVWnRx-bT-mgDBYv-G4CM2Iix8afTJe8sAXEghuPTiD5KszOYzA0peRhyoGKNW9YE1QtwLubBFuv9YZjXnANEGyMGwi7-oEdIqmtRBWPzUZV7S91WiUX4cI2YVMHVSQbByCmIwAX9oZxvzjb2ScVJmpmMCzpDKaKtN/s1600/macos.jpg"
-    },
-    {
-      "title": "Malware PamStealer macOS adiciona descriptografia de carga útil C2 ao vivo e persistência multicamadas - The Hacker News",
-      "summary": "Malware PamStealer macOS adiciona descriptografia de carga útil C2 ao vivo e persistência multicamadas The Hacker News",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZTlhczE5dXdXYjhNT1pnNHEwT2xvVVh2NUU5Y0M0c0tXMnl2X3dpSlJHd2lpbkZVREwtQXZNaG9LRjNzNHBiZUpYVEstUl9NN2lPZHRJbEZDdlNkQzR3QnRmRTItT0dLcDN6SkxHOFVPemhKZE14VEpJeWtzRUlzdTJR?oc=5",
-      "published": "2026-09-25T13:18:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Os agentes agora podem configurar a segurança do seu site com Turnstile Spin",
-      "summary": "A configuração incorreta do Turnstile, ignorando a validação de back-end, deixa os sites expostos a bots. O Turnstile Spin corrige configurações incompletas usando seu agente de codificação de IA preferido para conectar a verificação do lado do servidor.",
-      "category": "CLOUD & IA",
-      "source": "Cloudflare Security",
-      "url": "https://blog.cloudflare.com/turnstile-spin/",
-      "published": "2026-09-25T13:00:00+00:00",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M3CQMQWGC7WBK8ZR7DG13PFE.01M3CQMRMEBSVS7GAD6GNHZ9JD.png"
     }
   ]
 }
