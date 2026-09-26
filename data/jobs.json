@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-26T05:26:51.932386Z",
+  "updated_at": "2026-09-26T13:28:20.685993Z",
   "scope": "Brasil inteiro + remoto elegível para Brasil",
-  "count": 829,
+  "count": 836,
   "sources": {
     "Jobicy": 165,
     "Remotive": 15,
     "LinkedIn": 8,
     "Gupy": 398,
-    "Arbeitnow": 243
+    "Arbeitnow": 250
   },
   "items": [
     {
@@ -4151,30 +4151,6 @@
       ]
     },
     {
-      "id": "fce24d3624de87b6",
-      "title": "Analista de Segurança da Informação - N2 (12x36 - Diurno)",
-      "company": "Netsecurity",
-      "location": "Brasil",
-      "remote": true,
-      "work_model": "REMOTO",
-      "track": "SOC / BLUE TEAM",
-      "seniority": "START",
-      "source": "Gupy",
-      "url": "https://netsecurity.gupy.io/jobs/11485425?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Segurança da Informação - N2 (12x36 - Diurno) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Segurança da Informação - N2 (12x36 - Diurno) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga O Analista N2 é responsável por atuar em demandas de média e alta comple…",
-      "labs": [
-        {
-          "name": "Curso SOC N1",
-          "url": "https://github.com/marianabsctba/Curso_SOC_N1"
-        },
-        {
-          "name": "SIEM Deploy Lab",
-          "url": "https://github.com/marianabsctba/SIEM_Deploy_Lab"
-        }
-      ]
-    },
-    {
       "id": "3c07b84ae93ba84b",
       "title": "Especialista de SOC",
       "company": "Netsecurity",
@@ -4223,8 +4199,8 @@
       ]
     },
     {
-      "id": "45db6aad0bb559e3",
-      "title": "Analista de Segurança da Informação - N2 (12x36 - Noturno)",
+      "id": "eef566e991b59f43",
+      "title": "Analista de Segurança da Informação - N1 (12x36 - Diurno)",
       "company": "Netsecurity",
       "location": "Brasil",
       "remote": true,
@@ -4232,9 +4208,9 @@
       "track": "SOC / BLUE TEAM",
       "seniority": "START",
       "source": "Gupy",
-      "url": "https://netsecurity.gupy.io/jobs/11485616?jobBoardSource=gupy_public_page",
+      "url": "https://netsecurity.gupy.io/jobs/11484529?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Analista de Segurança da Informação - N2 (12x36 - Noturno) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Segurança da Informação - N2 (12x36 - Noturno) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga O Analista N2 é responsável por atuar em demandas de média e alta comp…",
+      "summary": "Página da Vaga | Analista de Segurança da Informação - N1 (12x36 - Diurno) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Segurança da Informação - N1 (12x36 - Diurno) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Atuar como Analista de Segurança N1 no ambiente de MSS (Managed Security…",
       "labs": [
         {
           "name": "Curso SOC N1",
@@ -4271,8 +4247,8 @@
       ]
     },
     {
-      "id": "eef566e991b59f43",
-      "title": "Analista de Segurança da Informação - N1 (12x36 - Diurno)",
+      "id": "fce24d3624de87b6",
+      "title": "Analista de Segurança da Informação - N2 (12x36 - Diurno)",
       "company": "Netsecurity",
       "location": "Brasil",
       "remote": true,
@@ -4280,9 +4256,9 @@
       "track": "SOC / BLUE TEAM",
       "seniority": "START",
       "source": "Gupy",
-      "url": "https://netsecurity.gupy.io/jobs/11484529?jobBoardSource=gupy_public_page",
+      "url": "https://netsecurity.gupy.io/jobs/11485425?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Analista de Segurança da Informação - N1 (12x36 - Diurno) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Segurança da Informação - N1 (12x36 - Diurno) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Atuar como Analista de Segurança N1 no ambiente de MSS (Managed Security…",
+      "summary": "Página da Vaga | Analista de Segurança da Informação - N2 (12x36 - Diurno) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Segurança da Informação - N2 (12x36 - Diurno) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga O Analista N2 é responsável por atuar em demandas de média e alta comple…",
       "labs": [
         {
           "name": "Curso SOC N1",
@@ -4295,105 +4271,18 @@
       ]
     },
     {
-      "id": "2e1723a10103f613",
-      "title": "Analista de Cibersegurança de Redes (Network Security) | Presencial/ Mato Grosso",
-      "company": "Visioncybersecurity",
+      "id": "45db6aad0bb559e3",
+      "title": "Analista de Segurança da Informação - N2 (12x36 - Noturno)",
+      "company": "Netsecurity",
       "location": "Brasil",
       "remote": true,
       "work_model": "REMOTO",
       "track": "SOC / BLUE TEAM",
-      "seniority": "SÊNIOR",
+      "seniority": "START",
       "source": "Gupy",
-      "url": "https://visioncybersecurity.gupy.io/jobs/12203240?jobBoardSource=gupy_public_page",
+      "url": "https://netsecurity.gupy.io/jobs/11485616?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Analista de Cibersegurança de Redes (Network Security) | Presencial/ Mato Grosso Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Cibersegurança de Redes (Network Security) | Presencial/ Mato Grosso Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga #WeAreVision 🧡 Vision Cybe…",
-      "labs": [
-        {
-          "name": "Curso SOC N1",
-          "url": "https://github.com/marianabsctba/Curso_SOC_N1"
-        },
-        {
-          "name": "SIEM Deploy Lab",
-          "url": "https://github.com/marianabsctba/SIEM_Deploy_Lab"
-        }
-      ]
-    },
-    {
-      "id": "1ffd995ce4e20b02",
-      "title": "Analista de Ciberdefesa Tier 2 (Incidents Analysis) | 12x36 diurno",
-      "company": "Visioncybersecurity",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "SOC / BLUE TEAM",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://visioncybersecurity.gupy.io/jobs/11518579?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Ciberdefesa Tier 2 (Incidents Analysis) | 12x36 diurno Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Ciberdefesa Tier 2 (Incidents Analysis) | 12x36 diurno Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga #WeAreVision 🧡 Vision Cybersecurity: somos o começo, o…",
-      "labs": [
-        {
-          "name": "Curso SOC N1",
-          "url": "https://github.com/marianabsctba/Curso_SOC_N1"
-        },
-        {
-          "name": "SIEM Deploy Lab",
-          "url": "https://github.com/marianabsctba/SIEM_Deploy_Lab"
-        }
-      ]
-    },
-    {
-      "id": "6e8620821945ade3",
-      "title": "Analista de Monitoramento (NOC) | 12x36 diurno",
-      "company": "Visioncybersecurity",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "SOC / BLUE TEAM",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://visioncybersecurity.gupy.io/jobs/11987724?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Monitoramento (NOC) | 12x36 diurno Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Monitoramento (NOC) | 12x36 diurno Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga #WeAreVision 🧡 Vision Cybersecurity: somos o começo, o crescimento e o sucesso da infraestrutu…",
-      "labs": [
-        {
-          "name": "Curso SOC N1",
-          "url": "https://github.com/marianabsctba/Curso_SOC_N1"
-        },
-        {
-          "name": "SIEM Deploy Lab",
-          "url": "https://github.com/marianabsctba/SIEM_Deploy_Lab"
-        }
-      ]
-    },
-    {
-      "id": "c097be97d736f64c",
-      "title": "Analista de Cibervulnerabilidade",
-      "company": "Visioncybersecurity",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "VULNERABILITY",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://visioncybersecurity.gupy.io/jobs/12023965?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Cibervulnerabilidade Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Cibervulnerabilidade Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga #WeAreVision 🧡 Vision Cybersecurity: somos o começo, o crescimento e o sucesso da infraestrutura de tecnologia no Brasil 🚀…",
-      "labs": []
-    },
-    {
-      "id": "7f17549ab79f919b",
-      "title": "Analista de Cibersegurança de Redes (Network Security)",
-      "company": "Visioncybersecurity",
-      "location": "Brasil",
-      "remote": true,
-      "work_model": "REMOTO",
-      "track": "SOC / BLUE TEAM",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://visioncybersecurity.gupy.io/jobs/12061284?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Cibersegurança de Redes (Network Security) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Cibersegurança de Redes (Network Security) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga #WeAreVision 🧡 Vision Cybersecurity: somos o começo, o crescimento e o sucesso…",
+      "summary": "Página da Vaga | Analista de Segurança da Informação - N2 (12x36 - Noturno) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Segurança da Informação - N2 (12x36 - Noturno) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga O Analista N2 é responsável por atuar em demandas de média e alta comp…",
       "labs": [
         {
           "name": "Curso SOC N1",
@@ -4430,22 +4319,65 @@
       ]
     },
     {
-      "id": "b6aaa4b73fc8d79c",
-      "title": "Analista de Operações de Cibersegurança",
+      "id": "1ffd995ce4e20b02",
+      "title": "Analista de Ciberdefesa Tier 2 (Incidents Analysis) | 12x36 diurno",
       "company": "Visioncybersecurity",
       "location": "Brasil",
       "remote": false,
       "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
+      "track": "SOC / BLUE TEAM",
       "seniority": "SÊNIOR",
       "source": "Gupy",
-      "url": "https://visioncybersecurity.gupy.io/jobs/11917494?jobBoardSource=gupy_public_page",
+      "url": "https://visioncybersecurity.gupy.io/jobs/11518579?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Analista de Operações de Cibersegurança Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Operações de Cibersegurança Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga #WeAreVision 🧡 Nós protegemos dados, impulsionamos negócios e fortalecemos o futuro dos nossos clientes por …",
+      "summary": "Página da Vaga | Analista de Ciberdefesa Tier 2 (Incidents Analysis) | 12x36 diurno Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Ciberdefesa Tier 2 (Incidents Analysis) | 12x36 diurno Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga #WeAreVision 🧡 Vision Cybersecurity: somos o começo, o…",
       "labs": [
         {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+          "name": "Curso SOC N1",
+          "url": "https://github.com/marianabsctba/Curso_SOC_N1"
+        },
+        {
+          "name": "SIEM Deploy Lab",
+          "url": "https://github.com/marianabsctba/SIEM_Deploy_Lab"
+        }
+      ]
+    },
+    {
+      "id": "a033f5e0745baf30",
+      "title": "Analista de Cibervulnerabilidade",
+      "company": "Visioncybersecurity",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "VULNERABILITY",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://visioncybersecurity.gupy.io/jobs/12288266?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Cibervulnerabilidade Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Cibervulnerabilidade Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga #WeAreVision 🧡 Vision Cybersecurity: somos o começo, o crescimento e o sucesso da infraestrutura de tecnologia no Brasil 🚀…",
+      "labs": []
+    },
+    {
+      "id": "2e1723a10103f613",
+      "title": "Analista de Cibersegurança de Redes (Network Security) | Presencial/ Mato Grosso",
+      "company": "Visioncybersecurity",
+      "location": "Brasil",
+      "remote": true,
+      "work_model": "REMOTO",
+      "track": "SOC / BLUE TEAM",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://visioncybersecurity.gupy.io/jobs/12203240?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Cibersegurança de Redes (Network Security) | Presencial/ Mato Grosso Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Cibersegurança de Redes (Network Security) | Presencial/ Mato Grosso Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga #WeAreVision 🧡 Vision Cybe…",
+      "labs": [
+        {
+          "name": "Curso SOC N1",
+          "url": "https://github.com/marianabsctba/Curso_SOC_N1"
+        },
+        {
+          "name": "SIEM Deploy Lab",
+          "url": "https://github.com/marianabsctba/SIEM_Deploy_Lab"
         }
       ]
     },
@@ -4470,18 +4402,18 @@
       ]
     },
     {
-      "id": "73f4c0826cccf118",
-      "title": "Databricks Lakehouse Engenheiro(a) de Dados | Sênior (Remote)",
-      "company": "Compass",
+      "id": "7f17549ab79f919b",
+      "title": "Analista de Cibersegurança de Redes (Network Security)",
+      "company": "Visioncybersecurity",
       "location": "Brasil",
       "remote": true,
       "work_model": "REMOTO",
       "track": "SOC / BLUE TEAM",
       "seniority": "SÊNIOR",
       "source": "Gupy",
-      "url": "https://compass.gupy.io/jobs/11880672?jobBoardSource=gupy_public_page",
+      "url": "https://visioncybersecurity.gupy.io/jobs/12061284?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Databricks Lakehouse Engenheiro(a) de Dados | Sênior (Remote) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Databricks Lakehouse Engenheiro(a) de Dados | Sênior (Remote) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga . Responsabilidades e atribuições Colaborar na construção da pla…",
+      "summary": "Página da Vaga | Analista de Cibersegurança de Redes (Network Security) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Cibersegurança de Redes (Network Security) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga #WeAreVision 🧡 Vision Cybersecurity: somos o começo, o crescimento e o sucesso…",
       "labs": [
         {
           "name": "Curso SOC N1",
@@ -4494,62 +4426,18 @@
       ]
     },
     {
-      "id": "a4b0f79c44885a22",
-      "title": "Cybersecurity Analyst| Senior (Remote)",
-      "company": "Compass",
-      "location": "Brasil",
-      "remote": true,
-      "work_model": "REMOTO",
-      "track": "SOC / BLUE TEAM",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://compass.gupy.io/jobs/12564114?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Cybersecurity Analyst| Senior (Remote) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Cybersecurity Analyst| Senior (Remote) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga . Responsabilidades e atribuições Desenvolver e implementar estratégias avançadas de Cibersegurança voltadas à…",
-      "labs": [
-        {
-          "name": "Curso SOC N1",
-          "url": "https://github.com/marianabsctba/Curso_SOC_N1"
-        },
-        {
-          "name": "SIEM Deploy Lab",
-          "url": "https://github.com/marianabsctba/SIEM_Deploy_Lab"
-        }
-      ]
-    },
-    {
-      "id": "3839c3116b917c62",
-      "title": "AI Transformation Engineer | (Hybrid/SP)",
-      "company": "Compass",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://compass.gupy.io/jobs/12306927?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | AI Transformation Engineer | (Hybrid/SP) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se AI Transformation Engineer | (Hybrid/SP) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga . Responsabilidades e atribuições Conduzir iniciativas de adoção e transformação com IA Generativa. Atuar …",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "a82b1768d8c88bd5",
-      "title": "AI Engineer | Mid Senior (Hybrid/SP)",
-      "company": "Compass",
+      "id": "6e8620821945ade3",
+      "title": "Analista de Monitoramento (NOC) | 12x36 diurno",
+      "company": "Visioncybersecurity",
       "location": "Brasil",
       "remote": false,
       "work_model": "NÃO INFORMADO",
       "track": "SOC / BLUE TEAM",
       "seniority": "SÊNIOR",
       "source": "Gupy",
-      "url": "https://compass.gupy.io/jobs/12574452?jobBoardSource=gupy_public_page",
+      "url": "https://visioncybersecurity.gupy.io/jobs/11987724?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | AI Engineer | Mid Senior (Hybrid/SP) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se AI Engineer | Mid Senior (Hybrid/SP) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga . Responsabilidades e atribuições Projetar, desenvolver, integrar e implantar soluções de Inteligência Artificial …",
+      "summary": "Página da Vaga | Analista de Monitoramento (NOC) | 12x36 diurno Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Monitoramento (NOC) | 12x36 diurno Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga #WeAreVision 🧡 Vision Cybersecurity: somos o começo, o crescimento e o sucesso da infraestrutu…",
       "labs": [
         {
           "name": "Curso SOC N1",
@@ -4562,18 +4450,18 @@
       ]
     },
     {
-      "id": "7d78184b484e4142",
-      "title": "Analista de Sistemas | Sênior (Presencial - Porto Alegre/RS)",
-      "company": "Compass",
+      "id": "b6aaa4b73fc8d79c",
+      "title": "Analista de Operações de Cibersegurança",
+      "company": "Visioncybersecurity",
       "location": "Brasil",
       "remote": false,
       "work_model": "NÃO INFORMADO",
       "track": "APPSEC",
       "seniority": "SÊNIOR",
       "source": "Gupy",
-      "url": "https://compass.gupy.io/jobs/12516429?jobBoardSource=gupy_public_page",
+      "url": "https://visioncybersecurity.gupy.io/jobs/11917494?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Analista de Sistemas | Sênior (Presencial - Porto Alegre/RS) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Sistemas | Sênior (Presencial - Porto Alegre/RS) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga . Responsabilidades e atribuições Atuar no levantamento, análise e…",
+      "summary": "Página da Vaga | Analista de Operações de Cibersegurança Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Operações de Cibersegurança Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga #WeAreVision 🧡 Nós protegemos dados, impulsionamos negócios e fortalecemos o futuro dos nossos clientes por …",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -4602,6 +4490,118 @@
       ]
     },
     {
+      "id": "7d78184b484e4142",
+      "title": "Analista de Sistemas | Sênior (Presencial - Porto Alegre/RS)",
+      "company": "Compass",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://compass.gupy.io/jobs/12516429?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Sistemas | Sênior (Presencial - Porto Alegre/RS) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Sistemas | Sênior (Presencial - Porto Alegre/RS) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga . Responsabilidades e atribuições Atuar no levantamento, análise e…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "3839c3116b917c62",
+      "title": "AI Transformation Engineer | (Hybrid/SP)",
+      "company": "Compass",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://compass.gupy.io/jobs/12306927?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | AI Transformation Engineer | (Hybrid/SP) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se AI Transformation Engineer | (Hybrid/SP) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga . Responsabilidades e atribuições Conduzir iniciativas de adoção e transformação com IA Generativa. Atuar …",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "a4b0f79c44885a22",
+      "title": "Cybersecurity Analyst| Senior (Remote)",
+      "company": "Compass",
+      "location": "Brasil",
+      "remote": true,
+      "work_model": "REMOTO",
+      "track": "SOC / BLUE TEAM",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://compass.gupy.io/jobs/12564114?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Cybersecurity Analyst| Senior (Remote) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Cybersecurity Analyst| Senior (Remote) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga . Responsabilidades e atribuições Desenvolver e implementar estratégias avançadas de Cibersegurança voltadas à…",
+      "labs": [
+        {
+          "name": "Curso SOC N1",
+          "url": "https://github.com/marianabsctba/Curso_SOC_N1"
+        },
+        {
+          "name": "SIEM Deploy Lab",
+          "url": "https://github.com/marianabsctba/SIEM_Deploy_Lab"
+        }
+      ]
+    },
+    {
+      "id": "73f4c0826cccf118",
+      "title": "Databricks Lakehouse Engenheiro(a) de Dados | Sênior (Remote)",
+      "company": "Compass",
+      "location": "Brasil",
+      "remote": true,
+      "work_model": "REMOTO",
+      "track": "SOC / BLUE TEAM",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://compass.gupy.io/jobs/11880672?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Databricks Lakehouse Engenheiro(a) de Dados | Sênior (Remote) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Databricks Lakehouse Engenheiro(a) de Dados | Sênior (Remote) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga . Responsabilidades e atribuições Colaborar na construção da pla…",
+      "labs": [
+        {
+          "name": "Curso SOC N1",
+          "url": "https://github.com/marianabsctba/Curso_SOC_N1"
+        },
+        {
+          "name": "SIEM Deploy Lab",
+          "url": "https://github.com/marianabsctba/SIEM_Deploy_Lab"
+        }
+      ]
+    },
+    {
+      "id": "a82b1768d8c88bd5",
+      "title": "AI Engineer | Mid Senior (Hybrid/SP)",
+      "company": "Compass",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "SOC / BLUE TEAM",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://compass.gupy.io/jobs/12574452?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | AI Engineer | Mid Senior (Hybrid/SP) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se AI Engineer | Mid Senior (Hybrid/SP) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga . Responsabilidades e atribuições Projetar, desenvolver, integrar e implantar soluções de Inteligência Artificial …",
+      "labs": [
+        {
+          "name": "Curso SOC N1",
+          "url": "https://github.com/marianabsctba/Curso_SOC_N1"
+        },
+        {
+          "name": "SIEM Deploy Lab",
+          "url": "https://github.com/marianabsctba/SIEM_Deploy_Lab"
+        }
+      ]
+    },
+    {
       "id": "b313b162479214d0",
       "title": "Data Governance Analyst | Senior (Remote)",
       "company": "Compass",
@@ -4614,50 +4614,6 @@
       "url": "https://compass.gupy.io/jobs/12283381?jobBoardSource=gupy_public_page",
       "published": null,
       "summary": "Página da Vaga | Data Governance Analyst | Senior (Remote) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Data Governance Analyst | Senior (Remote) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga . Responsabilidades e atribuições Liderar a implementação e sustentação de políticas, processos e contro…",
-      "labs": [
-        {
-          "name": "GRC Tour",
-          "url": "https://github.com/marianabsctba/GRC_Tour_Senhor_dos_Aneis"
-        },
-        {
-          "name": "Desafio GRC",
-          "url": "https://github.com/marianabsctba/Desafio_Pratico_GRC"
-        }
-      ]
-    },
-    {
-      "id": "3ccf33851470fbb9",
-      "title": "Cientista de Dados Sênior | Machine Learning e IA| Mid/Senior (Hybrid/SP)",
-      "company": "Compass",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://compass.gupy.io/jobs/12561731?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Cientista de Dados Sênior | Machine Learning e IA| Mid/Senior (Hybrid/SP) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Cientista de Dados Sênior | Machine Learning e IA| Mid/Senior (Hybrid/SP) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga . Responsabilidades e atribuições Desenv…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "18f66df2a68cdb8e",
-      "title": "Data Governance Analyst | Mid (Remote)",
-      "company": "Compass",
-      "location": "Brasil",
-      "remote": true,
-      "work_model": "REMOTO",
-      "track": "GRC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://compass.gupy.io/jobs/12281728?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Data Governance Analyst | Mid (Remote) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Data Governance Analyst | Mid (Remote) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga . Responsabilidades e atribuições Realizar a catalogação e classificação de objetos e ativos de dados; Identif…",
       "labs": [
         {
           "name": "GRC Tour",
@@ -4690,38 +4646,42 @@
       ]
     },
     {
-      "id": "b5ec1437dbae0677",
-      "title": "Especialista de Crédito Corporate - Belo Horizonte",
-      "company": "Abcbrasil",
+      "id": "18f66df2a68cdb8e",
+      "title": "Data Governance Analyst | Mid (Remote)",
+      "company": "Compass",
       "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
+      "remote": true,
+      "work_model": "REMOTO",
+      "track": "GRC",
       "seniority": "SÊNIOR",
       "source": "Gupy",
-      "url": "https://abcbrasil.gupy.io/jobs/12421390?jobBoardSource=gupy_public_page",
+      "url": "https://compass.gupy.io/jobs/12281728?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Especialista de Crédito Corporate - Belo Horizonte Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Especialista de Crédito Corporate - Belo Horizonte Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga No Banco ABC Brasil, a gente acredita na autenticidade de cada um. Afinal, temos nosso…",
+      "summary": "Página da Vaga | Data Governance Analyst | Mid (Remote) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Data Governance Analyst | Mid (Remote) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga . Responsabilidades e atribuições Realizar a catalogação e classificação de objetos e ativos de dados; Identif…",
       "labs": [
         {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+          "name": "GRC Tour",
+          "url": "https://github.com/marianabsctba/GRC_Tour_Senhor_dos_Aneis"
+        },
+        {
+          "name": "Desafio GRC",
+          "url": "https://github.com/marianabsctba/Desafio_Pratico_GRC"
         }
       ]
     },
     {
-      "id": "57861d892bf20240",
-      "title": "GERENTE DE RELACIONAMENTO CORPORATE III - Recife",
-      "company": "Abcbrasil",
+      "id": "3ccf33851470fbb9",
+      "title": "Cientista de Dados Sênior | Machine Learning e IA| Mid/Senior (Hybrid/SP)",
+      "company": "Compass",
       "location": "Brasil",
       "remote": false,
       "work_model": "NÃO INFORMADO",
       "track": "APPSEC",
       "seniority": "SÊNIOR",
       "source": "Gupy",
-      "url": "https://abcbrasil.gupy.io/jobs/12040288?jobBoardSource=gupy_public_page",
+      "url": "https://compass.gupy.io/jobs/12561731?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | GERENTE DE RELACIONAMENTO CORPORATE III - Recife Pular para o conteúdo principal Ir para a página da empresa Candidatar-se GERENTE DE RELACIONAMENTO CORPORATE III - Recife Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga No Banco ABC Brasil, a gente acredita na autenticidade de cada um. Afinal, temos nosso jei…",
+      "summary": "Página da Vaga | Cientista de Dados Sênior | Machine Learning e IA| Mid/Senior (Hybrid/SP) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Cientista de Dados Sênior | Machine Learning e IA| Mid/Senior (Hybrid/SP) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga . Responsabilidades e atribuições Desenv…",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -4750,26 +4710,82 @@
       ]
     },
     {
-      "id": "b44e7bc205c1aa86",
-      "title": "Analista de Treinamento e Desenvolvimento Senior",
+      "id": "a55b721d69068f59",
+      "title": "Gerente de Cash Management I - Rio de Janeiro",
+      "company": "Abcbrasil",
+      "location": "Brasil",
+      "remote": true,
+      "work_model": "REMOTO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://abcbrasil.gupy.io/jobs/12542430?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Gerente de Cash Management I - Rio de Janeiro Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Gerente de Cash Management I - Rio de Janeiro Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga No Banco ABC Brasil, a gente acredita na autenticidade de cada um. Afinal, temos nosso jeito de …",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "57861d892bf20240",
+      "title": "GERENTE DE RELACIONAMENTO CORPORATE III - Recife",
       "company": "Abcbrasil",
       "location": "Brasil",
       "remote": false,
       "work_model": "NÃO INFORMADO",
-      "track": "GRC",
+      "track": "APPSEC",
       "seniority": "SÊNIOR",
       "source": "Gupy",
-      "url": "https://abcbrasil.gupy.io/jobs/12460286?jobBoardSource=gupy_public_page",
+      "url": "https://abcbrasil.gupy.io/jobs/12040288?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Analista de Treinamento e Desenvolvimento Senior Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Treinamento e Desenvolvimento Senior Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Oportunidade para integrar o time de Educação Corporativa, Desenvolvimento e Cultura, com …",
+      "summary": "Página da Vaga | GERENTE DE RELACIONAMENTO CORPORATE III - Recife Pular para o conteúdo principal Ir para a página da empresa Candidatar-se GERENTE DE RELACIONAMENTO CORPORATE III - Recife Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga No Banco ABC Brasil, a gente acredita na autenticidade de cada um. Afinal, temos nosso jei…",
       "labs": [
         {
-          "name": "GRC Tour",
-          "url": "https://github.com/marianabsctba/GRC_Tour_Senhor_dos_Aneis"
-        },
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "b5ec1437dbae0677",
+      "title": "Especialista de Crédito Corporate - Belo Horizonte",
+      "company": "Abcbrasil",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://abcbrasil.gupy.io/jobs/12421390?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Especialista de Crédito Corporate - Belo Horizonte Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Especialista de Crédito Corporate - Belo Horizonte Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga No Banco ABC Brasil, a gente acredita na autenticidade de cada um. Afinal, temos nosso…",
+      "labs": [
         {
-          "name": "Desafio GRC",
-          "url": "https://github.com/marianabsctba/Desafio_Pratico_GRC"
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "2fefd626bf604b1a",
+      "title": "Analista de Atendimento à Cash Management Pl",
+      "company": "Abcbrasil",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://abcbrasil.gupy.io/jobs/11879776?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Atendimento à Cash Management Pl Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Atendimento à Cash Management Pl Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga No Banco ABC Brasil, a gente acredita na autenticidade de cada um. Afinal, temos nosso jeito de fa…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
         }
       ]
     },
@@ -4814,66 +4830,6 @@
       ]
     },
     {
-      "id": "2fefd626bf604b1a",
-      "title": "Analista de Atendimento à Cash Management Pl",
-      "company": "Abcbrasil",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://abcbrasil.gupy.io/jobs/11879776?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Atendimento à Cash Management Pl Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Atendimento à Cash Management Pl Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga No Banco ABC Brasil, a gente acredita na autenticidade de cada um. Afinal, temos nosso jeito de fa…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "a55b721d69068f59",
-      "title": "Gerente de Cash Management I - Rio de Janeiro",
-      "company": "Abcbrasil",
-      "location": "Brasil",
-      "remote": true,
-      "work_model": "REMOTO",
-      "track": "APPSEC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://abcbrasil.gupy.io/jobs/12542430?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Gerente de Cash Management I - Rio de Janeiro Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Gerente de Cash Management I - Rio de Janeiro Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga No Banco ABC Brasil, a gente acredita na autenticidade de cada um. Afinal, temos nosso jeito de …",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "68da3bda81b9b405",
-      "title": "GERENTE DE RELACIONAMENTO AGRO CORPORATE - MT",
-      "company": "Abcbrasil",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://abcbrasil.gupy.io/jobs/12463724?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | GERENTE DE RELACIONAMENTO AGRO CORPORATE - MT Pular para o conteúdo principal Ir para a página da empresa Candidatar-se GERENTE DE RELACIONAMENTO AGRO CORPORATE - MT Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga O Banco ABC Brasil valoriza a busca de talentos e dá aos seus colaboradores um ambiente cheio de…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
       "id": "f2af720ff3adf18f",
       "title": "Jovem Aprendiz Comercial - Large Corporate",
       "company": "Abcbrasil",
@@ -4898,18 +4854,42 @@
       ]
     },
     {
-      "id": "4bf9ea0ed382a584",
-      "title": "Digital Marketing Specialist",
-      "company": "Creditas",
+      "id": "b44e7bc205c1aa86",
+      "title": "Analista de Treinamento e Desenvolvimento Senior",
+      "company": "Abcbrasil",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "GRC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://abcbrasil.gupy.io/jobs/12460286?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Treinamento e Desenvolvimento Senior Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Treinamento e Desenvolvimento Senior Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Oportunidade para integrar o time de Educação Corporativa, Desenvolvimento e Cultura, com …",
+      "labs": [
+        {
+          "name": "GRC Tour",
+          "url": "https://github.com/marianabsctba/GRC_Tour_Senhor_dos_Aneis"
+        },
+        {
+          "name": "Desafio GRC",
+          "url": "https://github.com/marianabsctba/Desafio_Pratico_GRC"
+        }
+      ]
+    },
+    {
+      "id": "68da3bda81b9b405",
+      "title": "GERENTE DE RELACIONAMENTO AGRO CORPORATE - MT",
+      "company": "Abcbrasil",
       "location": "Brasil",
       "remote": false,
       "work_model": "NÃO INFORMADO",
       "track": "APPSEC",
       "seniority": "SÊNIOR",
       "source": "Gupy",
-      "url": "https://creditas.gupy.io/jobs/12319180?jobBoardSource=gupy_public_page",
+      "url": "https://abcbrasil.gupy.io/jobs/12463724?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Digital Marketing Specialist Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Digital Marketing Specialist Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Nosso time de Marketing: Atuamos na estruturação, mensuração e garantia da qualidade dos dados de marketing da Creditas, conectand…",
+      "summary": "Página da Vaga | GERENTE DE RELACIONAMENTO AGRO CORPORATE - MT Pular para o conteúdo principal Ir para a página da empresa Candidatar-se GERENTE DE RELACIONAMENTO AGRO CORPORATE - MT Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga O Banco ABC Brasil valoriza a busca de talentos e dá aos seus colaboradores um ambiente cheio de…",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -4938,58 +4918,18 @@
       ]
     },
     {
-      "id": "75eae6c4157c5088",
-      "title": "Engineering Lead | AI & Data Platform",
+      "id": "34dd37dc2c24b16e",
+      "title": "Analista de Departamento Pessoal Sênior | Folha de Pagamento",
       "company": "Creditas",
       "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://creditas.gupy.io/jobs/11843342?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Engineering Lead | AI & Data Platform Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Engineering Lead | AI & Data Platform Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Nosso time de Data Engineering: Construa a próxima geração da plataforma de dados e IA da Creditas Na Creditas, …",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "ed929f208e213d5d",
-      "title": "Pessoa Consultora de Cobrança Júnior | Auto (Afirmativa para Pessoas com Deficiência)",
-      "company": "Creditas",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
+      "remote": true,
+      "work_model": "REMOTO",
       "track": "APPSEC",
       "seniority": "START",
       "source": "Gupy",
-      "url": "https://creditas.gupy.io/jobs/12492684?jobBoardSource=gupy_public_page",
+      "url": "https://creditas.gupy.io/jobs/12596137?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Pessoa Consultora de Cobrança Júnior | Auto (Afirmativa para Pessoas com Deficiência) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Pessoa Consultora de Cobrança Júnior | Auto (Afirmativa para Pessoas com Deficiência) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Nosso time de Ne…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "a327bf378c9a94a0",
-      "title": "Pessoa Consultora de Cobrança Júnior | Home - Aluguéis (Afirmativa para Pessoas com Deficiência)",
-      "company": "Creditas",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "START",
-      "source": "Gupy",
-      "url": "https://creditas.gupy.io/jobs/12492679?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Pessoa Consultora de Cobrança Júnior | Home - Aluguéis (Afirmativa para Pessoas com Deficiência) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Pessoa Consultora de Cobrança Júnior | Home - Aluguéis (Afirmativa para Pessoas com Deficiência) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da…",
+      "summary": "Página da Vaga | Analista de Departamento Pessoal Sênior | Folha de Pagamento Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Departamento Pessoal Sênior | Folha de Pagamento Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Nosso time de People Operations: Somos o time que garante que a Tr…",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -5018,8 +4958,8 @@
       ]
     },
     {
-      "id": "02a3f049f9080d84",
-      "title": "Analista de Controles Internos Pleno",
+      "id": "ed929f208e213d5d",
+      "title": "Pessoa Consultora de Cobrança Júnior | Auto (Afirmativa para Pessoas com Deficiência)",
       "company": "Creditas",
       "location": "Brasil",
       "remote": false,
@@ -5027,9 +4967,9 @@
       "track": "APPSEC",
       "seniority": "START",
       "source": "Gupy",
-      "url": "https://creditas.gupy.io/jobs/12091559?jobBoardSource=gupy_public_page",
+      "url": "https://creditas.gupy.io/jobs/12492684?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Analista de Controles Internos Pleno Pular para o conteúdo principal Ir para a página da empresa Candidate-se pelo WhatsApp Analista de Controles Internos Pleno Copiar link Erro ao copiar link Ir para candidatura Descrição da vaga Nosso time de Controles Internos: Somos a segunda linha de defesa da Creditas responsáveis por avaliar o desenho e a efetividade dos…",
+      "summary": "Página da Vaga | Pessoa Consultora de Cobrança Júnior | Auto (Afirmativa para Pessoas com Deficiência) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Pessoa Consultora de Cobrança Júnior | Auto (Afirmativa para Pessoas com Deficiência) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Nosso time de Ne…",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -5038,18 +4978,58 @@
       ]
     },
     {
-      "id": "34dd37dc2c24b16e",
-      "title": "Analista de Departamento Pessoal Sênior | Folha de Pagamento",
+      "id": "4bf9ea0ed382a584",
+      "title": "Digital Marketing Specialist",
+      "company": "Creditas",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://creditas.gupy.io/jobs/12319180?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Digital Marketing Specialist Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Digital Marketing Specialist Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Nosso time de Marketing: Atuamos na estruturação, mensuração e garantia da qualidade dos dados de marketing da Creditas, conectand…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "985474af339caac2",
+      "title": "Afirma Crê | Programa de Contratação para Pessoas com Deficiência",
       "company": "Creditas",
       "location": "Brasil",
       "remote": true,
       "work_model": "REMOTO",
       "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://creditas.gupy.io/jobs/12396666?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Afirma Crê | Programa de Contratação para Pessoas com Deficiência Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Afirma Crê | Programa de Contratação para Pessoas com Deficiência Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Nosso Programa de Inclusão: Em 2026, a Creditas segue co…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "a327bf378c9a94a0",
+      "title": "Pessoa Consultora de Cobrança Júnior | Home - Aluguéis (Afirmativa para Pessoas com Deficiência)",
+      "company": "Creditas",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
       "seniority": "START",
       "source": "Gupy",
-      "url": "https://creditas.gupy.io/jobs/12596137?jobBoardSource=gupy_public_page",
+      "url": "https://creditas.gupy.io/jobs/12492679?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Analista de Departamento Pessoal Sênior | Folha de Pagamento Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Departamento Pessoal Sênior | Folha de Pagamento Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Nosso time de People Operations: Somos o time que garante que a Tr…",
+      "summary": "Página da Vaga | Pessoa Consultora de Cobrança Júnior | Home - Aluguéis (Afirmativa para Pessoas com Deficiência) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Pessoa Consultora de Cobrança Júnior | Home - Aluguéis (Afirmativa para Pessoas com Deficiência) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da…",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -5078,18 +5058,18 @@
       ]
     },
     {
-      "id": "985474af339caac2",
-      "title": "Afirma Crê | Programa de Contratação para Pessoas com Deficiência",
+      "id": "75eae6c4157c5088",
+      "title": "Engineering Lead | AI & Data Platform",
       "company": "Creditas",
       "location": "Brasil",
-      "remote": true,
-      "work_model": "REMOTO",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
       "track": "APPSEC",
       "seniority": "SÊNIOR",
       "source": "Gupy",
-      "url": "https://creditas.gupy.io/jobs/12396666?jobBoardSource=gupy_public_page",
+      "url": "https://creditas.gupy.io/jobs/11843342?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Afirma Crê | Programa de Contratação para Pessoas com Deficiência Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Afirma Crê | Programa de Contratação para Pessoas com Deficiência Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Nosso Programa de Inclusão: Em 2026, a Creditas segue co…",
+      "summary": "Página da Vaga | Engineering Lead | AI & Data Platform Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Engineering Lead | AI & Data Platform Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Nosso time de Data Engineering: Construa a próxima geração da plataforma de dados e IA da Creditas Na Creditas, …",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -5098,8 +5078,28 @@
       ]
     },
     {
-      "id": "fa90c30a9930fd1e",
-      "title": "Analista Administrativo (Recuperação de Crédito) - Regional MT/RO",
+      "id": "02a3f049f9080d84",
+      "title": "Analista de Controles Internos Pleno",
+      "company": "Creditas",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "START",
+      "source": "Gupy",
+      "url": "https://creditas.gupy.io/jobs/12091559?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Controles Internos Pleno Pular para o conteúdo principal Ir para a página da empresa Candidate-se pelo WhatsApp Analista de Controles Internos Pleno Copiar link Erro ao copiar link Ir para candidatura Descrição da vaga Nosso time de Controles Internos: Somos a segunda linha de defesa da Creditas responsáveis por avaliar o desenho e a efetividade dos…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "d523ecd360f1175a",
+      "title": "Analista Administrativo - Recuperação de Crédito | Cresol Alto Vale (Pouso Redondo/SC)",
       "company": "Cresolcarreiras",
       "location": "Brasil",
       "remote": false,
@@ -5107,9 +5107,9 @@
       "track": "APPSEC",
       "seniority": "SÊNIOR",
       "source": "Gupy",
-      "url": "https://cresolcarreiras.gupy.io/jobs/12542332?jobBoardSource=gupy_public_page",
+      "url": "https://cresolcarreiras.gupy.io/jobs/12482299?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Analista Administrativo (Recuperação de Crédito) - Regional MT/RO Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista Administrativo (Recuperação de Crédito) - Regional MT/RO Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Venha fazer a diferença com a gente! 🧡 Estamos em busca …",
+      "summary": "Página da Vaga | Analista Administrativo - Recuperação de Crédito | Cresol Alto Vale (Pouso Redondo/SC) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista Administrativo - Recuperação de Crédito | Cresol Alto Vale (Pouso Redondo/SC) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Venha fazer a …",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -5142,6 +5142,86 @@
       ]
     },
     {
+      "id": "306c0cc871785007",
+      "title": "Analista Administrativo (CRM) | Cresol Transformação (Presidente Getúlio/SC)",
+      "company": "Cresolcarreiras",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://cresolcarreiras.gupy.io/jobs/10748901?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista Administrativo (CRM) | Cresol Transformação (Presidente Getúlio/SC) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista Administrativo (CRM) | Cresol Transformação (Presidente Getúlio/SC) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Venha fazer a diferença com a gent…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "f4f3261385a98836",
+      "title": "Analista Administrativo (Processos de Crédito) | Cresol Rio Grande do Sul",
+      "company": "Cresolcarreiras",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://cresolcarreiras.gupy.io/jobs/11532399?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista Administrativo (Processos de Crédito) | Cresol Rio Grande do Sul Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista Administrativo (Processos de Crédito) | Cresol Rio Grande do Sul Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Venha fazer a diferença com a gente! 🧡 E…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "ce68a12108bfe867",
+      "title": "Analista de Comunicação e Marketing| Cresol Raiz (Novo Hamburgo/RS)",
+      "company": "Cresolcarreiras",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "START",
+      "source": "Gupy",
+      "url": "https://cresolcarreiras.gupy.io/jobs/12561799?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Comunicação e Marketing| Cresol Raiz (Novo Hamburgo/RS) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Comunicação e Marketing| Cresol Raiz (Novo Hamburgo/RS) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Venha fazer a diferença com a gente! 🧡 Estamos em bu…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "fa90c30a9930fd1e",
+      "title": "Analista Administrativo (Recuperação de Crédito) - Regional MT/RO",
+      "company": "Cresolcarreiras",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://cresolcarreiras.gupy.io/jobs/12542332?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista Administrativo (Recuperação de Crédito) - Regional MT/RO Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista Administrativo (Recuperação de Crédito) - Regional MT/RO Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Venha fazer a diferença com a gente! 🧡 Estamos em busca …",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
       "id": "87f8687fce639edd",
       "title": "Administrador de Banco de Dados DBA | Cresol Confederação - CSC",
       "company": "Cresolcarreiras",
@@ -5162,8 +5242,8 @@
       ]
     },
     {
-      "id": "306c0cc871785007",
-      "title": "Analista Administrativo (CRM) | Cresol Transformação (Presidente Getúlio/SC)",
+      "id": "45156ccb9384620e",
+      "title": "Analista Administrativo I Pontal do Paraná/PR",
       "company": "Cresolcarreiras",
       "location": "Brasil",
       "remote": false,
@@ -5171,9 +5251,9 @@
       "track": "APPSEC",
       "seniority": "SÊNIOR",
       "source": "Gupy",
-      "url": "https://cresolcarreiras.gupy.io/jobs/10748901?jobBoardSource=gupy_public_page",
+      "url": "https://cresolcarreiras.gupy.io/jobs/12532878?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Analista Administrativo (CRM) | Cresol Transformação (Presidente Getúlio/SC) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista Administrativo (CRM) | Cresol Transformação (Presidente Getúlio/SC) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Venha fazer a diferença com a gent…",
+      "summary": "Página da Vaga | Analista Administrativo I Pontal do Paraná/PR Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista Administrativo I Pontal do Paraná/PR Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Venha fazer a diferença com a gente! 🧡 Estamos em busca de um(a) Analista Administrativo para fo…",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -5222,82 +5302,26 @@
       ]
     },
     {
-      "id": "ce68a12108bfe867",
-      "title": "Analista de Comunicação e Marketing| Cresol Raiz (Novo Hamburgo/RS)",
-      "company": "Cresolcarreiras",
+      "id": "430be5671d5462bb",
+      "title": "Banco de Talentos (Exclusiva para Pessoa com Deficiência - PcD)",
+      "company": "Clicksign",
       "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "START",
-      "source": "Gupy",
-      "url": "https://cresolcarreiras.gupy.io/jobs/12561799?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Comunicação e Marketing| Cresol Raiz (Novo Hamburgo/RS) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Comunicação e Marketing| Cresol Raiz (Novo Hamburgo/RS) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Venha fazer a diferença com a gente! 🧡 Estamos em bu…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "f4f3261385a98836",
-      "title": "Analista Administrativo (Processos de Crédito) | Cresol Rio Grande do Sul",
-      "company": "Cresolcarreiras",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
+      "remote": true,
+      "work_model": "REMOTO",
+      "track": "GRC",
       "seniority": "SÊNIOR",
       "source": "Gupy",
-      "url": "https://cresolcarreiras.gupy.io/jobs/11532399?jobBoardSource=gupy_public_page",
+      "url": "https://clicksign.gupy.io/jobs/11070411?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Analista Administrativo (Processos de Crédito) | Cresol Rio Grande do Sul Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista Administrativo (Processos de Crédito) | Cresol Rio Grande do Sul Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Venha fazer a diferença com a gente! 🧡 E…",
+      "summary": "Página da Vaga | Banco de Talentos (Exclusiva para Pessoa com Deficiência - PcD) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Banco de Talentos (Exclusiva para Pessoa com Deficiência - PcD) Copiar link Erro ao copiar link Essa inscrição no Banco de Talentos é para que a empresa te considere em futuras oportunidades. Entenda mais Compartilhar vaga Li…",
       "labs": [
         {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "d523ecd360f1175a",
-      "title": "Analista Administrativo - Recuperação de Crédito | Cresol Alto Vale (Pouso Redondo/SC)",
-      "company": "Cresolcarreiras",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://cresolcarreiras.gupy.io/jobs/12482299?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista Administrativo - Recuperação de Crédito | Cresol Alto Vale (Pouso Redondo/SC) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista Administrativo - Recuperação de Crédito | Cresol Alto Vale (Pouso Redondo/SC) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Venha fazer a …",
-      "labs": [
+          "name": "GRC Tour",
+          "url": "https://github.com/marianabsctba/GRC_Tour_Senhor_dos_Aneis"
+        },
         {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "45156ccb9384620e",
-      "title": "Analista Administrativo I Pontal do Paraná/PR",
-      "company": "Cresolcarreiras",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://cresolcarreiras.gupy.io/jobs/12532878?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista Administrativo I Pontal do Paraná/PR Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista Administrativo I Pontal do Paraná/PR Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Venha fazer a diferença com a gente! 🧡 Estamos em busca de um(a) Analista Administrativo para fo…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+          "name": "Desafio GRC",
+          "url": "https://github.com/marianabsctba/Desafio_Pratico_GRC"
         }
       ]
     },
@@ -5314,6 +5338,26 @@
       "url": "https://clicksign.gupy.io/jobs/12299313?jobBoardSource=gupy_public_page",
       "published": null,
       "summary": "Página da Vaga | Desenvolvedor(a) Backend Sênior - Atuação Tech Lead Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Desenvolvedor(a) Backend Sênior - Atuação Tech Lead Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Sobre a Clicksign Somos uma empresa brasileira líder em assinaturas eletrônicas. Em …",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "0bac632f889c092b",
+      "title": "Analista de Customer Success (Vaga afirmativa para Pessoa com Deficiência - PCD)",
+      "company": "Clicksign",
+      "location": "Brasil",
+      "remote": true,
+      "work_model": "REMOTO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://clicksign.gupy.io/jobs/11415479?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Customer Success (Vaga afirmativa para Pessoa com Deficiência - PCD) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Customer Success (Vaga afirmativa para Pessoa com Deficiência - PCD) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga O Time de Customer Success…",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -5342,50 +5386,6 @@
       ]
     },
     {
-      "id": "430be5671d5462bb",
-      "title": "Banco de Talentos (Exclusiva para Pessoa com Deficiência - PcD)",
-      "company": "Clicksign",
-      "location": "Brasil",
-      "remote": true,
-      "work_model": "REMOTO",
-      "track": "GRC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://clicksign.gupy.io/jobs/11070411?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Banco de Talentos (Exclusiva para Pessoa com Deficiência - PcD) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Banco de Talentos (Exclusiva para Pessoa com Deficiência - PcD) Copiar link Erro ao copiar link Essa inscrição no Banco de Talentos é para que a empresa te considere em futuras oportunidades. Entenda mais Compartilhar vaga Li…",
-      "labs": [
-        {
-          "name": "GRC Tour",
-          "url": "https://github.com/marianabsctba/GRC_Tour_Senhor_dos_Aneis"
-        },
-        {
-          "name": "Desafio GRC",
-          "url": "https://github.com/marianabsctba/Desafio_Pratico_GRC"
-        }
-      ]
-    },
-    {
-      "id": "9747cef5cdf74ce4",
-      "title": "Analista de Customer Success Pleno - Incentivo de Uso",
-      "company": "Clicksign",
-      "location": "Brasil",
-      "remote": true,
-      "work_model": "REMOTO",
-      "track": "APPSEC",
-      "seniority": "PLENO",
-      "source": "Gupy",
-      "url": "https://clicksign.gupy.io/jobs/12064642?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Customer Success Pleno - Incentivo de Uso Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Customer Success Pleno - Incentivo de Uso Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Sobre a Clicksign Somos uma empresa brasileira líder em assinaturas eletrônicas.…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
       "id": "25d28ce4f2ffa544",
       "title": "Analista de Suporte Técnico Sênior",
       "company": "Clicksign",
@@ -5406,6 +5406,26 @@
       ]
     },
     {
+      "id": "30b7040427a43312",
+      "title": "Analista de Dados Pleno/Sênior de Produto",
+      "company": "Clicksign",
+      "location": "Brasil",
+      "remote": true,
+      "work_model": "REMOTO",
+      "track": "APPSEC",
+      "seniority": "PLENO",
+      "source": "Gupy",
+      "url": "https://clicksign.gupy.io/jobs/11991328?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Dados Pleno/Sênior de Produto Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Dados Pleno/Sênior de Produto Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Sobre a Clicksign Somos uma empresa brasileira líder em assinaturas eletrônicas. Em essência, facilitamo…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
       "id": "4521f8b16d366e39",
       "title": "Desenvolvedor(a) Backend ou Frontend (Vaga afirmativa para Pessoa com Deficiência - PCD)",
       "company": "Clicksign",
@@ -5418,6 +5438,26 @@
       "url": "https://clicksign.gupy.io/jobs/11415452?jobBoardSource=gupy_public_page",
       "published": null,
       "summary": "Página da Vaga | Desenvolvedor(a) Backend ou Frontend (Vaga afirmativa para Pessoa com Deficiência - PCD) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Desenvolvedor(a) Backend ou Frontend (Vaga afirmativa para Pessoa com Deficiência - PCD) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Sobre a Cl…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "9747cef5cdf74ce4",
+      "title": "Analista de Customer Success Pleno - Incentivo de Uso",
+      "company": "Clicksign",
+      "location": "Brasil",
+      "remote": true,
+      "work_model": "REMOTO",
+      "track": "APPSEC",
+      "seniority": "PLENO",
+      "source": "Gupy",
+      "url": "https://clicksign.gupy.io/jobs/12064642?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Customer Success Pleno - Incentivo de Uso Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Customer Success Pleno - Incentivo de Uso Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Sobre a Clicksign Somos uma empresa brasileira líder em assinaturas eletrônicas.…",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -5466,86 +5506,22 @@
       ]
     },
     {
-      "id": "30b7040427a43312",
-      "title": "Analista de Dados Pleno/Sênior de Produto",
-      "company": "Clicksign",
-      "location": "Brasil",
-      "remote": true,
-      "work_model": "REMOTO",
-      "track": "APPSEC",
-      "seniority": "PLENO",
-      "source": "Gupy",
-      "url": "https://clicksign.gupy.io/jobs/11991328?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Dados Pleno/Sênior de Produto Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Dados Pleno/Sênior de Produto Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Sobre a Clicksign Somos uma empresa brasileira líder em assinaturas eletrônicas. Em essência, facilitamo…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "0bac632f889c092b",
-      "title": "Analista de Customer Success (Vaga afirmativa para Pessoa com Deficiência - PCD)",
-      "company": "Clicksign",
-      "location": "Brasil",
-      "remote": true,
-      "work_model": "REMOTO",
-      "track": "APPSEC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://clicksign.gupy.io/jobs/11415479?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Customer Success (Vaga afirmativa para Pessoa com Deficiência - PCD) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Customer Success (Vaga afirmativa para Pessoa com Deficiência - PCD) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga O Time de Customer Success…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "eaa8cfd62d709a8a",
-      "title": "Analista de Produção Júnior",
+      "id": "0834536a5085c1bf",
+      "title": "Especialista em Sustentação de Tecnologia",
       "company": "Bib",
       "location": "Brasil",
       "remote": false,
       "work_model": "NÃO INFORMADO",
       "track": "APPSEC",
-      "seniority": "START",
+      "seniority": "SÊNIOR",
       "source": "Gupy",
-      "url": "https://bib.gupy.io/jobs/12514308?jobBoardSource=gupy_public_page",
+      "url": "https://bib.gupy.io/jobs/12545352?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Analista de Produção Júnior Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Produção Júnior Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga O BIB Tech está em busca de um(a) Analista de Produção Júnior para apoiar o monitoramento e a sustentação dos ambientes produtivos d…",
+      "summary": "Página da Vaga | Especialista em Sustentação de Tecnologia Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Especialista em Sustentação de Tecnologia Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga O BIB Tech , área de Tecnologia do Banco Industrial do Brasil, está em busca de um(a) Especialista em Su…",
       "labs": [
         {
           "name": "Aulinha WAAP",
           "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "ad552183e342e925",
-      "title": "Analista Sênior de Segurança da Informação – Governança",
-      "company": "Bib",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "GRC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://bib.gupy.io/jobs/12602833?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista Sênior de Segurança da Informação – Governança Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista Sênior de Segurança da Informação – Governança Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga No BIB Tech, frente de tecnologia do Banco Industrial do Brasil, a administr…",
-      "labs": [
-        {
-          "name": "GRC Tour",
-          "url": "https://github.com/marianabsctba/GRC_Tour_Senhor_dos_Aneis"
-        },
-        {
-          "name": "Desafio GRC",
-          "url": "https://github.com/marianabsctba/Desafio_Pratico_GRC"
         }
       ]
     },
@@ -5570,8 +5546,8 @@
       ]
     },
     {
-      "id": "0834536a5085c1bf",
-      "title": "Especialista em Sustentação de Tecnologia",
+      "id": "0f28042b97f32804",
+      "title": "Analista de Banco de Dados Sênior",
       "company": "Bib",
       "location": "Brasil",
       "remote": false,
@@ -5579,9 +5555,29 @@
       "track": "APPSEC",
       "seniority": "SÊNIOR",
       "source": "Gupy",
-      "url": "https://bib.gupy.io/jobs/12545352?jobBoardSource=gupy_public_page",
+      "url": "https://bib.gupy.io/jobs/12512698?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Especialista em Sustentação de Tecnologia Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Especialista em Sustentação de Tecnologia Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga O BIB Tech , área de Tecnologia do Banco Industrial do Brasil, está em busca de um(a) Especialista em Su…",
+      "summary": "Página da Vaga | Analista de Banco de Dados Sênior Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Banco de Dados Sênior Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga O BIB Tech está em busca de um(a) Analista de Banco de Dados Sênior para atuar na administração, sustentação e evolução …",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "8d3e7d2874345f8f",
+      "title": "Analista de BackOffice Renda Fixa Pleno",
+      "company": "Bib",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "PLENO",
+      "source": "Gupy",
+      "url": "https://bib.gupy.io/jobs/12493992?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de BackOffice Renda Fixa Pleno Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de BackOffice Renda Fixa Pleno Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Venha fazer parte da nossa Diretoria Administrativa ! A nossa diretoria administrativa é responsável por ger…",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -5634,62 +5630,46 @@
       ]
     },
     {
-      "id": "0f28042b97f32804",
-      "title": "Analista de Banco de Dados Sênior",
+      "id": "eaa8cfd62d709a8a",
+      "title": "Analista de Produção Júnior",
       "company": "Bib",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://bib.gupy.io/jobs/12512698?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Banco de Dados Sênior Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Banco de Dados Sênior Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga O BIB Tech está em busca de um(a) Analista de Banco de Dados Sênior para atuar na administração, sustentação e evolução …",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "8d3e7d2874345f8f",
-      "title": "Analista de BackOffice Renda Fixa Pleno",
-      "company": "Bib",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "PLENO",
-      "source": "Gupy",
-      "url": "https://bib.gupy.io/jobs/12493992?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de BackOffice Renda Fixa Pleno Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de BackOffice Renda Fixa Pleno Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Venha fazer parte da nossa Diretoria Administrativa ! A nossa diretoria administrativa é responsável por ger…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "da1b4c68fe5529ac",
-      "title": "Analista de Projetos Jr.",
-      "company": "Uoledtech",
       "location": "Brasil",
       "remote": false,
       "work_model": "NÃO INFORMADO",
       "track": "APPSEC",
       "seniority": "START",
       "source": "Gupy",
-      "url": "https://uoledtech.gupy.io/jobs/12381097?jobBoardSource=gupy_public_page",
+      "url": "https://bib.gupy.io/jobs/12514308?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Analista de Projetos Jr. Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Projetos Jr. Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Estamos em busca de pessoas apaixonadas por educação e tecnologia ! Queremos que você saiba atuar em um ambiente que exige a união de múlt…",
+      "summary": "Página da Vaga | Analista de Produção Júnior Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Produção Júnior Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga O BIB Tech está em busca de um(a) Analista de Produção Júnior para apoiar o monitoramento e a sustentação dos ambientes produtivos d…",
       "labs": [
         {
           "name": "Aulinha WAAP",
           "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "ad552183e342e925",
+      "title": "Analista Sênior de Segurança da Informação – Governança",
+      "company": "Bib",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "GRC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://bib.gupy.io/jobs/12602833?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista Sênior de Segurança da Informação – Governança Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista Sênior de Segurança da Informação – Governança Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga No BIB Tech, frente de tecnologia do Banco Industrial do Brasil, a administr…",
+      "labs": [
+        {
+          "name": "GRC Tour",
+          "url": "https://github.com/marianabsctba/GRC_Tour_Senhor_dos_Aneis"
+        },
+        {
+          "name": "Desafio GRC",
+          "url": "https://github.com/marianabsctba/Desafio_Pratico_GRC"
         }
       ]
     },
@@ -5706,46 +5686,6 @@
       "url": "https://uoledtech.gupy.io/jobs/12465720?jobBoardSource=gupy_public_page",
       "published": null,
       "summary": "Página da Vaga | Analista de Vendas Internas Sr. (B2C) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Vendas Internas Sr. (B2C) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Estamos em busca de pessoas apaixonadas por educação e tecnologia ! Queremos que você saiba atuar em um ambiente…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "8cd6ec160af7138f",
-      "title": "Banco de Talentos - Venha revolucionar a educação com a gente",
-      "company": "Uoledtech",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://uoledtech.gupy.io/jobs/179547?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Banco de Talentos - Venha revolucionar a educação com a gente Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Banco de Talentos - Venha revolucionar a educação com a gente Copiar link Erro ao copiar link Essa inscrição no Banco de Talentos é para que a empresa te considere em futuras oportunidades. Entenda mais Compartilhar vaga Link c…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "7f412d28434c42bd",
-      "title": "Analista de Marketing Pl.",
-      "company": "Uoledtech",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://uoledtech.gupy.io/jobs/12200183?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Marketing Pl. Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Marketing Pl. Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Estamos em busca de pessoas apaixonadas por educação e tecnologia ! Queremos que você saiba atuar em um ambiente que exige a união de mú…",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -5774,6 +5714,46 @@
       ]
     },
     {
+      "id": "c7d787bdaabaa1f3",
+      "title": "Analista de Marketing Pl.",
+      "company": "Uoledtech",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://uoledtech.gupy.io/jobs/12466355?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Marketing Pl. Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Marketing Pl. Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Estamos em busca de pessoas apaixonadas por educação e tecnologia ! Queremos que você saiba atuar em um ambiente que exige a união de mú…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "8cd6ec160af7138f",
+      "title": "Banco de Talentos - Venha revolucionar a educação com a gente",
+      "company": "Uoledtech",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://uoledtech.gupy.io/jobs/179547?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Banco de Talentos - Venha revolucionar a educação com a gente Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Banco de Talentos - Venha revolucionar a educação com a gente Copiar link Erro ao copiar link Essa inscrição no Banco de Talentos é para que a empresa te considere em futuras oportunidades. Entenda mais Compartilhar vaga Link c…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
       "id": "5f5a49eea54abac0",
       "title": "Analista de CRM Jr.",
       "company": "Uoledtech",
@@ -5786,6 +5766,26 @@
       "url": "https://uoledtech.gupy.io/jobs/12530784?jobBoardSource=gupy_public_page",
       "published": null,
       "summary": "Página da Vaga | Analista de CRM Jr. Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de CRM Jr. Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Estamos em busca de pessoas apaixonadas por educação e tecnologia ! Queremos que você saiba atuar em um ambiente que exige a união de múltiplas comp…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "da1b4c68fe5529ac",
+      "title": "Analista de Projetos Jr.",
+      "company": "Uoledtech",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "START",
+      "source": "Gupy",
+      "url": "https://uoledtech.gupy.io/jobs/12381097?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Projetos Jr. Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Projetos Jr. Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Estamos em busca de pessoas apaixonadas por educação e tecnologia ! Queremos que você saiba atuar em um ambiente que exige a união de múlt…",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -5814,86 +5814,6 @@
       ]
     },
     {
-      "id": "9484cbb287a6a4a3",
-      "title": "Analista de Controle de Estoque e Prevenção Sênior",
-      "company": "Gruposc",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://gruposc.gupy.io/jobs/12407107?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Controle de Estoque e Prevenção Sênior Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Controle de Estoque e Prevenção Sênior Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Buscamos pessoas que nos ajudem a cumprir o nosso propósito \"mais saúde para mais pess…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "d6ff171b2584c70d",
-      "title": "Analista De Crédito JR",
-      "company": "Gruposc",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "START",
-      "source": "Gupy",
-      "url": "https://gruposc.gupy.io/jobs/12587191?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista De Crédito JR Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista De Crédito JR Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Buscamos pessoas que nos ajudem a cumprir o nosso propósito de mais saúde para mais pessoas . Se você é um profissional pró ativo, flexível a …",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "cf41abf7e474fc4f",
-      "title": "Analista de Custos SR",
-      "company": "Gruposc",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://gruposc.gupy.io/jobs/12601712?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Custos SR Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Custos SR Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Buscamos pessoas que nos ajudem a cumprir o nosso propósito de levar mais saúde para mais pessoas . Se você é um profissional pró ativo, flexíve…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "1c90d01834d14284",
-      "title": "Analista de Benefícios Sênior",
-      "company": "Gruposc",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "START",
-      "source": "Gupy",
-      "url": "https://gruposc.gupy.io/jobs/12504808?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Benefícios Sênior Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Benefícios Sênior Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Atuar como referência técnica na gestão corporativa de benefícios, garantindo a sustentabilidade dos programas, a excelência ope…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
       "id": "13439af7d21a4a67",
       "title": "Analista Controle e Transporte",
       "company": "Gruposc",
@@ -5914,28 +5834,8 @@
       ]
     },
     {
-      "id": "dc359c926743786a",
-      "title": "Analista de Controle de Estoque e Prevenção pleno",
-      "company": "Gruposc",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "PLENO",
-      "source": "Gupy",
-      "url": "https://gruposc.gupy.io/jobs/12591511?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Controle de Estoque e Prevenção pleno Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Controle de Estoque e Prevenção pleno Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Buscamos pessoas que nos ajudem a cumprir o nosso propósito \"mais saúde para mais pessoa…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "054b852f7ab8cfcd",
-      "title": "Analista de Administração de Pessoal Júnior | Foco em Férias",
+      "id": "e6bba6b120ee411b",
+      "title": "Analista de Administração de Pessoal Júnior | Foco em Rescisão",
       "company": "Gruposc",
       "location": "Brasil",
       "remote": false,
@@ -5943,9 +5843,9 @@
       "track": "APPSEC",
       "seniority": "START",
       "source": "Gupy",
-      "url": "https://gruposc.gupy.io/jobs/11969615?jobBoardSource=gupy_public_page",
+      "url": "https://gruposc.gupy.io/jobs/12097320?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Analista de Administração de Pessoal Júnior | Foco em Férias Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Administração de Pessoal Júnior | Foco em Férias Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Buscamos pessoas que nos ajudem a cumprir o nosso propósito de lev…",
+      "summary": "Página da Vaga | Analista de Administração de Pessoal Júnior | Foco em Rescisão Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Administração de Pessoal Júnior | Foco em Rescisão Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Buscamos pessoas que nos ajudem a cumprir o nosso propósito de…",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -5974,6 +5874,26 @@
       ]
     },
     {
+      "id": "cf41abf7e474fc4f",
+      "title": "Analista de Custos SR",
+      "company": "Gruposc",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://gruposc.gupy.io/jobs/12601712?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Custos SR Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Custos SR Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Buscamos pessoas que nos ajudem a cumprir o nosso propósito de levar mais saúde para mais pessoas . Se você é um profissional pró ativo, flexíve…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
       "id": "215c4cf98db1f2db",
       "title": "Analista Administrativo de Contas",
       "company": "Gruposc",
@@ -5994,8 +5914,28 @@
       ]
     },
     {
-      "id": "e6bba6b120ee411b",
-      "title": "Analista de Administração de Pessoal Júnior | Foco em Rescisão",
+      "id": "9484cbb287a6a4a3",
+      "title": "Analista de Controle de Estoque e Prevenção Sênior",
+      "company": "Gruposc",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://gruposc.gupy.io/jobs/12407107?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Controle de Estoque e Prevenção Sênior Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Controle de Estoque e Prevenção Sênior Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Buscamos pessoas que nos ajudem a cumprir o nosso propósito \"mais saúde para mais pess…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "054b852f7ab8cfcd",
+      "title": "Analista de Administração de Pessoal Júnior | Foco em Férias",
       "company": "Gruposc",
       "location": "Brasil",
       "remote": false,
@@ -6003,9 +5943,109 @@
       "track": "APPSEC",
       "seniority": "START",
       "source": "Gupy",
-      "url": "https://gruposc.gupy.io/jobs/12097320?jobBoardSource=gupy_public_page",
+      "url": "https://gruposc.gupy.io/jobs/11969615?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Analista de Administração de Pessoal Júnior | Foco em Rescisão Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Administração de Pessoal Júnior | Foco em Rescisão Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Buscamos pessoas que nos ajudem a cumprir o nosso propósito de…",
+      "summary": "Página da Vaga | Analista de Administração de Pessoal Júnior | Foco em Férias Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Administração de Pessoal Júnior | Foco em Férias Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Buscamos pessoas que nos ajudem a cumprir o nosso propósito de lev…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "dc359c926743786a",
+      "title": "Analista de Controle de Estoque e Prevenção pleno",
+      "company": "Gruposc",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "PLENO",
+      "source": "Gupy",
+      "url": "https://gruposc.gupy.io/jobs/12591511?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Controle de Estoque e Prevenção pleno Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Controle de Estoque e Prevenção pleno Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Buscamos pessoas que nos ajudem a cumprir o nosso propósito \"mais saúde para mais pessoa…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "d6ff171b2584c70d",
+      "title": "Analista De Crédito JR",
+      "company": "Gruposc",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "START",
+      "source": "Gupy",
+      "url": "https://gruposc.gupy.io/jobs/12587191?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista De Crédito JR Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista De Crédito JR Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Buscamos pessoas que nos ajudem a cumprir o nosso propósito de mais saúde para mais pessoas . Se você é um profissional pró ativo, flexível a …",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "1c90d01834d14284",
+      "title": "Analista de Benefícios Sênior",
+      "company": "Gruposc",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "START",
+      "source": "Gupy",
+      "url": "https://gruposc.gupy.io/jobs/12504808?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Benefícios Sênior Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Benefícios Sênior Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Atuar como referência técnica na gestão corporativa de benefícios, garantindo a sustentabilidade dos programas, a excelência ope…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "ca4784e1bcd3400b",
+      "title": "Analista de Produto Consignado SR",
+      "company": "Digio",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "START",
+      "source": "Gupy",
+      "url": "https://digio.gupy.io/jobs/12263943?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Produto Consignado SR Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Produto Consignado SR Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Buscamos uma pessoa Analista de Produtos Sênior com sólida experiência no mercado de Empréstimo Consignado , para atuar …",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "1fd8d1f90ae560d4",
+      "title": "Analista de Operações Júnior",
+      "company": "Digio",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "START",
+      "source": "Gupy",
+      "url": "https://digio.gupy.io/jobs/12303293?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Operações Júnior Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Operações Júnior Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga No Digio, oferecemos um ambiente dinâmico, colaborativo e orientado ao aprendizado contínuo, onde incentivamos o desenvolvimento p…",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -6054,26 +6094,6 @@
       ]
     },
     {
-      "id": "e89b026d18120e9c",
-      "title": "Analista de Recrutamento e Seleção Junior",
-      "company": "Digio",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "START",
-      "source": "Gupy",
-      "url": "https://digio.gupy.io/jobs/12547393?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Recrutamento e Seleção Junior Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Recrutamento e Seleção Junior Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga No Digio procuramos pessoas que queiram evoluir constantemente e fazer as coisas acontecerem, sempre bus…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
       "id": "a5396ac2af033eb8",
       "title": "Analista de Compras - JR",
       "company": "Digio",
@@ -6094,8 +6114,8 @@
       ]
     },
     {
-      "id": "2ac6e4aea90d8d6d",
-      "title": "Analista de Produto Consignado Pleno",
+      "id": "da0c6ec164712e12",
+      "title": "Advogado Contencioso - Pleno",
       "company": "Digio",
       "location": "Brasil",
       "remote": false,
@@ -6103,29 +6123,9 @@
       "track": "APPSEC",
       "seniority": "PLENO",
       "source": "Gupy",
-      "url": "https://digio.gupy.io/jobs/12375478?jobBoardSource=gupy_public_page",
+      "url": "https://digio.gupy.io/jobs/12316787?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Analista de Produto Consignado Pleno Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Produto Consignado Pleno Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Estamos em busca de um(a) Analista de Produto Pleno para atuar na evolução e sustentação dos produtos de empréstim…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "ca4784e1bcd3400b",
-      "title": "Analista de Produto Consignado SR",
-      "company": "Digio",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "START",
-      "source": "Gupy",
-      "url": "https://digio.gupy.io/jobs/12263943?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Produto Consignado SR Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Produto Consignado SR Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Buscamos uma pessoa Analista de Produtos Sênior com sólida experiência no mercado de Empréstimo Consignado , para atuar …",
+      "summary": "Página da Vaga | Advogado Contencioso - Pleno Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Advogado Contencioso - Pleno Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Para essa posição, buscamos um advogado(a) para auxiliar na gestão de escritórios terceirizados e atuará no acompanhamento do leva…",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -6158,26 +6158,6 @@
       ]
     },
     {
-      "id": "1fd8d1f90ae560d4",
-      "title": "Analista de Operações Júnior",
-      "company": "Digio",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "START",
-      "source": "Gupy",
-      "url": "https://digio.gupy.io/jobs/12303293?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Operações Júnior Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Operações Júnior Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga No Digio, oferecemos um ambiente dinâmico, colaborativo e orientado ao aprendizado contínuo, onde incentivamos o desenvolvimento p…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
       "id": "ef0ffd4388cdf3cf",
       "title": "Coordenador de Produtos Consignado",
       "company": "Digio",
@@ -6198,8 +6178,28 @@
       ]
     },
     {
-      "id": "da0c6ec164712e12",
-      "title": "Advogado Contencioso - Pleno",
+      "id": "e89b026d18120e9c",
+      "title": "Analista de Recrutamento e Seleção Junior",
+      "company": "Digio",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "START",
+      "source": "Gupy",
+      "url": "https://digio.gupy.io/jobs/12547393?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Recrutamento e Seleção Junior Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Recrutamento e Seleção Junior Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga No Digio procuramos pessoas que queiram evoluir constantemente e fazer as coisas acontecerem, sempre bus…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "2ac6e4aea90d8d6d",
+      "title": "Analista de Produto Consignado Pleno",
       "company": "Digio",
       "location": "Brasil",
       "remote": false,
@@ -6207,9 +6207,69 @@
       "track": "APPSEC",
       "seniority": "PLENO",
       "source": "Gupy",
-      "url": "https://digio.gupy.io/jobs/12316787?jobBoardSource=gupy_public_page",
+      "url": "https://digio.gupy.io/jobs/12375478?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Advogado Contencioso - Pleno Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Advogado Contencioso - Pleno Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Para essa posição, buscamos um advogado(a) para auxiliar na gestão de escritórios terceirizados e atuará no acompanhamento do leva…",
+      "summary": "Página da Vaga | Analista de Produto Consignado Pleno Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Produto Consignado Pleno Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Estamos em busca de um(a) Analista de Produto Pleno para atuar na evolução e sustentação dos produtos de empréstim…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "17810793a9742f72",
+      "title": "Analista Financeiro Pleno TI",
+      "company": "Darede",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "PLENO",
+      "source": "Gupy",
+      "url": "https://darede.gupy.io/jobs/12269938?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista Financeiro Pleno TI Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista Financeiro Pleno TI Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A Darede tem o objetivo de continuar revolucionando os negócios em Cloud no Brasil e nos tornarmos a mais relevante consultoria do…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "3af4089b72e3dfba",
+      "title": "Analista de Contas a Pagar Pleno",
+      "company": "Darede",
+      "location": "Brasil",
+      "remote": true,
+      "work_model": "REMOTO",
+      "track": "APPSEC",
+      "seniority": "PLENO",
+      "source": "Gupy",
+      "url": "https://darede.gupy.io/jobs/12270199?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Contas a Pagar Pleno Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Contas a Pagar Pleno Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A Darede tem o objetivo de continuar revolucionando os negócios em Cloud no Brasil e nos tornarmos a mais relevante consul…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "a8e4454a92a61c6f",
+      "title": "Customer Success Sênior",
+      "company": "Darede",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://darede.gupy.io/jobs/12507129?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Customer Success Sênior Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Customer Success Sênior Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A Darede tem o objetivo de continuar revolucionando os negócios em Cloud no Brasil e nos tornarmos a mais relevante consultoria do segmento …",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -6242,46 +6302,6 @@
       ]
     },
     {
-      "id": "a5470e6ff92be53d",
-      "title": "Especialista em Banco de Dados",
-      "company": "Darede",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://darede.gupy.io/jobs/12584622?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Especialista em Banco de Dados Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Especialista em Banco de Dados Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A Darede tem o objetivo de continuar revolucionando os negócios em Cloud no Brasil e nos tornarmos a mais relevante consultori…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "3af4089b72e3dfba",
-      "title": "Analista de Contas a Pagar Pleno",
-      "company": "Darede",
-      "location": "Brasil",
-      "remote": true,
-      "work_model": "REMOTO",
-      "track": "APPSEC",
-      "seniority": "PLENO",
-      "source": "Gupy",
-      "url": "https://darede.gupy.io/jobs/12270199?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Contas a Pagar Pleno Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Contas a Pagar Pleno Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A Darede tem o objetivo de continuar revolucionando os negócios em Cloud no Brasil e nos tornarmos a mais relevante consul…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
       "id": "a99bf671fe5f9c77",
       "title": "Arquiteto(a) de Soluções AWS Pleno (Pré-vendas) – RJ",
       "company": "Darede",
@@ -6294,6 +6314,26 @@
       "url": "https://darede.gupy.io/jobs/12078618?jobBoardSource=gupy_public_page",
       "published": null,
       "summary": "Página da Vaga | Arquiteto(a) de Soluções AWS Pleno (Pré-vendas) – RJ Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Arquiteto(a) de Soluções AWS Pleno (Pré-vendas) – RJ Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A Darede tem o objetivo de continuar revolucionando os negócios em Cloud no Brasil…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "a5470e6ff92be53d",
+      "title": "Especialista em Banco de Dados",
+      "company": "Darede",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://darede.gupy.io/jobs/12584622?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Especialista em Banco de Dados Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Especialista em Banco de Dados Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A Darede tem o objetivo de continuar revolucionando os negócios em Cloud no Brasil e nos tornarmos a mais relevante consultori…",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -6322,46 +6362,6 @@
       ]
     },
     {
-      "id": "7beca1fea6ae0a61",
-      "title": "Analista de Contabilidade Sênior",
-      "company": "Darede",
-      "location": "Brasil",
-      "remote": true,
-      "work_model": "REMOTO",
-      "track": "APPSEC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://darede.gupy.io/jobs/12201017?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Contabilidade Sênior Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Contabilidade Sênior Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A Darede tem o objetivo de continuar revolucionando os negócios em Cloud no Brasil e nos tornarmos a mais relevante consul…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "17810793a9742f72",
-      "title": "Analista Financeiro Pleno TI",
-      "company": "Darede",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "PLENO",
-      "source": "Gupy",
-      "url": "https://darede.gupy.io/jobs/12269938?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista Financeiro Pleno TI Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista Financeiro Pleno TI Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A Darede tem o objetivo de continuar revolucionando os negócios em Cloud no Brasil e nos tornarmos a mais relevante consultoria do…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
       "id": "8a4c84f2cfdda5d2",
       "title": "Analista Cloud AWS Sênior",
       "company": "Darede",
@@ -6382,18 +6382,18 @@
       ]
     },
     {
-      "id": "a8e4454a92a61c6f",
-      "title": "Customer Success Sênior",
+      "id": "7beca1fea6ae0a61",
+      "title": "Analista de Contabilidade Sênior",
       "company": "Darede",
       "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
+      "remote": true,
+      "work_model": "REMOTO",
       "track": "APPSEC",
       "seniority": "SÊNIOR",
       "source": "Gupy",
-      "url": "https://darede.gupy.io/jobs/12507129?jobBoardSource=gupy_public_page",
+      "url": "https://darede.gupy.io/jobs/12201017?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Customer Success Sênior Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Customer Success Sênior Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A Darede tem o objetivo de continuar revolucionando os negócios em Cloud no Brasil e nos tornarmos a mais relevante consultoria do segmento …",
+      "summary": "Página da Vaga | Analista de Contabilidade Sênior Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Contabilidade Sênior Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A Darede tem o objetivo de continuar revolucionando os negócios em Cloud no Brasil e nos tornarmos a mais relevante consul…",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -6402,26 +6402,26 @@
       ]
     },
     {
-      "id": "eff7ae3334d89f04",
-      "title": "Account Manager SP - Cibersegurança",
+      "id": "8283dec836c15577",
+      "title": "Estagiário(a) Comercial - SDR",
       "company": "Novaredbrasil",
       "location": "Brasil",
       "remote": false,
       "work_model": "NÃO INFORMADO",
-      "track": "GRC",
-      "seniority": "SÊNIOR",
+      "track": "SOC / BLUE TEAM",
+      "seniority": "START",
       "source": "Gupy",
-      "url": "https://novaredbrasil.gupy.io/jobs/11880194?jobBoardSource=gupy_public_page",
+      "url": "https://novaredbrasil.gupy.io/jobs/12479655?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Account Manager SP - Cibersegurança Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Account Manager SP - Cibersegurança Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A cibersegurança faz parte do dia a dia das pessoas e é somente com um time de profissionais altamente qualificados …",
+      "summary": "Página da Vaga | Estagiário(a) Comercial - SDR Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Estagiário(a) Comercial - SDR Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Se você se interessa em Tecnologia e Inovação, tem determinação, criatividade e deseja atuar em Segurança da Informação, se insc…",
       "labs": [
         {
-          "name": "GRC Tour",
-          "url": "https://github.com/marianabsctba/GRC_Tour_Senhor_dos_Aneis"
+          "name": "Curso SOC N1",
+          "url": "https://github.com/marianabsctba/Curso_SOC_N1"
         },
         {
-          "name": "Desafio GRC",
-          "url": "https://github.com/marianabsctba/Desafio_Pratico_GRC"
+          "name": "SIEM Deploy Lab",
+          "url": "https://github.com/marianabsctba/SIEM_Deploy_Lab"
         }
       ]
     },
@@ -6450,18 +6450,66 @@
       ]
     },
     {
-      "id": "8283dec836c15577",
-      "title": "Estagiário(a) Comercial - SDR",
+      "id": "eff7ae3334d89f04",
+      "title": "Account Manager SP - Cibersegurança",
       "company": "Novaredbrasil",
       "location": "Brasil",
       "remote": false,
       "work_model": "NÃO INFORMADO",
-      "track": "SOC / BLUE TEAM",
-      "seniority": "START",
+      "track": "GRC",
+      "seniority": "SÊNIOR",
       "source": "Gupy",
-      "url": "https://novaredbrasil.gupy.io/jobs/12479655?jobBoardSource=gupy_public_page",
+      "url": "https://novaredbrasil.gupy.io/jobs/11880194?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Estagiário(a) Comercial - SDR Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Estagiário(a) Comercial - SDR Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Se você se interessa em Tecnologia e Inovação, tem determinação, criatividade e deseja atuar em Segurança da Informação, se insc…",
+      "summary": "Página da Vaga | Account Manager SP - Cibersegurança Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Account Manager SP - Cibersegurança Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A cibersegurança faz parte do dia a dia das pessoas e é somente com um time de profissionais altamente qualificados …",
+      "labs": [
+        {
+          "name": "GRC Tour",
+          "url": "https://github.com/marianabsctba/GRC_Tour_Senhor_dos_Aneis"
+        },
+        {
+          "name": "Desafio GRC",
+          "url": "https://github.com/marianabsctba/Desafio_Pratico_GRC"
+        }
+      ]
+    },
+    {
+      "id": "56e30e73d6f5e7fa",
+      "title": "Analista de Garantia da Qualidade PL - Gestão da Qualidade - Afip",
+      "company": "Afip",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "GRC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://afip.gupy.io/jobs/12037681?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Garantia da Qualidade PL - Gestão da Qualidade - Afip Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Garantia da Qualidade PL - Gestão da Qualidade - Afip Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga 🔎Quem somos: Somos uma instituição privada, sem fins luc…",
+      "labs": [
+        {
+          "name": "GRC Tour",
+          "url": "https://github.com/marianabsctba/GRC_Tour_Senhor_dos_Aneis"
+        },
+        {
+          "name": "Desafio GRC",
+          "url": "https://github.com/marianabsctba/Desafio_Pratico_GRC"
+        }
+      ]
+    },
+    {
+      "id": "d7cc8c45e76c9d01",
+      "title": "Analista de Laboratório I | AMA Sorocabana",
+      "company": "Afip",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "SOC / BLUE TEAM",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://afip.gupy.io/jobs/12463525?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Laboratório I | AMA Sorocabana Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Laboratório I | AMA Sorocabana Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga 🔎Quem somos: Somos uma instituição privada, sem fins lucrativos e filantrópica que, há mais de 45 anos…",
       "labs": [
         {
           "name": "Curso SOC N1",
@@ -6470,6 +6518,50 @@
         {
           "name": "SIEM Deploy Lab",
           "url": "https://github.com/marianabsctba/SIEM_Deploy_Lab"
+        }
+      ]
+    },
+    {
+      "id": "3b6470142cb1713b",
+      "title": "Analista de Laboratório | Carapicuíba/SP (236.452)",
+      "company": "Afip",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "SOC / BLUE TEAM",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://afip.gupy.io/jobs/12455175?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Laboratório | Carapicuíba/SP (236.452) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Laboratório | Carapicuíba/SP (236.452) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga 🔎Quem somos: Somos uma instituição privada, sem fins lucrativos e filantrópica que, há…",
+      "labs": [
+        {
+          "name": "Curso SOC N1",
+          "url": "https://github.com/marianabsctba/Curso_SOC_N1"
+        },
+        {
+          "name": "SIEM Deploy Lab",
+          "url": "https://github.com/marianabsctba/SIEM_Deploy_Lab"
+        }
+      ]
+    },
+    {
+      "id": "1efadbe9a3d76630",
+      "title": "Analista de Laboratório | Hospital Vila Alpina (234.861)",
+      "company": "Afip",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://afip.gupy.io/jobs/12392785?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Laboratório | Hospital Vila Alpina (234.861) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Laboratório | Hospital Vila Alpina (234.861) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga 🔎Quem somos: Somos uma instituição privada, sem fins lucrativos e filantró…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
         }
       ]
     },
@@ -6522,86 +6614,18 @@
       ]
     },
     {
-      "id": "56e30e73d6f5e7fa",
-      "title": "Analista de Garantia da Qualidade PL - Gestão da Qualidade - Afip",
-      "company": "Afip",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "GRC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://afip.gupy.io/jobs/12037681?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Garantia da Qualidade PL - Gestão da Qualidade - Afip Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Garantia da Qualidade PL - Gestão da Qualidade - Afip Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga 🔎Quem somos: Somos uma instituição privada, sem fins luc…",
-      "labs": [
-        {
-          "name": "GRC Tour",
-          "url": "https://github.com/marianabsctba/GRC_Tour_Senhor_dos_Aneis"
-        },
-        {
-          "name": "Desafio GRC",
-          "url": "https://github.com/marianabsctba/Desafio_Pratico_GRC"
-        }
-      ]
-    },
-    {
-      "id": "3b6470142cb1713b",
-      "title": "Analista de Laboratório | Carapicuíba/SP (236.452)",
-      "company": "Afip",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "SOC / BLUE TEAM",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://afip.gupy.io/jobs/12455175?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Laboratório | Carapicuíba/SP (236.452) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Laboratório | Carapicuíba/SP (236.452) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga 🔎Quem somos: Somos uma instituição privada, sem fins lucrativos e filantrópica que, há…",
-      "labs": [
-        {
-          "name": "Curso SOC N1",
-          "url": "https://github.com/marianabsctba/Curso_SOC_N1"
-        },
-        {
-          "name": "SIEM Deploy Lab",
-          "url": "https://github.com/marianabsctba/SIEM_Deploy_Lab"
-        }
-      ]
-    },
-    {
-      "id": "d2bb03442ffbebac",
-      "title": "Analista de Laboratório | Hospital Grajaú (233.530)",
+      "id": "de8479655b1a6308",
+      "title": "Analista Administrativo Pleno | Engenharia - JAFET/SP (228950)",
       "company": "Afip",
       "location": "Brasil",
       "remote": false,
       "work_model": "NÃO INFORMADO",
       "track": "APPSEC",
-      "seniority": "SÊNIOR",
+      "seniority": "PLENO",
       "source": "Gupy",
-      "url": "https://afip.gupy.io/jobs/12392994?jobBoardSource=gupy_public_page",
+      "url": "https://afip.gupy.io/jobs/12078228?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Analista de Laboratório | Hospital Grajaú (233.530) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Laboratório | Hospital Grajaú (233.530) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga 🔎Quem somos: Somos uma instituição privada, sem fins lucrativos e filantrópica que, …",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "1efadbe9a3d76630",
-      "title": "Analista de Laboratório | Hospital Vila Alpina (234.861)",
-      "company": "Afip",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://afip.gupy.io/jobs/12392785?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Laboratório | Hospital Vila Alpina (234.861) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Laboratório | Hospital Vila Alpina (234.861) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga 🔎Quem somos: Somos uma instituição privada, sem fins lucrativos e filantró…",
+      "summary": "Página da Vaga | Analista Administrativo Pleno | Engenharia - JAFET/SP (228950) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista Administrativo Pleno | Engenharia - JAFET/SP (228950) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga 🔎Quem somos: Somos uma instituição privada, sem fins lucrativo…",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -6634,6 +6658,26 @@
       ]
     },
     {
+      "id": "d2bb03442ffbebac",
+      "title": "Analista de Laboratório | Hospital Grajaú (233.530)",
+      "company": "Afip",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://afip.gupy.io/jobs/12392994?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Laboratório | Hospital Grajaú (233.530) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Laboratório | Hospital Grajaú (233.530) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga 🔎Quem somos: Somos uma instituição privada, sem fins lucrativos e filantrópica que, …",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
       "id": "d4cc193e386b4776",
       "title": "Analista de Laboratório | Hospital do Câncer/MT",
       "company": "Afip",
@@ -6654,18 +6698,18 @@
       ]
     },
     {
-      "id": "de8479655b1a6308",
-      "title": "Analista Administrativo Pleno | Engenharia - JAFET/SP (228950)",
-      "company": "Afip",
+      "id": "e09c3ea4efcb47d1",
+      "title": "Analista de Produtos e Negócios Sr. - FOCO em CRM",
+      "company": "Centralailos",
       "location": "Brasil",
       "remote": false,
       "work_model": "NÃO INFORMADO",
       "track": "APPSEC",
-      "seniority": "PLENO",
+      "seniority": "START",
       "source": "Gupy",
-      "url": "https://afip.gupy.io/jobs/12078228?jobBoardSource=gupy_public_page",
+      "url": "https://centralailos.gupy.io/jobs/12041072?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Analista Administrativo Pleno | Engenharia - JAFET/SP (228950) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista Administrativo Pleno | Engenharia - JAFET/SP (228950) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga 🔎Quem somos: Somos uma instituição privada, sem fins lucrativo…",
+      "summary": "Página da Vaga | Analista de Produtos e Negócios Sr. - FOCO em CRM Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Produtos e Negócios Sr. - FOCO em CRM Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Buscamos um Analista de CRM Sênior para atuar na integração entre relacionamento, produt…",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -6674,32 +6718,8 @@
       ]
     },
     {
-      "id": "d7cc8c45e76c9d01",
-      "title": "Analista de Laboratório I | AMA Sorocabana",
-      "company": "Afip",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "SOC / BLUE TEAM",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://afip.gupy.io/jobs/12463525?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Laboratório I | AMA Sorocabana Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Laboratório I | AMA Sorocabana Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga 🔎Quem somos: Somos uma instituição privada, sem fins lucrativos e filantrópica que, há mais de 45 anos…",
-      "labs": [
-        {
-          "name": "Curso SOC N1",
-          "url": "https://github.com/marianabsctba/Curso_SOC_N1"
-        },
-        {
-          "name": "SIEM Deploy Lab",
-          "url": "https://github.com/marianabsctba/SIEM_Deploy_Lab"
-        }
-      ]
-    },
-    {
-      "id": "eea81c87fc63de15",
-      "title": "Analista de Recuperação de Crédito - Foco Administrativo",
+      "id": "52c4816c3bd280f8",
+      "title": "Analista de Dados Sênior",
       "company": "Centralailos",
       "location": "Brasil",
       "remote": false,
@@ -6707,33 +6727,13 @@
       "track": "APPSEC",
       "seniority": "SÊNIOR",
       "source": "Gupy",
-      "url": "https://centralailos.gupy.io/jobs/12436808?jobBoardSource=gupy_public_page",
+      "url": "https://centralailos.gupy.io/jobs/12041051?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Analista de Recuperação de Crédito - Foco Administrativo Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Recuperação de Crédito - Foco Administrativo Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Se você quer colocar seu talento em expansão, embarque com a gente nessa j…",
+      "summary": "Página da Vaga | Analista de Dados Sênior Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Dados Sênior Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Buscamos um Analista de Dados Sênior para atuar na transformação de dados em insights estratégicos, apoiando áreas de negócio na tomada de…",
       "labs": [
         {
           "name": "Aulinha WAAP",
           "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "6be8d129ef9c441b",
-      "title": "Analista de Segurança da Informação II - Foco em Arquitetura IAM",
-      "company": "Centralailos",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "IAM / PAM",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://centralailos.gupy.io/jobs/11545837?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Segurança da Informação II - Foco em Arquitetura IAM Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Segurança da Informação II - Foco em Arquitetura IAM Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Se você quer colocar seu talento em expansão, embarque com…",
-      "labs": [
-        {
-          "name": "Aulinha PAM",
-          "url": "https://github.com/marianabsctba/Aulinha_PAM"
         }
       ]
     },
@@ -6778,66 +6778,6 @@
       ]
     },
     {
-      "id": "9de0f8d0768e5dc0",
-      "title": "Analista de Recuperação de Crédito - Foco em Gestão de Assessorias",
-      "company": "Centralailos",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://centralailos.gupy.io/jobs/12436988?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Recuperação de Crédito - Foco em Gestão de Assessorias Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Recuperação de Crédito - Foco em Gestão de Assessorias Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Se você quer colocar seu talento em expansão, embarque…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "52c4816c3bd280f8",
-      "title": "Analista de Dados Sênior",
-      "company": "Centralailos",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://centralailos.gupy.io/jobs/12041051?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Dados Sênior Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Dados Sênior Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Buscamos um Analista de Dados Sênior para atuar na transformação de dados em insights estratégicos, apoiando áreas de negócio na tomada de…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "e09c3ea4efcb47d1",
-      "title": "Analista de Produtos e Negócios Sr. - FOCO em CRM",
-      "company": "Centralailos",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "START",
-      "source": "Gupy",
-      "url": "https://centralailos.gupy.io/jobs/12041072?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Produtos e Negócios Sr. - FOCO em CRM Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Produtos e Negócios Sr. - FOCO em CRM Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Buscamos um Analista de CRM Sênior para atuar na integração entre relacionamento, produt…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
       "id": "bf8b94575384a3f6",
       "title": "Analista de Produto III - Foco em Crédito Imobiliário",
       "company": "Centralailos",
@@ -6850,6 +6790,26 @@
       "url": "https://centralailos.gupy.io/jobs/12200538?jobBoardSource=gupy_public_page",
       "published": null,
       "summary": "Página da Vaga | Analista de Produto III - Foco em Crédito Imobiliário Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Produto III - Foco em Crédito Imobiliário Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Se você quer colocar seu talento em expansão, embarque com a gente nessa jornada…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "eea81c87fc63de15",
+      "title": "Analista de Recuperação de Crédito - Foco Administrativo",
+      "company": "Centralailos",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://centralailos.gupy.io/jobs/12436808?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Recuperação de Crédito - Foco Administrativo Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Recuperação de Crédito - Foco Administrativo Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Se você quer colocar seu talento em expansão, embarque com a gente nessa j…",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -6898,7 +6858,47 @@
       ]
     },
     {
-      "id": "9c242be8f1c4e562",
+      "id": "9de0f8d0768e5dc0",
+      "title": "Analista de Recuperação de Crédito - Foco em Gestão de Assessorias",
+      "company": "Centralailos",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://centralailos.gupy.io/jobs/12436988?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Recuperação de Crédito - Foco em Gestão de Assessorias Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Recuperação de Crédito - Foco em Gestão de Assessorias Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Se você quer colocar seu talento em expansão, embarque…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "6be8d129ef9c441b",
+      "title": "Analista de Segurança da Informação II - Foco em Arquitetura IAM",
+      "company": "Centralailos",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "IAM / PAM",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://centralailos.gupy.io/jobs/11545837?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Segurança da Informação II - Foco em Arquitetura IAM Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Segurança da Informação II - Foco em Arquitetura IAM Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Se você quer colocar seu talento em expansão, embarque com…",
+      "labs": [
+        {
+          "name": "Aulinha PAM",
+          "url": "https://github.com/marianabsctba/Aulinha_PAM"
+        }
+      ]
+    },
+    {
+      "id": "5dd0cf00d2226d40",
       "title": "Arquiteto de Software - Sênior",
       "company": "Fcamara",
       "location": "Brasil",
@@ -6907,7 +6907,7 @@
       "track": "APPSEC",
       "seniority": "SÊNIOR",
       "source": "Gupy",
-      "url": "https://fcamara.gupy.io/jobs/12582809?jobBoardSource=gupy_public_page",
+      "url": "https://fcamara.gupy.io/jobs/12583029?jobBoardSource=gupy_public_page",
       "published": null,
       "summary": "Página da Vaga | Arquiteto de Software - Sênior Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Arquiteto de Software - Sênior Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A FCamara está em busca de um(a) profissional que possua um forte conhecimento técnico em desenvolvimento de software, especia…",
       "labs": [
@@ -6930,6 +6930,26 @@
       "url": "https://fcamara.gupy.io/jobs/12605881?jobBoardSource=gupy_public_page",
       "published": null,
       "summary": "Página da Vaga | Account Executive - Hunter Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Account Executive - Hunter Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Buscamos uma pessoa com perfil hunter, forte atuação consultiva e experiência na prospecção e desenvolvimento de novos negócios em tec…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "e367599d6878a00b",
+      "title": "Analista Financeiro Pleno",
+      "company": "Fcamara",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "START",
+      "source": "Gupy",
+      "url": "https://fcamara.gupy.io/jobs/12528018?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista Financeiro Pleno Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista Financeiro Pleno Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Estamos em busca de uma pessoa para atuar como Analista Financeiro Pleno para integrar nossa equipe e fortalecer a comunicação entre os …",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -7026,30 +7046,6 @@
       ]
     },
     {
-      "id": "afcd31fa6c745f97",
-      "title": "Analista de Governança Sênior",
-      "company": "Fcamara",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "GRC",
-      "seniority": "START",
-      "source": "Gupy",
-      "url": "https://fcamara.gupy.io/jobs/12534517?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Governança Sênior Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Governança Sênior Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A FCAMARA está em busca de uma pessoa para atuar como Analista de Governança Sênior para atuar em parceria com uma empresa líder…",
-      "labs": [
-        {
-          "name": "GRC Tour",
-          "url": "https://github.com/marianabsctba/GRC_Tour_Senhor_dos_Aneis"
-        },
-        {
-          "name": "Desafio GRC",
-          "url": "https://github.com/marianabsctba/Desafio_Pratico_GRC"
-        }
-      ]
-    },
-    {
       "id": "c24544cd5637f58e",
       "title": "ANALISTA SRE – Pleno",
       "company": "Fcamara",
@@ -7074,22 +7070,26 @@
       ]
     },
     {
-      "id": "e367599d6878a00b",
-      "title": "Analista Financeiro Pleno",
+      "id": "afcd31fa6c745f97",
+      "title": "Analista de Governança Sênior",
       "company": "Fcamara",
       "location": "Brasil",
       "remote": false,
       "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
+      "track": "GRC",
       "seniority": "START",
       "source": "Gupy",
-      "url": "https://fcamara.gupy.io/jobs/12528018?jobBoardSource=gupy_public_page",
+      "url": "https://fcamara.gupy.io/jobs/12534517?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Analista Financeiro Pleno Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista Financeiro Pleno Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Estamos em busca de uma pessoa para atuar como Analista Financeiro Pleno para integrar nossa equipe e fortalecer a comunicação entre os …",
+      "summary": "Página da Vaga | Analista de Governança Sênior Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Governança Sênior Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A FCAMARA está em busca de uma pessoa para atuar como Analista de Governança Sênior para atuar em parceria com uma empresa líder…",
       "labs": [
         {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+          "name": "GRC Tour",
+          "url": "https://github.com/marianabsctba/GRC_Tour_Senhor_dos_Aneis"
+        },
+        {
+          "name": "Desafio GRC",
+          "url": "https://github.com/marianabsctba/Desafio_Pratico_GRC"
         }
       ]
     },
@@ -7106,6 +7106,66 @@
       "url": "https://mtpbrasil.gupy.io/jobs/11890085?jobBoardSource=gupy_public_page",
       "published": null,
       "summary": "Página da Vaga | 11890085 - Analista de Negócios Sênior Pular para o conteúdo principal Ir para a página da empresa Candidatar-se 11890085 - Analista de Negócios Sênior Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A MTP – Métodos e Tecnologia é uma multinacional espanhola com 28 anos de atuação, presente em mais de 21 país…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "2d0d52e06274a1c0",
+      "title": "12394374 - Desenvolvedor Adobe Marketo Engage",
+      "company": "Mtpbrasil",
+      "location": "Brasil",
+      "remote": true,
+      "work_model": "REMOTO",
+      "track": "APPSEC",
+      "seniority": "PLENO",
+      "source": "Gupy",
+      "url": "https://mtpbrasil.gupy.io/jobs/12394374?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | 12394374 - Desenvolvedor Adobe Marketo Engage Pular para o conteúdo principal Ir para a página da empresa Candidatar-se 12394374 - Desenvolvedor Adobe Marketo Engage Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A MTP – Métodos e Tecnologia é uma multinacional espanhola com 28 anos de atuação, presente em m…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "40ae4afda1c904cb",
+      "title": "12394184 - Desenvolvedor Adobe Experience Platform (AEP)",
+      "company": "Mtpbrasil",
+      "location": "Brasil",
+      "remote": true,
+      "work_model": "REMOTO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://mtpbrasil.gupy.io/jobs/12394184?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | 12394184 - Desenvolvedor Adobe Experience Platform (AEP) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se 12394184 - Desenvolvedor Adobe Experience Platform (AEP) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A MTP – Métodos e Tecnologia é uma multinacional espanhola com 28 anos de …",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "43232a31ceea22dd",
+      "title": "12323581 - Consultor SAP SD",
+      "company": "Mtpbrasil",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://mtpbrasil.gupy.io/jobs/12323581?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | 12323581 - Consultor SAP SD Pular para o conteúdo principal Ir para a página da empresa Candidatar-se 12323581 - Consultor SAP SD Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A MTP – Métodos e Tecnologia é uma multinacional espanhola com 28 anos de atuação, presente em mais de 21 países, com sedes no Brasi…",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -7138,18 +7198,18 @@
       ]
     },
     {
-      "id": "2d0d52e06274a1c0",
-      "title": "12394374 - Desenvolvedor Adobe Marketo Engage",
+      "id": "6394c12911360780",
+      "title": "12187504 - Desenvolvedor Full Stack Sr",
       "company": "Mtpbrasil",
       "location": "Brasil",
-      "remote": true,
-      "work_model": "REMOTO",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
       "track": "APPSEC",
-      "seniority": "PLENO",
+      "seniority": "SÊNIOR",
       "source": "Gupy",
-      "url": "https://mtpbrasil.gupy.io/jobs/12394374?jobBoardSource=gupy_public_page",
+      "url": "https://mtpbrasil.gupy.io/jobs/12187504?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | 12394374 - Desenvolvedor Adobe Marketo Engage Pular para o conteúdo principal Ir para a página da empresa Candidatar-se 12394374 - Desenvolvedor Adobe Marketo Engage Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A MTP – Métodos e Tecnologia é uma multinacional espanhola com 28 anos de atuação, presente em m…",
+      "summary": "Página da Vaga | 12187504 - Desenvolvedor Full Stack Sr Pular para o conteúdo principal Ir para a página da empresa Candidatar-se 12187504 - Desenvolvedor Full Stack Sr Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A MTP – Métodos e Tecnologia é uma multinacional espanhola com 28 anos de atuação, presente em mais de 21 país…",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -7182,66 +7242,6 @@
       ]
     },
     {
-      "id": "43232a31ceea22dd",
-      "title": "12323581 - Consultor SAP SD",
-      "company": "Mtpbrasil",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://mtpbrasil.gupy.io/jobs/12323581?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | 12323581 - Consultor SAP SD Pular para o conteúdo principal Ir para a página da empresa Candidatar-se 12323581 - Consultor SAP SD Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A MTP – Métodos e Tecnologia é uma multinacional espanhola com 28 anos de atuação, presente em mais de 21 países, com sedes no Brasi…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "7381525a3a5a6121",
-      "title": "12394334 - Desenvolvedor Adobe Experience Platform (AEP)",
-      "company": "Mtpbrasil",
-      "location": "Brasil",
-      "remote": true,
-      "work_model": "REMOTO",
-      "track": "APPSEC",
-      "seniority": "PLENO",
-      "source": "Gupy",
-      "url": "https://mtpbrasil.gupy.io/jobs/12394334?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | 12394334 - Desenvolvedor Adobe Experience Platform (AEP) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se 12394334 - Desenvolvedor Adobe Experience Platform (AEP) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A MTP – Métodos e Tecnologia é uma multinacional espanhola com 28 anos de …",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "40ae4afda1c904cb",
-      "title": "12394184 - Desenvolvedor Adobe Experience Platform (AEP)",
-      "company": "Mtpbrasil",
-      "location": "Brasil",
-      "remote": true,
-      "work_model": "REMOTO",
-      "track": "APPSEC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://mtpbrasil.gupy.io/jobs/12394184?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | 12394184 - Desenvolvedor Adobe Experience Platform (AEP) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se 12394184 - Desenvolvedor Adobe Experience Platform (AEP) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A MTP – Métodos e Tecnologia é uma multinacional espanhola com 28 anos de …",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
       "id": "f09d1bba80994681",
       "title": "12393045 - Engenheiro de Dados Pleno",
       "company": "Mtpbrasil",
@@ -7254,26 +7254,6 @@
       "url": "https://mtpbrasil.gupy.io/jobs/12393045?jobBoardSource=gupy_public_page",
       "published": null,
       "summary": "Página da Vaga | 12393045 - Engenheiro de Dados Pleno Pular para o conteúdo principal Ir para a página da empresa Candidatar-se 12393045 - Engenheiro de Dados Pleno Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A MTP – Métodos e Tecnologia é uma multinacional espanhola com 28 anos de atuação, presente em mais de 21 países, …",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "6394c12911360780",
-      "title": "12187504 - Desenvolvedor Full Stack Sr",
-      "company": "Mtpbrasil",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://mtpbrasil.gupy.io/jobs/12187504?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | 12187504 - Desenvolvedor Full Stack Sr Pular para o conteúdo principal Ir para a página da empresa Candidatar-se 12187504 - Desenvolvedor Full Stack Sr Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A MTP – Métodos e Tecnologia é uma multinacional espanhola com 28 anos de atuação, presente em mais de 21 país…",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -7306,22 +7286,46 @@
       ]
     },
     {
-      "id": "590f120f40270b25",
-      "title": "Pessoa Analista Financeira - Controladoria",
-      "company": "Vwbrasil",
+      "id": "7381525a3a5a6121",
+      "title": "12394334 - Desenvolvedor Adobe Experience Platform (AEP)",
+      "company": "Mtpbrasil",
       "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
+      "remote": true,
+      "work_model": "REMOTO",
       "track": "APPSEC",
-      "seniority": "SÊNIOR",
+      "seniority": "PLENO",
       "source": "Gupy",
-      "url": "https://vwbrasil.gupy.io/jobs/11974157?jobBoardSource=gupy_public_page",
+      "url": "https://mtpbrasil.gupy.io/jobs/12394334?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Pessoa Analista Financeira - Controladoria Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Pessoa Analista Financeira - Controladoria Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A Pessoa Analista deve ter sólida formação em Controladoria com comportamento proativo visando entende…",
+      "summary": "Página da Vaga | 12394334 - Desenvolvedor Adobe Experience Platform (AEP) Pular para o conteúdo principal Ir para a página da empresa Candidatar-se 12394334 - Desenvolvedor Adobe Experience Platform (AEP) Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A MTP – Métodos e Tecnologia é uma multinacional espanhola com 28 anos de …",
       "labs": [
         {
           "name": "Aulinha WAAP",
           "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "8da07415512d1365",
+      "title": "Pessoa Analista de Segurança da Informação Sênior - IAM SAP",
+      "company": "Vwbrasil",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "GRC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://vwbrasil.gupy.io/jobs/12476567?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Pessoa Analista de Segurança da Informação Sênior - IAM SAP Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Pessoa Analista de Segurança da Informação Sênior - IAM SAP Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga O Analista de Segurança SAP contribuirá para a integridade, confiden…",
+      "labs": [
+        {
+          "name": "GRC Tour",
+          "url": "https://github.com/marianabsctba/GRC_Tour_Senhor_dos_Aneis"
+        },
+        {
+          "name": "Desafio GRC",
+          "url": "https://github.com/marianabsctba/Desafio_Pratico_GRC"
         }
       ]
     },
@@ -7366,8 +7370,8 @@
       ]
     },
     {
-      "id": "0215c9be89a4ef9d",
-      "title": "Pessoa Analista de Marketing do Produto",
+      "id": "590f120f40270b25",
+      "title": "Pessoa Analista Financeira - Controladoria",
       "company": "Vwbrasil",
       "location": "Brasil",
       "remote": false,
@@ -7375,93 +7379,9 @@
       "track": "APPSEC",
       "seniority": "SÊNIOR",
       "source": "Gupy",
-      "url": "https://vwbrasil.gupy.io/jobs/12425914?jobBoardSource=gupy_public_page",
+      "url": "https://vwbrasil.gupy.io/jobs/11974157?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Pessoa Analista de Marketing do Produto Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Pessoa Analista de Marketing do Produto Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Você será responsável pelo gerenciamento de projetos veiculares com a visão de Marketing do Produto, coorden…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "98a1bb46463c7b1f",
-      "title": "Analista de Marketing Latino América - LAM",
-      "company": "Vwbrasil",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://vwbrasil.gupy.io/jobs/12322474?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de Marketing Latino América - LAM Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Marketing Latino América - LAM Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Você será responsável por coordenar e desenvolver iniciativas estratégicas de marketing para os mercad…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "8da07415512d1365",
-      "title": "Pessoa Analista de Segurança da Informação Sênior - IAM SAP",
-      "company": "Vwbrasil",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "GRC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://vwbrasil.gupy.io/jobs/12476567?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Pessoa Analista de Segurança da Informação Sênior - IAM SAP Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Pessoa Analista de Segurança da Informação Sênior - IAM SAP Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga O Analista de Segurança SAP contribuirá para a integridade, confiden…",
-      "labs": [
-        {
-          "name": "GRC Tour",
-          "url": "https://github.com/marianabsctba/GRC_Tour_Senhor_dos_Aneis"
-        },
-        {
-          "name": "Desafio GRC",
-          "url": "https://github.com/marianabsctba/Desafio_Pratico_GRC"
-        }
-      ]
-    },
-    {
-      "id": "ca3eaac2786efbcd",
-      "title": "Pessoa Analista Financeira",
-      "company": "Vwbrasil",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "START",
-      "source": "Gupy",
-      "url": "https://vwbrasil.gupy.io/jobs/12554960?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Pessoa Analista Financeira Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Pessoa Analista Financeira Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Você será responsável pelo planejamento financeiro, com interface à diversas áreas da empresa agregando conhecimento end-to-end do neg…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "ac8faa0f115e4c72",
-      "title": "BANCO DE TALENTOS",
-      "company": "Vwbrasil",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "APPSEC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://vwbrasil.gupy.io/jobs/627578?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | BANCO DE TALENTOS Pular para o conteúdo principal Ir para a página da empresa Candidatar-se BANCO DE TALENTOS Copiar link Erro ao copiar link Essa inscrição no Banco de Talentos é para que a empresa te considere em futuras oportunidades. Entenda mais Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Olá, somos a Volkswagen do Brasil e adorarí…",
+      "summary": "Página da Vaga | Pessoa Analista Financeira - Controladoria Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Pessoa Analista Financeira - Controladoria Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A Pessoa Analista deve ter sólida formação em Controladoria com comportamento proativo visando entende…",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -7490,6 +7410,66 @@
       ]
     },
     {
+      "id": "0215c9be89a4ef9d",
+      "title": "Pessoa Analista de Marketing do Produto",
+      "company": "Vwbrasil",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://vwbrasil.gupy.io/jobs/12425914?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Pessoa Analista de Marketing do Produto Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Pessoa Analista de Marketing do Produto Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Você será responsável pelo gerenciamento de projetos veiculares com a visão de Marketing do Produto, coorden…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "ca3eaac2786efbcd",
+      "title": "Pessoa Analista Financeira",
+      "company": "Vwbrasil",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "START",
+      "source": "Gupy",
+      "url": "https://vwbrasil.gupy.io/jobs/12554960?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Pessoa Analista Financeira Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Pessoa Analista Financeira Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Você será responsável pelo planejamento financeiro, com interface à diversas áreas da empresa agregando conhecimento end-to-end do neg…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "98a1bb46463c7b1f",
+      "title": "Analista de Marketing Latino América - LAM",
+      "company": "Vwbrasil",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://vwbrasil.gupy.io/jobs/12322474?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Marketing Latino América - LAM Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Marketing Latino América - LAM Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Você será responsável por coordenar e desenvolver iniciativas estratégicas de marketing para os mercad…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
       "id": "f40cef30e0bab458",
       "title": "Consultor Comercial de Vendas SAM - Área Manager",
       "company": "Vwbrasil",
@@ -7510,18 +7490,82 @@
       ]
     },
     {
-      "id": "bea1e8433be1379a",
-      "title": "Analista de Dados Júnior",
+      "id": "ac8faa0f115e4c72",
+      "title": "BANCO DE TALENTOS",
+      "company": "Vwbrasil",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://vwbrasil.gupy.io/jobs/627578?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | BANCO DE TALENTOS Pular para o conteúdo principal Ir para a página da empresa Candidatar-se BANCO DE TALENTOS Copiar link Erro ao copiar link Essa inscrição no Banco de Talentos é para que a empresa te considere em futuras oportunidades. Entenda mais Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Olá, somos a Volkswagen do Brasil e adorarí…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "b69a1fb2f3fa6c60",
+      "title": "Assessor Jurídico",
       "company": "Bellinatiperez",
       "location": "Brasil",
       "remote": false,
       "work_model": "HÍBRIDO",
       "track": "APPSEC",
-      "seniority": "START",
+      "seniority": "SÊNIOR",
       "source": "Gupy",
-      "url": "https://bellinatiperez.gupy.io/jobs/12469272?jobBoardSource=gupy_public_page",
+      "url": "https://bellinatiperez.gupy.io/jobs/12553773?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Analista de Dados Júnior Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Dados Júnior Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Quem somos? A Bellinati Perez , atua na recuperação de créditos com e sem garantia, no amigável e judicial, com atuação em modelos de nego…",
+      "summary": "Página da Vaga | Assessor Jurídico Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Assessor Jurídico Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Quem somos? A Bellinati Perez , atua na recuperação de créditos com e sem garantia, no amigável e judicial, com atuação em modelos de negociação humana,…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "74b659fed79e045a",
+      "title": "Analista de Infraestrutura Pleno",
+      "company": "Bellinatiperez",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "HÍBRIDO",
+      "track": "SOC / BLUE TEAM",
+      "seniority": "PLENO",
+      "source": "Gupy",
+      "url": "https://bellinatiperez.gupy.io/jobs/12284368?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de Infraestrutura Pleno Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Infraestrutura Pleno Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Quem somos? A Bellinati Perez , atua na recuperação de créditos com e sem garantia, no amigável e judicial, com atuação em…",
+      "labs": [
+        {
+          "name": "Curso SOC N1",
+          "url": "https://github.com/marianabsctba/Curso_SOC_N1"
+        },
+        {
+          "name": "SIEM Deploy Lab",
+          "url": "https://github.com/marianabsctba/SIEM_Deploy_Lab"
+        }
+      ]
+    },
+    {
+      "id": "9f4f32abf8cd6178",
+      "title": "Analista de RH",
+      "company": "Bellinatiperez",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "HÍBRIDO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://bellinatiperez.gupy.io/jobs/12453286?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Analista de RH Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de RH Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Quem somos? A Bellinati Perez, atua na recuperação de créditos com e sem garantia, no amigável e judicial, com atuação em modelos de negociação humana, digita…",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -7570,26 +7614,22 @@
       ]
     },
     {
-      "id": "74b659fed79e045a",
-      "title": "Analista de Infraestrutura Pleno",
+      "id": "82f07052898c6f09",
+      "title": "Analista de Treinamento – Programas de Desenvolvimento de Lideranças",
       "company": "Bellinatiperez",
       "location": "Brasil",
       "remote": false,
       "work_model": "HÍBRIDO",
-      "track": "SOC / BLUE TEAM",
-      "seniority": "PLENO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
       "source": "Gupy",
-      "url": "https://bellinatiperez.gupy.io/jobs/12284368?jobBoardSource=gupy_public_page",
+      "url": "https://bellinatiperez.gupy.io/jobs/12484721?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Analista de Infraestrutura Pleno Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Infraestrutura Pleno Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Quem somos? A Bellinati Perez , atua na recuperação de créditos com e sem garantia, no amigável e judicial, com atuação em…",
+      "summary": "Página da Vaga | Analista de Treinamento – Programas de Desenvolvimento de Lideranças Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Treinamento – Programas de Desenvolvimento de Lideranças Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A Bellinati Perez , atua na recuperação de crédito…",
       "labs": [
         {
-          "name": "Curso SOC N1",
-          "url": "https://github.com/marianabsctba/Curso_SOC_N1"
-        },
-        {
-          "name": "SIEM Deploy Lab",
-          "url": "https://github.com/marianabsctba/SIEM_Deploy_Lab"
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
         }
       ]
     },
@@ -7629,58 +7669,18 @@
       "labs": []
     },
     {
-      "id": "82f07052898c6f09",
-      "title": "Analista de Treinamento – Programas de Desenvolvimento de Lideranças",
+      "id": "bea1e8433be1379a",
+      "title": "Analista de Dados Júnior",
       "company": "Bellinatiperez",
       "location": "Brasil",
       "remote": false,
       "work_model": "HÍBRIDO",
       "track": "APPSEC",
-      "seniority": "SÊNIOR",
+      "seniority": "START",
       "source": "Gupy",
-      "url": "https://bellinatiperez.gupy.io/jobs/12484721?jobBoardSource=gupy_public_page",
+      "url": "https://bellinatiperez.gupy.io/jobs/12469272?jobBoardSource=gupy_public_page",
       "published": null,
-      "summary": "Página da Vaga | Analista de Treinamento – Programas de Desenvolvimento de Lideranças Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Treinamento – Programas de Desenvolvimento de Lideranças Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga A Bellinati Perez , atua na recuperação de crédito…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "b69a1fb2f3fa6c60",
-      "title": "Assessor Jurídico",
-      "company": "Bellinatiperez",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "HÍBRIDO",
-      "track": "APPSEC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://bellinatiperez.gupy.io/jobs/12553773?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Assessor Jurídico Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Assessor Jurídico Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Quem somos? A Bellinati Perez , atua na recuperação de créditos com e sem garantia, no amigável e judicial, com atuação em modelos de negociação humana,…",
-      "labs": [
-        {
-          "name": "Aulinha WAAP",
-          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
-        }
-      ]
-    },
-    {
-      "id": "9f4f32abf8cd6178",
-      "title": "Analista de RH",
-      "company": "Bellinatiperez",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "HÍBRIDO",
-      "track": "APPSEC",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://bellinatiperez.gupy.io/jobs/12453286?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Analista de RH Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de RH Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Quem somos? A Bellinati Perez, atua na recuperação de créditos com e sem garantia, no amigável e judicial, com atuação em modelos de negociação humana, digita…",
+      "summary": "Página da Vaga | Analista de Dados Júnior Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Analista de Dados Júnior Copiar link Erro ao copiar link Compartilhar vaga Link copiado Ir para candidatura Descrição da vaga Quem somos? A Bellinati Perez , atua na recuperação de créditos com e sem garantia, no amigável e judicial, com atuação em modelos de nego…",
       "labs": [
         {
           "name": "Aulinha WAAP",
@@ -7713,30 +7713,6 @@
       ]
     },
     {
-      "id": "a8c3fa326e1400ed",
-      "title": "Banco de Talentos - Executivo de Vendas - Cibersegurança",
-      "company": "Netconn",
-      "location": "Brasil",
-      "remote": false,
-      "work_model": "NÃO INFORMADO",
-      "track": "SOC / BLUE TEAM",
-      "seniority": "SÊNIOR",
-      "source": "Gupy",
-      "url": "https://netconn.gupy.io/jobs/9632383?jobBoardSource=gupy_public_page",
-      "published": null,
-      "summary": "Página da Vaga | Banco de Talentos - Executivo de Vendas - Cibersegurança Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Banco de Talentos - Executivo de Vendas - Cibersegurança Copiar link Erro ao copiar link Essa inscrição no Banco de Talentos é para que a empresa te considere em futuras oportunidades. Entenda mais Compartilhar vaga Link copiado Ir …",
-      "labs": [
-        {
-          "name": "Curso SOC N1",
-          "url": "https://github.com/marianabsctba/Curso_SOC_N1"
-        },
-        {
-          "name": "SIEM Deploy Lab",
-          "url": "https://github.com/marianabsctba/SIEM_Deploy_Lab"
-        }
-      ]
-    },
-    {
       "id": "97dc51f0a861d381",
       "title": "Banco de Talentos - Tecnologia / Cibersegurança",
       "company": "Netconn",
@@ -7757,6 +7733,30 @@
         {
           "name": "Desafio GRC",
           "url": "https://github.com/marianabsctba/Desafio_Pratico_GRC"
+        }
+      ]
+    },
+    {
+      "id": "a8c3fa326e1400ed",
+      "title": "Banco de Talentos - Executivo de Vendas - Cibersegurança",
+      "company": "Netconn",
+      "location": "Brasil",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "SOC / BLUE TEAM",
+      "seniority": "SÊNIOR",
+      "source": "Gupy",
+      "url": "https://netconn.gupy.io/jobs/9632383?jobBoardSource=gupy_public_page",
+      "published": null,
+      "summary": "Página da Vaga | Banco de Talentos - Executivo de Vendas - Cibersegurança Pular para o conteúdo principal Ir para a página da empresa Candidatar-se Banco de Talentos - Executivo de Vendas - Cibersegurança Copiar link Erro ao copiar link Essa inscrição no Banco de Talentos é para que a empresa te considere em futuras oportunidades. Entenda mais Compartilhar vaga Link copiado Ir …",
+      "labs": [
+        {
+          "name": "Curso SOC N1",
+          "url": "https://github.com/marianabsctba/Curso_SOC_N1"
+        },
+        {
+          "name": "SIEM Deploy Lab",
+          "url": "https://github.com/marianabsctba/SIEM_Deploy_Lab"
         }
       ]
     },
@@ -12472,6 +12472,169 @@
       ]
     },
     {
+      "id": "7d849e5da351e408",
+      "title": "Senior Infrastructure Solutions Engineer",
+      "company": "planetlabs",
+      "location": "Remote",
+      "remote": true,
+      "work_model": "REMOTO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/planetlabs/remote-senior-infrastructure-solutions-engineer-59844",
+      "published": null,
+      "summary": "Welcome to Planet. We believe in using space to help life on Earth. Planet designs, builds, and operates the largest constellation of imaging satellites in history. This constellation delivers an unprecedented dataset of empirical information via a revolutionary cloud-based platform to authoritative figures in commercial, environmental, and humanitarian sectors. We are both a s…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "4277ab5a7961dc75",
+      "title": "Software Engineer, Infrastructure - Self Managed Experience (SMX)",
+      "company": "Camunda",
+      "location": "Remote",
+      "remote": true,
+      "work_model": "REMOTO",
+      "track": "APPSEC",
+      "seniority": "NÃO INFORMADO",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-software-engineer-infrastructure-self-managed-experience-smx-423924",
+      "published": null,
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale. Trusted by over 700 organizations…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "cb0f8814033bbf4d",
+      "title": "Enterprise Account Executive III - NA",
+      "company": "Camunda",
+      "location": "Remote",
+      "remote": true,
+      "work_model": "REMOTO",
+      "track": "APPSEC",
+      "seniority": "NÃO INFORMADO",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-enterprise-account-executive-iii-na-46735",
+      "published": null,
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale. Trusted by over 700 organizations…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "b7780fcb5222185c",
+      "title": "Senior Software Engineer, Backend - Distributed Systems",
+      "company": "Camunda",
+      "location": "Remote",
+      "remote": true,
+      "work_model": "REMOTO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/camunda/remote-senior-software-engineer-backend-distributed-systems-379485",
+      "published": null,
+      "summary": "Camunda is the enterprise platform for agentic orchestration , enabling organizations to coordinate AI agents, people, and systems across complex, end-to-end business processes. With built-in governance, auditability, and human oversight, Camunda gives enterprises the control they need to move AI from pilots to production — safely and at scale. Trusted by over 700 organizations…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "56cc5f09280458ba",
+      "title": "Fractional Finance Manager",
+      "company": "Passionfroot",
+      "location": "Berlin",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "CTI",
+      "seniority": "SÊNIOR",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/passionfroot/fractional-finance-manager-berlin-227759",
+      "published": null,
+      "summary": "About Passionfroot Creator-led growth is one of the fastest-growing channels in B2B - we're building the infrastructure behind it. Passionfroot is the leading platform where modern companies scale creator-led growth, and where top creators manage and monetize brand partnerships. Our customers are some of the most ambitious, fastest-moving companies in the world - Replit, Figma,…",
+      "labs": []
+    },
+    {
+      "id": "f707e0b017c09115",
+      "title": "Senior / Staff Product Engineer",
+      "company": "Passionfroot",
+      "location": "Berlin",
+      "remote": false,
+      "work_model": "NÃO INFORMADO",
+      "track": "APPSEC",
+      "seniority": "SÊNIOR",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/passionfroot/senior-staff-product-engineer-berlin-486963",
+      "published": null,
+      "summary": "About Passionfroot Creator-led growth is one of the fastest-growing channels in B2B—and we’re building the infrastructure behind it. Passionfroot is the leading platform where modern companies scale creator-led growth, and where top creators manage and monetize brand partnerships. Our customers include some of the most ambitious, fastest-moving companies in the world—Replit, Hu…",
+      "labs": [
+        {
+          "name": "Aulinha WAAP",
+          "url": "https://github.com/marianabsctba/Aulinha_WAAP"
+        }
+      ]
+    },
+    {
+      "id": "a45574c851dd7bef",
+      "title": "Product Designer | SimpleStudy",
+      "company": "Hirehire",
+      "location": "Remote",
+      "remote": true,
+      "work_model": "REMOTO",
+      "track": "SOC / BLUE TEAM",
+      "seniority": "SÊNIOR",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/hirehire/remote-product-designer-simplestudy-388362",
+      "published": null,
+      "summary": "Role: Senior Product Designer Company: SimpleStudy Location: Remote, Europe (preferably Western / continental); relocation to Lisbon possible Job Type: Full-time About SimpleStudy SimpleStudy is an AI exam prep platform that students find and choose for themselves. In some numbers: 1.5M+ students across the UK, Ireland, Brazil, South Africa, and Australia 40–50k new students ev…",
+      "labs": [
+        {
+          "name": "Curso SOC N1",
+          "url": "https://github.com/marianabsctba/Curso_SOC_N1"
+        },
+        {
+          "name": "SIEM Deploy Lab",
+          "url": "https://github.com/marianabsctba/SIEM_Deploy_Lab"
+        }
+      ]
+    },
+    {
+      "id": "a3e91d27de5ffe38",
+      "title": "Senior Account Executive (Germany)",
+      "company": "Huble",
+      "location": "Munich, Germany",
+      "remote": true,
+      "work_model": "REMOTO",
+      "track": "SOC / BLUE TEAM",
+      "seniority": "SÊNIOR",
+      "source": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/huble/remote-senior-account-executive-germany-munich-217529",
+      "published": null,
+      "summary": "Welcome to Huble 👋, HubSpot’s 2024 global partner of the year! We are a global HubSpot, AI, marketing & creative consultancy enabling mid-market and enterprise businesses move faster, adapt smarter, and innovate freely—by building their business around HubSpot’s CRM. We believe in striking a balance between professionalism and being human. 👀 Who we're looking for: An experience…",
+      "labs": [
+        {
+          "name": "Curso SOC N1",
+          "url": "https://github.com/marianabsctba/Curso_SOC_N1"
+        },
+        {
+          "name": "SIEM Deploy Lab",
+          "url": "https://github.com/marianabsctba/SIEM_Deploy_Lab"
+        }
+      ]
+    },
+    {
       "id": "2e08b5024207aba9",
       "title": "Lead Product Manager",
       "company": "1Global",
@@ -12492,30 +12655,6 @@
         {
           "name": "Desafio GRC",
           "url": "https://github.com/marianabsctba/Desafio_Pratico_GRC"
-        }
-      ]
-    },
-    {
-      "id": "7c4a362ca655fa97",
-      "title": "Product Designer | SimpleStudy",
-      "company": "Hirehire",
-      "location": "Remote",
-      "remote": true,
-      "work_model": "REMOTO",
-      "track": "SOC / BLUE TEAM",
-      "seniority": "SÊNIOR",
-      "source": "Arbeitnow",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hirehire/remote-product-designer-simplestudy-338113",
-      "published": null,
-      "summary": "Role: Senior Product Designer Company: SimpleStudy Location: Remote, Europe (preferably Western / continental); relocation to Lisbon possible Job Type: Full-time About SimpleStudy SimpleStudy is an AI exam prep platform that students find and choose for themselves. In some numbers: 1.5M+ students across the UK, Ireland, Brazil, South Africa, and Australia 40–50k new students ev…",
-      "labs": [
-        {
-          "name": "Curso SOC N1",
-          "url": "https://github.com/marianabsctba/Curso_SOC_N1"
-        },
-        {
-          "name": "SIEM Deploy Lab",
-          "url": "https://github.com/marianabsctba/SIEM_Deploy_Lab"
         }
       ]
     },
