@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-09-26T05:09:36.556892+00:00",
+  "updated_at": "2026-09-26T11:34:44.887593+00:00",
   "items": [
+    {
+      "title": "OpenAI afirma que seus modelos se envolveram com sites do governo dos EUA na divulgação de mau comportamento de novo modelo",
+      "summary": "O CEO da OpenAI disse que há uma “revisão extensa e contínua relacionada ao uso do acesso à Internet por nossos agentes durante o treinamento e avaliação”. A postagem OpenAI afirma que seus modelos estão envolvidos com sites do governo dos EUA na divulgação de",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/",
+      "published": "2026-09-26T10:15:41+00:00",
+      "image": ""
+    },
+    {
+      "title": "A falha Elementor CSRF permite que invasores assumam o controle de sites depois que o administrador clica no link criado",
+      "summary": "Surgiram detalhes sobre uma falha de segurança de alta gravidade no plugin Elementor Website Builder WordPress que poderia ser explorada por um invasor não autenticado para criar contas de administrador desonestas e assumir o controle de um site. A vulnerabili",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
+      "published": "2026-09-26T09:55:22+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoCsmpn_im_gimeko6yEdebgucFfzjRrTH0Hmvl1triNXT64w_JdoBIqCrFEApRZ9mmKBYfJQ1fqgfubPH3ZRaWW7SJ2HSr18mBsjSdFE6AwVl362SwcdzHp0EtlL2qoVuYARkSKmOqQaORUjjYVAM-PCT9Itvvkgb69lyVLttezAFtAuCw86RpPu3lAo4/s1600/wordpress-ele.jpg"
+    },
+    {
+      "title": "Falhas do SharePoint RCE e MikroTik RouterOS exploradas ativamente na natureza",
+      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) adicionou na sexta-feira duas falhas de segurança que afetam o Microsoft SharePoint e o Mikrotik RouterOS ao seu catálogo de Vulnerabilidades Exploradas Conhecidas (KEV), citando evidências ",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
+      "published": "2026-09-26T08:49:53+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHEPamtRBBEzltsUWnj-F8umrMf4eUUhTmGUJdhHlrvWZamHWpBtXcrpQKDArTziRiiIWv8psX4DTZyN9kLBtcAyLOPJma9_M7sYKgYz6WBISbOhJrRlfByfCKfTTMdBqaYUp-0nskrt2ndt3poUFLDGegEFJojS0EzEvwAqzaUNtvX26jZopYE4zA4S3K/s1600/share-kev.jpg"
+    },
+    {
+      "title": "Kiteworks pede aos clientes que desliguem os sistemas por 9 horas devido a um possível ataque cibernético",
+      "summary": "A Kiteworks (anteriormente Accellion) está pedindo aos clientes que desliguem seus sistemas como medida de precaução por nove horas no fim de semana, depois de receber informações sobre ameaças sobre um ataque cibernético iminente. \"A Kiteworks recebeu informa",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
+      "published": "2026-09-26T07:48:33+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv53vaJYNeZNicsGcrBICKzTEXfHanPN-VR6-pTFsSJEV2IGpJn2MainwfMgqV2k96VN_ocXYLbmykTSVpwTPZr16tauFV37hU3g-lA4X31aqJQFYIsdwlHwNUIhNn9euB8SddL8d7wRKa7Ira2vNi51WNHyJivZ2Z3kkRDcAZtCQfSyvZHNLrZbqbF7jr/s1600/kite.jpg"
+    },
     {
       "title": "Kiteworks pede desligamento do servidor em 6 horas devido a possíveis ataques de dia zero",
       "summary": "A empresa de software de compartilhamento seguro de arquivos Kiteworks está pedindo aos clientes em todo o mundo que desliguem temporariamente seus servidores no sábado por um período de seis horas, após receberem um alerta de inteligência sobre ameaças sobre ",
@@ -83,10 +119,10 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJFMIQ6v0uJDRoxyIhqsoqsYoXN00dcDH4IvkdQAkRBRj6ha5LIu2-2yzzvQk1OZTc-7tK1fjeqyIh8xvRNvz_CotOtGNsYnejlbHED7cI-bmZFP80JIdxk_0D9I6Zo10-6b4x4euCTaRtz8c6ncYKykDsW7Bt4oFEVYWTe3AHJdiUxM32R6hGP9C0Y0Xf/s1600/github-shai.jpg"
     },
     {
-      "title": "Ações comprometidas do GitHub voltaram on-line e retomaram a execução do malware Mini Shai-Hulud - thehackernews.com",
-      "summary": "Ações comprometidas do GitHub voltaram on-line e retomaram a execução do malware Mini Shai-Hulud thehackernews.com",
+      "title": "Ações comprometidas do GitHub voltaram on-line e retomaram a execução do malware Mini Shai-Hulud - The Hacker News",
+      "summary": "Ações comprometidas do GitHub voltaram on-line e retomaram a execução do malware Mini Shai-Hulud The Hacker News",
       "category": "AMEAÇAS",
-      "source": "thehackernews.com",
+      "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQS29xd1YzekRTeHZQd25tTVgzbjJ0Ukd2Z1VndzdsVFd5N2ZVT20xYzhVclZwcGdKSE9TU2JfUUhDeGFrUGR6WVhBdXZBNWZvVDcyMjd3OW11S3ZjRDFaT2tBNTZDVlZxQjN3OTFlSFpQRzVsTFZRWmdrd1dXNzlhZQ?oc=5",
       "published": "2026-09-25T14:44:00+00:00",
       "image": ""
@@ -110,10 +146,10 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRZ3gQjU3cKnH6bHzlz8PjeaUqGcrVWnRx-bT-mgDBYv-G4CM2Iix8afTJe8sAXEghuPTiD5KszOYzA0peRhyoGKNW9YE1QtwLubBFuv9YZjXnANEGyMGwi7-oEdIqmtRBWPzUZV7S91WiUX4cI2YVMHVSQbByCmIwAX9oZxvzjb2ScVJmpmMCzpDKaKtN/s1600/macos.jpg"
     },
     {
-      "title": "Malware PamStealer macOS adiciona descriptografia de carga útil C2 ao vivo e persistência multicamadas - thehackernews.com",
-      "summary": "Malware PamStealer macOS adiciona descriptografia de carga útil C2 ao vivo e persistência multicamadas thehackernews.com",
+      "title": "Malware PamStealer macOS adiciona descriptografia de carga útil C2 ao vivo e persistência multicamadas - The Hacker News",
+      "summary": "Malware PamStealer macOS adiciona descriptografia de carga útil C2 ao vivo e persistência multicamadas The Hacker News",
       "category": "AMEAÇAS",
-      "source": "thehackernews.com",
+      "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZTlhczE5dXdXYjhNT1pnNHEwT2xvVVh2NUU5Y0M0c0tXMnl2X3dpSlJHd2lpbkZVREwtQXZNaG9LRjNzNHBiZUpYVEstUl9NN2lPZHRJbEZDdlNkQzR3QnRmRTItT0dLcDN6SkxHOFVPemhKZE14VEpJeWtzRUlzdTJR?oc=5",
       "published": "2026-09-25T13:18:00+00:00",
       "image": ""
@@ -126,42 +162,6 @@
       "url": "https://blog.cloudflare.com/turnstile-spin/",
       "published": "2026-09-25T13:00:00+00:00",
       "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M3CQMQWGC7WBK8ZR7DG13PFE.01M3CQMRMEBSVS7GAD6GNHZ9JD.png"
-    },
-    {
-      "title": "Plano de segurança eleitoral da CISA sinaliza barreiras de correção e ataques a bancos de dados de eleitores",
-      "summary": "O secretário de Segurança Interna, Markwayne Mullin, encarregou a CISA de desenvolver o plano em julho. A postagem Plano de segurança eleitoral da CISA sinaliza barreiras de correção e ataques ao banco de dados de eleitores apareceu pela primeira vez em Securi",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/cisa-election-security-plan-flags-patching-barriers-voter-database-attacks/",
-      "published": "2026-09-25T12:39:12+00:00",
-      "image": ""
-    },
-    {
-      "title": "Proprietário Kosovar do Rydox Marketplace se declara culpado em tribunal dos EUA",
-      "summary": "Ardit Kutleshi criou e operou o Rydox, que permitiu que criminosos comercializassem ferramentas e serviços de PII e de crime cibernético. A postagem Proprietário Kosovar do Rydox Marketplace se declara culpado no tribunal dos EUA apareceu pela primeira vez na ",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/kosovar-owner-of-rydox-marketplace-pleads-guilty-in-us-court/",
-      "published": "2026-09-25T12:16:27+00:00",
-      "image": ""
-    },
-    {
-      "title": "Administrador do mercado Rydox se declara culpado e pode pegar 22 anos de prisão",
-      "summary": "Um cidadão do Kosovo se declarou culpado de operar o Rydox, um grande mercado online ilegal que vendia informações pessoais roubadas, credenciais de login, detalhes de cartão de crédito e ferramentas de crime cibernético. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
-      "published": "2026-09-25T11:35:14+00:00",
-      "image": ""
-    },
-    {
-      "title": "O SOC não precisa recomeçar a cada alerta",
-      "summary": "Os líderes de segurança continuam a debater se a IA produzirá uma classe inteiramente nova de ataques cibernéticos. A mudança mais próxima é mais silenciosa e já visível: a IA tornou barato um ataque fracassado para tentar novamente. A versão de rotina é assim",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
-      "published": "2026-09-25T11:30:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0sz5D5hiSWYuUfbRDYDloMNzbx5dpvVQjC5ZVoYzIgvWL_Tkyx8AjNHjZ27RAwaPbCIQXNWB6o_FYzxjimFYHY2pHfp6m6b97tARxhdhqSHBkp2lYpfekwVLvUIm63ruwsHR7RlQkR-2jfOPELG2hjZrrYr9JYr4ndSfVaYIajhTpmB6Ud0DIXz1D_uI/s1600/soc-1.jpg"
     }
   ]
 }
