@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-09-27T05:27:24.322187+00:00",
+  "updated_at": "2026-09-27T12:13:17.791330+00:00",
   "items": [
+    {
+      "title": "Falha CVE-2026-65660 do Microsoft SharePoint agora explorada em ataques",
+      "summary": "A CISA adicionou CVE-2026-65660 ao seu catálogo KEV, dando às agências federais um prazo de correção até 28 de setembro. A postagem Falha CVE-2026-65660 do Microsoft SharePoint agora explorada em ataques apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/",
+      "published": "2026-09-27T09:23:09+00:00",
+      "image": ""
+    },
+    {
+      "title": "Aviso: dois Citrix NetScaler RCE Zero-Days sem correção sob exploração ativa",
+      "summary": "Duas novas vulnerabilidades de dia zero não corrigidas nos dispositivos Citrix NetScaler ADC e NetScaler Gateway que permitem a execução remota de código estão sendo exploradas ativamente, disse a empresa de segurança watchTowr em 26 de setembro. Alguns admini",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
+      "published": "2026-09-27T07:47:57+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrnnWi_EE_zogEngdPWZDYXQTXqcArqvXtXYDj7_yLDzfVamEw9Nx7taRyM1SQf8-78qtxnt3nhNzcn36WnzYwZvFDQNvglCilw0Ltb4NjVkjjC8GH2nOUTnxIBPvRn8JVPcXJaidmbU0A6z-1RiX_OKgcpkzvL6xV7aM_YpQj6XdYIfalQH3h6o3b7pQ/s1600/citrix-zero-day.jpg"
+    },
+    {
+      "title": "Aviso: dois Citrix NetScaler RCE Zero-Days sem correção sob exploração ativa - The Hacker News",
+      "summary": "Aviso: dois Citrix NetScaler RCE Zero-Days sem correção sob exploração ativa The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3Vkc3dSY2o4WlVyWGpaaEY1MVE3ZUpRdkRTc0FUWGtkZGhjZnp0OG1tbXdzZnNEclNXRjNDd053OUVxRzR6QlAwc3lzYjFUQnVyM053WjZWeEFnZVhuZGpfNjYtZndCM1F1VUQtMUFqaElNaDVGcy01eEUxcm5JbGVMdw?oc=5",
+      "published": "2026-09-27T07:47:00+00:00",
+      "image": ""
+    },
     {
       "title": "ShinyHunters usa truque de desvio de WAF em ataques Oracle PeopleSoft",
       "summary": "A gangue de extorsão ShinyHunters está usando um truque de codificação de URL para contornar as regras de firewall de aplicativos da web que atenuam a falha Oracle PeopleSoft CVE-2026-35273, permitindo que os atores da ameaça retomem a exploração generalizada ",
@@ -56,11 +83,20 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYN2VWIT2g8mQkV0GeZWzYErKcubb0-baI8J__2nmdElucECc7HrLkdPsR1dz93qjMBI5sr_dL8yPWHf2bwWCBXa3YfutHAeJ-70UCSMuJrHhyOB3RO4OkuDjuw7gxRLXUnK-CeK9jZO0uOJRy-N3w-rV7uZ4t1FnFIWNjEsKtSYQINUvPX31mKzV_5Ert/s1600/oracle-flaw.jpg"
     },
     {
-      "title": "OpenAI afirma que seus modelos estão envolvidos com sites do governo dos EUA na divulgação de mau comportamento de novo modelo",
+      "title": "OpenAI afirma que seus modelos se envolveram com sites do governo dos EUA na divulgação de mau comportamento de novo modelo",
       "summary": "O CEO da OpenAI disse que há uma “revisão extensa e contínua relacionada ao uso do acesso à Internet por nossos agentes durante o treinamento e avaliação”. A postagem OpenAI afirma que seus modelos estão envolvidos com sites do governo dos EUA na divulgação de",
       "category": "DEFESA",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/",
+      "published": "2026-09-26T10:15:41+00:00",
+      "image": ""
+    },
+    {
+      "title": "OpenAI afirma que seus modelos estão envolvidos com sites do governo dos EUA na divulgação de mau comportamento de novo modelo - SecurityWeek",
+      "summary": "OpenAI afirma que seus modelos estão envolvidos com sites do governo dos EUA em novo modelo de divulgação de mau comportamento SecurityWeek",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOXdyLTZHT2RxMWFHcnliNHFDQTJKZjVhNnhRZzJxUnNhTkN6NE5oTEZGUFYyTFVOQ2JWSlRhSVBsLTZsSWFNWTNiV294WkRZWlk3bHBTWGF2QThZN1NLYXlPY21GLXZvNFFvVkF4ODkyZXBvSlQ2OUVKWXI1c1pabFBSOXdlTVRLVmg5czExczBDWjVyNFFjMURyT1JGeTM2ajNrTFAzbUZ2ajJadDlLSnpGSGhuMXo2elluQk41Z2VIQdIBxwFBVV95cUxQVzlFandYd2Ffemw3VElTYzVBNmk2cHowXzBYQXY4TVpLbnlYaXNMOTNqZzB2Z1Z5cmdsay05aEJIcVpkMFdqNUxyeUQ2ajR5MHZOb0ptbnZQNXlCX1J3WDlLOExHNFBaSlRfN1g0N1Z3eTdGaFJzQXRGandHaDZYaWVYalhyakI0enFaT0dPYmdmTFpqeWZSVDJ1eDNDQWxWWXdGRVdSZ0FvRXlsZHdzclRiRW91c1VOUUs1bVYxeUNRRzVWSU9N?oc=5",
       "published": "2026-09-26T10:15:41+00:00",
       "image": ""
     },
@@ -125,42 +161,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
       "published": "2026-09-25T21:41:07+00:00",
-      "image": ""
-    },
-    {
-      "title": "ShinyHunters hackeou site de vazamento Clop usando falha de passagem de caminho Grav CMS",
-      "summary": "A gangue de ransomware Clop mudou seu site de vazamento de dados para um novo endereço Tor depois de confirmar que seu servidor anterior foi comprometido e desfigurado por meio de uma falha não corrigida do Grav CMS que o BleepingComputer descobriu ser uma vul",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
-      "published": "2026-09-25T20:57:55+00:00",
-      "image": ""
-    },
-    {
-      "title": "A falha do Elementor WordPress permite que invasores criem contas de administrador",
-      "summary": "Uma vulnerabilidade de falsificação de solicitação entre sites (CSRF) no plugin Elementor para WordPress pode permitir que um invasor não autenticado crie contas de administrador. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
-      "published": "2026-09-25T18:13:33+00:00",
-      "image": ""
-    },
-    {
-      "title": "CISA alerta sobre falhas do Sharepoint, WSO2 e Adobe Commerce exploradas em ataques",
-      "summary": "A Agência de Segurança Cibernética e de Infraestrutura (CISA) alerta que os hackers estão explorando uma vulnerabilidade crítica de desvio de autenticação (CVE-2026-5430) que afeta vários produtos do fornecedor de software empresarial WSO2. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
-      "published": "2026-09-25T17:24:20+00:00",
-      "image": ""
-    },
-    {
-      "title": "Storm-3168: Ataques em nuvem conduzidos por agentes usando entidades de serviço comprometidas",
-      "summary": "A Microsoft detalha o reconhecimento do Azure vinculado ao JADEPUFFER, a exclusão de recursos e o acesso a credenciais usando entidades de serviço comprometidas, identificando a atividade como associada ao Storm-3168 e fornecendo orientação aos defensores. A p",
-      "category": "INCIDENTES",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
-      "published": "2026-09-25T15:35:08+00:00",
       "image": ""
     }
   ]
