@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-09-27T12:13:17.791330+00:00",
+  "updated_at": "2026-09-27T17:04:48.993520+00:00",
   "items": [
+    {
+      "title": "Administradores da Citrix alertados para desligar NetScalers após 2 dias zero explorados",
+      "summary": "Duas vulnerabilidades de dia zero do Citrix NetScaler não corrigidas estão sendo exploradas em ataques, com agências de segurança cibernética, pesquisadores de segurança e provedores de TI alertando em particular as organizações sobre as falhas antes dos patch",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
+      "published": "2026-09-27T16:02:37+00:00",
+      "image": ""
+    },
+    {
+      "title": "Cloudflare corrige falha entre locatários de contêineres que expõe dados de clientes",
+      "summary": "A Cloudflare corrigiu uma vulnerabilidade em contêineres e sandboxes que permitia que clientes com uma conta Workers Paid recuperassem dados residuais de contêineres de outros clientes no mesmo host físico. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
+      "published": "2026-09-27T14:13:31+00:00",
+      "image": ""
+    },
     {
       "title": "Falha CVE-2026-65660 do Microsoft SharePoint agora explorada em ataques",
       "summary": "A CISA adicionou CVE-2026-65660 ao seu catálogo KEV, dando às agências federais um prazo de correção até 28 de setembro. A postagem Falha CVE-2026-65660 do Microsoft SharePoint agora explorada em ataques apareceu pela primeira vez na SecurityWeek.",
@@ -12,7 +30,7 @@
     },
     {
       "title": "Aviso: dois Citrix NetScaler RCE Zero-Days sem correção sob exploração ativa",
-      "summary": "Duas novas vulnerabilidades de dia zero não corrigidas nos dispositivos Citrix NetScaler ADC e NetScaler Gateway que permitem a execução remota de código estão sendo exploradas ativamente, disse a empresa de segurança watchTowr em 26 de setembro. Alguns admini",
+      "summary": "Duas vulnerabilidades críticas no Citrix NetScaler ADC e NetScaler Gateway que permitem a execução remota de código foram exploradas, confirmou a Citrix em 27 de setembro. Um dos dois afeta todas as implantações em uma versão afetada, incluindo aquelas na conf",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
@@ -144,24 +162,6 @@
       "url": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
       "published": "2026-09-26T07:48:33+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv53vaJYNeZNicsGcrBICKzTEXfHanPN-VR6-pTFsSJEV2IGpJn2MainwfMgqV2k96VN_ocXYLbmykTSVpwTPZr16tauFV37hU3g-lA4X31aqJQFYIsdwlHwNUIhNn9euB8SddL8d7wRKa7Ira2vNi51WNHyJivZ2Z3kkRDcAZtCQfSyvZHNLrZbqbF7jr/s1600/kite.jpg"
-    },
-    {
-      "title": "Kiteworks pede aos clientes que desliguem os sistemas por 9 horas devido a um possível ataque cibernético - The Hacker News",
-      "summary": "Kiteworks pede aos clientes que desliguem os sistemas por 9 horas devido a um possível ataque cibernético The Hacker News",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOVlzV0FhbXpmSXRjMXU2QUticlJUNlpoQ2ZqMEF3TUhjd1BjWlRTcUJMaWhNckthT19jdF9DM3VuWkdrbmhHdkk2VFpmWHQ5eVZrTE55UEU1dkZ3UTBoaVVJbTdTNmJ5MkFpSXRhMEZlNloyQkk1VzE0Y0pfdGZwZ0x5aw?oc=5",
-      "published": "2026-09-26T07:48:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Kiteworks pede desligamento do servidor em 6 horas devido a possíveis ataques de dia zero",
-      "summary": "A empresa de software de compartilhamento seguro de arquivos Kiteworks está pedindo aos clientes em todo o mundo que desliguem temporariamente seus servidores no sábado por um período de seis horas, após receberem um alerta de inteligência sobre ameaças sobre ",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
-      "published": "2026-09-25T21:41:07+00:00",
-      "image": ""
     }
   ]
 }
