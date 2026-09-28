@@ -1,6 +1,150 @@
 {
-  "updated_at": "2026-09-28T05:34:47.291133+00:00",
+  "updated_at": "2026-09-28T14:10:20.219363+00:00",
   "items": [
+    {
+      "title": "⚡ Recapitulação semanal: criptografia de US$ 387 milhões, explorações da Citrix, agentes de IA saem do script e mais ameaças",
+      "summary": "Um domínio usado como espaço reservado para texto inofensivo apareceu em cerca de 1.700 repositórios. Então alguém registrou e começou a servir iscas maliciosas. Esse foi o tipo de semana que esta foi: suposições esquecidas transformando-se em superfície de at",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
+      "published": "2026-09-28T14:00:53+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-eWVCAN2nvZGZrKlwm-wminZE56MzJ_bVRK6CJfdBw9TXU4yQy6t9T0hDi0hSOskE9Xs6M-KCVEbVvBuL2DLDkew97W2iobOPZa9zqEBeGPWBnW8cftdD1FwzBLz7CIGVhJb1FwnS-35B62Jqc331zNQ67hZP-V2jKBT7yUxUV4rn8jMr27QCommYp-j/s1600/c-recap.jpg"
+    },
+    {
+      "title": "Pena de prisão para ex-soldado dos EUA que hackeou AT&T e Verizon",
+      "summary": "Cameron John Wagenius foi condenado a 70 meses de prisão por roubar informações das operadoras de telefonia móvel. A postagem Sentença de prisão para ex-soldado dos EUA que invadiu a AT&T e a Verizon apareceu pela primeira vez na SecurityWeek.",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/",
+      "published": "2026-09-28T12:36:16+00:00",
+      "image": ""
+    },
+    {
+      "title": "Webinar: Como governar agentes de IA, reduzir o acesso excessivo e controlar a Shadow AI",
+      "summary": "Os agentes de IA estão entrando em produção mais rápido do que as equipes de segurança conseguem governá-los. Eles se conectam a aplicativos, manipulam dados, chamam APIs e atuam em sistemas de negócios — muitas vezes sem os mesmos controles aplicados a usuári",
+      "category": "CLOUD & IA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
+      "published": "2026-09-28T11:58:00+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibRtgg2jeMV3szE5OkdAQtqtUYgPjYEf96vKrzXPpd8_9XDiXOC9iTBfh-neWto1RsFBY0qXpLpc71bz9OwQQ8agSkvr6zYzcqwI157keOyKgX-_L-mwGdLJxLrGhbV_yK4wQn2Jc4E72zhY7XPa05O61GOgFR3-9cpbgYbACE-dR9CqqHuavdrJV8GVg/s1600/webinar-agents.jpg"
+    },
+    {
+      "title": "Carbonato Botnet compromete hosts Docker para implantar agente Hermes AI controlado por telegrama",
+      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de um novo malware de botnet chamado Carbonato, que tem como alvo daemons Docker expostos para implantar uma estrutura de agente de inteligência artificial (IA) de código aberto chamada Hermes Agent. “",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
+      "published": "2026-09-28T11:46:00+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3O4ih8J3-A5sGh57xyYKMGbnSqaXbWhu2g9HBE_mG11gEdedMUmYyeeYpA9TnNPwRsB4t-5V9UTW54iOR0VNzyaaa0fWhOG4Oi46KwGvrrVQRdWIDS7GX6YxjaMrA6sF9RHWNyO8gBttCQ7Nc8LUmrhhH24jSp1lPDuhok9r3CfKxgGJRObZRqRTW-5Gf/s1600/hermes-telegram.jpg"
+    },
+    {
+      "title": "Agência de Saúde de DC expõe 400.000 registros de beneficiários",
+      "summary": "Os IDs do Medicaid e outras informações dos beneficiários do Medicaid e da DC Healthcare Alliance foram expostos. A postagem Agência de Saúde de DC expõe 400.000 registros de beneficiários apareceu pela primeira vez na SecurityWeek.",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/dc-health-agency-exposes-400000-beneficiary-records/",
+      "published": "2026-09-28T11:29:29+00:00",
+      "image": ""
+    },
+    {
+      "title": "Google alerta sobre a nova campanha Oracle PeopleSoft da ShinyHunters",
+      "summary": "O grupo de extorsão modificou sua exploração em novos ataques direcionados à vulnerabilidade PeopleSoft CVE-2026-35273. A postagem Google alerta sobre a nova campanha Oracle PeopleSoft dos ShinyHunters apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/",
+      "published": "2026-09-28T10:56:46+00:00",
+      "image": ""
+    },
+    {
+      "title": "Júri do Novo México considera o Facebook responsável por enganar usuários sobre proteções de privacidade",
+      "summary": "Um júri do Novo México considerou o Facebook responsável por enganar os usuários sobre as proteções de privacidade na plataforma. A postagem Júri do Novo México considera o Facebook responsável por enganar usuários sobre proteções de privacidade apareceu pela ",
+      "category": "PRIVACIDADE",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/new-mexico-jury-finds-facebook-liable-for-deceiving-users-about-privacy-protections/",
+      "published": "2026-09-28T10:40:01+00:00",
+      "image": ""
+    },
+    {
+      "title": "Nvidia lança plataforma de segurança de agente de IA com watchdog baseado em hardware",
+      "summary": "A plataforma combina software de código aberto e um design de sistema de referência para manter os agentes de IA dentro dos limites definidos. A postagem Nvidia revela plataforma de segurança de agente de IA com watchdog baseado em hardware apareceu pela prime",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog/",
+      "published": "2026-09-28T10:27:01+00:00",
+      "image": ""
+    },
+    {
+      "title": "Kiteworks pede desligamento do servidor e encontra vulnerabilidade em formulários avançados",
+      "summary": "A empresa afirma que a medida foi preventiva e que não há evidências de comprometimento da Kiteworks ou dos sistemas dos clientes. A postagem Kiteworks pede desligamento do servidor e encontra vulnerabilidade em formulários avançados apareceu pela primeira vez",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/kiteworks-urges-server-shutdown-finds-advanced-forms-vulnerability/",
+      "published": "2026-09-28T09:44:27+00:00",
+      "image": ""
+    },
+    {
+      "title": "Bitget retoma retiradas de Bitcoin após roubo de criptografia de US$ 387,5 milhões",
+      "summary": "A exchange de criptomoedas Bitget retomou as retiradas de Bitcoin suspensas depois que supostos hackers norte-coreanos violaram seus sistemas na semana passada e roubaram mais de US$ 350 milhões. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
+      "published": "2026-09-28T09:25:29+00:00",
+      "image": ""
+    },
+    {
+      "title": "Atacantes vinculados ao JADEPUFFER usaram princípios de serviço comprometidos para excluir recursos do Azure",
+      "summary": "O ator de ameaça conhecido como JADEPUFFER foi observado orquestrando ações destrutivas em um ambiente Microsoft Azure usando entidades de serviço comprometidas. A Microsoft, que está rastreando a atividade sob o nome Storm-3168, chamou-a de uma evolução da ha",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
+      "published": "2026-09-28T09:08:21+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHYvL1hsEQjB3x7u-jNflFT0QK3a9IEFse8ghWqV9SxkawlFerAn8pzjfYgztccVleVlLzZcDlOSvu7gqJhHP_XLWL1lqZkeIVCifya8Ohinriqk_o-kpzzdtv4x7NinDhQgWbE9B7yJliuJPGZ2x0qh9jRgkWfyNyPexujdTWpLTbfe7MKRVQT1Z3BAQ9/s1600/azure-ai.jpg"
+    },
+    {
+      "title": "Citrix confirma 2 dias zero do NetScaler depois que os administradores desligaram",
+      "summary": "A Citrix lançou patches para as vulnerabilidades críticas do NetScaler rastreadas como CVE-2026-88771 e CVE-2026-88772. A postagem Citrix confirma 2 dias zero do NetScaler após os administradores desligarem o plugue apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/citrix-confirms-2-netscaler-zero-days-after-admins-pulled-the-plug/",
+      "published": "2026-09-28T07:29:51+00:00",
+      "image": ""
+    },
+    {
+      "title": "CISA afirma que invasores estão explorando duas falhas críticas do Citrix NetScaler globalmente",
+      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) adicionou no domingo duas falhas críticas do Citrix NetScaler ADC e Gateway ao seu catálogo de Vulnerabilidades Exploradas Conhecidas (KEV), após relatos de exploração ativa. As vulnerabilid",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
+      "published": "2026-09-28T07:21:49+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG1pBfETB-EOlAvKfZwROp5B3Nr3d00xBbxRPhsq5hDBvK8QTVYmc2r8tR8RNz7omvXWoufetWbVk1S-tZ74b-z0nxsHS_Zz7XnN4Vs7VGvDtlnOhsfG0ecx-LX_kuRwBLJwkIMN-26auGXjzdcAS2Yz8sdQ2U_kDtKpQOnOYD18r6WEu1twQ79p_ZJGhD/s1600/ct.jpg"
+    },
+    {
+      "title": "CISA afirma que invasores estão explorando duas falhas críticas do Citrix NetScaler globalmente - The Hacker News",
+      "summary": "CISA afirma que invasores estão explorando duas falhas críticas do Citrix NetScaler globalmente The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNekdwSDJ1ZE9xN0p2NnVUTllGckdROVcwYUVCMHZYQ2xnQlR2NFdwT2RNeVVEZ2xzdXduMmE2ZmVuUUtucXgyUXdjZDNsQ19NcDIwVUZ2SEdQOGV2R2Q2YWtfLUZQQlIzdlhvUHROY3psdFJNR3NTYUZzM3A1S2ZGRFh4Zw?oc=5",
+      "published": "2026-09-28T07:21:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "CISA ordena que federais corrijam falhas exploradas da Citrix até quarta-feira",
+      "summary": "A Agência de Segurança Cibernética e de Infraestrutura (CISA) ordenou que as agências governamentais dos EUA no fim de semana protegessem seus sistemas contra ataques que exploram duas vulnerabilidades críticas do Citrix NetScaler. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
+      "published": "2026-09-28T06:24:19+00:00",
+      "image": ""
+    },
+    {
+      "title": "CISA ordena que federais corrijam falhas exploradas da Citrix até quarta-feira - BleepingComputer",
+      "summary": "CISA ordena que federais corrijam falhas exploradas da Citrix até quarta-feira BleepingComputer",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMVBpS1hibVVnT3kxXzBVYk03dVhHNl9jdVl3aWF5SUk3WkNPRFoyaWcxOWJVWTBFTWpXSWJrZnhLelFCcXU4aFFzd2JTUUZNdUpWYktjQ2dISk1ubmpKUkh0UWFLRFJneUItME9vSkk1TlhsZnl4SlB6TnFKcWRiWTBlVEdFQS1nNENfTzRFSVp2b1cwaWdpbk04SnRwa3pyaU5SemJCR2RMR1ZJSFHSAbMBQVVfeXFMTkJYa2pwNndtR0Y2dkxIaXU1MDlRMHNaa2dVRVpodjVRWDdCbGIxX1BvdE9jV1d5SlpNUmJlRk1Da054bE1BNkh5TWdBRXZSS0RLZXI4TGpCZWVtR3JyV0tlR3JHQmVmRUZ1cWI5VE04a0FHN3BSM2FqX05La0d4UDk5Ry1qakx6LVdXV1AtR1JGaE1JT01oSUg2bGJsY19jZUdNU3JXaGpKaWZJZDVPMjNXUEE?oc=5",
+      "published": "2026-09-28T06:24:19+00:00",
+      "image": ""
+    },
     {
       "title": "Citrix confirma dois dias zero do NetScaler RCE explorados em ataques",
       "summary": "A Citrix confirmou que duas vulnerabilidades críticas de execução remota de código do NetScaler, rastreadas como CVE-2026-88771 e CVE-2026-88772, estão sendo exploradas em ataques e que lançou atualizações de segurança para corrigir as falhas. [...]",
@@ -18,150 +162,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
       "published": "2026-09-27T14:13:31+00:00",
       "image": ""
-    },
-    {
-      "title": "Falha CVE-2026-65660 do Microsoft SharePoint agora explorada em ataques",
-      "summary": "A CISA adicionou CVE-2026-65660 ao seu catálogo KEV, dando às agências federais um prazo de correção até 28 de setembro. A postagem Falha CVE-2026-65660 do Microsoft SharePoint agora explorada em ataques apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/",
-      "published": "2026-09-27T09:23:09+00:00",
-      "image": ""
-    },
-    {
-      "title": "Aviso: dois Citrix NetScaler RCE Zero-Days sem correção sob exploração ativa",
-      "summary": "Duas vulnerabilidades críticas no Citrix NetScaler ADC e NetScaler Gateway que permitem a execução remota de código foram exploradas, confirmou a Citrix em 27 de setembro. Um dos dois afeta todas as implantações em uma versão afetada, incluindo aquelas na conf",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
-      "published": "2026-09-27T07:47:57+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrnnWi_EE_zogEngdPWZDYXQTXqcArqvXtXYDj7_yLDzfVamEw9Nx7taRyM1SQf8-78qtxnt3nhNzcn36WnzYwZvFDQNvglCilw0Ltb4NjVkjjC8GH2nOUTnxIBPvRn8JVPcXJaidmbU0A6z-1RiX_OKgcpkzvL6xV7aM_YpQj6XdYIfalQH3h6o3b7pQ/s1600/citrix-zero-day.jpg"
-    },
-    {
-      "title": "Aviso: dois Citrix NetScaler RCE Zero-Days sem correção sob exploração ativa - thehackernews.com",
-      "summary": "Aviso: dois Citrix NetScaler RCE Zero-Days sem correção sob exploração ativa thehackernews.com",
-      "category": "VULNERABILIDADES",
-      "source": "thehackernews.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3Vkc3dSY2o4WlVyWGpaaEY1MVE3ZUpRdkRTc0FUWGtkZGhjZnp0OG1tbXdzZnNEclNXRjNDd053OUVxRzR6QlAwc3lzYjFUQnVyM053WjZWeEFnZVhuZGpfNjYtZndCM1F1VUQtMUFqaElNaDVGcy01eEUxcm5JbGVMdw?oc=5",
-      "published": "2026-09-27T07:47:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "ShinyHunters usa truque de desvio de WAF em ataques Oracle PeopleSoft",
-      "summary": "A gangue de extorsão ShinyHunters está usando um truque de codificação de URL para contornar as regras de firewall de aplicativos da web que atenuam a falha Oracle PeopleSoft CVE-2026-35273, permitindo que os atores da ameaça retomem a exploração generalizada ",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
-      "published": "2026-09-26T19:03:34+00:00",
-      "image": ""
-    },
-    {
-      "title": "Lunex Stealer abusa do driver AMD para desativar o monitoramento de segurança e roubar credenciais do navegador",
-      "summary": "O malware Psychedelic Stealer distribuído por meio de sites ucranianos comprometidos usando verificações Cloudflare no estilo ClickFix faz parte de uma plataforma mais ampla de malware como serviço (MaaS) chamada Lunex. As novas descobertas vêm de Ontinue, que",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
-      "published": "2026-09-26T18:22:52+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlKEfNLMvV7mEVtxmw1nS48l0bWRxvhvRH5MHdn20FjDTm6B0_5okfLjQ49AamYo9DPVC1aV1O2bl11Vd8776ziWsV96tcxQviDK0RjOnGK_Dyx_Zs2e2VBjgChf91_H2cHH0u_UoyAGlGlJkKnozWFqf-sxmXNW0QlnfY3Ilgdkg3p4qG7p3Z0SmdnJMq/s1600/stealer-malware.jpg"
-    },
-    {
-      "title": "Lunex Stealer abusa do driver AMD para desativar o monitoramento de segurança e roubar credenciais do navegador - thehackernews.com",
-      "summary": "Lunex Stealer abusa do driver AMD para desativar o monitoramento de segurança e roubar credenciais do navegador thehackernews.com",
-      "category": "DEFESA",
-      "source": "thehackernews.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zUGFZenZwTGlNTG0yeGJwbTQ1dWh4SW5sUldPLUNKNGlwV0wyNW1XR0I0a3Rpb2MzX1VpUDZGLWg3UEwxTi05aVZZOE4wYldYTG5TZzN1WHh5VVMyVHZ4Qk9NZ2dPSkVhWUVhU0ttU2VXYVlQVW5qcGhXOWZIUQ?oc=5",
-      "published": "2026-09-26T18:22:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "China e EUA concordam em estabelecer canal de segurança de IA e continuar negociações comerciais e militares",
-      "summary": "Os EUA e a China concordaram em criar um mecanismo de comunicação para incidentes relacionados com inteligência artificial. A postagem China e EUA concordam em estabelecer canal de segurança de IA e continuar negociações comerciais e militares apareceu pela pr",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/china-and-us-agree-to-establish-ai-safety-channel-and-continue-trade-and-military-talks/",
-      "published": "2026-09-26T18:09:28+00:00",
-      "image": ""
-    },
-    {
-      "title": "Novo botnet x47.c do Windows arma xAI Grok e drenagem de API de IA",
-      "summary": "O botnet do Windows depende da IA ​​para manter a persistência, usando xAI Grok para escolher ações predefinidas. A postagem Novo botnet x47.c do Windows arma xAI Grok e drenagem de API de IA apareceu pela primeira vez em SecurityWeek.",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/",
-      "published": "2026-09-26T12:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Os invasores ignoram os WAFs para explorar a falha do Oracle PeopleSoft e implantar Web Shells",
-      "summary": "O Google está alertando sobre a nova exploração em massa de uma vulnerabilidade de segurança conhecida no Oracle PeopleSoft como parte de uma campanha que visa vários setores em todo o mundo. A atividade vinculada ao ShinyHunters envolve a transformação do CVE",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
-      "published": "2026-09-26T11:46:40+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYN2VWIT2g8mQkV0GeZWzYErKcubb0-baI8J__2nmdElucECc7HrLkdPsR1dz93qjMBI5sr_dL8yPWHf2bwWCBXa3YfutHAeJ-70UCSMuJrHhyOB3RO4OkuDjuw7gxRLXUnK-CeK9jZO0uOJRy-N3w-rV7uZ4t1FnFIWNjEsKtSYQINUvPX31mKzV_5Ert/s1600/oracle-flaw.jpg"
-    },
-    {
-      "title": "OpenAI afirma que seus modelos se envolveram com sites do governo dos EUA na divulgação de mau comportamento de novo modelo",
-      "summary": "O CEO da OpenAI disse que há uma “revisão extensa e contínua relacionada ao uso do acesso à Internet por nossos agentes durante o treinamento e avaliação”. A postagem OpenAI afirma que seus modelos estão envolvidos com sites do governo dos EUA na divulgação de",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/",
-      "published": "2026-09-26T10:15:41+00:00",
-      "image": ""
-    },
-    {
-      "title": "OpenAI afirma que seus modelos estão envolvidos com sites do governo dos EUA na divulgação de mau comportamento de novo modelo - SecurityWeek",
-      "summary": "OpenAI afirma que seus modelos estão envolvidos com sites do governo dos EUA em novo modelo de divulgação de mau comportamento SecurityWeek",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOXdyLTZHT2RxMWFHcnliNHFDQTJKZjVhNnhRZzJxUnNhTkN6NE5oTEZGUFYyTFVOQ2JWSlRhSVBsLTZsSWFNWTNiV294WkRZWlk3bHBTWGF2QThZN1NLYXlPY21GLXZvNFFvVkF4ODkyZXBvSlQ2OUVKWXI1c1pabFBSOXdlTVRLVmg5czExczBDWjVyNFFjMURyT1JGeTM2ajNrTFAzbUZ2ajJadDlLSnpGSGhuMXo2elluQk41Z2VIQdIBxwFBVV95cUxQVzlFandYd2Ffemw3VElTYzVBNmk2cHowXzBYQXY4TVpLbnlYaXNMOTNqZzB2Z1Z5cmdsay05aEJIcVpkMFdqNUxyeUQ2ajR5MHZOb0ptbnZQNXlCX1J3WDlLOExHNFBaSlRfN1g0N1Z3eTdGaFJzQXRGandHaDZYaWVYalhyakI0enFaT0dPYmdmTFpqeWZSVDJ1eDNDQWxWWXdGRVdSZ0FvRXlsZHdzclRiRW91c1VOUUs1bVYxeUNRRzVWSU9N?oc=5",
-      "published": "2026-09-26T10:15:41+00:00",
-      "image": ""
-    },
-    {
-      "title": "A falha Elementor CSRF permite que invasores assumam o controle de sites depois que o administrador clica no link criado",
-      "summary": "Surgiram detalhes sobre uma falha de segurança de alta gravidade no plugin Elementor Website Builder WordPress que poderia ser explorada por um invasor não autenticado para criar contas de administrador desonestas e assumir o controle de um site. A vulnerabili",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
-      "published": "2026-09-26T09:55:22+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoCsmpn_im_gimeko6yEdebgucFfzjRrTH0Hmvl1triNXT64w_JdoBIqCrFEApRZ9mmKBYfJQ1fqgfubPH3ZRaWW7SJ2HSr18mBsjSdFE6AwVl362SwcdzHp0EtlL2qoVuYARkSKmOqQaORUjjYVAM-PCT9Itvvkgb69lyVLttezAFtAuCw86RpPu3lAo4/s1600/wordpress-ele.jpg"
-    },
-    {
-      "title": "Falha CSRF da Elementor permite que invasores assumam o controle de sites depois que o administrador clica no link criado - thehackernews.com",
-      "summary": "A falha Elementor CSRF permite que invasores assumam o controle de sites após cliques do administrador no link criado thehackernews.com",
-      "category": "INCIDENTES",
-      "source": "thehackernews.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb09jVl8tRnI4dGxxREtrdWJNdGE3RU8yaXNyYmNOUlp4SGh3WGFJMjBWMkNMWk03QzU5QjJpSWNWRlFfWjVSQm1maElfY0x2TnBYQVBrbWxrUGRRSW1ON0FxQ1JzVjFaX2RMUVY3M3lSV3Y5cmJHQ0g0R1hLNl9ObmZyZUY?oc=5",
-      "published": "2026-09-26T09:55:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falhas do SharePoint RCE e MikroTik RouterOS exploradas ativamente na natureza",
-      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) adicionou na sexta-feira duas falhas de segurança que afetam o Microsoft SharePoint e o Mikrotik RouterOS ao seu catálogo de Vulnerabilidades Exploradas Conhecidas (KEV), citando evidências ",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
-      "published": "2026-09-26T08:49:53+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHEPamtRBBEzltsUWnj-F8umrMf4eUUhTmGUJdhHlrvWZamHWpBtXcrpQKDArTziRiiIWv8psX4DTZyN9kLBtcAyLOPJma9_M7sYKgYz6WBISbOhJrRlfByfCKfTTMdBqaYUp-0nskrt2ndt3poUFLDGegEFJojS0EzEvwAqzaUNtvX26jZopYE4zA4S3K/s1600/share-kev.jpg"
-    },
-    {
-      "title": "Falhas do SharePoint RCE e MikroTik RouterOS exploradas ativamente na natureza - thehackernews.com",
-      "summary": "Falhas do SharePoint RCE e MikroTik RouterOS exploradas ativamente na natureza thehackernews.com",
-      "category": "VULNERABILIDADES",
-      "source": "thehackernews.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNi00NWxsazhoQXFxRzVMSExtclBGOXFIbEJFaWFRbUdDc3dIdXYxVi1IaGdNaXh2RG8xVW5YMWZmQlVaZldQd2U3eXlJcWxNeHo4U1VzcEFSQVFyakRYa2xCWXczSExnUjRzSHhORVZ3SE8zR2xjWkxmbXBPNm50dA?oc=5",
-      "published": "2026-09-26T08:49:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Kiteworks pede aos clientes que desliguem os sistemas por 9 horas devido a um possível ataque cibernético",
-      "summary": "A Kiteworks (anteriormente Accellion) está pedindo aos clientes que desliguem seus sistemas como medida de precaução por nove horas no fim de semana, depois de receber informações sobre ameaças sobre um ataque cibernético iminente. \"A Kiteworks recebeu informa",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
-      "published": "2026-09-26T07:48:33+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv53vaJYNeZNicsGcrBICKzTEXfHanPN-VR6-pTFsSJEV2IGpJn2MainwfMgqV2k96VN_ocXYLbmykTSVpwTPZr16tauFV37hU3g-lA4X31aqJQFYIsdwlHwNUIhNn9euB8SddL8d7wRKa7Ira2vNi51WNHyJivZ2Z3kkRDcAZtCQfSyvZHNLrZbqbF7jr/s1600/kite.jpg"
     }
   ]
 }
