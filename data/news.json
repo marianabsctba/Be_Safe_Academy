@@ -1,6 +1,150 @@
 {
-  "updated_at": "2026-09-28T14:10:20.219363+00:00",
+  "updated_at": "2026-09-28T21:18:31.270767+00:00",
   "items": [
+    {
+      "title": "Keio do Japão confirma que ataque de ransomware interrompeu sistemas de negócios",
+      "summary": "A Keio Corporation (Keio), uma importante operadora ferroviária privada no Japão, disse que sua rede foi atingida por um ataque de ransomware no fim de semana, interrompendo alguns de seus sistemas comerciais. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
+      "published": "2026-09-28T20:56:47+00:00",
+      "image": ""
+    },
+    {
+      "title": "Times Car confirma violação de dados que afeta 6,6 milhões de contas de usuários",
+      "summary": "O serviço japonês de compartilhamento de carros Times Car confirmou que aproximadamente 6,6 milhões de contas de usuários foram comprometidas em um ataque cibernético divulgado no final da semana passada. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
+      "published": "2026-09-28T20:31:16+00:00",
+      "image": ""
+    },
+    {
+      "title": "Carbonato Botnet coloca um agente de IA em hosts Docker hackeados",
+      "summary": "O botnet usa a estrutura de código aberto Hermes Agent AI para executar comandos via Telegram e roubar chaves de API de IA de hosts Docker expostos.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts",
+      "published": "2026-09-28T20:23:58+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte42c5730d22cf0f1/6abab79a8ce025f8ce48d849/botnet_cyber_attack-Hengki_Lestio-GettyImages-2232351432.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Apple corrige falha CoreGraphics possivelmente explorada em ataques direcionados",
+      "summary": "A Apple lançou atualizações de segurança para solucionar uma vulnerabilidade em versões mais antigas do iOS, iPadOS e macOS que, segundo ela, podem ter sido exploradas em ataques direcionados. A vulnerabilidade, rastreada como CVE-2026-86950, refere-se a uma g",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
+      "published": "2026-09-28T19:18:01+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO5I5gnKOqAs0ZCjgQnQirUHdSjRqGZRMp-Fioy684EzZWuQm72wSrCW1hWZEYlvvOXoCtkQyr3sB48AoZ71PM6tMCsz_AGZmEYZz8u2AbrH1gpjutU-mFtDQpuJcI_pKEG9q4-cZEo7T3Yp7hyphenhyphen4_MCZvloRnVKszE7rjTDUKZBaH1eQ47-K0fPno50T3S/s1600/apple-0day.jpg"
+    },
+    {
+      "title": "Apple corrige falha CoreGraphics possivelmente explorada em ataques direcionados - The Hacker News",
+      "summary": "Apple corrige falha do CoreGraphics possivelmente explorada em ataques direcionados The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wbnQ0R1hkSnBWaDFaTElXc0hzei15b2hlSTQyRGpxZWdxcE1XanJSMDVGWTZoTFd5S0hyUHZ1djlkNmFFUVExU0czRFpWbUw3UWh5Rld4R3haLVh6YlZmUHloWmpvXzRGUjRxSVc4b3F2VWlHb21pZ1l3?oc=5",
+      "published": "2026-09-28T19:18:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Mais de 16.000 bancos de dados Supabase expõem PII, senhas e tokens de autenticação",
+      "summary": "Os pesquisadores encontraram mais de 16.000 bancos de dados Supabase mal configurados, expondo tabelas legíveis com informações de identificação pessoal, senhas ou tokens de autenticação. [...]",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
+      "published": "2026-09-28T18:50:59+00:00",
+      "image": ""
+    },
+    {
+      "title": "Agentes de IA são usuários privilegiados; Quem está auditando seu acesso?",
+      "summary": "As empresas monitorizam regularmente e rigorosamente os funcionários humanos, enquanto os agentes autónomos de IA operam silenciosamente com amplos privilégios que podem transformá-los na próxima geração de ameaças internas.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access",
+      "published": "2026-09-28T18:44:22+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c9f5fa659c439fa/6abab77dfee74bb9c8c001cc/AI_agent-MF3d-Getty-2217030312.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Hackers usam NeedyMantis para manter acesso de longo prazo em redes violadas",
+      "summary": "Os hackers usaram uma família de malware chamada NeedyMantis para manter acesso de longo prazo a redes que já haviam violado, disse a Microsoft em uma análise técnica. O malware foi visto em um pequeno número de invasões direcionadas a organizações de telecomu",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
+      "published": "2026-09-28T18:35:42+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJgqNtFBBtX_6em5nY1VC9Q4M6HMG7gzxiQspFHsQRfQgm3LK5kTsHi-9SbwEx8kaeVv7BtKGFq3u1SmTGFEOe0z78fxFCxRFVEb09v0FMZ5tT-FNl7sUBnsGPPpDlAaQh4E_CSQQnwFakxNll2AvKiBvidb9ljEatmOzdJV4T4z8r5lmYG3DINHy-wR0/s1600/hackers.jpg"
+    },
+    {
+      "title": "Bitget afirma que invasor explorou falha de produto de segurança de terceiros para roubar US$ 388 milhões",
+      "summary": "O invasor que roubou cerca de US$ 388 milhões da exchange de criptomoedas Bitget obteve acesso por meio de uma vulnerabilidade em um produto de segurança de terceiros usado pela exchange, disse a Bitget na segunda-feira. O invasor explorou a falha para obter c",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
+      "published": "2026-09-28T17:42:18+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA8s-yMULxIXnKcHnHw7w1dF9pt58MDYc_-_wfJPo8ifPgGoD0GZcgE408ZdC1GbZvjp2wOOEYrlR8obpFEXZ-KUSjIBXFFb3LcswKfAd3EODISE5hSkU-QplYeZDnK95i0QrJhNZKcKEVgedmkKjAme9PV4vDLV-OY7Bh9KhCINbGuglY49greoPLCJQ/s1600/bitget-hacker.jpg"
+    },
+    {
+      "title": "O console de malware RatHat Android usa Gemini para identificar vítimas de maior valor",
+      "summary": "Os operadores do RatHat constroem e publicam o trojan bancário Android e controlam telefones infectados a partir de um console web, de acordo com a empresa de segurança Cleafy. Cleafy rastreou quase 100 implantações desse console desde abril de 2026. Ele disse",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
+      "published": "2026-09-28T17:38:33+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvGUhf2JsmovUtvjDk66AKULOtbtRwTqgcT_6lr5l8AEuwc-12IQTTWfvjKCYEn6-wwc4ZLDWAWh6Edv3-XcPDL1HHPFwRkwY1Nc_BUItyEO8iCXBDKEitrgYapLi__gpKnYqtFNm1M2c4tGiY3qrS_CgRG5ZF5qnqVUv4Gx9Pqk_cPz4N05KVwUNgTcw/s1600/gemini-malware.jpg"
+    },
+    {
+      "title": "Modulate levanta US$ 25 milhões para avançar na detecção de deepfake",
+      "summary": "O uso indevido e o abuso da voz gerada por IA estão crescendo. A intenção do Modulate é permitir detecção e intervenção em tempo real. A postagem Modulate levanta US$ 25 milhões para avançar na detecção de deepfake apareceu pela primeira vez na SecurityWeek.",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/",
+      "published": "2026-09-28T17:30:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Os ataques de IA agente do JadePuffer têm como alvo o Azure e destroem recursos da nuvem",
+      "summary": "O operador de ransomware JadePuffer tem como alvo os locatários do Azure com ataques conduzidos por agentes que realizam reconhecimento, roubam credenciais e destroem componentes principais. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
+      "published": "2026-09-28T15:49:27+00:00",
+      "image": ""
+    },
+    {
+      "title": "Ator JadePuffer AI compromete locatário do Azure em ataque destrutivo à nuvem",
+      "summary": "O “ator de ameaça agente” pode ter usado credenciais expostas para acessar recursos e excluir armazenamento, aplicativos e bancos de dados baseados em nuvem.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack",
+      "published": "2026-09-28T15:33:21+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbc06310368e21110/6a4bdbe6a6d4757864059ce1/llm-Boy_Wirat-Getty-2149059417.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Chamada para apresentações aberta para o CISO Forum Virtual Summit 2026",
+      "summary": "A SecurityWeek busca apresentações originais e neutras em termos de fornecedor que ajudem os líderes de segurança cibernética a navegar pelas ameaças emergentes, fortalecer a resiliência e enfrentar os desafios estratégicos enfrentados pelos programas de segur",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/call-for-presentations-open-for-2026-ciso-forum-virtual-summit/",
+      "published": "2026-09-28T15:15:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Polícia holandesa prende hacker ‘reformado’ na investigação de Shiny Hunters",
+      "summary": "As autoridades holandesas prenderam um cibercriminoso condenado de 23 anos por suspeita de ajudar em roubos de dados e extorsões pelo prolífico grupo de hackers ShinyHunters. Nos dias imediatamente seguintes à prisão do suspeito, os membros restantes do ShinyH",
+      "category": "AMEAÇAS",
+      "source": "KrebsOnSecurity",
+      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+      "published": "2026-09-28T15:08:57+00:00",
+      "image": ""
+    },
+    {
+      "title": "NeedyMantis: Descompactando uma família de malware pós-comprometimento usada em operações direcionadas",
+      "summary": "A Microsoft Threat Intelligence identificou o NeedyMantis, uma estrutura modular de malware pós-comprometimento usada em invasões direcionadas que combina carregadores personalizados, arquivos criptografados e componentes extensíveis para manter o acesso de lo",
+      "category": "AMEAÇAS",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/",
+      "published": "2026-09-28T15:00:00+00:00",
+      "image": ""
+    },
     {
       "title": "⚡ Recapitulação semanal: criptografia de US$ 387 milhões, explorações da Citrix, agentes de IA saem do script e mais ameaças",
       "summary": "Um domínio usado como espaço reservado para texto inofensivo apareceu em cerca de 1.700 repositórios. Então alguém registrou e começou a servir iscas maliciosas. Esse foi o tipo de semana que esta foi: suposições esquecidas transformando-se em superfície de at",
@@ -11,156 +155,12 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-eWVCAN2nvZGZrKlwm-wminZE56MzJ_bVRK6CJfdBw9TXU4yQy6t9T0hDi0hSOskE9Xs6M-KCVEbVvBuL2DLDkew97W2iobOPZa9zqEBeGPWBnW8cftdD1FwzBLz7CIGVhJb1FwnS-35B62Jqc331zNQ67hZP-V2jKBT7yUxUV4rn8jMr27QCommYp-j/s1600/c-recap.jpg"
     },
     {
-      "title": "Pena de prisão para ex-soldado dos EUA que hackeou AT&T e Verizon",
-      "summary": "Cameron John Wagenius foi condenado a 70 meses de prisão por roubar informações das operadoras de telefonia móvel. A postagem Sentença de prisão para ex-soldado dos EUA que invadiu a AT&T e a Verizon apareceu pela primeira vez na SecurityWeek.",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/",
-      "published": "2026-09-28T12:36:16+00:00",
-      "image": ""
-    },
-    {
-      "title": "Webinar: Como governar agentes de IA, reduzir o acesso excessivo e controlar a Shadow AI",
-      "summary": "Os agentes de IA estão entrando em produção mais rápido do que as equipes de segurança conseguem governá-los. Eles se conectam a aplicativos, manipulam dados, chamam APIs e atuam em sistemas de negócios — muitas vezes sem os mesmos controles aplicados a usuári",
-      "category": "CLOUD & IA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
-      "published": "2026-09-28T11:58:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibRtgg2jeMV3szE5OkdAQtqtUYgPjYEf96vKrzXPpd8_9XDiXOC9iTBfh-neWto1RsFBY0qXpLpc71bz9OwQQ8agSkvr6zYzcqwI157keOyKgX-_L-mwGdLJxLrGhbV_yK4wQn2Jc4E72zhY7XPa05O61GOgFR3-9cpbgYbACE-dR9CqqHuavdrJV8GVg/s1600/webinar-agents.jpg"
-    },
-    {
-      "title": "Carbonato Botnet compromete hosts Docker para implantar agente Hermes AI controlado por telegrama",
-      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de um novo malware de botnet chamado Carbonato, que tem como alvo daemons Docker expostos para implantar uma estrutura de agente de inteligência artificial (IA) de código aberto chamada Hermes Agent. “",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
-      "published": "2026-09-28T11:46:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3O4ih8J3-A5sGh57xyYKMGbnSqaXbWhu2g9HBE_mG11gEdedMUmYyeeYpA9TnNPwRsB4t-5V9UTW54iOR0VNzyaaa0fWhOG4Oi46KwGvrrVQRdWIDS7GX6YxjaMrA6sF9RHWNyO8gBttCQ7Nc8LUmrhhH24jSp1lPDuhok9r3CfKxgGJRObZRqRTW-5Gf/s1600/hermes-telegram.jpg"
-    },
-    {
-      "title": "Agência de Saúde de DC expõe 400.000 registros de beneficiários",
-      "summary": "Os IDs do Medicaid e outras informações dos beneficiários do Medicaid e da DC Healthcare Alliance foram expostos. A postagem Agência de Saúde de DC expõe 400.000 registros de beneficiários apareceu pela primeira vez na SecurityWeek.",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/dc-health-agency-exposes-400000-beneficiary-records/",
-      "published": "2026-09-28T11:29:29+00:00",
-      "image": ""
-    },
-    {
-      "title": "Google alerta sobre a nova campanha Oracle PeopleSoft da ShinyHunters",
-      "summary": "O grupo de extorsão modificou sua exploração em novos ataques direcionados à vulnerabilidade PeopleSoft CVE-2026-35273. A postagem Google alerta sobre a nova campanha Oracle PeopleSoft dos ShinyHunters apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/",
-      "published": "2026-09-28T10:56:46+00:00",
-      "image": ""
-    },
-    {
-      "title": "Júri do Novo México considera o Facebook responsável por enganar usuários sobre proteções de privacidade",
-      "summary": "Um júri do Novo México considerou o Facebook responsável por enganar os usuários sobre as proteções de privacidade na plataforma. A postagem Júri do Novo México considera o Facebook responsável por enganar usuários sobre proteções de privacidade apareceu pela ",
-      "category": "PRIVACIDADE",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/new-mexico-jury-finds-facebook-liable-for-deceiving-users-about-privacy-protections/",
-      "published": "2026-09-28T10:40:01+00:00",
-      "image": ""
-    },
-    {
-      "title": "Nvidia lança plataforma de segurança de agente de IA com watchdog baseado em hardware",
-      "summary": "A plataforma combina software de código aberto e um design de sistema de referência para manter os agentes de IA dentro dos limites definidos. A postagem Nvidia revela plataforma de segurança de agente de IA com watchdog baseado em hardware apareceu pela prime",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog/",
-      "published": "2026-09-28T10:27:01+00:00",
-      "image": ""
-    },
-    {
-      "title": "Kiteworks pede desligamento do servidor e encontra vulnerabilidade em formulários avançados",
-      "summary": "A empresa afirma que a medida foi preventiva e que não há evidências de comprometimento da Kiteworks ou dos sistemas dos clientes. A postagem Kiteworks pede desligamento do servidor e encontra vulnerabilidade em formulários avançados apareceu pela primeira vez",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/kiteworks-urges-server-shutdown-finds-advanced-forms-vulnerability/",
-      "published": "2026-09-28T09:44:27+00:00",
-      "image": ""
-    },
-    {
-      "title": "Bitget retoma retiradas de Bitcoin após roubo de criptografia de US$ 387,5 milhões",
-      "summary": "A exchange de criptomoedas Bitget retomou as retiradas de Bitcoin suspensas depois que supostos hackers norte-coreanos violaram seus sistemas na semana passada e roubaram mais de US$ 350 milhões. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
-      "published": "2026-09-28T09:25:29+00:00",
-      "image": ""
-    },
-    {
-      "title": "Atacantes vinculados ao JADEPUFFER usaram princípios de serviço comprometidos para excluir recursos do Azure",
-      "summary": "O ator de ameaça conhecido como JADEPUFFER foi observado orquestrando ações destrutivas em um ambiente Microsoft Azure usando entidades de serviço comprometidas. A Microsoft, que está rastreando a atividade sob o nome Storm-3168, chamou-a de uma evolução da ha",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
-      "published": "2026-09-28T09:08:21+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHYvL1hsEQjB3x7u-jNflFT0QK3a9IEFse8ghWqV9SxkawlFerAn8pzjfYgztccVleVlLzZcDlOSvu7gqJhHP_XLWL1lqZkeIVCifya8Ohinriqk_o-kpzzdtv4x7NinDhQgWbE9B7yJliuJPGZ2x0qh9jRgkWfyNyPexujdTWpLTbfe7MKRVQT1Z3BAQ9/s1600/azure-ai.jpg"
-    },
-    {
-      "title": "Citrix confirma 2 dias zero do NetScaler depois que os administradores desligaram",
-      "summary": "A Citrix lançou patches para as vulnerabilidades críticas do NetScaler rastreadas como CVE-2026-88771 e CVE-2026-88772. A postagem Citrix confirma 2 dias zero do NetScaler após os administradores desligarem o plugue apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/citrix-confirms-2-netscaler-zero-days-after-admins-pulled-the-plug/",
-      "published": "2026-09-28T07:29:51+00:00",
-      "image": ""
-    },
-    {
-      "title": "CISA afirma que invasores estão explorando duas falhas críticas do Citrix NetScaler globalmente",
-      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) adicionou no domingo duas falhas críticas do Citrix NetScaler ADC e Gateway ao seu catálogo de Vulnerabilidades Exploradas Conhecidas (KEV), após relatos de exploração ativa. As vulnerabilid",
+      "title": "⚡ Recapitulação semanal: criptografia de US$ 387 milhões, explorações da Citrix, agentes de IA saem do script e mais ameaças - The Hacker News",
+      "summary": "⚡ Recapitulação semanal: criptografia de US$ 387 milhões, explorações da Citrix, agentes de IA saem do script e mais ameaças The Hacker News",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
-      "published": "2026-09-28T07:21:49+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG1pBfETB-EOlAvKfZwROp5B3Nr3d00xBbxRPhsq5hDBvK8QTVYmc2r8tR8RNz7omvXWoufetWbVk1S-tZ74b-z0nxsHS_Zz7XnN4Vs7VGvDtlnOhsfG0ecx-LX_kuRwBLJwkIMN-26auGXjzdcAS2Yz8sdQ2U_kDtKpQOnOYD18r6WEu1twQ79p_ZJGhD/s1600/ct.jpg"
-    },
-    {
-      "title": "CISA afirma que invasores estão explorando duas falhas críticas do Citrix NetScaler globalmente - The Hacker News",
-      "summary": "CISA afirma que invasores estão explorando duas falhas críticas do Citrix NetScaler globalmente The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNekdwSDJ1ZE9xN0p2NnVUTllGckdROVcwYUVCMHZYQ2xnQlR2NFdwT2RNeVVEZ2xzdXduMmE2ZmVuUUtucXgyUXdjZDNsQ19NcDIwVUZ2SEdQOGV2R2Q2YWtfLUZQQlIzdlhvUHROY3psdFJNR3NTYUZzM3A1S2ZGRFh4Zw?oc=5",
-      "published": "2026-09-28T07:21:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "CISA ordena que federais corrijam falhas exploradas da Citrix até quarta-feira",
-      "summary": "A Agência de Segurança Cibernética e de Infraestrutura (CISA) ordenou que as agências governamentais dos EUA no fim de semana protegessem seus sistemas contra ataques que exploram duas vulnerabilidades críticas do Citrix NetScaler. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
-      "published": "2026-09-28T06:24:19+00:00",
-      "image": ""
-    },
-    {
-      "title": "CISA ordena que federais corrijam falhas exploradas da Citrix até quarta-feira - BleepingComputer",
-      "summary": "CISA ordena que federais corrijam falhas exploradas da Citrix até quarta-feira BleepingComputer",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMVBpS1hibVVnT3kxXzBVYk03dVhHNl9jdVl3aWF5SUk3WkNPRFoyaWcxOWJVWTBFTWpXSWJrZnhLelFCcXU4aFFzd2JTUUZNdUpWYktjQ2dISk1ubmpKUkh0UWFLRFJneUItME9vSkk1TlhsZnl4SlB6TnFKcWRiWTBlVEdFQS1nNENfTzRFSVp2b1cwaWdpbk04SnRwa3pyaU5SemJCR2RMR1ZJSFHSAbMBQVVfeXFMTkJYa2pwNndtR0Y2dkxIaXU1MDlRMHNaa2dVRVpodjVRWDdCbGIxX1BvdE9jV1d5SlpNUmJlRk1Da054bE1BNkh5TWdBRXZSS0RLZXI4TGpCZWVtR3JyV0tlR3JHQmVmRUZ1cWI5VE04a0FHN3BSM2FqX05La0d4UDk5Ry1qakx6LVdXV1AtR1JGaE1JT01oSUg2bGJsY19jZUdNU3JXaGpKaWZJZDVPMjNXUEE?oc=5",
-      "published": "2026-09-28T06:24:19+00:00",
-      "image": ""
-    },
-    {
-      "title": "Citrix confirma dois dias zero do NetScaler RCE explorados em ataques",
-      "summary": "A Citrix confirmou que duas vulnerabilidades críticas de execução remota de código do NetScaler, rastreadas como CVE-2026-88771 e CVE-2026-88772, estão sendo exploradas em ataques e que lançou atualizações de segurança para corrigir as falhas. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
-      "published": "2026-09-27T16:02:37+00:00",
-      "image": ""
-    },
-    {
-      "title": "Cloudflare corrige falha entre locatários de contêineres que expõe dados de clientes",
-      "summary": "A Cloudflare corrigiu uma vulnerabilidade em contêineres e sandboxes que permitia que clientes com uma conta Workers Paid recuperassem dados residuais de contêineres de outros clientes no mesmo host físico. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
-      "published": "2026-09-27T14:13:31+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ09PVVctb2xoRzhFUmdvTG4xTTZwMzJXei1YN0FuSnQ4S09tNW9KZE1XZmlhVGRERndqc0pSZ194cUJlczBWQ2lDTkZ6TFVYbVNBOXk0ZTZwTjU5OUs0OW5uOHNuV000Yjh1UGJua0NVTzI1cHJpRFdPOXprZndZSw?oc=5",
+      "published": "2026-09-28T14:00:00+00:00",
       "image": ""
     }
   ]
