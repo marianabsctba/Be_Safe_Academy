@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-09-28T21:18:31.270767+00:00",
+  "updated_at": "2026-09-29T01:06:30.857305+00:00",
   "items": [
+    {
+      "title": "Um pacote pode travar servidores OT em setores industriais",
+      "summary": "Uma vulnerabilidade de dia zero de alta gravidade afeta o banco de dados de série temporal TDengine usado em ambientes industriais, IoT, energéticos e automotivos.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine",
+      "published": "2026-09-28T21:13:04+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1a4e2e84866c963b/6abad9206f2a1229af4c529c/bugconcept_Elena_Abrazhevich_shutterstock_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale"
+    },
     {
       "title": "Keio do Japão confirma que ataque de ransomware interrompeu sistemas de negócios",
       "summary": "A Keio Corporation (Keio), uma importante operadora ferroviária privada no Japão, disse que sua rede foi atingida por um ataque de ransomware no fim de semana, interrompendo alguns de seus sistemas comerciais. [...]",
@@ -74,6 +83,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJgqNtFBBtX_6em5nY1VC9Q4M6HMG7gzxiQspFHsQRfQgm3LK5kTsHi-9SbwEx8kaeVv7BtKGFq3u1SmTGFEOe0z78fxFCxRFVEb09v0FMZ5tT-FNl7sUBnsGPPpDlAaQh4E_CSQQnwFakxNll2AvKiBvidb9ljEatmOzdJV4T4z8r5lmYG3DINHy-wR0/s1600/hackers.jpg"
     },
     {
+      "title": "Hackers usam NeedyMantis para manter acesso de longo prazo em redes violadas - The Hacker News",
+      "summary": "Hackers usam NeedyMantis para manter acesso de longo prazo em redes violadas The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VQS1HN280WGMxcXhqQVczNkZrV1JYMThucXd4M21HYTAtTVN4cEJ6c2pVa0tEQkdQWmk2bmJ3eVMwaTJpREJyZ2lOTEEwTXBFa1Rsd3lpMjluUG1YaXdqOFFZMC1xdEsxU0tKSGl4a1hVcEdGckVkenFoMXRwTDg?oc=5",
+      "published": "2026-09-28T18:35:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Bitget afirma que invasor explorou falha de produto de segurança de terceiros para roubar US$ 388 milhões",
       "summary": "O invasor que roubou cerca de US$ 388 milhões da exchange de criptomoedas Bitget obteve acesso por meio de uma vulnerabilidade em um produto de segurança de terceiros usado pela exchange, disse a Bitget na segunda-feira. O invasor explorou a falha para obter c",
       "category": "VULNERABILIDADES",
@@ -90,6 +108,15 @@
       "url": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
       "published": "2026-09-28T17:38:33+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvGUhf2JsmovUtvjDk66AKULOtbtRwTqgcT_6lr5l8AEuwc-12IQTTWfvjKCYEn6-wwc4ZLDWAWh6Edv3-XcPDL1HHPFwRkwY1Nc_BUItyEO8iCXBDKEitrgYapLi__gpKnYqtFNm1M2c4tGiY3qrS_CgRG5ZF5qnqVUv4Gx9Pqk_cPz4N05KVwUNgTcw/s1600/gemini-malware.jpg"
+    },
+    {
+      "title": "O console de malware RatHat Android usa Gemini para identificar vítimas de maior valor - The Hacker News",
+      "summary": "O console de malware RatHat Android usa Gemini para identificar vítimas de maior valor The Hacker News",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KSEV0a0pORTAwUnJ6a1BfbHJsanFramZTWUZ5cVJpbzh3RmJzM2FXMFNkVXJIZFg2Ny1CTzFiYWJPbkJEanpqZ1UxN1VmbW9tbzM4LVlvOWFRcndfNm9TTG5hYUhCTHpxeGdEZW50Z2pabjJfb2l4Q0ZaeTBOZTQ?oc=5",
+      "published": "2026-09-28T17:38:00+00:00",
+      "image": ""
     },
     {
       "title": "Modulate levanta US$ 25 milhões para avançar na detecção de deepfake",
@@ -134,33 +161,6 @@
       "source": "KrebsOnSecurity",
       "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
       "published": "2026-09-28T15:08:57+00:00",
-      "image": ""
-    },
-    {
-      "title": "NeedyMantis: Descompactando uma família de malware pós-comprometimento usada em operações direcionadas",
-      "summary": "A Microsoft Threat Intelligence identificou o NeedyMantis, uma estrutura modular de malware pós-comprometimento usada em invasões direcionadas que combina carregadores personalizados, arquivos criptografados e componentes extensíveis para manter o acesso de lo",
-      "category": "AMEAÇAS",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/",
-      "published": "2026-09-28T15:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "⚡ Recapitulação semanal: criptografia de US$ 387 milhões, explorações da Citrix, agentes de IA saem do script e mais ameaças",
-      "summary": "Um domínio usado como espaço reservado para texto inofensivo apareceu em cerca de 1.700 repositórios. Então alguém registrou e começou a servir iscas maliciosas. Esse foi o tipo de semana que esta foi: suposições esquecidas transformando-se em superfície de at",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
-      "published": "2026-09-28T14:00:53+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4-eWVCAN2nvZGZrKlwm-wminZE56MzJ_bVRK6CJfdBw9TXU4yQy6t9T0hDi0hSOskE9Xs6M-KCVEbVvBuL2DLDkew97W2iobOPZa9zqEBeGPWBnW8cftdD1FwzBLz7CIGVhJb1FwnS-35B62Jqc331zNQ67hZP-V2jKBT7yUxUV4rn8jMr27QCommYp-j/s1600/c-recap.jpg"
-    },
-    {
-      "title": "⚡ Recapitulação semanal: criptografia de US$ 387 milhões, explorações da Citrix, agentes de IA saem do script e mais ameaças - The Hacker News",
-      "summary": "⚡ Recapitulação semanal: criptografia de US$ 387 milhões, explorações da Citrix, agentes de IA saem do script e mais ameaças The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ09PVVctb2xoRzhFUmdvTG4xTTZwMzJXei1YN0FuSnQ4S09tNW9KZE1XZmlhVGRERndqc0pSZ194cUJlczBWQ2lDTkZ6TFVYbVNBOXk0ZTZwTjU5OUs0OW5uOHNuV000Yjh1UGJua0NVTzI1cHJpRFdPOXprZndZSw?oc=5",
-      "published": "2026-09-28T14:00:00+00:00",
       "image": ""
     }
   ]
