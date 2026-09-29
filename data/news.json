@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-09-29T18:09:58.685918+00:00",
+  "updated_at": "2026-09-29T22:24:20.770027+00:00",
   "items": [
+    {
+      "title": "Vulnerabilidade de dia zero da Apple armada em ataques direcionados",
+      "summary": "Os invasores estão explorando o CVE-2026-86950, uma falha de gravação fora dos limites, de uma forma extremamente sofisticada, de acordo com a Apple.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks",
+      "published": "2026-09-29T21:31:29+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd977dfac5d79a983/6abc2f1fdbde378922f45c35/apple_tetrisfun_shutterstock_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Falha do Unsloth Studio transforma inspeção de modelo de rotina em execução de código",
+      "summary": "Uma vulnerabilidade corrigida do Unsloth Studio permite que modelos maliciosos de IA executem código Python arbitrário durante a inspeção, por meio da configuração trust_remote_code.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution",
+      "published": "2026-09-29T21:08:42+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8798a931788fea60/6abc103774949935866a41da/sloth-webguzs-GettyImages-2249770137.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "ChatGPTs personalizados promovem ataques ClickFix para implantar malware RAT",
+      "summary": "Variantes personalizadas do ChatGPT da OpenAI promovidas em resultados patrocinados do Google estão direcionando usuários desavisados ​​para sites maliciosos que usam ataques ClickFix para entregar malware. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
+      "published": "2026-09-29T20:59:39+00:00",
+      "image": ""
+    },
+    {
+      "title": "CEO da OpenAI anuncia novo agente de IA e evita menção de preocupações de segurança na conferência de desenvolvedores",
+      "summary": "Altman fez uma série de anúncios e atualizações de produtos, incluindo os novos agentes da empresa, chamados Dots. A postagem CEO da OpenAI anuncia novo agente de IA e evita menção de preocupações de segurança na conferência de desenvolvedores apareceu pela pr",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/",
+      "published": "2026-09-29T20:14:44+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers exploram Citrix NetScaler zero-day para implantar web shells",
+      "summary": "As empresas de segurança cibernética afirmam que os invasores exploraram o Citrix NetScaler CVE-2026-88772 de dia zero para implantar shells da web personalizados e encapsular malware, obter acesso root, roubar credenciais e se espalhar em redes internas. [...",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
+      "published": "2026-09-29T18:37:12+00:00",
+      "image": ""
+    },
+    {
+      "title": "Ex-membros da Força Aérea dos EUA enviados para a prisão por ataques BEC",
+      "summary": "Dois ex-membros da Força Aérea dos Estados Unidos foram condenados a um total combinado de 189 meses de prisão federal por seus papéis em uma série de vários anos de golpes de comprometimento de e-mail comercial (BEC) e campanhas de phishing. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
+      "published": "2026-09-29T18:09:39+00:00",
+      "image": ""
+    },
+    {
+      "title": "Roubo de dados fiscais franceses usando senhas roubadas de funcionários passou despercebido por sete semanas",
+      "summary": "Um invasor usou senhas roubadas de funcionários da administração tributária francesa para obter dados fiscais de centenas de milhares de contribuintes e empresas em junho e julho. Nem a administração fiscal nem a agência nacional de segurança cibernética da Fr",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
+      "published": "2026-09-29T17:47:01+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9h550xeoGqzMnMqY6B6Ejo9xeSvbx4fnnu1OmLWvhYAvYeLNB1zeik8F8yYB82oW685qieusoRaI27P68ugA34Vg0720ZZdLfQUJtuIjxkUYRgq_hQtivtsopRYYoddpwb4mICLERqQrVKtZv5EHg78rU14dlQmgevB0KsOR0ePvG4E8cpqKB1TyliaE/s1600/france.jpg"
+    },
+    {
+      "title": "Roubo de dados fiscais franceses usando senhas roubadas de funcionários passou despercebido por sete semanas - The Hacker News",
+      "summary": "Roubo de dados fiscais franceses usando senhas roubadas de funcionários passou despercebido por sete semanas The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CZUJVRkVudkFjTDZOSE1HUHJ2TVB3WnZGbFA3RmJqV2VMRTVLdzZlbThMUVRicjgzNnc2SEVRQW55VFZxVFJkdTBUNEM0YjFjdWttaTJQYjFJNnBJeVZockJnbFJZenVpVzdJYWcxc1hqMUo0U3JGZGJ0anZLZw?oc=5",
+      "published": "2026-09-29T17:47:00+00:00",
+      "image": ""
+    },
     {
       "title": "DARPA seleciona Xint para usar IA na proteção de aplicativos de mensagens militares",
       "summary": "O vencedor da competição AIxCC analisará o código do aplicativo de mensagens e os binários compilados em busca de vulnerabilidades, com tecnologia que também poderá ajudar os clientes comerciais a proteger seu software. A postagem DARPA seleciona Xint para usa",
@@ -9,6 +81,24 @@
       "url": "https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/",
       "published": "2026-09-29T17:24:04+00:00",
       "image": ""
+    },
+    {
+      "title": "Novo ataque BTR Spectre-v2 vaza memória do Linux apesar das defesas existentes",
+      "summary": "Um grupo de acadêmicos da VUSec e da Scuola Superiore Sant'Anna divulgaram detalhes de uma nova variante de vulnerabilidade da CPU Spectre que afeta mecanismos Just-In-Time (JIT) presentes em navegadores da web, tempos de execução de linguagem e kernel do sist",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
+      "published": "2026-09-29T17:20:17+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCNHT9zDz8oOamcA5EH8a3KGAtk9R9bE_UxGY_uPThgxZJu9vX-YG1olbgiX5WBVdwDd52LpDfSyryC6GZ45tUi2bKLe_aWnbj0Ir3WQZeGYF8Vr7U7icoPn4tcuwfpOZagVfry-KG5_jzLPb-fbPiFBlv142UOgqAPpC193t6BslvCE1l1XWo2z5_mFYV/s1600/linux-intel.jpg"
+    },
+    {
+      "title": "Star Blizzard da Rússia tem como alvo mais de 100 organizações com convites falsos para eventos para entregar backdoor",
+      "summary": "Hackers estatais russos conhecidos como Star Blizzard têm usado convites falsos para eventos para induzir as pessoas a instalar um backdoor em seus computadores Windows, de acordo com a Microsoft. As campanhas, dirigidas a pessoas e organizações ligadas à Ucrâ",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
+      "published": "2026-09-29T17:20:08+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQDuuJUT-WU7XzUYYoKEDtFKt7QAra8I4G0ptQRyveku8G6fD6R0aSWw32hi-2fd0L28qUxjqJoTlQoJbLiBYH6NBOVYirQZ9LfH-UvD8JG5uiL_m4ZkBVnPLiArcivCsdMNegW1XGxFEzas4cwkzFVeY4r22qTqSp2U1Fo3Nw7urOlnWRKGFHW8pW91E/s1600/ms-invite.jpg"
     },
     {
       "title": "Nova variante de ataque Spectre v2 vaza hash de senha root do Linux em minutos",
@@ -20,13 +110,13 @@
       "image": ""
     },
     {
-      "title": "Novo ataque BTR Spectre-v2 vaza memória do Linux apesar das defesas existentes",
-      "summary": "Um grupo de acadêmicos da VUSec e da Scuola Superiore Sant'Anna divulgaram detalhes de uma nova variante de vulnerabilidade da CPU Spectre que afeta mecanismos Just-In-Time (JIT) presentes em navegadores da web, tempos de execução de linguagem e kernel do sist",
-      "category": "VULNERABILIDADES",
+      "title": "Novo ataque BTR Spectre-v2 vaza memória do Linux apesar das defesas existentes - The Hacker News",
+      "summary": "Novo ataque BTR Spectre-v2 vaza memória do Linux apesar das defesas existentes The Hacker News",
+      "category": "INCIDENTES",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-      "published": "2026-09-29T17:00:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCNHT9zDz8oOamcA5EH8a3KGAtk9R9bE_UxGY_uPThgxZJu9vX-YG1olbgiX5WBVdwDd52LpDfSyryC6GZ45tUi2bKLe_aWnbj0Ir3WQZeGYF8Vr7U7icoPn4tcuwfpOZagVfry-KG5_jzLPb-fbPiFBlv142UOgqAPpC193t6BslvCE1l1XWo2z5_mFYV/s1600/linux-intel.jpg"
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWDRBVlY5czhzaFd4WkFXbVBBWWhGVUhVeUZ4eXBrWFNNdmEzMTByZHdiRFlKakFfQUFrckYyd0NTREgyUVZieGhWOWxLTjNhZ0N2Z2xzeUlLT1JrRlppYW9YTzhkSnhqNTBESlhMdWM5NjktMXkxTThfTDNzZFl2VERR?oc=5",
+      "published": "2026-09-29T17:03:42+00:00",
+      "image": ""
     },
     {
       "title": "Nova variante Spectre v2 expõe CPUs Intel, AMD e Arm a vazamentos de dados",
@@ -35,6 +125,15 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/",
       "published": "2026-09-29T17:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Além do código-fonte: um caminho para as chaves do reino",
+      "summary": "Explore como o Storm-3068 transformou uma identidade comprometida em um acesso mais amplo à nuvem e as etapas que as organizações podem seguir para defender suas identidades, pipelines e infraestrutura em nuvem. A postagem Além do código-fonte: um caminho para",
+      "category": "CLOUD & IA",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/",
+      "published": "2026-09-29T16:00:00+00:00",
       "image": ""
     },
     {
@@ -62,105 +161,6 @@
       "source": "Microsoft Security",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/",
       "published": "2026-09-29T15:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "RemoteThreat é lançado com US$ 7 milhões para plataforma de operações ofensivas",
-      "summary": "A empresa emergiu do modo furtivo com financiamento pré-semente da Osage University Partners e DataTribe. A postagem RemoteThreat é lançada com US$ 7 milhões para plataforma de operações ofensivas apareceu pela primeira vez na SecurityWeek.",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/",
-      "published": "2026-09-29T14:38:07+00:00",
-      "image": ""
-    },
-    {
-      "title": "Dual NetScaler Zero-Days desencadeia caos para clientes Citrix",
-      "summary": "As vulnerabilidades críticas, que afetam as configurações padrão dos produtos NetScaler, essencialmente fornecem aos invasores uma chave mestra para as redes dos clientes.",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/netscaler-zero-days-chaos-citrix",
-      "published": "2026-09-29T14:19:43+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5de91a8011e409dc/68ae00c0ae4a7a4290bef1c1/citrix_JHVEPhoto_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Kiteworks corrige falha crítica encontrada durante paralisação preventiva de nove horas",
-      "summary": "A Kiteworks disse na segunda-feira que trabalhou com autoridades federais de inteligência no fim de semana, identificando e resolvendo uma vulnerabilidade crítica de segurança durante o desligamento preventivo programado. “Durante a paralisação, esta atividade",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
-      "published": "2026-09-29T14:13:20+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjv9oZ7uWtniIGlzNM3FXdS2v4WjdHi8ajTw0evMWbzhC9ihnkOwrxAqV7sgJou4SMDrJo2z5uDOQPRX1Bb0Hx1P1Str7iZQ4wssATmqsb6o0IfOPafzmnX6UXgkweBDB_QKqBVJZsNdMibEvAykjIzluSiJEnxnhFehzw-q2bhZ7heCFv97on69dZMjPrb/s1600/kiteworks.jpg"
-    },
-    {
-      "title": "Detecte ameaças antes que elas aumentem com a Telemetria de Identidade em tempo real",
-      "summary": "A governança de identidade ajuda a controlar quem deve ter acesso, mas as revisões periódicas por si só podem não revelar os ataques à medida que ocorrem. A tenfold Software explica como a telemetria de identidade em tempo real pode ajudar as equipes de segura",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
-      "published": "2026-09-29T14:01:11+00:00",
-      "image": ""
-    },
-    {
-      "title": "101 pacotes npm maliciosos adicionam contas do WhatsApp de desenvolvedores a grupos sem consentimento",
-      "summary": "Pesquisadores de segurança cibernética identificaram um conjunto de pacotes de 101 npm que são usados ​​para prender os desenvolvedores em uma campanha de assinantes de grupo do WhatsApp chamada PhantomSub. “Os pacotes maliciosos abusam do projeto de código ab",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
-      "published": "2026-09-29T13:45:10+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhUmW5o4XCEsBlPE2MKecTG-IHCrk1WHeLajiNnRTpGtT-DDhpYVID3Pon7cseFiJN24GulDnjR7TPRe6h-kQEuJBPRl87atgBytMvKbiRV4h_DHWtxQEtogyy3U-aAD6ErNCrYiOQV-tHvHcw_P4W8z37PpR-jo70sePvtLIvMwKx7MJuE8Fazhyphenhyphen7_KI5/s1600/npm-whatsapp.jpg"
-    },
-    {
-      "title": "Reco levanta US$ 55 milhões para Agentic Security",
-      "summary": "A empresa usará os recursos para expandir suas vendas, parcerias, canais e equipes de suporte ao cliente. O post Reco levanta US$ 55 milhões para Agentic Security apareceu pela primeira vez na SecurityWeek.",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/reco-raises-55-million-for-agentic-security/",
-      "published": "2026-09-29T13:20:53+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers usam GPTs personalizados ChatGPT em ataques ClickFix",
-      "summary": "As versões personalizadas do ChatGPT foram usadas para se passar por produtos legítimos e induzir os usuários a executar comandos do PowerShell. A postagem Hackers usam GPTs personalizados do ChatGPT em ataques ClickFix apareceu pela primeira vez na SecurityWe",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/",
-      "published": "2026-09-29T13:03:35+00:00",
-      "image": ""
-    },
-    {
-      "title": "Construindo uma autoridade certificadora pós-quântica com Merkle Tree Certificates",
-      "summary": "À medida que as assinaturas pós-quânticas ameaçam inflar os handshakes TLS e os logs de transparência de certificados, os Certificados Merkle Tree oferecem um caminho para uma autenticação compacta e auditável. A nova autoridade certificadora da Cloudflare ofe",
-      "category": "AMEAÇAS",
-      "source": "Cloudflare Security",
-      "url": "https://blog.cloudflare.com/pq-ca-with-mtcs/",
-      "published": "2026-09-29T13:00:00+00:00",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M3MX3H0DJVT3EQ9XF4GKFX9C.01M3MX3HYF5RPW6B0KQPFMJ8QS.png"
-    },
-    {
-      "title": "Apresentando os sinais de ameaças: habilidades de agente para inteligência de ameaças de código aberto, gratuito para todas as contas da Cloudflare",
-      "summary": "Estamos expandindo o acesso à plataforma de eventos de ameaças do Cloudforce One para todas as contas da Cloudflare e introduzindo sinais de ameaças. O Threat Signals analisa automaticamente relatórios de ameaças de código aberto, extrai indicadores estruturad",
-      "category": "AMEAÇAS",
-      "source": "Cloudflare Security",
-      "url": "https://blog.cloudflare.com/threat-signals/",
-      "published": "2026-09-29T13:00:00+00:00",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M3MS5SC9YKN4DB4S86N0T6KH.01M3MS5TDS5PQPN48TWV8JH094.png"
-    },
-    {
-      "title": "Aplique segurança positiva com perfis de aplicativos da Cloudflare",
-      "summary": "A Cloudflare aprende a estrutura de suas solicitações HTTP e identifica desvios. Você pode adicionar uma camada de segurança positiva que ajuda a reduzir a superfície de ataque, pois a IA torna mais fácil para os invasores gerarem e variarem cargas úteis.",
-      "category": "INCIDENTES",
-      "source": "Cloudflare Security",
-      "url": "https://blog.cloudflare.com/application-profiles/",
-      "published": "2026-09-29T13:00:00+00:00",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M3B09CMJMHVJCVMPMCFARRCT.01M3B09DCPG1A08FA7FTWA6PR9.png"
-    },
-    {
-      "title": "Violação de dados da agência de pessoal do Pentágono afeta 3 milhões de pessoas",
-      "summary": "A violação de dados afeta o Defense Manpower Data Center (DMDC), que mantém registros de pessoal do Departamento de Defesa. A postagem Violação de dados da agência de pessoal do Pentágono afeta 3 milhões de pessoas apareceu pela primeira vez na SecurityWeek.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/",
-      "published": "2026-09-29T12:25:12+00:00",
       "image": ""
     }
   ]
