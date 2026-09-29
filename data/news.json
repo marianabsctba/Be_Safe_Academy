@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-09-29T01:06:30.857305+00:00",
+  "updated_at": "2026-09-29T09:58:56.705346+00:00",
   "items": [
+    {
+      "title": "Malware NeedyMantis dos Daemon Tools Hackers dissecado pela Microsoft",
+      "summary": "A estrutura do malware usa uma arquitetura modular e um formato de arquivo executável personalizado para persistência a longo prazo. A postagem Malware NeedyMantis dos Daemon Tools Hackers dissecado pela Microsoft apareceu pela primeira vez na SecurityWeek.",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/daemon-tools-hackers-needymantis-malware-dissected-by-microsoft/",
+      "published": "2026-09-29T09:46:13+00:00",
+      "image": ""
+    },
+    {
+      "title": "Kiteworks corrige falha crítica e coloca sistemas de clientes online",
+      "summary": "A empresa americana de tecnologia Kiteworks suspendeu um alerta preventivo pedindo aos clientes que desligassem os sistemas após corrigir uma vulnerabilidade crítica. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
+      "published": "2026-09-29T09:04:06+00:00",
+      "image": ""
+    },
+    {
+      "title": "Apple corrige falha de dia zero do CoreGraphics explorada em ataques",
+      "summary": "A Apple lançou atualizações de segurança para corrigir uma vulnerabilidade de dia zero explorada em ataques direcionados “extremamente sofisticados” em dispositivos iOS. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
+      "published": "2026-09-29T07:33:12+00:00",
+      "image": ""
+    },
+    {
+      "title": "Apple corrige meta-relato de dia zero vinculado a ‘ataque extremamente sofisticado’",
+      "summary": "A Apple lançou atualizações para iOS e macOS para corrigir a vulnerabilidade de dia zero rastreada como CVE-2026-86950. A postagem Apple Patches meta-relatados de dia zero vinculados a ‘ataque extremamente sofisticado’ apareceu pela primeira vez na SecurityWee",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/",
+      "published": "2026-09-29T06:18:27+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falha oficial do MCP Python SDK pode permitir que servidores maliciosos roubem credenciais OAuth",
+      "summary": "Um servidor MCP malicioso pode enganar um aplicativo desenvolvido no SDK oficial do MCP Python, fazendo-o entregar as credenciais OAuth usadas para fazer login em um serviço real, disseram os mantenedores do SDK em um comunicado de segurança. As versões afetad",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
+      "published": "2026-09-29T06:08:25+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2N5owhsoQXHTQV74afwfngdyitjwcW37BHLX2QKkq6xZAxP8_AOXAh1ODPj5DyvvmMUq3mKH9eR2B1r7owc6djzLViK2U4BY_hw3rTWmaHjhFEyyh8LPlUMPZ7MdWkqN7bjtQyMByBLrsI5m0mAU9y-IbrsAe9OPhZXHN63AWwuv_1OB5MSrpRdVZ9CM/s1600/mcp-python.jpg"
+    },
+    {
+      "title": "OpenAI pausa o uso da ferramenta depois que o agente ignora os controles da Internet para acessar o chatbot externo",
+      "summary": "A OpenAI disse que tomou a decisão de pausar o treinamento de seus modelos mais poderosos depois que um de seus agentes durante o treinamento de aprendizagem por reforço (RL) contatou um chatbot externo explorando uma lacuna em suas restrições de acesso à Inte",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
+      "published": "2026-09-29T04:45:20+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2NfY2zvkkU95qQwwR7N_yQQf_H2AjYcXccbK2yH7xzzeAqmu3mH9ItszzC14M2suvDnfz6EBB-QzMkCTUBIgaoX9teGfhmBIBvU9R-wsKQBcC90f5lytvP-hYfCy8o-YTDTh8rIqz8mj1NIikN27BE2vsWyaRgiKPeAe3zbmrkdy6Dkg8htztnoyJwS4o/s1600/openai-chatbot.jpg"
+    },
     {
       "title": "Um pacote pode travar servidores OT em setores industriais",
       "summary": "Uma vulnerabilidade de dia zero de alta gravidade afeta o banco de dados de série temporal TDengine usado em ambientes industriais, IoT, energéticos e automotivos.",
@@ -108,60 +162,6 @@
       "url": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
       "published": "2026-09-28T17:38:33+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvGUhf2JsmovUtvjDk66AKULOtbtRwTqgcT_6lr5l8AEuwc-12IQTTWfvjKCYEn6-wwc4ZLDWAWh6Edv3-XcPDL1HHPFwRkwY1Nc_BUItyEO8iCXBDKEitrgYapLi__gpKnYqtFNm1M2c4tGiY3qrS_CgRG5ZF5qnqVUv4Gx9Pqk_cPz4N05KVwUNgTcw/s1600/gemini-malware.jpg"
-    },
-    {
-      "title": "O console de malware RatHat Android usa Gemini para identificar vítimas de maior valor - The Hacker News",
-      "summary": "O console de malware RatHat Android usa Gemini para identificar vítimas de maior valor The Hacker News",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KSEV0a0pORTAwUnJ6a1BfbHJsanFramZTWUZ5cVJpbzh3RmJzM2FXMFNkVXJIZFg2Ny1CTzFiYWJPbkJEanpqZ1UxN1VmbW9tbzM4LVlvOWFRcndfNm9TTG5hYUhCTHpxeGdEZW50Z2pabjJfb2l4Q0ZaeTBOZTQ?oc=5",
-      "published": "2026-09-28T17:38:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Modulate levanta US$ 25 milhões para avançar na detecção de deepfake",
-      "summary": "O uso indevido e o abuso da voz gerada por IA estão crescendo. A intenção do Modulate é permitir detecção e intervenção em tempo real. A postagem Modulate levanta US$ 25 milhões para avançar na detecção de deepfake apareceu pela primeira vez na SecurityWeek.",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/",
-      "published": "2026-09-28T17:30:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Os ataques de IA agente do JadePuffer têm como alvo o Azure e destroem recursos da nuvem",
-      "summary": "O operador de ransomware JadePuffer tem como alvo os locatários do Azure com ataques conduzidos por agentes que realizam reconhecimento, roubam credenciais e destroem componentes principais. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
-      "published": "2026-09-28T15:49:27+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ator JadePuffer AI compromete locatário do Azure em ataque destrutivo à nuvem",
-      "summary": "O “ator de ameaça agente” pode ter usado credenciais expostas para acessar recursos e excluir armazenamento, aplicativos e bancos de dados baseados em nuvem.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack",
-      "published": "2026-09-28T15:33:21+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbc06310368e21110/6a4bdbe6a6d4757864059ce1/llm-Boy_Wirat-Getty-2149059417.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Chamada para apresentações aberta para o CISO Forum Virtual Summit 2026",
-      "summary": "A SecurityWeek busca apresentações originais e neutras em termos de fornecedor que ajudem os líderes de segurança cibernética a navegar pelas ameaças emergentes, fortalecer a resiliência e enfrentar os desafios estratégicos enfrentados pelos programas de segur",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/call-for-presentations-open-for-2026-ciso-forum-virtual-summit/",
-      "published": "2026-09-28T15:15:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Polícia holandesa prende hacker ‘reformado’ na investigação de Shiny Hunters",
-      "summary": "As autoridades holandesas prenderam um cibercriminoso condenado de 23 anos por suspeita de ajudar em roubos de dados e extorsões pelo prolífico grupo de hackers ShinyHunters. Nos dias imediatamente seguintes à prisão do suspeito, os membros restantes do ShinyH",
-      "category": "AMEAÇAS",
-      "source": "KrebsOnSecurity",
-      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
-      "published": "2026-09-28T15:08:57+00:00",
-      "image": ""
     }
   ]
 }
