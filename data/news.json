@@ -1,9 +1,153 @@
 {
-  "updated_at": "2026-09-30T05:43:11.322758+00:00",
+  "updated_at": "2026-09-30T12:47:05.864646+00:00",
   "items": [
     {
+      "title": "TeamViewer incentiva os usuários a corrigir falhas graves “o mais rápido possível”",
+      "summary": "A empresa de software de acesso remoto TeamViewer alertou os clientes na terça-feira para corrigir imediatamente um conjunto de vulnerabilidades de alta gravidade que afetam seu software cliente e host. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
+      "published": "2026-09-30T12:25:10+00:00",
+      "image": ""
+    },
+    {
+      "title": "Chrome e Firefox atualizam patch para mais de 100 vulnerabilidades",
+      "summary": "Algumas das falhas podem permitir que invasores remotos executem códigos arbitrários ou escapem da sandbox do navegador. A postagem Chrome e Firefox atualizam patch para mais de 100 vulnerabilidades apareceu pela primeira vez em SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/chrome-firefox-updates-patch-over-100-vulnerabilities/",
+      "published": "2026-09-30T12:16:52+00:00",
+      "image": ""
+    },
+    {
+      "title": "Agentes de codificação de IA expuseram 13.000 imagens internas, incluindo registros de cobrança, no GitHub",
+      "summary": "Agentes de codificação de IA solicitados a compartilhar capturas de tela de alterações de código para revisão colocaram imagens internas da empresa em repositórios públicos do GitHub, disse a empresa de segurança Glow. Seus pesquisadores encontraram mais de 13",
+      "category": "CLOUD & IA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
+      "published": "2026-09-30T11:30:00+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqbuWmNSxYv66udOpYi9NRKukBSDiTroF54tDrBaVYBBTfDC7PMMr26tRoFatdmmRPsPy3MCdoUNLr8YN9mC2ni3pvDWfBNsoKz12evoNrZggcUI4izEc7-hEAr_2wFv4IInBnon19PcEPSXlJU-AMahLHFNAk_5FiVbV7EhfdiLKHcUc8Tiso63xca2c/s1600/git-images.jpg"
+    },
+    {
+      "title": "Anthropic sinaliza riscos de responsabilidade do agente de IA enquanto OpenAI enfrenta processo de hacking",
+      "summary": "Os ataques de agentes autónomos de IA estão a sair do laboratório e a entrar no tribunal, levantando questões incertas sobre quem é responsável pelo que os agentes fazem. A postagem Anthropic sinaliza riscos de responsabilidade do agente de IA enquanto OpenAI ",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/anthropic-flags-ai-agent-liability-risks-as-openai-faces-hacking-lawsuit/",
+      "published": "2026-09-30T11:19:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Bitget hackeado via dia zero em produtos de segurança de terceiros",
+      "summary": "A exchange de criptomoedas Bitget revelou hoje que invasores que roubaram US$ 387,5 milhões na semana passada violaram seus sistemas após explorar uma falha de dia zero em produtos de segurança de terceiros. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
+      "published": "2026-09-30T11:11:46+00:00",
+      "image": ""
+    },
+    {
+      "title": "APT Star Blizzard russa usa cadeia de infecção ‘RedFlick’ em ataques recentes",
+      "summary": "O grupo patrocinado pelo estado lançou campanhas de phishing em larga escala para implantar o backdoor CosmicPulse. A postagem APT Star Blizzard russa usa cadeia de infecção ‘RedFlick’ em ataques recentes apareceu pela primeira vez em SecurityWeek.",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/russian-apt-star-blizzard-uses-redflick-infection-chain-in-recent-attacks/",
+      "published": "2026-09-30T10:59:30+00:00",
+      "image": ""
+    },
+    {
+      "title": "Phishing CSuite focado nos EUA rouba sessões do Microsoft 365 e implanta ferramentas RMM para acesso remoto",
+      "summary": "Os pesquisadores do ANY.RUN rastrearam uma campanha de phishing CSuite focada nos EUA em 351 análises de sandbox, com 51% dos envios vindos dos Estados Unidos. Organizações de tecnologia, manufatura, governo e consultoria apresentaram a maior exposição. Ao com",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
+      "published": "2026-09-30T10:45:00+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5fq_zpvT8d0bG8IIotVRgIHIXCNOTPBhfIBUIWxLlg1X4bDmzf0PRgt_0UaHhvTIznPU4nOCCuLJ6JbJ3Tx22FPY2Ox93L_HNhA7XjQEvOcsXfw3NIixeGcy9DywlAx_SuEhCM6DRjgP3NBQrdHnJrFOCEFHFR8bFyF4YFWYtYEuPbG7kvWrgAsotLWI/s1600/rmm.jpg"
+    },
+    {
+      "title": "ShinyHunters desafiadores após FBI convocar membros para se apresentarem",
+      "summary": "Após a prisão de um suposto líder, a ShinyHunters diz que nunca teve a intenção de publicar dados roubados do FBI. A postagem ShinyHunters Defiant após FBI convocar membros para se apresentarem apareceu pela primeira vez em SecurityWeek.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/shinyhunters-defiant-after-fbi-calls-on-members-to-come-forward/",
+      "published": "2026-09-30T10:20:02+00:00",
+      "image": ""
+    },
+    {
+      "title": "O nexo da China UAT-11587 tem como alvo organizações governamentais e políticas em toda a Ásia com backdoor Antino",
+      "summary": "O Cisco Talos descobriu um conjunto de atividades que rastreamos como UAT-11587 visando organizações governamentais e políticas em toda a Ásia, incluindo Taiwan, Índia, Filipinas e Camboja, para fornecer um backdoor anteriormente não documentado conhecido como",
+      "category": "DEFESA",
+      "source": "Cisco Talos",
+      "url": "https://blog.talosintelligence.com/china-nexus-uat-11587-targets-government-and-policy-organizations-across-asia-with-antino-backdoor/",
+      "published": "2026-09-30T10:00:01+00:00",
+      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/antino-header.jpg"
+    },
+    {
+      "title": "Atacantes exploram falha do NetScaler para acesso root, implantam WHIPSHOT e SLAPSHOT",
+      "summary": "Atores de ameaças desconhecidos foram observados explorando uma falha de segurança recém-corrigida nos dispositivos Citrix NetScaler ADC e NetScaler Gateway para atingir organizações na América do Norte e na Europa. A atividade, observada pela Mandiant Consult",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
+      "published": "2026-09-30T08:24:35+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgjeU_A9ijIuOqFirHL74nU4k_HktRhcj5hx3goc6SfQKIeG9XA_GpZaZQVpCdUYbho_gZT4LoB-MjNJO0FZrV3q6MxXoUzg8bdbHmr2r-8rKxP1_XCMUVKq3IntFoR4aFFSdDPyBQI4Z1-jn8uNaWn4c4ohpPflBYx8M0GPFnAVziUo3Mtap0fzBBU9f_/s1600/citrix-shell.jpg"
+    },
+    {
+      "title": "Atacantes exploram falha do NetScaler para acesso root, implantam WHIPSHOT e SLAPSHOT - thehackernews.com",
+      "summary": "Atacantes exploram falha do NetScaler para acesso root, implantam WHIPSHOT e SLAPSHOT thehackernews.com",
+      "category": "VULNERABILIDADES",
+      "source": "thehackernews.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRDVJeEZ0V09WR1RjdXVOT0JTc0VWMWxPQnBPN1Zfek5maUIyWDBzbjFDVnVwNmhsV3V5aWxEWWNGTVdsNG50RzYtbmRMdDlWbkFSZF9tR0N4dThrWm1WRGFMZXhMaDJmMm9ydVVGalBoYTlJRWlGeXVZbFoycU9TUg?oc=5",
+      "published": "2026-09-30T08:24:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "África do Sul busca ajuda após ataque cibernético atingir o controle de tráfego aéreo",
+      "summary": "À medida que a infraestrutura da aviação sofre mais ataques cibernéticos, os sistemas de tráfego aéreo são o alvo mais recente, com um kit de ferramentas de ransomware instalado em pelo menos uma rede operacional.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control",
+      "published": "2026-09-30T07:00:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4eff7c6bb4fca152/6abc296fa6381769c5d9ff08/johannesburg-airport-south-africa-EQRoy-shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Vulnerabilidades de alta gravidade corrigidas em OpenSSL, WolfSSL",
+      "summary": "Aproximadamente uma dúzia de vulnerabilidades foram corrigidas em cada uma das bibliotecas criptográficas de código aberto. A postagem Vulnerabilidades de alta gravidade corrigidas no OpenSSL, WolfSSL apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/high-severity-vulnerabilities-patched-in-openssl-wolfssl/",
+      "published": "2026-09-30T06:55:50+00:00",
+      "image": ""
+    },
+    {
+      "title": "Novo ataque BTR Spectre-v2 vaza memória do Linux apesar das defesas existentes - thehackernews.com",
+      "summary": "Novo ataque BTR Spectre-v2 vaza memória do Linux apesar das defesas existentes thehackernews.com",
+      "category": "INCIDENTES",
+      "source": "thehackernews.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWDRBVlY5czhzaFd4WkFXbVBBWWhGVUhVeUZ4eXBrWFNNdmEzMTByZHdiRFlKakFfQUFrckYyd0NTREgyUVZieGhWOWxLTjNhZ0N2Z2xzeUlLT1JrRlppYW9YTzhkSnhqNTBESlhMdWM5NjktMXkxTThfTDNzZFl2VERR?oc=5",
+      "published": "2026-09-30T05:33:44+00:00",
+      "image": ""
+    },
+    {
+      "title": "Citrix NetScaler CVE-2026-88772 Detalhes de exploração mostram caminho de pré-autenticação para execução de Shellcode",
+      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes técnicos de uma falha crítica de segurança corrigida recentemente no Citrix NetScaler ADC e Gateway que está sob exploração ativa em estado selvagem. A vulnerabilidade, rastreada como CVE-2026-88772 (p",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
+      "published": "2026-09-30T05:30:30+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcFl1djJdJQkamdMtV0xibSpzc4ahUKNoVKtVoDSeKFJAYUkH2SnmxalYIJpaVZ9cywBJqyUflBrXWbhTIzpwL51iIyfINyH7z7YUHqDl3IbAJJmpCANlw8YvFFtmLa3T2es4rdE70Jd9tEUYAbuWFuXVBsx6Ar2radG2ZhgkqjBA5ZErCm0xVhNPv6d3F/s1600/watch-exploit.jpg"
+    },
+    {
+      "title": "Detalhes da exploração do Citrix NetScaler CVE-2026-88772 mostram o caminho de pré-autenticação para a execução do Shellcode - thehackernews.com",
+      "summary": "Detalhes da exploração do Citrix NetScaler CVE-2026-88772 mostram o caminho de pré-autenticação para a execução do Shellcode thehackernews.com",
+      "category": "VULNERABILIDADES",
+      "source": "thehackernews.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYUU1UFF3dXZiZHlidkRiUVNLdDZNOHFTemRQSy1YcWdSam5uRGJmSGJvQl95QmxvX3l5eUh5Y2J1RUgtQ0x6ZERHdHhkbDhWdUsxZ084anRhd1FvYjhoeDA4NE9HMms1d1lLX0JvODdwZVFvSFdMWXBHUWVtbm5qMmhBdUk?oc=5",
+      "published": "2026-09-30T05:30:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Trump afirma que as principais empresas de tecnologia assinaram acordo para o desenvolvimento de IA de “autopoliciamento”",
-      "summary": "O acordo abriu a porta para regulamentação futura, mas centrou-se em quatro medidas voluntárias a serem tomadas pelas empresas. A postagem Trump afirma que as principais empresas de tecnologia assinaram acordo para o desenvolvimento de IA de 'autopoliciamento'",
+      "summary": "O acordo abriu a porta para regulamentação futura, mas concentrou-se em quatro medidas voluntárias a serem tomadas pelas empresas. A postagem Trump afirma que as principais empresas de tecnologia assinaram acordo para o desenvolvimento de IA de 'autopoliciamen",
       "category": "CLOUD & IA",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/",
@@ -17,150 +161,6 @@
       "source": "Microsoft Security",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/",
       "published": "2026-09-29T21:39:27+00:00",
-      "image": ""
-    },
-    {
-      "title": "Vulnerabilidade de dia zero da Apple armada em ataques direcionados – Dark Reading",
-      "summary": "Vulnerabilidade de dia zero da Apple armada em ataques direcionados Dark Reading",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU1FsZkdHVkRJT0gxOHBqUk1NajVKbkNCNmVxc2VpbVIxcFFNTUhybS1Db0c4dDR0LWpiM3lybWJFVzU2Si13SzhWNktXZWwxcWVoeFFDcFJWRU8tbS1mWXltSExudHc3WXNad1BiNE1wTEVQSFpxa3BBbkJyR2tTVGZLdHFQS3drYmhpMzdfS0xoRzVaVWdvTl9Fc3U5MFNSWW5TWmFCLThqbHBFdVdaLQ?oc=5",
-      "published": "2026-09-29T21:37:34+00:00",
-      "image": ""
-    },
-    {
-      "title": "Vulnerabilidade de dia zero da Apple armada em ataques direcionados",
-      "summary": "Os invasores estão explorando o CVE-2026-86950, uma falha de gravação fora dos limites, de uma forma extremamente sofisticada, de acordo com a Apple.",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks",
-      "published": "2026-09-29T21:31:29+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd977dfac5d79a983/6abc2f1fdbde378922f45c35/apple_tetrisfun_shutterstock_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Falha do Unsloth Studio transforma inspeção de modelo de rotina em execução de código",
-      "summary": "Uma vulnerabilidade corrigida do Unsloth Studio permite que modelos maliciosos de IA executem código Python arbitrário durante a inspeção, por meio da configuração trust_remote_code.",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution",
-      "published": "2026-09-29T21:08:42+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8798a931788fea60/6abc103774949935866a41da/sloth-webguzs-GettyImages-2249770137.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "ChatGPTs personalizados promovem ataques ClickFix para implantar malware RAT",
-      "summary": "Variantes personalizadas do ChatGPT da OpenAI promovidas em resultados patrocinados do Google estão direcionando usuários desavisados ​​para sites maliciosos que usam ataques ClickFix para entregar malware. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
-      "published": "2026-09-29T20:59:39+00:00",
-      "image": ""
-    },
-    {
-      "title": "CEO da OpenAI anuncia novo agente de IA e evita menção de preocupações de segurança na conferência de desenvolvedores",
-      "summary": "Altman fez uma série de anúncios e atualizações de produtos, incluindo os novos agentes da empresa, chamados Dots. A postagem CEO da OpenAI anuncia novo agente de IA e evita menção de preocupações de segurança na conferência de desenvolvedores apareceu pela pr",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/",
-      "published": "2026-09-29T20:14:44+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers exploram Citrix NetScaler zero-day para implantar web shells",
-      "summary": "As empresas de segurança cibernética afirmam que os invasores exploraram o Citrix NetScaler CVE-2026-88772 de dia zero para implantar shells da web personalizados e encapsular malware, obter acesso root, roubar credenciais e se espalhar em redes internas. [...",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
-      "published": "2026-09-29T18:37:12+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ex-membros da Força Aérea dos EUA enviados para a prisão por ataques BEC",
-      "summary": "Dois ex-membros da Força Aérea dos Estados Unidos foram condenados a 189 meses de prisão federal por seus papéis em uma série de vários anos de golpes de comprometimento de e-mail comercial (BEC) e campanhas de phishing. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
-      "published": "2026-09-29T18:09:39+00:00",
-      "image": ""
-    },
-    {
-      "title": "Roubo de dados fiscais franceses usando senhas roubadas de funcionários passou despercebido por sete semanas",
-      "summary": "Um invasor usou senhas roubadas de funcionários da administração tributária francesa para obter dados fiscais de centenas de milhares de contribuintes e empresas em junho e julho. Nem a administração fiscal nem a agência nacional de segurança cibernética da Fr",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
-      "published": "2026-09-29T17:47:01+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9h550xeoGqzMnMqY6B6Ejo9xeSvbx4fnnu1OmLWvhYAvYeLNB1zeik8F8yYB82oW685qieusoRaI27P68ugA34Vg0720ZZdLfQUJtuIjxkUYRgq_hQtivtsopRYYoddpwb4mICLERqQrVKtZv5EHg78rU14dlQmgevB0KsOR0ePvG4E8cpqKB1TyliaE/s1600/france.jpg"
-    },
-    {
-      "title": "Roubo de dados fiscais franceses usando senhas roubadas de funcionários passou despercebido por sete semanas - The Hacker News",
-      "summary": "Roubo de dados fiscais franceses usando senhas roubadas de funcionários passou despercebido por sete semanas The Hacker News",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CZUJVRkVudkFjTDZOSE1HUHJ2TVB3WnZGbFA3RmJqV2VMRTVLdzZlbThMUVRicjgzNnc2SEVRQW55VFZxVFJkdTBUNEM0YjFjdWttaTJQYjFJNnBJeVZockJnbFJZenVpVzdJYWcxc1hqMUo0U3JGZGJ0anZLZw?oc=5",
-      "published": "2026-09-29T17:47:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "DARPA seleciona Xint para usar IA na proteção de aplicativos de mensagens militares",
-      "summary": "O vencedor da competição AIxCC analisará o código do aplicativo de mensagens e os binários compilados em busca de vulnerabilidades, com tecnologia que também poderá ajudar os clientes comerciais a proteger seu software. A postagem DARPA seleciona Xint para usa",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/darpa-selects-xint-to-use-ai-in-securing-military-messaging-apps/",
-      "published": "2026-09-29T17:24:04+00:00",
-      "image": ""
-    },
-    {
-      "title": "Novo ataque BTR Spectre-v2 vaza memória do Linux apesar das defesas existentes",
-      "summary": "Um grupo de acadêmicos da VUSec e da Scuola Superiore Sant'Anna divulgaram detalhes de uma nova variante de vulnerabilidade da CPU Spectre que afeta mecanismos Just-In-Time (JIT) presentes em navegadores da web, tempos de execução de linguagem e kernel do sist",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-      "published": "2026-09-29T17:20:17+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCNHT9zDz8oOamcA5EH8a3KGAtk9R9bE_UxGY_uPThgxZJu9vX-YG1olbgiX5WBVdwDd52LpDfSyryC6GZ45tUi2bKLe_aWnbj0Ir3WQZeGYF8Vr7U7icoPn4tcuwfpOZagVfry-KG5_jzLPb-fbPiFBlv142UOgqAPpC193t6BslvCE1l1XWo2z5_mFYV/s1600/linux-intel.jpg"
-    },
-    {
-      "title": "Star Blizzard da Rússia visa mais de 100 organizações com convites falsos para eventos para entregar backdoor",
-      "summary": "Hackers estatais russos conhecidos como Star Blizzard têm usado convites falsos para eventos para induzir as pessoas a instalar um backdoor em seus computadores Windows, de acordo com a Microsoft. As campanhas, dirigidas a pessoas e organizações ligadas à Ucrâ",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
-      "published": "2026-09-29T17:20:08+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQDuuJUT-WU7XzUYYoKEDtFKt7QAra8I4G0ptQRyveku8G6fD6R0aSWw32hi-2fd0L28qUxjqJoTlQoJbLiBYH6NBOVYirQZ9LfH-UvD8JG5uiL_m4ZkBVnPLiArcivCsdMNegW1XGxFEzas4cwkzFVeY4r22qTqSp2U1Fo3Nw7urOlnWRKGFHW8pW91E/s1600/ms-invite.jpg"
-    },
-    {
-      "title": "Star Blizzard da Rússia tem como alvo mais de 100 organizações com convites falsos para eventos para fornecer backdoor - The Hacker News",
-      "summary": "Star Blizzard da Rússia tem como alvo mais de 100 organizações com convites falsos para eventos para entregar backdoor The Hacker News",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCNHE5THFMYmhyNHBEanYwSUFCT3B5cVBXRnhPdzdNX296NXp1TkJxWm9GZDZkSElteUcyeWQzWkh5Z0xMODYxMmtWZ3ZJVDNEU0ZEa0EwQU9vSFJrSFRWS0tqaWhOaVU2VG14YlgxYTJoUklCLUJsaERQa3Y?oc=5",
-      "published": "2026-09-29T17:20:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Nova variante de ataque Spectre v2 vaza hash de senha root do Linux em minutos",
-      "summary": "Foi desenvolvido um novo ataque Branch Target Reuse (BTR) que pode recuperar hashes de senha root em computadores Intel rodando Linux em média de 3 a 5 minutos. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
-      "published": "2026-09-29T17:10:11+00:00",
-      "image": ""
-    },
-    {
-      "title": "Nova variante Spectre v2 expõe CPUs Intel, AMD e Arm a vazamentos de dados",
-      "summary": "Branch Target Reuse (BTR) é um novo ataque Spectre v2 direcionado a compiladores JIT em navegadores da web, tempos de execução de linguagem e kernel do sistema operacional A postagem Nova variante Spectre v2 expõe CPUs Intel, AMD e Arm a vazamentos de dados ap",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/new-spectre-v2-variant-exposes-intel-amd-arm-cpus-to-data-leaks/",
-      "published": "2026-09-29T17:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Além do código-fonte: um caminho para as chaves do reino",
-      "summary": "Explore como o Storm-3068 transformou uma identidade comprometida em um acesso mais amplo à nuvem e as etapas que as organizações podem seguir para defender suas identidades, pipelines e infraestrutura em nuvem. A postagem Além do código-fonte: um caminho para",
-      "category": "CLOUD & IA",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/",
-      "published": "2026-09-29T16:00:00+00:00",
       "image": ""
     }
   ]
