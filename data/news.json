@@ -1,6 +1,132 @@
 {
-  "updated_at": "2026-10-01T00:38:02.638600+00:00",
+  "updated_at": "2026-10-01T10:18:40.693761+00:00",
   "items": [
+    {
+      "title": "A bela arte de frustrar o adversário",
+      "summary": "O que realmente frustra um adversário? Oito pesquisadores do Cisco Talos compartilham maneiras práticas de tornar seu próximo passo mais lento e arriscado. Desde fraude e detecção comportamental até quebrar dependências de ataque e resistir à urgência fabricad",
+      "category": "INCIDENTES",
+      "source": "Cisco Talos",
+      "url": "https://blog.talosintelligence.com/the-fine-art-of-frustrating-the-adversary/",
+      "published": "2026-10-01T10:00:05+00:00",
+      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/CAM26-BlogHeader.jpg"
+    },
+    {
+      "title": "Hackers roubaram registros pessoais do Pentágono de mais de 3 milhões de pessoas",
+      "summary": "O Defense Manpower Data Center (DMDC) do Pentágono está notificando milhões de militares que hackers roubaram seus dados após violar o sistema de gerenciamento de recursos humanos do Pentágono em outubro de 2025. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
+      "published": "2026-10-01T09:44:28+00:00",
+      "image": ""
+    },
+    {
+      "title": "500.000 credenciais ativas deixadas expostas no GitHub",
+      "summary": "Aproximadamente 200.000 credenciais foram expostas depois que o GitHub habilitou proteções push por padrão. A postagem 500.000 credenciais ativas deixadas expostas no GitHub apareceu pela primeira vez na SecurityWeek.",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/500000-active-credentials-left-exposed-on-github/",
+      "published": "2026-10-01T09:43:56+00:00",
+      "image": ""
+    },
+    {
+      "title": "Cisco corrige vulnerabilidade de dia zero explorada no Catalyst SD-WAN",
+      "summary": "A falha poderia permitir que invasores remotos e não autenticados acessassem dispositivos vulneráveis ​​com privilégios administrativos. A postagem Cisco Patches explorou a vulnerabilidade de dia zero do Catalyst SD-WAN apareceu pela primeira vez na SecurityWe",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/cisco-patches-exploited-catalyst-sd-wan-zero-day-vulnerability/",
+      "published": "2026-10-01T08:26:03+00:00",
+      "image": ""
+    },
+    {
+      "title": "Google lança Gemini 4 Argon com acesso livre de guardrail para defensores avaliados",
+      "summary": "A empresa afirma que seu novo modelo de IA de fronteira encontrou uma vulnerabilidade crítica em software usado por hospitais em todo o mundo. A postagem Google lança Gemini 4 Argon com acesso sem guardrail para defensores avaliados apareceu pela primeira vez ",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/google-launches-gemini-4-argon-with-guardrail-free-access-for-vetted-defenders/",
+      "published": "2026-10-01T07:52:26+00:00",
+      "image": ""
+    },
+    {
+      "title": "Google lança Gemini 4 Argon para defensores cibernéticos confiáveis ​​e planeja versão sem Guardrail",
+      "summary": "O Google anunciou na quarta-feira seu mais recente modelo de inteligência artificial (IA) de fronteira, Gemini 4 Argon, que, segundo ele, está sendo implementado para um conjunto de defensores cibernéticos confiáveis ​​por meio de seu programa Fairwind. \"Ele o",
+      "category": "CLOUD & IA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
+      "published": "2026-10-01T07:49:36+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYk4zu5KwFghyphenhyphenGNFmUKfmtScZfRpYSwO3huCn6VYY6EiFZH7t7zWwr6Agn-AqOHA19-uc6wQMnoOHXGY3V8F2ZWfxoTNiTp8VV1ePAvDGYlW3ocD8tXLN-tPuqvzwf7YRX9CXl1_Zj2b0ZcMqbZAo_5Ut3uG3gTTEXTCVxJyyTtcUlbfwXkdqCu8PpY4l6/s1600/gemini-4.jpg"
+    },
+    {
+      "title": "Google lança Gemini 4 Argon para defensores cibernéticos confiáveis ​​e planeja versão sem Guardrail - The Hacker News",
+      "summary": "Google lança Gemini 4 Argon para defensores cibernéticos confiáveis ​​e planeja versão sem guardrail The Hacker News",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iV1BsXzBxZ2R4VDZPSERiR3FHQTV3YUVXSFBKU2p2d0xoNUNuWF9xZEstaVkxekhiU2cwbm1ucmljcWJ3OXE5SXlGVllGbWpIVXFkUkdmQVMtT2dCbGVEVGplR05PaE9rY1pQbEZtOGN5Z0JoUjhrRDBEbHlVdw?oc=5",
+      "published": "2026-10-01T07:49:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Metamask divulga incidente de segurança que afeta sua infraestrutura",
+      "summary": "Na quinta-feira, o provedor de carteira de criptomoeda MetaMask divulgou um incidente contínuo de segurança de infraestrutura que afeta algumas de suas infraestruturas. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
+      "published": "2026-10-01T07:33:57+00:00",
+      "image": ""
+    },
+    {
+      "title": "Apple CoreGraphics PoC surge enquanto o PDF do WhatsApp verifica dicas sobre possível caminho de entrega",
+      "summary": "Pesquisadores de segurança publicaram a primeira prova de conceito pública para CVE-2026-86950, uma falha do Apple CoreGraphics que a Apple diz que pode ter sido usada em ataques contra indivíduos específicos. O gatilho é um PDF malicioso com uma fonte incorpo",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
+      "published": "2026-10-01T05:54:41+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5u07cHr0A83x9aQdJE-_Emw6K1GzjR2eybdv9Rq_qi43Oi-M2U4eWqCkjvH5fUhw5wKSa-rvQ81gePKLYCqJXyrZpWHXOehEFq_QaTdYpy0O3LLUQGGYn1pxlUGUXwplloAHT3ZP7oMcF6al9A7q9XfnYNUhtBD0qw-GOWuKiyZl8zbrudyjWtEzHXC0/s1600/apple-whatsapp.jpg"
+    },
+    {
+      "title": "Bitget confirma dia zero de terceiros por trás do roubo de criptomoeda de US$ 387,5 milhões",
+      "summary": "A exchange de criptomoedas Bitget confirmou na quarta-feira que os invasores que roubaram US$ 387,5 milhões na semana passada exploraram uma falha de dia zero em produtos de segurança de terceiros, citando descobertas de investigação em andamento da SlowMist. ",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
+      "published": "2026-10-01T05:21:10+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzu32AOghfPrV4ViB5puy-1o8shfq77FdmxU5eS9i4x8SCLNzm6xQYn56KGKivAGFoIwa3yYWat5vZMQsdOqPp0ZoEcVst6fs3llaB88jz1IcH6ctmEUEoXcCQOWJs599jVZDnNlHYYww22fnm6KnorG7q16rSGcx3P_Isku8NOODjdV4A5Dee4HiPnmu7/s1600/crypto-theft.jpg"
+    },
+    {
+      "title": "Bitget confirma dia zero de terceiros por trás do roubo de criptomoeda de US$ 387,5 milhões - The Hacker News",
+      "summary": "Bitget confirma dia zero de terceiros por trás do roubo de criptomoeda de US$ 387,5 milhões The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTGN0VkgwWnoycGhYRlZFVUVydkNVb05PajdSRVM1ZXp6eEFWWkZiT3luR3ljYWs5eVN3NTBLQ2ZVT0haU0lqUUgzVG9KSm9ITXRSM1JLdzZzMkgtQmxJQ0U0QUloUWtQY0kxc1FIYy0yVzJfQjVtemE4c29HMmZ6TQ?oc=5",
+      "published": "2026-10-01T05:21:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Incidente de segurança MetaMask solicita saída de validadores Ethereum afetados",
+      "summary": "A MetaMask disse na quinta-feira que está respondendo ao que descreveu como um “incidente de segurança contínuo” que afeta parte de sua infraestrutura. “Estamos abordando e corrigindo ativamente o problema internamente, em coordenação com parceiros externos e ",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
+      "published": "2026-10-01T05:10:09+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipy8fMneY_rWNpC4ldmMhHo-WUhf1n8sK1GH2bHrvTgrmKGNTkKhVVcX6tKlw3NiAitNoaSczHsUpGmuQac46yTHrjW59JTq4WiecYDxHYmIWJ99gLUmxaBxEpwQw7rBwYKSP_bIVh-tcXh3Mgk9sRjeXZjGXF7ospfS7Xrt2FgQwfC89rKdy-A4RwFyMx/s1600/metamask-main.jpg"
+    },
+    {
+      "title": "Carga pós-exploração do Citrix NetScaler cria superusuário e mapeia Web Shell para URLs semelhantes a CSS",
+      "summary": "Foram observados atores de ameaças explorando uma vulnerabilidade crítica de injeção de comando de pré-autenticação no Citrix NetScaler ADC e NetScaler Gateway para descartar shells da web e tentar roubar dados de configuração. A equipe de Threat Hunt Operatio",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
+      "published": "2026-10-01T04:35:34+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAuODp7WTARNyJa6hiyuveQ1LUgYlaYQXGDDfRAYUA7Zkwwb7vMriA7VIh5HmBJwWWR0kALhQkijvT43ke2ajjOQHk6YxQb2rAgsB0PYcbMKPdm-JezjILBH8j3kY29iATKhZLQhVIyAjwNj9XFBTeenqPCHM1AzKMKRCVlMME3jQs5yIYSoVtrbRnVSY7/s1600/citrix-css-shell.jpg"
+    },
+    {
+      "title": "Carga útil pós-exploração do Citrix NetScaler cria superusuário e mapeia shell da Web para URLs semelhantes a CSS - The Hacker News",
+      "summary": "Carga útil pós-exploração do Citrix NetScaler cria superusuário e mapeia shell da Web para URLs semelhantes a CSS The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Hbm5RSTViQ05wTTZjNjVOeXQ1TVltZGhQNjNKcXFqcE1hbW9MWmt3WjBlbGt5UF9tUnRZY2dsUmZkRzBQMm9PbWpRU3Y4amJwaHl3cE9QUXRrdkZtNGdSdEJxU2R4TkVlbnFQY0htOTVZLTBUd3JUYlQzR1lBdw?oc=5",
+      "published": "2026-10-01T04:35:00+00:00",
+      "image": ""
+    },
     {
       "title": "A FTC está investigando OpenAI e Anthropic sobre possíveis riscos para os consumidores",
       "summary": "Um porta-voz da FTC confirmou a investigação, mas recusou mais comentários. A postagem A FTC está investigando OpenAI e Antrópico sobre possíveis riscos para os consumidores apareceu pela primeira vez na SecurityWeek.",
@@ -35,132 +161,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
       "published": "2026-09-30T19:49:15+00:00",
-      "image": ""
-    },
-    {
-      "title": "​​Proteja o que vem a seguir: seu guia de segurança da Microsoft no Microsoft Ignite 2026",
-      "summary": "Este ano, no Microsoft Ignite, destacamos nossa plataforma de segurança ponta a ponta voltada para IA, projetada para proteger identidades, dispositivos, dados, aplicativos, nuvens, infraestrutura e os agentes de IA que agora trabalham junto com suas equipes. ",
-      "category": "CLOUD & IA",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/",
-      "published": "2026-09-30T19:31:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "À medida que a IA remodela a escada da carreira do SOC, a satisfação aumenta em 91%, mas a entrada fica mais difícil em quase metade",
-      "summary": "A nova pesquisa da Swimlane ressalta um paradoxo: embora a detecção e a resposta da IA ​​sejam essenciais para dar vantagem aos defensores, um em cada quatro profissionais de segurança afirma que a IA limita o desenvolvimento de suas habilidades.",
-      "category": "CLOUD & IA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder",
-      "published": "2026-09-30T18:56:56+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Mais de 543.000 credenciais válidas expostas em repositórios públicos do GitHub",
-      "summary": "Mais de 543 mil credenciais expostas em repositórios públicos do GitHub ainda eram válidas em julho, apesar das medidas de segurança da plataforma para evitar vazamentos acidentais de dados confidenciais. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
-      "published": "2026-09-30T18:08:34+00:00",
-      "image": ""
-    },
-    {
-      "title": "Atacantes exploram falha do Zimbra para implantar web shells e coletar segredos de autenticação",
-      "summary": "Os agentes de ameaças transformaram uma falha de segurança agora corrigida no Zimbra Collaboration Suite (ZCS) para implantar shells da web e acessar dados de caixas de correio, de acordo com descobertas da equipe de pesquisa de segurança da Microsoft. O ataqu",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
-      "published": "2026-09-30T16:46:29+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNxFzgwNCn6YTNDvFIlEUKsnNOR9Y8UF__1rQ8N5BuMTKmJRPs-d_ilYcoeXwb03y07EXxnGyf5Ka8gyrKbFtzM2GoqYfrp79A-ZwHZyQDHEIU9twKFM67Glqk8eE4_j3fiHxNnPFl0euvHnKKfrmTd2aKcsMnebFQ4z73INLZfIdT66yH3MV5vOIBaMV5/s1600/zimbra-email.jpg"
-    },
-    {
-      "title": "Os invasores abusam do MSP360 para implantar o ScreenConnect em ataques de phishing com RMM duplo",
-      "summary": "A Microsoft alertou sobre campanhas de phishing que distribuem um instalador para o software MSP360 Remote Monitoring and Management (RMM) sob o pretexto de convites para reuniões, iscas com tema PDF, avisos de atualização de software e outros conteúdos de eng",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
-      "published": "2026-09-30T16:32:59+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOOpLuI3TSRRvKO7zux2AsJKVNjC36RcaAJCYelekCSQRhpMSABekI8kmMGLZRBZN2biNqDGyKYY_0AqsXb2PMKS6M3sjeLBlt7UQ_IWhXPQ3_q9DGhetIgFeGkF1d_ZE-l2HZPTDID5FkqdLsv3G_wJ-Yckb-Q2I6FdCLo3-AS-pPbCIDRfgFiRzofpaA/s1600/windows-rmm.jpg"
-    },
-    {
-      "title": "Os invasores abusam do MSP360 para implantar o ScreenConnect em ataques de phishing com RMM duplo - The Hacker News",
-      "summary": "Atacantes abusam do MSP360 para implantar o ScreenConnect em ataques de phishing com RMM duplo The Hacker News",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1xc2FqZzlWbGxZT3lUcVdPUUFic1hTU1prTW42STBDMWhkWHdnTm1ZQTgxdzlGR0lHbHE5M2lYdV9kOU9jLU5JN3QwZ3h6MVZic3hQNmE2b3gtMEs4QjdIbDJSTVhhMjhNTVRYNzVoSjN0a0pCc2lIOFluOA?oc=5",
-      "published": "2026-09-30T16:32:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "CISA alerta sobre falha crítica de RCE de pré-autenticação no MikroTik RouterOS",
-      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) está alertando sobre uma nova vulnerabilidade crítica no MikroTik RouterOS que pode levar à execução remota de código ou causar uma condição de negação de serviço. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
-      "published": "2026-09-30T15:49:29+00:00",
-      "image": ""
-    },
-    {
-      "title": "Cisco alerta sobre invasores que exploram desvio crítico de autenticação no SD-WAN Manager",
-      "summary": "Os invasores estão explorando uma nova falha crítica de dia zero no Cisco Catalyst SD-WAN Manager, o sistema que as empresas usam para gerenciar suas redes Cisco SD-WAN, disse a Cisco em um comunicado em 30 de setembro. A falha, CVE-2026-76504, pode permitir q",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
-      "published": "2026-09-30T15:24:54+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDRBMRmTwQer5G9fB3V6UvczV_QEpVLnIpRMEjpkiSKOC1vvem-ZkM9zP2vgBIYDlH-jveY5oeV2qcYJ2YiVD1-z1q4bJNBrPYpewyUqOOgbl89xV3JCsQeor1fhrWLS6EEvtNCIHlyuNB8jRnDzqdO9bQZ4hNN0yvEE6ceXw0A43onar4xorpsnM1qog/s1600/cisco-admin.jpg"
-    },
-    {
-      "title": "Cisco alerta sobre invasores que exploram desvios críticos de autenticação no SD-WAN Manager - The Hacker News",
-      "summary": "Cisco alerta sobre invasores que exploram desvio crítico de autenticação no SD-WAN Manager The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CN3J1UGk5cXhTaFNFVFRqeEZ5WXNoemRrZWp1TzloOEQ3RW9mS2FRUTBnUlJvR3JnbWVCbVZvckRXcFVDLTJoXzlDZlFtbTlaWGhEMFpKYXlMRk5kb0xfQ0hQMDBCWmNhUC1DcVo1LTJFWWQtME9KUllUSWxLZm8?oc=5",
-      "published": "2026-09-30T15:24:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Star Blizzard da Rússia abandona ClickFix para ampliar rede de phishing",
-      "summary": "O ator APT está a usar uma nova tática, apelidada de “RedFlick”, contra alvos ligados à Ucrânia, como ONG, grupos de reflexão e jornalistas, para implantar a sua backdoor CosmicPulse.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-ditches-clickfix-widen-phishing-net",
-      "published": "2026-09-30T15:02:25+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6f6d60565804fe81/6abcff0189b51bddd40e0d6e/snowflakes-Ulrick-T-Alamy.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Atacantes abusam de GPTs personalizados do ChatGPT para entregar RAT por meio de iscas ClickFix",
-      "summary": "Os agentes de ameaças estão abusando dos GPTs personalizados do ChatGPT para disfarçá-los como ofertas de produtos legítimas e direcionar vítimas inocentes a sites maliciosos que empregam iscas ClickFix para entregar malware. A Huntress, que observou a ativida",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
-      "published": "2026-09-30T15:00:15+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-E2KBc2Kl1xfsJ_ayeCwrbYODEJELskOif8C_YQFyt7DoGklZczzFD3IetvE9mFBUeQN9SQWCE41WtJA-NkE6dya1xAOznACZzeRCMRhvfSQaGipfmD-z1F2rWFPFGLvYSJwrfKhUrbdzwMc_b4OkpTA8huBozpABL2OBcxCM1cod7Hvr0eH23GgE1sEo/s1600/custom-gpt.jpg"
-    },
-    {
-      "title": "Atacantes abusam de GPTs personalizados do ChatGPT para fornecer RAT por meio de iscas ClickFix - The Hacker News",
-      "summary": "Atacantes abusam de GPTs personalizados do ChatGPT para entregar RAT via ClickFix Lures The Hacker News",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZWRmTmFtNjRVZWlaSTdwVkZidTlqTU9HMm4yOVBhTjBueklsbGxiRmhSUTFMYW9vQnZmQ2ltaTNaUENCMjd4M2dGOUVFejNWMjlBTm5sUTRPWUQ1TjdTZGRSTmxRQjFMcU5UTGt4QmV6VENPdDlZRVhrOFRDc0Q3YkN0NA?oc=5",
-      "published": "2026-09-30T15:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Cisco alerta sobre novo SD-WAN zero-day explorado em ataques",
-      "summary": "A Cisco lançou atualizações de segurança para resolver um dia zero crítico no Catalyst SD-WAN Manager (rastreado como CVE-2026-76504) que os invasores estão explorando ativamente para escalar para privilégios de administrador. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
-      "published": "2026-09-30T14:46:40+00:00",
-      "image": ""
-    },
-    {
-      "title": "Google: a IA está mudando o ritmo e o perfil da descoberta de vulnerabilidades",
-      "summary": "A análise do Google descobriu que as vulnerabilidades descobertas pela IA têm maior probabilidade de permitir a execução remota de código. A postagem Google: a IA está mudando o ritmo e o perfil da descoberta de vulnerabilidades apareceu pela primeira vez na S",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/google-ai-is-changing-the-pace-and-profile-of-vulnerability-discovery/",
-      "published": "2026-09-30T14:05:58+00:00",
       "image": ""
     }
   ]
