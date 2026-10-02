@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-01T18:30:06.011923+00:00",
+  "updated_at": "2026-10-02T00:54:40.141960+00:00",
   "items": [
+    {
+      "title": "Fortinet alerta sobre falha crítica do FortiMail explorada em ataques de dia zero",
+      "summary": "A Fortinet está alertando os clientes sobre uma vulnerabilidade crítica do FortiMail, rastreada como CVE-2026-104286, que está sendo ativamente explorada em ataques de dia zero para executar códigos ou comandos não autorizados em dispositivos vulneráveis. [...",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
+      "published": "2026-10-01T22:42:49+00:00",
+      "image": ""
+    },
+    {
+      "title": "Suposto mentor do KillSec Ransomware, um jovem de 16 anos",
+      "summary": "As autoridades policiais de vários países colaboraram para desmantelar uma operação de crime cibernético que fez cerca de 500 vítimas em todo o mundo nos últimos dois anos.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old",
+      "published": "2026-10-01T21:37:50+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte0fa3e38d4138a30/6abed0fa51ca57ceead99604/europol_PixelBiss_shutterstock_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Microsoft diz que os agentes de ameaças estão à frente na corrida inicial da IA",
+      "summary": "A Microsoft afirma que os ciberataques estão atualmente se beneficiando da inteligência artificial mais rapidamente do que os defensores, permitindo que os agentes de ameaças acelerem a descoberta de vulnerabilidades, o desenvolvimento de malware e as atividad",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
+      "published": "2026-10-01T19:32:47+00:00",
+      "image": ""
+    },
     {
       "title": "Zero Trust Creator afirma que o modelo se mantém firme contra ataques assistidos por IA",
       "summary": "Quinze anos depois de criar a estrutura, John Kindervag insiste que a confiança zero ainda funciona na era da IA ​​– se você fizer a implementação correta. A postagem Zero Trust Creator afirma que o modelo se mantém firme contra ataques assistidos por IA apare",
@@ -47,10 +74,10 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbdAzWwJ7WC6PL7vtBZDUWfVyYu9iIBlT3X5gZn-Yl9aRuZAEeW3RjEU81RQWsvH_7og6v7-somVgG-fR35drKy6bxLMcHdpJQAi6ydXw-m3oMxZ1hlDC7kr8Wsu0dOfRt6ZLEasAsYNGq-pzmQiBNWMbEBzqa9zYdAu16NtgIfDe3PpOvCVzGj6yFqmet/s1600/wordpress-exploit.jpg"
     },
     {
-      "title": "WordPress Backdoor se reconstrói após limpeza usando arquivos, banco de dados e memória compartilhada - thehackernews.com",
-      "summary": "O backdoor do WordPress se reconstrói após a limpeza usando arquivos, banco de dados e memória compartilhada thehackernews.com",
+      "title": "Backdoor do WordPress se reconstrói após limpeza usando arquivos, banco de dados e memória compartilhada – The Hacker News",
+      "summary": "WordPress Backdoor se reconstrói após limpeza usando arquivos, banco de dados e memória compartilhada The Hacker News",
       "category": "DEFESA",
-      "source": "thehackernews.com",
+      "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5ZU4zTUE5aVMwYUxlQ0pVYUtXeXRyTXFQeWNFblBXT3BPc2M2MnAzRHVZT3U5dGJ4bGkzZ3JSc21UUzhVRWtmX09jVkR5Mlc5b2wtSnhOSEtjYWZhVVcxQkI4VFVzWTJyazRWNXd0MVY1M2ZDeGxpN2kzZEFHUQ?oc=5",
       "published": "2026-10-01T14:37:00+00:00",
       "image": ""
@@ -134,33 +161,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/",
       "published": "2026-10-01T13:15:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Um ano depois: a IA soberana e a luta pela escolha",
-      "summary": "A soberania da IA ​​não é um jogo de soma zero, mas muitos governos agora acreditam que sim. A resposta da Cloudflare: mais modelos locais de código aberto, ferramentas de segurança independentes de modelo e um compromisso de oferecer opções genuínas às nações",
-      "category": "CLOUD & IA",
-      "source": "Cloudflare Security",
-      "url": "https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
-      "published": "2026-10-01T13:04:19+00:00",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M3TES95GDNHB8645HHYQHR1G.png"
-    },
-    {
-      "title": "Warlock Ransomware atinge grandes organizações espanholas e portuguesas",
-      "summary": "Um ator chinês de ameaças de um ano parece uma gangue do crime cibernético, age como uma APT associada ao Estado e ataca organizações em lugares inesperados.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese",
-      "published": "2026-10-01T13:00:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9bb24e8bd32cc751/6abd41d4a6381712feda02db/Warlock-Grandfailure-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Vulnerabilidade do Zimbra explorada em estado selvagem antes da divulgação pública",
-      "summary": "Sob certas condições, o CVE-2026-73570 pode ser explorado através de e-mails especialmente criados, sem interação do usuário. A postagem Vulnerabilidade do Zimbra explorada em estado selvagem antes da divulgação pública apareceu pela primeira vez na SecurityWe",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/zimbra-vulnerability-exploited-in-the-wild-prior-to-public-disclosure/",
-      "published": "2026-10-01T12:55:57+00:00",
       "image": ""
     }
   ]
