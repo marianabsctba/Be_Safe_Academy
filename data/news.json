@@ -1,166 +1,166 @@
 {
-  "updated_at": "2026-10-02T09:55:51.693011+00:00",
+  "updated_at": "2026-10-02T17:56:23.392590+00:00",
   "items": [
     {
-      "title": "Warlock expande exploração do SharePoint em ataques a infraestruturas críticas",
-      "summary": "O grupo de hackers com sede na China tem explorado vulnerabilidades do SharePoint desde julho de 2025. O post Warlock expande a exploração do SharePoint em ataques a infraestruturas críticas apareceu pela primeira vez na SecurityWeek.",
+      "title": "GitLab corrige falha crítica do gateway AI 9.9, permitindo a execução de comandos em servidores auto-hospedados",
+      "summary": "Uma falha crítica no AI Gateway do GitLab poderia permitir que um usuário logado com acesso à Duo Agent Platform executasse comandos no gateway sob certas condições, disse o GitLab em um comunicado. O gateway é o serviço que conecta uma instância do GitLab aos",
       "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/warlock-expands-sharepoint-exploitation-in-critical-infrastructure-attacks/",
-      "published": "2026-10-02T09:34:41+00:00",
-      "image": ""
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+      "published": "2026-10-02T17:33:31+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXhnbLdlAtkMBrrXYLiOxfbEdXI4PrEIq6dy3SL8Xa5SzPF6if9sf8GGu4PtkUTI3EYQHqBde4cDp4Y60OjgQBmqtZHTlL_gvgvlxNSeZ6nrRnriOmH3m23vq7f2bpylilVl39c_X-RNpvYQlRrC91gU_oHbk6e_ZbZ-7_fglpsQCFoLFp3sHkcn44960/s1600/gitlab-rce.jpg"
     },
     {
-      "title": "Conta X da Microsoft hackeada em esquema de crypto pump-and-dump",
-      "summary": "Na quinta-feira, invasores desconhecidos sequestraram a conta oficial da Microsoft no X, que tem mais de 13 milhões de seguidores, no que parecia ser um esquema de bombeamento e despejo que promove um token criptográfico. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
-      "published": "2026-10-02T09:29:56+00:00",
-      "image": ""
-    },
-    {
-      "title": "Agentes de IA direcionaram injeção de SQL em sites governamentais dos EUA e do Canadá",
-      "summary": "Os ataques tiveram como alvo o Departamento de Educação dos EUA e a Biblioteca e Arquivos do Canadá, e os pesquisadores vincularam alguns agentes à OpenAI. A postagem Agentes de IA direcionados à injeção de SQL em sites do governo dos EUA e do Canadá apareceu ",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ai-agents-aimed-sql-injection-at-us-and-canadian-government-sites/",
-      "published": "2026-10-02T08:38:46+00:00",
-      "image": ""
-    },
-    {
-      "title": "Explorado Fortinet FortiMail Zero-Day pede ação urgente",
-      "summary": "CVE-2026-104286 é uma vulnerabilidade de passagem de caminho de gravidade crítica que pode permitir que invasores gravem arquivos arbitrários no sistema. A postagem Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action apareceu pela primeira vez em Sec",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/",
-      "published": "2026-10-02T08:07:33+00:00",
-      "image": ""
-    },
-    {
-      "title": "A proteção avançada do Android 17 bloqueia serviços de acessibilidade para ferramentas de acessibilidade verificadas",
-      "summary": "O Google anunciou uma nova medida de segurança que limita o acesso aos serviços de acessibilidade do Android a aplicativos verificados classificados como Ferramentas de Acessibilidade quando a Proteção Avançada está ativada. Com aplicativos Android maliciosos ",
+      "title": "Antino Backdoor usa Outlook e OneDrive para C2 na campanha de espionagem China-Nexus",
+      "summary": "As organizações governamentais e políticas em toda a Ásia tornaram-se alvo de uma nova campanha orquestrada por um actor ameaçador do nexo com a China. A atividade, que tem como alvo organizações governamentais e políticas em Taiwan, Índia, Filipinas, Camboja,",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
-      "published": "2026-10-02T08:01:30+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5MS0sgdeAX_o_HWccABZaieMupy9x1vp2YHXeUfCod9bQMOAfEufGcm59eXhz4cQnwur_AjUhL1ER6FkR4nacwK2pn8K8ojfyZ254B_1Jfjk1OXwBi4VzqhPXgHukmnvVP5ItRHUeez8TcJVXvPlXRBIj0-h6YrI0rhn1G6RFyeZPT9jJf6y4Ng8D_1OD/s1600/android17.jpg"
+      "url": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
+      "published": "2026-10-02T17:33:16+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE3s79KuB4kHE3Kf6kjA84HqdcQ2TTVyJCgIkLcSnpbMr6vCwjaLjJVE1KiXT2lZfcx_CbKlHjiX9PrEppf53uaTvQ_Vyicl447mGIkdz1ZOzmGR1hPJzgODM2J_lnsbKPhTBvvTgdDcSS4V1JzJ-feSpyJFDyDkKS0BfK7AXTCNWaL9DZ60tmWVysyVo0/s1600/ms-cyber.jpg"
     },
     {
-      "title": "Falha crítica de dia zero do FortiMail explorada em ataques permite gravações de arquivos arbitrários não autenticados",
-      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA), na quinta-feira, adicionou uma falha crítica de segurança que afetava o Fortinet FortiMail ao seu catálogo de Vulnerabilidades Exploradas Conhecidas (KEV), após relatos de exploração ativa.",
+      "title": "Falhas do Dell CSM permitem acesso de administrador não autenticado e raiz em nós do Kubernetes",
+      "summary": "A Dell lançou atualizações de segurança para solucionar diversas falhas críticas de segurança nos Dell Container Storage Modules (CSM) que podem ser exploradas por malfeitores para assumir o controle de sistemas suscetíveis. As vulnerabilidades estão listadas ",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
-      "published": "2026-10-02T05:49:50+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhcZguz-U3FsSD6t4YQ45EeFbgnWAy9lM28OAFydsLXZYzOS00aOD7pxUZcgvLMfMAO3SJV_Amu9SoNezLNQOvx823Z92CpqC5ow9XO3d7HJhEKZlwQt4H4Z7kirDwGcSrUyi1ONs_PuULNYjEjzae2c1mncDviOT9iqxD-PhmXCYpulTUNO2rtW5c9AAx/s1600/fortimail.jpg"
+      "url": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+      "published": "2026-10-02T17:02:12+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiypcfC3W6keUc31zSJympZfpI6eLwDhyphenhyphen4uy_0M3VFljfoSn2pjzBmS3yyAZTzILPxi_sXeOx2jyeu6mdSPKqjiFv7LAMd2mn6Q8GvIRq6yVXUoQm5MiXeEs96i9IT-ZCP2W7hAzR08B9JOuOJv8NNI7o7DfCSa7cplzrsT_x_0R0dPVSQxKmdLP8NvAsnp/s1600/dell.jpg"
     },
     {
-      "title": "Falha crítica de dia zero do FortiMail explorada em ataques permite gravações de arquivos arbitrários não autenticados - The Hacker News",
-      "summary": "Falha crítica de dia zero do FortiMail explorada em ataques permite arquivo arbitrário não autenticado, escreve The Hacker News",
+      "title": "Incidentes Kiteworks e Citrix mostram desafios de resposta de dia zero",
+      "summary": "Uma empresa disse aos clientes para desligarem sua plataforma de proteção de dados durante um período de nove horas, enquanto a outra permaneceu em silêncio sobre os ataques relatados antes de lançar um patch para seu produto.",
       "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RZVp1U1loQnRXRzNNX0IwdnlZdzlhTVItaFpSblNjd0hZTEZ4VFctSGZEZDhNNWUxenBpZVFKUDBLZDZmSjJPUWFUdDlmNmJ3RG1iNC1ZNW5KSWw4ZkpkaW1zUER2LVpfelpUSzFIa1ZGMzBJYlV3MDQwYw?oc=5",
-      "published": "2026-10-02T05:49:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Fortinet alerta sobre falha crítica do FortiMail explorada em ataques de dia zero",
-      "summary": "A Fortinet está alertando os clientes sobre uma vulnerabilidade crítica do FortiMail, rastreada como CVE-2026-104286, que está sendo ativamente explorada em ataques de dia zero para executar códigos ou comandos não autorizados em dispositivos vulneráveis. [...",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
-      "published": "2026-10-01T22:42:49+00:00",
-      "image": ""
-    },
-    {
-      "title": "Suposto mentor do KillSec Ransomware, um jovem de 16 anos",
-      "summary": "As autoridades policiais de vários países colaboraram para desmantelar uma operação de crime cibernético que fez cerca de 500 vítimas em todo o mundo nos últimos dois anos.",
-      "category": "AMEAÇAS",
       "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old",
-      "published": "2026-10-01T21:37:50+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte0fa3e38d4138a30/6abed0fa51ca57ceead99604/europol_PixelBiss_shutterstock_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale"
+      "url": "https://www.darkreading.com/cybersecurity-operations/kiteworks-citrix-incidents-challenges-zero-day-response",
+      "published": "2026-10-02T16:56:30+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3f39295ab2cc8617/6abec652493aca7db2e138d1/hear-no-evil-see-no-evil-monkeys-robert_lemos.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Microsoft diz que os atores de ameaças estão à frente na corrida inicial da IA",
-      "summary": "A Microsoft afirma que os ciberataques estão atualmente se beneficiando da inteligência artificial mais rapidamente do que os defensores, permitindo que os agentes de ameaças acelerem a descoberta de vulnerabilidades, o desenvolvimento de malware e as atividad",
+      "title": "SWIFT Banking & Government Middleware permite RCE",
+      "summary": "Corrija vulnerabilidades de middleware agora para evitar explorações de MFA baseadas em hardware em ambientes ultrassensíveis.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/swift-banking-govt-middleware-rce",
+      "published": "2026-10-02T16:27:54+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt20cb2cd941ab8738/6abfc2b68e913fc976ab5ea7/USB-years-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "GitLab alerta sobre vulnerabilidade crítica de RCE no serviço AI Gateway",
+      "summary": "O GitLab alertou hoje os clientes para corrigirem imediatamente uma vulnerabilidade crítica do AI Gateway que poderia permitir que invasores executassem comandos arbitrários em instâncias vulneráveis. [...]",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
-      "published": "2026-10-01T19:32:47+00:00",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
+      "published": "2026-10-02T16:20:05+00:00",
       "image": ""
     },
     {
-      "title": "Zero Trust Creator afirma que o modelo se mantém firme contra ataques assistidos por IA",
-      "summary": "Quinze anos depois de criar a estrutura, John Kindervag insiste que a confiança zero ainda funciona na era da IA ​​– se você fizer a implementação correta. A postagem Zero Trust Creator afirma que o modelo se mantém firme contra ataques assistidos por IA apare",
+      "title": "A sua organização está pronta para a era da responsabilidade de IA de 2027?",
+      "summary": "As organizações podem enfrentar um acerto de contas com a inteligência artificial (IA) no próximo ano. Omdia e Gartner avaliam como enfrentar os desafios futuros de governança, segurança e valor.",
+      "category": "CLOUD & IA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-",
+      "published": "2026-10-02T16:01:22+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta6129261e6e03886/69fe1d8aac518193326b56b8/AI_orchestration_NicoElNino_Alamy.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "É justo culpar a IA 'desonesta' pelas falhas de segurança?",
+      "summary": "A terminologia \"Rogue AI\" antropomorfiza os LLMs e transfere a responsabilidade pelo risco dos fornecedores. Os defensores devem tratar os agentes como sistemas de software não confiáveis ​​e não determinísticos, e não como seres sencientes com intenções malic",
+      "category": "CLOUD & IA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/insider-threats/blame-rogue-ai-security-failures",
+      "published": "2026-10-02T15:51:33+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt51b569a789927083/6abe888c953215e732ad4e3b/accountability-wildpixel-GettyImages-2189491114.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "EUA sancionam membros da gangue Tren de Aragua em repressão a hackers em caixas eletrônicos",
+      "summary": "O Departamento do Tesouro dos EUA sancionou oito membros da gangue venezuelana Tren de Aragua (TdA) por seu papel no roubo de milhões de dólares em ataques de jackpot em caixas eletrônicos nos Estados Unidos. [...]",
       "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/zero-trust-creator-says-model-holds-firm-against-ai-assisted-attacks/",
-      "published": "2026-10-01T18:00:00+00:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
+      "published": "2026-10-02T15:20:53+00:00",
       "image": ""
     },
     {
-      "title": "Osavul arrecada US$ 10 milhões para detectar intenções hostis em domínios cibernéticos e físicos",
-      "summary": "A empresa híbrida de inteligência de risco Osavul levantou US$ 10 milhões em uma rodada de financiamento da Série A liderada pela 33N Ventures. A postagem Osavul consegue US$ 10 milhões para detectar intenções hostis em domínios físicos e cibernéticos apareceu",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/osavul-lands-10-million-to-spot-hostile-intent-across-cyber-physical-domains/",
-      "published": "2026-10-01T17:16:41+00:00",
-      "image": ""
-    },
-    {
-      "title": "Polícia prende jovem de 16 anos suspeito de executar KillSec, apreender site de vazamento de ransomware e servidores",
-      "summary": "A polícia da Espanha prendeu um jovem de 16 anos que os investigadores suspeitam de comandar o grupo de ransomware KillSec. KillSec é acusado de roubar dados de organizações e ameaçar publicá-los em seu site de vazamento, a menos que pagassem. O jovem de 16 an",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
-      "published": "2026-10-01T16:55:57+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy6XYYOXNZNjc51viw5FvCk49pWIXCCRS6yr_hl0ZKdwhBWRfYrCQ7bM6AJZJdmI_W3AEz1V3X0DAP6k39KfgjlKFfB5JcFaKN9zzIl1-7c49Vnuaz55yhRXjdmY5K2kIPuY_-7624KyVHqkHzikJIi11iClljnXv_3i2X21JiRCMU8ElmiHiZdHVQ7ws/s1600/killsec-ransomware.jpg"
-    },
-    {
-      "title": "ThreatsDay: cadeia de dia zero alimentada por IA, 543 mil segredos ao vivo, RCE de inspeção de modelo e mais 13 histórias",
-      "summary": "Esta semana, as palavras úteis são enfadonhas: inspecionar, armazenar em cache, compilar, armazenar, confiar. Cada um parece inofensivo. Cada um pode se tornar um caminho de ataque quando um sistema faz um pouco mais do que as pessoas esperam. Uma verificação ",
+      "title": "Em outras notícias: Bugs de falsificação do iCloud de US$ 15 mil, phishing de especialistas em políticas de IA, Adblocker espia bate-papos de IA",
+      "summary": "Histórias dignas de nota que podem ter passado despercebidas: Kiteworks corrige mais de 100 vulnerabilidades, Microsoft publica 2026 Digital Defense Report, AI encontra 24 falhas em aplicativos Android. A postagem Em outras notícias: Bugs de falsificação de US",
       "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
-      "published": "2026-10-01T16:45:38+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOZPv0LS8-qPBgL_d1m8BLNikw8psPt9qtB_HiFNoYnVwBacYvwz4DdEixukdlHcy7IXmUB9dI9E_Hcx48HJIL7sQzmDeextP-Y_tHO9SX51i_SditMkVsRgWxyMekufW3yZFn2jI9nf29y3JEM2a_yFv8iTLDb6d3r1roNsea_Yk5TWCiMcvkmE5ZbP6B/s1600/oct-threatsday.jpg"
-    },
-    {
-      "title": "WordPress Backdoor se reconstrói após limpeza usando arquivos, banco de dados e memória compartilhada",
-      "summary": "Pesquisadores de segurança cibernética lançaram luz sobre um compromisso do WordPress no qual os agentes de ameaças implantaram vários mecanismos de persistência para garantir que a carga final continuasse retornando sem ter que infectar o site novamente. O ba",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
-      "published": "2026-10-01T14:37:35+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbdAzWwJ7WC6PL7vtBZDUWfVyYu9iIBlT3X5gZn-Yl9aRuZAEeW3RjEU81RQWsvH_7og6v7-somVgG-fR35drKy6bxLMcHdpJQAi6ydXw-m3oMxZ1hlDC7kr8Wsu0dOfRt6ZLEasAsYNGq-pzmQiBNWMbEBzqa9zYdAu16NtgIfDe3PpOvCVzGj6yFqmet/s1600/wordpress-exploit.jpg"
-    },
-    {
-      "title": "WordPress Backdoor se reconstrói após limpeza usando arquivos, banco de dados e memória compartilhada – The Hacker News",
-      "summary": "WordPress Backdoor se reconstrói após limpeza usando arquivos, banco de dados e memória compartilhada The Hacker News",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5ZU4zTUE5aVMwYUxlQ0pVYUtXeXRyTXFQeWNFblBXT3BPc2M2MnAzRHVZT3U5dGJ4bGkzZ3JSc21UUzhVRWtmX09jVkR5Mlc5b2wtSnhOSEtjYWZhVVcxQkI4VFVzWTJyazRWNXd0MVY1M2ZDeGxpN2kzZEFHUQ?oc=5",
-      "published": "2026-10-01T14:37:00+00:00",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/in-other-news-15k-icloud-spoofing-bugs-ai-policy-experts-phished-adblocker-spies-on-ai-chats/",
+      "published": "2026-10-02T14:30:00+00:00",
       "image": ""
     },
     {
-      "title": "Conversas de hackers: Rob Juncker, uma batida na porta e uma bússola moral",
-      "summary": "Rob Juncker é diretor de produtos e tecnologia da Mimecast. Ele é um hacker? “Inequivocamente sim”, diz ele. O post Conversas de hackers: Rob Juncker, uma batida na porta e uma bússola moral apareceu pela primeira vez na SecurityWeek.",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/hacker-conversations-rob-juncker-a-knock-at-the-door-and-a-moral-compass/",
-      "published": "2026-10-01T14:30:00+00:00",
+      "title": "O ponto cego do EDR: três maneiras pelas quais os ataques ao navegador evitam a telemetria do endpoint",
+      "summary": "Os ataques baseados em navegador podem roubar sessões, abusar de extensões ou manipular usuários sem criar os artefatos de endpoint que o EDR foi projetado para detectar. NordLayer explica três maneiras pelas quais os ataques podem escapar da telemetria de end",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
+      "published": "2026-10-02T14:00:10+00:00",
       "image": ""
     },
     {
-      "title": "As empresas lutam para se preparar para ameaças de IA e quânticas, afirma PwC",
-      "summary": "O inquérito da PwC descobriu que apenas 22% dos líderes utilizariam IA totalmente autónoma para defesa cibernética, enquanto apenas 21% estão a implementar medidas de segurança resistentes ao quantum. A postagem As empresas lutam para se preparar para ameaças ",
-      "category": "AMEAÇAS",
+      "title": "Backlogs de vulnerabilidade são um problema de propriedade",
+      "summary": "As organizações não precisam de melhores scanners de vulnerabilidade; eles precisam saber quem é o proprietário de seus ativos e quem tem autoridade e capacidade para realmente consertá-los.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/vulnerability-backlogs-ownership-problem",
+      "published": "2026-10-02T14:00:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd7af7ba810dddd22/6abeaceed099771c4068c437/key_-_igoriss-getty-1276829944.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Usuários do macOS visados ​​pelo falso instalador do Zoom que carrega o backdoor do CloudSyncD",
+      "summary": "O conta-gotas \"carrega um Mach-O universal completo dentro de si, cerca de 756 KB na compilação de desenvolvimento, e o extrai em tempo de execução. A postagem Usuários do macOS visados ​​por falso instalador de zoom carregando backdoor CloudSyncD apareceu pel",
+      "category": "CLOUD & IA",
       "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/enterprises-struggle-to-prepare-for-ai-and-quantum-threats-pwc-says/",
-      "published": "2026-10-01T14:30:00+00:00",
+      "url": "https://www.securityweek.com/macos-users-targeted-by-fake-zoom-installer-carrying-cloudsyncd-backdoor/",
+      "published": "2026-10-02T13:15:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Implantes maliciosos de Linux imitam produtos de segurança de correio asiático",
+      "summary": "Um trio de backdoors recém-descobertos andam e grasnam como soluções de ponta legítimas, por isso é difícil dizer que não são.",
+      "category": "DEFESA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security",
+      "published": "2026-10-02T13:00:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6ae8adbdedb5109a/6abeaf448f0ddb6d837f64ef/Fake_mustache-Liudmila_Chernetska-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Siga o tópico: um novo painel para investigar abuso de conta",
+      "summary": "Os fraudadores estão usando cada vez mais a IA para contornar as verificações de segurança sem estado. O novo painel de proteção contra abuso de contas da Cloudflare usa análise de estado e IDs de usuário com hash gerados na borda para ajudar as equipes a inve",
+      "category": "CLOUD & IA",
+      "source": "Cloudflare Security",
+      "url": "https://blog.cloudflare.com/account-abuse-protection-dashboard/",
+      "published": "2026-10-02T13:00:00+00:00",
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M3Y5S9YWA3J6HWBGZPXJB4KY.01M3Y5SAP93PZ8TV3HFDNVRWHS.png"
+    },
+    {
+      "title": "Túneis rápidos protegidos: autenticação simples e sem conta para seu próximo projeto de desenvolvimento",
+      "summary": "Os Quick Tunnels agora suportam autenticação de e-mail. Adicione --allowed-mail a um comando cloudflared e apenas os endereços ou domínios listados poderão acessar seu aplicativo local. Nenhuma conta Cloudflare é necessária em nenhum dos lados.",
+      "category": "CLOUD & IA",
+      "source": "Cloudflare Security",
+      "url": "https://blog.cloudflare.com/protected-quick-tunnels/",
+      "published": "2026-10-02T13:00:00+00:00",
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M3WEQNPRWNJ6R5MEB2300BRQ.png"
+    },
+    {
+      "title": "A Dell pede aos administradores que corrijam falhas de CSM de gravidade máxima o mais rápido possível",
+      "summary": "A Dell corrigiu duas vulnerabilidades de gravidade máxima nos Container Storage Modules (CSM) que conectam arrays de armazenamento corporativo da Dell a ambientes Kubernetes. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
+      "published": "2026-10-02T12:37:40+00:00",
+      "image": ""
+    },
+    {
+      "title": "Crypto Scammers sequestram a conta X oficial da Microsoft",
+      "summary": "Os hackers usaram a conta, que tem 13 milhões de seguidores, para ampliar uma conta de criptomoeda com o tema Clippy. A postagem Crypto Scammers sequestram a conta X oficial da Microsoft apareceu pela primeira vez na SecurityWeek.",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/crypto-scammers-hijack-microsofts-official-x-account/",
+      "published": "2026-10-02T11:46:10+00:00",
       "image": ""
     }
   ]
