@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-10-02T00:54:40.141960+00:00",
+  "updated_at": "2026-10-02T09:55:51.693011+00:00",
   "items": [
+    {
+      "title": "Warlock expande exploração do SharePoint em ataques a infraestruturas críticas",
+      "summary": "O grupo de hackers com sede na China tem explorado vulnerabilidades do SharePoint desde julho de 2025. O post Warlock expande a exploração do SharePoint em ataques a infraestruturas críticas apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/warlock-expands-sharepoint-exploitation-in-critical-infrastructure-attacks/",
+      "published": "2026-10-02T09:34:41+00:00",
+      "image": ""
+    },
+    {
+      "title": "Conta X da Microsoft hackeada em esquema de crypto pump-and-dump",
+      "summary": "Na quinta-feira, invasores desconhecidos sequestraram a conta oficial da Microsoft no X, que tem mais de 13 milhões de seguidores, no que parecia ser um esquema de bombeamento e despejo que promove um token criptográfico. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
+      "published": "2026-10-02T09:29:56+00:00",
+      "image": ""
+    },
+    {
+      "title": "Agentes de IA direcionaram injeção de SQL em sites governamentais dos EUA e do Canadá",
+      "summary": "Os ataques tiveram como alvo o Departamento de Educação dos EUA e a Biblioteca e Arquivos do Canadá, e os pesquisadores vincularam alguns agentes à OpenAI. A postagem Agentes de IA direcionados à injeção de SQL em sites do governo dos EUA e do Canadá apareceu ",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ai-agents-aimed-sql-injection-at-us-and-canadian-government-sites/",
+      "published": "2026-10-02T08:38:46+00:00",
+      "image": ""
+    },
+    {
+      "title": "Explorado Fortinet FortiMail Zero-Day pede ação urgente",
+      "summary": "CVE-2026-104286 é uma vulnerabilidade de passagem de caminho de gravidade crítica que pode permitir que invasores gravem arquivos arbitrários no sistema. A postagem Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action apareceu pela primeira vez em Sec",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/",
+      "published": "2026-10-02T08:07:33+00:00",
+      "image": ""
+    },
+    {
+      "title": "A proteção avançada do Android 17 bloqueia serviços de acessibilidade para ferramentas de acessibilidade verificadas",
+      "summary": "O Google anunciou uma nova medida de segurança que limita o acesso aos serviços de acessibilidade do Android a aplicativos verificados classificados como Ferramentas de Acessibilidade quando a Proteção Avançada está ativada. Com aplicativos Android maliciosos ",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
+      "published": "2026-10-02T08:01:30+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5MS0sgdeAX_o_HWccABZaieMupy9x1vp2YHXeUfCod9bQMOAfEufGcm59eXhz4cQnwur_AjUhL1ER6FkR4nacwK2pn8K8ojfyZ254B_1Jfjk1OXwBi4VzqhPXgHukmnvVP5ItRHUeez8TcJVXvPlXRBIj0-h6YrI0rhn1G6RFyeZPT9jJf6y4Ng8D_1OD/s1600/android17.jpg"
+    },
+    {
+      "title": "Falha crítica de dia zero do FortiMail explorada em ataques permite gravações de arquivos arbitrários não autenticados",
+      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA), na quinta-feira, adicionou uma falha crítica de segurança que afetava o Fortinet FortiMail ao seu catálogo de Vulnerabilidades Exploradas Conhecidas (KEV), após relatos de exploração ativa.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
+      "published": "2026-10-02T05:49:50+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhcZguz-U3FsSD6t4YQ45EeFbgnWAy9lM28OAFydsLXZYzOS00aOD7pxUZcgvLMfMAO3SJV_Amu9SoNezLNQOvx823Z92CpqC5ow9XO3d7HJhEKZlwQt4H4Z7kirDwGcSrUyi1ONs_PuULNYjEjzae2c1mncDviOT9iqxD-PhmXCYpulTUNO2rtW5c9AAx/s1600/fortimail.jpg"
+    },
+    {
+      "title": "Falha crítica de dia zero do FortiMail explorada em ataques permite gravações de arquivos arbitrários não autenticados - The Hacker News",
+      "summary": "Falha crítica de dia zero do FortiMail explorada em ataques permite arquivo arbitrário não autenticado, escreve The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RZVp1U1loQnRXRzNNX0IwdnlZdzlhTVItaFpSblNjd0hZTEZ4VFctSGZEZDhNNWUxenBpZVFKUDBLZDZmSjJPUWFUdDlmNmJ3RG1iNC1ZNW5KSWw4ZkpkaW1zUER2LVpfelpUSzFIa1ZGMzBJYlV3MDQwYw?oc=5",
+      "published": "2026-10-02T05:49:00+00:00",
+      "image": ""
+    },
     {
       "title": "Fortinet alerta sobre falha crítica do FortiMail explorada em ataques de dia zero",
       "summary": "A Fortinet está alertando os clientes sobre uma vulnerabilidade crítica do FortiMail, rastreada como CVE-2026-104286, que está sendo ativamente explorada em ataques de dia zero para executar códigos ou comandos não autorizados em dispositivos vulneráveis. [...",
@@ -20,7 +83,7 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte0fa3e38d4138a30/6abed0fa51ca57ceead99604/europol_PixelBiss_shutterstock_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Microsoft diz que os agentes de ameaças estão à frente na corrida inicial da IA",
+      "title": "Microsoft diz que os atores de ameaças estão à frente na corrida inicial da IA",
       "summary": "A Microsoft afirma que os ciberataques estão atualmente se beneficiando da inteligência artificial mais rapidamente do que os defensores, permitindo que os agentes de ameaças acelerem a descoberta de vulnerabilidades, o desenvolvimento de malware e as atividad",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
@@ -74,7 +137,7 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbdAzWwJ7WC6PL7vtBZDUWfVyYu9iIBlT3X5gZn-Yl9aRuZAEeW3RjEU81RQWsvH_7og6v7-somVgG-fR35drKy6bxLMcHdpJQAi6ydXw-m3oMxZ1hlDC7kr8Wsu0dOfRt6ZLEasAsYNGq-pzmQiBNWMbEBzqa9zYdAu16NtgIfDe3PpOvCVzGj6yFqmet/s1600/wordpress-exploit.jpg"
     },
     {
-      "title": "Backdoor do WordPress se reconstrói após limpeza usando arquivos, banco de dados e memória compartilhada – The Hacker News",
+      "title": "WordPress Backdoor se reconstrói após limpeza usando arquivos, banco de dados e memória compartilhada – The Hacker News",
       "summary": "WordPress Backdoor se reconstrói após limpeza usando arquivos, banco de dados e memória compartilhada The Hacker News",
       "category": "DEFESA",
       "source": "The Hacker News",
@@ -98,69 +161,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/enterprises-struggle-to-prepare-for-ai-and-quantum-threats-pwc-says/",
       "published": "2026-10-01T14:30:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Polícia desmantela gangue de ransomware KillSec supostamente liderada por jovem de 16 anos",
-      "summary": "Uma operação internacional de aplicação da lei apelidada de “Operação KillSwitch” apreendeu o site e os servidores de vazamento de dados da gangue de ransomware KillSec, levou a três prisões e identificou um jovem de 16 anos como o suposto administrador do gru",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
-      "published": "2026-10-01T14:25:14+00:00",
-      "image": ""
-    },
-    {
-      "title": "Polícia encerra KillSec Ransomware e identifica suposto líder adolescente",
-      "summary": "A polícia assumiu o controle do site de vazamento do KillSec e protegeu pelo menos 110 terabytes de dados roubados das vítimas. A postagem Polícia encerra KillSec Ransomware, identifica suposto líder adolescente apareceu pela primeira vez em SecurityWeek.",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/police-shut-down-killsec-ransomware-identify-alleged-teen-leader/",
-      "published": "2026-10-01T14:17:07+00:00",
-      "image": ""
-    },
-    {
-      "title": "O buraco do primeiro dia na arquitetura Zero Trust",
-      "summary": "Zero Trust pode verificar os usuários assim que eles forem estabelecidos, mas a integração cria uma lacuna onde as organizações devem decidir em quem confiar antes que exista uma autenticação forte. Specops explica por que a verificação de identidade deve come",
-      "category": "DEFESA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
-      "published": "2026-10-01T14:01:11+00:00",
-      "image": ""
-    },
-    {
-      "title": "Preparar os governos para uma era de risco cibernético interconectado",
-      "summary": "De acordo com o Relatório de Defesa Digital da Microsoft deste ano, as agências e serviços governamentais foram o setor mais impactado pelas ameaças cibernéticas em 2026, respondendo por 27% da atividade observada, acima dos 17% em 2025. A postagem Preparando ",
-      "category": "AMEAÇAS",
-      "source": "Microsoft Security",
-      "url": "https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/",
-      "published": "2026-10-01T14:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Insights do Relatório de Defesa Digital da Microsoft de 2026",
-      "summary": "Leia os destaques do Relatório de Defesa Digital da Microsoft de 2026, que reflete um ambiente de segurança que continua a crescer mais interconectado. A postagem Insights do Relatório de Defesa Digital da Microsoft de 2026 apareceu pela primeira vez no Blog d",
-      "category": "DEFESA",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/",
-      "published": "2026-10-01T14:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Kiteworks corrige vulnerabilidade de injeção de código de gravidade máxima",
-      "summary": "A empresa de software de compartilhamento seguro de arquivos Kiteworks lançou atualizações de segurança para solucionar 126 vulnerabilidades, incluindo uma falha de gravidade máxima que afeta sua solução de segurança Email Protection Gateway (EPG). [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
-      "published": "2026-10-01T13:51:08+00:00",
-      "image": ""
-    },
-    {
-      "title": "A IA mudou a velocidade de ataque, não os fundamentos de segurança",
-      "summary": "À medida que a IA acelera a descoberta e a exploração de vulnerabilidades, o chamado patching virtual ainda se resume a uma defesa profunda e a fundamentos sólidos de segurança de aplicativos. A postagem A IA mudou a velocidade de ataque, não os fundamentos de",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/",
-      "published": "2026-10-01T13:15:00+00:00",
       "image": ""
     }
   ]
