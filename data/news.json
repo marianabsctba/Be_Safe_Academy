@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-10-05T14:56:26.407262+00:00",
+  "updated_at": "2026-10-05T22:05:50.966777+00:00",
   "items": [
+    {
+      "title": "ClingSTUN transforma dispositivos IoT vulneráveis ​​em nós proxy",
+      "summary": "O backdoor do Linux explora 24 falhas conhecidas para comprometer dispositivos IoT e usa servidores STUN públicos legítimos para ocultar as comunicações.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes",
+      "published": "2026-10-05T21:25:08+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt233af9606aed0447/6ac404da1ba7958c12dbbcbc/stungun_Nikola_Fific_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Servidores Rejetto HFS agora verificados ativamente em busca de falhas críticas de RCE",
+      "summary": "Os hackers estão procurando ativamente por uma vulnerabilidade de chave de assinatura fraca do Rejetto HFS, rastreada como CVE-2026-61500, que permite falsificação de sessão, controle de conta e execução remota de código (RCE). [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
+      "published": "2026-10-05T20:20:05+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falha no Microsoft Exchange permite que invasores autenticados leiam caixas de correio de outros usuários",
+      "summary": "A Microsoft lançou atualizações de segurança fora de banda para solucionar uma falha de alta gravidade no Microsoft Exchange Server que poderia permitir que um invasor aumentasse privilégios sob certas condições. A vulnerabilidade, rastreada como CVE-2026-9694",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
+      "published": "2026-10-05T16:21:52+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBNa12GUjRngANug2kbws6i9X_HPN2PRVbOcxr7GtaXMKq9PloaCTD7DuYC8zZIcrg5Wa-F5pDv9y-00EMX4QWvovMz-ZWK5vNZ-gkIdEA7UiZQ1SqBCZof411VOQt6nQrvZCYxZpmzPA3hUeFia9KVP45Q1J1OPkiIH_Fhy5hoiOo9z6eYw1H16RgvKs5/s1600/ms-emails.jpg"
+    },
+    {
+      "title": "Hackers chineses se fazem passar por autoridades dos EUA para espionagem cibernética de IA",
+      "summary": "Um grupo de ameaças emergentes conhecido como TA419 estabeleceu relações profissionais aparentemente legítimas com especialistas em políticas de IA que trabalham para grupos de reflexão, universidades e organizações jurídicas dos EUA.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage",
+      "published": "2026-10-05T15:52:59+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf878ef49e6dc7feb/6ac3a43f41e90542981ec9b7/chinaiptheft_Pixels_Hunter_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Violação de dados do registro populacional da Dinamarca afeta 8,8 milhões de pessoas",
+      "summary": "O Registo Central da População (CPR) da Dinamarca alerta para uma violação de dados que expôs as informações pessoais de aproximadamente 8,8 milhões de indivíduos registados. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
+      "published": "2026-10-05T15:21:10+00:00",
+      "image": ""
+    },
     {
       "title": "Nova falha do Dell System Update permite que hackers obtenham privilégios de root",
       "summary": "A Dell alertou os clientes para corrigir uma vulnerabilidade crítica na ferramenta de implantação da interface de linha de comando (CLI) do System Update (DSU) o mais rápido possível. [...]",
@@ -26,6 +71,24 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
       "published": "2026-10-05T14:22:12+00:00",
+      "image": ""
+    },
+    {
+      "title": "⚡ Recapitulação semanal: NetScaler e FortiMail 0-Days, vazamentos de codificação de IA, Spectre v2 e prisões de ransomware",
+      "summary": "Um campo em branco. Um repositório público. Uma resposta a um e-mail. Uma caixa deixada exposta. Nada disto parece dramático, o que é em parte o problema. As ameaças desta semana continuam a encontrar influência em pequenas coisas que eram fáceis de ignorar. E",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
+      "published": "2026-10-05T14:20:43+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbylNkbHSjWFkh2Ms0FmUT7jm2Qp-l5l9XwzA-O0LeP6LLE2WY9Z5yTiZ6AjikPfdOuId00XC9R_m_HYap_zbOAxUpLNKMK8UAVGiQHr-1zb_IOLyuhyMo_dhlqB5SM6p9b5qabPdThNFnyaHBznmq3H66qlbHxPAzCSuA_glVaWuKcJy51sOkoZp7BIuf/s1600/infosec-recap.jpg"
+    },
+    {
+      "title": "⚡ Recapitulação semanal: NetScaler e FortiMail 0-Days, vazamentos de codificação de IA, Spectre v2 e prisões de ransomware - The Hacker News",
+      "summary": "⚡ Recapitulação semanal: NetScaler e FortiMail 0-Days, vazamentos de codificação de IA, Spectre v2 e prisões de ransomware The Hacker News",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPam5RZEtZamV2NWVIbnVyc1g2NWVBOGJDZlFXOU9oUEZGX3JCY3dsb0Zudjh5bGxoanpLSWxlbEw2VEJ1UVJweVFqWGdvVngwbnZqNG5ldmktWjBtZnQ1UXQ0c0llUVpxYzNMODBodkk1a0c2dVQ4S05taVA2RnhrUnFTYw?oc=5",
+      "published": "2026-10-05T14:20:00+00:00",
       "image": ""
     },
     {
@@ -83,84 +146,21 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeczuQyi5eCbsZFxILJKWiHZ8_JC8gnKqr2sExCgq_Dk-7879VVbd8qcA475L-uEn3X30CIyqn-iDilE7Sl9T5FM3XGFPU6LbyE7KUH8OpWTjlirCFq8EaY-MuielVGOXFuECLLpehX9R8HQrniMulUnAUd2f_uRbZ1Fget8hT0Tf19c1N-q06dtFpAZPj/s1600/botnet.jpg"
     },
     {
+      "title": "Realtek Jungle SDK Exploit tenta entregar Cling Botnet com C2 baseado em STUN - The Hacker News",
+      "summary": "Tentativas de exploração do Realtek Jungle SDK entregam Cling Botnet com C2 baseado em STUN The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zZjJGMVlnQ05faDg5enZVT0FPMXJHb045UTVpTGJXVFQ2WkF2Tk1YVWJ3T01KcFY3MnlveVJnLWFHUUNKWHZubEhFVTh1eUxHcmNvWTdrdjdaa0NtUFFXYmVYbkNlSjJ6ejJ0RjBzYlVTVUlraERuNkZ0RjNXa00?oc=5",
+      "published": "2026-10-05T11:46:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Exploração atinge vulnerabilidade Rejetto HFS descoberta pela IA",
       "summary": "CVE-2026-61500 permite que invasores recuperem a chave de assinatura do cookie de sessão e obtenham acesso administrativo e RCE. A postagem Exploração atinge a vulnerabilidade do Rejetto HFS descoberta pela IA apareceu pela primeira vez na SecurityWeek.",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/",
       "published": "2026-10-05T11:00:05+00:00",
-      "image": ""
-    },
-    {
-      "title": "Senado aprova projeto de lei bipartidário para fortalecer a segurança cibernética na saúde",
-      "summary": "Mais de 730 violações cibernéticas afetaram mais de 270 milhões de americanos no ano passado, custando em média US$ 10 milhões por violação. A postagem Senado aprova projeto de lei bipartidário para fortalecer a segurança cibernética na saúde apareceu pela pri",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/senate-passes-bipartisan-bill-to-strengthen-healthcare-cybersecurity/",
-      "published": "2026-10-05T10:42:19+00:00",
-      "image": ""
-    },
-    {
-      "title": "Apple planeja controles mais rígidos de acesso total ao disco do macOS sobre acesso a dados do agente AI",
-      "summary": "A Apple anunciou que está tomando medidas para reforçar os controles em torno de uma configuração do macOS chamada Full Disk Access (FDA) devido aos riscos de segurança representados por agentes de inteligência artificial (IA). “Alguns desenvolvedores estão us",
-      "category": "CLOUD & IA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
-      "published": "2026-10-05T10:38:50+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDBg5lUcW7uXfKt2vo4Pq5MQUxOty2Xq3pApCIyhUAuSpTzu1jR_CGkNNS2UkAKxYvqk4KCyP1Ehr0PYcW6xVolcSuSdfRPx4rSDDnkuAKaCkgBii_l7kH-s9u7oEhyK2FpvAnaTRWDV48t9XBXEv-MpUIWhBaZYIBx3CFY_zSUXxdw-3C5rB_30Y0VEtf/s1600/macos-ai.jpg"
-    },
-    {
-      "title": "Google interrompe programa de recompensa de bugs de código aberto em meio ao aumento de spam de IA",
-      "summary": "O Google agora suspendeu os envios para seu Programa de Recompensas de Vulnerabilidade de Software de Código Aberto (OSS VRP) após ser inundado por relatórios gerados por IA. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/",
-      "published": "2026-10-05T08:27:46+00:00",
-      "image": ""
-    },
-    {
-      "title": "Os invasores têm como alvo a falha Rejetto HFS que permite falsificação de sessão de administrador e RCE",
-      "summary": "Uma falha crítica de segurança que afeta o Rejetto HTTP File Server (HFS) está testemunhando tentativas ativas de exploração, de acordo com VulnCheck. A vulnerabilidade em questão é CVE-2026-61500 (pontuação CVSS: 9,3), um caso de falsificação de sessão decorr",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
-      "published": "2026-10-05T08:09:23+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTCvFj7lVSH1eLS0oYdxqBa4wQkNQvuemuCAL5XqwKueywAUl8Fg6zY-5UT9cdx3fZZ81DHX_emE9JXthW_OfH-axyWn3bE5CpCp4CDs4HREWjv_1uBtt5iJE947S-Bkn-4Mn1Shwt1kV9FF4RO9Wa7_4jmUtvbWrx2zs4-cdSg-FkUtxW-erVx2CXKhU3/s1600/hfs-rce-main.jpg"
-    },
-    {
-      "title": "Os invasores têm como alvo a falha Rejetto HFS que permite falsificação de sessão de administrador e RCE - The Hacker News",
-      "summary": "Os invasores têm como alvo a falha Rejetto HFS que permite falsificação de sessão de administrador e RCE The Hacker News",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTVR1Ukt0ZE1GTzNKX2VtV0U0Qk43akdfM2Y5OEd4QkpaRVJsYUo4X3VhZnBhVEJaZEJrclo2eWNwSUVrVE90LXVBX2wtS3M2dmpwbm9kTjJVeFhnYVFSZVVra2NWSVQwQkFwb3A2Z3pFb0UyeVd6WUt2UE03ZzBRVjVDaw?oc=5",
-      "published": "2026-10-05T08:09:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Suposto líder do ShinyHunters é preso na Jordânia",
-      "summary": "Conhecido como Rey, o suspeito estaria ajudando o FBI a identificar e localizar outros membros do grupo de extorsão. O post Suposto líder dos ShinyHunters preso na Jordânia apareceu pela primeira vez na SecurityWeek.",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/alleged-shinyhunters-leader-arrested-in-jordan/",
-      "published": "2026-10-05T07:16:53+00:00",
-      "image": ""
-    },
-    {
-      "title": "Novo NetScaler Zero-Day explorado em ataques direcionados pode derrubar implantações SAML off-line",
-      "summary": "A Citrix lançou atualizações de segurança para uma falha de segurança de alta gravidade no NetScaler ADC e no Citrix NetScaler Gateway que foi explorada como parte de ataques direcionados de dia zero. A vulnerabilidade, rastreada como CVE-2026-88779, carrega u",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
-      "published": "2026-10-05T06:40:19+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV4of0Q-gWaIOffgWXdEfAxmI1ENcyrpDSSDjBurAHSpUuAI8lASQI5wrUvL3Evb0iqA31rRywo51olFOzoWe_lQ9cwN7Sp5QQw_2h-y44n0Va4vwlRQZipZ5fkm98BRmTOoVDPTs8pUMW_ClnH2GlPobgQQ33rNzL8EBnBW84aacH3dLXdyyLW9bBEqG5/s1600/citrix-offline.jpg"
-    },
-    {
-      "title": "Exploração de dispositivos Citrix NetScaler Zero-Day Hits corrigidos dias antes",
-      "summary": "A Citrix confirmou que uma nova vulnerabilidade de dia zero, CVE-2026-88779, surgiu poucos dias depois de duas outras falhas exploradas terem sido corrigidas. A postagem Exploração de dispositivos Citrix NetScaler Zero-Day Hits corrigidos dias antes apareceu p",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/",
-      "published": "2026-10-05T05:14:48+00:00",
       "image": ""
     }
   ]
