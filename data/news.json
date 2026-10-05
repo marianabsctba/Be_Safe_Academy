@@ -1,6 +1,159 @@
 {
-  "updated_at": "2026-10-05T05:53:17.362485+00:00",
+  "updated_at": "2026-10-05T14:56:26.407262+00:00",
   "items": [
+    {
+      "title": "Nova falha do Dell System Update permite que hackers obtenham privilégios de root",
+      "summary": "A Dell alertou os clientes para corrigir uma vulnerabilidade crítica na ferramenta de implantação da interface de linha de comando (CLI) do System Update (DSU) o mais rápido possível. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
+      "published": "2026-10-05T14:53:06+00:00",
+      "image": ""
+    },
+    {
+      "title": "Google restringe recompensa por bugs de código aberto em meio a uma onda de relatórios automatizados inválidos",
+      "summary": "O Google parou temporariamente de aceitar relatórios de vulnerabilidade de produtos por meio de seu Programa de Recompensa de Vulnerabilidade de Software de Código Aberto (OSS VRP). A postagem Google Narrows Open Source Bug Bounty em meio a uma onda de relatór",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/",
+      "published": "2026-10-05T14:26:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Coreia do Sul investiga violações bancárias em meio a suspeitas de ataques alimentados por IA",
+      "summary": "A Comissão de Serviços Financeiros (FSC) da Coreia do Sul realizou uma reunião de emergência após uma série de ataques cibernéticos contra instituições financeiras no país. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
+      "published": "2026-10-05T14:22:12+00:00",
+      "image": ""
+    },
+    {
+      "title": "Suposto desenvolvedor do malware Ploutus ATM aparece no tribunal dos EUA após prisão",
+      "summary": "O Departamento de Justiça dos EUA anunciou a prisão do suposto desenvolvedor do malware Ploutus, usado para roubar milhões de dólares em ataques de jackpot em caixas eletrônicos nos Estados Unidos. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/",
+      "published": "2026-10-05T13:01:45+00:00",
+      "image": ""
+    },
+    {
+      "title": "Backdoor do Linux abusa do protocolo STUN e explora dezenas de falhas",
+      "summary": "ClingSTUN opera como um backdoor de proxy de conexão traseira, configura persistência e contém explorações para autopropagação. O post Linux Backdoor abusa do protocolo STUN, explora dezenas de falhas apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/linux-backdoor-abuses-stun-protocol-exploits-dozens-of-flaws/",
+      "published": "2026-10-05T13:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Need for Speed: ataques baseados em IA estão mudando as estratégias de segurança",
+      "summary": "Os ataques alimentados por IA são rápidos, implacáveis ​​e automatizados. A forma como as equipes de segurança podem acompanhar é a principal preocupação, de acordo com a última pesquisa do leitor Dark Reading.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies",
+      "published": "2026-10-05T13:00:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt805a291660c85e6c/6abfd753b06065c7488d51a1/fighterjet-Asanka_Ratnayake-GettyImages-2207309883.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "250.000 pessoas afetadas por violações de dados em empresas de saúde de Nova Jersey e Texas",
+      "summary": "Hackers roubaram informações de pacientes da Clover Health Investments e AngMar Management Services em julho. A postagem 250.000 impactados por violações de dados em empresas de saúde de Nova Jersey, Texas, apareceu pela primeira vez na SecurityWeek.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/250000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms/",
+      "published": "2026-10-05T12:35:15+00:00",
+      "image": ""
+    },
+    {
+      "title": "A camada de credenciais está se expandindo mais rápido do que as equipes de segurança conseguem perceber",
+      "summary": "Toda empresa moderna depende de credenciais. É assim que humanos, sistemas e agora IA se conectam a dados, serviços e uns aos outros com segurança. O GitGuardian ajuda a proteger essa camada de credenciais por meio de três recursos conectados: Detectar, Remedi",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
+      "published": "2026-10-05T11:55:00+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcMENqm_uSfWzk7VlgN5LXTaqUnYGOAelJ9aFsc6s57oUV43awGRScfhyphenhyphenaOYpv1eWkCfunH00lWMH6uUS9sUav8nBmwSHh9w_e3VL1F5AvjF9tpbUeFHCu6ohHZbqOqujA75PEZo_DbtWTv1NtQOKLwaIwJvGZw8rdFDEMcCm_0DvIOfeVPzW8ITMmVwg/s1600/git.gif"
+    },
+    {
+      "title": "Tentativas de exploração do Realtek Jungle SDK entregam Cling Botnet com C2 baseado em STUN",
+      "summary": "Foram observados agentes de ameaças tentando explorar uma falha crítica de segurança agora corrigida que afeta o kit de desenvolvimento de software (SDK) Realtek Jungle para implantar um malware de botnet chamado Cling. “O Cling é notável não porque introduz u",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
+      "published": "2026-10-05T11:46:25+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeczuQyi5eCbsZFxILJKWiHZ8_JC8gnKqr2sExCgq_Dk-7879VVbd8qcA475L-uEn3X30CIyqn-iDilE7Sl9T5FM3XGFPU6LbyE7KUH8OpWTjlirCFq8EaY-MuielVGOXFuECLLpehX9R8HQrniMulUnAUd2f_uRbZ1Fget8hT0Tf19c1N-q06dtFpAZPj/s1600/botnet.jpg"
+    },
+    {
+      "title": "Exploração atinge vulnerabilidade Rejetto HFS descoberta pela IA",
+      "summary": "CVE-2026-61500 permite que invasores recuperem a chave de assinatura do cookie de sessão e obtenham acesso administrativo e RCE. A postagem Exploração atinge a vulnerabilidade do Rejetto HFS descoberta pela IA apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/",
+      "published": "2026-10-05T11:00:05+00:00",
+      "image": ""
+    },
+    {
+      "title": "Senado aprova projeto de lei bipartidário para fortalecer a segurança cibernética na saúde",
+      "summary": "Mais de 730 violações cibernéticas afetaram mais de 270 milhões de americanos no ano passado, custando em média US$ 10 milhões por violação. A postagem Senado aprova projeto de lei bipartidário para fortalecer a segurança cibernética na saúde apareceu pela pri",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/senate-passes-bipartisan-bill-to-strengthen-healthcare-cybersecurity/",
+      "published": "2026-10-05T10:42:19+00:00",
+      "image": ""
+    },
+    {
+      "title": "Apple planeja controles mais rígidos de acesso total ao disco do macOS sobre acesso a dados do agente AI",
+      "summary": "A Apple anunciou que está tomando medidas para reforçar os controles em torno de uma configuração do macOS chamada Full Disk Access (FDA) devido aos riscos de segurança representados por agentes de inteligência artificial (IA). “Alguns desenvolvedores estão us",
+      "category": "CLOUD & IA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
+      "published": "2026-10-05T10:38:50+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDBg5lUcW7uXfKt2vo4Pq5MQUxOty2Xq3pApCIyhUAuSpTzu1jR_CGkNNS2UkAKxYvqk4KCyP1Ehr0PYcW6xVolcSuSdfRPx4rSDDnkuAKaCkgBii_l7kH-s9u7oEhyK2FpvAnaTRWDV48t9XBXEv-MpUIWhBaZYIBx3CFY_zSUXxdw-3C5rB_30Y0VEtf/s1600/macos-ai.jpg"
+    },
+    {
+      "title": "Google interrompe programa de recompensa de bugs de código aberto em meio ao aumento de spam de IA",
+      "summary": "O Google agora suspendeu os envios para seu Programa de Recompensas de Vulnerabilidade de Software de Código Aberto (OSS VRP) após ser inundado por relatórios gerados por IA. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/",
+      "published": "2026-10-05T08:27:46+00:00",
+      "image": ""
+    },
+    {
+      "title": "Os invasores têm como alvo a falha Rejetto HFS que permite falsificação de sessão de administrador e RCE",
+      "summary": "Uma falha crítica de segurança que afeta o Rejetto HTTP File Server (HFS) está testemunhando tentativas ativas de exploração, de acordo com VulnCheck. A vulnerabilidade em questão é CVE-2026-61500 (pontuação CVSS: 9,3), um caso de falsificação de sessão decorr",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
+      "published": "2026-10-05T08:09:23+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTCvFj7lVSH1eLS0oYdxqBa4wQkNQvuemuCAL5XqwKueywAUl8Fg6zY-5UT9cdx3fZZ81DHX_emE9JXthW_OfH-axyWn3bE5CpCp4CDs4HREWjv_1uBtt5iJE947S-Bkn-4Mn1Shwt1kV9FF4RO9Wa7_4jmUtvbWrx2zs4-cdSg-FkUtxW-erVx2CXKhU3/s1600/hfs-rce-main.jpg"
+    },
+    {
+      "title": "Os invasores têm como alvo a falha Rejetto HFS que permite falsificação de sessão de administrador e RCE - The Hacker News",
+      "summary": "Os invasores têm como alvo a falha Rejetto HFS que permite falsificação de sessão de administrador e RCE The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTVR1Ukt0ZE1GTzNKX2VtV0U0Qk43akdfM2Y5OEd4QkpaRVJsYUo4X3VhZnBhVEJaZEJrclo2eWNwSUVrVE90LXVBX2wtS3M2dmpwbm9kTjJVeFhnYVFSZVVra2NWSVQwQkFwb3A2Z3pFb0UyeVd6WUt2UE03ZzBRVjVDaw?oc=5",
+      "published": "2026-10-05T08:09:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Suposto líder do ShinyHunters é preso na Jordânia",
+      "summary": "Conhecido como Rey, o suspeito estaria ajudando o FBI a identificar e localizar outros membros do grupo de extorsão. O post Suposto líder dos ShinyHunters preso na Jordânia apareceu pela primeira vez na SecurityWeek.",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/alleged-shinyhunters-leader-arrested-in-jordan/",
+      "published": "2026-10-05T07:16:53+00:00",
+      "image": ""
+    },
+    {
+      "title": "Novo NetScaler Zero-Day explorado em ataques direcionados pode derrubar implantações SAML off-line",
+      "summary": "A Citrix lançou atualizações de segurança para uma falha de segurança de alta gravidade no NetScaler ADC e no Citrix NetScaler Gateway que foi explorada como parte de ataques direcionados de dia zero. A vulnerabilidade, rastreada como CVE-2026-88779, carrega u",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
+      "published": "2026-10-05T06:40:19+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV4of0Q-gWaIOffgWXdEfAxmI1ENcyrpDSSDjBurAHSpUuAI8lASQI5wrUvL3Evb0iqA31rRywo51olFOzoWe_lQ9cwN7Sp5QQw_2h-y44n0Va4vwlRQZipZ5fkm98BRmTOoVDPTs8pUMW_ClnH2GlPobgQQ33rNzL8EBnBW84aacH3dLXdyyLW9bBEqG5/s1600/citrix-offline.jpg"
+    },
     {
       "title": "Exploração de dispositivos Citrix NetScaler Zero-Day Hits corrigidos dias antes",
       "summary": "A Citrix confirmou que uma nova vulnerabilidade de dia zero, CVE-2026-88779, surgiu poucos dias depois de duas outras falhas exploradas terem sido corrigidas. A postagem Exploração de dispositivos Citrix NetScaler Zero-Day Hits corrigidos dias antes apareceu p",
@@ -9,159 +162,6 @@
       "url": "https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/",
       "published": "2026-10-05T05:14:48+00:00",
       "image": ""
-    },
-    {
-      "title": "Citrix corrige NetScaler SAML de dia zero explorado em ataques",
-      "summary": "A Citrix lançou atualizações de emergência para uma nova vulnerabilidade de negação de serviço do NetScaler rastreada como CVE-2026-88779 que foi explorada em ataques de dia zero, com pesquisadores investigando se ela também pode ser explorada para execução re",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
-      "published": "2026-10-04T21:58:01+00:00",
-      "image": ""
-    },
-    {
-      "title": "Trump nomeia o diretor nacional de inteligência Jay Clayton para liderar uma nova força-tarefa federal de IA",
-      "summary": "O anúncio foi feito depois que Trump recebeu altos executivos de empresas de IA na Casa Branca na semana passada. A postagem Trump nomeia o diretor nacional de inteligência Jay Clayton para liderar uma nova força-tarefa federal de IA apareceu pela primeira vez",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/",
-      "published": "2026-10-04T14:57:25+00:00",
-      "image": ""
-    },
-    {
-      "title": "TA419, alinhado à China, visa especialistas em políticas de IA dos EUA com phishing Microsoft AitM",
-      "summary": "Um novo grupo de espionagem cibernética no nexo da China, conhecido como TA419, foi atribuído a várias campanhas de phishing de credenciais direcionadas a especialistas em inteligência artificial (IA) que trabalham para grupos de reflexão, universidades e orga",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
-      "published": "2026-10-04T07:20:32+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR69JnEBkz8N6_Nd5K75adIWh8xVmxW8FB21gsKinx9HBzgXQSLWL5sYdKMe9d-cbTSrgc45ZtYhmvhLZJII1H-tPXKn4AiRvj4KrU8ayeZskmMCfiV-mUc2pz10MumKyXKH6ybJ2RsVj9ZZ67l-4u0Y2f5Dl3kX7PLEzCAqogMfHTSfD7gM7QypHi-yos/s1600/china-ms.jpg"
-    },
-    {
-      "title": "TA419 alinhado à China tem como alvo especialistas em políticas de IA dos EUA com phishing Microsoft AitM - The Hacker News",
-      "summary": "TA419, alinhado à China, tem como alvo especialistas em políticas de IA dos EUA com Microsoft AitM Phishing The Hacker News",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9CUWRMckVRQlVUaFRESldPaVBEa3ZkNWlUYjB6eUhYcnNmWFU2X0lGWVR4YzN5UFk5djA4WG40OFozc2V0ZE1FN0xmR011UUtJdlRhT2puQXNsLXI1TU85ZXNQWW56Ry00dGlDR0tCbG8wZGlnUW9uT083QUE?oc=5",
-      "published": "2026-10-04T07:20:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "MI5 afirma que pesquisa financiada por MSS da China envolve mais de 100 acadêmicos vinculados ao Reino Unido",
-      "summary": "A agência interna de inteligência e segurança do Reino Unido alertou que mais de 100 académicos ajudaram a China a impulsionar os seus esforços de recolha de informações em nome do serviço de segurança estatal de Pequim. Em um \"Alerta de Espionagem do Serviço ",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
-      "published": "2026-10-03T14:38:46+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8KoVLnFX9RE7BlsBeUJOBw_ZTBGsbwsb8-BY7UjzndcwMCcGmakXl6gOYzYAf_D46lO0rs6ud3i8PmehY4hbb4B8lcXCMUj4UtcZpzaox7_y3waVRwVPmRYvOd-dB5AaIXL3lmBAkQp0ZIwcES5__hiZlqeoqkp0IjqjRWe2mUUY1HiYVYVtK7bs9oPYJ/s1600/china-fund.jpg"
-    },
-    {
-      "title": "Warlock explora falhas do SharePoint para desativar ferramentas de segurança e implantar ransomware",
-      "summary": "O suposto ator de ameaça ligado à China, conhecido como Warlock, ainda continua a usar como arma as vulnerabilidades do Microsoft SharePoint, provavelmente antigas e novas, em ataques direcionados a organizações em países de língua portuguesa e espanhola. A at",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
-      "published": "2026-10-03T14:36:33+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCZSaqs29yWFrct8zgOikM9e4CS0xuAXppzGJ1tskKpKC2gbGuITsYlHYNcnXDMvrFpPuAVS_ZlyEF8Obp7Mgw7CUXe4UsKP3pNEvZWNfszKQVxogslYpoWBZG-QQbEvmS6SDcbgVtXiFFGIEjreD_HSkCYZTfcwL1Rt90qDbbPj946SbMX0FR5CEKRt_H/s1600/sharepoint-ransomware.jpg"
-    },
-    {
-      "title": "Warlock explora falhas do SharePoint para desativar ferramentas de segurança e implantar ransomware - The Hacker News",
-      "summary": "Warlock explora falhas do SharePoint para desativar ferramentas de segurança e implantar ransomware The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX09pTGNTQ1BXdkthcjNETnAxWHgxc0NMX1VZeXJocGwwN1AwOXRtUUNya1I2NDNTem9TZjlyeFBkZGttZFNxdXdlb1BjeTZLMk5NVld3YktwZGlUWGFGeTBGaHppUG9PMjBHTWtOelR1aW5qNnRXR3lFeFFjSHBUVg?oc=5",
-      "published": "2026-10-03T14:36:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Violação de DTU em universidade dinamarquesa expõe dados de até 200 mil pessoas",
-      "summary": "A Universidade Técnica da Dinamarca (DTU) afirma que informações pertencentes a até 200 mil usuários podem ter sido expostas depois que hackers acessaram seu sistema de gerenciamento de identidade e acesso e baixaram uma grande quantidade de dados. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
-      "published": "2026-10-03T14:35:20+00:00",
-      "image": ""
-    },
-    {
-      "title": "doxx.net levanta US$ 38 milhões para evitar desventuras de agentes de IA na Internet",
-      "summary": "A nova plataforma ADN do doxx.net evita infortúnios do agente enquanto o agente está operando sob a autoridade do usuário. A postagem doxx.net levanta US$ 38 milhões para prevenir desventuras de agentes de IA na Internet apareceu pela primeira vez na SecurityW",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/",
-      "published": "2026-10-03T11:45:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Fortra corrige vulnerabilidades críticas no BoKS",
-      "summary": "Os bugs podem levar ao desvio de autenticação, execução de comandos shell e corrupção de memória. O post Fortra corrige vulnerabilidades críticas no BoKS apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/",
-      "published": "2026-10-03T11:34:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "O estado da segurança cibernética em 2026: principais segmentos, insights e inovações",
-      "summary": "Apresentando: A segurança cibernética está sendo remodelada pela expansão da infraestrutura em nuvem, IA, sistemas distribuídos e ambientes digitais cada vez mais complexos. À medida que as organizações gerenciam mais identidades, dispositivos, dados e infraes",
-      "category": "CLOUD & IA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
-      "published": "2026-10-03T11:00:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT6JJFsgFmlQyQC0ZFye5jB8OydQuNv7BQYFdVh0meweGiJD5bXisFLalhMTHPTfkPkbOewEeAepAz9Pd1mOIRy_1q67d4J-ougj5reZ4j9PjmpzIgk7wAr8HGlY4Mk8o3js2s_6Wpa0z4IC55ozyl4Yc60OEFjU1U8FXz8562V3IYFnoikN16KsrVu1w/s1600/py-report.jpg"
-    },
-    {
-      "title": "O estado da segurança cibernética em 2026: principais segmentos, insights e inovações - The Hacker News",
-      "summary": "O estado da segurança cibernética em 2026: principais segmentos, insights e inovações The Hacker News",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVllIVUxxLW41SmdMNzRhdHhFWWUyNGxrSF8yRkltT292VXNrSVlrYm1YelNER2pvZzZSYU5OSW9TVHBJMEd6ZDNvVWRvdnlsZGxVVUNsYmZnc2NKNzZDanRCZVBoZ01hUjNMZjQ2RnRJWkd4Zk5tSzBOTGszck15TWh3?oc=5",
-      "published": "2026-10-03T11:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "RemoteThreat aposta que as equipes de segurança precisam testar o que acontece depois que as defesas falham",
-      "summary": "A startup de operações cibernéticas ofensivas procura evoluir o red teaming além dos métodos tradicionais para simular as capacidades cada vez mais avançadas dos invasores.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail",
-      "published": "2026-10-02T20:18:37+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf31fc70ff522da98/6ac0148dfc9ca54499deca08/GettyImages-2207912388.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "A violação da Frontline Education expõe dados de funcionários do distrito escolar",
-      "summary": "A Frontline Education está notificando os distritos escolares sobre uma violação de dados depois que invasores exploraram uma vulnerabilidade em software de terceiros para obter acesso não autorizado aos seus sistemas e roubar informações de funcionários, incl",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
-      "published": "2026-10-02T19:01:40+00:00",
-      "image": ""
-    },
-    {
-      "title": "Warlock ransomware viola o SharePoint na água, ataques de operadoras de telecomunicações",
-      "summary": "O grupo de ransomware Warlock, ligado à China, teve como alvo uma concessionária de água, um provedor de telecomunicações, um órgão governamental regional e uma universidade, explorando vulnerabilidades do SharePoint para obter acesso inicial. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
-      "published": "2026-10-02T18:33:01+00:00",
-      "image": ""
-    },
-    {
-      "title": "GitLab corrige falha crítica do gateway AI 9.9, permitindo a execução de comandos em servidores auto-hospedados",
-      "summary": "Uma falha crítica no AI Gateway do GitLab poderia permitir que um usuário logado com acesso à Duo Agent Platform executasse comandos no gateway sob certas condições, disse o GitLab em um comunicado. O gateway é o serviço que conecta uma instância do GitLab aos",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
-      "published": "2026-10-02T17:33:31+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXhnbLdlAtkMBrrXYLiOxfbEdXI4PrEIq6dy3SL8Xa5SzPF6if9sf8GGu4PtkUTI3EYQHqBde4cDp4Y60OjgQBmqtZHTlL_gvgvlxNSeZ6nrRnriOmH3m23vq7f2bpylilVl39c_X-RNpvYQlRrC91gU_oHbk6e_ZbZ-7_fglpsQCFoLFp3sHkcn44960/s1600/gitlab-rce.jpg"
-    },
-    {
-      "title": "Antino Backdoor usa Outlook e OneDrive para C2 na campanha de espionagem China-Nexus",
-      "summary": "As organizações governamentais e políticas em toda a Ásia tornaram-se alvo de uma nova campanha orquestrada por um actor ameaçador do nexo com a China. A atividade, que tem como alvo organizações governamentais e políticas em Taiwan, Índia, Filipinas, Camboja,",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
-      "published": "2026-10-02T17:33:16+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE3s79KuB4kHE3Kf6kjA84HqdcQ2TTVyJCgIkLcSnpbMr6vCwjaLjJVE1KiXT2lZfcx_CbKlHjiX9PrEppf53uaTvQ_Vyicl447mGIkdz1ZOzmGR1hPJzgODM2J_lnsbKPhTBvvTgdDcSS4V1JzJ-feSpyJFDyDkKS0BfK7AXTCNWaL9DZ60tmWVysyVo0/s1600/ms-cyber.jpg"
     }
   ]
 }
