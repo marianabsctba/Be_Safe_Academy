@@ -1,6 +1,105 @@
 {
-  "updated_at": "2026-10-06T16:02:49.717147+00:00",
+  "updated_at": "2026-10-06T22:43:22.947875+00:00",
   "items": [
+    {
+      "title": "Falha no plugin Ninja Forms explorada para hackear sites WordPress",
+      "summary": "Os hackers estão explorando vulnerabilidades armazenadas de cross-site scripting (XSS) em dois plug-ins WordPress não relacionados, Ninja Forms e WPC Product Bundles for WooCommerce, para instalar backdoors e criar contas de administrador desonestas. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
+      "published": "2026-10-06T21:00:27+00:00",
+      "image": ""
+    },
+    {
+      "title": "Os ataques ClickFix evoluem para ocultar melhor cargas maliciosas",
+      "summary": "Os agentes de ameaças agora estão ocultando cargas usando registros DNS TXT e pré-busca de cache do navegador, tornando mais difícil detectar os estágios iniciais do ataque.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads",
+      "published": "2026-10-06T20:32:58+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2ab5c3db5bfeb9c5/6ac54ab0a727c6201593319b/Alligator_below_water-SushiSu-GettyImages-2215955885.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Hackers exploram 32 dias zero no primeiro dia do Pwn2Own Ireland",
+      "summary": "No primeiro dia da competição Pwn2Own Ireland 2026, pesquisadores de segurança hackearam o Samsung Galaxy S26 duas vezes e ganharam US$ 388.500 após explorar 32 dias zero. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
+      "published": "2026-10-06T19:21:53+00:00",
+      "image": ""
+    },
+    {
+      "title": "Portais de anúncios falsos ChatGPT, Gemini e Claude capturam credenciais e códigos MFA",
+      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma “plataforma de phishing operada por humanos” que se faz passar por produtos publicitários para chatbots de inteligência artificial (IA), como Google Gemini, Anthropic Claude, OpenAI ChatGPT, Per",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
+      "published": "2026-10-06T18:38:55+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOD8Nta3AzEJA8JDouSAdwr3Obls6VzxBZwHHerzX0eZDKBTqWzVrAmZbX8VrvxKN1QNooX5GVAahBTaqPkWWcqRCO12MDDHWjboFPyw5FU1BaH07_wQhZkUNOROwHLFneZKKBY8oxjPTs0CpBF52UrLjeloGDwolt4udNn-ojCQNvvGvmo1TXdS3wNJlw/s1600/muse.png"
+    },
+    {
+      "title": "Backdoors do Linux personificam ferramentas de segurança de e-mail para evitar detecção na Coreia e em Taiwan",
+      "summary": "Os backdoors do Linux direcionados a dispositivos de telecomunicações e de rede na Coreia do Sul e em Taiwan têm disfarçado seu tráfego como serviços de e-mail e processos aparentemente legítimos para se misturar e evitar a detecção. Os agentes de ameaças são ",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
+      "published": "2026-10-06T18:24:25+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj42ncE2ZMHIbAm_fj5U9fqCYUvPwhyUiNbARM3CC5IxhnMXjIZ2ENa99UDGeaZqGPlqn53A7y7Nkz1ZxzzyykKxEb4GT0jxWhrar9Q5yPmBN1NL6599HRdbzbLSYf3WPuU7tkkY5eOsvhAT9dw-24DXuusztPyRr2H66840cWZx17MZ0B-rB877W19bgX1/s1600/linux-spam.jpg"
+    },
+    {
+      "title": "O agente PageBreak AI do Google encontra 500 falhas em seus aplicativos da web",
+      "summary": "A situação ilustra uma tendência de utilização de IA e validação determinística para identificar falhas e explorabilidade, e fornecer uma avaliação de risco.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps",
+      "published": "2026-10-06T17:56:29+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9aa52673d7bb1596/6ac4ea88db91d789256c460d/working-with-AI-agents-ImageFlow-shutterstock.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Atlassian alerta sobre falha crítica de acesso a arquivos no Jira e Confluence",
+      "summary": "A Atlassian está alertando os clientes sobre uma vulnerabilidade crítica, rastreada como CVE-2026-21589, que pode ser explorada para acesso arbitrário a arquivos em vários produtos de data center auto-hospedados, incluindo Confluence, Jira e Bitbucket. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
+      "published": "2026-10-06T17:34:59+00:00",
+      "image": ""
+    },
+    {
+      "title": "Kakolowski da IANS: como a IA está remodelando os orçamentos e as equipes de segurança do CISO",
+      "summary": "Nesta entrevista em vídeo, Nick Kakolowski, diretor sênior de pesquisa CISO da IANS, fala sobre IA: orçamentos, ROI e mudanças nas equipes de segurança.",
+      "category": "CLOUD & IA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams",
+      "published": "2026-10-06T17:15:24+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt95a7a25767db3b0f/6ac41c0b1d3e914583f43264/budgeting1800_PeopleImages_GettyImages.jpeg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "‘BigDiskBuster’ deixa o Microsoft Defender em execução enquanto bloqueia atualizações",
+      "summary": "Não é exatamente um eliminador de EDR, mas a técnica cibernética de prova de conceito cria uma lacuna silenciosa na detecção de vírus enquanto o serviço funciona normalmente, sem necessidade de exploração.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates",
+      "published": "2026-10-06T16:59:24+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3886ee964b5d16f1/6ac4000875ac86196ed5f175/broken_hard_drive-Bryngelzon-GettyImages-115958814.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "ASOS confirma violação de dados após notificações no aplicativo “HACKED”",
+      "summary": "A varejista de moda britânica ASOS confirmou uma violação de dados na terça-feira, depois que hackers enviaram notificações push não autorizadas por meio de seu aplicativo móvel, alegando ter roubado dados de clientes do ambiente Snowflake da empresa. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
+      "published": "2026-10-06T16:33:54+00:00",
+      "image": ""
+    },
+    {
+      "title": "Perspectivas do CISO sobre o gerenciamento de riscos de vulnerabilidade na era da IA",
+      "summary": "Saiba como os CISOs podem mitigar os riscos de segurança cibernética e aumentar a resiliência na era do gerenciamento de vulnerabilidades baseado em IA. A postagem Perspectivas do CISO sobre o gerenciamento de riscos de vulnerabilidade na era da IA ​​apareceu ",
+      "category": "VULNERABILIDADES",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/",
+      "published": "2026-10-06T16:00:00+00:00",
+      "image": ""
+    },
     {
       "title": "ChatGPT falso, sites Gemini roubam contas de publicidade, códigos MFA",
       "summary": "Uma nova campanha direcionada a gerentes de contas de anúncios usa sites falsos ChatGPT, Gemini, Claude e Perplexity que roubam credenciais de login e códigos de autenticação multifator (MFA) por meio de ataques navegador-a-navegador. [...]",
@@ -21,7 +120,7 @@
     },
     {
       "title": "Como proteger o software RMM: 8 controles que os MSPs devem testar",
-      "summary": "As plataformas RMM oferecem aos MSPs acesso privilegiado em todos os ambientes dos clientes, tornando seus controles de segurança essenciais para limitar os riscos. A Acronis descreve oito controles que os MSPs devem testar ao avaliar software RMM, desde aplic",
+      "summary": "As plataformas RMM oferecem aos MSPs acesso privilegiado em todos os ambientes dos clientes, tornando seus controles de segurança essenciais para limitar os riscos. A Acronis descreve oito controles que os MSPs devem testar ao avaliar o software RMM, desde apl",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
@@ -63,105 +162,6 @@
       "url": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
       "published": "2026-10-06T11:26:25+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWN60cSxpzLhK9K0oXjbeGNCoMl79wSkfW1h7dVHHi3dQPeRx2QUvM9dNGF3qKELV9xwkn8N_FBHk0WgftQryFzkKWyEf0jGbPb6ffor00ZQQnVPSrSSWKDfL10Shpkm2Q_LRFb85BarRqvdDE8eIksiGSrRy6hk8CD2cGf4xIIALAbOZEfHWMHWc7LfhA/s1600/wiki.jpg"
-    },
-    {
-      "title": "Bem-vindo à selva: o que encontramos em 15.465 servidores MCP públicos",
-      "summary": "Em 2024, o MCP (Model Context Protocol) decidiu se tornar o USB-C da IA: um padrão para conectar modelos, agentes e IDEs a ferramentas e dados. O protocolo entregue. Milhares de desenvolvedores construíram servidores e empresas os conectaram a fluxos de trabal",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
-      "published": "2026-10-06T11:02:30+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd9ijWk9zlAlr4Ogzkb3OyeREM6GDYe0AZx5DQ-TmdUPN5ogFXFM0Z9Lh-qdG1CAIVdBX7cV7NSfgEk_yBtaTFCPdIjAo23ixCfHqa4j1m8FY2cRfmdcrd4GZNn-5QQScWonyO6GDRx6RA1ZRcuW9tAmCOFG9u7KQbWx3fftJ921w8rUqHx4ya_5CFuJM/s1600/ox.png.jpg"
-    },
-    {
-      "title": "Resumo de fusões e aquisições de segurança cibernética: 39 negócios anunciados em setembro de 2026",
-      "summary": "Acordos significativos de fusões e aquisições de segurança cibernética anunciados por Dragos, IBM, Palo Alto Networks, Kiteworks e Upwind. O post Resumo de fusões e aquisições de segurança cibernética: 39 negócios anunciados em setembro de 2026 apareceu pela p",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/cybersecurity-ma-roundup-39-deals-announced-in-september-2026/",
-      "published": "2026-10-06T11:01:35+00:00",
-      "image": ""
-    },
-    {
-      "title": "Campanha de longa duração contra malware NPM acumula 40.000 downloads",
-      "summary": "Desde agosto de 2023, os invasores publicaram oito pacotes maliciosos como parte da campanha da cadeia de suprimentos MALFEX. A postagem Campanha de malware NPM de longa duração acumula 40.000 downloads apareceu pela primeira vez na SecurityWeek.",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/long-running-npm-malware-campaign-accumulates-40000-downloads/",
-      "published": "2026-10-06T10:34:25+00:00",
-      "image": ""
-    },
-    {
-      "title": "8,8 milhões de pessoas afetadas por violação de dados no Registro Central de Pessoas da Dinamarca",
-      "summary": "Os hackers abusaram do acesso legal de uma empresa ao sistema CPR para roubar informações pessoais de cidadãos registados. A postagem 8,8 milhões de pessoas afetadas por violação de dados no Registro Central de Pessoas da Dinamarca apareceu pela primeira vez n",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/8-8-million-impacted-by-data-breach-at-denmarks-central-person-register/",
-      "published": "2026-10-06T09:38:30+00:00",
-      "image": ""
-    },
-    {
-      "title": "Nikkei divulga violações de contas de e-mail de funcionários da Microsoft e do Google",
-      "summary": "No fim de semana, a gigante editorial japonesa Nikkei revelou que invasores desconhecidos violaram recentemente duas contas de e-mail de funcionários e usaram uma para enviar milhares de e-mails de phishing. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
-      "published": "2026-10-06T09:25:50+00:00",
-      "image": ""
-    },
-    {
-      "title": "Google pausa recompensas de recompensas por bugs de produtos OSS após aumento de relatórios automatizados inválidos",
-      "summary": "O Google parou de aceitar relatórios de vulnerabilidade de produtos por meio de seu programa de recompensas por bugs para seu software de código aberto. A mudança, em vigor desde 1º de outubro, significa que os pesquisadores não podem mais enviar falhas de seg",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
-      "published": "2026-10-06T09:21:47+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCWoelMB7H9bFZJdDV7vP5M3a1ByvpHs8ub2SrBGOM1gz6r0Fg9cV1fplW5Q6mNBFtRlW99wDCSC-_6_sZBw0l4HsFvUDP5cCH2zmgcF4NK5wCOInv05K4hH2WMlKCA_G_psX4zB_hUcXid2MWx5fGDjaJvD1YjWBechwUdrhXK51dJYZ3PGsu0JQcT1U/s1600/google-bug-bounty.jpg"
-    },
-    {
-      "title": "A detecção de engenharia social entra na conversa ao vivo",
-      "summary": "As empresas estão investindo tempo e dinheiro em treinamentos de conscientização em segurança, mas poucas evidências mostram que isso realmente funciona contra a engenharia social. A postagem A detecção de engenharia social entra na conversa ao vivo apareceu p",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/social-engineering-detection-moves-into-the-live-conversation/",
-      "published": "2026-10-06T08:38:14+00:00",
-      "image": ""
-    },
-    {
-      "title": "Engenheiro condenado por bloquear mais de 3.000 dispositivos na rede do empregador",
-      "summary": "Um ex-engenheiro de infraestrutura central de uma empresa industrial com sede em Nova Jersey foi condenado a 32 meses de prisão por bloquear milhares de dispositivos na rede de seu empregador em um ataque do tipo ransomware. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
-      "published": "2026-10-06T08:19:24+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falha crítica da Atlassian permite que invasores não autenticados leiam arquivos conhecidos em 8 produtos",
-      "summary": "Uma falha crítica em oito produtos Atlassian Data Center, hospedados pelos próprios clientes, permite que um invasor sem acesso de login leia arquivos específicos no diretório raiz do aplicativo Web de cada produto. O invasor já deve saber o nome e o caminho e",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
-      "published": "2026-10-06T06:58:56+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGQge2pd9O29G6qjsswRMYKnpM66wzyEWHOnRljkIZUZpCGVGACovyKIiji1HQ4jZOsypuaveJUBxx0r7-tT-Icd3COeo_prgm0TbMWDJBYFYpWHOC3lBjb8sZo6f2qWPkzeztOAjMW1CjrE_fDe3nWBU2FEOOjUWDpNUbtY1okTyx_iFE7xcI5jxOeiQ/s1600/file.jpg"
-    },
-    {
-      "title": "Falha crítica da Atlassian permite que invasores não autenticados leiam arquivos conhecidos em 8 produtos - The Hacker News",
-      "summary": "Falha crítica do Atlassian permite que invasores não autenticados leiam arquivos conhecidos em 8 produtos The Hacker News",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SeXdMTGgwb09lRmNUdjQtNEt1WERub1kxRVVKaXBaSGhUZEh5S1BnOXJrOE1xQjRWdldVdWEwUkFTdFNRbGJ4bnRjQUgxSEViX0RlQmMxbkVjaWNkR0w0Q0wzRVRpbm50Ukc0alVoMGxuekhMc0E?oc=5",
-      "published": "2026-10-06T06:58:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "FBI remove empreiteiro da Accenture após falha no patch que levou à violação do ShinyHunters",
-      "summary": "O Federal Bureau of Investigation (FBI) dos EUA demitiu um contratado da Accenture por seu suposto papel em uma violação do ShinyHunters que levou ao roubo de dados pessoais de milhares de funcionários do escritório. Isso é de acordo com um relatório da Reuter",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
-      "published": "2026-10-06T06:56:57+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVB4YaCEMdO6UU6llRwDBMNe82j6s6myWlT8Y92f808ntjdWsPEFgXBpFhGxoAZdkFq5DVA4_XaQpbwvJFjpEUxrRjjRVITahCSGSxmi3qkad2fk-kZ1oXnoxKaFHNs2aRQl7LQ6r2Ljt57IZNaFvwejEQ20us7fMVpNYptJxoVCyol8BlVaXyLkkaeHQI/s1600/fbi-breach.jpg"
     }
   ]
 }
