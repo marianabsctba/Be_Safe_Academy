@@ -1,9 +1,27 @@
 {
-  "updated_at": "2026-10-05T22:05:50.966777+00:00",
+  "updated_at": "2026-10-06T06:32:12.829147+00:00",
   "items": [
     {
-      "title": "ClingSTUN transforma dispositivos IoT vulneráveis ​​em nós proxy",
-      "summary": "O backdoor do Linux explora 24 falhas conhecidas para comprometer dispositivos IoT e usa servidores STUN públicos legítimos para ocultar as comunicações.",
+      "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
+      "published": "2026-10-06T06:00:30+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyl-dsAiVrN_a0ie2xM1-2S8GDtnp-OYIAY1Cd_nhYhGkY3q0VeVEvEInjHAYCJTtnRYkXag2mY_iFjcEkFjeLQ7LrF6JqbTQ6eLZQM7aVzTHQsZ37a7PMIWPNkPvc8yTvHgWRLhdnoXbHZSlYfXJMAgfKkPcgSWD6JVb6kBYfzz9LB3SQPx357xqsr8o/s1600/cpr.jpg"
+    },
+    {
+      "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
+      "published": "2026-10-06T05:22:55+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Vjgif5jASBMNSuYjBnVZcm9vGO378mJ7VTFTNo9HRROtViKbP_Nm0F0vf626be5n4cwnfDdqgfWVzjKrKboh0BnbM8ALWzt-W7kNq4PSc_TOUbNlwps6sCQgfNyK5DhXk3FHZCuJSo8D2eMOm4r89VmhNa6l5gPpadRZSgTuB_N2yPZlwj0voYddOoVr/s1600/clickfix.jpg"
+    },
+    {
+      "title": "ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes",
@@ -11,8 +29,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt233af9606aed0447/6ac404da1ba7958c12dbbcbc/stungun_Nikola_Fific_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Servidores Rejetto HFS agora verificados ativamente em busca de falhas críticas de RCE",
-      "summary": "Os hackers estão procurando ativamente por uma vulnerabilidade de chave de assinatura fraca do Rejetto HFS, rastreada como CVE-2026-61500, que permite falsificação de sessão, controle de conta e execução remota de código (RCE). [...]",
+      "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
@@ -20,8 +38,8 @@
       "image": ""
     },
     {
-      "title": "Falha no Microsoft Exchange permite que invasores autenticados leiam caixas de correio de outros usuários",
-      "summary": "A Microsoft lançou atualizações de segurança fora de banda para solucionar uma falha de alta gravidade no Microsoft Exchange Server que poderia permitir que um invasor aumentasse privilégios sob certas condições. A vulnerabilidade, rastreada como CVE-2026-9694",
+      "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
@@ -29,8 +47,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBNa12GUjRngANug2kbws6i9X_HPN2PRVbOcxr7GtaXMKq9PloaCTD7DuYC8zZIcrg5Wa-F5pDv9y-00EMX4QWvovMz-ZWK5vNZ-gkIdEA7UiZQ1SqBCZof411VOQt6nQrvZCYxZpmzPA3hUeFia9KVP45Q1J1OPkiIH_Fhy5hoiOo9z6eYw1H16RgvKs5/s1600/ms-emails.jpg"
     },
     {
-      "title": "Hackers chineses se fazem passar por autoridades dos EUA para espionagem cibernética de IA",
-      "summary": "Um grupo de ameaças emergentes conhecido como TA419 estabeleceu relações profissionais aparentemente legítimas com especialistas em políticas de IA que trabalham para grupos de reflexão, universidades e organizações jurídicas dos EUA.",
+      "title": "Chinese Hackers Impersonate US Officials for AI Cyber Espionage",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage",
@@ -38,8 +56,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf878ef49e6dc7feb/6ac3a43f41e90542981ec9b7/chinaiptheft_Pixels_Hunter_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Violação de dados do registro populacional da Dinamarca afeta 8,8 milhões de pessoas",
-      "summary": "O Registo Central da População (CPR) da Dinamarca alerta para uma violação de dados que expôs as informações pessoais de aproximadamente 8,8 milhões de indivíduos registados. [...]",
+      "title": "Denmark population registry data breach affects 8.8 million people",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
@@ -47,8 +65,8 @@
       "image": ""
     },
     {
-      "title": "Nova falha do Dell System Update permite que hackers obtenham privilégios de root",
-      "summary": "A Dell alertou os clientes para corrigir uma vulnerabilidade crítica na ferramenta de implantação da interface de linha de comando (CLI) do System Update (DSU) o mais rápido possível. [...]",
+      "title": "New Dell System Update flaw lets hackers gain root privileges",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
@@ -56,8 +74,8 @@
       "image": ""
     },
     {
-      "title": "Google restringe recompensa por bugs de código aberto em meio a uma onda de relatórios automatizados inválidos",
-      "summary": "O Google parou temporariamente de aceitar relatórios de vulnerabilidade de produtos por meio de seu Programa de Recompensa de Vulnerabilidade de Software de Código Aberto (OSS VRP). A postagem Google Narrows Open Source Bug Bounty em meio a uma onda de relatór",
+      "title": "Google Narrows Open Source Bug Bounty Amid Wave of Invalid Automated Reports",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/google-narrows-open-source-bug-bounty-amid-wave-of-invalid-automated-reports/",
@@ -65,8 +83,8 @@
       "image": ""
     },
     {
-      "title": "Coreia do Sul investiga violações bancárias em meio a suspeitas de ataques alimentados por IA",
-      "summary": "A Comissão de Serviços Financeiros (FSC) da Coreia do Sul realizou uma reunião de emergência após uma série de ataques cibernéticos contra instituições financeiras no país. [...]",
+      "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
@@ -74,8 +92,8 @@
       "image": ""
     },
     {
-      "title": "⚡ Recapitulação semanal: NetScaler e FortiMail 0-Days, vazamentos de codificação de IA, Spectre v2 e prisões de ransomware",
-      "summary": "Um campo em branco. Um repositório público. Uma resposta a um e-mail. Uma caixa deixada exposta. Nada disto parece dramático, o que é em parte o problema. As ameaças desta semana continuam a encontrar influência em pequenas coisas que eram fáceis de ignorar. E",
+      "title": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
@@ -83,17 +101,17 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbylNkbHSjWFkh2Ms0FmUT7jm2Qp-l5l9XwzA-O0LeP6LLE2WY9Z5yTiZ6AjikPfdOuId00XC9R_m_HYap_zbOAxUpLNKMK8UAVGiQHr-1zb_IOLyuhyMo_dhlqB5SM6p9b5qabPdThNFnyaHBznmq3H66qlbHxPAzCSuA_glVaWuKcJy51sOkoZp7BIuf/s1600/infosec-recap.jpg"
     },
     {
-      "title": "⚡ Recapitulação semanal: NetScaler e FortiMail 0-Days, vazamentos de codificação de IA, Spectre v2 e prisões de ransomware - The Hacker News",
-      "summary": "⚡ Recapitulação semanal: NetScaler e FortiMail 0-Days, vazamentos de codificação de IA, Spectre v2 e prisões de ransomware The Hacker News",
+      "title": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests - thehackernews.com",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
-      "source": "The Hacker News",
+      "source": "thehackernews.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPam5RZEtZamV2NWVIbnVyc1g2NWVBOGJDZlFXOU9oUEZGX3JCY3dsb0Zudjh5bGxoanpLSWxlbEw2VEJ1UVJweVFqWGdvVngwbnZqNG5ldmktWjBtZnQ1UXQ0c0llUVpxYzNMODBodkk1a0c2dVQ4S05taVA2RnhrUnFTYw?oc=5",
       "published": "2026-10-05T14:20:00+00:00",
       "image": ""
     },
     {
-      "title": "Suposto desenvolvedor do malware Ploutus ATM aparece no tribunal dos EUA após prisão",
-      "summary": "O Departamento de Justiça dos EUA anunciou a prisão do suposto desenvolvedor do malware Ploutus, usado para roubar milhões de dólares em ataques de jackpot em caixas eletrônicos nos Estados Unidos. [...]",
+      "title": "Alleged dev of Ploutus ATM malware appears in US court after arrest",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/",
@@ -101,8 +119,8 @@
       "image": ""
     },
     {
-      "title": "Backdoor do Linux abusa do protocolo STUN e explora dezenas de falhas",
-      "summary": "ClingSTUN opera como um backdoor de proxy de conexão traseira, configura persistência e contém explorações para autopropagação. O post Linux Backdoor abusa do protocolo STUN, explora dezenas de falhas apareceu pela primeira vez na SecurityWeek.",
+      "title": "Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/linux-backdoor-abuses-stun-protocol-exploits-dozens-of-flaws/",
@@ -110,8 +128,8 @@
       "image": ""
     },
     {
-      "title": "Need for Speed: ataques baseados em IA estão mudando as estratégias de segurança",
-      "summary": "Os ataques alimentados por IA são rápidos, implacáveis ​​e automatizados. A forma como as equipes de segurança podem acompanhar é a principal preocupação, de acordo com a última pesquisa do leitor Dark Reading.",
+      "title": "Need for Speed: AI-Driven Attacks Are Changing Security Strategies",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyber-risk/ai-attacks-security-strategies",
@@ -119,8 +137,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt805a291660c85e6c/6abfd753b06065c7488d51a1/fighterjet-Asanka_Ratnayake-GettyImages-2207309883.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "250.000 pessoas afetadas por violações de dados em empresas de saúde de Nova Jersey e Texas",
-      "summary": "Hackers roubaram informações de pacientes da Clover Health Investments e AngMar Management Services em julho. A postagem 250.000 impactados por violações de dados em empresas de saúde de Nova Jersey, Texas, apareceu pela primeira vez na SecurityWeek.",
+      "title": "250,000 Impacted by Data Breaches at New Jersey, Texas Healthcare Firms",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/250000-impacted-by-data-breaches-at-new-jersey-texas-healthcare-firms/",
@@ -128,8 +146,8 @@
       "image": ""
     },
     {
-      "title": "A camada de credenciais está se expandindo mais rápido do que as equipes de segurança conseguem perceber",
-      "summary": "Toda empresa moderna depende de credenciais. É assim que humanos, sistemas e agora IA se conectam a dados, serviços e uns aos outros com segurança. O GitGuardian ajuda a proteger essa camada de credenciais por meio de três recursos conectados: Detectar, Remedi",
+      "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "DEFESA",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
@@ -137,31 +155,13 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcMENqm_uSfWzk7VlgN5LXTaqUnYGOAelJ9aFsc6s57oUV43awGRScfhyphenhyphenaOYpv1eWkCfunH00lWMH6uUS9sUav8nBmwSHh9w_e3VL1F5AvjF9tpbUeFHCu6ohHZbqOqujA75PEZo_DbtWTv1NtQOKLwaIwJvGZw8rdFDEMcCm_0DvIOfeVPzW8ITMmVwg/s1600/git.gif"
     },
     {
-      "title": "Tentativas de exploração do Realtek Jungle SDK entregam Cling Botnet com C2 baseado em STUN",
-      "summary": "Foram observados agentes de ameaças tentando explorar uma falha crítica de segurança agora corrigida que afeta o kit de desenvolvimento de software (SDK) Realtek Jungle para implantar um malware de botnet chamado Cling. “O Cling é notável não porque introduz u",
+      "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
       "published": "2026-10-05T11:46:25+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeczuQyi5eCbsZFxILJKWiHZ8_JC8gnKqr2sExCgq_Dk-7879VVbd8qcA475L-uEn3X30CIyqn-iDilE7Sl9T5FM3XGFPU6LbyE7KUH8OpWTjlirCFq8EaY-MuielVGOXFuECLLpehX9R8HQrniMulUnAUd2f_uRbZ1Fget8hT0Tf19c1N-q06dtFpAZPj/s1600/botnet.jpg"
-    },
-    {
-      "title": "Realtek Jungle SDK Exploit tenta entregar Cling Botnet com C2 baseado em STUN - The Hacker News",
-      "summary": "Tentativas de exploração do Realtek Jungle SDK entregam Cling Botnet com C2 baseado em STUN The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zZjJGMVlnQ05faDg5enZVT0FPMXJHb045UTVpTGJXVFQ2WkF2Tk1YVWJ3T01KcFY3MnlveVJnLWFHUUNKWHZubEhFVTh1eUxHcmNvWTdrdjdaa0NtUFFXYmVYbkNlSjJ6ejJ0RjBzYlVTVUlraERuNkZ0RjNXa00?oc=5",
-      "published": "2026-10-05T11:46:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Exploração atinge vulnerabilidade Rejetto HFS descoberta pela IA",
-      "summary": "CVE-2026-61500 permite que invasores recuperem a chave de assinatura do cookie de sessão e obtenham acesso administrativo e RCE. A postagem Exploração atinge a vulnerabilidade do Rejetto HFS descoberta pela IA apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/",
-      "published": "2026-10-05T11:00:05+00:00",
-      "image": ""
     }
   ]
 }
