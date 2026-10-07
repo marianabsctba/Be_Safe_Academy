@@ -1,6 +1,141 @@
 {
-  "updated_at": "2026-10-07T13:36:25.199141+00:00",
+  "updated_at": "2026-10-07T20:41:55.265728+00:00",
   "items": [
+    {
+      "title": "Vulnerabilidades da Microsoft, Adobe, Apple e Foxit",
+      "summary": "A equipe de descoberta e pesquisa de vulnerabilidades do Cisco Talos divulgou recentemente vulnerabilidades na Adobe, Apple, Foxit Reader e Microsoft. As vulnerabilidades mencionadas nesta postagem do blog foram corrigidas por seus respectivos fornecedores, em",
+      "category": "VULNERABILIDADES",
+      "source": "Cisco Talos",
+      "url": "https://blog.talosintelligence.com/microsoft-adobe-apple-and-foxit-vulnerabilities/",
+      "published": "2026-10-07T19:27:08+00:00",
+      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/vuln_roundup.jpg"
+    },
+    {
+      "title": "Atacantes sequestram registros .gh, .sl e .as para obter certificados para domínios do Google",
+      "summary": "Os invasores comprometeram três domínios de primeiro nível com código de país (ccTLDs) e obtiveram certificados HTTPS não autorizados para vários domínios do Google, disse o Google em 6 de outubro. Os próprios sistemas do Google não foram violados, mas qualque",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
+      "published": "2026-10-07T18:48:17+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlqu6e-ijwp1hAEuYyfUUL9hV5kwu0cIe1cMibzayov0GdV2FkSpwvF10YKcxLyw1AUNdKF54RV9o3bfeshwWIWdda1AvgNm4iu6t9F16pb1jOVDQRXBoRjw2uueD4Ov7oEzjPJV7pXgK1U-MzkkqRKgHqP207GG2pqtkRQ09IVZ94HvSlBVArvu7tkNE/s1600/google-tls.jpg"
+    },
+    {
+      "title": "Oito pacotes npm maliciosos baixados 40.767 vezes entregam Overlord RAT e Stealer",
+      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma longa campanha de malware da cadeia de suprimentos npm que envia ladrões de informações e trojans de acesso remoto (RAT) para hosts comprometidos. A campanha recebeu o codinome MALFEX da CloudSE",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
+      "published": "2026-10-07T17:43:20+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgopANe3MXyNNOXog__x1pF53wYoQxinI47tN9gLrZSzJfumz-Dg05ZfyjiGsqF47Pugj71iZ1buX7OEiupWYa09xVQdu7DKOMX5NO-uGKCF0UjNila0x5fNiYw5NWEX1TUQTPidjT5NnGmPwM_6mGfKcOxqcjZuPAZLdzRX5u_TXJM76GQ6mQOkikw_kxo/s1600/npm-malware.jpg"
+    },
+    {
+      "title": "Construindo um equipamento de operações de segurança de agente baseado em evidências na Cloudflare",
+      "summary": "O Cloudflare Managed Defense usa uma equipe de agentes especializados de IA baseados em Workers e telemetria de rede global para analisar alertas de segurança. Ao separar a coleta de evidências determinísticas da inferência do modelo, o sistema fornece recomen",
+      "category": "CLOUD & IA",
+      "source": "Cloudflare Security",
+      "url": "https://blog.cloudflare.com/agentic-security-operations/",
+      "published": "2026-10-07T16:30:36+00:00",
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M32R921QMDZ1S2MHB3M7Q85H.01M32R93AJ8Q0D22GYW0163M3F.png"
+    },
+    {
+      "title": "SonicWall corrige falha SSRF de pré-autenticação CVSS 10.0 em dispositivos SMA1000",
+      "summary": "A SonicWall lançou hotfixes para quatro falhas em seus dispositivos SMA1000, os gateways que dão aos trabalhadores remotos acesso à rede e aos aplicativos de uma empresa. O mais grave pode permitir que um invasor sem login envie solicitações através do disposi",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
+      "published": "2026-10-07T16:17:44+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg93cv3mDcrVCz0IYIpCH3eRNzbDYkM2Z_N2acg9D6bCFGvE3cr3eJ1uGJblGasKplvyvuO6pSuMCxamTwHJSP2ztJ7WBswe1igBdzoadRJPZSDfs5K2og83_iMDMZYuh-LpFdA4qb4Pv7SyJ1A4EQtO_gi6nuxV5ioid32rXABiS0Il9t8boUATp2lTes/s1600/sonicwall.png"
+    },
+    {
+      "title": "SonicWall corrige falha SSRF de pré-autenticação CVSS 10.0 em dispositivos SMA1000 - The Hacker News",
+      "summary": "SonicWall corrige falha SSRF de pré-autenticação CVSS 10.0 em dispositivos SMA1000 The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rUHc4aEszVWowT1pUanNKTVR3OVpXSG9NNUxDOWtBM0kwQkNrR0dydkVsSEVUREMzMTh2cThPYXc3cFhZbm0yeUpRRlRNQTFUTElLekVKR1dpSGdyTkdHOHdHOW82SEpsdF9sSEhqbzBNTFp3Y3JpMw?oc=5",
+      "published": "2026-10-07T16:17:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Três lições da pesquisa de vulnerabilidade de IA de ponta",
+      "summary": "Leia como o FORGE Lab da Microsoft Security está dimensionando a pesquisa de vulnerabilidades do Windows para o kernel do Linux. A postagem 3 lições da pesquisa de vulnerabilidade de IA de fronteira apareceu pela primeira vez no Blog de segurança da Microsoft.",
+      "category": "VULNERABILIDADES",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/",
+      "published": "2026-10-07T16:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falha crítica não corrigida do LMCache permite que invasores não autenticados executem código remotamente",
+      "summary": "Uma vulnerabilidade crítica no LMCache, software de código aberto que acelera servidores de modelo de linguagem grande (LLM), como o vLLM, permite que um invasor execute código no servidor de cache sem fazer login e nenhuma versão fixa está disponível. A falha",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
+      "published": "2026-10-07T15:34:53+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyMSiFF8XNm1OpF4uWou7e4nt4fqsuPc0IXyUXhHky9w8ydKkauWm_j0yxdpMsRFlDx-5PHhtAxYNg3Z-rYqvexgILhokXO8tARRTtDHn2P83GOlUhiD6jN7rtkf3Ul1-Hp7O4VyvwV6EGNUgjmcC-B_o_P-xQy9eD7RaTnO_RoDpDwgjTePDvkjC9xso/s1600/lm.jpg"
+    },
+    {
+      "title": "Malware PoeLLM infecta mais de 3.400 servidores para expandir botnet de mineração de criptografia",
+      "summary": "Pesquisadores de segurança cibernética estão chamando a atenção para uma nova família de malware que foi observada visando a infraestrutura exposta de inteligência artificial (IA) e modelo de linguagem grande (LLM), com o objetivo de implantar mineradores de c",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
+      "published": "2026-10-07T15:33:51+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDjQ8O0UFcl1dpOxEJoAM0s1mXXZHJNpJF4uJV_4jg7UPhHlDEvGHVxHKtyZQpnFC4HC3stGB-jJOSYUB5vdayfwx_eWPq-0F_l_ViYZNcA768t1N95JWhhbhUzY8anGOjVSL06QtsKVv_mz4lKgGrBMNBckAtFPxaW-KuG3mbWuUJrsyJP2vdWVbq8r9P/s1600/crypto.jpg"
+    },
+    {
+      "title": "Malware PoeLLM infecta mais de 3.400 servidores para expandir botnet de mineração de criptografia - The Hacker News",
+      "summary": "Malware PoeLLM infecta mais de 3.400 servidores para expandir botnet de mineração de criptografia The Hacker News",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTd5cTlRVVJ5VzJMRllZS0ZrcEl3aThXRXB1MXdXM0t1VjV2dldPcXR1ZDNYbEZ3bGZ3aTBHcktwRDBfcGh4UW96NVk2aGFLRnNxLS0yWUloOW1vaTVOQk1mbndWUjVaSXFoZ1JtOTNPdzNVOWRaRWJ2alREZTZ0amhjVQ?oc=5",
+      "published": "2026-10-07T15:33:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "O malware PoeLLM infecta servidores de IA expostos em ataques de criptografia",
+      "summary": "Uma campanha de criptomineração direcionada a serviços de IA expostos está usando o malware PoeLLM para transformar servidores comprometidos em scanners e explorar plataformas de lançamento. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/",
+      "published": "2026-10-07T15:04:08+00:00",
+      "image": ""
+    },
+    {
+      "title": "Violação de dados de energia de Georgia Power e Alabama atinge 400.000 contas",
+      "summary": "A Southern Company está notificando os clientes de que as informações de suas contas de serviços públicos foram acessadas por hackers. A postagem Georgia Power, Alabama Power Data Breach atinge 400.000 contas apareceu pela primeira vez na SecurityWeek.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/",
+      "published": "2026-10-07T14:15:20+00:00",
+      "image": ""
+    },
+    {
+      "title": "O ransomware tem um novo alvo. Seu backup está pronto?",
+      "summary": "Os grupos de ransomware visam cada vez mais a infraestrutura de backup para eliminar opções de recuperação e aumentar a pressão sobre as vítimas para que paguem. Kaseya explica por que as organizações precisam de backups isolados, imutáveis ​​e testados regula",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
+      "published": "2026-10-07T14:01:11+00:00",
+      "image": ""
+    },
+    {
+      "title": "ShinyHunters extorquiu spin-off da Boeing antes das prisões",
+      "summary": "Um adolescente de Amã, na Jordânia, suspeito de liderar o prolífico grupo de roubo e extorsão de dados ShinyHunters, foi detido e está supostamente cooperando com o FBI para identificar outros membros da gangue de hackers. KrebsOnSecurity soube que o suspeito,",
+      "category": "DEFESA",
+      "source": "KrebsOnSecurity",
+      "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+      "published": "2026-10-07T13:48:45+00:00",
+      "image": ""
+    },
+    {
+      "title": "Suspeito de Qilin Ransomware preso no Japão e extraditado para a Alemanha",
+      "summary": "O indivíduo foi detido em maio e extraditado para a Alemanha para enfrentar acusações de hacking. O posto Suspeito de Qilin Ransomware preso no Japão e extraditado para a Alemanha apareceu pela primeira vez na SecurityWeek.",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/",
+      "published": "2026-10-07T13:47:12+00:00",
+      "image": ""
+    },
     {
       "title": "Hadrian levanta US$ 40 milhões para expandir plataforma autônoma de segurança ofensiva",
       "summary": "Hadrian oferece uma plataforma de segurança ofensiva que permite que os defensores operem na mesma velocidade que os atacantes. A postagem Hadrian levanta US$ 40 milhões para expandir a plataforma de segurança ofensiva autônoma apareceu pela primeira vez na Se",
@@ -26,141 +161,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/",
       "published": "2026-10-07T12:37:24+00:00",
-      "image": ""
-    },
-    {
-      "title": "A sexta voz dos dados do CISO mostra que o risco cibernético se moveu dentro do fluxo de trabalho",
-      "summary": "As descobertas de 2026 não são apenas uma mudança ano após ano. Marcam o último ponto num arco de cinco anos em que a resiliência, a governação da IA, o risco humano e o escrutínio do conselho de administração estão a convergir dentro dos sistemas onde o traba",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
-      "published": "2026-10-07T11:57:05+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwlATRFpnJdFH1E6zK00EDXPizTTgy_gfddNnBMuBwwMsatfG5_PB-S_S9uGdDW-MuTX8HzGLataU3yDJ6MdkTBN8fwntNgZIIIy9ljbQLD-6Httyo9ouWJ7rF-KjfIKTn5rMSlBURgeV9JyIPZKDg4jWpd4I0vhCifCzisPojOQcCH_QEpWCvO8WmydA/s1600/Proofpoint.png"
-    },
-    {
-      "title": "FBI alerta que FortiBleed permanece ativo após acumular 86.644 credenciais de dispositivos Fortinet",
-      "summary": "O Federal Bureau of Investigation (FBI) e o Serviço Secreto (USSS) dos EUA alertaram na terça-feira que a campanha de coleta de credenciais FortiBleed continua sendo uma ameaça ativa voltada para firewalls Fortinet FortiGate voltados para a Internet e gateways",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
-      "published": "2026-10-07T11:56:56+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQZeKQIcHTVLgqnHpZYN73YclFawl51QxpykrKEb97sAJjA8qtN7FaUJaS0jLMeSS29cTB0nR_yFzsITX_e5SI8Xa8BfM1LDOGsEEEpDmVC8YNqOcEYEuep1UbHovyLlxrwRmYZ3FrbaaKq9eKwICiUTkkPleIibOHdWnbV5cpwYPCrHQasrTxVFA9seQ-/s1600/forti-admin.jpg"
-    },
-    {
-      "title": "Falha no data center da Atlassian atrai tentativas de exploração em duas horas após detalhes públicos",
-      "summary": "Os agentes de ameaças começaram a explorar uma falha crítica de segurança recentemente divulgada que afeta os produtos Atlassian Data Center e que pode permitir o acesso a arquivos confidenciais sob certas condições. A falha arbitrária de acesso a arquivos, ra",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
-      "published": "2026-10-07T11:49:26+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEityRbZfy1N9Y0SuqWl7yeWTYMjeirrTbDx719fM65Be6yXOt2Zl0YweAi0hAfswNzV_LrHa4eFCpcCemC3FNwxZve4bPkSelQiRnCdXpZofAnI7Si96nULBV6i25jgFaZkEY1T3LuPRhj6QzTSsWHZtLuoH1zXlLKZN3WwSiKS7QoY_Zug0CtaaCGozT6N/s1600/jira-attack.jpg"
-    },
-    {
-      "title": "O que é pentesting agente? O que isso prova e onde para.",
-      "summary": "Se você está avaliando uma solução de pentesting agente agora, provavelmente já ouviu o mesmo discurso mais de uma vez: aponte-a para um alvo e ela descobre, valida e explora caminhos de ataque de forma autônoma, da mesma forma que um invasor real faria. Vale ",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
-      "published": "2026-10-07T11:42:24+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO1QPuCVJ1H3gtD86nRRlfnM6eqqqaj0OebVAzFmzsFPWvzvQJhgkREoKOwTkm8c4tqQru3V3rxzEswwX_F_cjqz_v3CG1wNrLNblT0uror88ZssE0gIRR7YNbfDvOj3QTGdqpT1z7j2HFmWiZ-_lIN9FEaCsCt32Z0k0GvOiguuLRiuMPu4Tp-YdSlW8/s1600/picus.jpg"
-    },
-    {
-      "title": "Atualização do Chrome 155 corrige 247 vulnerabilidades",
-      "summary": "Quatro defeitos de uso após liberação de gravidade crítica foram corrigidos no Chromecast, Navegador, Navegação e Rastreamento. A postagem Atualização do Chrome 155 corrige 247 vulnerabilidades apareceu pela primeira vez em SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/chrome-155-update-patches-247-vulnerabilities/",
-      "published": "2026-10-07T10:51:57+00:00",
-      "image": ""
-    },
-    {
-      "title": "Advantest confirma informações pessoais roubadas em ataque de ransomware",
-      "summary": "A Advantest Corporation está notificando os indivíduos afetados de que um ataque de ransomware no início deste ano expôs seus dados de identificação pessoal. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
-      "published": "2026-10-07T10:27:52+00:00",
-      "image": ""
-    },
-    {
-      "title": "Anthropic apresenta programa de verificação cibernética de três níveis para acesso de IA",
-      "summary": "A Anthropic está integrando o CVP e o Projeto Glasswing em uma única oferta, com três níveis de acesso aos seus modelos de IA mais capazes. A postagem Anthropic apresenta programa de verificação cibernética de 3 camadas para acesso de IA apareceu pela primeira",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/anthropic-introduces-3-tier-cyber-verification-program-for-ai-access/",
-      "published": "2026-10-07T10:07:09+00:00",
-      "image": ""
-    },
-    {
-      "title": "Uma violação, por favor, e não cometa erros",
-      "summary": "A comunidade de cibersegurança tem visto exemplos de agentes autónomos, construídos dentro de laboratórios de IA, atacando infraestruturas públicas. A maneira como você se prepara para ameaças de agentes é o que faz a diferença durante incidentes reais.",
-      "category": "AMEAÇAS",
-      "source": "Cisco Talos",
-      "url": "https://blog.talosintelligence.com/one-breach-please-and-make-no-mistakes/",
-      "published": "2026-10-07T10:00:25+00:00",
-      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/OneBreachPlease-BlogHeader.jpg"
-    },
-    {
-      "title": "ASOS confirma ataque cibernético e violação de dados",
-      "summary": "Os hackers comprometeram uma plataforma de comunicação de terceiros e enviaram notificações fraudulentas aos usuários do ASOS. O posto ASOS confirma ataque cibernético e violação de dados apareceu pela primeira vez em SecurityWeek.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/asos-confirms-cyberattack-data-breach/",
-      "published": "2026-10-07T09:46:20+00:00",
-      "image": ""
-    },
-    {
-      "title": "Anthropic expande acesso de Claude para equipes cibernéticas avaliadas enquanto Glasswing encontra 129.000 falhas",
-      "summary": "A Anthropic disse na terça-feira que está expandindo um programa que permite que profissionais de segurança cibernética avaliados testem seus modelos avançados de inteligência artificial (IA) com salvaguardas reduzidas e classificadores de bloqueio, já que a e",
-      "category": "CLOUD & IA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
-      "published": "2026-10-07T08:07:38+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimg1tAvNh5aMWuNTZXjb4kKfxIQ0iWkuo2bCznozA8oz2Fm36WzbPnBI1bBDX5Mc3hpyOMIcjS_fcdYzzpQnrtUkex17u0_fn7r3bgcRYEN4o2hoGf4vlw5hQKEgcDd2VoVT2P9unKzsVOlly1QFlu6WfySqGPZ4Pf7xrZXaL4pEy1vrhWQBHR7SiqHHvf/s1600/claude-flaws.jpg"
-    },
-    {
-      "title": "Anthropic expande acesso de Claude para equipes cibernéticas avaliadas enquanto Glasswing encontra 129.000 falhas - The Hacker News",
-      "summary": "Anthropic expande acesso de Claude para equipes cibernéticas avaliadas enquanto Glasswing encontra 129.000 falhas The Hacker News",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8wOHF2ZzNBNk91NEdYZ05oZEU5enY1ZnEzNzY3cGptRzh2dUc2VGR2YnBSNFFBcGdqcWZJcWtPZnpQakJhZkV1cHc5My1Ea3k2OFJib3EzTXJXbDZidjI3RTNRdFkwU0pJSHdmRzdITUh6dzdBQWxkaTNTQXhkZkk?oc=5",
-      "published": "2026-10-07T08:07:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Wikimedia afirma que agentes desonestos da OpenAI tentaram transformar suas ferramentas em proxies",
-      "summary": "A Wikimedia investigou se seus próprios sites tinham visto atividades como as divulgadas por outras organizações. A postagem Wikimedia diz que agentes desonestos da OpenAI tentaram transformar suas ferramentas em proxies apareceu pela primeira vez em SecurityW",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/wikimedia-says-rogue-openai-agents-tried-to-turn-its-tools-into-proxies/",
-      "published": "2026-10-07T07:58:22+00:00",
-      "image": ""
-    },
-    {
-      "title": "Mais de 100 sites comprometidos usam verificações falsas da Cloudflare para fornecer LunexStealer",
-      "summary": "A Equipe de Resposta a Emergências Informáticas da Ucrânia (CERT-UA) identificou mais de 100 sites comprometidos que foram injetados com JavaScript malicioso para servir um malware de roubo de informações chamado LunexStealer (também conhecido como Psychedelic",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html",
-      "published": "2026-10-07T06:57:54+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4fqqLhgtSTncznc3k2vTS6LJlp8_v3RMx7LaYawiUYEMDuhQ1pOdqrYqlFeyAG5TPBmEnbkLI8vu43GMDxPvaZX6kABd1zQGpIAbVpD2pwtl5v4TohuwbBjlz4dMcjYUv11ogWwPoMoOFJn0aHmxX46xc5Y3ocuxOrg7ix9RrzPzfHtjlW2rAElAV-9-p/s1600/cf-malware.jpg"
-    },
-    {
-      "title": "Vulnerabilidades do patch 25 das atualizações de outubro de 2026 do Android",
-      "summary": "Os patches resolvem uma vulnerabilidade crítica no componente do sistema Android que pode levar ao escalonamento de privilégios. A postagem Vulnerabilidades do patch 25 das atualizações de outubro de 2026 do Android apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/androids-october-2026-updates-patch-25-vulnerabilities/",
-      "published": "2026-10-07T06:55:52+00:00",
-      "image": ""
-    },
-    {
-      "title": "Atlassian corrige vulnerabilidade crítica que afeta 8 produtos",
-      "summary": "Atacantes não autenticados poderiam explorar a falha para acessar arquivos específicos no diretório raiz do aplicativo web. A postagem Vulnerabilidade crítica do Atlassian Patches que afeta 8 produtos apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/atlassian-patches-critical-vulnerability-affecting-8-products/",
-      "published": "2026-10-07T06:37:16+00:00",
       "image": ""
     }
   ]
