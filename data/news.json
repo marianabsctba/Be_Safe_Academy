@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-10-07T20:41:55.265728+00:00",
+  "updated_at": "2026-10-08T01:05:40.596530+00:00",
   "items": [
+    {
+      "title": "CEO de recuperação de ransomware acusado de pagamentos secretos de resgate",
+      "summary": "O proprietário da empresa de remediação de ransomware MonsterCloud foi acusado de supostamente fraudar vítimas de ransomware, pagando secretamente seus invasores por descriptografadores, enquanto alegava usar tecnologia proprietária para recuperar dados cripto",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
+      "published": "2026-10-07T23:04:37+00:00",
+      "image": ""
+    },
+    {
+      "title": "Governo australiano considera relatório obrigatório de incidentes de IA",
+      "summary": "Na sequência de um ataque agente contra os seus próprios sistemas Medicare, o governo da Austrália está a avaliar como poderão ser as regulamentações para as empresas fronteiriças de IA.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting",
+      "published": "2026-10-07T21:42:55+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd1644f040bd4e95e/6ac6a02424b6126216f8e422/Australia_NSW_parliament-Adrian_Wojcik-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "FBI: Ataques contínuos do FortiBleed bloqueiam administradores do FortiGate VPN",
+      "summary": "O FBI está alertando que os ataques FortiBleed ainda estão em andamento, visando firewalls Fortinet FortiGate expostos e gateways SSL VPN e bloqueando administradores legítimos. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
+      "published": "2026-10-07T21:28:54+00:00",
+      "image": ""
+    },
+    {
+      "title": "Anthropic dá aos defensores avaliados menos Claude Guardrails",
+      "summary": "A Anthropic fundiu o Projeto Glasswing em um programa de acesso escalonado para seus LLMs cibernéticos avançados, incluindo Opus, Sonnet e Mythos.",
+      "category": "CLOUD & IA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails",
+      "published": "2026-10-07T20:51:25+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc7808659e0089ed6/6ac69946a654a8a160addf33/robot_working-demaerre-GettyImages-1467878602.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Hackers sequestram domínios do Google após violar registros de ccTLDs",
+      "summary": "Os hackers obtiveram certificados HTTPS não autorizados para vários domínios do Google e sequestraram domínios nos domínios de primeiro nível com código de país (ccTLDs) para Gana, Samoa Americana e Serra Leoa após comprometer operadores terceirizados e modifi",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
+      "published": "2026-10-07T20:50:13+00:00",
+      "image": ""
+    },
     {
       "title": "Vulnerabilidades da Microsoft, Adobe, Apple e Foxit",
       "summary": "A equipe de descoberta e pesquisa de vulnerabilidades do Cisco Talos divulgou recentemente vulnerabilidades na Adobe, Apple, Foxit Reader e Microsoft. As vulnerabilidades mencionadas nesta postagem do blog foram corrigidas por seus respectivos fornecedores, em",
@@ -74,6 +119,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyMSiFF8XNm1OpF4uWou7e4nt4fqsuPc0IXyUXhHky9w8ydKkauWm_j0yxdpMsRFlDx-5PHhtAxYNg3Z-rYqvexgILhokXO8tARRTtDHn2P83GOlUhiD6jN7rtkf3Ul1-Hp7O4VyvwV6EGNUgjmcC-B_o_P-xQy9eD7RaTnO_RoDpDwgjTePDvkjC9xso/s1600/lm.jpg"
     },
     {
+      "title": "Falha crítica não corrigida do LMCache permite que invasores não autenticados executem código remotamente - The Hacker News",
+      "summary": "Falha crítica não corrigida do LMCache permite que invasores não autenticados executem código remotamente The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQanFfelJZenNDdTRNcVZvSGcweG1sb01aLTNMNWhTSTBvMmlBVFlBenBQSk9Eb1h1RUZ0ZFlhRExYV0l5QURwTjIweXFEX3dWaTU0MzB3TVM4Vk4xbFE5SHZDbngyY20xbzRzZUZzUmc3SlllT1ZKcy0yU0YzdDJIaA?oc=5",
+      "published": "2026-10-07T15:34:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Malware PoeLLM infecta mais de 3.400 servidores para expandir botnet de mineração de criptografia",
       "summary": "Pesquisadores de segurança cibernética estão chamando a atenção para uma nova família de malware que foi observada visando a infraestrutura exposta de inteligência artificial (IA) e modelo de linguagem grande (LLM), com o objetivo de implantar mineradores de c",
       "category": "AMEAÇAS",
@@ -93,7 +147,7 @@
     },
     {
       "title": "O malware PoeLLM infecta servidores de IA expostos em ataques de criptografia",
-      "summary": "Uma campanha de criptomineração direcionada a serviços de IA expostos está usando o malware PoeLLM para transformar servidores comprometidos em scanners e explorar plataformas de lançamento. [...]",
+      "summary": "Uma campanha de criptomineração visando serviços de IA expostos está usando o malware PoeLLM para transformar servidores comprometidos em scanners e explorar plataformas de lançamento. [...]",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/",
@@ -107,60 +161,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/",
       "published": "2026-10-07T14:15:20+00:00",
-      "image": ""
-    },
-    {
-      "title": "O ransomware tem um novo alvo. Seu backup está pronto?",
-      "summary": "Os grupos de ransomware visam cada vez mais a infraestrutura de backup para eliminar opções de recuperação e aumentar a pressão sobre as vítimas para que paguem. Kaseya explica por que as organizações precisam de backups isolados, imutáveis ​​e testados regula",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
-      "published": "2026-10-07T14:01:11+00:00",
-      "image": ""
-    },
-    {
-      "title": "ShinyHunters extorquiu spin-off da Boeing antes das prisões",
-      "summary": "Um adolescente de Amã, na Jordânia, suspeito de liderar o prolífico grupo de roubo e extorsão de dados ShinyHunters, foi detido e está supostamente cooperando com o FBI para identificar outros membros da gangue de hackers. KrebsOnSecurity soube que o suspeito,",
-      "category": "DEFESA",
-      "source": "KrebsOnSecurity",
-      "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
-      "published": "2026-10-07T13:48:45+00:00",
-      "image": ""
-    },
-    {
-      "title": "Suspeito de Qilin Ransomware preso no Japão e extraditado para a Alemanha",
-      "summary": "O indivíduo foi detido em maio e extraditado para a Alemanha para enfrentar acusações de hacking. O posto Suspeito de Qilin Ransomware preso no Japão e extraditado para a Alemanha apareceu pela primeira vez na SecurityWeek.",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/qilin-ransomware-suspect-arrested-in-japan-extradited-to-germany/",
-      "published": "2026-10-07T13:47:12+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hadrian levanta US$ 40 milhões para expandir plataforma autônoma de segurança ofensiva",
-      "summary": "Hadrian oferece uma plataforma de segurança ofensiva que permite que os defensores operem na mesma velocidade que os atacantes. A postagem Hadrian levanta US$ 40 milhões para expandir a plataforma de segurança ofensiva autônoma apareceu pela primeira vez na Se",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/hadrian-raises-40-million-to-expand-autonomous-offensive-security-platform/",
-      "published": "2026-10-07T13:06:10+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers exploram falha crítica da Atlassian após lançamento público do PoC",
-      "summary": "Uma vulnerabilidade crítica (CVE-2026-21589) que afeta diversas famílias de produtos Atlassian, incluindo Jira, Confluence e Bitbucket, está sendo explorada em ataques que não exigem autenticação. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
-      "published": "2026-10-07T12:49:01+00:00",
-      "image": ""
-    },
-    {
-      "title": "Advantest divulga violação de dados meses após ataque de ransomware",
-      "summary": "A gigante japonesa de testes de chips disse que hackers roubaram informações pessoais de seus servidores no ataque cibernético de fevereiro de 2026. O posto Advantest divulga violação de dados meses após ataque de ransomware apareceu pela primeira vez na Secur",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/advantest-discloses-data-breach-months-after-ransomware-attack/",
-      "published": "2026-10-07T12:37:24+00:00",
       "image": ""
     }
   ]
