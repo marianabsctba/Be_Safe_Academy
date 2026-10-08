@@ -1,6 +1,114 @@
 {
-  "updated_at": "2026-10-08T01:05:40.596530+00:00",
+  "updated_at": "2026-10-08T10:45:12.423852+00:00",
   "items": [
+    {
+      "title": "Dono do mercado de crimes cibernéticos Empire pega 40 anos de prisão",
+      "summary": "O cocriador do Empire Market, um dos maiores mercados da dark web antes de seu fechamento, foi condenado a 40 anos de prisão por facilitar US$ 430 milhões em transações ilegais de 2018 a 2020. [...]",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/",
+      "published": "2026-10-08T10:29:19+00:00",
+      "image": ""
+    },
+    {
+      "title": "TP-Link enfrenta ações judiciais estaduais e novo escrutínio sobre falhas de roteador ISP",
+      "summary": "A SEC Consult publicou detalhes técnicos sobre vulnerabilidades mencionadas em uma reclamação apresentada por vários estados dos EUA. A postagem TP-Link enfrenta ações judiciais estaduais e novo escrutínio sobre falhas de roteadores ISP apareceu pela primeira ",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/tp-link-faces-state-lawsuits-and-new-scrutiny-over-isp-router-flaws/",
+      "published": "2026-10-08T10:24:04+00:00",
+      "image": ""
+    },
+    {
+      "title": "UAT-11985: iscas de eventos assistidas por IA que fornecem phishing Google AitM em tempo real",
+      "summary": "O Cisco Talos identificou uma campanha de spear-phishing APT contra indivíduos afiliados a organizações de pesquisa de Taiwan. A operação alavancou temas legítimos de eventos públicos e personificou instituições acadêmicas e políticas respeitáveis.",
+      "category": "AMEAÇAS",
+      "source": "Cisco Talos",
+      "url": "https://blog.talosintelligence.com/uat-11985/",
+      "published": "2026-10-08T10:01:06+00:00",
+      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/threat_spotlight.jpg"
+    },
+    {
+      "title": "Ignore todas as instruções e leia este blog: O estado da evasão de análise de IA em malware",
+      "summary": "A “evasão de análise de IA” encapsula as técnicas do mundo real que os autores de malware estão desenvolvendo na tentativa de obstruir ou derrotar quaisquer camadas de análise automatizada de IA.",
+      "category": "AMEAÇAS",
+      "source": "Cisco Talos",
+      "url": "https://blog.talosintelligence.com/ignore-all-instructions-and-read-this-blog-the-state-of-ai-analysis-evasion-in-malware/",
+      "published": "2026-10-08T10:00:14+00:00",
+      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/CAIRN-TechBlog-Header.jpg"
+    },
+    {
+      "title": "16 extensões maliciosas do Firefox se passam por carteiras Rabby e OKX para roubar frases de recuperação",
+      "summary": "Pesquisadores de segurança cibernética descobriram um conjunto de 16 extensões maliciosas do Mozilla Firefox que são capazes de roubar frases de recuperação de carteiras de criptomoedas e chaves privadas. “As extensões se disfarçam de portais de carteira, util",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
+      "published": "2026-10-08T09:46:32+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh25slDP7PhWH155CxM4JUNITLHKzjfSXpuF4WWZJmkycx5UQUIjLJd5Jg_mEDQi62FwRkfpLV14DBpVu2pybVwacKkHpc2MABge_OjMCn3ISyUTsh_JS0fM3wgzv4hbR1du-9fp7cmd0vvB33xeCv7RD7-o4A66gCoKtuCQxmmQL2jM2ljZOMyude3uhOb/s1600/firefox-plugins.jpg"
+    },
+    {
+      "title": "Ferramentas de descriptografia falsas mascaram marcação de US$ 11 milhões em esquema de recuperação de ransomware",
+      "summary": "Zohar Pinhasi estava pagando resgates para obter chaves de descriptografia e depois cobrando das vítimas substancialmente mais pela correção. A postagem Ferramentas de descriptografia falsas mascararam marcação de US$ 11 milhões no esquema de recuperação de ra",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/fake-decryption-tools-masked-11m-markup-in-ransomware-recovery-scheme/",
+      "published": "2026-10-08T09:27:55+00:00",
+      "image": ""
+    },
+    {
+      "title": "Contagem de violação de dados da Oracle Health sobe para quase 20 milhões",
+      "summary": "O número é muito maior do que as contagens que surgiram em registros anteriores e notificações de pacientes. A postagem Registro de violação de dados do Oracle Health sobe para quase 20 milhões apareceu pela primeira vez na SecurityWeek.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/oracle-health-data-breach-tally-climbs-to-nearly-20-million/",
+      "published": "2026-10-08T08:23:31+00:00",
+      "image": ""
+    },
+    {
+      "title": "Atacantes FortiBleed bloqueiam vítimas de dispositivos Fortinet",
+      "summary": "Os invasores estão criando novas contas e excluindo as existentes e senhas para impedir o acesso legítimo. A postagem Atacantes FortiBleed bloqueando vítimas de dispositivos Fortinet apareceu pela primeira vez em SecurityWeek.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/fortibleed-attackers-locking-victims-out-of-fortinet-devices/",
+      "published": "2026-10-08T07:52:33+00:00",
+      "image": ""
+    },
+    {
+      "title": "EUA oferecem até US$ 10 milhões por dicas sobre Zhang Yu, acusado de hacks de HAFNIUM",
+      "summary": "O Departamento de Estado dos EUA está oferecendo até US$ 10 milhões por informações que levem à identificação ou localização de Zhang Yu, um cidadão chinês acusado nos Estados Unidos em conexão com os ataques de 2021 ao Microsoft Exchange Server conhecidos com",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
+      "published": "2026-10-08T07:42:04+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgFF6VpR3wVqISJUhvijTLl00h_uH1hImVFzJiqEyaGpgFqwRMQxT1VEbay1QbGWehkEmZXIa5rAvkjA5K326ZRtVY7OKq9luzZo1gRXX6jUPX3ajFp6gLfpFf6tQg6D5wBgsctILhw7Ma_dpUgswrwXUYTphyphenhyphenj2rT9nfz3zURxMwvma9EZvKYEzkqlIk/s1600/reward.jpg"
+    },
+    {
+      "title": "Proprietário da MonsterCloud acusado de faturar mais de US$ 19 milhões enquanto pagava resgates secretamente para descriptografar dados",
+      "summary": "O Departamento de Justiça dos EUA (DoJ) anunciou na quarta-feira acusações contra um cidadão americano e israelense de 50 anos por supostamente fraudar vítimas de ransomware, pagando secretamente aos invasores para obter descriptografadores enquanto alegava us",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
+      "published": "2026-10-08T07:41:44+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Hxj4Ir77Q0O6Rp9Sl0KYLSls340zQ9WBZYebBilMmz0l_V2uLs76lrTrFnLxVfjx_FhV6wGm9rRxUTxCE-f3aZwo-DTYvYoSEd4AuW0qFFKOmrHFO44mToyUy7yzpvSnAmaUUUs4yEg_91GBxijxbPxhYcB22TX7c4WdmekZaddHxvs_V89WUdgM3dte/s1600/rasnomware-fees.jpg"
+    },
+    {
+      "title": "Samsung Galaxy S26 hackeado mais três vezes na Pwn2Own Ireland",
+      "summary": "No segundo dia do Pwn2Own Ireland 2026, pesquisadores de segurança arrecadaram US$ 232.500 em prêmios em dinheiro após explorar 45 vulnerabilidades exclusivas de dia zero. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/",
+      "published": "2026-10-08T06:32:16+00:00",
+      "image": ""
+    },
+    {
+      "title": "Pacote Tensorlake npm comprometido para entregar o worm de roubo de credenciais Shai-Hulud",
+      "summary": "O pacote npm conhecido como “tensorlake”, um kit de desenvolvimento de software (SDK) TypeScript para aplicativos, sandboxes e serviços em nuvem Tensorlake, foi comprometido como parte de um ataque à cadeia de suprimentos ChainDrop/Shai-Hulud. A versão malicio",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
+      "published": "2026-10-08T05:46:20+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1ZJrw-vCazDC3YJlfmY9WewJ170my9lYex6Ccg7VTa8UQCrXWoCiy_F9w_LoP-GDEarC_RoYnx63fAa_i_RmR5564MS6tgcoqi77wlcqPzX7kambOt4Gga7rsMlWWBwyHKZtCb1lAowiE4bf5up8aIJuwoVsZSKTq15TTynJ-uNPirAGnY8uwMMGqBsgU/s1600/npm-hack.jpg"
+    },
     {
       "title": "CEO de recuperação de ransomware acusado de pagamentos secretos de resgate",
       "summary": "O proprietário da empresa de remediação de ransomware MonsterCloud foi acusado de supostamente fraudar vítimas de ransomware, pagando secretamente seus invasores por descriptografadores, enquanto alegava usar tecnologia proprietária para recuperar dados cripto",
@@ -54,114 +162,6 @@
       "url": "https://blog.talosintelligence.com/microsoft-adobe-apple-and-foxit-vulnerabilities/",
       "published": "2026-10-07T19:27:08+00:00",
       "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/vuln_roundup.jpg"
-    },
-    {
-      "title": "Atacantes sequestram registros .gh, .sl e .as para obter certificados para domínios do Google",
-      "summary": "Os invasores comprometeram três domínios de primeiro nível com código de país (ccTLDs) e obtiveram certificados HTTPS não autorizados para vários domínios do Google, disse o Google em 6 de outubro. Os próprios sistemas do Google não foram violados, mas qualque",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
-      "published": "2026-10-07T18:48:17+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlqu6e-ijwp1hAEuYyfUUL9hV5kwu0cIe1cMibzayov0GdV2FkSpwvF10YKcxLyw1AUNdKF54RV9o3bfeshwWIWdda1AvgNm4iu6t9F16pb1jOVDQRXBoRjw2uueD4Ov7oEzjPJV7pXgK1U-MzkkqRKgHqP207GG2pqtkRQ09IVZ94HvSlBVArvu7tkNE/s1600/google-tls.jpg"
-    },
-    {
-      "title": "Oito pacotes npm maliciosos baixados 40.767 vezes entregam Overlord RAT e Stealer",
-      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma longa campanha de malware da cadeia de suprimentos npm que envia ladrões de informações e trojans de acesso remoto (RAT) para hosts comprometidos. A campanha recebeu o codinome MALFEX da CloudSE",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
-      "published": "2026-10-07T17:43:20+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgopANe3MXyNNOXog__x1pF53wYoQxinI47tN9gLrZSzJfumz-Dg05ZfyjiGsqF47Pugj71iZ1buX7OEiupWYa09xVQdu7DKOMX5NO-uGKCF0UjNila0x5fNiYw5NWEX1TUQTPidjT5NnGmPwM_6mGfKcOxqcjZuPAZLdzRX5u_TXJM76GQ6mQOkikw_kxo/s1600/npm-malware.jpg"
-    },
-    {
-      "title": "Construindo um equipamento de operações de segurança de agente baseado em evidências na Cloudflare",
-      "summary": "O Cloudflare Managed Defense usa uma equipe de agentes especializados de IA baseados em Workers e telemetria de rede global para analisar alertas de segurança. Ao separar a coleta de evidências determinísticas da inferência do modelo, o sistema fornece recomen",
-      "category": "CLOUD & IA",
-      "source": "Cloudflare Security",
-      "url": "https://blog.cloudflare.com/agentic-security-operations/",
-      "published": "2026-10-07T16:30:36+00:00",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M32R921QMDZ1S2MHB3M7Q85H.01M32R93AJ8Q0D22GYW0163M3F.png"
-    },
-    {
-      "title": "SonicWall corrige falha SSRF de pré-autenticação CVSS 10.0 em dispositivos SMA1000",
-      "summary": "A SonicWall lançou hotfixes para quatro falhas em seus dispositivos SMA1000, os gateways que dão aos trabalhadores remotos acesso à rede e aos aplicativos de uma empresa. O mais grave pode permitir que um invasor sem login envie solicitações através do disposi",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
-      "published": "2026-10-07T16:17:44+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg93cv3mDcrVCz0IYIpCH3eRNzbDYkM2Z_N2acg9D6bCFGvE3cr3eJ1uGJblGasKplvyvuO6pSuMCxamTwHJSP2ztJ7WBswe1igBdzoadRJPZSDfs5K2og83_iMDMZYuh-LpFdA4qb4Pv7SyJ1A4EQtO_gi6nuxV5ioid32rXABiS0Il9t8boUATp2lTes/s1600/sonicwall.png"
-    },
-    {
-      "title": "SonicWall corrige falha SSRF de pré-autenticação CVSS 10.0 em dispositivos SMA1000 - The Hacker News",
-      "summary": "SonicWall corrige falha SSRF de pré-autenticação CVSS 10.0 em dispositivos SMA1000 The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rUHc4aEszVWowT1pUanNKTVR3OVpXSG9NNUxDOWtBM0kwQkNrR0dydkVsSEVUREMzMTh2cThPYXc3cFhZbm0yeUpRRlRNQTFUTElLekVKR1dpSGdyTkdHOHdHOW82SEpsdF9sSEhqbzBNTFp3Y3JpMw?oc=5",
-      "published": "2026-10-07T16:17:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Três lições da pesquisa de vulnerabilidade de IA de ponta",
-      "summary": "Leia como o FORGE Lab da Microsoft Security está dimensionando a pesquisa de vulnerabilidades do Windows para o kernel do Linux. A postagem 3 lições da pesquisa de vulnerabilidade de IA de fronteira apareceu pela primeira vez no Blog de segurança da Microsoft.",
-      "category": "VULNERABILIDADES",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/",
-      "published": "2026-10-07T16:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falha crítica não corrigida do LMCache permite que invasores não autenticados executem código remotamente",
-      "summary": "Uma vulnerabilidade crítica no LMCache, software de código aberto que acelera servidores de modelo de linguagem grande (LLM), como o vLLM, permite que um invasor execute código no servidor de cache sem fazer login e nenhuma versão fixa está disponível. A falha",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
-      "published": "2026-10-07T15:34:53+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyMSiFF8XNm1OpF4uWou7e4nt4fqsuPc0IXyUXhHky9w8ydKkauWm_j0yxdpMsRFlDx-5PHhtAxYNg3Z-rYqvexgILhokXO8tARRTtDHn2P83GOlUhiD6jN7rtkf3Ul1-Hp7O4VyvwV6EGNUgjmcC-B_o_P-xQy9eD7RaTnO_RoDpDwgjTePDvkjC9xso/s1600/lm.jpg"
-    },
-    {
-      "title": "Falha crítica não corrigida do LMCache permite que invasores não autenticados executem código remotamente - The Hacker News",
-      "summary": "Falha crítica não corrigida do LMCache permite que invasores não autenticados executem código remotamente The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQanFfelJZenNDdTRNcVZvSGcweG1sb01aLTNMNWhTSTBvMmlBVFlBenBQSk9Eb1h1RUZ0ZFlhRExYV0l5QURwTjIweXFEX3dWaTU0MzB3TVM4Vk4xbFE5SHZDbngyY20xbzRzZUZzUmc3SlllT1ZKcy0yU0YzdDJIaA?oc=5",
-      "published": "2026-10-07T15:34:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Malware PoeLLM infecta mais de 3.400 servidores para expandir botnet de mineração de criptografia",
-      "summary": "Pesquisadores de segurança cibernética estão chamando a atenção para uma nova família de malware que foi observada visando a infraestrutura exposta de inteligência artificial (IA) e modelo de linguagem grande (LLM), com o objetivo de implantar mineradores de c",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
-      "published": "2026-10-07T15:33:51+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDjQ8O0UFcl1dpOxEJoAM0s1mXXZHJNpJF4uJV_4jg7UPhHlDEvGHVxHKtyZQpnFC4HC3stGB-jJOSYUB5vdayfwx_eWPq-0F_l_ViYZNcA768t1N95JWhhbhUzY8anGOjVSL06QtsKVv_mz4lKgGrBMNBckAtFPxaW-KuG3mbWuUJrsyJP2vdWVbq8r9P/s1600/crypto.jpg"
-    },
-    {
-      "title": "Malware PoeLLM infecta mais de 3.400 servidores para expandir botnet de mineração de criptografia - The Hacker News",
-      "summary": "Malware PoeLLM infecta mais de 3.400 servidores para expandir botnet de mineração de criptografia The Hacker News",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTd5cTlRVVJ5VzJMRllZS0ZrcEl3aThXRXB1MXdXM0t1VjV2dldPcXR1ZDNYbEZ3bGZ3aTBHcktwRDBfcGh4UW96NVk2aGFLRnNxLS0yWUloOW1vaTVOQk1mbndWUjVaSXFoZ1JtOTNPdzNVOWRaRWJ2alREZTZ0amhjVQ?oc=5",
-      "published": "2026-10-07T15:33:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "O malware PoeLLM infecta servidores de IA expostos em ataques de criptografia",
-      "summary": "Uma campanha de criptomineração visando serviços de IA expostos está usando o malware PoeLLM para transformar servidores comprometidos em scanners e explorar plataformas de lançamento. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/",
-      "published": "2026-10-07T15:04:08+00:00",
-      "image": ""
-    },
-    {
-      "title": "Violação de dados de energia de Georgia Power e Alabama atinge 400.000 contas",
-      "summary": "A Southern Company está notificando os clientes de que as informações de suas contas de serviços públicos foram acessadas por hackers. A postagem Georgia Power, Alabama Power Data Breach atinge 400.000 contas apareceu pela primeira vez na SecurityWeek.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/georgia-power-alabama-power-data-breach-hits-400000-accounts/",
-      "published": "2026-10-07T14:15:20+00:00",
-      "image": ""
     }
   ]
 }
