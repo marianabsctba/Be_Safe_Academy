@@ -1,167 +1,167 @@
 {
-  "updated_at": "2026-10-08T10:45:12.423852+00:00",
+  "updated_at": "2026-10-08T18:56:01.206411+00:00",
   "items": [
     {
-      "title": "Dono do mercado de crimes cibernéticos Empire pega 40 anos de prisão",
-      "summary": "O cocriador do Empire Market, um dos maiores mercados da dark web antes de seu fechamento, foi condenado a 40 anos de prisão por facilitar US$ 430 milhões em transações ilegais de 2018 a 2020. [...]",
-      "category": "DEFESA",
+      "title": "FBI afirma que hackers ligados à China administraram portal dando acesso a e-mails roubados a terceiros",
+      "summary": "Hackers ligados a uma empresa chinesa de segurança cibernética roubaram e-mails de organizações governamentais, agências de aplicação da lei, sistemas de saúde e instituições religiosas no Sudeste Asiático, disseram o FBI e agências de outros seis países em 8 ",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/fbi-says-china-linked-hackers-ran.html",
+      "published": "2026-10-08T18:32:21+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyj_ek8VTEYw5CpVqkAK63I01D84oGBvRsHmwpjeAfat3TCDqzhXqRWXWCGkNZKwH3rF0uyeuowCSGcBT-mLkdw-174FA0gGh8ZIVKOXUbXt9w0eTZZTlMGE-ySkZIIkswfxe0-cEU9ww6E8iIpWI2eDQU_NrsezDxIoE2WNBt8mDtG6nYeke9Ut17_JY/s1600/china-email.jpg"
+    },
+    {
+      "title": "Espiões russos dão ao malware ‘MatchBoil’ uma nova cara furtiva",
+      "summary": "O ator de espionagem cibernética UAC-0099 tem aperfeiçoado constantemente seu principal conta-gotas em campanhas direcionadas a organizações ucranianas.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift",
+      "published": "2026-10-08T18:01:50+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte9326a6a1bce6d31/6ac6bf347f984a40d88b6862/matchboil_Gorodenkoff_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Certificando-se de que os cheques sejam impressos",
+      "summary": "O boletim informativo de estreia de Pierre explora o lado confuso e real do gerenciamento de riscos e como manter sistemas vitais funcionando quando um patch perfeito não é uma opção.",
+      "category": "VULNERABILIDADES",
+      "source": "Cisco Talos",
+      "url": "https://blog.talosintelligence.com/making-sure-the-checks-get-printed/",
+      "published": "2026-10-08T18:00:29+00:00",
+      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/threat_source.jpg"
+    },
+    {
+      "title": "ThreatsDay: traição de afiliados de ransomware, WhatsApp RAT, ferramentas de hacker expostas e mais 12 histórias",
+      "summary": "Os bandidos têm seus próprios problemas de confiança. Um afiliado de ransomware decidiu ficar com os lucros para si. Em outro lugar, um invasor deixou um servidor exposto, completo com ferramentas e vestígios de uma intrusão. Aparentemente, manter as coisas se",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
+      "published": "2026-10-08T17:58:02+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR_DE5ORKWCpLgZgXBuH-MFmuqfxFNnkGQxremc0ffY4dopMHnx-2HvgZTMh48BvVr8k22lGaM__jTS83DuXnLpF4NC9u4bsQF-8_K34gZU0kJS_-10pUSL7WNxecJG0pCiHyNFiqxXEqWP7NqUK2-uvwzo8-ETqwZkPWdNOjhNn5S1Y0uFQX2HGBE5_5J/s1600/t-day.jpg"
+    },
+    {
+      "title": "A campanha de malware FakeGit retorna com 17.610 repositórios maliciosos do GitHub",
+      "summary": "Mais de 17.000 repositórios falsos no GitHub estão distribuindo o malware SmartLoader depois que a campanha FakeGit foi reativada no início deste mês para promover o infostealer StealC. [...]",
+      "category": "AMEAÇAS",
       "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/",
-      "published": "2026-10-08T10:29:19+00:00",
+      "url": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
+      "published": "2026-10-08T17:10:55+00:00",
       "image": ""
     },
     {
-      "title": "TP-Link enfrenta ações judiciais estaduais e novo escrutínio sobre falhas de roteador ISP",
-      "summary": "A SEC Consult publicou detalhes técnicos sobre vulnerabilidades mencionadas em uma reclamação apresentada por vários estados dos EUA. A postagem TP-Link enfrenta ações judiciais estaduais e novo escrutínio sobre falhas de roteadores ISP apareceu pela primeira ",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/tp-link-faces-state-lawsuits-and-new-scrutiny-over-isp-router-flaws/",
-      "published": "2026-10-08T10:24:04+00:00",
-      "image": ""
-    },
-    {
-      "title": "UAT-11985: iscas de eventos assistidas por IA que fornecem phishing Google AitM em tempo real",
-      "summary": "O Cisco Talos identificou uma campanha de spear-phishing APT contra indivíduos afiliados a organizações de pesquisa de Taiwan. A operação alavancou temas legítimos de eventos públicos e personificou instituições acadêmicas e políticas respeitáveis.",
-      "category": "AMEAÇAS",
-      "source": "Cisco Talos",
-      "url": "https://blog.talosintelligence.com/uat-11985/",
-      "published": "2026-10-08T10:01:06+00:00",
-      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/threat_spotlight.jpg"
-    },
-    {
-      "title": "Ignore todas as instruções e leia este blog: O estado da evasão de análise de IA em malware",
-      "summary": "A “evasão de análise de IA” encapsula as técnicas do mundo real que os autores de malware estão desenvolvendo na tentativa de obstruir ou derrotar quaisquer camadas de análise automatizada de IA.",
-      "category": "AMEAÇAS",
-      "source": "Cisco Talos",
-      "url": "https://blog.talosintelligence.com/ignore-all-instructions-and-read-this-blog-the-state-of-ai-analysis-evasion-in-malware/",
-      "published": "2026-10-08T10:00:14+00:00",
-      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/CAIRN-TechBlog-Header.jpg"
-    },
-    {
-      "title": "16 extensões maliciosas do Firefox se passam por carteiras Rabby e OKX para roubar frases de recuperação",
-      "summary": "Pesquisadores de segurança cibernética descobriram um conjunto de 16 extensões maliciosas do Mozilla Firefox que são capazes de roubar frases de recuperação de carteiras de criptomoedas e chaves privadas. “As extensões se disfarçam de portais de carteira, util",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
-      "published": "2026-10-08T09:46:32+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh25slDP7PhWH155CxM4JUNITLHKzjfSXpuF4WWZJmkycx5UQUIjLJd5Jg_mEDQi62FwRkfpLV14DBpVu2pybVwacKkHpc2MABge_OjMCn3ISyUTsh_JS0fM3wgzv4hbR1du-9fp7cmd0vvB33xeCv7RD7-o4A66gCoKtuCQxmmQL2jM2ljZOMyude3uhOb/s1600/firefox-plugins.jpg"
-    },
-    {
-      "title": "Ferramentas de descriptografia falsas mascaram marcação de US$ 11 milhões em esquema de recuperação de ransomware",
-      "summary": "Zohar Pinhasi estava pagando resgates para obter chaves de descriptografia e depois cobrando das vítimas substancialmente mais pela correção. A postagem Ferramentas de descriptografia falsas mascararam marcação de US$ 11 milhões no esquema de recuperação de ra",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/fake-decryption-tools-masked-11m-markup-in-ransomware-recovery-scheme/",
-      "published": "2026-10-08T09:27:55+00:00",
-      "image": ""
-    },
-    {
-      "title": "Contagem de violação de dados da Oracle Health sobe para quase 20 milhões",
-      "summary": "O número é muito maior do que as contagens que surgiram em registros anteriores e notificações de pacientes. A postagem Registro de violação de dados do Oracle Health sobe para quase 20 milhões apareceu pela primeira vez na SecurityWeek.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/oracle-health-data-breach-tally-climbs-to-nearly-20-million/",
-      "published": "2026-10-08T08:23:31+00:00",
-      "image": ""
-    },
-    {
-      "title": "Atacantes FortiBleed bloqueiam vítimas de dispositivos Fortinet",
-      "summary": "Os invasores estão criando novas contas e excluindo as existentes e senhas para impedir o acesso legítimo. A postagem Atacantes FortiBleed bloqueando vítimas de dispositivos Fortinet apareceu pela primeira vez em SecurityWeek.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/fortibleed-attackers-locking-victims-out-of-fortinet-devices/",
-      "published": "2026-10-08T07:52:33+00:00",
-      "image": ""
-    },
-    {
-      "title": "EUA oferecem até US$ 10 milhões por dicas sobre Zhang Yu, acusado de hacks de HAFNIUM",
-      "summary": "O Departamento de Estado dos EUA está oferecendo até US$ 10 milhões por informações que levem à identificação ou localização de Zhang Yu, um cidadão chinês acusado nos Estados Unidos em conexão com os ataques de 2021 ao Microsoft Exchange Server conhecidos com",
+      "title": "Japão vê aumento acentuado no vazamento de dados da Web em meio ao abuso de APIs móveis e ataques à metabase",
+      "summary": "Os invasores por trás de uma série de vazamentos de dados pessoais em organizações japonesas abusaram de APIs para aplicativos móveis e visaram falhas de software conhecidas, disse o Centro de Coordenação JPCERT (JPCERT/CC). O centro com sede em Tóquio, que re",
       "category": "INCIDENTES",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
-      "published": "2026-10-08T07:42:04+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgFF6VpR3wVqISJUhvijTLl00h_uH1hImVFzJiqEyaGpgFqwRMQxT1VEbay1QbGWehkEmZXIa5rAvkjA5K326ZRtVY7OKq9luzZo1gRXX6jUPX3ajFp6gLfpFf6tQg6D5wBgsctILhw7Ma_dpUgswrwXUYTphyphenhyphenj2rT9nfz3zURxMwvma9EZvKYEzkqlIk/s1600/reward.jpg"
+      "url": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
+      "published": "2026-10-08T15:45:56+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCKjRUY0kVdYD5knK69g1IBPPL21WViperTcXNtjnWiYjNuL6GsohD9A6Q_SpyDpAT6mNMjLTZGOJ_eB1FIMUllxUVEnkUXA1zTWGU1aw5LYJrVZu5gNxH1zSpxX5elSBB-f2OG4LjdhzWTX97lT16uAdvKClT_gP4ucRJjKAXKU4a-3KxbbNLU5RdwKc/s1600/japan.jpg"
     },
     {
-      "title": "Proprietário da MonsterCloud acusado de faturar mais de US$ 19 milhões enquanto pagava resgates secretamente para descriptografar dados",
-      "summary": "O Departamento de Justiça dos EUA (DoJ) anunciou na quarta-feira acusações contra um cidadão americano e israelense de 50 anos por supostamente fraudar vítimas de ransomware, pagando secretamente aos invasores para obter descriptografadores enquanto alegava us",
+      "title": "Cisco corrige uma dúzia de vulnerabilidades críticas",
+      "summary": "Os defeitos de segurança podem levar a acesso não autorizado, vazamento de informações, escalonamento de privilégios, ataques DoS e execução remota de código. A postagem Cisco corrige uma dúzia de vulnerabilidades críticas apareceu pela primeira vez na Securit",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/cisco-patches-a-dozen-critical-vulnerabilities/",
+      "published": "2026-10-08T15:28:06+00:00",
+      "image": ""
+    },
+    {
+      "title": "UAC-0099 tem como alvo funcionários do governo ucraniano com ASHVEIN RAT ocultando comandos em HTML",
+      "summary": "O ator de ameaça alinhado à Rússia, conhecido como UAC-0099, foi atribuído a um infostealer .NET e trojan de acesso remoto (RAT) anteriormente não documentado, de codinome ASHVEIN. De acordo com a TrendAI, o malware foi utilizado em ataques contra funcionários",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
-      "published": "2026-10-08T07:41:44+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-Hxj4Ir77Q0O6Rp9Sl0KYLSls340zQ9WBZYebBilMmz0l_V2uLs76lrTrFnLxVfjx_FhV6wGm9rRxUTxCE-f3aZwo-DTYvYoSEd4AuW0qFFKOmrHFO44mToyUy7yzpvSnAmaUUUs4yEg_91GBxijxbPxhYcB22TX7c4WdmekZaddHxvs_V89WUdgM3dte/s1600/rasnomware-fees.jpg"
+      "url": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
+      "published": "2026-10-08T15:26:56+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZWPW7zD0DZUCKyeRcD-sBZtZ28n4PPaJDPjiskf9ghOI7b3aYbYCEbNvITxaYjCkejq8Vfuc0xeZtJ7p2R4j4dEqGXwfb1JLqQVHrgE4uxdSCq-JJgAeLA0WZbz5Fi98LQbxr3ncRXodrBd83xaX2UpXtDb-Q55ryWBPeXGAQlDBykN_BYecleld5rxJM/s1600/uk.jpg"
     },
     {
-      "title": "Samsung Galaxy S26 hackeado mais três vezes na Pwn2Own Ireland",
-      "summary": "No segundo dia do Pwn2Own Ireland 2026, pesquisadores de segurança arrecadaram US$ 232.500 em prêmios em dinheiro após explorar 45 vulnerabilidades exclusivas de dia zero. [...]",
+      "title": "Cisco alerta sobre falhas críticas que permitem a aquisição do switch Nexus",
+      "summary": "A Cisco lançou comunicados de segurança para cinco vulnerabilidades críticas em seu sistema operacional de rede de data center NX-OS que poderiam ser exploradas para executar código arbitrário com privilégios de root em switches Nexus. [...]",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/",
-      "published": "2026-10-08T06:32:16+00:00",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
+      "published": "2026-10-08T15:26:33+00:00",
       "image": ""
     },
     {
-      "title": "Pacote Tensorlake npm comprometido para entregar o worm de roubo de credenciais Shai-Hulud",
-      "summary": "O pacote npm conhecido como “tensorlake”, um kit de desenvolvimento de software (SDK) TypeScript para aplicativos, sandboxes e serviços em nuvem Tensorlake, foi comprometido como parte de um ataque à cadeia de suprimentos ChainDrop/Shai-Hulud. A versão malicio",
+      "title": "O treinamento de conscientização sobre segurança não morreu, mas precisa ser repensado",
+      "summary": "Todas as empresas realizam treinamento de conscientização sobre segurança para seus funcionários. Mas é discutível se isso traz benefícios tangíveis. A postagem O treinamento de conscientização sobre segurança não morreu, mas precisa ser repensado apareceu pel",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/security-awareness-training-isnt-dead-but-it-needs-a-rethink/",
+      "published": "2026-10-08T14:30:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Ferramenta ARTEX AI Pentesting usada em ataques de roubo de dados em empresas financeiras sul-coreanas",
+      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma campanha direcionada a organizações financeiras sul-coreanas que usaram uma ferramenta de teste de inteligência artificial (IA) chamada ARTEX para realizar os ataques. A atividade, de acordo com",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html",
-      "published": "2026-10-08T05:46:20+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1ZJrw-vCazDC3YJlfmY9WewJ170my9lYex6Ccg7VTa8UQCrXWoCiy_F9w_LoP-GDEarC_RoYnx63fAa_i_RmR5564MS6tgcoqi77wlcqPzX7kambOt4Gga7rsMlWWBwyHKZtCb1lAowiE4bf5up8aIJuwoVsZSKTq15TTynJ-uNPirAGnY8uwMMGqBsgU/s1600/npm-hack.jpg"
+      "url": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
+      "published": "2026-10-08T14:12:34+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrg8bHUppR3zYriUhWwJig9yJq8F69XCeJrtY040zk39DNhblhBRkcTcQSqRo6K3PwnMVoygOCmbWf2X7ySQDxpfDlgmXFBDGhoiicnG3_5E84RhV6muyzgGacKye5eiB5dLcvsNfny5yS-4TlrypAdPcU1PVfT-jMxWvdfg9algqsvxycUV1Jy1xUjGiT/s1600/ai-hacker.jpg"
     },
     {
-      "title": "CEO de recuperação de ransomware acusado de pagamentos secretos de resgate",
-      "summary": "O proprietário da empresa de remediação de ransomware MonsterCloud foi acusado de supostamente fraudar vítimas de ransomware, pagando secretamente seus invasores por descriptografadores, enquanto alegava usar tecnologia proprietária para recuperar dados cripto",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
-      "published": "2026-10-07T23:04:37+00:00",
+      "title": "Ferramenta ARTEX AI Pentesting usada em ataques de roubo de dados em empresas financeiras sul-coreanas - The Hacker News",
+      "summary": "Ferramenta ARTEX AI Pentesting usada em ataques de roubo de dados em empresas financeiras sul-coreanas The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONlBNVWZraTRTTjdzVmN4VWpzd0c0Zy1CNmREQmZnS0hqejkxZEhxODZaVDZ4N3Nxbzg4bnY0eWpnR09qb3RXUHBWT0ppMEJpVVVKakJyT0hWc2dvd0FFV3NLcm5CQXNjM3lMVzJ5SE1XYXNIdkRROXk5emtJTGx3ZEh3?oc=5",
+      "published": "2026-10-08T14:12:00+00:00",
       "image": ""
     },
     {
-      "title": "Governo australiano considera relatório obrigatório de incidentes de IA",
-      "summary": "Na sequência de um ataque agente contra os seus próprios sistemas Medicare, o governo da Austrália está a avaliar como poderão ser as regulamentações para as empresas fronteiriças de IA.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting",
-      "published": "2026-10-07T21:42:55+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd1644f040bd4e95e/6ac6a02424b6126216f8e422/Australia_NSW_parliament-Adrian_Wojcik-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "FBI: Ataques contínuos do FortiBleed bloqueiam administradores do FortiGate VPN",
-      "summary": "O FBI está alertando que os ataques FortiBleed ainda estão em andamento, visando firewalls Fortinet FortiGate expostos e gateways SSL VPN e bloqueando administradores legítimos. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
-      "published": "2026-10-07T21:28:54+00:00",
+      "title": "Os invasores têm como alvo a vulnerabilidade crítica do Atlassian poucas horas após a publicação do PoC",
+      "summary": "Os atores da ameaça começaram a visar o CVE-2026-21589, uma vulnerabilidade crítica nos produtos de data center auto-hospedados da Atlassian. A postagem Atacantes visam vulnerabilidade crítica do Atlassian poucas horas após a publicação do PoC apareceu pela pr",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/attackers-target-critical-atlassian-vulnerability-within-hours-of-poc-publication/",
+      "published": "2026-10-08T14:04:44+00:00",
       "image": ""
     },
     {
-      "title": "Anthropic dá aos defensores avaliados menos Claude Guardrails",
-      "summary": "A Anthropic fundiu o Projeto Glasswing em um programa de acesso escalonado para seus LLMs cibernéticos avançados, incluindo Opus, Sonnet e Mythos.",
+      "title": "As concessões do OAuth se acumulam mais rápido do que você pode revisá-las. Veja como acompanhar.",
+      "summary": "As concessões OAuth criam estradas de dados entre aplicativos SaaS, agentes de IA e outras ferramentas. E eles estão se multiplicando mais rápido do que qualquer equipe de segurança possa revisá-los. Como mostrou a recente violação do Klue, os invasores estão ",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
+      "published": "2026-10-08T14:00:10+00:00",
+      "image": ""
+    },
+    {
+      "title": "EUA procuram suposto hacker chinês de háfnio com recompensa de US$ 10 milhões",
+      "summary": "Zhang Yu foi acusado ao lado de Xu Zewei, que foi extraditado da Itália para os EUA em abril de 2026. A postagem EUA procuram suposto hacker chinês de háfnio com recompensa de US$ 10 milhões apareceu pela primeira vez na SecurityWeek.",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/",
+      "published": "2026-10-08T12:46:21+00:00",
+      "image": ""
+    },
+    {
+      "title": "Vulnerabilidades críticas de patch do SonicWall e Splunk",
+      "summary": "Vulnerabilidades críticas e de alta gravidade podem permitir que invasores ignorem a autenticação, executem códigos arbitrários e elevem seus privilégios. O post Vulnerabilidades críticas do SonicWall e do Splunk Patch apareceu pela primeira vez na SecurityWee",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/",
+      "published": "2026-10-08T12:37:32+00:00",
+      "image": ""
+    },
+    {
+      "title": "ASOS vincula violação de dados a ataque de engenharia social e roubo de credenciais",
+      "summary": "A ASOS está enviando atualizações aos clientes afetados sobre o incidente de segurança cibernética que sofreu no início desta semana, confirmando que os hackers acessaram alguns dados pessoais. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
+      "published": "2026-10-08T11:42:46+00:00",
+      "image": ""
+    },
+    {
+      "title": "Rein Security levanta US$ 25 milhões para proteger agentes de IA em tempo de execução",
+      "summary": "A startup de segurança cibernética investirá em inovação de produtos, pesquisa de agentes e expansão da base de funcionários. A postagem Rein Security levanta US$ 25 milhões para proteger agentes de IA em tempo de execução apareceu pela primeira vez na Securit",
       "category": "CLOUD & IA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails",
-      "published": "2026-10-07T20:51:25+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc7808659e0089ed6/6ac69946a654a8a160addf33/robot_working-demaerre-GettyImages-1467878602.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Hackers sequestram domínios do Google após violar registros de ccTLDs",
-      "summary": "Os hackers obtiveram certificados HTTPS não autorizados para vários domínios do Google e sequestraram domínios nos domínios de primeiro nível com código de país (ccTLDs) para Gana, Samoa Americana e Serra Leoa após comprometer operadores terceirizados e modifi",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
-      "published": "2026-10-07T20:50:13+00:00",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/rein-security-raises-25-million-to-guard-ai-agents-at-runtime/",
+      "published": "2026-10-08T11:11:28+00:00",
       "image": ""
-    },
-    {
-      "title": "Vulnerabilidades da Microsoft, Adobe, Apple e Foxit",
-      "summary": "A equipe de descoberta e pesquisa de vulnerabilidades do Cisco Talos divulgou recentemente vulnerabilidades na Adobe, Apple, Foxit Reader e Microsoft. As vulnerabilidades mencionadas nesta postagem do blog foram corrigidas por seus respectivos fornecedores, em",
-      "category": "VULNERABILIDADES",
-      "source": "Cisco Talos",
-      "url": "https://blog.talosintelligence.com/microsoft-adobe-apple-and-foxit-vulnerabilities/",
-      "published": "2026-10-07T19:27:08+00:00",
-      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/vuln_roundup.jpg"
     }
   ]
 }
