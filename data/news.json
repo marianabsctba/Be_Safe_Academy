@@ -1,167 +1,167 @@
 {
-  "updated_at": "2026-10-09T10:44:35.408925+00:00",
+  "updated_at": "2026-10-09T18:26:53.247939+00:00",
   "items": [
     {
-      "title": "Vulnerabilidades AhsayCBS não corrigidas exploradas na natureza",
-      "summary": "As falhas, CVE-2026-105133 e CVE-2026-105134, permitem que invasores ignorem a autenticação e injetem comandos do sistema operacional. A postagem Vulnerabilidades não corrigidas do AhsayCBS exploradas na natureza apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/",
-      "published": "2026-10-09T10:23:42+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft: dispositivos Windows desatualizados deixarão de receber atualizações de segurança",
-      "summary": "A Microsoft afirma que os dispositivos que executam versões não suportadas do Windows deixarão de receber atualizações de segurança após a rotação de certificados do Windows Update no próximo ano. [...]",
-      "category": "DEFESA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/",
-      "published": "2026-10-09T10:12:24+00:00",
-      "image": ""
-    },
-    {
-      "title": "Malware de firmware pré-preparado atinge dispositivos Android econômicos em mais de 150 países",
-      "summary": "Midnight Mimosa é o nome dado a uma campanha de malware executada principalmente pré-instalada em dispositivos Android de baixo custo. A postagem Malware de firmware pré-preparado atinge o orçamento de dispositivos Android em mais de 150 países apareceu pela p",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/pre-baked-firmware-malware-hits-budget-android-devices-in-150-countries/",
-      "published": "2026-10-09T09:55:35+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falha do GoBalance permite que invasores sequestrem endereços .onion recuperando chaves no formato Tor",
-      "summary": "Um bug no GoBalance, uma ferramenta que muitos sites da dark web usam para permanecer acessíveis durante ataques, permite que qualquer pessoa descubra a chave secreta que controla o endereço .onion de um site usando apenas informações públicas e, em seguida, a",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
-      "published": "2026-10-09T09:03:24+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUJ8xcgqF85kQru4JEuCv6OipwHlff6IEp3r1zhFOY9tYpbwEeWYSqzPTILX4uqM97Cc9ZfNfb3HB4lZbecN48fqKgKryAL60KqqZU4HmdfTMsRYaDcFjNL7aE8vk7G0D_-mqY_B2Jk_3kXMsx2ABpgbWixg1GHZ2l7V0MSzqtEWnYZ_ymkOTf0j8yq2c/s1600/onion.jpg"
-    },
-    {
-      "title": "EUA interrompem ferramentas de hackers patrocinadas pelo Estado chinês",
-      "summary": "Flax Typhoon e outros APTs usaram MicroScan e FishHub para escanear e hackear infraestruturas críticas dos EUA e do exterior. A postagem EUA interrompem ferramentas de hackers patrocinadas pelo Estado chinês apareceu pela primeira vez na SecurityWeek.",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/us-disrupts-chinese-state-sponsored-hacking-tools/",
-      "published": "2026-10-09T08:36:37+00:00",
-      "image": ""
-    },
-    {
-      "title": "Citrix alerta administradores para corrigirem nova falha do NetScaler RCE imediatamente",
-      "summary": "A Citrix alertou os administradores de TI para corrigirem os sistemas imediatamente contra uma nova vulnerabilidade crítica que afeta os dispositivos de rede NetScaler ADC e as soluções de acesso remoto seguro NetScaler Gateway. [...]",
+      "title": "Falhas não corrigidas do AhsayCBS exploradas para implantar webshells e minerar criptografia",
+      "summary": "Os atores da ameaça estão explorando uma vulnerabilidade crítica e outra de gravidade média ainda não corrigida na plataforma de gerenciamento de backup AhsayCBS para implantar webshells e mineradores de criptomoedas. [...]",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
-      "published": "2026-10-09T08:27:42+00:00",
+      "url": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
+      "published": "2026-10-09T17:17:23+00:00",
       "image": ""
     },
     {
-      "title": "Três equipes demonstram hacks remotos do Google Pixel 10 totalmente corrigido na Pwn2Own",
-      "summary": "Três equipes de pesquisa invadiram o Pixel 10 do Google em 8 de outubro no Pwn2Own Ireland, um concurso de hackers em Cork cujas regras exigem que todos os alvos sejam totalmente corrigidos. O concurso paga pesquisadores para mostrar explorações funcionais e r",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
-      "published": "2026-10-09T08:26:17+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqGob0G-EHmqSYe9ZFWu_Pqg2ZivxomC2c4TSsW_k2yx0eZClRf8rgYVhDJTUrrhyzKr8yQr00rjzvVCRc7EsZjELELmKTWVxzLLsvx0DV5Q0rLWGd1eczFcVKTIBweBiuxIpfnB9HnT-1_DPUpxqagt4sXvjLvPiY1bZOz36oJnXV84KoOHVW8ZYY8es/s1600/pwn2own.jpg"
-    },
-    {
-      "title": "Três equipes demonstram hacks remotos do Google Pixel 10 totalmente corrigido em Pwn2Own - The Hacker News",
-      "summary": "Três equipes demonstram hacks remotos do Google Pixel 10 totalmente corrigido em Pwn2Own The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR1VIR1pGYjB1ZmU3WjdEdzZwWjZOVHdQajV1ZmN3cDNrb1JfTjVybkpiUGUtbUJQVVROV3ZYNGtfZGdXTC16bVIteWJtbGxHZHRFdmdHTUl3RFdYOHlWS2ZIMVFjei1lbmg4UHp2MVRLSHFNWDVMeFNKUmRxZk9YQVNwV08?oc=5",
-      "published": "2026-10-09T08:26:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Anthropic Fast-Tracks relatórios de bugs de IA para mantenedores de OSS e contrata 11 empresas para segurança de OT",
-      "summary": "O OSS Scanner envia relatórios de vulnerabilidade não revisados ​​e gerados por modelo para mantenedores de código aberto que optam por participar. A postagem Anthropic Fast-Tracks AI Bug Reports para mantenedores de OSS, Taps 11 Firms for OT Security apareceu",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/anthropic-fast-tracks-ai-bug-reports-to-oss-maintainers-taps-11-firms-for-ot-security/",
-      "published": "2026-10-09T08:19:33+00:00",
-      "image": ""
-    },
-    {
-      "title": "Citrix corrige falha crítica do NetScaler que poderia permitir RCE em implantações SAML",
-      "summary": "A Citrix lançou patches para mais uma falha crítica de segurança que afeta o NetScaler ADC e o NetScaler Gateway, que pode resultar na execução remota de código ou negação de serviço (DoS) sob certas condições. “CVE-2026-107406 é uma vulnerabilidade de estouro",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
-      "published": "2026-10-09T08:11:33+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifRR7IQ4Ngqm8ANJ-DKwW60qeemJlrfrtvhaAwtpzW37_jAkbdctxJEqjw8k_m1KT32ryqoxa1dNYoEPG-E9xNwrbtXqbOjbzmgs3JM9RW68FZMNA8ky14QKTLpEfHop9A4xmXO46fxQaeXZMZzzMQ-qoIXLpMrr8Gbekn3cgNX5xc7bYvMRDYKjDeLf4o/s1600/cit.jpg"
-    },
-    {
-      "title": "Citrix pede correção imediata de vulnerabilidade crítica do NetScaler",
-      "summary": "O defeito de segurança, rastreado como CVE-2026-107406, pode levar à execução remota de código ou negação de serviço. A postagem Citrix pede correção imediata de vulnerabilidade crítica do NetScaler apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/",
-      "published": "2026-10-09T06:53:53+00:00",
-      "image": ""
-    },
-    {
-      "title": "As explorações do Google Pixel 10 renderam aos hackers US$ 560.000 na Pwn2Own",
-      "summary": "US$ 1,2 milhão foram pagos na Pwn2Own Ireland 2026 por explorações direcionadas a telefones, impressoras, alto-falantes inteligentes, hubs domésticos inteligentes e infraestrutura de IA e ferramentas de codificação. A postagem As explorações do Google Pixel 10",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/",
-      "published": "2026-10-09T06:39:55+00:00",
-      "image": ""
-    },
-    {
-      "title": "FBI apreende 7 domínios e interrompe ferramentas Flax Typhoon usadas em invasões de infraestrutura crítica",
-      "summary": "O Federal Bureau of Investigation (FBI) e o Departamento de Justiça (DoJ) dos EUA anunciaram a interrupção de ferramentas maliciosas usadas por um grupo avançado de ameaças persistentes ligado à China, conhecido como Flax Typhoon. Para o efeito, as agências ap",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html",
-      "published": "2026-10-09T06:39:29+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8SUqM44FwmONOU6YH1yTi4I8iGU_UiDk42WA2vB_qjqzCN3xtWE_AVyF2xXmlrP68vAXN3Pe_J6f8h9B6M8vgEmcImGt55z2FRc0638eta0V-P2FvbI6O0h3TWBaOlxw72-0cnMH91J2wNykDTSpQM8cvKYPbQ-YBrnb7e2xxSJuC7B9sU4hoGBXs8KnO/s1600/china-hacker.jpg"
-    },
-    {
-      "title": "Hackers ganham US$ 1.262.000 por 98 dias zero na Pwn2Own Ireland",
-      "summary": "O concurso de hackers Pwn2Own Ireland 2026 foi concluído, com hackers coletando US$ 1.262.000 em recompensas após explorar 98 falhas de dia zero. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
-      "published": "2026-10-09T05:41:04+00:00",
-      "image": ""
-    },
-    {
-      "title": "A fórmula prevê quando os chatbots de IA correm o risco de se tornarem ruins",
-      "summary": "Pesquisadores da Universidade George Washington publicaram um artigo examinando se o momento e a causa da desonestidade da IA ​​podem ser previstos. A postagem A fórmula prevê quando os chatbots de IA correm o risco de se tornarem ruins apareceu pela primeira ",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/formula-predicts-when-ai-chatbots-are-at-risk-of-turning-bad/",
-      "published": "2026-10-09T04:12:38+00:00",
-      "image": ""
-    },
-    {
-      "title": "FBI interrompe ferramentas de hackers chinesas usadas para violar infraestrutura crítica",
-      "summary": "O FBI apreendeu sete domínios usados ​​por hackers patrocinados pelo Estado chinês, conhecidos como Flax Typhoon, para operar duas ferramentas de hacking, MicroScan e FishHub, usadas em ataques que violaram infraestruturas críticas e outras organizações em tod",
+      "title": "FBI prende outro suposto hacker do ShinyHunters após violação da agência",
+      "summary": "O FBI prendeu outro suposto membro do grupo de extorsão ShinyHunters, que se acredita estar envolvido na recente violação dos sistemas do FBI, anunciou o diretor Kash Patel na sexta-feira. [...]",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
-      "published": "2026-10-08T21:42:51+00:00",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
+      "published": "2026-10-09T17:02:29+00:00",
       "image": ""
     },
     {
-      "title": "Autenticação pós-quântica: por que as organizações deveriam começar a testar ecossistemas de certificados agora",
-      "summary": "Prepare-se para a autenticação pós-quântica testando agora ecossistemas de certificados. Saiba como o Programa Piloto PQC TLS da Microsoft ajuda a avançar na preparação futura. A postagem Autenticação pós-quântica: Por que as organizações devem começar a testa",
-      "category": "DEFESA",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/",
-      "published": "2026-10-08T20:44:28+00:00",
-      "image": ""
-    },
-    {
-      "title": "'AgentCorruption' coloca ambientes AWS em risco com um único prompt",
-      "summary": "Uma vulnerabilidade agora corrigida no AWS Bedrock AgentCore pode permitir que um invasor use um chatbot de IA para assumir o controle de toda a frota de uma organização.",
+      "title": "P7 DarkSword iOS Exploit Kit adiciona roubo de dados de carteira criptografada e comandos remotos",
+      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma variante inédita do kit de exploração DarkSword iOS chamada P7 DarkSword. “Em comparação com as variantes que normalmente observamos, o P7 reduz sua pegada no dispositivo, adiciona chaveiro no d",
       "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "published": "2026-10-09T16:29:55+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT-SCb1qpP1Z0zyo_WOtyHzQKUiqJ3RudpC9uowSePmGcLZ9sPHcE-lvDGMZTHeB7YckgDmaBA775L13GvrYHl_gAVSg46-5sUJWzcA7Q3ec5h8WIuKO5l0Td2CCk5nlSvNByqPL22qlTNwHms3rbdXsJYoEe7gRqHiqmM8DHtvEkKniOP4Q70Dq_5Dr8I/s1600/ios.jpg"
+    },
+    {
+      "title": "As ameaças à segurança não param no escritório: por que as famílias dos executivos também precisam de treinamento",
+      "summary": "As pessoas mais próximas dos executivos devem corresponder às suas posturas de segurança, porque o elo mais fraco de uma família pode tornar-se o ponto de entrada para ataques.",
+      "category": "AMEAÇAS",
       "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
-      "published": "2026-10-08T20:39:44+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7fb7357c5c7dbc54/6ac7f27aebe12bcaad81c134/aichatbot-_jittawit.21-Getty-1432457969.jpg?width=720&quality=80&disable=upscale"
+      "url": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
+      "published": "2026-10-09T16:25:05+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt38c86b96657cb954/64f152a12e2a138ddece5db3/remotework-family-insta_photos-Alamy.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Alemanha prende suposto membro principal do ransomware Qilin após extradição",
+      "summary": "A Alemanha prendeu um cidadão russo suspeito de ser um dos principais membros do grupo de ransomware Qilin após extradição do Japão no início deste mês. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
+      "published": "2026-10-09T15:38:56+00:00",
+      "image": ""
+    },
+    {
+      "title": "Como manter os agentes de IA dentro de suas permissões",
+      "summary": "Os agentes de IA podem usar credenciais válidas para executar ações além das permissões atribuídas, criando riscos que os controles de acesso tradicionais podem não evitar. Token Security explica como as organizações podem aplicar políticas específicas para ag",
+      "category": "CLOUD & IA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
+      "published": "2026-10-09T14:01:11+00:00",
+      "image": ""
+    },
+    {
+      "title": "TP-Link processado por mais quatro estados dos EUA por segurança de roteador e laços com a China",
+      "summary": "Mais quatro estados dos EUA processaram a fabricante de roteadores TP-Link Systems em 6 de outubro, elevando o total para cinco, com o Texas entrando com uma ação em fevereiro. Flórida, Iowa, Montana e Nebraska alegam que a empresa californiana enganou os comp",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
+      "published": "2026-10-09T13:22:53+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigXm446RUyCxv1-oRtdkXFCb2Hax0UsQEnanQtli1OViTiFpjV4Jb96qpsy94Td6DK6LDrre8q2masVzeA9X1hQE8ct3TEChlzZmNTaqux1CDT52o1A_6cuQYY4-inbvKDNYN4rqTGNrmrit-YcGBZbTppW5RUxNvcom2OV9pS8jU8twPWsj_Vtwgjqvg/s1600/tp.jpg"
+    },
+    {
+      "title": "TP-Link processado por mais quatro estados dos EUA por causa da segurança do roteador e laços com a China - The Hacker News",
+      "summary": "TP-Link processado por mais quatro estados dos EUA por segurança de roteador e laços com a China The Hacker News",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfd1ZEN3ZkSHVrRkd5MUo5d3hENjhBUG5ReTc5RUtkNkpfTGNsVGFIZ21XYkstT215dzJLaGg1Q3p2S2NjMXl5bjJvVTVDZW1fUWwzZEtTOWhsLTB6d01URUw0R0QzYk9pTG9zaUtRTC1lN0hiOFlZMTBDS0VHVkU?oc=5",
+      "published": "2026-10-09T13:22:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Agentes de IA de engenharia social: o novo BEC para 2026",
+      "summary": "À medida que os agentes de IA ganham autoridade sobre os sistemas empresariais, os invasores podem manipulá-los como vítimas de comprometimento de e-mail comercial (BEC).",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026",
+      "published": "2026-10-09T13:00:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt509529652bae6ba5/6ac7de6c3ada349d7f093787/Digital_face-imaginima-GettyImages-2228383398.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Pesquisadores publicam exploração funcional para falha de pré-autenticação do AnyDesk Linux que fornece acesso root",
+      "summary": "Pesquisadores de segurança publicaram uma exploração completa para uma falha de execução remota de código de pré-autenticação no AnyDesk Linux que dá aos invasores acesso root antes que alguém aprove a conexão. AnyDesk corrigiu a falha na versão 8.0.3 em junho",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
+      "published": "2026-10-09T12:59:22+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnUnGcAOHQNX9naCpXjsvEAI4YXmS_pbFwgn9i_YTjR8esP-PpNXc0s-jOWo3r_M4S-an0mnZA4PwDjt3lOihJqWP60TMj3F37iIno8hynwj5xXex2Voy3Khj3QraiYO7oyeEgNtZtjB5q-FYXg9E0hNk93q7mTKdhBdPNGr0p1I35R0wxuY0IOmAlG_E/s1600/anyrun.gif"
+    },
+    {
+      "title": "Pesquisadores publicam exploração funcional para falha de pré-autenticação do AnyDesk Linux que fornece acesso root - The Hacker News",
+      "summary": "Pesquisadores publicam exploração funcional para falha de pré-autenticação do AnyDesk Linux que dá acesso root The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdEQxX254WE03SGVFeEFYVzYxcTU3dzc0SDBqYTlCQlllTWdtb0d6aGhuVzhIdDhPYW1rQVFVTE85VldOZlZ4bmVCSVVSYTMwVlprNmdWa21MOWFpcTNLTVd6VWk4clhXNVR3Qld6ZldDSUUxTnVuT0RMR21DejdIN1JyN0o?oc=5",
+      "published": "2026-10-09T12:59:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Anthropic lança scanner gratuito de vulnerabilidades de IA para projetos de código aberto",
+      "summary": "A Anthropic revelou na quinta-feira o OSS Scanner como um scanner de vulnerabilidade opcional para ajudar a proteger o ecossistema de código aberto usando inteligência artificial (IA). “É um serviço opcional baseado em nossa experiência usando Claude para enco",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
+      "published": "2026-10-09T12:47:28+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiio2imi6QlJLQlD8KAZaktPeycFFCAWdkRp7q1TNwNHKUibXYACipc5GG2rDcZtmUR8TftkRHNTrdEXLXsGxcGoTDrTY5Eye77n1OFyeFbHP-VGUTwlhIoaHNoMGVIsUWBk07kSc-Gi3y_U0OuS-6gWBjYJEj8pxJVQ9lkEJfI_we3rVvZtAMXp0i8qs7t/s1600/oss-scanner.jpg"
+    },
+    {
+      "title": "Atacantes exploram falhas do AhsayCBS para implantar mineradores XMRig disfarçados de Microsoft Edge",
+      "summary": "Foram observados agentes de ameaças explorando duas falhas recentemente divulgadas no utilitário de backup AhsayCBS para assumir o controle dos dispositivos afetados e implantar web shells e mineradores de criptomoedas XMRig. Os detalhes das falhas estão abaix",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
+      "published": "2026-10-09T12:47:26+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMpbMY9pFBnt6TekKFIlEqpeqQoPBjBuhu8rYuYtU7ce5P3LTFKwlv_F_BUDzfuuMu0gRU645YStocoUQnNtS11MoEIRrfxrgPZtShsFgr8YH1VYTtjPr2l6aHPFDBYPHJKLT-fa-KqaHGSJHeiDPKzUgA12IJH5zhAHpMnoGZc5Qsz9sJhCOB_3gYHQar/s1600/edge.jpg"
+    },
+    {
+      "title": "Anthropic lança scanner gratuito de vulnerabilidades de IA para projetos de código aberto - The Hacker News",
+      "summary": "Anthropic lança scanner gratuito de vulnerabilidades de IA para projetos de código aberto The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBpRGFjNVdpNkhzdXpCNk1ONlZHOTA1OEE2MVZmcW81V08yTEhZSUo2RkRoQ0ZST3U1aVY1U2xuNzV5R0RCYWsyTEpVanpYWkZBbnh1NUljdkNSX0hQb3VtN1EzR3Y0aWVMakFuNy04NURrMU0?oc=5",
+      "published": "2026-10-09T12:47:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falha de gravidade máxima do SonicWall SMA1000 agora explorada em ataques",
+      "summary": "Os invasores estão explorando uma vulnerabilidade de gravidade máxima nos dispositivos SonicWall SMA1000 (CVE-2026-102255) que foi corrigida na terça-feira, três dias atrás. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/",
+      "published": "2026-10-09T12:32:16+00:00",
+      "image": ""
+    },
+    {
+      "title": "Flax Typhoon explora cinco falhas enquanto CISA define prazo de 11 de outubro para agências federais",
+      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) adicionou na quinta-feira cinco falhas de segurança ao seu catálogo de Vulnerabilidades Exploradas Conhecidas (KEV), após seu abuso por um ator de ameaça ligado à China conhecido como Flax T",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
+      "published": "2026-10-09T12:21:51+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7eHv-Bv5ZZISuomW-aV50jkJ7Aqg-S56iEuV2y8Kl9w7SB4cp-zTDj8WicvMzPcw5tXuq-o5rIG0KPPmKxPZPcR5V47hVwbGvi7aLNE_1wgq_iDkNERTzz5kc9ivagiHEKM9BcsYjJRRB0_HWk_gsi9jzHudV_-4Ax4dUFaV5vpDlUnW2PywmEZHzN8mm/s1600/kevs.jpg"
+    },
+    {
+      "title": "Flax Typhoon explora cinco falhas enquanto CISA define prazo de 11 de outubro para agências federais - The Hacker News",
+      "summary": "Flax Typhoon explora cinco falhas enquanto CISA define prazo de 11 de outubro para agências federais The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Gc1NkM3Y5Q0dvN2ktS0l4MlFTdnBLdGQ2RHR0QndIUjhnRnk4dGhGYld1Y3ctZ3ZGQlhYbkE4Q3lzQ3JCU3dHLS1jQ21KRXNGUDdPM1FGOTEydXN4cDJvT0FZazdBcXVlZ3N0T1BublppWEw1SzI1eDdrWllCSE0?oc=5",
+      "published": "2026-10-09T12:21:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Em outras notícias: IA usada em violações de bancos coreanos, botnet guiado por poemas, Empire Admin completa 40 anos",
+      "summary": "Histórias dignas de nota que podem ter passado despercebidas: Tensorlake npm SDK comprometido, cofundador do Empire Market pega 40 anos, expôs monitores de GPU NVIDIA vazando telemetria. A postagem Em outras notícias: IA usada em violações de bancos coreanos, ",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/in-other-news-ai-used-in-korean-bank-breaches-poem-guided-botnet-empire-admin-gets-40-years/",
+      "published": "2026-10-09T12:03:50+00:00",
+      "image": ""
     }
   ]
 }
