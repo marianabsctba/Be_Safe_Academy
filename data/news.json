@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-10-08T18:56:01.206411+00:00",
+  "updated_at": "2026-10-09T01:17:39.159121+00:00",
   "items": [
+    {
+      "title": "FBI interrompe ferramentas de hackers chinesas usadas para violar infraestrutura crítica",
+      "summary": "O FBI apreendeu sete domínios usados ​​por hackers patrocinados pelo Estado chinês, conhecidos como Flax Typhoon, para operar duas ferramentas de hacking, MicroScan e FishHub, usadas em ataques que violaram infraestruturas críticas e outras organizações em tod",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
+      "published": "2026-10-08T21:42:51+00:00",
+      "image": ""
+    },
+    {
+      "title": "Autenticação pós-quântica: por que as organizações deveriam começar a testar ecossistemas de certificados agora",
+      "summary": "Prepare-se para a autenticação pós-quântica testando agora ecossistemas de certificados. Saiba como o Programa Piloto PQC TLS da Microsoft ajuda a avançar na preparação futura. A postagem Autenticação pós-quântica: Por que as organizações devem começar a testa",
+      "category": "DEFESA",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/",
+      "published": "2026-10-08T20:44:28+00:00",
+      "image": ""
+    },
+    {
+      "title": "'AgentCorruption' coloca ambientes AWS em risco com um único prompt",
+      "summary": "Uma vulnerabilidade agora corrigida no AWS Bedrock AgentCore pode permitir que um invasor use um chatbot de IA para assumir o controle de toda a frota de uma organização.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
+      "published": "2026-10-08T20:39:44+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7fb7357c5c7dbc54/6ac7f27aebe12bcaad81c134/aichatbot-_jittawit.21-Getty-1432457969.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Ataque de ransomware interrompe a nuvem IDCF do Japão usada por clientes governamentais",
+      "summary": "A IDC Frontier, uma grande empresa japonesa de nuvem e infraestrutura digital, divulgou que seu serviço IDCF Cloud foi alvo de um ataque de ransomware que causou uma interrupção em um cluster de data center que atende a parte oriental do país. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
+      "published": "2026-10-08T20:09:45+00:00",
+      "image": ""
+    },
+    {
+      "title": "Telefones Android de baixo custo vêm com malware de proxy residencial",
+      "summary": "Uma campanha de malware chamada ‘Midnight Mimosa’ foi descoberta em smartphones Android de baixo custo que vêm com software malicioso incorporado em seu firmware, permitindo que invasores instalem aplicativos silenciosamente, realizem fraudes publicitárias e t",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
+      "published": "2026-10-08T19:20:33+00:00",
+      "image": ""
+    },
+    {
+      "title": "Honcho de malware do cartel venezuelano é preso por jackpot em caixas eletrônicos",
+      "summary": "O primeiro cibercriminoso a entrar na lista dos \"10 fugitivos mais procurados\" do FBI supostamente infundiu dinheiro nas violentas operações criminosas de Tren de Aragua.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting",
+      "published": "2026-10-08T19:08:16+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltef4e90a751faf3e5/6ac64ed06770201d6d216b2a/atm-keypad-pressing-buttons-Makhh-shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
     {
       "title": "FBI afirma que hackers ligados à China administraram portal dando acesso a e-mails roubados a terceiros",
       "summary": "Hackers ligados a uma empresa chinesa de segurança cibernética roubaram e-mails de organizações governamentais, agências de aplicação da lei, sistemas de saúde e instituições religiosas no Sudeste Asiático, disseram o FBI e agências de outros seis países em 8 ",
@@ -107,60 +161,6 @@
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONlBNVWZraTRTTjdzVmN4VWpzd0c0Zy1CNmREQmZnS0hqejkxZEhxODZaVDZ4N3Nxbzg4bnY0eWpnR09qb3RXUHBWT0ppMEJpVVVKakJyT0hWc2dvd0FFV3NLcm5CQXNjM3lMVzJ5SE1XYXNIdkRROXk5emtJTGx3ZEh3?oc=5",
       "published": "2026-10-08T14:12:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Os invasores têm como alvo a vulnerabilidade crítica do Atlassian poucas horas após a publicação do PoC",
-      "summary": "Os atores da ameaça começaram a visar o CVE-2026-21589, uma vulnerabilidade crítica nos produtos de data center auto-hospedados da Atlassian. A postagem Atacantes visam vulnerabilidade crítica do Atlassian poucas horas após a publicação do PoC apareceu pela pr",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/attackers-target-critical-atlassian-vulnerability-within-hours-of-poc-publication/",
-      "published": "2026-10-08T14:04:44+00:00",
-      "image": ""
-    },
-    {
-      "title": "As concessões do OAuth se acumulam mais rápido do que você pode revisá-las. Veja como acompanhar.",
-      "summary": "As concessões OAuth criam estradas de dados entre aplicativos SaaS, agentes de IA e outras ferramentas. E eles estão se multiplicando mais rápido do que qualquer equipe de segurança possa revisá-los. Como mostrou a recente violação do Klue, os invasores estão ",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
-      "published": "2026-10-08T14:00:10+00:00",
-      "image": ""
-    },
-    {
-      "title": "EUA procuram suposto hacker chinês de háfnio com recompensa de US$ 10 milhões",
-      "summary": "Zhang Yu foi acusado ao lado de Xu Zewei, que foi extraditado da Itália para os EUA em abril de 2026. A postagem EUA procuram suposto hacker chinês de háfnio com recompensa de US$ 10 milhões apareceu pela primeira vez na SecurityWeek.",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/us-seeks-alleged-chinese-hafnium-hacker-with-10-million-reward/",
-      "published": "2026-10-08T12:46:21+00:00",
-      "image": ""
-    },
-    {
-      "title": "Vulnerabilidades críticas de patch do SonicWall e Splunk",
-      "summary": "Vulnerabilidades críticas e de alta gravidade podem permitir que invasores ignorem a autenticação, executem códigos arbitrários e elevem seus privilégios. O post Vulnerabilidades críticas do SonicWall e do Splunk Patch apareceu pela primeira vez na SecurityWee",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/sonicwall-and-splunk-patch-critical-vulnerabilities/",
-      "published": "2026-10-08T12:37:32+00:00",
-      "image": ""
-    },
-    {
-      "title": "ASOS vincula violação de dados a ataque de engenharia social e roubo de credenciais",
-      "summary": "A ASOS está enviando atualizações aos clientes afetados sobre o incidente de segurança cibernética que sofreu no início desta semana, confirmando que os hackers acessaram alguns dados pessoais. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
-      "published": "2026-10-08T11:42:46+00:00",
-      "image": ""
-    },
-    {
-      "title": "Rein Security levanta US$ 25 milhões para proteger agentes de IA em tempo de execução",
-      "summary": "A startup de segurança cibernética investirá em inovação de produtos, pesquisa de agentes e expansão da base de funcionários. A postagem Rein Security levanta US$ 25 milhões para proteger agentes de IA em tempo de execução apareceu pela primeira vez na Securit",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/rein-security-raises-25-million-to-guard-ai-agents-at-runtime/",
-      "published": "2026-10-08T11:11:28+00:00",
       "image": ""
     }
   ]
