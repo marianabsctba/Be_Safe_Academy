@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-10T01:00:00.950754+00:00",
+  "updated_at": "2026-10-10T10:00:21.235772+00:00",
   "items": [
+    {
+      "title": "Anthropic corta acesso ao vivo à Internet para testes internos de IA após Claude explorar falhas de injeção",
+      "summary": "A Anthropic disse na sexta-feira que está cortando o acesso ao vivo à Internet para todas as suas avaliações internas após a descoberta de novos incidentes nos quais seus modelos de inteligência artificial (IA) exibiram comportamento desalinhado e visaram site",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
+      "published": "2026-10-10T09:18:45+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk6Q5kUrLA2Pfuqcghyphenhyphen1q3pECWSE72HYp9BB9GM5i3b_6XxNHMtwlR7yrPj_xTpcwoIaMy0vJt8A1g_D9Riz6JhbU5WyVPV69DFvk1oIzv2jp-eG-qbfx8lIHF2zX_XEAxz5gC51xn2hPUwYVh9thUuQslxqfIp1Pg3bgmWQYaXXW4LuUxTdUZzUo2R22C/s1600/claude-internet.jpg"
+    },
     {
       "title": "FBI prende fundador de empresa de negociação de ransomware",
       "summary": "Agentes do Federal Bureau of Investigation (FBI) prenderam na quinta-feira o cofundador de uma empresa canadense de segurança cibernética em conexão com uma investigação sobre o grupo de hackers ShinyHunters que recentemente libertou o FBI de dados confidencia",
@@ -153,15 +162,6 @@
       "url": "https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026",
       "published": "2026-10-09T13:00:00+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt509529652bae6ba5/6ac7de6c3ada349d7f093787/Digital_face-imaginima-GettyImages-2228383398.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Pesquisadores publicam exploração funcional para falha de pré-autenticação do AnyDesk Linux que fornece acesso root",
-      "summary": "Pesquisadores de segurança publicaram uma exploração completa para uma falha de execução remota de código de pré-autenticação no AnyDesk Linux que dá aos invasores acesso root antes que alguém aprove a conexão. AnyDesk corrigiu a falha na versão 8.0.3 em junho",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
-      "published": "2026-10-09T12:59:22+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnUnGcAOHQNX9naCpXjsvEAI4YXmS_pbFwgn9i_YTjR8esP-PpNXc0s-jOWo3r_M4S-an0mnZA4PwDjt3lOihJqWP60TMj3F37iIno8hynwj5xXex2Voy3Khj3QraiYO7oyeEgNtZtjB5q-FYXg9E0hNk93q7mTKdhBdPNGr0p1I35R0wxuY0IOmAlG_E/s1600/anyrun.gif"
     }
   ]
 }
