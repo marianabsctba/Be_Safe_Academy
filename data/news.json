@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-10T21:52:46.296885+00:00",
+  "updated_at": "2026-10-11T06:00:10.731565+00:00",
   "items": [
+    {
+      "title": "P7 DarkSword iOS Exploit Kit adiciona roubo de dados de carteira criptografada e comandos remotos",
+      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma variante inédita do kit de exploração DarkSword iOS chamada P7 DarkSword. “Em comparação com as variantes que normalmente observamos, o P7 reduz sua pegada no dispositivo, adiciona chaveiro no d",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "published": "2026-10-11T04:24:34+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT-SCb1qpP1Z0zyo_WOtyHzQKUiqJ3RudpC9uowSePmGcLZ9sPHcE-lvDGMZTHeB7YckgDmaBA775L13GvrYHl_gAVSg46-5sUJWzcA7Q3ec5h8WIuKO5l0Td2CCk5nlSvNByqPL22qlTNwHms3rbdXsJYoEe7gRqHiqmM8DHtvEkKniOP4Q70Dq_5Dr8I/s1600/ios.jpg"
+    },
     {
       "title": "Executivo cibernético preso em caso supostamente ligado a hackers ShinyHunters",
       "summary": "O executivo canadense de segurança cibernética Edward Dubrovsky foi preso na Pensilvânia em conexão com supostas atividades de extorsão que vários relatórios vincularam à repressão contínua do FBI ao grupo de hackers ShinyHunters. [...]",
@@ -30,7 +39,7 @@
     },
     {
       "title": "O problema do agente terceirizado: por que a segurança desenvolvida para IA que você escolheu perde os agentes que você não escolheu",
-      "summary": "Nos ambientes estudados para o Relatório sobre o estado do agente de segurança de 2026, cerca de 1.280 produtos de terceiros agora incorporam IA. Cerca de 282 deles possuem login único. Os outros mil são invisíveis para a infraestrutura de identidade por padrã",
+      "summary": "Nos ambientes estudados para o Relatório sobre o estado do agente de segurança de 2026, cerca de 1.280 produtos de terceiros agora incorporam IA. Cerca de 282 deles possuem login único. Os outros milhares são invisíveis para a infraestrutura de identidade por ",
       "category": "CLOUD & IA",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
@@ -54,15 +63,6 @@
       "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
       "published": "2026-10-10T09:18:45+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk6Q5kUrLA2Pfuqcghyphenhyphen1q3pECWSE72HYp9BB9GM5i3b_6XxNHMtwlR7yrPj_xTpcwoIaMy0vJt8A1g_D9Riz6JhbU5WyVPV69DFvk1oIzv2jp-eG-qbfx8lIHF2zX_XEAxz5gC51xn2hPUwYVh9thUuQslxqfIp1Pg3bgmWQYaXXW4LuUxTdUZzUo2R22C/s1600/claude-internet.jpg"
-    },
-    {
-      "title": "Anthropic corta acesso ao vivo à Internet para testes internos de IA após Claude explorar falhas de injeção - The Hacker News",
-      "summary": "Anthropic corta acesso ao vivo à Internet para testes internos de IA depois que Claude explora falhas de injeção The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeGJhcy11MF9BYkZodjhDbEhySlJvc3RNSWtvR2ZNR0hIMV9ndmpiaENTbk4wMnRVb3d5eVY0THZlckdRb09hanRseXZFejNGeWdqZXRNa1FlUzNrNEFCVS1tUy1QTkoycmlDQmFJaVhZOFZVclFDU2lVLXFyM1kwQmVVM2c?oc=5",
-      "published": "2026-10-10T09:18:00+00:00",
-      "image": ""
     },
     {
       "title": "FBI prende executivo de empresa de negociação de ransomware",
@@ -129,7 +129,7 @@
     },
     {
       "title": "Fluxos de trabalho de ações do GitHub para roubo de credenciais implantados em dezenas de milhares de repositórios",
-      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma campanha contínua de roubo de credenciais que comprometeu duas contas de mantenedor de código aberto de alto perfil para enviar um fluxo de trabalho malicioso para mais de 340 repositórios. “Usa",
+      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma campanha contínua de roubo de credenciais que comprometeu duas contas de manutenção de código aberto de alto perfil para enviar um fluxo de trabalho malicioso para mais de 340 repositórios. “Usa",
       "category": "INCIDENTES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
@@ -137,7 +137,7 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoJXBEAVVijhwsYs32WSejvp0sG3ej-Qoi7Z6qHDp8rY5IZENkKOpexrbbU1BNyiCbbB0ZXHjEDL-UYqu7CDpPpoYLiGXkuLCZJTItgP5XeLD_Sb1galPzOGtrFZigEM5CGUbwi9gcL_-XCYY6NKu9j5FiakIWn5s66DZE-OjrLZO3sMGka3YNFvGUecJT/s1600/gitworm.jpg"
     },
     {
-      "title": "FBI prende outro suspeito do ShinyHunters supostamente envolvido em hack do portal de empregos",
+      "title": "FBI prende outro suspeito do ShinyHunters supostamente envolvido em seu hack no portal de empregos",
       "summary": "O FBI prendeu outro suposto co-conspirador do ShinyHunters, disse o diretor do FBI Kash Patel em 9 de outubro em uma postagem no X. ShinyHunters é o grupo de extorsão que disse em setembro ter violado o portal de empregos do FBI e roubado dados confidenciais d",
       "category": "INCIDENTES",
       "source": "The Hacker News",
