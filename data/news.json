@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-10-12T00:38:53.324798+00:00",
+  "updated_at": "2026-10-12T11:04:51.515809+00:00",
   "items": [
+    {
+      "title": "Especialista em resposta a ransomware preso em investigação de hack do FBI ShinyHunters",
+      "summary": "Acredita-se que o suspeito seja Edward Dubrovsky, um executivo canadense de segurança cibernética que estava visitando os Estados Unidos para uma conferência. O posto Especialista em resposta a ransomware preso na investigação de hack do FBI ShinyHunters apare",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ransomware-response-expert-arrested-in-shinyhunters-fbi-hack-probe/",
+      "published": "2026-10-12T10:32:05+00:00",
+      "image": ""
+    },
+    {
+      "title": "Atacantes exploram falha do CVSS 10.0 Bricksforge WordPress, permitindo RCE não autenticado",
+      "summary": "Uma falha de segurança de gravidade máxima que afeta o plugin Bricksforge para WordPress está sob exploração ativa, de acordo com Patchstack. A vulnerabilidade crítica em questão é CVE-2026-85097 (pontuação CVSS: 10.0), que permite que invasores não autenticad",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
+      "published": "2026-10-12T09:02:14+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrKeT1xQm0N8zjNRqWwsoqMm3kESRMqYnUJ9Wy6x9dEKlRVgZYDVqKqhu_2ZT7ZcCNd_RegNu2LtnUUQgL8R2OlK5LTyu9vKaCBRGTVrp05hGdB5wQrxFNi_eHnGxx-8yFR7maKT3tD_WBMVVBSeTyuku392tKdoOHIgvnj1tKQYU_Yq9anT5OKxUun4GW/s1600/wp-php.jpg"
+    },
+    {
+      "title": "Vulnerabilidade crítica da SonicWall explorada dias após divulgação",
+      "summary": "CVE-2026-102255 é uma falha SSRF pré-autenticada que pode permitir que invasores realizem operações não autorizadas. A postagem Vulnerabilidade crítica da SonicWall explorada dias após a divulgação apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/critical-sonicwall-vulnerability-exploited-days-after-disclosure/",
+      "published": "2026-10-12T08:36:01+00:00",
+      "image": ""
+    },
+    {
+      "title": "Let’s Encrypt reduz a validade do certificado padrão para 64 dias antes da troca de 45 dias",
+      "summary": "A partir de fevereiro de 2027, todos os certificados recém-emitidos terão um período de validade de 64 dias por padrão. A postagem Vamos criptografar reduz a validade do certificado padrão para 64 dias antes da troca de 45 dias apareceu pela primeira vez na Se",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/lets-encrypt-cuts-default-certificate-validity-to-64-days-ahead-of-45-day-switch/",
+      "published": "2026-10-12T07:53:28+00:00",
+      "image": ""
+    },
+    {
+      "title": "CyberXero usa código Claude em campanha que roubou mais de 628.000 registros ucranianos",
+      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma campanha dupla de acesso inicial aumentado por inteligência artificial (IA), visando sites WordPress, plataformas de comércio eletrônico e entidades de infraestrutura crítica na Ucrânia. A ativi",
+      "category": "CLOUD & IA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
+      "published": "2026-10-12T07:26:12+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCjQWPc2H2EsKbjYztfxdp2ffZz6TGQNJ9BuALJB44sWqXbCxEa61fu5CZ4w1rS0llVr3hQP4H_Vg5Fj87Jrs5IoUDpBmochh3rA5bMMr3V4hUT22HTPgLUeX9WhGIQuFm4zF-Kf3zIzSNsQGQlP_gkSSSV-hu5rp5CHX_1T83TOeWsYia_xbuHLlwAxDv/s1600/claude-hacker.jpg"
+    },
     {
       "title": "Incidente de malware na Nippon Columbia expõe 8,6 milhões de registros de fãs de karaokê",
       "summary": "A Daiichi Kosho, um importante fabricante japonês de sistemas de entretenimento, revelou que uma infecção por malware em seu fornecedor, a Nippon Columbia, expôs mais de 8,7 milhões de registros de clientes e funcionários. [...]",
@@ -29,15 +74,6 @@
       "image": ""
     },
     {
-      "title": "Executivo cibernético preso em caso supostamente ligado a hackers ShinyHunters - BleepingComputer",
-      "summary": "Executivo cibernético preso em caso supostamente ligado a hackers ShinyHunters BleepingComputer",
-      "category": "DEFESA",
-      "source": "BleepingComputer",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX0hnS3NabHBrTnhZeHMtcC1xVzV3bUtsWjRGMGJiODQ1blFtdVVfNGFhTTRKQUthOUtOeXhjMWxpQTQ0UmFsMlRsbm55TVNOck5wNVBKVjUxMjdGVXdQRDU3cHhlcFRDT3ZjS2d5aE5CeHpNUE9GVXBTX25aTV9KWUdoejJWSGlQemJ4aE9CMFNnV1MtcWJ5MUlGMjBUTnE5b053STRUMi02N2lGRzlabzdHcXbSAboBQVVfeXFMUHh1NmZBQy1LQnlNUGotZnBnNmR5QkJWd0pQcHJ5dmV3VlFzSzVrMkk5aDFBZ19YR09iUDg5MXZlUDU5dzlSMWlHZnFLZXc0WEN2ajlpTk0wWW5QWkFIMzQ3UDFVR3JzMEliaVkwZDg2bzRIbzEybTlyT1J1MUNxclVnNlNqNmxpNXVXZE9WdTMwYmkwSHJyM2k3Z1NqWW41Mi0wUGdpTjI3eXpweExKV2d6dG1abzZNZWZR?oc=5",
-      "published": "2026-10-10T15:07:54+00:00",
-      "image": ""
-    },
-    {
       "title": "ARTEX AI, agentes Claude usados ​​em ataques cibernéticos a bancos sul-coreanos",
       "summary": "Os ataques cibernéticos que abalaram o setor financeiro sul-coreano no início deste mês foram lançados por um hacker chinês usando o conjunto de testes de penetração ARTEX AI e agentes Claude. [...]",
       "category": "INCIDENTES",
@@ -56,17 +92,8 @@
       "image": ""
     },
     {
-      "title": "P7 DarkSword iOS Exploit Kit adiciona roubo de dados de carteira criptografada e comandos remotos - The Hacker News",
-      "summary": "P7 DarkSword iOS Exploit Kit adiciona roubo de dados de carteira criptografada e comandos remotos The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ld05oVjdpSVo1elVEdkl6dU9MMGVHTktrclhPa3FvTGtPVHRUeHpfUThTQzZ4dkpGQ1YtdHFsejJtTUFFWVhfWUtoTXZWeVQ1LXJHaE5wX0dEQjVFZzM4b3NTMnJ2QlJtOFFDZTQ2c0JmTlFuVUtHSTVEczg?oc=5",
-      "published": "2026-10-10T11:01:13+00:00",
-      "image": ""
-    },
-    {
       "title": "O problema do agente terceirizado: por que a segurança desenvolvida para IA que você escolheu perde os agentes que você não escolheu",
-      "summary": "Nos ambientes estudados para o Relatório sobre o estado do agente de segurança de 2026, cerca de 1.280 produtos de terceiros agora incorporam IA. Cerca de 282 deles possuem login único. Os outros milhares são invisíveis para a infraestrutura de identidade por ",
+      "summary": "Nos ambientes estudados para o Relatório sobre o estado do agente de segurança de 2026, cerca de 1.280 produtos de terceiros agora incorporam IA. Cerca de 282 deles possuem login único. Os outros mil são invisíveis para a infraestrutura de identidade por padrã",
       "category": "CLOUD & IA",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
@@ -83,17 +110,8 @@
       "image": ""
     },
     {
-      "title": "O problema do agente terceirizado: por que a segurança desenvolvida para IA que você escolheu perde os agentes que você não escolheu - The Hacker News",
-      "summary": "O problema do agente terceirizado: por que a segurança desenvolvida para IA que você escolheu perde os agentes que você não escolheu The Hacker News",
-      "category": "CLOUD & IA",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pam5kRzV0WWs0c3l2VXNkNUJLX0dNaENkc05ScXUzNlZ1cXFjOGFXeGpKWlAwSzBRV1NQLUsxV3gwcVJzZFV1VkwzU2c0WWJDdDNQRGw4dUlzLXM4dEJUUVhOTGR5bEFMeDREZ2QxMF9lM0t6RFgwYmJ5WGw?oc=5",
-      "published": "2026-10-10T11:00:00+00:00",
-      "image": ""
-    },
-    {
       "title": "Anthropic corta acesso ao vivo à Internet para testes internos de IA após Claude explorar falhas de injeção",
-      "summary": "A Anthropic disse na sexta-feira que está cortando o acesso ao vivo à Internet para todas as suas avaliações internas após a descoberta de novos incidentes nos quais seus modelos de inteligência artificial (IA) exibiram comportamento desalinhado e visaram site",
+      "summary": "A Anthropic disse na sexta-feira que está cortando o acesso ao vivo à Internet para todas as suas avaliações internas até novo aviso, após a descoberta de novos incidentes nos quais seus modelos de inteligência artificial (IA) exibiram comportamento desalinhad",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
@@ -144,24 +162,6 @@
       "url": "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom",
       "published": "2026-10-09T19:26:26+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt90b8b5144c2f800e/6ac8017e3277a45cef5b830f/Q3-MandA-deals-cybersecurity-Momentum_Cyber.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Fluxos de trabalho de ações do GitHub para roubo de credenciais implantados em dezenas de milhares de repositórios",
-      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma campanha contínua de roubo de credenciais que comprometeu duas contas de mantenedor de código aberto de alto perfil para enviar um fluxo de trabalho malicioso para mais de 340 repositórios. “Usa",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
-      "published": "2026-10-09T19:14:28+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoJXBEAVVijhwsYs32WSejvp0sG3ej-Qoi7Z6qHDp8rY5IZENkKOpexrbbU1BNyiCbbB0ZXHjEDL-UYqu7CDpPpoYLiGXkuLCZJTItgP5XeLD_Sb1galPzOGtrFZigEM5CGUbwi9gcL_-XCYY6NKu9j5FiakIWn5s66DZE-OjrLZO3sMGka3YNFvGUecJT/s1600/gitworm.jpg"
-    },
-    {
-      "title": "FBI prende outro suspeito do ShinyHunters supostamente envolvido em hack do portal de empregos",
-      "summary": "O FBI prendeu outro suposto co-conspirador do ShinyHunters, disse o diretor do FBI Kash Patel em 9 de outubro em uma postagem no X. ShinyHunters é o grupo de extorsão que disse em setembro ter violado o portal de empregos do FBI e roubado dados confidenciais d",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
-      "published": "2026-10-09T17:45:26+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTRCTw1H9kT8UEVJYmaRrhHvMQEYFuE2TZqB62Wnxz8y4RIYOMald4OYO45ujfgSp0ixhgWVKb3_nJzoKV6gNuu_cKaN2Evnr9u7FlnwsPTPm9TPpikkUR-83UL3VrknNBzITPeFC8f1PKpYMwvH_AbBAFWcbPl61vUXJK1m0xJ_C5QYDIAGi_Ya-A5Tc/s1600/kash.jpg"
     }
   ]
 }
