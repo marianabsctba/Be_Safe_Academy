@@ -1,167 +1,167 @@
 {
-  "updated_at": "2026-10-12T11:04:51.515809+00:00",
+  "updated_at": "2026-10-12T21:21:02.585176+00:00",
   "items": [
     {
-      "title": "Especialista em resposta a ransomware preso em investigação de hack do FBI ShinyHunters",
-      "summary": "Acredita-se que o suspeito seja Edward Dubrovsky, um executivo canadense de segurança cibernética que estava visitando os Estados Unidos para uma conferência. O posto Especialista em resposta a ransomware preso na investigação de hack do FBI ShinyHunters apare",
+      "title": "Proeminente negociador de ransomware enfrenta acusações de extorsão",
+      "summary": "Edward Dubrovsky, um antigo executivo de segurança cibernética, foi preso e acusado na Pensilvânia na semana passada por conspiração para extorquir dinheiro.",
       "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ransomware-response-expert-arrested-in-shinyhunters-fbi-hack-probe/",
-      "published": "2026-10-12T10:32:05+00:00",
-      "image": ""
-    },
-    {
-      "title": "Atacantes exploram falha do CVSS 10.0 Bricksforge WordPress, permitindo RCE não autenticado",
-      "summary": "Uma falha de segurança de gravidade máxima que afeta o plugin Bricksforge para WordPress está sob exploração ativa, de acordo com Patchstack. A vulnerabilidade crítica em questão é CVE-2026-85097 (pontuação CVSS: 10.0), que permite que invasores não autenticad",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
-      "published": "2026-10-12T09:02:14+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrKeT1xQm0N8zjNRqWwsoqMm3kESRMqYnUJ9Wy6x9dEKlRVgZYDVqKqhu_2ZT7ZcCNd_RegNu2LtnUUQgL8R2OlK5LTyu9vKaCBRGTVrp05hGdB5wQrxFNi_eHnGxx-8yFR7maKT3tD_WBMVVBSeTyuku392tKdoOHIgvnj1tKQYU_Yq9anT5OKxUun4GW/s1600/wp-php.jpg"
-    },
-    {
-      "title": "Vulnerabilidade crítica da SonicWall explorada dias após divulgação",
-      "summary": "CVE-2026-102255 é uma falha SSRF pré-autenticada que pode permitir que invasores realizem operações não autorizadas. A postagem Vulnerabilidade crítica da SonicWall explorada dias após a divulgação apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/critical-sonicwall-vulnerability-exploited-days-after-disclosure/",
-      "published": "2026-10-12T08:36:01+00:00",
-      "image": ""
-    },
-    {
-      "title": "Let’s Encrypt reduz a validade do certificado padrão para 64 dias antes da troca de 45 dias",
-      "summary": "A partir de fevereiro de 2027, todos os certificados recém-emitidos terão um período de validade de 64 dias por padrão. A postagem Vamos criptografar reduz a validade do certificado padrão para 64 dias antes da troca de 45 dias apareceu pela primeira vez na Se",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/lets-encrypt-cuts-default-certificate-validity-to-64-days-ahead-of-45-day-switch/",
-      "published": "2026-10-12T07:53:28+00:00",
-      "image": ""
-    },
-    {
-      "title": "CyberXero usa código Claude em campanha que roubou mais de 628.000 registros ucranianos",
-      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma campanha dupla de acesso inicial aumentado por inteligência artificial (IA), visando sites WordPress, plataformas de comércio eletrônico e entidades de infraestrutura crítica na Ucrânia. A ativi",
-      "category": "CLOUD & IA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
-      "published": "2026-10-12T07:26:12+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCjQWPc2H2EsKbjYztfxdp2ffZz6TGQNJ9BuALJB44sWqXbCxEa61fu5CZ4w1rS0llVr3hQP4H_Vg5Fj87Jrs5IoUDpBmochh3rA5bMMr3V4hUT22HTPgLUeX9WhGIQuFm4zF-Kf3zIzSNsQGQlP_gkSSSV-hu5rp5CHX_1T83TOeWsYia_xbuHLlwAxDv/s1600/claude-hacker.jpg"
-    },
-    {
-      "title": "Incidente de malware na Nippon Columbia expõe 8,6 milhões de registros de fãs de karaokê",
-      "summary": "A Daiichi Kosho, um importante fabricante japonês de sistemas de entretenimento, revelou que uma infecção por malware em seu fornecedor, a Nippon Columbia, expôs mais de 8,7 milhões de registros de clientes e funcionários. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
-      "published": "2026-10-11T14:23:46+00:00",
-      "image": ""
-    },
-    {
-      "title": "P7 DarkSword iOS Exploit Kit adiciona roubo de dados de carteira criptografada e comandos remotos",
-      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma variante inédita do kit de exploração DarkSword iOS chamada P7 DarkSword. “Em comparação com as variantes que normalmente observamos, o P7 reduz sua pegada no dispositivo, adiciona chaveiro no d",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-      "published": "2026-10-11T04:24:34+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT-SCb1qpP1Z0zyo_WOtyHzQKUiqJ3RudpC9uowSePmGcLZ9sPHcE-lvDGMZTHeB7YckgDmaBA775L13GvrYHl_gAVSg46-5sUJWzcA7Q3ec5h8WIuKO5l0Td2CCk5nlSvNByqPL22qlTNwHms3rbdXsJYoEe7gRqHiqmM8DHtvEkKniOP4Q70Dq_5Dr8I/s1600/ios.jpg"
-    },
-    {
-      "title": "Executivo cibernético preso em caso supostamente ligado a hackers ShinyHunters",
-      "summary": "O executivo canadense de segurança cibernética Edward Dubrovsky foi preso na Pensilvânia em conexão com supostas atividades de extorsão que vários relatórios vincularam à repressão contínua do FBI ao grupo de hackers ShinyHunters. [...]",
-      "category": "DEFESA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
-      "published": "2026-10-10T15:07:54+00:00",
-      "image": ""
-    },
-    {
-      "title": "ARTEX AI, agentes Claude usados ​​em ataques cibernéticos a bancos sul-coreanos",
-      "summary": "Os ataques cibernéticos que abalaram o setor financeiro sul-coreano no início deste mês foram lançados por um hacker chinês usando o conjunto de testes de penetração ARTEX AI e agentes Claude. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
-      "published": "2026-10-10T14:16:17+00:00",
-      "image": ""
-    },
-    {
-      "title": "Criminal IP apresenta AITEM como a próxima evolução do gerenciamento de superfície de ataque",
-      "summary": "O gerenciamento tradicional da superfície de ataque ajuda as organizações a descobrir ativos expostos, mas a visibilidade por si só não é suficiente para enfrentar as ameaças. Criminal IP apresenta AITEM, uma abordagem baseada em IA que conecta descoberta de e",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
-      "published": "2026-10-10T12:30:39+00:00",
-      "image": ""
-    },
-    {
-      "title": "O problema do agente terceirizado: por que a segurança desenvolvida para IA que você escolheu perde os agentes que você não escolheu",
-      "summary": "Nos ambientes estudados para o Relatório sobre o estado do agente de segurança de 2026, cerca de 1.280 produtos de terceiros agora incorporam IA. Cerca de 282 deles possuem login único. Os outros mil são invisíveis para a infraestrutura de identidade por padrã",
-      "category": "CLOUD & IA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
-      "published": "2026-10-10T11:00:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghemGbtxM2amUYAlxUPHPdMiyDMQJFWZeY-dDODRqCRD0phZXXQv0rrKHiOsLPW3t0Fq2XxvvFyCC-OmNs7TXhXXKSRVMPpC1GPKSUsyzN9t-W6L4jtiA2DUiTLgou4iyw0QXN-6Wfz0H2zWYGgC6-OxtlQrfb0PygOeBWwDnR11nl3Gl8W5pL07sExNc/s1600/reco.gif"
-    },
-    {
-      "title": "Conspiração de extorsão cibernética interna contra engenheiro de terras de empresa industrial na prisão",
-      "summary": "O ex-engenheiro de infraestrutura principal excluiu contas de administrador, redefiniu centenas de senhas e exigiu 20 bitcoins para poupar os servidores da empresa. A postagem Conspiração de extorsão cibernética interna contra engenheiro de terras de empresas ",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/",
-      "published": "2026-10-10T11:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Anthropic corta acesso ao vivo à Internet para testes internos de IA após Claude explorar falhas de injeção",
-      "summary": "A Anthropic disse na sexta-feira que está cortando o acesso ao vivo à Internet para todas as suas avaliações internas até novo aviso, após a descoberta de novos incidentes nos quais seus modelos de inteligência artificial (IA) exibiram comportamento desalinhad",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
-      "published": "2026-10-10T09:18:45+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk6Q5kUrLA2Pfuqcghyphenhyphen1q3pECWSE72HYp9BB9GM5i3b_6XxNHMtwlR7yrPj_xTpcwoIaMy0vJt8A1g_D9Riz6JhbU5WyVPV69DFvk1oIzv2jp-eG-qbfx8lIHF2zX_XEAxz5gC51xn2hPUwYVh9thUuQslxqfIp1Pg3bgmWQYaXXW4LuUxTdUZzUo2R22C/s1600/claude-internet.jpg"
-    },
-    {
-      "title": "FBI prende executivo de empresa de negociação de ransomware",
-      "summary": "Agentes do Federal Bureau of Investigation (FBI) prenderam na quinta-feira o cofundador de uma empresa canadense de segurança cibernética em conexão com uma investigação sobre o grupo de hackers ShinyHunters que recentemente libertou o FBI de dados confidencia",
-      "category": "AMEAÇAS",
-      "source": "KrebsOnSecurity",
-      "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
-      "published": "2026-10-10T00:17:42+00:00",
-      "image": ""
-    },
-    {
-      "title": "OpenAI demite três pesquisadores de segurança em disputa sobre riscos de IA",
-      "summary": "O fabricante do ChatGPT disse que os pesquisadores “violaram políticas claras sobre o tratamento de informações confidenciais”. A postagem OpenAI demite três pesquisadores de segurança em disputa sobre riscos de IA apareceu pela primeira vez na SecurityWeek.",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/openai-fires-3-safety-researchers-in-dispute-over-ai-risks/",
-      "published": "2026-10-09T21:07:46+00:00",
-      "image": ""
-    },
-    {
-      "title": "A violação do ASOS revela os riscos do SaaS voltado para o cliente",
-      "summary": "O ataque ao retalhista britânico mostra que comprometer uma única identidade pode levar a uma penetração muito mais profunda na rede corporativa.",
-      "category": "INCIDENTES",
       "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas",
-      "published": "2026-10-09T20:58:32+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2b112712c8bb12fb/6ac941a985fe76474e2a9b2b/Clothes-triocean-Getty.jpg?width=720&quality=80&disable=upscale"
+      "url": "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges",
+      "published": "2026-10-12T20:00:53+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt86362c732a1ea960/6acd300ce9fd233382c61151/business_negotiation-rudall30-GettyImages-2291181534.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Hackers abusam do Google Ads, redirecionamentos do Bing para empurrar ataques de Claude ClickFix",
-      "summary": "Os hackers estão abusando de redirecionamentos legítimos de resultados de pesquisa do Bing como URLs de clique em anúncios de pesquisa do Google para direcionar os usuários a falsos instaladores Claude que fornecem ataques ClickFix. [...]",
+      "title": "Yandex confirma interrupção do serviço conforme usuários perdem acesso a arquivos na nuvem",
+      "summary": "O provedor russo de serviços em nuvem Yandex anunciou que ataques de drones danificaram três de seus data centers, forçando-o a fechar duas instalações e desativar parcialmente uma terceira. [...]",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-      "published": "2026-10-09T20:31:37+00:00",
+      "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
+      "published": "2026-10-12T19:23:01+00:00",
       "image": ""
     },
     {
-      "title": "AI Scramble impulsiona boom de fusões e aquisições em segurança cibernética",
-      "summary": "Bem-vindo a mais um ano de grande sucesso para atividades estratégicas de fusões e aquisições no setor cibernético, com 117 negócios anunciados no último trimestre. O que é diferente: muitos dos compradores não são empresas típicas de segurança cibernética.",
-      "category": "DEFESA",
+      "title": "Anthropic coloca testes arriscados de IA off-line depois que modelos violam sites governamentais",
+      "summary": "A Anthropic anunciou que seus modelos internos de IA submetidos a “avaliações de alto risco e segurança cibernética” não têm mais acesso à Internet após incidentes envolvendo sites do governo dos EUA nos níveis federal, estadual e local. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
+      "published": "2026-10-12T18:51:59+00:00",
+      "image": ""
+    },
+    {
+      "title": "Sem identidade, sem recuperação: a resiliência cibernética começa com o IAM",
+      "summary": "A proliferação de aplicações empresariais e a centralidade dos fornecedores de identidade na nuvem exigem uma repensação da segurança da identidade.",
+      "category": "CLOUD & IA",
       "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom",
-      "published": "2026-10-09T19:26:26+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt90b8b5144c2f800e/6ac8017e3277a45cef5b830f/Q3-MandA-deals-cybersecurity-Momentum_Cyber.jpg?width=720&quality=80&disable=upscale"
+      "url": "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam",
+      "published": "2026-10-12T18:27:25+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc4e8be3c10aa2950/6acd23ee26d33c046ebc6ef9/resilience-hogehoge511-Getty-2296989476.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Ataque cibernético fecha geladeiras em supermercados franceses",
+      "summary": "Os invasores descongelaram remotamente refrigeradores em várias redes de supermercados francesas durante a noite, em um ataque cibernético que teria como alvo os controladores de refrigeração da Danfoss. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
+      "published": "2026-10-12T15:23:34+00:00",
+      "image": ""
+    },
+    {
+      "title": "⚡ Recapitulação semanal: Helpdesk 0-Days, Rogue Certs, prisão de ShinyHunters, malware que engana IA e muito mais",
+      "summary": "Algumas reuniões duram mais do que o necessário para que os invasores detectem uma falha de segurança recentemente divulgada esta semana. Em poucas horas, eles já estavam testando. Não é muito tempo para ler o aviso, muito menos para fazer algo a respeito. Mas",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
+      "published": "2026-10-12T15:16:26+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv97S5d5aYZZRto-_3AfPjT2TmAcI0KYQm4zY7cXyf1hz-GHIcmuL9wF5IIzmg3D7_F-yh6Z9qtamVwEikSKd3tuy5eGo_mN2Qw-O602x4Abiwuf5Q9G72nX4ZOeFRly8woPJ8EBn2USmFIdDUVg6P-3f8nUPDTbcqrAF5JWsu_NRWTvz6EF5YVVqPrbvY/s1600/cy-cap.jpg"
+    },
+    {
+      "title": "IonQ adquirirá Zero Trust Firm Elisity por até US$ 1,3 bilhão",
+      "summary": "O acordo com todas as ações traz a tecnologia de acesso com menos privilégios da Elisity para o portfólio de segurança da IonQ. A postagem IonQ adquirirá Zero Trust Firm Elisity por até US$ 1,3 bilhão apareceu pela primeira vez na SecurityWeek.",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/",
+      "published": "2026-10-12T14:25:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Por dentro do AvisLoader: um carregador de malware do Windows criado para resistir a interrupções",
+      "summary": "Um novo carregador de malware do Windows chamado AvisLoader usa comunicações ponto a ponto criptografadas para dificultar a interrupção da infraestrutura de comando e controle. Os pesquisadores da Varonis explicam como o malware usa a entrega ClickFix, persist",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
+      "published": "2026-10-12T14:00:10+00:00",
+      "image": ""
+    },
+    {
+      "title": "A gigante do varejo Ahold Delhaize coloca sistemas off-line após ataque cibernético",
+      "summary": "A gigante retalhista Ahold Delhaize, uma das maiores cadeias de retalho alimentar do mundo, confirmou hoje que teve de desligar alguns sistemas em resposta a um “incidente de segurança cibernética” que afetou a sua rede. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
+      "published": "2026-10-12T13:51:07+00:00",
+      "image": ""
+    },
+    {
+      "title": "Vulnerabilidade do plug-in Bricksforge WordPress explorada em estado selvagem",
+      "summary": "A vulnerabilidade rastreada como CVE-2026-85097 pode permitir que os agentes da ameaça assumam o controle dos sites WordPress visados. A postagem Vulnerabilidade do plug-in Bricksforge WordPress explorada na natureza apareceu pela primeira vez em SecurityWeek ",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/",
+      "published": "2026-10-12T13:14:37+00:00",
+      "image": ""
+    },
+    {
+      "title": "GitLab alerta sobre vulnerabilidade de execução de código de gravidade máxima",
+      "summary": "O GitLab alertou os usuários hoje para corrigir imediatamente uma vulnerabilidade de gravidade máxima no compilador de expressão regular CI/CD que poderia permitir que invasores remotos executassem código arbitrário em instâncias direcionadas. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
+      "published": "2026-10-12T13:09:09+00:00",
+      "image": ""
+    },
+    {
+      "title": "Sites canônicos interrompidos no segundo ataque DDoS este ano",
+      "summary": "A interrupção atingiu os principais sites do Ubuntu e da Canonical, incluindo o blog do Ubuntu e o portal do desenvolvedor. A postagem Sites canônicos interrompidos no segundo ataque DDoS deste ano apareceu pela primeira vez na SecurityWeek.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/canonical-websites-disrupted-in-second-ddos-attack-this-year/",
+      "published": "2026-10-12T11:58:39+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft: Windows 11 23H2 chega ao fim do suporte em 30 dias",
+      "summary": "A Microsoft lembrou aos clientes que os sistemas que executam as edições Windows 11 23H2 Enterprise, Education e IoT Enterprise deixarão de receber atualizações de segurança no próximo mês. [...]",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/",
+      "published": "2026-10-12T11:58:33+00:00",
+      "image": ""
+    },
+    {
+      "title": "Traga seu próprio agente: os assistentes de seus funcionários já estão logados",
+      "summary": "A implementação dos agentes pessoais de IA está ocorrendo tão bem quanto o esperado: a Amazon agora bloqueia o Meta's Muse porque ele não se identifica como um bot durante a navegação; O Instinct continua levantando questões de privacidade; e as histórias de t",
+      "category": "CLOUD & IA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
+      "published": "2026-10-12T11:55:00+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyfIDT5M3MmWcxPZrWKZ_8EOy_WZY9iQHv9CQrAKcSZ7_EAadHyWzg9Aa5zQizJiwjNNLp6TDGShed4uvK0iq0d5TQHOV4wqah_jnbuJK-gFuObDCjO_bhwobK9PlO-CmK92s9PueGqpPI_puFGDAS_t4evoyjokLRlaXbql9cGN3d7POdsiXyUYvicVs/s1600/bring.jpg"
+    },
+    {
+      "title": "O mentor da rede de lavagem de crimes cibernéticos de 15.000 mulas se declara culpado nos EUA",
+      "summary": "Oleg Korniev era líder da YMCO, uma sofisticada rede de mulas de dinheiro que ajudava hackers a movimentar fundos para fora dos EUA. A postagem O mentor da rede de lavagem de crimes cibernéticos de 15.000 mulas se declara culpado nos EUA apareceu pela primeira",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/mastermind-of-15000-mule-cybercrime-laundering-network-pleads-guilty-in-us/",
+      "published": "2026-10-12T11:24:50+00:00",
+      "image": ""
+    },
+    {
+      "title": "A violação de dados da iRhythm impacta pelo menos 360.000 pessoas",
+      "summary": "Os hackers roubaram informações pessoais dos pacientes, incluindo nomes, endereços, endereços de e-mail, datas de nascimento e números de telefone. A postagem A violação de dados do iRhythm impacta pelo menos 360.000 pessoas apareceu pela primeira vez na Secur",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/irhythm-data-breach-impacts-over-360000-people/",
+      "published": "2026-10-12T11:05:43+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falha crítica do SonicWall SMA 1000 alvo de 135 tentativas de exploração após patch",
+      "summary": "Foram observados agentes de ameaças explorando uma falha crítica de segurança divulgada recentemente em dispositivos SonicWall Secure Mobile Access (SMA) 1000, poucos dias após a divulgação pública. A vulnerabilidade, rastreada como CVE-2026-102255 (pontuação ",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
+      "published": "2026-10-12T10:36:56+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglEbu7YOWX4lrTm_x8p2FnL6B7z2hhGC0fKWPBSCVJqTt8l0rbcXFhQinT3ja0sVyx7hObbCQlmem9y4-wsxrwU6mtgsBIJjvH7rgC8n5w8DpEcv7G1N_u4dtOzA3qxVk22FPvly-ZmjsLJKdJqgTsKPtMHpit1oq-fk7jPFN1gTHLeJdF2JQRZ8yuwjxv/s1600/sonics.jpg"
+    },
+    {
+      "title": "Falha crítica do SonicWall SMA 1000 alvo de 135 tentativas de exploração após patch - The Hacker News",
+      "summary": "Falha crítica do SonicWall SMA 1000 alvo de 135 tentativas de exploração após patch The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfQ3VIZW9hVjBjc2daaDQ4X0hsdU5HNGk2S2VrN3hnNl9TOTJDUmdwUFcyUnhlNVdpNTE4RllpVnpxNmtQTXhnQTJzU25BTHpRNVBTRzRGQjFibkhPQUNJWlVzT0dNX1c1X0lObmlGVXRoMC14czgyNU0xUQ?oc=5",
+      "published": "2026-10-12T10:36:00+00:00",
+      "image": ""
     }
   ]
 }
