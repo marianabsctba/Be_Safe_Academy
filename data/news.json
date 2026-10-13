@@ -1,167 +1,167 @@
 {
-  "updated_at": "2026-10-13T06:54:53.488257+00:00",
+  "updated_at": "2026-10-13T17:01:41.413352+00:00",
   "items": [
     {
-      "title": "Falha SSRF de gravidade máxima em dispositivos SonicWall SMA sob ataque",
-      "summary": "Atualmente, os invasores estão visando uma vulnerabilidade crítica nos dispositivos SMA 1000, colocando os clientes da SonicWall em uma posição familiar, mas pouco invejável.",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
-      "published": "2026-10-12T21:42:42+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt03ff00aa0ccf043c/685b010d7bd6c2cb5e6d4834/SonicWall_sign_Michael_Vi_Alamy.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Proeminente negociador de ransomware enfrenta acusações de extorsão",
-      "summary": "Edward Dubrovsky, um antigo executivo de segurança cibernética, foi preso e acusado na Pensilvânia na semana passada por conspiração para extorquir dinheiro.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges",
-      "published": "2026-10-12T20:00:53+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt86362c732a1ea960/6acd300ce9fd233382c61151/business_negotiation-rudall30-GettyImages-2291181534.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Yandex confirma interrupção do serviço conforme usuários perdem acesso a arquivos na nuvem",
-      "summary": "O provedor russo de serviços em nuvem Yandex anunciou que ataques de drones danificaram três de seus data centers, forçando-o a fechar duas instalações e desativar parcialmente uma terceira. [...]",
+      "title": "O ataque cibernético da TFG London interrompe sistemas nos varejistas Hobbs and Whistles",
+      "summary": "A TFG London detectou um incidente de segurança cibernética que afetou os sistemas de TI usados ​​pelas marcas de moda premium Phase Eight, Hobbs e Whistles. [...]",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
-      "published": "2026-10-12T19:23:01+00:00",
+      "url": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
+      "published": "2026-10-13T16:44:18+00:00",
       "image": ""
     },
     {
-      "title": "Anthropic coloca testes arriscados de IA off-line depois que modelos violam sites governamentais",
-      "summary": "A Anthropic anunciou que seus modelos internos de IA submetidos a “avaliações de alto risco e segurança cibernética” não têm mais acesso à Internet após incidentes envolvendo sites do governo dos EUA nos níveis federal, estadual e local. [...]",
+      "title": "GitHub reforça publicação npm após falha deixar mais de 1.500 pacotes vulneráveis ​​a sequestro",
+      "summary": "O GitHub tomou a iniciativa de expirar configurações de publicação confiáveis ​​npm não validadas 48 horas após a criação, depois que os pesquisadores descobriram que era possível para um invasor enviar novas versões do pacote de um usuário diferente sem ter q",
       "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
-      "published": "2026-10-12T18:51:59+00:00",
-      "image": ""
-    },
-    {
-      "title": "Sem identidade, sem recuperação: a resiliência cibernética começa com o IAM - Dark Reading",
-      "summary": "Sem identidade, sem recuperação: a resiliência cibernética começa com a leitura obscura do IAM",
-      "category": "DEFESA",
-      "source": "Dark Reading",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb2VRZlkzZmYyZHRMNXlDamJTTHhzWEFOV1FEa1dTcVNtOFNRTUIyM3ZqdkVhWmI1ak5hLW5lNTRUNk9hV0JyWEtkSWZVQ3N0U1NDekxQRFg2RUJGMG84SWZPdFl2TGF1ZHBYdzJqTkhLREswM201YklDc20ySjhaYmFiUFdLY1NXMXJtbnpR?oc=5",
-      "published": "2026-10-12T18:44:58+00:00",
-      "image": ""
-    },
-    {
-      "title": "Sem identidade, sem recuperação: a resiliência cibernética começa com o IAM",
-      "summary": "A proliferação de aplicações empresariais e a centralidade dos fornecedores de identidade na nuvem exigem uma repensação da segurança da identidade.",
-      "category": "CLOUD & IA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam",
-      "published": "2026-10-12T18:27:25+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc4e8be3c10aa2950/6acd23ee26d33c046ebc6ef9/resilience-hogehoge511-Getty-2296989476.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Ataque cibernético fecha geladeiras em supermercados franceses",
-      "summary": "Os invasores descongelaram remotamente refrigeradores em várias redes de supermercados francesas durante a noite, em um ataque cibernético que teria como alvo os controladores de refrigeração da Danfoss. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
-      "published": "2026-10-12T15:23:34+00:00",
-      "image": ""
-    },
-    {
-      "title": "⚡ Recapitulação semanal: Helpdesk 0-Days, Rogue Certs, prisão de ShinyHunters, malware que engana IA e muito mais",
-      "summary": "Algumas reuniões duram mais do que o necessário para que os invasores detectem uma falha de segurança recentemente divulgada esta semana. Em poucas horas, eles já estavam testando. Não é muito tempo para ler o aviso, muito menos para fazer algo a respeito. Mas",
-      "category": "AMEAÇAS",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
-      "published": "2026-10-12T15:16:26+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv97S5d5aYZZRto-_3AfPjT2TmAcI0KYQm4zY7cXyf1hz-GHIcmuL9wF5IIzmg3D7_F-yh6Z9qtamVwEikSKd3tuy5eGo_mN2Qw-O602x4Abiwuf5Q9G72nX4ZOeFRly8woPJ8EBn2USmFIdDUVg6P-3f8nUPDTbcqrAF5JWsu_NRWTvz6EF5YVVqPrbvY/s1600/cy-cap.jpg"
+      "url": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
+      "published": "2026-10-13T16:18:18+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3aDWaWT6PmRDL9d6tHPDisxclb_Ak7YZIxuS02EUFvNaWrc4_UKwUqW0RI1KT3r8zsneOguD6b85yg8mf3gAzZZOGuLi-mXckG_yzwmXXb3IchTBSVeRvPlUo7QU4Kp4yiM6QqPshmo4p0GQ55XZPTEDc0DZn9N84S_ZibZ4rkXuhZ3OvoHNCYH-wk0k-/s1600/git-npm.jpg"
     },
     {
-      "title": "IonQ adquirirá Zero Trust Firm Elisity por até US$ 1,3 bilhão",
-      "summary": "O acordo com todas as ações traz a tecnologia de acesso com menos privilégios da Elisity para o portfólio de segurança da IonQ. A postagem IonQ adquirirá Zero Trust Firm Elisity por até US$ 1,3 bilhão apareceu pela primeira vez na SecurityWeek.",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ionq-to-acquire-zero-trust-firm-elisity-for-up-to-1-3-billion/",
-      "published": "2026-10-12T14:25:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "IonQ adquirirá Zero Trust Firm Elisity por até US$ 1,3 bilhão - SecurityWeek",
-      "summary": "IonQ adquirirá Zero Trust Firm Elisity por até US$ 1,3 bilhão SecurityWeek",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdUdMV1pNZ19jTkhyWUpnMHBpY0FUNDJqWE9GRWdPVjUwbUVMMVhzaUhXUDNfYTdkQWlwbXBuY0lsd25EamFnM2dieUJmRk5sUW8taV84VHFnenV1NHRVN1EwdVVNVUh1MFZZZy0wbS1MMGpzWHBScGF2Ujdlc3pINFNWTjhCZFlqRHJpNUM2Q1c2NGoyNnfSAZsBQVVfeXFMTkpYWkhkaHYwNzFfR1U0TDNVVXM4bDNNVGY3ZUduN05ZeHZhV2x6VnVUejh1dDJZX19oTEtlYW5PN29oRmVLSEN6OFluRDY5VTdUa2VyWThrb084cUZsVUgxRDFQU3A5MnV1a3RzMkM5Wkw3ai16RTFaMXphUmdVdXhyQ0ZFQ2JIbDd5eUgwSmlnaVFjVnJpTXIxSEU?oc=5",
-      "published": "2026-10-12T14:25:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Por dentro do AvisLoader: um carregador de malware do Windows desenvolvido para resistir a interrupções",
-      "summary": "Um novo carregador de malware do Windows chamado AvisLoader usa comunicações ponto a ponto criptografadas para dificultar a interrupção da infraestrutura de comando e controle. Os pesquisadores da Varonis explicam como o malware usa entrega ClickFix, persistên",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
-      "published": "2026-10-12T14:00:10+00:00",
-      "image": ""
-    },
-    {
-      "title": "A gigante do varejo Ahold Delhaize coloca sistemas off-line após ataque cibernético",
-      "summary": "A gigante retalhista Ahold Delhaize, uma das maiores cadeias de retalho alimentar do mundo, confirmou hoje que teve de desligar alguns sistemas em resposta a um “incidente de segurança cibernética” que afetou a sua rede. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
-      "published": "2026-10-12T13:51:07+00:00",
-      "image": ""
-    },
-    {
-      "title": "Vulnerabilidade do plug-in Bricksforge WordPress explorada em estado selvagem",
-      "summary": "A vulnerabilidade rastreada como CVE-2026-85097 pode permitir que os agentes da ameaça assumam o controle dos sites WordPress visados. A postagem Vulnerabilidade do plug-in Bricksforge WordPress explorada na natureza apareceu pela primeira vez em SecurityWeek ",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/",
-      "published": "2026-10-12T13:14:37+00:00",
-      "image": ""
-    },
-    {
-      "title": "GitLab alerta sobre vulnerabilidade de execução de código de gravidade máxima",
-      "summary": "O GitLab alertou os usuários hoje para corrigir imediatamente uma vulnerabilidade de gravidade máxima no compilador de expressão regular CI/CD que poderia permitir que invasores remotos executassem código arbitrário em instâncias direcionadas. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
-      "published": "2026-10-12T13:09:09+00:00",
-      "image": ""
-    },
-    {
-      "title": "Sites canônicos interrompidos no segundo ataque DDoS este ano",
-      "summary": "A interrupção atingiu os principais sites do Ubuntu e da Canonical, incluindo o blog do Ubuntu e o portal do desenvolvedor. A postagem Sites canônicos interrompidos no segundo ataque DDoS deste ano apareceu pela primeira vez na SecurityWeek.",
+      "title": "Meta afirma que hackers pegaram código e dados pessoais de 1.500 em violação do GitHub",
+      "summary": "A maioria dos indivíduos afetados são funcionários da Meta nos Estados Unidos e estão recebendo serviços de monitoramento de crédito. A postagem Meta diz que hackers pegaram código, dados pessoais de 1.500 em violação do GitHub apareceu pela primeira vez em Se",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/canonical-websites-disrupted-in-second-ddos-attack-this-year/",
-      "published": "2026-10-12T11:58:39+00:00",
+      "url": "https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/",
+      "published": "2026-10-13T16:01:00+00:00",
       "image": ""
     },
     {
-      "title": "Microsoft: Windows 11 23H2 chega ao fim do suporte em 30 dias",
-      "summary": "A Microsoft lembrou aos clientes que os sistemas que executam as edições Windows 11 23H2 Enterprise, Education e IoT Enterprise deixarão de receber atualizações de segurança no próximo mês. [...]",
-      "category": "DEFESA",
+      "title": "Ivanti alerta sobre o Connect Secure zero-day explorado em ataques",
+      "summary": "A Ivanti pediu aos clientes na terça-feira que corrigissem imediatamente uma vulnerabilidade de dia zero explorada ativamente no gateway de acesso remoto Ivanti Connect Secure (ICS). [...]",
+      "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/",
-      "published": "2026-10-12T11:58:33+00:00",
+      "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
+      "published": "2026-10-13T15:45:50+00:00",
       "image": ""
     },
     {
-      "title": "Traga seu próprio agente: os assistentes de seus funcionários já estão logados",
-      "summary": "A implementação dos agentes pessoais de IA está ocorrendo tão bem quanto o esperado: a Amazon agora bloqueia o Meta's Muse porque ele não se identifica como um bot durante a navegação; O Instinct continua levantando questões de privacidade; e as histórias de t",
-      "category": "CLOUD & IA",
+      "title": "A falha do Docker Hub permite que invasores se façam passar por usuários e adulterem imagens",
+      "summary": "O Docker divulgou uma vulnerabilidade crítica (CVE-2026-105445) no Docker Hub que permite que invasores acessem repositórios de contêineres de outro usuário usando um token de acesso pessoal (PAT). [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
+      "published": "2026-10-13T15:20:20+00:00",
+      "image": ""
+    },
+    {
+      "title": "Os atacantes das lacunas do MFA ainda estão explorando",
+      "summary": "Os invasores continuam explorando lacunas na cobertura de MFA, usando credenciais roubadas para acessar VPNs, RDP e sistemas Windows que ainda dependem apenas de senhas. Specops explica por que proteger aplicativos em nuvem não é suficiente e como as organizaç",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
+      "published": "2026-10-13T14:01:11+00:00",
+      "image": ""
+    },
+    {
+      "title": "SAP alerta sobre falha de segurança OAuth2 SSRF de gravidade máxima",
+      "summary": "A SAP corrigiu 20 falhas de segurança em vários produtos em suas atualizações de segurança de outubro de 2026, incluindo uma vulnerabilidade de gravidade máxima no Cloud SDK para Python. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/",
+      "published": "2026-10-13T13:51:02+00:00",
+      "image": ""
+    },
+    {
+      "title": "Xandr multou um recorde de € 8,6 milhões por transmitir dados do Grindr que revelavam orientação sexual",
+      "summary": "A Autoridade Norueguesa de Proteção de Dados (DPA) multou a Xandr, uma unidade de publicidade de propriedade da Microsoft, em 8,6 milhões de euros (9,62 milhões de dólares) por retransmitir ilegalmente dados confidenciais dos usuários do Grindr aos anunciantes",
+      "category": "INCIDENTES",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
-      "published": "2026-10-12T11:55:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyfIDT5M3MmWcxPZrWKZ_8EOy_WZY9iQHv9CQrAKcSZ7_EAadHyWzg9Aa5zQizJiwjNNLp6TDGShed4uvK0iq0d5TQHOV4wqah_jnbuJK-gFuObDCjO_bhwobK9PlO-CmK92s9PueGqpPI_puFGDAS_t4evoyjokLRlaXbql9cGN3d7POdsiXyUYvicVs/s1600/bring.jpg"
+      "url": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html",
+      "published": "2026-10-13T13:12:32+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGjfJJaKUMdLoNBTH2AYUmelL_XonLcf93p8hSgMXRbLGJwReAYV-BUZ2jpBPuvUQktW0PTKi1-21oFnBJF8PfECgT7t5r-S-iMUxjrdoWPf3EDxa2IVrQYjT98HG6s-LfPlJqm8mArrfEOEZS_scT7EYG8eXxMrUaII0UaQ3kAmWDJ3mRTR4JyIJhj-5S/s1600/grindr-data.jpg"
     },
     {
-      "title": "O mentor da rede de lavagem de crimes cibernéticos de 15.000 mulas se declara culpado nos EUA",
-      "summary": "Oleg Korniev era líder da YMCO, uma sofisticada rede de mulas de dinheiro que ajudava hackers a movimentar fundos para fora dos EUA. A postagem O mentor da rede de lavagem de crimes cibernéticos de 15.000 mulas se declara culpado nos EUA apareceu pela primeira",
-      "category": "DEFESA",
+      "title": "Pequenos modelos de IA poderão em breve se auto-replicar em dispositivos IoT, alerta Anthropic",
+      "summary": "Experimentos mostram que caixas de TV baratas podem executar modelos de IA capazes, e modelos pequenos poderão em breve ser capazes de se espalhar por esses dispositivos por conta própria. A postagem Pequenos modelos de IA poderão em breve se auto-replicar em ",
+      "category": "CLOUD & IA",
       "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/mastermind-of-15000-mule-cybercrime-laundering-network-pleads-guilty-in-us/",
-      "published": "2026-10-12T11:24:50+00:00",
+      "url": "https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/",
+      "published": "2026-10-13T11:58:29+00:00",
       "image": ""
+    },
+    {
+      "title": "[Webinar] Como interromper o escalonamento de privilégios orientado por IA com controles de identidade em tempo de execução",
+      "summary": "A parte perigosa de uma identidade roubada nem sempre é o login inicial. É o que um invasor pode fazer a seguir com esse acesso. Com a IA acelerando o reconhecimento, a exploração de vulnerabilidades e o escalonamento de privilégios, os invasores podem se move",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
+      "published": "2026-10-13T11:57:06+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIhyphenhyphenHu3P6G99-W2G5NryBVw_aHrwdzZeMvGjoMkyUiKFOtwD_fqUvdytUAQuhg9gPZzpsWSFatNS2LcMylaW4jsMmRR-tmAXkZxokH4WcEqnXTlFnBFgg8-20j4LsTCQMaKRJY-ysNuH8uXg_D3Zb626eqIdGeTkkmvyh95PERJ_mnaPNnnv2maV0q4F2-/s1600/silverfort.jpg"
+    },
+    {
+      "title": "XWorm RAT evolui para plataforma de vigilância",
+      "summary": "A contagem expandida de plug-ins permite que o malware monitore a localização dos usuários, transmita áudio ao vivo e interaja com sessões autenticadas do navegador. O posto XWorm RAT evolui para plataforma de vigilância apareceu pela primeira vez na SecurityW",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/",
+      "published": "2026-10-13T11:13:10+00:00",
+      "image": ""
+    },
+    {
+      "title": "LG Smart TVs vulneráveis ​​ao controle de raiz pré-autenticação da rede local",
+      "summary": "Três vulnerabilidades no webOS da LG podem ser encadeadas para fornecer a um invasor na mesma rede local acesso root a certas TVs inteligentes sem um PIN ou qualquer interação do proprietário. A LG emitiu uma correção, de acordo com um comunicado publicado pel",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
+      "published": "2026-10-13T11:09:10+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs2Z0M9u8vYqE8SBNBzfOGoc4Crog-_PBWeZNY8IprfYaa08ZyZ_PTfMhosBFrQNS_f1JecVbl_HEq7sutExV_92yaZWVIA51YD59JOFa_fKZQyEvpZNUxai8pgDrQX_Kp_wQqJoEFFQIFEwa2c3vhyphenhyphenQtU0U9w5XDwjSAij3BPz_qRs7-t0eu8ZssOZuE/s1600/lg-tv.jpg"
+    },
+    {
+      "title": "IA transforma ataques cibernéticos familiares em uma corrida contra o tempo",
+      "summary": "Steve Wallin, da IBM, conversa com a SecurityWeek sobre o efeito dos ataques conduzidos por IA nas defesas corporativas. A postagem IA transforma ataques cibernéticos familiares em uma corrida contra o tempo apareceu pela primeira vez na SecurityWeek.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ai-turns-familiar-cyberattacks-into-a-race-against-time/",
+      "published": "2026-10-13T11:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Roubo criptográfico de US$ 86 milhões vinculado ao implante de hardware Ledger Signer",
+      "summary": "Uma pequena placa de circuito escondida sob as telas dos signatários lia os dados do usuário e os transmitia aos invasores. A postagem Crypto Heist de US$ 86 milhões vinculado ao implante de hardware Ledger Signer apareceu pela primeira vez na SecurityWeek.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/86-million-crypto-heist-linked-to-ledger-signer-hardware-implant/",
+      "published": "2026-10-13T10:36:05+00:00",
+      "image": ""
+    },
+    {
+      "title": "Ataque cibernético faz com que a gigante do setor de alimentos Ahold Delhaize desconecte sistemas",
+      "summary": "A empresa afirma que deixou alguns de seus sistemas offline para conter um problema de segurança em sua rede. A postagem Ataque cibernético faz com que o gigante do supermercado Ahold Delhaize desconecte os sistemas apareceu pela primeira vez na SecurityWeek.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/cyberattack-prompts-ahold-delhaize-to-disconnect-systems/",
+      "published": "2026-10-13T09:37:12+00:00",
+      "image": ""
+    },
+    {
+      "title": "Atacantes aquecem geladeiras de supermercados franceses até 50°C sequestrando controladores Danfoss",
+      "summary": "Os agressores assumiram o controle remoto de geladeiras e freezers em centenas de supermercados franceses na noite de 11 de outubro e os aqueceram, forçando as lojas a jogar fora os alimentos, disseram várias redes de varejo. Os invasores os alcançaram através",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
+      "published": "2026-10-13T08:48:41+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh64tQNgn3aqDhyphenhyphengoK8NxQG3DPvWWi0fP185meJUr14eUmcX18mKJdkUz6QsMU6bTxmwAtHrd8I0J5FQjvTENA1-N1F60zsR1x2iDzaJNhPbg_6iGYTELpBOwiTbBiaMWLmWQ4naaMfCLCcThNEfC302zF-YCjlev6138DvUrXfr5noGCpZaT9JnGd7hUw/s1600/supermarket.jpg"
+    },
+    {
+      "title": "Atacantes aquecem geladeiras de supermercados franceses até 50°C sequestrando controladores Danfoss - The Hacker News",
+      "summary": "Atacantes aquecem geladeiras de supermercados franceses até 50°C sequestrando controladores Danfoss The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Dc3ZKc2J2VUszYTA3c0djaUpQcUZ1OGtQeVhhOGxiQ200SGdZUDdRYlJyTUlKQngwVmJuWWhfMkpDdVJVbERjU3FGSDk5dDZxU05SdkhuSGdzdEtGNTRqbEJTVXBBekhXQk5SeVBPVEpzRDhyS3FaMTNZZE8?oc=5",
+      "published": "2026-10-13T08:48:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "GitLab corrige falha CVSS 10.0 que poderia permitir que usuários não autenticados executassem código de servidor",
+      "summary": "GitLab lançou patches para uma falha de segurança de gravidade máxima que afeta seus softwares Community Edition (CE) e Enterprise Edition (EE) que podem resultar na execução arbitrária de código. “O GitLab corrigiu um problema que, sob certas condições, poder",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
+      "published": "2026-10-13T08:43:37+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOWNiMkzMghhERT5BPyrVI9JdCWExRLtDNHIHPjmT_WnGhLHyWhahW3xPurPPQJUn7Yz0_g9Nk0zWinEKh4J71g9viLtNVx2fM2anNzhA514PAgZBxobRfeP1jSsovLI6iVi9HIUXxv_dLvK8DrKy5vZktoxrxyd0riB83XCR2dlne7lEgTqdXW1Rwhekz/s1600/gitlab-exploit.jpg"
     }
   ]
 }
