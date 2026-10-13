@@ -1,167 +1,167 @@
 {
-  "updated_at": "2026-10-13T17:01:41.413352+00:00",
+  "updated_at": "2026-10-13T22:55:24.851680+00:00",
   "items": [
     {
-      "title": "O ataque cibernético da TFG London interrompe sistemas nos varejistas Hobbs and Whistles",
-      "summary": "A TFG London detectou um incidente de segurança cibernética que afetou os sistemas de TI usados ​​pelas marcas de moda premium Phase Eight, Hobbs e Whistles. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
-      "published": "2026-10-13T16:44:18+00:00",
-      "image": ""
+      "title": "Zero-Days se esconde no patch de outubro da Microsoft, terça-feira",
+      "summary": "As surpresas assustadoras da maior atualização de segurança de todos os tempos incluem desvios de segurança e RCEs não autenticados.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
+      "published": "2026-10-13T22:29:57+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2208c9717985ba6f/6aceb2c101a45e612a7baa2b/harvest-China_Photos-GettyImages-71574532.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "GitHub reforça publicação npm após falha deixar mais de 1.500 pacotes vulneráveis ​​a sequestro",
-      "summary": "O GitHub tomou a iniciativa de expirar configurações de publicação confiáveis ​​npm não validadas 48 horas após a criação, depois que os pesquisadores descobriram que era possível para um invasor enviar novas versões do pacote de um usuário diferente sem ter q",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
-      "published": "2026-10-13T16:18:18+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3aDWaWT6PmRDL9d6tHPDisxclb_Ak7YZIxuS02EUFvNaWrc4_UKwUqW0RI1KT3r8zsneOguD6b85yg8mf3gAzZZOGuLi-mXckG_yzwmXXb3IchTBSVeRvPlUo7QU4Kp4yiM6QqPshmo4p0GQ55XZPTEDc0DZn9N84S_ZibZ4rkXuhZ3OvoHNCYH-wk0k-/s1600/git-npm.jpg"
-    },
-    {
-      "title": "Meta afirma que hackers pegaram código e dados pessoais de 1.500 em violação do GitHub",
-      "summary": "A maioria dos indivíduos afetados são funcionários da Meta nos Estados Unidos e estão recebendo serviços de monitoramento de crédito. A postagem Meta diz que hackers pegaram código, dados pessoais de 1.500 em violação do GitHub apareceu pela primeira vez em Se",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/",
-      "published": "2026-10-13T16:01:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ivanti alerta sobre o Connect Secure zero-day explorado em ataques",
-      "summary": "A Ivanti pediu aos clientes na terça-feira que corrigissem imediatamente uma vulnerabilidade de dia zero explorada ativamente no gateway de acesso remoto Ivanti Connect Secure (ICS). [...]",
+      "title": "Falha no Ghostscript permite que hackers sequestrem servidores por meio de uploads de PDF",
+      "summary": "Uma vulnerabilidade crítica de estouro de buffer de heap (CVE-2026-39919) no interpretador e mecanismo de renderização Ghostscript pode permitir a execução remota de código por meio de arquivos PDF especialmente criados. [...]",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
-      "published": "2026-10-13T15:45:50+00:00",
+      "url": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
+      "published": "2026-10-13T21:33:26+00:00",
       "image": ""
     },
     {
-      "title": "A falha do Docker Hub permite que invasores se façam passar por usuários e adulterem imagens",
-      "summary": "O Docker divulgou uma vulnerabilidade crítica (CVE-2026-105445) no Docker Hub que permite que invasores acessem repositórios de contêineres de outro usuário usando um token de acesso pessoal (PAT). [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
-      "published": "2026-10-13T15:20:20+00:00",
-      "image": ""
-    },
-    {
-      "title": "Os atacantes das lacunas do MFA ainda estão explorando",
-      "summary": "Os invasores continuam explorando lacunas na cobertura de MFA, usando credenciais roubadas para acessar VPNs, RDP e sistemas Windows que ainda dependem apenas de senhas. Specops explica por que proteger aplicativos em nuvem não é suficiente e como as organizaç",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
-      "published": "2026-10-13T14:01:11+00:00",
-      "image": ""
-    },
-    {
-      "title": "SAP alerta sobre falha de segurança OAuth2 SSRF de gravidade máxima",
-      "summary": "A SAP corrigiu 20 falhas de segurança em vários produtos em suas atualizações de segurança de outubro de 2026, incluindo uma vulnerabilidade de gravidade máxima no Cloud SDK para Python. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/",
-      "published": "2026-10-13T13:51:02+00:00",
-      "image": ""
-    },
-    {
-      "title": "Xandr multou um recorde de € 8,6 milhões por transmitir dados do Grindr que revelavam orientação sexual",
-      "summary": "A Autoridade Norueguesa de Proteção de Dados (DPA) multou a Xandr, uma unidade de publicidade de propriedade da Microsoft, em 8,6 milhões de euros (9,62 milhões de dólares) por retransmitir ilegalmente dados confidenciais dos usuários do Grindr aos anunciantes",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html",
-      "published": "2026-10-13T13:12:32+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGjfJJaKUMdLoNBTH2AYUmelL_XonLcf93p8hSgMXRbLGJwReAYV-BUZ2jpBPuvUQktW0PTKi1-21oFnBJF8PfECgT7t5r-S-iMUxjrdoWPf3EDxa2IVrQYjT98HG6s-LfPlJqm8mArrfEOEZS_scT7EYG8eXxMrUaII0UaQ3kAmWDJ3mRTR4JyIJhj-5S/s1600/grindr-data.jpg"
-    },
-    {
-      "title": "Pequenos modelos de IA poderão em breve se auto-replicar em dispositivos IoT, alerta Anthropic",
-      "summary": "Experimentos mostram que caixas de TV baratas podem executar modelos de IA capazes, e modelos pequenos poderão em breve ser capazes de se espalhar por esses dispositivos por conta própria. A postagem Pequenos modelos de IA poderão em breve se auto-replicar em ",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/",
-      "published": "2026-10-13T11:58:29+00:00",
-      "image": ""
-    },
-    {
-      "title": "[Webinar] Como interromper o escalonamento de privilégios orientado por IA com controles de identidade em tempo de execução",
-      "summary": "A parte perigosa de uma identidade roubada nem sempre é o login inicial. É o que um invasor pode fazer a seguir com esse acesso. Com a IA acelerando o reconhecimento, a exploração de vulnerabilidades e o escalonamento de privilégios, os invasores podem se move",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
-      "published": "2026-10-13T11:57:06+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIhyphenhyphenHu3P6G99-W2G5NryBVw_aHrwdzZeMvGjoMkyUiKFOtwD_fqUvdytUAQuhg9gPZzpsWSFatNS2LcMylaW4jsMmRR-tmAXkZxokH4WcEqnXTlFnBFgg8-20j4LsTCQMaKRJY-ysNuH8uXg_D3Zb626eqIdGeTkkmvyh95PERJ_mnaPNnnv2maV0q4F2-/s1600/silverfort.jpg"
-    },
-    {
-      "title": "XWorm RAT evolui para plataforma de vigilância",
-      "summary": "A contagem expandida de plug-ins permite que o malware monitore a localização dos usuários, transmita áudio ao vivo e interaja com sessões autenticadas do navegador. O posto XWorm RAT evolui para plataforma de vigilância apareceu pela primeira vez na SecurityW",
+      "title": "Coreia do Norte ataca ucranianos por informações de guerra",
+      "summary": "A República Popular Democrática da Coreia (RPDC) está a tentar obter informações sobre o seu próprio esforço de guerra na Ucrânia, através de simples ataques de phishing de resposta.",
       "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/",
-      "published": "2026-10-13T11:13:10+00:00",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel",
+      "published": "2026-10-13T21:24:45+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7314e52d65e066f0/6ace87d8c13815714705c3f3/Ukraine_DPRK-MicroStockHub-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Anthropic alerta que IA auto-replicante pode se espalhar para seus dispositivos inteligentes",
+      "summary": "A Anthropic alerta que pequenos modelos de IA poderão em breve ser capazes de se auto-replicar em dispositivos IoT de consumo, desde caixas de TV Android até fornos inteligentes, criando botnets distribuídos capazes de executar cargas de trabalho de IA sem dep",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
+      "published": "2026-10-13T21:16:34+00:00",
       "image": ""
     },
     {
-      "title": "LG Smart TVs vulneráveis ​​ao controle de raiz pré-autenticação da rede local",
-      "summary": "Três vulnerabilidades no webOS da LG podem ser encadeadas para fornecer a um invasor na mesma rede local acesso root a certas TVs inteligentes sem um PIN ou qualquer interação do proprietário. A LG emitiu uma correção, de acordo com um comunicado publicado pel",
-      "category": "INCIDENTES",
+      "title": "Microsoft Patch Tuesday para outubro de 2026 – Regras do Snort e vulnerabilidades proeminentes",
+      "summary": "Postagem no blog cobrindo as vulnerabilidades divulgadas durante o Microsoft Patch Tuesday.",
+      "category": "VULNERABILIDADES",
+      "source": "Cisco Talos",
+      "url": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/",
+      "published": "2026-10-13T20:37:58+00:00",
+      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/patch_tuesday.png"
+    },
+    {
+      "title": "O patch de terça-feira de outubro de 2026 da Microsoft corrige 1.411 falhas, 3 dias zero",
+      "summary": "Hoje é a terça-feira do patch de outubro de 2026 da Microsoft, com atualizações de segurança abordando um recorde de 1.411 falhas, incluindo uma vulnerabilidade explorada ativamente e duas vulnerabilidades de dia zero divulgadas publicamente. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
+      "published": "2026-10-13T19:56:09+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft lança atualização de segurança estendida do Windows 10 KB5126657",
+      "summary": "A Microsoft lançou a atualização de segurança estendida do Windows 10 KB5126657, que inclui as correções recordes do Patch Tuesday de outubro de 2026 deste mês e algumas correções de bugs e alterações. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/",
+      "published": "2026-10-13T19:47:30+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft: Windows 11 24H2 Home e Pro chegaram ao fim do suporte",
+      "summary": "A Microsoft anunciou hoje que os dispositivos que executam as edições Windows 11 24H2 Home e Pro atingiram o fim do suporte e não receberão mais atualizações mensais de segurança e de visualização não relacionadas à segurança. [...]",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
+      "published": "2026-10-13T19:04:38+00:00",
+      "image": ""
+    },
+    {
+      "title": "Ivanti Zero-Day Chain deu aos invasores acesso root a uma VPN totalmente corrigida",
+      "summary": "CVE-2026-104935 afeta o Ivanti Connect Secure e pode ser explorado para execução remota de código não autenticado com privilégios elevados. A postagem Ivanti Zero-Day Chain deu aos invasores acesso root a uma VPN totalmente corrigida apareceu pela primeira vez",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/",
+      "published": "2026-10-13T18:43:43+00:00",
+      "image": ""
+    },
+    {
+      "title": "Anthropic alerta que pequenos modelos de IA poderão em breve formar botnets de IoT autopropagáveis",
+      "summary": "Pequenos modelos de inteligência artificial (IA) podem levar meses para desenvolver capacidades de auto-replicação em dispositivos IoT, como fornos inteligentes e caixas de Android TV fora da marca, de acordo com um alerta da Anthropic. O laboratório de IA de ",
+      "category": "AMEAÇAS",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
-      "published": "2026-10-13T11:09:10+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs2Z0M9u8vYqE8SBNBzfOGoc4Crog-_PBWeZNY8IprfYaa08ZyZ_PTfMhosBFrQNS_f1JecVbl_HEq7sutExV_92yaZWVIA51YD59JOFa_fKZQyEvpZNUxai8pgDrQX_Kp_wQqJoEFFQIFEwa2c3vhyphenhyphenQtU0U9w5XDwjSAij3BPz_qRs7-t0eu8ZssOZuE/s1600/lg-tv.jpg"
+      "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+      "published": "2026-10-13T18:20:57+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigX1U6rARsREVvdJOVd0vGWuybd8470_G2xcVMyp0u_rHrimpzBkv2-Qyo_qcx_9BpQOlndrW-P1tpya8dQwnEscYsg1NYPq3kGXKayoosc20QHDXRyadNlRMTuSa2KKSaI0qoq4gO415S3LTux5cPcUieRF6PW4xzeILW-D80v3jkwWRni7y51t4Y6Hnu/s1600/ai-botnet.jpg"
     },
     {
-      "title": "IA transforma ataques cibernéticos familiares em uma corrida contra o tempo",
-      "summary": "Steve Wallin, da IBM, conversa com a SecurityWeek sobre o efeito dos ataques conduzidos por IA nas defesas corporativas. A postagem IA transforma ataques cibernéticos familiares em uma corrida contra o tempo apareceu pela primeira vez na SecurityWeek.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ai-turns-familiar-cyberattacks-into-a-race-against-time/",
-      "published": "2026-10-13T11:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Roubo criptográfico de US$ 86 milhões vinculado ao implante de hardware Ledger Signer",
-      "summary": "Uma pequena placa de circuito escondida sob as telas dos signatários lia os dados do usuário e os transmitia aos invasores. A postagem Crypto Heist de US$ 86 milhões vinculado ao implante de hardware Ledger Signer apareceu pela primeira vez na SecurityWeek.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/86-million-crypto-heist-linked-to-ledger-signer-hardware-implant/",
-      "published": "2026-10-13T10:36:05+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ataque cibernético faz com que a gigante do setor de alimentos Ahold Delhaize desconecte sistemas",
-      "summary": "A empresa afirma que deixou alguns de seus sistemas offline para conter um problema de segurança em sua rede. A postagem Ataque cibernético faz com que o gigante do supermercado Ahold Delhaize desconecte os sistemas apareceu pela primeira vez na SecurityWeek.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/cyberattack-prompts-ahold-delhaize-to-disconnect-systems/",
-      "published": "2026-10-13T09:37:12+00:00",
-      "image": ""
-    },
-    {
-      "title": "Atacantes aquecem geladeiras de supermercados franceses até 50°C sequestrando controladores Danfoss",
-      "summary": "Os agressores assumiram o controle remoto de geladeiras e freezers em centenas de supermercados franceses na noite de 11 de outubro e os aqueceram, forçando as lojas a jogar fora os alimentos, disseram várias redes de varejo. Os invasores os alcançaram através",
-      "category": "INCIDENTES",
+      "title": "Anthropic alerta que pequenos modelos de IA poderão em breve formar botnets de IoT autopropagados - The Hacker News",
+      "summary": "Anthropic alerta que pequenos modelos de IA poderão em breve formar botnets de IoT autopropagáveis ​​The Hacker News",
+      "category": "AMEAÇAS",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
-      "published": "2026-10-13T08:48:41+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh64tQNgn3aqDhyphenhyphengoK8NxQG3DPvWWi0fP185meJUr14eUmcX18mKJdkUz6QsMU6bTxmwAtHrd8I0J5FQjvTENA1-N1F60zsR1x2iDzaJNhPbg_6iGYTELpBOwiTbBiaMWLmWQ4naaMfCLCcThNEfC302zF-YCjlev6138DvUrXfr5noGCpZaT9JnGd7hUw/s1600/supermarket.jpg"
-    },
-    {
-      "title": "Atacantes aquecem geladeiras de supermercados franceses até 50°C sequestrando controladores Danfoss - The Hacker News",
-      "summary": "Atacantes aquecem geladeiras de supermercados franceses até 50°C sequestrando controladores Danfoss The Hacker News",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Dc3ZKc2J2VUszYTA3c0djaUpQcUZ1OGtQeVhhOGxiQ200SGdZUDdRYlJyTUlKQngwVmJuWWhfMkpDdVJVbERjU3FGSDk5dDZxU05SdkhuSGdzdEtGNTRqbEJTVXBBekhXQk5SeVBPVEpzRDhyS3FaMTNZZE8?oc=5",
-      "published": "2026-10-13T08:48:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa1ZuUW5VRFVVR055UXdpQzd4UFhsNmRhLWo5aUt4SjBvcHJ1VnJXZTlDRjZwNzd0cmRud1VPRkR5M05SeG8zX0ZHbi1oV0Z2Rl9BMkd1SFUyaDVKUW1yU3M4aEJoS180Rk9QZkJpM1ZLeGFsX2czRUQ0eVZsdkNBQ05n?oc=5",
+      "published": "2026-10-13T18:20:00+00:00",
       "image": ""
     },
     {
-      "title": "GitLab corrige falha CVSS 10.0 que poderia permitir que usuários não autenticados executassem código de servidor",
-      "summary": "GitLab lançou patches para uma falha de segurança de gravidade máxima que afeta seus softwares Community Edition (CE) e Enterprise Edition (EE) que podem resultar na execução arbitrária de código. “O GitLab corrigiu um problema que, sob certas condições, poder",
+      "title": "Serviço de Provedoria de Habitação do Reino Unido investiga ‘incidente de segurança’",
+      "summary": "O Serviço de Ouvidoria de Habitação do Reino Unido está investigando um incidente de segurança de TI de terceiros que afetou seu sistema de gerenciamento de casos na terça-feira. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
+      "published": "2026-10-13T18:19:44+00:00",
+      "image": ""
+    },
+    {
+      "title": "Docker corrige falha crítica do hub de dois anos que permitia que um usuário enviasse imagens como outro",
+      "summary": "Uma falha no Docker Hub, o registro onde as imagens do contêiner são publicadas e baixadas, permite que um usuário envie, extraia ou exclua imagens como outro usuário. O Docker corrigiu a falha em 30 de setembro e afirma não ter encontrado evidências de que al",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
-      "published": "2026-10-13T08:43:37+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOWNiMkzMghhERT5BPyrVI9JdCWExRLtDNHIHPjmT_WnGhLHyWhahW3xPurPPQJUn7Yz0_g9Nk0zWinEKh4J71g9viLtNVx2fM2anNzhA514PAgZBxobRfeP1jSsovLI6iVi9HIUXxv_dLvK8DrKy5vZktoxrxyd0riB83XCR2dlne7lEgTqdXW1Rwhekz/s1600/gitlab-exploit.jpg"
+      "url": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
+      "published": "2026-10-13T18:03:18+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEile879Rmv8zAdU5PMclUp5RnNGDb3h1u3aVZ-VigGjnO0RFcyCQ03s7_lIqMGDiow5ilPumq3B2_bsvewqRlepch4lFwLvOUEDQZPYd9Vv8untJVZFmrv5Zhgvj54cs4J_vCYW4GVY-XsQl7SXD-yrXbED6KpiWbTq-kL_0aNwef3xjV3cBGQ3dsodqAM/s1600/dock.jpg"
+    },
+    {
+      "title": "Atualizações cumulativas do Windows 11 KB5127648 e KB5126653 lançadas",
+      "summary": "A Microsoft lançou as atualizações cumulativas Patch Tuesday Windows 11 KB5127648 e KB5126653 para as versões 26H2/25H2/24H2 e 23H2 para corrigir vulnerabilidades e bugs de segurança e adicionar novos recursos. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
+      "published": "2026-10-13T17:49:38+00:00",
+      "image": ""
+    },
+    {
+      "title": "O invasor encadeia três dias zero seguros do Ivanti Connect para acesso root, apenas dois corrigidos até agora",
+      "summary": "Um invasor encadeou três falhas de dia zero no Ivanti Connect Secure, um dispositivo VPN, para executar comandos como root sem fazer login, disse a empresa de segurança Volexity em 13 de outubro. A Ivanti lançou correções para duas das falhas e disse aos clien",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
+      "published": "2026-10-13T17:33:11+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZSH26NsXmSsQGaAbhNyJLMaBQKFCmabIbFZ_yi2sUGXjHQOVztQEQfXLarEAx1Fl9lRwGAryBE4zZEooJ4cochODcB4x8wQnPl3MRWiyBcpyEV6i8VPxvwcLHmShQVZVhuOcTjMXRhHAlx4Y0Uo85c74EVU4cea84YgXju02I9jlNzcGOFtLfa_am82Q/s1600/ivanti-hack.jpg"
+    },
+    {
+      "title": "Atacante encadeia três dias zero seguros do Ivanti Connect para acesso root, apenas dois corrigidos até agora - The Hacker News",
+      "summary": "Atacante encadeia três dias zero seguros do Ivanti Connect para acesso root, apenas dois corrigidos até agora The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWTJZcU93ODZIUzM5MHl6eW5HeWlYMGZzYVRRN2xoU25vYjQwNVlNeUhLZ2gtVGFOV19oZ2huZl82UnN0VmI2VGhITnRxOTYwd0R0N1prS1FrM2RBOVJ5R3hTRjRVenpJUzlYSlJmaTNadkprRmdsTHFKZU42WVdhVQ?oc=5",
+      "published": "2026-10-13T17:33:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "SAP divulga falha crítica do CVSS 10 no Cloud SDK para Python, permitindo roubo de credenciais OAuth2",
+      "summary": "Uma falha no Cloud SDK for Python da SAP pode enviar credenciais de cliente OAuth2 de um aplicativo para um servidor controlado por um invasor, disse a SAP em um comunicado de segurança em 13 de outubro. A falha afeta aplicativos multilocatários na SAP Busines",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
+      "published": "2026-10-13T17:28:50+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKBZR5elkBVKRcFO6lyde7XYDVO73IBxDvnx9-UkLst3GhVFuK8Yz3QBVIIEJABDjZuJMn8tyf7RLLPIRV8J8qe-OUULjnQRaQNyWricSsOjlKJoyYu8WOvs5PxBWQpzuiq8hlDlOY7zY-qIYDgQ6NFuifS5GbHbnLBET0OTfmsMC8797Mo5un9_ECyg8/s1600/sap-hacker.jpg"
+    },
+    {
+      "title": "Adobe corrige 140 vulnerabilidades em 10 produtos",
+      "summary": "As falhas afetam produtos como Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker e Bridge. A postagem Adobe corrige 140 vulnerabilidades em 10 produtos apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/",
+      "published": "2026-10-13T17:14:42+00:00",
+      "image": ""
     }
   ]
 }
