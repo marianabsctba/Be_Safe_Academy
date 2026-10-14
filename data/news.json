@@ -1,6 +1,96 @@
 {
-  "updated_at": "2026-10-14T17:21:39.882088+00:00",
+  "updated_at": "2026-10-14T21:49:16.882371+00:00",
   "items": [
+    {
+      "title": "Ataques de dia zero do Ivanti ICS destacam obstáculos de correção de fornecedores",
+      "summary": "CVE-2026-104935, um desvio de autenticação de alta gravidade + vulnerabilidade RCE, foi apenas parcialmente descoberto e corrigido em julho, deixando uma abertura para os atores da ameaça capitalizarem.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching",
+      "published": "2026-10-14T21:20:13+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5c7ce56f98018528/6acfd608b8750c62d9a7bd46/patching-Florencio_Horcajo_Alvarez-Getty-2270656800.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Yam Store: a rede de phishing por trás de um bilhão de mensagens",
+      "summary": "Um amplo mercado de crimes cibernéticos forneceu infraestrutura em nuvem e kits de phishing que ajudaram a alimentar mais de 1 bilhão de mensagens de phishing em todo o mundo.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages",
+      "published": "2026-10-14T20:57:16+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9dea48f154a2fb24/6acfd2ceaf9e572367afea5c/fishing_hooks-MicroStockHub-GettyImages-2193660035.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "A falha antrópica ‘SneakPeek’ é uma ameaça silenciosa de clique zero",
+      "summary": "Um bug no painel de visualização do Claude Code Desktop pode permitir que adversários roubem silenciosamente credenciais de desenvolvedores, incluindo chaves privadas SSH, credenciais AWS e tokens Claude 0Auth.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat",
+      "published": "2026-10-14T20:09:42+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltebc5737d9330c848/6acfd08de9c3113a94cf7694/cat_peek_Seregaff_Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "FBI invade fazendas de laptops de trabalhadores de TI da RPDC no Texas, cidadãos dos EUA são presos",
+      "summary": "O Departamento de Justiça dos EUA (DoJ) interrompeu as operações do grupo de ameaças Famous Chollima, prendendo dois suspeitos, acusando 14 indivíduos e apreendendo quase 187 laptops usados ​​em esquemas de trabalhadores remotos de TI na Coreia do Norte. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
+      "published": "2026-10-14T19:41:43+00:00",
+      "image": ""
+    },
+    {
+      "title": "Cisco alerta sobre ataques ativos que exploram nova vulnerabilidade crítica de gateway de e-mail seguro",
+      "summary": "Os invasores estão explorando uma falha crítica no Cisco Secure Email Gateway que permite que um remetente sem login grave arquivos no sistema operacional do dispositivo, disse a Cisco em um comunicado na quarta-feira. O invasor envia um e-mail com um anexo cr",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
+      "published": "2026-10-14T18:38:56+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh__fSqm3p4u0HNpmeikU6Mo4abprP417Zb3pPW3-6IGrTHwqkbz1CqiuqxL2D0O1PH8J4Ho3_ZpNdJ5VFluIj_KHX6qT0WqZYfHQzyu0cVzGee9EmAZ9pNzsZJZx40UxuKjuz9eNHvuzlMANKOkDr6aRdKWxs8SpJqSi6vDBQTP5ZFgpgqn3Yj2TYNJU/s1600/cisco-0day.jpg"
+    },
+    {
+      "title": "Cisco alerta sobre ataques ativos que exploram nova vulnerabilidade crítica de gateway de e-mail seguro - The Hacker News",
+      "summary": "Cisco alerta sobre ataques ativos que exploram nova vulnerabilidade crítica de gateway de e-mail seguro The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55YTR6aDF0SFJlWEFJWGkyWEJqR1VVX29GTXJYdUo4cGVEYkxOMmtnU1N1VDM4bDBnSWs2Y2txNjBSTnZGSF83SHNNUHI5clZ0d1Z2QVJWWkk0Zng5bGZxM3FxakM2cE4wZEFOOTVwaG1Ec18zZVNJ?oc=5",
+      "published": "2026-10-14T18:38:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Ledger pede aos vendedores em toda a Ásia que interrompam as vendas após ataque à cadeia de suprimentos",
+      "summary": "A Ledger pediu aos revendedores e distribuidores de suas carteiras na Indonésia, Cingapura, Tailândia, Filipinas, Vietnã, Malásia e Hong Kong que suspendessem as vendas de dispositivos e removessem os produtos das prateleiras enquanto investiga a adulteração d",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
+      "published": "2026-10-14T17:46:50+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers backdoor servidores Nextcloud através de falha crítica no aplicativo CODE integrado do Collabora",
+      "summary": "Os invasores exploraram uma falha em um aplicativo Nextcloud opcional, Collabora Online - Built-in CODE Server, para plantar shells da web em servidores Nextcloud. Três administradores relataram o problema no GitHub, com o primeiro ataque registrado em 10 de s",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
+      "published": "2026-10-14T17:38:31+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkZLcjmZtzt6NpWa8x4Wz7EdcOQEW6xYv6DA_mBnwy1ctZZeRAyeSYLES-H_mkr1QOBv72WNuGKwKQ-NN179Rw8BRTcYO38sYwxcbDkg1ISW_qWrCRJ9JfUXh3102OmwrF0HQq6dbSc58VXACXoi_EoI8ysPuSlzB_nBcHuFl9r3QakOsGG9GUm6UVOU8/s1600/nextcloud.jpg"
+    },
+    {
+      "title": "Cisco corrige novo Secure Email Gateway explorado de dia zero em ataques",
+      "summary": "A Cisco corrigiu outra falha de dia zero explorada ativamente em seu Secure Email Gateway (SEG), que permite que invasores remotos não autenticados executem comandos com privilégios de root. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
+      "published": "2026-10-14T17:29:14+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft interrompe três kits de phishing vinculados a mais de 1 bilhão de mensagens fraudulentas",
+      "summary": "A Microsoft e a Health-ISAC, juntamente com o Japan Cybercrime Control Center (JC3) e uma coalizão de empresas do setor privado, como Resecurity, Cloudflare, Oracle, Proofpoint e TRM Labs, anunciaram a interrupção de três kits de phishing, CoGUI (também conhec",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
+      "published": "2026-10-14T17:09:15+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtmZA0sGFnGRVBoPOHXGNOr-Q1MpdbCUNVrfxBTV6z_URgCka1DOH4xcc_WuismhU3W1BEiostTKZetIhtrFyXrInKdz_jqK6Dtia5TDOqRiu4rkktKmF2Iz1br28coCyU3c5td-yrINUgjYIdwG-7q_n1fEZT_mumUoVBp2HfNPKHnqC3jTryRDL7hxAL/s1600/phish-shop.jpg"
+    },
     {
       "title": "Agentes de IA navegam em sistemas TO desconhecidos e movem equipamentos em minutos, descobriu Booz Allen",
       "summary": "No laboratório de TO isolado da Booz Allen, os modelos de IA atenderam a todos os objetivos em oito cenários e alcançaram uma rede de controle industrial a partir de um comprometimento do perímetro em pouco mais de 16 minutos. A postagem Agentes de IA navegam ",
@@ -71,96 +161,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
       "published": "2026-10-14T13:12:52+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft interrompe o mercado de phishing em chinês por trás de mais de 1 bilhão de mensagens",
-      "summary": "Apoiadas por uma ordem judicial federal, a Microsoft e a Health-ISAC apreenderam domínios que alimentam YAM Store, CoGUI e Iron Man. A postagem Microsoft interrompe o mercado de phishing em língua chinesa por trás de mais de 1 bilhão de mensagens apareceu pela",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/microsoft-disrupts-chinese-language-phishing-market-behind-1b-messages/",
-      "published": "2026-10-14T13:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "A rede oculta: Por dentro do ecossistema de infraestrutura de phishing que alimenta o crime cibernético global",
-      "summary": "A Microsoft descobriu um ecossistema cibercriminoso de língua chinesa, uma rede interconectada de operadores de kits de phishing (rastreados como Storm-2990) e um mercado ilícito (rastreado como Storm-3119) que vende ferramentas e infraestrutura para phishing ",
-      "category": "AMEAÇAS",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/",
-      "published": "2026-10-14T13:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "CISA alerta administradores para corrigirem imediatamente falha da Ivanti explorada como dia zero",
-      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) instou as equipes de segurança a corrigir imediatamente uma falha do Ivanti Connect Secure (ICS) explorada em ataques de dia zero desde pelo menos 1º de outubro. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
-      "published": "2026-10-14T12:58:07+00:00",
-      "image": ""
-    },
-    {
-      "title": "CISA pede atualizações seguras imediatas do Ivanti Connect à medida que Honeypots registram 105 tentativas de exploração",
-      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) instou na terça-feira as organizações a tomarem medidas para atualizar imediatamente seus dispositivos e implantações Ivanti Connect Secure (ICS) para a versão mais recente após a divulgação",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
-      "published": "2026-10-14T12:30:42+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBUpsAaH4Pe-HlsDhdSH5KK3VgWm9NEXXLNBOpxxp4d8WMZwSNNyPALzuapR_iUlq3-dLDe2bnPJfh42cdfH5m3LQWGKXZvHF3sYacyDbtZacKIIoluyNgP01-6bjjEz-RBhAQqxw-VHGD7gpn3ToRulgeH0ydeWXOucoK4hLBwvXtlCg81tB1scdjPbKN/s1600/i-h.jpg"
-    },
-    {
-      "title": "curl corrige falha de upload HTTP/2 após PoC demonstrar execução de código no lado do cliente",
-      "summary": "Uma falha na forma como o curl lida com uploads HTTP/2 permite que um servidor malicioso que recebe um upload corrompa a memória do cliente, e o pesquisador que relatou isso transformou isso em execução de código na máquina de upload. O projeto curl corrigiu i",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
-      "published": "2026-10-14T12:13:36+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4S_5rQ2kApGYmSMOh6PFsgD3yRugV3_nzSexwBhEe3BoSTQeBfSu2-3JSO4wDCnU2LmVMWtgA6AcBEcf2wOpsL2v22woZ5fel0XaSonlbgDWSXMuV3iu5ewohp9kqgf4OwmCvtnRyyYjFEP6Z3RRLT5sX8g7-xI1robnLmWtqFp6SvrGvpBeXI_D4ICo/s1600/curl.jpg"
-    },
-    {
-      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution - The Hacker News",
-      "summary": "curl Patches falha de upload HTTP/2 após PoC demonstra execução de código do lado do cliente The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdThlelhJaGQwNTdnNmpSOWlvRmREQWJyWmIxc1hQcDZqa1lhVzlmdlQ3aWNicFNQOTZidXZQZlI2Tk5aNDZLeFZzZ2ZCS1Fjbk9oYVduOTNxNS0zLVZpazdqRGxMNU4ybEZDZVdOOS1CUUpNTHE3Y0J6Qk04YkEtdA?oc=5",
-      "published": "2026-10-14T12:13:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Como executar um exercício de prontidão Deepfake antes que uma voz clonada ligue para sua equipe",
-      "summary": "Vozes clonadas e videochamadas sintéticas agora aparecem em fraudes de pagamento, redefinições de suporte técnico e solicitações de acesso. Um exercício estruturado mostra às equipes de segurança exatamente onde a verificação falha, enquanto nada está em jogo.",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
-      "published": "2026-10-14T11:50:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEYzcrs6sSW45od6MYo5jFl29yPGuwipgy7nfS3STYqknrD9b5OcU00_c0sqjG8Arvqq36ojwHSZMbjboA3bUQ1-ZcLRRjmuEQpzTDYYXnyvySzynW0UOvHOVmYNNzp_n-J5xXmwByMCofw5kxslXe4dqAVYqrWa-1LivXxPNa_ZGOQgIBxhyhvtiLxDs/s1600/icon.jpg"
-    },
-    {
-      "title": "O malware Hirudo Android substitui aplicativos bancários para evitar verificações de segurança",
-      "summary": "Um novo malware Android chamado Hirudo rouba credenciais de contas bancárias, substituindo aplicativos bancários legítimos por versões modificadas que desativam as verificações de segurança. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
-      "published": "2026-10-14T11:41:20+00:00",
-      "image": ""
-    },
-    {
-      "title": "Pesquisadores usaram um modelo público OpenAI para construir uma exploração de cadeia completa do Chrome de US$ 250.000 em seis dias",
-      "summary": "Uma equipe da empresa de segurança XBOW encadeou três bugs então desconhecidos do Google Chrome em um único ataque que executa código em um computador Windows quando o usuário carrega apenas uma página da web, disse a empresa. Seus pesquisadores construíram o ",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
-      "published": "2026-10-14T11:19:02+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLXn6RSZOSq2StbSf2fHVaHwVEetIYN0wGfuaIcyaEnwSnXLaY1FBfSKPFzzQuKvtpRygCR7AvNixA-SCkIA98QjnT7gE2UWYtoiZLs5VxQC8KTSJwwlcP0helOb3F4hbSo4uqITjJYPiZHSSuKkm1O_BXFYeyEU7koe_77QSmKbU33o5hteBC5-0dxrs/s1600/chrome-exploit.jpg"
-    },
-    {
-      "title": "Pesquisadores usaram um modelo público OpenAI para construir uma exploração de cadeia completa do Chrome de US$ 250.000 em seis dias - The Hacker News",
-      "summary": "Pesquisadores usaram um modelo público OpenAI para construir uma exploração de cadeia completa do Chrome de US$ 250.000 em seis dias The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcmY1TVNqYkRROFR2WjRqaFZuc2dLUWlkNERiSnhuZjE3UVFWVHdUUGR3dkxQOE5mZ3FXUWxzYkJPbGNiTTdsSERobFRoX2QtVjNreDJsaGhxR0pON3BHUHpjQms0VEdhaGtXdVJPSmpHUzNEdUhpUGJqM2JDTmRCSHM0b3Q?oc=5",
-      "published": "2026-10-14T11:19:00+00:00",
       "image": ""
     }
   ]
