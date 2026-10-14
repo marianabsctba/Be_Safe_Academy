@@ -1,6 +1,141 @@
 {
-  "updated_at": "2026-10-14T12:06:09.065366+00:00",
+  "updated_at": "2026-10-14T17:21:39.882088+00:00",
   "items": [
+    {
+      "title": "Agentes de IA navegam em sistemas TO desconhecidos e movem equipamentos em minutos, descobriu Booz Allen",
+      "summary": "No laboratório de TO isolado da Booz Allen, os modelos de IA atenderam a todos os objetivos em oito cenários e alcançaram uma rede de controle industrial a partir de um comprometimento do perímetro em pouco mais de 16 minutos. A postagem Agentes de IA navegam ",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ai-agents-navigate-unfamiliar-ot-systems-and-move-equipment-in-minutes-booz-allen-finds/",
+      "published": "2026-10-14T16:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Patch ICS terça-feira: Siemens emite 17 avisos, Rockwell corrige falha de aquisição do ArmorBlock",
+      "summary": "A ABB publicou anteriormente um alerta sobre uma possível investigação de uma vulnerabilidade do dynovaPRO. A postagem Patch ICS terça-feira: Siemens emite 17 avisos, Rockwell corrige falha de aquisição do ArmorBlock apareceu pela primeira vez em SecurityWeek ",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ics-patch-tuesday-siemens-issues-17-advisories-rockwell-fixes-armorblock-takeover-flaw/",
+      "published": "2026-10-14T15:15:15+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft corrige problemas de VPN causados ​​pelas atualizações do Windows de setembro",
+      "summary": "A Microsoft resolveu um problema conhecido que causava problemas de conexão Always On VPN após a instalação das atualizações de segurança do Windows 11 de setembro de 2026. [...]",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
+      "published": "2026-10-14T14:27:01+00:00",
+      "image": ""
+    },
+    {
+      "title": "Reino Unido Sanciona Cryptomus por Lavagem de Dinheiro em RU",
+      "summary": "O Reino Unido emitiu sanções económicas contra a Cryptomus, uma plataforma camaleónica de criptomoeda que, segundo os especialistas, serve como um importante canal para pagamentos relacionados com ransomware, narcóticos, mercados darknet, serviços de fraude e ",
+      "category": "AMEAÇAS",
+      "source": "KrebsOnSecurity",
+      "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
+      "published": "2026-10-14T14:22:49+00:00",
+      "image": ""
+    },
+    {
+      "title": "Harmonic Security levanta US$ 50 milhões para proteção de IA da força de trabalho",
+      "summary": "A startup de segurança cibernética planeja expandir as equipes de engenharia e entrada no mercado nos EUA e no Reino Unido. A postagem Harmonic Security levanta US$ 50 milhões para proteção de IA da força de trabalho apareceu pela primeira vez na SecurityWeek.",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/harmonic-security-raises-50-million-for-workforce-ai-protection/",
+      "published": "2026-10-14T14:09:51+00:00",
+      "image": ""
+    },
+    {
+      "title": "Os pontos cegos do pentesting agente e como fechá-los",
+      "summary": "Os testes de penetração baseados em IA podem descobrir caminhos de ataque complexos, mas as restrições de segurança e as limitações de rede deixam muitos ativos e vulnerabilidades não testados. A Picus Security explica como combinar pentesting de agente com va",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
+      "published": "2026-10-14T14:00:10+00:00",
+      "image": ""
+    },
+    {
+      "title": "Evento Virtual Hoje: Cúpula de Estratégias de Confiança Zero",
+      "summary": "Esta cúpula está focada na próxima geração de Zero Trust e segurança de identidade, indo além da teoria para fornecer estratégias viáveis. O posto Evento Virtual Hoje: Cúpula de Estratégias de Confiança Zero apareceu pela primeira vez na SecurityWeek.",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/",
+      "published": "2026-10-14T13:56:36+00:00",
+      "image": ""
+    },
+    {
+      "title": "Remoção global atinge rede por trás de 1 bilhão de mensagens de phishing",
+      "summary": "Um enorme ecossistema cibercriminoso que facilita mais de mil milhões de mensagens maliciosas dirigidas a mais de 75.000 organizações em 150 países foi perturbado por agências de aplicação da lei e parceiros em todo o mundo. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
+      "published": "2026-10-14T13:12:52+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft interrompe o mercado de phishing em chinês por trás de mais de 1 bilhão de mensagens",
+      "summary": "Apoiadas por uma ordem judicial federal, a Microsoft e a Health-ISAC apreenderam domínios que alimentam YAM Store, CoGUI e Iron Man. A postagem Microsoft interrompe o mercado de phishing em língua chinesa por trás de mais de 1 bilhão de mensagens apareceu pela",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/microsoft-disrupts-chinese-language-phishing-market-behind-1b-messages/",
+      "published": "2026-10-14T13:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "A rede oculta: Por dentro do ecossistema de infraestrutura de phishing que alimenta o crime cibernético global",
+      "summary": "A Microsoft descobriu um ecossistema cibercriminoso de língua chinesa, uma rede interconectada de operadores de kits de phishing (rastreados como Storm-2990) e um mercado ilícito (rastreado como Storm-3119) que vende ferramentas e infraestrutura para phishing ",
+      "category": "AMEAÇAS",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/",
+      "published": "2026-10-14T13:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "CISA alerta administradores para corrigirem imediatamente falha da Ivanti explorada como dia zero",
+      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) instou as equipes de segurança a corrigir imediatamente uma falha do Ivanti Connect Secure (ICS) explorada em ataques de dia zero desde pelo menos 1º de outubro. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
+      "published": "2026-10-14T12:58:07+00:00",
+      "image": ""
+    },
+    {
+      "title": "CISA pede atualizações seguras imediatas do Ivanti Connect à medida que Honeypots registram 105 tentativas de exploração",
+      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) instou na terça-feira as organizações a tomarem medidas para atualizar imediatamente seus dispositivos e implantações Ivanti Connect Secure (ICS) para a versão mais recente após a divulgação",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
+      "published": "2026-10-14T12:30:42+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBUpsAaH4Pe-HlsDhdSH5KK3VgWm9NEXXLNBOpxxp4d8WMZwSNNyPALzuapR_iUlq3-dLDe2bnPJfh42cdfH5m3LQWGKXZvHF3sYacyDbtZacKIIoluyNgP01-6bjjEz-RBhAQqxw-VHGD7gpn3ToRulgeH0ydeWXOucoK4hLBwvXtlCg81tB1scdjPbKN/s1600/i-h.jpg"
+    },
+    {
+      "title": "curl corrige falha de upload HTTP/2 após PoC demonstrar execução de código no lado do cliente",
+      "summary": "Uma falha na forma como o curl lida com uploads HTTP/2 permite que um servidor malicioso que recebe um upload corrompa a memória do cliente, e o pesquisador que relatou isso transformou isso em execução de código na máquina de upload. O projeto curl corrigiu i",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
+      "published": "2026-10-14T12:13:36+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4S_5rQ2kApGYmSMOh6PFsgD3yRugV3_nzSexwBhEe3BoSTQeBfSu2-3JSO4wDCnU2LmVMWtgA6AcBEcf2wOpsL2v22woZ5fel0XaSonlbgDWSXMuV3iu5ewohp9kqgf4OwmCvtnRyyYjFEP6Z3RRLT5sX8g7-xI1robnLmWtqFp6SvrGvpBeXI_D4ICo/s1600/curl.jpg"
+    },
+    {
+      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution - The Hacker News",
+      "summary": "curl Patches falha de upload HTTP/2 após PoC demonstra execução de código do lado do cliente The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdThlelhJaGQwNTdnNmpSOWlvRmREQWJyWmIxc1hQcDZqa1lhVzlmdlQ3aWNicFNQOTZidXZQZlI2Tk5aNDZLeFZzZ2ZCS1Fjbk9oYVduOTNxNS0zLVZpazdqRGxMNU4ybEZDZVdOOS1CUUpNTHE3Y0J6Qk04YkEtdA?oc=5",
+      "published": "2026-10-14T12:13:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Como executar um exercício de prontidão Deepfake antes que uma voz clonada ligue para sua equipe",
+      "summary": "Vozes clonadas e videochamadas sintéticas agora aparecem em fraudes de pagamento, redefinições de suporte técnico e solicitações de acesso. Um exercício estruturado mostra às equipes de segurança exatamente onde a verificação falha, enquanto nada está em jogo.",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
+      "published": "2026-10-14T11:50:00+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEYzcrs6sSW45od6MYo5jFl29yPGuwipgy7nfS3STYqknrD9b5OcU00_c0sqjG8Arvqq36ojwHSZMbjboA3bUQ1-ZcLRRjmuEQpzTDYYXnyvySzynW0UOvHOVmYNNzp_n-J5xXmwByMCofw5kxslXe4dqAVYqrWa-1LivXxPNa_ZGOQgIBxhyhvtiLxDs/s1600/icon.jpg"
+    },
     {
       "title": "O malware Hirudo Android substitui aplicativos bancários para evitar verificações de segurança",
       "summary": "Um novo malware Android chamado Hirudo rouba credenciais de contas bancárias, substituindo aplicativos bancários legítimos por versões modificadas que desativam as verificações de segurança. [...]",
@@ -20,147 +155,12 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLXn6RSZOSq2StbSf2fHVaHwVEetIYN0wGfuaIcyaEnwSnXLaY1FBfSKPFzzQuKvtpRygCR7AvNixA-SCkIA98QjnT7gE2UWYtoiZLs5VxQC8KTSJwwlcP0helOb3F4hbSo4uqITjJYPiZHSSuKkm1O_BXFYeyEU7koe_77QSmKbU33o5hteBC5-0dxrs/s1600/chrome-exploit.jpg"
     },
     {
-      "title": "Hirudo Android Trojan usa aplicativos bancários corrigidos para ignorar suas verificações de segurança integradas",
-      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de um novo trojan bancário para Android chamado Hirudo, que funciona substituindo aplicativos bancários legítimos por versões corrigidas criadas especificamente para contornar as verificações de segura",
+      "title": "Pesquisadores usaram um modelo público OpenAI para construir uma exploração de cadeia completa do Chrome de US$ 250.000 em seis dias - The Hacker News",
+      "summary": "Pesquisadores usaram um modelo público OpenAI para construir uma exploração de cadeia completa do Chrome de US$ 250.000 em seis dias The Hacker News",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
-      "published": "2026-10-14T11:08:22+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj010OXrg2ZBrxwqSnpzd8SrIDY_dYOMtdnzIpG7YnCjv1QB58_HylDTkfFmXtZYci90doRcSrPdFfYLowM_S5t2RpD6UkCoWveJrKajQS-7d3sDtyI22FYN0TKy-pQpzWScUB_ROhXRNzZi9dzhgg02kH3WVtdGPNWYBLKv8qZgsa9kREW1SvZ2LTF2AWV/s1600/android-banking.jpg"
-    },
-    {
-      "title": "Um agente de IA encontrou um desvio crítico de OTP na produção. O ataque foi a parte fácil.",
-      "summary": "O bug era simples: o login permitia que você escolhesse para onde iria seu código de login. Provar isso em um site ativo foi a parte difícil. TL;DR Durante uma avaliação autorizada, um agente de pentesting de IA encontrou por conta própria um desvio crítico de",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
-      "published": "2026-10-14T11:00:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_bop9V2vtfHPW4Obd0zupOPpNFCd9N5HtVwWVs9u-njx8RuEgOkAh75uRjWLS_h3zHQ847m7xc01PkVAdKhyphenhyphen5Pkg2Pb_qthWVQe-9lcpKclCOq3ZDpQ2iSfRSFCQQU8gxyBl6lWEjTKWZHn9LiNSq2rQ4_nUIM6Sjcqv5fwgVRnFpiuxpYDfhrkbikLE/s1600/case.jpg"
-    },
-    {
-      "title": "EUA prendem dois em repressão a fazendas de laptops para trabalhadores de TI na Coreia do Norte",
-      "summary": "Os investigadores invadiram 40 locais no Texas e apreenderam 187 laptops usados ​​por funcionários de TI norte-coreanos para ocultar sua localização. A postagem EUA prendem dois em repressão a fazendas de laptops para trabalhadores de TI na Coreia do Norte apa",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/us-arrests-two-in-crackdown-on-north-korean-it-worker-laptop-farms/",
-      "published": "2026-10-14T10:55:21+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft: Atualizações recentes do Windows podem desencadear falhas na Área de Trabalho Remota",
-      "summary": "A Microsoft confirmou que usuários não administradores podem não conseguir se conectar a dispositivos por meio da Área de Trabalho Remota após instalar atualizações recentes do Windows se o recurso de segurança “Proteção do administrador” estiver ativado. [...",
-      "category": "DEFESA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
-      "published": "2026-10-14T10:48:09+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falha no kernel Linux encontrada pela IA fornece raiz aos usuários locais e pode separar um convidado para o host",
-      "summary": "Uma falha no subsistema vhost do Linux permite que um usuário local leia e grave na memória do kernel à vontade e se torne root em quase uma década de versões do kernel. Em uma configuração de virtualização, ela permite que uma máquina virtual não confiável gr",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
-      "published": "2026-10-14T07:46:57+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhavZnpNnmOBy6Wnkh7wfYD4-I32k65R7uyhYW32Doh3YVqtfJaagZZ_uo9JN-cixODo6h846eR89Aa55TGuMKfXmpjZEVZQ0ssFoP4-qVX6qrvSoyfRsu_q3MQcLKwolyKeE3Lw3MByz2Su8O0XOdRWNkJmyBdwpxsAtxi5y2goE7RhOSBPOLh4Evb60c/s1600/linux-exploit.jpg"
-    },
-    {
-      "title": "Chrome e Firefox atualizam falhas do patch 114 enquanto Mozilla revela Firefox Enterprise",
-      "summary": "A Mozilla introduziu o Firefox Enterprise para organizações com requisitos rígidos de conformidade, governança e segurança. A postagem Chrome e Firefox atualiza falhas do patch 114 enquanto a Mozilla revela o Firefox Enterprise apareceu pela primeira vez em Se",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/chrome-firefox-updates-patch-114-flaws-as-mozilla-unveils-firefox-enterprise/",
-      "published": "2026-10-14T07:38:51+00:00",
-      "image": ""
-    },
-    {
-      "title": "Citrix, Fortinet, Ivanti Patch 29 Vulnerabilidades em seus produtos",
-      "summary": "Falhas de gravidade crítica podem levar ao desvio de autenticação, execução de código e vazamento de informações confidenciais de autenticação. A postagem Citrix, Fortinet e Ivanti Patch 29 Vulnerabilidades em seus produtos apareceu pela primeira vez na Securi",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/citrix-fortinet-ivanti-patch-29-vulnerabilities-across-their-products/",
-      "published": "2026-10-14T07:26:35+00:00",
-      "image": ""
-    },
-    {
-      "title": "Os patches da Microsoft registram 1.413 vulnerabilidades, incluindo a exploração do Windows Zero-Day",
-      "summary": "O mais importante é CVE-2026-96951, uma falha de desvio de recurso de segurança do Windows que foi explorada à solta. A postagem Microsoft Patches registra 1.413 vulnerabilidades, incluindo Windows Zero-Day explorado apareceu pela primeira vez em SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/",
-      "published": "2026-10-14T07:16:12+00:00",
-      "image": ""
-    },
-    {
-      "title": "SAP corrige vulnerabilidades críticas do NetWeaver e S/4HANA",
-      "summary": "Os bugs podem permitir que invasores invoquem operações internas e executem códigos, comprometendo completamente o sistema. A postagem SAP corrige vulnerabilidades críticas do NetWeaver e S/4HANA apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/sap-patches-critical-netweaver-s-4hana-vulnerabilities/",
-      "published": "2026-10-14T06:12:10+00:00",
-      "image": ""
-    },
-    {
-      "title": "Bug de gravação e temporização de quatro bytes permite que pesquisadores executem código no Windows SmartScreen Enclave",
-      "summary": "Os pesquisadores de segurança executaram seu próprio código dentro de uma parte protegida do Windows que deve permanecer isolada mesmo quando o resto do computador for assumido. A área protegida é um enclave VBS, uma fatia isolada de memória que o sistema oper",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
-      "published": "2026-10-14T05:52:28+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNi7OCo6m5vsFkEP85LndyXnfiDgk2h5R0WwW_yHZ7mdK6Uh9xuLaI5ddFQJ45fW7jG8eC4VtIHJT1IQaUJCoAEMClMEiv9dA9kASwDQJj4l61ZSIlqW2bw605LQLL5kNUszoxI8Wkr54oguKY7guQGE9rwUmvzCVUjt19-0pWJpxir366NU5eqopHmk/s1600/enclave.jpg"
-    },
-    {
-      "title": "Gangues de ransomware adotam ameaças físicas e perseguição familiar?",
-      "summary": "As organizações estão relatando que os funcionários enfrentam ameaças às suas famílias, perseguição, violência física e sequestro. Mas estas afirmações alarmantes são difíceis de verificar.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking",
-      "published": "2026-10-14T05:00:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt87997eb0e0a8cb06/6acda095a3dd4913d099a48b/Wrench_money-KenanOlgun-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Patches da Microsoft registram 1.413 falhas, incluindo bug explorado no shell do Windows",
-      "summary": "A Microsoft quebrou na terça-feira seu próprio recorde de Patch Tuesday ao enviar patches para 1.413 vulnerabilidades, incluindo uma que, segundo ela, está sob exploração ativa. Isso inclui 1.102 falhas no Windows, 134 no Office, 61 nas ferramentas de desenvol",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
-      "published": "2026-10-14T04:34:43+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_wUoSEpf7bMmgL7Aa7NRI6qvluN83g3TcKAONrL5REtzYQIVR4TqrNs0awkDsRCXvaSEaOn83V0t1jpwkrh5FULBjyQJnxe-m4gkgjMHRC0SZHpkBDNjOSuZUrOXU5R6JGt4dwZXXn4JHYSoc4n22nIXcFIYtC51Vv89hGimRebEKzQ9-PX1U7M4Lk4ST/s1600/windows-patch.jpg"
-    },
-    {
-      "title": "Patches da Microsoft registram 1.413 falhas, incluindo bug explorado no shell do Windows – The Hacker News",
-      "summary": "Patches da Microsoft registram 1.413 falhas, incluindo bug explorado no shell do Windows The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvRTRXajgzdUxGLWx6MVJOaVBIdG1aUUdxZWFQaDVPZWdRaXo2a1RtZDdFaFJQMEtkbDhfZG1tN3RjQ0FqbkxwbW1KN2hiRnJsaHlOVHFfU3NNT3pMczVMNXJHWnVqb3d6MVFzRHhDQjJ0cTgtWE42NnVhZlBLalk?oc=5",
-      "published": "2026-10-14T04:34:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft corrige mais de 1.400 falhas de segurança",
-      "summary": "A Microsoft lançou hoje atualizações para corrigir mais de 1.400 vulnerabilidades de segurança em seus sistemas operacionais Windows e outros softwares. O épico lote de patches de hoje supera o recorde de quase 1.000 correções de setembro, que já era cerca de ",
-      "category": "VULNERABILIDADES",
-      "source": "KrebsOnSecurity",
-      "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
-      "published": "2026-10-13T23:24:53+00:00",
-      "image": ""
-    },
-    {
-      "title": "Funcionário é preso após dispositivo de escuta ser encontrado na sala de conferências OpenAI, dizem o FBI e a empresa",
-      "summary": "O cidadão saudita Abdulrahman Alfozan foi preso na sexta-feira e demitido pela OpenAI. A postagem Funcionário é preso após dispositivo de escuta encontrado na sala de conferências OpenAI, FBI e a empresa dizem que apareceu pela primeira vez na SecurityWeek.",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
-      "published": "2026-10-13T23:07:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Zero-Days se esconde no patch de outubro da Microsoft, terça-feira – Dark Reading",
-      "summary": "Zero-Days espreitam no patch de outubro da Microsoft, leitura sombria de terça-feira",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbTliUnBhZDA5M2ZuNmhJVENlbmhKUE9COHVQeG9mb3VrT0p2ak5hOUJIQnhwNW1kaTRzYWhlLVhmVEo2U2JDVjF0MGFUUF9Ea0lKY2xucW1JQlVlSm1OSHc1bDNjRUJVN19YYTR1eUNyODQ2M1phT0lwNURFU2ItNG5LV3N0Wm03YnIzaUVsSlFlZmRzdFBHcg?oc=5",
-      "published": "2026-10-13T22:40:06+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcmY1TVNqYkRROFR2WjRqaFZuc2dLUWlkNERiSnhuZjE3UVFWVHdUUGR3dkxQOE5mZ3FXUWxzYkJPbGNiTTdsSERobFRoX2QtVjNreDJsaGhxR0pON3BHUHpjQms0VEdhaGtXdVJPSmpHUzNEdUhpUGJqM2JDTmRCSHM0b3Q?oc=5",
+      "published": "2026-10-14T11:19:00+00:00",
       "image": ""
     }
   ]
