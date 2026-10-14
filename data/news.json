@@ -1,6 +1,114 @@
 {
-  "updated_at": "2026-10-14T05:04:07.364360+00:00",
+  "updated_at": "2026-10-14T12:06:09.065366+00:00",
   "items": [
+    {
+      "title": "O malware Hirudo Android substitui aplicativos bancários para evitar verificações de segurança",
+      "summary": "Um novo malware Android chamado Hirudo rouba credenciais de contas bancárias, substituindo aplicativos bancários legítimos por versões modificadas que desativam as verificações de segurança. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
+      "published": "2026-10-14T11:41:20+00:00",
+      "image": ""
+    },
+    {
+      "title": "Pesquisadores usaram um modelo público OpenAI para construir uma exploração de cadeia completa do Chrome de US$ 250.000 em seis dias",
+      "summary": "Uma equipe da empresa de segurança XBOW encadeou três bugs então desconhecidos do Google Chrome em um único ataque que executa código em um computador Windows quando o usuário carrega apenas uma página da web, disse a empresa. Seus pesquisadores construíram o ",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+      "published": "2026-10-14T11:19:02+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLXn6RSZOSq2StbSf2fHVaHwVEetIYN0wGfuaIcyaEnwSnXLaY1FBfSKPFzzQuKvtpRygCR7AvNixA-SCkIA98QjnT7gE2UWYtoiZLs5VxQC8KTSJwwlcP0helOb3F4hbSo4uqITjJYPiZHSSuKkm1O_BXFYeyEU7koe_77QSmKbU33o5hteBC5-0dxrs/s1600/chrome-exploit.jpg"
+    },
+    {
+      "title": "Hirudo Android Trojan usa aplicativos bancários corrigidos para ignorar suas verificações de segurança integradas",
+      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de um novo trojan bancário para Android chamado Hirudo, que funciona substituindo aplicativos bancários legítimos por versões corrigidas criadas especificamente para contornar as verificações de segura",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+      "published": "2026-10-14T11:08:22+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj010OXrg2ZBrxwqSnpzd8SrIDY_dYOMtdnzIpG7YnCjv1QB58_HylDTkfFmXtZYci90doRcSrPdFfYLowM_S5t2RpD6UkCoWveJrKajQS-7d3sDtyI22FYN0TKy-pQpzWScUB_ROhXRNzZi9dzhgg02kH3WVtdGPNWYBLKv8qZgsa9kREW1SvZ2LTF2AWV/s1600/android-banking.jpg"
+    },
+    {
+      "title": "Um agente de IA encontrou um desvio crítico de OTP na produção. O ataque foi a parte fácil.",
+      "summary": "O bug era simples: o login permitia que você escolhesse para onde iria seu código de login. Provar isso em um site ativo foi a parte difícil. TL;DR Durante uma avaliação autorizada, um agente de pentesting de IA encontrou por conta própria um desvio crítico de",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
+      "published": "2026-10-14T11:00:00+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_bop9V2vtfHPW4Obd0zupOPpNFCd9N5HtVwWVs9u-njx8RuEgOkAh75uRjWLS_h3zHQ847m7xc01PkVAdKhyphenhyphen5Pkg2Pb_qthWVQe-9lcpKclCOq3ZDpQ2iSfRSFCQQU8gxyBl6lWEjTKWZHn9LiNSq2rQ4_nUIM6Sjcqv5fwgVRnFpiuxpYDfhrkbikLE/s1600/case.jpg"
+    },
+    {
+      "title": "EUA prendem dois em repressão a fazendas de laptops para trabalhadores de TI na Coreia do Norte",
+      "summary": "Os investigadores invadiram 40 locais no Texas e apreenderam 187 laptops usados ​​por funcionários de TI norte-coreanos para ocultar sua localização. A postagem EUA prendem dois em repressão a fazendas de laptops para trabalhadores de TI na Coreia do Norte apa",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/us-arrests-two-in-crackdown-on-north-korean-it-worker-laptop-farms/",
+      "published": "2026-10-14T10:55:21+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft: Atualizações recentes do Windows podem desencadear falhas na Área de Trabalho Remota",
+      "summary": "A Microsoft confirmou que usuários não administradores podem não conseguir se conectar a dispositivos por meio da Área de Trabalho Remota após instalar atualizações recentes do Windows se o recurso de segurança “Proteção do administrador” estiver ativado. [...",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
+      "published": "2026-10-14T10:48:09+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falha no kernel Linux encontrada pela IA fornece raiz aos usuários locais e pode separar um convidado para o host",
+      "summary": "Uma falha no subsistema vhost do Linux permite que um usuário local leia e grave na memória do kernel à vontade e se torne root em quase uma década de versões do kernel. Em uma configuração de virtualização, ela permite que uma máquina virtual não confiável gr",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+      "published": "2026-10-14T07:46:57+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhavZnpNnmOBy6Wnkh7wfYD4-I32k65R7uyhYW32Doh3YVqtfJaagZZ_uo9JN-cixODo6h846eR89Aa55TGuMKfXmpjZEVZQ0ssFoP4-qVX6qrvSoyfRsu_q3MQcLKwolyKeE3Lw3MByz2Su8O0XOdRWNkJmyBdwpxsAtxi5y2goE7RhOSBPOLh4Evb60c/s1600/linux-exploit.jpg"
+    },
+    {
+      "title": "Chrome e Firefox atualizam falhas do patch 114 enquanto Mozilla revela Firefox Enterprise",
+      "summary": "A Mozilla introduziu o Firefox Enterprise para organizações com requisitos rígidos de conformidade, governança e segurança. A postagem Chrome e Firefox atualiza falhas do patch 114 enquanto a Mozilla revela o Firefox Enterprise apareceu pela primeira vez em Se",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/chrome-firefox-updates-patch-114-flaws-as-mozilla-unveils-firefox-enterprise/",
+      "published": "2026-10-14T07:38:51+00:00",
+      "image": ""
+    },
+    {
+      "title": "Citrix, Fortinet, Ivanti Patch 29 Vulnerabilidades em seus produtos",
+      "summary": "Falhas de gravidade crítica podem levar ao desvio de autenticação, execução de código e vazamento de informações confidenciais de autenticação. A postagem Citrix, Fortinet e Ivanti Patch 29 Vulnerabilidades em seus produtos apareceu pela primeira vez na Securi",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/citrix-fortinet-ivanti-patch-29-vulnerabilities-across-their-products/",
+      "published": "2026-10-14T07:26:35+00:00",
+      "image": ""
+    },
+    {
+      "title": "Os patches da Microsoft registram 1.413 vulnerabilidades, incluindo a exploração do Windows Zero-Day",
+      "summary": "O mais importante é CVE-2026-96951, uma falha de desvio de recurso de segurança do Windows que foi explorada à solta. A postagem Microsoft Patches registra 1.413 vulnerabilidades, incluindo Windows Zero-Day explorado apareceu pela primeira vez em SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/",
+      "published": "2026-10-14T07:16:12+00:00",
+      "image": ""
+    },
+    {
+      "title": "SAP corrige vulnerabilidades críticas do NetWeaver e S/4HANA",
+      "summary": "Os bugs podem permitir que invasores invoquem operações internas e executem códigos, comprometendo completamente o sistema. A postagem SAP corrige vulnerabilidades críticas do NetWeaver e S/4HANA apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/sap-patches-critical-netweaver-s-4hana-vulnerabilities/",
+      "published": "2026-10-14T06:12:10+00:00",
+      "image": ""
+    },
+    {
+      "title": "Bug de gravação e temporização de quatro bytes permite que pesquisadores executem código no Windows SmartScreen Enclave",
+      "summary": "Os pesquisadores de segurança executaram seu próprio código dentro de uma parte protegida do Windows que deve permanecer isolada mesmo quando o resto do computador for assumido. A área protegida é um enclave VBS, uma fatia isolada de memória que o sistema oper",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
+      "published": "2026-10-14T05:52:28+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNi7OCo6m5vsFkEP85LndyXnfiDgk2h5R0WwW_yHZ7mdK6Uh9xuLaI5ddFQJ45fW7jG8eC4VtIHJT1IQaUJCoAEMClMEiv9dA9kASwDQJj4l61ZSIlqW2bw605LQLL5kNUszoxI8Wkr54oguKY7guQGE9rwUmvzCVUjt19-0pWJpxir366NU5eqopHmk/s1600/enclave.jpg"
+    },
     {
       "title": "Gangues de ransomware adotam ameaças físicas e perseguição familiar?",
       "summary": "As organizações estão relatando que os funcionários enfrentam ameaças às suas famílias, perseguição, violência física e sequestro. Mas estas afirmações alarmantes são difíceis de verificar.",
@@ -20,8 +128,17 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_wUoSEpf7bMmgL7Aa7NRI6qvluN83g3TcKAONrL5REtzYQIVR4TqrNs0awkDsRCXvaSEaOn83V0t1jpwkrh5FULBjyQJnxe-m4gkgjMHRC0SZHpkBDNjOSuZUrOXU5R6JGt4dwZXXn4JHYSoc4n22nIXcFIYtC51Vv89hGimRebEKzQ9-PX1U7M4Lk4ST/s1600/windows-patch.jpg"
     },
     {
+      "title": "Patches da Microsoft registram 1.413 falhas, incluindo bug explorado no shell do Windows – The Hacker News",
+      "summary": "Patches da Microsoft registram 1.413 falhas, incluindo bug explorado no shell do Windows The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvRTRXajgzdUxGLWx6MVJOaVBIdG1aUUdxZWFQaDVPZWdRaXo2a1RtZDdFaFJQMEtkbDhfZG1tN3RjQ0FqbkxwbW1KN2hiRnJsaHlOVHFfU3NNT3pMczVMNXJHWnVqb3d6MVFzRHhDQjJ0cTgtWE42NnVhZlBLalk?oc=5",
+      "published": "2026-10-14T04:34:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Microsoft corrige mais de 1.400 falhas de segurança",
-      "summary": "A Microsoft lançou hoje atualizações para corrigir mais de 1.400 vulnerabilidades de segurança em seus sistemas operacionais Windows e outros softwares. O lote épico de patches de hoje supera o recorde de quase 1.000 correções de setembro, que já era cerca de ",
+      "summary": "A Microsoft lançou hoje atualizações para corrigir mais de 1.400 vulnerabilidades de segurança em seus sistemas operacionais Windows e outros softwares. O épico lote de patches de hoje supera o recorde de quase 1.000 correções de setembro, que já era cerca de ",
       "category": "VULNERABILIDADES",
       "source": "KrebsOnSecurity",
       "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
@@ -38,129 +155,12 @@
       "image": ""
     },
     {
-      "title": "Zero-Days se esconde no patch de outubro da Microsoft, terça-feira",
-      "summary": "As surpresas assustadoras da maior atualização de segurança de todos os tempos incluem desvios de segurança e RCEs não autenticados.",
+      "title": "Zero-Days se esconde no patch de outubro da Microsoft, terça-feira – Dark Reading",
+      "summary": "Zero-Days espreitam no patch de outubro da Microsoft, leitura sombria de terça-feira",
       "category": "VULNERABILIDADES",
       "source": "Dark Reading",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
-      "published": "2026-10-13T22:29:57+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2208c9717985ba6f/6aceb2c101a45e612a7baa2b/harvest-China_Photos-GettyImages-71574532.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Falha no Ghostscript permite que hackers sequestrem servidores por meio de uploads de PDF",
-      "summary": "Uma vulnerabilidade crítica de estouro de buffer de heap (CVE-2026-39919) no interpretador e mecanismo de renderização Ghostscript pode permitir a execução remota de código por meio de arquivos PDF especialmente criados. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
-      "published": "2026-10-13T21:33:26+00:00",
-      "image": ""
-    },
-    {
-      "title": "Coreia do Norte ataca ucranianos por informações de guerra",
-      "summary": "A República Popular Democrática da Coreia (RPDC) está a tentar obter informações sobre o seu próprio esforço de guerra na Ucrânia, através de simples ataques de phishing de resposta.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel",
-      "published": "2026-10-13T21:24:45+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7314e52d65e066f0/6ace87d8c13815714705c3f3/Ukraine_DPRK-MicroStockHub-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Anthropic alerta que IA auto-replicante pode se espalhar para seus dispositivos inteligentes",
-      "summary": "A Anthropic alerta que pequenos modelos de IA poderão em breve ser capazes de se auto-replicar em dispositivos IoT de consumo, desde caixas de TV Android até fornos inteligentes, criando botnets distribuídos capazes de executar cargas de trabalho de IA sem dep",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
-      "published": "2026-10-13T21:16:34+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft Patch Tuesday para outubro de 2026 – Regras do Snort e vulnerabilidades proeminentes",
-      "summary": "Postagem no blog cobrindo as vulnerabilidades divulgadas durante o Microsoft Patch Tuesday.",
-      "category": "VULNERABILIDADES",
-      "source": "Cisco Talos",
-      "url": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-october-2026/",
-      "published": "2026-10-13T20:37:58+00:00",
-      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/patch_tuesday.png"
-    },
-    {
-      "title": "O patch de terça-feira de outubro de 2026 da Microsoft corrige 1.411 falhas, 3 dias zero",
-      "summary": "Hoje é a terça-feira do patch de outubro de 2026 da Microsoft, com atualizações de segurança abordando um recorde de 1.411 falhas, incluindo uma vulnerabilidade explorada ativamente e duas vulnerabilidades de dia zero divulgadas publicamente. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
-      "published": "2026-10-13T19:56:09+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft lança atualização de segurança estendida do Windows 10 KB5126657",
-      "summary": "A Microsoft lançou a atualização de segurança estendida do Windows 10 KB5126657, que inclui as correções recordes do Patch Tuesday de outubro de 2026 deste mês e algumas correções de bugs e alterações. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/",
-      "published": "2026-10-13T19:47:30+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft: Windows 11 24H2 Home e Pro chegaram ao fim do suporte",
-      "summary": "A Microsoft anunciou hoje que os dispositivos que executam as edições Windows 11 24H2 Home e Pro atingiram o fim do suporte e não receberão mais atualizações mensais de segurança e de visualização não relacionadas à segurança. [...]",
-      "category": "DEFESA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
-      "published": "2026-10-13T19:04:38+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ivanti Zero-Day Chain deu aos invasores acesso root a uma VPN totalmente corrigida",
-      "summary": "CVE-2026-104935 afeta o Ivanti Connect Secure e pode ser explorado para execução remota de código não autenticado com privilégios elevados. A postagem Ivanti Zero-Day Chain deu aos invasores acesso root a uma VPN totalmente corrigida apareceu pela primeira vez",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/",
-      "published": "2026-10-13T18:43:43+00:00",
-      "image": ""
-    },
-    {
-      "title": "Anthropic alerta que pequenos modelos de IA poderão em breve formar botnets de IoT autopropagáveis",
-      "summary": "Pequenos modelos de inteligência artificial (IA) podem levar meses para desenvolver capacidades de auto-replicação em dispositivos IoT, como fornos inteligentes e caixas de Android TV fora da marca, de acordo com um alerta da Anthropic. O laboratório de IA de ",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
-      "published": "2026-10-13T18:20:57+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigX1U6rARsREVvdJOVd0vGWuybd8470_G2xcVMyp0u_rHrimpzBkv2-Qyo_qcx_9BpQOlndrW-P1tpya8dQwnEscYsg1NYPq3kGXKayoosc20QHDXRyadNlRMTuSa2KKSaI0qoq4gO415S3LTux5cPcUieRF6PW4xzeILW-D80v3jkwWRni7y51t4Y6Hnu/s1600/ai-botnet.jpg"
-    },
-    {
-      "title": "Anthropic alerta que pequenos modelos de IA poderão em breve formar botnets de IoT autopropagáveis ​​- The Hacker News",
-      "summary": "Anthropic alerta que pequenos modelos de IA poderão em breve formar botnets de IoT autopropagados The Hacker News",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa1ZuUW5VRFVVR055UXdpQzd4UFhsNmRhLWo5aUt4SjBvcHJ1VnJXZTlDRjZwNzd0cmRud1VPRkR5M05SeG8zX0ZHbi1oV0Z2Rl9BMkd1SFUyaDVKUW1yU3M4aEJoS180Rk9QZkJpM1ZLeGFsX2czRUQ0eVZsdkNBQ05n?oc=5",
-      "published": "2026-10-13T18:20:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Serviço de Provedoria de Habitação do Reino Unido investiga ‘incidente de segurança’",
-      "summary": "O Serviço de Ouvidoria de Habitação do Reino Unido está investigando um incidente de segurança de TI de terceiros que afetou seu sistema de gerenciamento de casos na terça-feira. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
-      "published": "2026-10-13T18:19:44+00:00",
-      "image": ""
-    },
-    {
-      "title": "Docker corrige falha crítica do hub de dois anos que permitia que um usuário enviasse imagens como outro",
-      "summary": "Uma falha no Docker Hub, o registro onde as imagens do contêiner são publicadas e baixadas, permite que um usuário envie, extraia ou exclua imagens como outro usuário. O Docker corrigiu a falha em 30 de setembro e afirma não ter encontrado evidências de que al",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
-      "published": "2026-10-13T18:03:18+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEile879Rmv8zAdU5PMclUp5RnNGDb3h1u3aVZ-VigGjnO0RFcyCQ03s7_lIqMGDiow5ilPumq3B2_bsvewqRlepch4lFwLvOUEDQZPYd9Vv8untJVZFmrv5Zhgvj54cs4J_vCYW4GVY-XsQl7SXD-yrXbED6KpiWbTq-kL_0aNwef3xjV3cBGQ3dsodqAM/s1600/dock.jpg"
-    },
-    {
-      "title": "Atualizações cumulativas do Windows 11 KB5127648 e KB5126653 lançadas",
-      "summary": "A Microsoft lançou as atualizações cumulativas Patch Tuesday Windows 11 KB5127648 e KB5126653 para as versões 26H2/25H2/24H2 e 23H2 para corrigir vulnerabilidades e bugs de segurança e adicionar novos recursos. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
-      "published": "2026-10-13T17:49:38+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbTliUnBhZDA5M2ZuNmhJVENlbmhKUE9COHVQeG9mb3VrT0p2ak5hOUJIQnhwNW1kaTRzYWhlLVhmVEo2U2JDVjF0MGFUUF9Ea0lKY2xucW1JQlVlSm1OSHc1bDNjRUJVN19YYTR1eUNyODQ2M1phT0lwNURFU2ItNG5LV3N0Wm03YnIzaUVsSlFlZmRzdFBHcg?oc=5",
+      "published": "2026-10-13T22:40:06+00:00",
       "image": ""
     }
   ]
