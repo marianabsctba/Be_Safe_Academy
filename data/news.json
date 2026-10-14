@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-10-13T22:55:24.851680+00:00",
+  "updated_at": "2026-10-14T05:04:07.364360+00:00",
   "items": [
+    {
+      "title": "Gangues de ransomware adotam ameaças físicas e perseguição familiar?",
+      "summary": "As organizações estão relatando que os funcionários enfrentam ameaças às suas famílias, perseguição, violência física e sequestro. Mas estas afirmações alarmantes são difíceis de verificar.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking",
+      "published": "2026-10-14T05:00:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt87997eb0e0a8cb06/6acda095a3dd4913d099a48b/Wrench_money-KenanOlgun-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Patches da Microsoft registram 1.413 falhas, incluindo bug explorado no shell do Windows",
+      "summary": "A Microsoft quebrou na terça-feira seu próprio recorde de Patch Tuesday ao enviar patches para 1.413 vulnerabilidades, incluindo uma que, segundo ela, está sob exploração ativa. Isso inclui 1.102 falhas no Windows, 134 no Office, 61 nas ferramentas de desenvol",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
+      "published": "2026-10-14T04:34:43+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_wUoSEpf7bMmgL7Aa7NRI6qvluN83g3TcKAONrL5REtzYQIVR4TqrNs0awkDsRCXvaSEaOn83V0t1jpwkrh5FULBjyQJnxe-m4gkgjMHRC0SZHpkBDNjOSuZUrOXU5R6JGt4dwZXXn4JHYSoc4n22nIXcFIYtC51Vv89hGimRebEKzQ9-PX1U7M4Lk4ST/s1600/windows-patch.jpg"
+    },
+    {
+      "title": "Microsoft corrige mais de 1.400 falhas de segurança",
+      "summary": "A Microsoft lançou hoje atualizações para corrigir mais de 1.400 vulnerabilidades de segurança em seus sistemas operacionais Windows e outros softwares. O lote épico de patches de hoje supera o recorde de quase 1.000 correções de setembro, que já era cerca de ",
+      "category": "VULNERABILIDADES",
+      "source": "KrebsOnSecurity",
+      "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+      "published": "2026-10-13T23:24:53+00:00",
+      "image": ""
+    },
+    {
+      "title": "Funcionário é preso após dispositivo de escuta ser encontrado na sala de conferências OpenAI, dizem o FBI e a empresa",
+      "summary": "O cidadão saudita Abdulrahman Alfozan foi preso na sexta-feira e demitido pela OpenAI. A postagem Funcionário é preso após dispositivo de escuta encontrado na sala de conferências OpenAI, FBI e a empresa dizem que apareceu pela primeira vez na SecurityWeek.",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
+      "published": "2026-10-13T23:07:00+00:00",
+      "image": ""
+    },
     {
       "title": "Zero-Days se esconde no patch de outubro da Microsoft, terça-feira",
       "summary": "As surpresas assustadoras da maior atualização de segurança de todos os tempos incluem desvios de segurança e RCEs não autenticados.",
@@ -92,8 +128,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigX1U6rARsREVvdJOVd0vGWuybd8470_G2xcVMyp0u_rHrimpzBkv2-Qyo_qcx_9BpQOlndrW-P1tpya8dQwnEscYsg1NYPq3kGXKayoosc20QHDXRyadNlRMTuSa2KKSaI0qoq4gO415S3LTux5cPcUieRF6PW4xzeILW-D80v3jkwWRni7y51t4Y6Hnu/s1600/ai-botnet.jpg"
     },
     {
-      "title": "Anthropic alerta que pequenos modelos de IA poderão em breve formar botnets de IoT autopropagados - The Hacker News",
-      "summary": "Anthropic alerta que pequenos modelos de IA poderão em breve formar botnets de IoT autopropagáveis ​​The Hacker News",
+      "title": "Anthropic alerta que pequenos modelos de IA poderão em breve formar botnets de IoT autopropagáveis ​​- The Hacker News",
+      "summary": "Anthropic alerta que pequenos modelos de IA poderão em breve formar botnets de IoT autopropagados The Hacker News",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa1ZuUW5VRFVVR055UXdpQzd4UFhsNmRhLWo5aUt4SjBvcHJ1VnJXZTlDRjZwNzd0cmRud1VPRkR5M05SeG8zX0ZHbi1oV0Z2Rl9BMkd1SFUyaDVKUW1yU3M4aEJoS180Rk9QZkJpM1ZLeGFsX2czRUQ0eVZsdkNBQ05n?oc=5",
@@ -125,42 +161,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
       "published": "2026-10-13T17:49:38+00:00",
-      "image": ""
-    },
-    {
-      "title": "O invasor encadeia três dias zero seguros do Ivanti Connect para acesso root, apenas dois corrigidos até agora",
-      "summary": "Um invasor encadeou três falhas de dia zero no Ivanti Connect Secure, um dispositivo VPN, para executar comandos como root sem fazer login, disse a empresa de segurança Volexity em 13 de outubro. A Ivanti lançou correções para duas das falhas e disse aos clien",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
-      "published": "2026-10-13T17:33:11+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZSH26NsXmSsQGaAbhNyJLMaBQKFCmabIbFZ_yi2sUGXjHQOVztQEQfXLarEAx1Fl9lRwGAryBE4zZEooJ4cochODcB4x8wQnPl3MRWiyBcpyEV6i8VPxvwcLHmShQVZVhuOcTjMXRhHAlx4Y0Uo85c74EVU4cea84YgXju02I9jlNzcGOFtLfa_am82Q/s1600/ivanti-hack.jpg"
-    },
-    {
-      "title": "Atacante encadeia três dias zero seguros do Ivanti Connect para acesso root, apenas dois corrigidos até agora - The Hacker News",
-      "summary": "Atacante encadeia três dias zero seguros do Ivanti Connect para acesso root, apenas dois corrigidos até agora The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWTJZcU93ODZIUzM5MHl6eW5HeWlYMGZzYVRRN2xoU25vYjQwNVlNeUhLZ2gtVGFOV19oZ2huZl82UnN0VmI2VGhITnRxOTYwd0R0N1prS1FrM2RBOVJ5R3hTRjRVenpJUzlYSlJmaTNadkprRmdsTHFKZU42WVdhVQ?oc=5",
-      "published": "2026-10-13T17:33:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "SAP divulga falha crítica do CVSS 10 no Cloud SDK para Python, permitindo roubo de credenciais OAuth2",
-      "summary": "Uma falha no Cloud SDK for Python da SAP pode enviar credenciais de cliente OAuth2 de um aplicativo para um servidor controlado por um invasor, disse a SAP em um comunicado de segurança em 13 de outubro. A falha afeta aplicativos multilocatários na SAP Busines",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
-      "published": "2026-10-13T17:28:50+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKBZR5elkBVKRcFO6lyde7XYDVO73IBxDvnx9-UkLst3GhVFuK8Yz3QBVIIEJABDjZuJMn8tyf7RLLPIRV8J8qe-OUULjnQRaQNyWricSsOjlKJoyYu8WOvs5PxBWQpzuiq8hlDlOY7zY-qIYDgQ6NFuifS5GbHbnLBET0OTfmsMC8797Mo5un9_ECyg8/s1600/sap-hacker.jpg"
-    },
-    {
-      "title": "Adobe corrige 140 vulnerabilidades em 10 produtos",
-      "summary": "As falhas afetam produtos como Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker e Bridge. A postagem Adobe corrige 140 vulnerabilidades em 10 produtos apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/",
-      "published": "2026-10-13T17:14:42+00:00",
       "image": ""
     }
   ]
