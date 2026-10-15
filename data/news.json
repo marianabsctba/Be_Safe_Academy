@@ -1,6 +1,123 @@
 {
-  "updated_at": "2026-10-15T04:52:13.160173+00:00",
+  "updated_at": "2026-10-15T11:42:58.038143+00:00",
   "items": [
+    {
+      "title": "CikaBika Bot RAT usa Discord para C&C",
+      "summary": "Distribuído por meio de phishing, o malware oferece recursos de reconhecimento, execução remota e exfiltração de dados. A postagem CikaBika Bot RAT usa Discord para C&C apareceu pela primeira vez em SecurityWeek.",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/",
+      "published": "2026-10-15T11:25:58+00:00",
+      "image": ""
+    },
+    {
+      "title": "O novo Android RAT ‘Hirudo’ substitui aplicativos bancários por cópias trojanizadas",
+      "summary": "O malware Hirudo combina elementos de um trojan bancário tradicional e um RAT completo. A postagem O novo Android RAT ‘Hirudo’ substitui aplicativos bancários por cópias trojanizadas apareceu pela primeira vez na SecurityWeek.",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/novel-android-banking-rat-hirudo-replaces-banking-apps-with-trojanized-copies/",
+      "published": "2026-10-15T10:15:32+00:00",
+      "image": ""
+    },
+    {
+      "title": "Violação de dados de energia da CenterPoint afeta 1 milhão de texanos",
+      "summary": "Informações pessoais como nomes, endereços, números de Seguro Social e números de carteira de motorista foram comprometidas. A postagem Violação de dados de energia do CenterPoint impacta 1 milhão de texanos apareceu pela primeira vez na SecurityWeek.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/centerpoint-energy-data-breach-impacts-1-million-texans/",
+      "published": "2026-10-15T09:55:19+00:00",
+      "image": ""
+    },
+    {
+      "title": "GhostAction compromete cerca de 1.900 contas GitHub, visando mais de 30.000 repositórios",
+      "summary": "A campanha de roubo de credenciais conhecida como GhostAction aumentou, visando mais de 30.000 repositórios em 3.000 usuários e organizações. O aumento, de acordo com o GitGuardian, foi observado em 8 e 9 de outubro de 2026. “Isso resultou do comprometimento d",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
+      "published": "2026-10-15T08:45:10+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiddFchlm_nV3vywI0BM2-8IaZb-wHXwE8DplGqZYkRmcYkeXiSLfVmnVAU-jM4yikWW7SWokanh_S4hq88cVHjAnaWDGkl3VVAtPdv9SHWp0MNb0CIOAA-I73EuwwUSE-wNMnXEzbIdDYorJn2hIuBZQ5Jh_5I2IntiXuUYZz3sKax-wfRoaxy_pD9kGx0/s1600/ghost-git.jpg"
+    },
+    {
+      "title": "Conversas CISO: James Robinson – Muitos empregos, uma jornada para Netskope CISO",
+      "summary": "James Robinson nunca planejou uma carreira em segurança cibernética – sete empresas e uma função de vice-CISO depois, ele lidera a segurança na Netskope. A postagem Conversas do CISO: James Robinson – Muitos empregos, uma jornada para o Netskope CISO apareceu ",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ciso-conversations-james-robinson-many-jobs-one-journey-to-netskope-ciso/",
+      "published": "2026-10-15T08:26:40+00:00",
+      "image": ""
+    },
+    {
+      "title": "Agência de Assistência Jurídica do Reino Unido: Hackers roubaram registros que datam de 1978",
+      "summary": "A Legal Aid Agency (LAA), uma agência executiva do Ministério da Justiça do Reino Unido que administra o Serviço de Defensoria Pública do país, afirma que os invasores que violaram seus sistemas de TI em abril de 2025 roubaram registros que datam de 1978. [...",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
+      "published": "2026-10-15T08:06:47+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falha crítica de RCE autenticada da Langflow visada em 1.423 tentativas de exploração do Honeypot",
+      "summary": "Os atores da ameaça estão explorando uma falha crítica de segurança no Langflow, de acordo com um alerta da Previdian. Langflow é uma plataforma de código aberto que permite aos desenvolvedores criar aplicativos de inteligência artificial (IA) e fluxos de trab",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
+      "published": "2026-10-15T07:07:05+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1tlAL_zc7Hg-gD5PRFa08hoOp2KRDu9kNSJk8nhZ91us8q-K7qGfnoasa6gONBjZoEtGJqPEZY3rKMy4Uqozk89X-L7IQBV8IrDqnJYdtAsCC4d08mmQUI4r_zACmvDVdey82w7FC4lTIoYfqdwYYu2Bp_Ql0AwOB54KRYrHk9ixjo27rKLWEK0dwsfw3/s1600/langflow.jpg"
+    },
+    {
+      "title": "Mercearias da UE pagam um preço exorbitante por firmware de geladeira sem patch",
+      "summary": "Centenas de lojas perderam milhões de dólares porque contrataram terceiros para gerenciar o firmware OT desatualizado que executava seus sistemas de refrigeração.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware",
+      "published": "2026-10-15T07:00:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdcfc831a57f67689/6acfbd4be9c311a2c0cf7674/Melted_ice_cream-cagkansayin-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Palo Alto Networks corrige PAN-OS Zero-Day explorado para execução remota de código",
+      "summary": "A empresa afirma estar ciente da exploração limitada dos firewalls dos clientes e disponibilizou IoCs. A postagem Palo Alto Networks Patches PAN-OS Zero-Day explorados para execução remota de código apareceu pela primeira vez em SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/",
+      "published": "2026-10-15T06:59:54+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falhas do AhsayCBS exploradas para implantar web shells obtêm novas correções após patches incompletos",
+      "summary": "A Ahsay Backup, com sede em Cingapura, lançou atualizações de segurança para solucionar duas falhas de segurança no AhsayCBS que foram exploradas por malfeitores para lançar shells da web e mineradores de criptomoedas XMRig. As vulnerabilidades em questão são ",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
+      "published": "2026-10-15T06:43:08+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH_5A4EPZ4VVdF4dve5fMe4BwreUmtWCJQrgMiBdiZyoFInoZK_nO6ouOwLMCyyQPrXWE4_n3NE39b4C2UQi-G4uE3ufyv7A9IEYEp9O3ggTu7AyDRzOqwVqhLjISLvOTasPiAcdFafFtL7B5uoKtm8GPeFFxrKDupGCoqZJ2o88sUmaGbjKk6E3sJgIKD/s1600/backup.jpg"
+    },
+    {
+      "title": "Cisco alerta sobre vulnerabilidade explorada no gateway de e-mail seguro",
+      "summary": "Atacantes remotos não autenticados podem gravar arquivos arbitrários no sistema operacional e executar comandos com privilégios de root. A postagem Cisco alerta sobre vulnerabilidade explorada no gateway de e-mail seguro apareceu pela primeira vez em SecurityW",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/cisco-warns-of-exploited-secure-email-gateway-vulnerability/",
+      "published": "2026-10-15T06:34:15+00:00",
+      "image": ""
+    },
+    {
+      "title": "Palo Alto Networks corrige falha RCE autenticada por PAN-OS em meio à exploração ativa",
+      "summary": "A Palo Alto Networks divulgou na quarta-feira atualizações de segurança para uma falha de alta gravidade no software PAN-OS que está sob exploração ativa. A vulnerabilidade, rastreada como CVE-2026-0322 (pontuação CVSS: 8,6), é um caso de execução remota de có",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
+      "published": "2026-10-15T06:17:58+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4G5JAIF-hCnKf9QyWLzWIWxTrUIjqshujDHf0-_9m84O9f4S0Z-IQ4Jg-T11Ph_rwZvzsFU8Z-pI3uRsnvPSE-FK_VtrUx0pNZgHKf3PuMJCQmwopiE5hyMRSObeV7_VSrF7WC_iiG9T8wMNivOOBC12F7bLK8WI-MNjCffolAJnnhk-X-v1ecxwYtrQz/s1600/palo.jpg"
+    },
+    {
+      "title": "Palo Alto Networks corrige falha RCE autenticada pelo PAN-OS em meio à exploração ativa - The Hacker News",
+      "summary": "Palo Alto Networks corrige falha RCE autenticada pelo PAN-OS em meio à exploração ativa The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DdVhoZnJmMkdXWW85eUxOQllTZ0NxM2ZqZ1VYeVhLd0F6aF9ZNHBVckluZHVrRUVKWXRibFpQMUR5XzEwUTEtSTkya0JYdVJXQ01jQy1rTWZZV1ozeDkxN1VHUVNGNGVUVVQ0VDhvMGswOGlwSGxJMWp2Rjc?oc=5",
+      "published": "2026-10-15T06:17:00+00:00",
+      "image": ""
+    },
     {
       "title": "Palo Alto Networks alerta sobre falha PAN-OS RCE explorada em ataques",
       "summary": "A Palo Alto Networks lançou atualizações de segurança para um PAN-OS RCE zero-day de alta gravidade, rastreado como CVE-2026-0322, que foi explorado em ataques direcionados a firewalls. [...]",
@@ -29,6 +146,15 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9dea48f154a2fb24/6acfd2ceaf9e572367afea5c/fishing_hooks-MicroStockHub-GettyImages-2193660035.jpg?width=720&quality=80&disable=upscale"
     },
     {
+      "title": "A falha antrópica ‘SneakPeek’ é uma ameaça silenciosa de clique zero – Dark Reading",
+      "summary": "A falha antrópica 'SneakPeek' é uma ameaça silenciosa de zero clique, leitura sombria",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRXhPRDM2OUFyczVGN2ZLeG9yQXNNVzRNdkpFZkd5ZWxaTFFRSURqbUFHclpVUmJLcTJoSUstcDdvTHkxTzNfUWtlelF3Sjc1Smg0YkFQX0prSFlBWTEybFZsUzU3LUJ6LUFRc3FBVWVFdXNYTVg3bzBpMVZ0Q2NFeHN6d0RtVFNoQWRodERZeXRHQWZVWlpZUXRwNWY?oc=5",
+      "published": "2026-10-14T20:35:55+00:00",
+      "image": ""
+    },
+    {
       "title": "A falha antrópica ‘SneakPeek’ é uma ameaça silenciosa de clique zero",
       "summary": "Um bug no painel de visualização do Claude Code Desktop pode permitir que adversários roubem silenciosamente credenciais de desenvolvedores, incluindo chaves privadas SSH, credenciais AWS e tokens Claude 0Auth.",
       "category": "AMEAÇAS",
@@ -36,132 +162,6 @@
       "url": "https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat",
       "published": "2026-10-14T20:09:42+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltebc5737d9330c848/6acfd08de9c3113a94cf7694/cat_peek_Seregaff_Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "FBI invade fazendas de laptops de trabalhadores de TI da RPDC no Texas, cidadãos dos EUA são presos",
-      "summary": "O Departamento de Justiça dos EUA (DoJ) interrompeu as operações do grupo de ameaças Famous Chollima, prendendo dois suspeitos, acusando 14 indivíduos e apreendendo quase 187 laptops usados ​​em esquemas de trabalhadores remotos de TI na Coreia do Norte. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
-      "published": "2026-10-14T19:41:43+00:00",
-      "image": ""
-    },
-    {
-      "title": "Cisco alerta sobre ataques ativos que exploram nova vulnerabilidade crítica de gateway de e-mail seguro",
-      "summary": "Os invasores estão explorando uma falha crítica no Cisco Secure Email Gateway que permite que um remetente sem login grave arquivos no sistema operacional do dispositivo, disse a Cisco em um comunicado na quarta-feira. O invasor envia um e-mail com um anexo cr",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
-      "published": "2026-10-14T18:38:56+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh__fSqm3p4u0HNpmeikU6Mo4abprP417Zb3pPW3-6IGrTHwqkbz1CqiuqxL2D0O1PH8J4Ho3_ZpNdJ5VFluIj_KHX6qT0WqZYfHQzyu0cVzGee9EmAZ9pNzsZJZx40UxuKjuz9eNHvuzlMANKOkDr6aRdKWxs8SpJqSi6vDBQTP5ZFgpgqn3Yj2TYNJU/s1600/cisco-0day.jpg"
-    },
-    {
-      "title": "Cisco alerta sobre ataques ativos que exploram nova vulnerabilidade crítica de gateway de e-mail seguro - The Hacker News",
-      "summary": "Cisco alerta sobre ataques ativos que exploram nova vulnerabilidade crítica de gateway de e-mail seguro The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55YTR6aDF0SFJlWEFJWGkyWEJqR1VVX29GTXJYdUo4cGVEYkxOMmtnU1N1VDM4bDBnSWs2Y2txNjBSTnZGSF83SHNNUHI5clZ0d1Z2QVJWWkk0Zng5bGZxM3FxakM2cE4wZEFOOTVwaG1Ec18zZVNJ?oc=5",
-      "published": "2026-10-14T18:38:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ledger pede aos vendedores em toda a Ásia que interrompam as vendas após ataque à cadeia de suprimentos",
-      "summary": "A Ledger pediu aos revendedores e distribuidores de suas carteiras na Indonésia, Cingapura, Tailândia, Filipinas, Vietnã, Malásia e Hong Kong que suspendessem as vendas de dispositivos e removessem os produtos das prateleiras enquanto investiga a adulteração d",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
-      "published": "2026-10-14T17:46:50+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers backdoor servidores Nextcloud através de falha crítica no aplicativo CODE integrado do Collabora",
-      "summary": "Os invasores exploraram uma falha em um aplicativo Nextcloud opcional, Collabora Online - Built-in CODE Server, para plantar shells da web em servidores Nextcloud. Três administradores relataram o problema no GitHub, com o primeiro ataque registrado em 10 de s",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
-      "published": "2026-10-14T17:38:31+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkZLcjmZtzt6NpWa8x4Wz7EdcOQEW6xYv6DA_mBnwy1ctZZeRAyeSYLES-H_mkr1QOBv72WNuGKwKQ-NN179Rw8BRTcYO38sYwxcbDkg1ISW_qWrCRJ9JfUXh3102OmwrF0HQq6dbSc58VXACXoi_EoI8ysPuSlzB_nBcHuFl9r3QakOsGG9GUm6UVOU8/s1600/nextcloud.jpg"
-    },
-    {
-      "title": "Cisco corrige novo Secure Email Gateway explorado de dia zero em ataques",
-      "summary": "A Cisco corrigiu outra falha de dia zero explorada ativamente em seu Secure Email Gateway (SEG), que permite que invasores remotos não autenticados executem comandos com privilégios de root. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
-      "published": "2026-10-14T17:29:14+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft interrompe três kits de phishing vinculados a mais de 1 bilhão de mensagens fraudulentas",
-      "summary": "A Microsoft e a Health-ISAC, juntamente com o Japan Cybercrime Control Center (JC3) e uma coalizão de empresas do setor privado, como Resecurity, Cloudflare, Oracle, Proofpoint e TRM Labs, anunciaram a interrupção de três kits de phishing, CoGUI (também conhec",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
-      "published": "2026-10-14T17:09:15+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtmZA0sGFnGRVBoPOHXGNOr-Q1MpdbCUNVrfxBTV6z_URgCka1DOH4xcc_WuismhU3W1BEiostTKZetIhtrFyXrInKdz_jqK6Dtia5TDOqRiu4rkktKmF2Iz1br28coCyU3c5td-yrINUgjYIdwG-7q_n1fEZT_mumUoVBp2HfNPKHnqC3jTryRDL7hxAL/s1600/phish-shop.jpg"
-    },
-    {
-      "title": "Microsoft interrompe três kits de phishing vinculados a mais de 1 bilhão de mensagens fraudulentas - The Hacker News",
-      "summary": "Microsoft interrompe três kits de phishing vinculados a mais de 1 bilhão de mensagens fraudulentas The Hacker News",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vbmcweWhVSHFHeEpod1ZVRmoxQ3dJcWtXOHZucU9HVU9KMFM2LXY3WUtqYkMzWWF5akZCMWg2OFdzWk9mNnU3X0tXWlc0eWRTU3B2bjhDOVhqenFUaVk1dmJwSmU3SnNUbmFlLUdtVkVLdk1zdjBBdFR4ejBkdw?oc=5",
-      "published": "2026-10-14T17:09:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Agentes de IA navegam em sistemas TO desconhecidos e movem equipamentos em minutos, descobriu Booz Allen",
-      "summary": "No laboratório de TO isolado da Booz Allen, os modelos de IA atenderam a todos os objetivos em oito cenários e alcançaram uma rede de controle industrial a partir de um comprometimento do perímetro em pouco mais de 16 minutos. A postagem Agentes de IA navegam ",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ai-agents-navigate-unfamiliar-ot-systems-and-move-equipment-in-minutes-booz-allen-finds/",
-      "published": "2026-10-14T16:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Patch ICS terça-feira: Siemens emite 17 avisos, Rockwell corrige falha de aquisição do ArmorBlock",
-      "summary": "A ABB publicou anteriormente um alerta sobre uma possível investigação de uma vulnerabilidade do dynovaPRO. A postagem Patch ICS terça-feira: Siemens emite 17 avisos, Rockwell corrige falha de aquisição do ArmorBlock apareceu pela primeira vez em SecurityWeek ",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ics-patch-tuesday-siemens-issues-17-advisories-rockwell-fixes-armorblock-takeover-flaw/",
-      "published": "2026-10-14T15:15:15+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft corrige problemas de VPN causados ​​pelas atualizações do Windows de setembro",
-      "summary": "A Microsoft resolveu um problema conhecido que causava problemas de conexão Always On VPN após a instalação das atualizações de segurança do Windows 11 de setembro de 2026. [...]",
-      "category": "DEFESA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
-      "published": "2026-10-14T14:27:01+00:00",
-      "image": ""
-    },
-    {
-      "title": "Reino Unido Sanciona Cryptomus por Lavagem de Dinheiro em RU",
-      "summary": "O Reino Unido emitiu sanções económicas contra a Cryptomus, uma plataforma camaleónica de criptomoeda que, segundo os especialistas, serve como um importante canal para pagamentos relacionados com ransomware, narcóticos, mercados darknet, serviços de fraude e ",
-      "category": "AMEAÇAS",
-      "source": "KrebsOnSecurity",
-      "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
-      "published": "2026-10-14T14:22:49+00:00",
-      "image": ""
-    },
-    {
-      "title": "Harmonic Security levanta US$ 50 milhões para proteção de IA da força de trabalho",
-      "summary": "A startup de segurança cibernética planeja expandir as equipes de engenharia e entrada no mercado nos EUA e no Reino Unido. A postagem Harmonic Security levanta US$ 50 milhões para proteção de IA da força de trabalho apareceu pela primeira vez na SecurityWeek.",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/harmonic-security-raises-50-million-for-workforce-ai-protection/",
-      "published": "2026-10-14T14:09:51+00:00",
-      "image": ""
-    },
-    {
-      "title": "Os pontos cegos do pentesting agente e como fechá-los",
-      "summary": "Os testes de penetração baseados em IA podem descobrir caminhos de ataque complexos, mas as restrições de segurança e as limitações de rede deixam muitos ativos e vulnerabilidades não testados. A Picus Security explica como combinar pentesting de agente com va",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
-      "published": "2026-10-14T14:00:10+00:00",
-      "image": ""
     }
   ]
 }
