@@ -1,6 +1,132 @@
 {
-  "updated_at": "2026-10-15T11:42:58.038143+00:00",
+  "updated_at": "2026-10-15T17:10:42.904704+00:00",
   "items": [
+    {
+      "title": "Assista agora: Zero Trust Strategies Summit – Todas as sessões disponíveis sob demanda",
+      "summary": "Esta cúpula está focada na próxima geração de Zero Trust e segurança de identidade, indo além da teoria para fornecer estratégias viáveis. O post Assista agora: Zero Trust Strategies Summit – Todas as sessões disponíveis sob demanda apareceu pela primeira vez ",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/",
+      "published": "2026-10-15T16:51:34+00:00",
+      "image": ""
+    },
+    {
+      "title": "Citizen Lab rastreia infecções por spyware Candiru com clique zero na Al Jazeera até anúncios on-line direcionados",
+      "summary": "A Candiru, fabricante israelense de spyware vendido a governos, infectou dispositivos da rede de notícias Al Jazeera por meio de anúncios on-line comuns, em ataques que não exigiram nenhum clique ou outra ação do usuário, disseram pesquisadores do Citizen Lab ",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
+      "published": "2026-10-15T16:01:57+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE0PuxlZklu67SsXNfh_vZefiytkMx159npHL_6Ln3dNT0yxzyYE55zZU5SMOFGk39ZqhfWzXpYQfXdoZB0gGYdkoPu3cNactAPL9ZuCWdb_v4Hp4ZkoBLtEnzBovntpudGiQZvIwTucBgDRwNzfVR5SNybyZvTANvdqsDPjHVoUQcV3hrBNm0-YMvZK0/s1600/spyware-ads.jpg"
+    },
+    {
+      "title": "Silent Lynx explora falha do WinRAR para implantar shell reverso em ataques do governo da CEI",
+      "summary": "O ator de ameaça conhecido como Silent Lynx foi atribuído a um novo conjunto de ataques direcionados a organizações governamentais em toda a Comunidade de Estados Independentes (CEI). A atividade, observada de junho de 2025 a agosto de 2026, envolve quatro cad",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
+      "published": "2026-10-15T16:00:26+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX-Vi04Qyk2-RKyXrnolcZ8TTBRKY43kIB_B7l-1Na3Xta_ed00DJtXclvIdp65s6Sdf3ksabzWKXmYTmKwx9xAlROi6eas704naXFtyx93xru04krAQ9kViM9rjKSgKhdMR0weIs4xOd7htm_gI_7CLg-N16wjCKt59vAoC-3UpMFJf8QawlMkfpRh745/s1600/winrar-hacker.jpg"
+    },
+    {
+      "title": "O gerenciamento de vulnerabilidades não se trata de pontuação – trata-se de como ela se aplica a você",
+      "summary": "As organizações precisam abandonar as pontuações teóricas atribuídas pelo fornecedor e passar a usar dados reais de exploração específicos para seus ambientes.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you",
+      "published": "2026-10-15T15:17:18+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt87a9a62e14e5c16e/666343ceec03bda3d115a302/Software_patch_Zoonar_GmbH_Alamy.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Escopo de hackers da agência de assistência jurídica do Reino Unido amplia após análise forense",
+      "summary": "A maioria dos dados está relacionada a solicitações, reivindicações e pagamentos enviados entre 2007 e 2025. A agência de assistência jurídica do Reino Unido hackeia o escopo se amplia após a revisão forense apareceu pela primeira vez na SecurityWeek.",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/",
+      "published": "2026-10-15T14:22:34+00:00",
+      "image": ""
+    },
+    {
+      "title": "O pentesting de IA é tão bom quanto um pentester humano?",
+      "summary": "O pentesting de IA pode descobrir vulnerabilidades perdidas por testadores humanos, mas também tem limitações em termos de consistência, avaliação de riscos e compreensão do contexto de negócios. O Intruder compara os pontos fortes e fracos de ambas as abordag",
+      "category": "CLOUD & IA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
+      "published": "2026-10-15T14:01:11+00:00",
+      "image": ""
+    },
+    {
+      "title": "NGINX corrige 5 falhas, incluindo possível RCE e um bug TLS que pode ignorar as verificações de certificado do cliente",
+      "summary": "O NGINX lançou as versões 1.30.6 e 1.31.7 em 14 de outubro para corrigir cinco vulnerabilidades, uma delas presente em todas as versões desde maio de 2005. Existem três bugs de memória que a F5, a empresa por trás do NGINX, diz que podem travar um processo de ",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
+      "published": "2026-10-15T12:58:05+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEionuV8CAd7SP0bgEbHyb-0hp7JWNkWpPjYtkNH9p86nRQrxDN1T97D1cragnVVzAwCEFCuqrwuysgwzxJLfvTXrYhMSGj5rbBzrpjW-VPvAmrc2-9EAR_hBmPigJUOjynvkm0ArpyasyzCOAWUWFYdCqzsbCJVOsxC09LnYwH2dcV4j4Vm9S9VDelXUlc/s1600/tls.jpg"
+    },
+    {
+      "title": "Ataque de refrigeração em supermercados se estende a Copeland e Dixell Controllers",
+      "summary": "Cerca de 700 supermercados franceses foram atingidos pelos ataques cibernéticos, pelos quais nenhum grupo assumiu a responsabilidade. O posto Ataque de refrigeração em supermercado se amplia para Copeland, controladores Dixell apareceu pela primeira vez na Sec",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/",
+      "published": "2026-10-15T12:50:42+00:00",
+      "image": ""
+    },
+    {
+      "title": "Next.js envia patch fora de banda para duas falhas críticas de RCE em cache e processamento de SVG",
+      "summary": "Next.js lançou uma atualização de segurança fora de banda em 14 de outubro que corrige duas falhas críticas que permitem a execução remota de código não autenticado, junto com uma falha de negação de serviço de alta gravidade. Uma falha de execução de código e",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
+      "published": "2026-10-15T12:28:13+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9mXutJ2QPpC1NUCUZWdHjUDUGPSD3DaDY4b-T1EXbg07sNWADsV43EvUacKzn4Ohp2bRbD93t8kXBpv513XdMZEnMh8eNkY1bBaSuGICWbituq_jgWNCjQa_Cq6Ur0jInsfEwsHfdInKq4Tcp2kmfuYoCIMrgWcWwtzFlRPePDpW9gwemIkQpJXEVaHU/s1600/nextjs-rce.jpg"
+    },
+    {
+      "title": "Next.js envia patch fora de banda para duas falhas críticas de RCE em cache e processamento de SVG - The Hacker News",
+      "summary": "Next.js envia patch fora de banda para duas falhas críticas de RCE em cache e processamento de SVG The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONTJmZ29hWk1ldlhEcU1HNlkxQ2ZyRUNtMjduWW41cVVtQkFWQ2lWMkRVUk1fbzI5OExFeVhRWTVsQmlyTGNTR3NNdkQ2bWpxeU81VmRJQTJJMmUwdEFRUkI1dUEtNVZuWGJoc3NzTXFWdF82WVVwbjYxcUxXZ0Y0THZWdw?oc=5",
+      "published": "2026-10-15T12:28:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Drupal corrige falha crítica da interface do usuário do campo com caminho RCE não autenticado por meio de módulos contribuídos",
+      "summary": "O núcleo do Drupal tem uma falha crítica em seu módulo Field UI que pode permitir que um invasor execute código no servidor do site, e as correções foram enviadas em 14 de outubro no Drupal 11.4.10, 11.3.19 e 10.6.19. Um invasor não pode alcançar a falha apena",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
+      "published": "2026-10-15T12:07:20+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWENfwA4xQHfwINduJpVTTiNeAmBkevujxbloFijpq7PQV8xOV-iApTx_f5g9ImW_oKJolO1RuhlNeDc2NwoWKOdPfjfdDzMhCuOsWtdyCZOOs2fTW4vmXYixSIdOCw2CwsvSgvEOPxqHUwSoRpxxoMRKKRqsqezOqVNpF5uQaU3cdI7z9L_Y_2WeTImA/s1600/drupal.jpg"
+    },
+    {
+      "title": "Ataques falsos de IA se espalham por empresas dos EUA: como os MSSPs podem impedir incidentes antecipadamente",
+      "summary": "Os invasores estão se passando por produtos populares de IA para distribuir malware, roubar sessões de navegador e comprometer contas comerciais. ANY.RUN vinculou 1.258 análises de sandbox públicas a campanhas falsas de IA entre abril e outubro de 2026. As cam",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
+      "published": "2026-10-15T11:46:59+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvF5TcwT7nwh6xcCiXS3I0m6qmvF6EorwitA-7ETGlXzpc89JG-rPZye0FkJfFwunfKHXMTkGyg_pBRkBdJv_qaGX32cUdiqoTAA-sjGmsSlKJsL5LUFpyZLiho955h3EtKUCWvtnHyIJgzG1INTIwkqKsCmv3-vsxGXQq8QH-ue0Vl358XyE33wUhxWs/s1600/fake.jpg"
+    },
+    {
+      "title": "Palo Alto Networks corrige falha RCE autenticada por PAN-OS em meio à exploração ativa",
+      "summary": "A Palo Alto Networks divulgou na quarta-feira atualizações de segurança para uma falha de alta gravidade no software PAN-OS que está sob exploração ativa. A vulnerabilidade, rastreada como CVE-2026-0322 (pontuação CVSS: 8,6), é um caso de execução remota de có",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
+      "published": "2026-10-15T11:46:49+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4G5JAIF-hCnKf9QyWLzWIWxTrUIjqshujDHf0-_9m84O9f4S0Z-IQ4Jg-T11Ph_rwZvzsFU8Z-pI3uRsnvPSE-FK_VtrUx0pNZgHKf3PuMJCQmwopiE5hyMRSObeV7_VSrF7WC_iiG9T8wMNivOOBC12F7bLK8WI-MNjCffolAJnnhk-X-v1ecxwYtrQz/s1600/palo.jpg"
+    },
+    {
+      "title": "Ataques falsos de IA se espalham por empresas dos EUA: como os MSSPs podem impedir incidentes antecipadamente - The Hacker News",
+      "summary": "Ataques falsos de IA se espalham por empresas dos EUA: como os MSSPs podem impedir incidentes antecipadamente The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqZGFiSURoUnliM2pXZDdKS2pJWVFQcG1DbDZob3Rqa3l6b3Ayd19YajdvQ1p1OHBSTnVvVG9Ia0libzk0Wmw0bmQtTVRLZUlPeFoyeDhaNUMzMG5pQnBVQ0ZYLXc2MWpTVGFWY1IwdnlRbTlkUTJCVW92VQ?oc=5",
+      "published": "2026-10-15T11:46:00+00:00",
+      "image": ""
+    },
     {
       "title": "CikaBika Bot RAT usa Discord para C&C",
       "summary": "Distribuído por meio de phishing, o malware oferece recursos de reconhecimento, execução remota e exfiltração de dados. A postagem CikaBika Bot RAT usa Discord para C&C apareceu pela primeira vez em SecurityWeek.",
@@ -29,139 +155,13 @@
       "image": ""
     },
     {
-      "title": "GhostAction compromete cerca de 1.900 contas GitHub, visando mais de 30.000 repositórios",
-      "summary": "A campanha de roubo de credenciais conhecida como GhostAction aumentou, visando mais de 30.000 repositórios em 3.000 usuários e organizações. O aumento, de acordo com o GitGuardian, foi observado em 8 e 9 de outubro de 2026. “Isso resultou do comprometimento d",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
-      "published": "2026-10-15T08:45:10+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiddFchlm_nV3vywI0BM2-8IaZb-wHXwE8DplGqZYkRmcYkeXiSLfVmnVAU-jM4yikWW7SWokanh_S4hq88cVHjAnaWDGkl3VVAtPdv9SHWp0MNb0CIOAA-I73EuwwUSE-wNMnXEzbIdDYorJn2hIuBZQ5Jh_5I2IntiXuUYZz3sKax-wfRoaxy_pD9kGx0/s1600/ghost-git.jpg"
-    },
-    {
-      "title": "Conversas CISO: James Robinson – Muitos empregos, uma jornada para Netskope CISO",
-      "summary": "James Robinson nunca planejou uma carreira em segurança cibernética – sete empresas e uma função de vice-CISO depois, ele lidera a segurança na Netskope. A postagem Conversas do CISO: James Robinson – Muitos empregos, uma jornada para o Netskope CISO apareceu ",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ciso-conversations-james-robinson-many-jobs-one-journey-to-netskope-ciso/",
-      "published": "2026-10-15T08:26:40+00:00",
-      "image": ""
-    },
-    {
-      "title": "Agência de Assistência Jurídica do Reino Unido: Hackers roubaram registros que datam de 1978",
-      "summary": "A Legal Aid Agency (LAA), uma agência executiva do Ministério da Justiça do Reino Unido que administra o Serviço de Defensoria Pública do país, afirma que os invasores que violaram seus sistemas de TI em abril de 2025 roubaram registros que datam de 1978. [...",
+      "title": "Violação de dados de energia da CenterPoint afeta 1 milhão de texanos",
+      "summary": "Violação de dados de energia da CenterPoint impacta 1 milhão de texanos SecurityWeek",
       "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
-      "published": "2026-10-15T08:06:47+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falha crítica de RCE autenticada da Langflow visada em 1.423 tentativas de exploração do Honeypot",
-      "summary": "Os atores da ameaça estão explorando uma falha crítica de segurança no Langflow, de acordo com um alerta da Previdian. Langflow é uma plataforma de código aberto que permite aos desenvolvedores criar aplicativos de inteligência artificial (IA) e fluxos de trab",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
-      "published": "2026-10-15T07:07:05+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1tlAL_zc7Hg-gD5PRFa08hoOp2KRDu9kNSJk8nhZ91us8q-K7qGfnoasa6gONBjZoEtGJqPEZY3rKMy4Uqozk89X-L7IQBV8IrDqnJYdtAsCC4d08mmQUI4r_zACmvDVdey82w7FC4lTIoYfqdwYYu2Bp_Ql0AwOB54KRYrHk9ixjo27rKLWEK0dwsfw3/s1600/langflow.jpg"
-    },
-    {
-      "title": "Mercearias da UE pagam um preço exorbitante por firmware de geladeira sem patch",
-      "summary": "Centenas de lojas perderam milhões de dólares porque contrataram terceiros para gerenciar o firmware OT desatualizado que executava seus sistemas de refrigeração.",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware",
-      "published": "2026-10-15T07:00:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdcfc831a57f67689/6acfbd4be9c311a2c0cf7674/Melted_ice_cream-cagkansayin-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Palo Alto Networks corrige PAN-OS Zero-Day explorado para execução remota de código",
-      "summary": "A empresa afirma estar ciente da exploração limitada dos firewalls dos clientes e disponibilizou IoCs. A postagem Palo Alto Networks Patches PAN-OS Zero-Day explorados para execução remota de código apareceu pela primeira vez em SecurityWeek.",
-      "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/",
-      "published": "2026-10-15T06:59:54+00:00",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNmZzMmIwd094Q2N6S1RjR3hSU0l2MWt4a2NaTjNnakJENTNObndsYWp2bXN0X2U4b0JwUzNKQWdIUGo2ZC1oWlgtalRYb3dwMDVOc3RQclFGX0c2TEx0a0dVbm5WOC1MN2JwQ3JTTFJGR2JuaDB6bDBLX2xyQUlzSG5KQmwzVTBDTjZwNXpn0gGTAUFVX3lxTE1yWmdIS3RZVUR5UTZnem9RTGRJdUhxYWtoNS15UXJNOGgxSjdzMm9aMU0wNlFCLWhRVGRQQndzTEV0WDhiVTRHZTBrZlQ3eHJwZ24tR0Q4WWhiNUpyTHJFQWtScjFUclF0RkpKVHJjdjdCemxqbnJCZDM4UUlkUVp6WG1zTTBId3l0UlNadERqWXBPRQ?oc=5",
+      "published": "2026-10-15T09:55:19+00:00",
       "image": ""
-    },
-    {
-      "title": "Falhas do AhsayCBS exploradas para implantar web shells obtêm novas correções após patches incompletos",
-      "summary": "A Ahsay Backup, com sede em Cingapura, lançou atualizações de segurança para solucionar duas falhas de segurança no AhsayCBS que foram exploradas por malfeitores para lançar shells da web e mineradores de criptomoedas XMRig. As vulnerabilidades em questão são ",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
-      "published": "2026-10-15T06:43:08+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH_5A4EPZ4VVdF4dve5fMe4BwreUmtWCJQrgMiBdiZyoFInoZK_nO6ouOwLMCyyQPrXWE4_n3NE39b4C2UQi-G4uE3ufyv7A9IEYEp9O3ggTu7AyDRzOqwVqhLjISLvOTasPiAcdFafFtL7B5uoKtm8GPeFFxrKDupGCoqZJ2o88sUmaGbjKk6E3sJgIKD/s1600/backup.jpg"
-    },
-    {
-      "title": "Cisco alerta sobre vulnerabilidade explorada no gateway de e-mail seguro",
-      "summary": "Atacantes remotos não autenticados podem gravar arquivos arbitrários no sistema operacional e executar comandos com privilégios de root. A postagem Cisco alerta sobre vulnerabilidade explorada no gateway de e-mail seguro apareceu pela primeira vez em SecurityW",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/cisco-warns-of-exploited-secure-email-gateway-vulnerability/",
-      "published": "2026-10-15T06:34:15+00:00",
-      "image": ""
-    },
-    {
-      "title": "Palo Alto Networks corrige falha RCE autenticada por PAN-OS em meio à exploração ativa",
-      "summary": "A Palo Alto Networks divulgou na quarta-feira atualizações de segurança para uma falha de alta gravidade no software PAN-OS que está sob exploração ativa. A vulnerabilidade, rastreada como CVE-2026-0322 (pontuação CVSS: 8,6), é um caso de execução remota de có",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-      "published": "2026-10-15T06:17:58+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4G5JAIF-hCnKf9QyWLzWIWxTrUIjqshujDHf0-_9m84O9f4S0Z-IQ4Jg-T11Ph_rwZvzsFU8Z-pI3uRsnvPSE-FK_VtrUx0pNZgHKf3PuMJCQmwopiE5hyMRSObeV7_VSrF7WC_iiG9T8wMNivOOBC12F7bLK8WI-MNjCffolAJnnhk-X-v1ecxwYtrQz/s1600/palo.jpg"
-    },
-    {
-      "title": "Palo Alto Networks corrige falha RCE autenticada pelo PAN-OS em meio à exploração ativa - The Hacker News",
-      "summary": "Palo Alto Networks corrige falha RCE autenticada pelo PAN-OS em meio à exploração ativa The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DdVhoZnJmMkdXWW85eUxOQllTZ0NxM2ZqZ1VYeVhLd0F6aF9ZNHBVckluZHVrRUVKWXRibFpQMUR5XzEwUTEtSTkya0JYdVJXQ01jQy1rTWZZV1ozeDkxN1VHUVNGNGVUVVQ0VDhvMGswOGlwSGxJMWp2Rjc?oc=5",
-      "published": "2026-10-15T06:17:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Palo Alto Networks alerta sobre falha PAN-OS RCE explorada em ataques",
-      "summary": "A Palo Alto Networks lançou atualizações de segurança para um PAN-OS RCE zero-day de alta gravidade, rastreado como CVE-2026-0322, que foi explorado em ataques direcionados a firewalls. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
-      "published": "2026-10-14T22:56:47+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ataques de dia zero do Ivanti ICS destacam obstáculos de correção de fornecedores",
-      "summary": "CVE-2026-104935, um desvio de autenticação de alta gravidade + vulnerabilidade RCE, foi apenas parcialmente descoberto e corrigido em julho, deixando uma abertura para os atores da ameaça capitalizarem.",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching",
-      "published": "2026-10-14T21:20:13+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5c7ce56f98018528/6acfd608b8750c62d9a7bd46/patching-Florencio_Horcajo_Alvarez-Getty-2270656800.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Yam Store: a rede de phishing por trás de um bilhão de mensagens",
-      "summary": "Um amplo mercado de crimes cibernéticos forneceu infraestrutura em nuvem e kits de phishing que ajudaram a alimentar mais de 1 bilhão de mensagens de phishing em todo o mundo.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages",
-      "published": "2026-10-14T20:57:16+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9dea48f154a2fb24/6acfd2ceaf9e572367afea5c/fishing_hooks-MicroStockHub-GettyImages-2193660035.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "A falha antrópica ‘SneakPeek’ é uma ameaça silenciosa de clique zero – Dark Reading",
-      "summary": "A falha antrópica 'SneakPeek' é uma ameaça silenciosa de zero clique, leitura sombria",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRXhPRDM2OUFyczVGN2ZLeG9yQXNNVzRNdkpFZkd5ZWxaTFFRSURqbUFHclpVUmJLcTJoSUstcDdvTHkxTzNfUWtlelF3Sjc1Smg0YkFQX0prSFlBWTEybFZsUzU3LUJ6LUFRc3FBVWVFdXNYTVg3bzBpMVZ0Q2NFeHN6d0RtVFNoQWRodERZeXRHQWZVWlpZUXRwNWY?oc=5",
-      "published": "2026-10-14T20:35:55+00:00",
-      "image": ""
-    },
-    {
-      "title": "A falha antrópica ‘SneakPeek’ é uma ameaça silenciosa de clique zero",
-      "summary": "Um bug no painel de visualização do Claude Code Desktop pode permitir que adversários roubem silenciosamente credenciais de desenvolvedores, incluindo chaves privadas SSH, credenciais AWS e tokens Claude 0Auth.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat",
-      "published": "2026-10-14T20:09:42+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltebc5737d9330c848/6acfd08de9c3113a94cf7694/cat_peek_Seregaff_Getty.jpg?width=720&quality=80&disable=upscale"
     }
   ]
 }
