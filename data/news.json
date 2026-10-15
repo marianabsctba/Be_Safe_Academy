@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-14T21:49:16.882371+00:00",
+  "updated_at": "2026-10-15T04:52:13.160173+00:00",
   "items": [
+    {
+      "title": "Palo Alto Networks alerta sobre falha PAN-OS RCE explorada em ataques",
+      "summary": "A Palo Alto Networks lançou atualizações de segurança para um PAN-OS RCE zero-day de alta gravidade, rastreado como CVE-2026-0322, que foi explorado em ataques direcionados a firewalls. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
+      "published": "2026-10-14T22:56:47+00:00",
+      "image": ""
+    },
     {
       "title": "Ataques de dia zero do Ivanti ICS destacam obstáculos de correção de fornecedores",
       "summary": "CVE-2026-104935, um desvio de autenticação de alta gravidade + vulnerabilidade RCE, foi apenas parcialmente descoberto e corrigido em julho, deixando uma abertura para os atores da ameaça capitalizarem.",
@@ -92,6 +101,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtmZA0sGFnGRVBoPOHXGNOr-Q1MpdbCUNVrfxBTV6z_URgCka1DOH4xcc_WuismhU3W1BEiostTKZetIhtrFyXrInKdz_jqK6Dtia5TDOqRiu4rkktKmF2Iz1br28coCyU3c5td-yrINUgjYIdwG-7q_n1fEZT_mumUoVBp2HfNPKHnqC3jTryRDL7hxAL/s1600/phish-shop.jpg"
     },
     {
+      "title": "Microsoft interrompe três kits de phishing vinculados a mais de 1 bilhão de mensagens fraudulentas - The Hacker News",
+      "summary": "Microsoft interrompe três kits de phishing vinculados a mais de 1 bilhão de mensagens fraudulentas The Hacker News",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vbmcweWhVSHFHeEpod1ZVRmoxQ3dJcWtXOHZucU9HVU9KMFM2LXY3WUtqYkMzWWF5akZCMWg2OFdzWk9mNnU3X0tXWlc0eWRTU3B2bjhDOVhqenFUaVk1dmJwSmU3SnNUbmFlLUdtVkVLdk1zdjBBdFR4ejBkdw?oc=5",
+      "published": "2026-10-14T17:09:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Agentes de IA navegam em sistemas TO desconhecidos e movem equipamentos em minutos, descobriu Booz Allen",
       "summary": "No laboratório de TO isolado da Booz Allen, os modelos de IA atenderam a todos os objetivos em oito cenários e alcançaram uma rede de controle industrial a partir de um comprometimento do perímetro em pouco mais de 16 minutos. A postagem Agentes de IA navegam ",
       "category": "CLOUD & IA",
@@ -143,24 +161,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
       "published": "2026-10-14T14:00:10+00:00",
-      "image": ""
-    },
-    {
-      "title": "Evento Virtual Hoje: Cúpula de Estratégias de Confiança Zero",
-      "summary": "Esta cúpula está focada na próxima geração de Zero Trust e segurança de identidade, indo além da teoria para fornecer estratégias viáveis. O posto Evento Virtual Hoje: Cúpula de Estratégias de Confiança Zero apareceu pela primeira vez na SecurityWeek.",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/",
-      "published": "2026-10-14T13:56:36+00:00",
-      "image": ""
-    },
-    {
-      "title": "Remoção global atinge rede por trás de 1 bilhão de mensagens de phishing",
-      "summary": "Um enorme ecossistema cibercriminoso que facilita mais de mil milhões de mensagens maliciosas dirigidas a mais de 75.000 organizações em 150 países foi perturbado por agências de aplicação da lei e parceiros em todo o mundo. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
-      "published": "2026-10-14T13:12:52+00:00",
       "image": ""
     }
   ]
