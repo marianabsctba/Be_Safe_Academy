@@ -1,6 +1,123 @@
 {
-  "updated_at": "2026-10-16T04:42:26.382455+00:00",
+  "updated_at": "2026-10-16T11:36:51.892648+00:00",
   "items": [
+    {
+      "title": "APT chinês explorou vulnerabilidade BeyondTrust como dia zero",
+      "summary": "O Armory Castle explorou CVE-2026-102764 para acesso inicial, implantou ferramentas personalizadas e excluiu logs e artefatos. O post APT chinês explorou a vulnerabilidade BeyondTrust como Zero-Day apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/",
+      "published": "2026-10-16T10:53:22+00:00",
+      "image": ""
+    },
+    {
+      "title": "Modelos OpenAI invadiram portais de dados e invadiram uma carteira criptografada para concluir tarefas",
+      "summary": "Sem fundos para uma tarefa de codificação, um modelo OpenAI testou a criptografia da carteira de um estranho e a deixou de fora de seu relatório. A postagem Modelos OpenAI hackearam portais de dados, invadiram uma carteira criptografada para concluir tarefas a",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/",
+      "published": "2026-10-16T10:32:11+00:00",
+      "image": ""
+    },
+    {
+      "title": "F5, Vulnerabilidades Críticas de Patch da Juniper Networks",
+      "summary": "A exploração bem-sucedida de alguns desses problemas pode levar à execução remota de código e ao controle total do dispositivo. A postagem F5, Vulnerabilidades críticas de patch da Juniper Networks apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/",
+      "published": "2026-10-16T09:54:34+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft: atualização do Windows de outubro pode quebrar o Smart App Control",
+      "summary": "A Microsoft diz que alguns usuários podem ter problemas para ativar o Smart App Control após instalar a atualização de segurança KB5127648 do Windows 11 deste mês. [...]",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
+      "published": "2026-10-16T08:44:22+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft corrige duas dúzias de falhas de RCE no Office",
+      "summary": "Além das falhas do RCE, a Microsoft corrigiu vários bugs de divulgação de informações e um problema de desvio de segurança no Office. A postagem Microsoft corrige duas dúzias de falhas de RCE no Office apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/microsoft-patches-two-dozen-rce-flaws-in-office/",
+      "published": "2026-10-16T07:55:06+00:00",
+      "image": ""
+    },
+    {
+      "title": "Ataque cibernético da BAE Systems interrompe operações de tribunais federais dos EUA",
+      "summary": "O Escritório Administrativo dos Tribunais dos EUA afirma que um ataque cibernético à empresa governamental BAE Systems derrubou o sistema de notificação usado pelos tribunais federais de falências. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
+      "published": "2026-10-16T07:37:35+00:00",
+      "image": ""
+    },
+    {
+      "title": "Proofpoint fecha acordo em dinheiro de US$ 6,3 bilhões para adquirir a Varonis",
+      "summary": "A Proofpoint, de propriedade da Thoma Bravo, adquirirá a Varonis em uma transação totalmente em dinheiro e a Varonis se tornará uma empresa privada. A postagem Proofpoint fecha acordo totalmente em dinheiro de US$ 6,3 bilhões para adquirir a Varonis apareceu p",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/",
+      "published": "2026-10-16T07:12:51+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers ligados à China exploraram o BeyondTrust Zero-Day para assumir o controle de servidores de suporte remoto - The Hacker News",
+      "summary": "Hackers ligados à China exploraram o BeyondTrust Zero-Day para assumir o controle de servidores de suporte remoto The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52TGNNelNLMmlNcDA3MmJUWUVqVWtXRkctQ21KdUtTem1JQUkzQzYyXzkzVl9ENk5BTE53SWFySFNNc2xFdXVuaFgySTJQMVozY0Y4emNPQUd4dHhidEE0aTg0aGFIUW5ob0phRl9fZDQ1bXRTNzB3MQ?oc=5",
+      "published": "2026-10-16T06:59:14+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers ligados à China exploraram o BeyondTrust Zero-Day para assumir o controle de servidores de suporte remoto",
+      "summary": "O grupo de espionagem cibernética China-nexus rastreado como Armory Castle (anteriormente UNC5221 ou Warp Panda) explorou uma falha de segurança recentemente divulgada no BeyondTrust Remote Support (anteriormente Bomgar) como um dia zero no final de agosto de ",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
+      "published": "2026-10-16T06:55:55+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5zD5GBvYxe93igsDOMdwS6eyfDORIWio42Z9UY0enK0XKWYcQlLB9RLx3iO_V1xm8vqBxMVZ_R8Lt-xxOumO5_RIFN3hgB-yZyGGlVMypRx5lm2GJq-1c9cbzfRcjrMAIfBI67L4QUI-MwjjQjKL1RcgPnzFdYuAF3k1y2Ev-ppSmiG8sdQ5dbJkbjKR/s1600/beyond.jpg"
+    },
+    {
+      "title": "BeyondTrust corrige o dia zero explorado em ataques desde agosto",
+      "summary": "A BeyondTrust alertou os clientes na quinta-feira para corrigir uma falha crítica em seu Suporte Remoto (RS) que tem sido explorada em ataques de dia zero desde o final de agosto. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
+      "published": "2026-10-16T06:18:08+00:00",
+      "image": ""
+    },
+    {
+      "title": "Malware PEERSTITCH implantado via falha do FortiOS ignora verificações em sessões VPN marcadas",
+      "summary": "Um suspeito de ameaça avançada foi observado explorando uma falha de segurança no Fortinet FortiOS para entregar um malware ARM64 residente na memória anteriormente não relatado, conhecido como PEERSTITCH. O ataque envolve a exploração do CVE-2025-61624 (pontu",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
+      "published": "2026-10-16T04:59:36+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMvdc6m999SfUEEWC89wHnBiUX9WAMCSdWtbFP_lrH4DuREHfOJL7G29LkM4uAvittg3XsHxnq6dq_VEX1zB_jCGi5RJDbQZlrq37gHSCXpRrn11FEN-hezQn0Dt4Xcw4DcanklKW_8iLEnQN6JpzkQ7JHBOS1_dMzDAs2h_jJcWDqOGjbkMoeabOCkSFK/s1600/f.jpg"
+    },
+    {
+      "title": "Malware PEERSTITCH implantado via FortiOS Flaw ignora verificações em sessões VPN marcadas - The Hacker News",
+      "summary": "Malware PEERSTITCH implantado via FortiOS Flaw ignora verificações em sessões VPN marcadas The Hacker News",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WVTduYWpZbkFsQjIyd1JnM0JsNTM3aXFXMVhuc0hvNF9zZkVVZnJ2a1RaNDk1ZFhaVlFkVGxWOWFDUmRqNDF1ZnpIVFo5dmE2dDBYUW5TQUViTURxbkFEU1dKeW5Na29paGxoUEVqbXVoNTlBMVhRR1lQaW4?oc=5",
+      "published": "2026-10-16T04:59:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "AI Slop não serve apenas para mídias sociais; Também está arruinando os ataques cibernéticos – Dark Reading",
+      "summary": "AI Slop não serve apenas para mídias sociais; Está arruinando ataques cibernéticos, leitura muito sombria",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTzIwcHlYcVhTSEJ1d1ppZTF5R09JVDZLNjZ0ZUI5Qkk3LWwxS2Z4VVpmcjlUSk4yZDI2Q2x0Z095NzB0YmdtWDdiMlg1djlUUUFLRk5DLUplSWhZU1VFVEhlWU1od3hFVk93NjJ2X1FUT25reXV1QzE3MndMeko3TGh3?oc=5",
+      "published": "2026-10-16T00:10:05+00:00",
+      "image": ""
+    },
     {
       "title": "SecTor 2026 revela um cenário de segurança cibernética em rápida mudança",
       "summary": "O evento foi encerrado em Toronto na semana passada, com especialistas compartilhando perspectivas críticas sobre riscos emergentes, atraindo um público recorde e registrando um crescimento de 22%.",
@@ -29,7 +146,7 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt11c8852e00d576cc/6ad12b33703094ce8966a380/Robot-Chris_Wright-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Hackers exploram falha do Collabora RCE para backdoor de servidores Nextcloud",
+      "title": "Hackers exploram falha Collabora RCE para backdoor de servidores Nextcloud",
       "summary": "Os atores da ameaça estão explorando uma falha crítica de execução de comando, agora rastreada como CVE-2026-110447, no aplicativo Collabora Online - Built-in CODE Server (richdocumentscode) para Nextcloud. [...]",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
@@ -45,123 +162,6 @@
       "url": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
       "published": "2026-10-15T20:24:36+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Y0ZP5acV4vjjJV9at7yMnz0frJTAeLd3nGmqMIcifTwGoe2NsB7pDInUjGa6aocyqoM3o-NyXKpsfyy1LRdkH5UG67UVYC_lNZDYArvg-hkmtifcalWo67Mkl3A4_2qwXomi7iJURUjoiSlBdEWtJL5N63jfuMDjI7ewZHLlTZBXlkc4zqwyxKox7eE/s1600/pwnescape-main.jpg"
-    },
-    {
-      "title": "Vulnerabilidade crítica do kernel do PwnEscape Linux permite que VMs convidadas leiam a memória do host - The Hacker News",
-      "summary": "Vulnerabilidade crítica do kernel do PwnEscape Linux permite que VMs convidadas leiam a memória do host The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03NTFEOHpHVzBmeEs4OEhFU2xHS2RXUUtaaXRFUHNyZFlJREFqZkpnTFJyZXl0TjRmOXVLTURSTW1ITWN4cDBVd04zZFdOb0NoQWFYQV8wTVR4dmlNOENsRkxHUUt4NTFib0d5aTZFekZrWEdwcXBjYWJR?oc=5",
-      "published": "2026-10-15T20:24:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor e mais 23",
-      "summary": "Alguém construiu uma ferramenta para roubar dados e decidiu que deveria assustar a vítima por diversão. Sim, esse é um recurso real. E de alguma forma, isso se encaixa perfeitamente nas histórias de segurança desta semana. O resto fica interessante de maneiras",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
-      "published": "2026-10-15T18:49:33+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8jHVMYXIjddaTrqHbBuPm3mQ6G_g8qlALwitmiIRM9OplZpPxLPDFet7ySOV0OVxPj6cW1oz0K6rydDvGYQGalR1jSt10bz8kti4dWnM0d3NnUBjuymD77_cReujy6AXmFgJgQQvl2qeICur3VHf5vYyOrxz8OFM-bEunzmK9PGDzCzzTVFVEdQyswYho/s1600/threatsday-oct.jpg"
-    },
-    {
-      "title": "O pulso de vulnerabilidade do terceiro trimestre: descoberta ≠ exploração",
-      "summary": "O mundo da segurança cibernética está realmente enfrentando um “Bugmageddon”? Thor detalha as últimas tendências de CVE e KEV no último boletim informativo Threat Source.",
-      "category": "VULNERABILIDADES",
-      "source": "Cisco Talos",
-      "url": "https://blog.talosintelligence.com/the-q3-vulnerability-pulse-discovery-exploitation/",
-      "published": "2026-10-15T18:00:00+00:00",
-      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/threat_source-1.jpg"
-    },
-    {
-      "title": "O contexto é rei na luta contra os ataques cibernéticos modernos",
-      "summary": "A defesa contextual ajuda as equipes de segurança a conectar os sinais, antecipar o que vem a seguir e impedir as ameaças antes que elas aumentem. A postagem O contexto é rei na luta contra os ataques cibernéticos modernos apareceu pela primeira vez na Securit",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/",
-      "published": "2026-10-15T17:42:50+00:00",
-      "image": ""
-    },
-    {
-      "title": "Pacotes falsos do Arch Linux enviam malware com privilégios de root",
-      "summary": "Um agente de ameaça carregou pacotes maliciosos no Arch User Repository (AUR) que personificavam duas ferramentas auxiliares populares, yay e paru. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
-      "published": "2026-10-15T17:12:31+00:00",
-      "image": ""
-    },
-    {
-      "title": "Assista agora: Zero Trust Strategies Summit – Todas as sessões disponíveis sob demanda",
-      "summary": "Esta cúpula está focada na próxima geração de Zero Trust e segurança de identidade, indo além da teoria para fornecer estratégias viáveis. O post Assista agora: Zero Trust Strategies Summit – Todas as sessões disponíveis sob demanda apareceu pela primeira vez ",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/",
-      "published": "2026-10-15T16:51:34+00:00",
-      "image": ""
-    },
-    {
-      "title": "Citizen Lab rastreia infecções por spyware Candiru com clique zero na Al Jazeera até anúncios on-line direcionados",
-      "summary": "Candiru, fabricante israelense de spyware vendido a governos, infectou dispositivos da rede de notícias Al Jazeera por meio de anúncios on-line comuns, em ataques que não exigiram clique ou outra ação do usuário, disseram pesquisadores do Citizen Lab na quinta",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
-      "published": "2026-10-15T16:01:57+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE0PuxlZklu67SsXNfh_vZefiytkMx159npHL_6Ln3dNT0yxzyYE55zZU5SMOFGk39ZqhfWzXpYQfXdoZB0gGYdkoPu3cNactAPL9ZuCWdb_v4Hp4ZkoBLtEnzBovntpudGiQZvIwTucBgDRwNzfVR5SNybyZvTANvdqsDPjHVoUQcV3hrBNm0-YMvZK0/s1600/spyware-ads.jpg"
-    },
-    {
-      "title": "Silent Lynx explora falha do WinRAR para implantar shell reverso em ataques do governo da CEI",
-      "summary": "O ator de ameaça conhecido como Silent Lynx foi atribuído a um novo conjunto de ataques direcionados a organizações governamentais em toda a Comunidade de Estados Independentes (CEI). A atividade, observada de junho de 2025 a agosto de 2026, envolve quatro cad",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
-      "published": "2026-10-15T16:00:26+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX-Vi04Qyk2-RKyXrnolcZ8TTBRKY43kIB_B7l-1Na3Xta_ed00DJtXclvIdp65s6Sdf3ksabzWKXmYTmKwx9xAlROi6eas704naXFtyx93xru04krAQ9kViM9rjKSgKhdMR0weIs4xOd7htm_gI_7CLg-N16wjCKt59vAoC-3UpMFJf8QawlMkfpRh745/s1600/winrar-hacker.jpg"
-    },
-    {
-      "title": "Silent Lynx explora falha do WinRAR para implantar shell reverso em ataques do governo da CEI - The Hacker News",
-      "summary": "Silent Lynx explora falha do WinRAR para implantar shell reverso em ataques do governo da CEI The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBnOW50U2otLVVDUFJ0NG83b0JQSkx0dlJpUHRjM2tKc3hwMUtqZEV4ODJ1bGRHU1ZNTy1keGNwYVBtS3ZxMG5Hejg0ckdnTVU3RmlXd3ltNlJJdV9QNFVmUU96UHFnR2lHUFphek13Sm92VTJPbmhRSTVkNHFKMFk?oc=5",
-      "published": "2026-10-15T16:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "O gerenciamento de vulnerabilidades não se trata de pontuação – trata-se de como ela se aplica a você",
-      "summary": "As organizações precisam abandonar as pontuações teóricas atribuídas pelo fornecedor e passar a usar dados reais de exploração específicos para seus ambientes.",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you",
-      "published": "2026-10-15T15:17:18+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt87a9a62e14e5c16e/666343ceec03bda3d115a302/Software_patch_Zoonar_GmbH_Alamy.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Escopo de hackers da Agência de Assistência Jurídica do Reino Unido se amplia após análise forense",
-      "summary": "A maioria dos dados está relacionada a solicitações, reivindicações e pagamentos enviados entre 2007 e 2025. A agência de assistência jurídica do Reino Unido hackeia o escopo se amplia após a revisão forense apareceu pela primeira vez na SecurityWeek.",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/",
-      "published": "2026-10-15T14:22:34+00:00",
-      "image": ""
-    },
-    {
-      "title": "O pentesting de IA é tão bom quanto um pentester humano?",
-      "summary": "O pentesting de IA pode descobrir vulnerabilidades perdidas por testadores humanos, mas também tem limitações em termos de consistência, avaliação de riscos e compreensão do contexto de negócios. O Intruder compara os pontos fortes e fracos de ambas as abordag",
-      "category": "CLOUD & IA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
-      "published": "2026-10-15T14:01:11+00:00",
-      "image": ""
-    },
-    {
-      "title": "NGINX corrige 5 falhas, incluindo possível RCE e um bug TLS que pode ignorar as verificações de certificado do cliente",
-      "summary": "O NGINX lançou as versões 1.30.6 e 1.31.7 em 14 de outubro para corrigir cinco vulnerabilidades, uma delas presente em todas as versões desde maio de 2005. Existem três bugs de memória que a F5, a empresa por trás do NGINX, diz que podem travar um processo de ",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
-      "published": "2026-10-15T12:58:05+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEionuV8CAd7SP0bgEbHyb-0hp7JWNkWpPjYtkNH9p86nRQrxDN1T97D1cragnVVzAwCEFCuqrwuysgwzxJLfvTXrYhMSGj5rbBzrpjW-VPvAmrc2-9EAR_hBmPigJUOjynvkm0ArpyasyzCOAWUWFYdCqzsbCJVOsxC09LnYwH2dcV4j4Vm9S9VDelXUlc/s1600/tls.jpg"
     }
   ]
 }
