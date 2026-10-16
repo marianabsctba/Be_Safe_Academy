@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-15T21:32:34.394702+00:00",
+  "updated_at": "2026-10-16T04:42:26.382455+00:00",
   "items": [
+    {
+      "title": "SecTor 2026 revela um cenário de segurança cibernética em rápida mudança",
+      "summary": "O evento foi encerrado em Toronto na semana passada, com especialistas compartilhando perspectivas críticas sobre riscos emergentes, atraindo um público recorde e registrando um crescimento de 22%.",
+      "category": "DEFESA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape",
+      "published": "2026-10-15T22:10:08+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "F-Secure lança enciclopédia de golpes que priorizam a vítima, cobrindo mais de 50 tipos de fraude ao consumidor",
+      "summary": "Construído a partir de décadas de pesquisa de inteligência sobre ameaças, o novo recurso explica golpes da perspectiva das vítimas e rastreia formas emergentes de crime cibernético.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud",
+      "published": "2026-10-15T21:55:07+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
+    },
     {
       "title": "AI Slop não serve apenas para mídias sociais; Também está arruinando os ataques cibernéticos",
       "summary": "Não compre o hype! A IA tem emburrecido os ataques cibernéticos e os agentes de ameaças graves mal conseguem tocá-la.",
@@ -11,7 +29,7 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt11c8852e00d576cc/6ad12b33703094ce8966a380/Robot-Chris_Wright-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Hackers exploram falha Collabora RCE para backdoor de servidores Nextcloud",
+      "title": "Hackers exploram falha do Collabora RCE para backdoor de servidores Nextcloud",
       "summary": "Os atores da ameaça estão explorando uma falha crítica de execução de comando, agora rastreada como CVE-2026-110447, no aplicativo Collabora Online - Built-in CODE Server (richdocumentscode) para Nextcloud. [...]",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
@@ -27,6 +45,15 @@
       "url": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
       "published": "2026-10-15T20:24:36+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Y0ZP5acV4vjjJV9at7yMnz0frJTAeLd3nGmqMIcifTwGoe2NsB7pDInUjGa6aocyqoM3o-NyXKpsfyy1LRdkH5UG67UVYC_lNZDYArvg-hkmtifcalWo67Mkl3A4_2qwXomi7iJURUjoiSlBdEWtJL5N63jfuMDjI7ewZHLlTZBXlkc4zqwyxKox7eE/s1600/pwnescape-main.jpg"
+    },
+    {
+      "title": "Vulnerabilidade crítica do kernel do PwnEscape Linux permite que VMs convidadas leiam a memória do host - The Hacker News",
+      "summary": "Vulnerabilidade crítica do kernel do PwnEscape Linux permite que VMs convidadas leiam a memória do host The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03NTFEOHpHVzBmeEs4OEhFU2xHS2RXUUtaaXRFUHNyZFlJREFqZkpnTFJyZXl0TjRmOXVLTURSTW1ITWN4cDBVd04zZFdOb0NoQWFYQV8wTVR4dmlNOENsRkxHUUt4NTFib0d5aTZFekZrWEdwcXBjYWJR?oc=5",
+      "published": "2026-10-15T20:24:00+00:00",
+      "image": ""
     },
     {
       "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor e mais 23",
@@ -75,7 +102,7 @@
     },
     {
       "title": "Citizen Lab rastreia infecções por spyware Candiru com clique zero na Al Jazeera até anúncios on-line direcionados",
-      "summary": "A Candiru, fabricante israelense de spyware vendido a governos, infectou dispositivos da rede de notícias Al Jazeera por meio de anúncios on-line comuns, em ataques que não exigiram nenhum clique ou outra ação do usuário, disseram pesquisadores do Citizen Lab ",
+      "summary": "Candiru, fabricante israelense de spyware vendido a governos, infectou dispositivos da rede de notícias Al Jazeera por meio de anúncios on-line comuns, em ataques que não exigiram clique ou outra ação do usuário, disseram pesquisadores do Citizen Lab na quinta",
       "category": "INCIDENTES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
@@ -110,7 +137,7 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt87a9a62e14e5c16e/666343ceec03bda3d115a302/Software_patch_Zoonar_GmbH_Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Escopo de hackers da agência de assistência jurídica do Reino Unido amplia após revisão forense",
+      "title": "Escopo de hackers da Agência de Assistência Jurídica do Reino Unido se amplia após análise forense",
       "summary": "A maioria dos dados está relacionada a solicitações, reivindicações e pagamentos enviados entre 2007 e 2025. A agência de assistência jurídica do Reino Unido hackeia o escopo se amplia após a revisão forense apareceu pela primeira vez na SecurityWeek.",
       "category": "DEFESA",
       "source": "SecurityWeek",
@@ -135,33 +162,6 @@
       "url": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
       "published": "2026-10-15T12:58:05+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEionuV8CAd7SP0bgEbHyb-0hp7JWNkWpPjYtkNH9p86nRQrxDN1T97D1cragnVVzAwCEFCuqrwuysgwzxJLfvTXrYhMSGj5rbBzrpjW-VPvAmrc2-9EAR_hBmPigJUOjynvkm0ArpyasyzCOAWUWFYdCqzsbCJVOsxC09LnYwH2dcV4j4Vm9S9VDelXUlc/s1600/tls.jpg"
-    },
-    {
-      "title": "Ataque de refrigeração em supermercados se estende a Copeland e Dixell Controllers",
-      "summary": "Cerca de 700 supermercados franceses foram atingidos pelos ataques cibernéticos, pelos quais nenhum grupo assumiu a responsabilidade. O posto Ataque de refrigeração em supermercado se amplia para Copeland, controladores Dixell apareceu pela primeira vez na Sec",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/",
-      "published": "2026-10-15T12:50:42+00:00",
-      "image": ""
-    },
-    {
-      "title": "Next.js envia patch fora de banda para duas falhas críticas de RCE em cache e processamento de SVG",
-      "summary": "Next.js lançou uma atualização de segurança fora de banda em 14 de outubro que corrige duas falhas críticas que permitem a execução remota de código não autenticado, junto com uma falha de negação de serviço de alta gravidade. Uma falha de execução de código e",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
-      "published": "2026-10-15T12:28:13+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9mXutJ2QPpC1NUCUZWdHjUDUGPSD3DaDY4b-T1EXbg07sNWADsV43EvUacKzn4Ohp2bRbD93t8kXBpv513XdMZEnMh8eNkY1bBaSuGICWbituq_jgWNCjQa_Cq6Ur0jInsfEwsHfdInKq4Tcp2kmfuYoCIMrgWcWwtzFlRPePDpW9gwemIkQpJXEVaHU/s1600/nextjs-rce.jpg"
-    },
-    {
-      "title": "Next.js envia patch fora de banda para duas falhas críticas de RCE em cache e processamento de SVG - The Hacker News",
-      "summary": "Next.js envia patch fora de banda para duas falhas críticas de RCE em cache e processamento de SVG The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONTJmZ29hWk1ldlhEcU1HNlkxQ2ZyRUNtMjduWW41cVVtQkFWQ2lWMkRVUk1fbzI5OExFeVhRWTVsQmlyTGNTR3NNdkQ2bWpxeU81VmRJQTJJMmUwdEFRUkI1dUEtNVZuWGJoc3NzTXFWdF82WVVwbjYxcUxXZ0Y0THZWdw?oc=5",
-      "published": "2026-10-15T12:28:00+00:00",
-      "image": ""
     }
   ]
 }
