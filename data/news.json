@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-10-16T16:47:31.449423+00:00",
+  "updated_at": "2026-10-16T21:22:00.229893+00:00",
   "items": [
+    {
+      "title": "BeyondTrust Remote Support Zero-Day continua tendência de bugs de borda explorados",
+      "summary": "Ivanti, Cisco e Palo Alto Networks tiveram vulnerabilidades em dispositivos de ponta que foram atacadas esta semana. Agora BeyondTrust se junta ao grupo.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
+      "published": "2026-10-16T20:34:37+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4a126b2e0eae913e/6ad27ebc7cb22e18dd04a52b/Locusts-ZU_09-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Falha crítica do BlockStrap permite que hackers executem código em servidores Magento",
+      "summary": "Os pesquisadores alertam que os hackers poderão em breve explorar uma vulnerabilidade de gravidade máxima (CVE-2026-103849) que afeta Magento e Adobe Commerce, potencialmente permitindo-lhes executar código PHP arbitrário em servidores de lojas. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
+      "published": "2026-10-16T20:00:59+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falso Claude, ataques ChatGPT aumentam, colocando desenvolvedores em risco",
+      "summary": "As campanhas que personificam marcas populares de IA estão aumentando e normalmente usam táticas semelhantes às do ClickFix para atingir funcionários corporativos desavisados.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk",
+      "published": "2026-10-16T19:49:30+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1652c5132de5d8e6/6ad27799ee37e003e0d27496/airesults-Ekaterina_Goncharova-Getty-2173055307.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "A IA empresarial entra na fase de gerenciamento de riscos à medida que aumentam as preocupações com segurança",
+      "summary": "As empresas estão descobrindo cada vez mais que o desafio da IA ​​não é mais a adoção, mas a execução.",
+      "category": "CLOUD & IA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise",
+      "published": "2026-10-16T19:13:59+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "IA assume o controle do braço robótico em 16 minutos",
+      "summary": "A maioria dos dispositivos de TO em concessionárias, fábricas e outros lugares foram implantados há uma década ou mais, mas as operadoras precisam ser ágeis e implantar novas defesas cibernéticas.",
+      "category": "DEFESA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
+      "published": "2026-10-16T18:37:50+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6937d5b3760a530f/6ad14589831f9d6076cdd58b/robotic-arms-grid-overlay-greenbutterfly-shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Pesquisadores demonstram exploração de root do OpenBSD encadeando bug de memória compartilhada de 37 anos",
+      "summary": "Uma exploração de escalonamento de privilégios local publicada hoje ganha raiz no OpenBSD 7.9 encadeando um estouro de número inteiro de aproximadamente 37 anos com uma falha de kernel separada, ignorando a randomização de endereço de kernel KARL do OpenBSD e ",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+      "published": "2026-10-16T17:48:45+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqmitTMm5t8BBKfynqzFAKqJSzh_s7fQczmMm5u95RLUUzuWMubd5DeM8e8EH6YOpP-_gvbYwn8Cd3flsL-nGIupBw5HOo49Orr7J2rqhI99J7U4LcXW6shlxd3w0zFAng1mLw5xGb-F9GRmpDK82GC1-Dcb1gPcvkgl4wVi0-QTEGalDwPmelGE0TtNU/s1600/openbsd.jpg"
+    },
+    {
+      "title": "Anúncios direcionados instalaram spyware Candiru em ataques sem clique",
+      "summary": "O spyware Candiru foi entregue aos dispositivos da Al Jazeera Media Network por meio de anúncios on-line direcionados em um ataque sem clique que exigia apenas a renderização dos anúncios maliciosos no dispositivo da vítima. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
+      "published": "2026-10-16T17:20:03+00:00",
+      "image": ""
+    },
+    {
+      "title": "Atacantes adulteraram os servidores de atualização do AOMEI Backupper por minutos para entregar um backdoor",
+      "summary": "Os invasores alteraram repetidamente os arquivos que o AOMEI Backupper busca nos servidores de atualização do próprio fornecedor, em janelas de cinco a dez minutos por vez entre maio e julho de 2026, para que qualquer cópia do programa de backup do Windows que",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+      "published": "2026-10-16T16:43:39+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhuPumyjeBRpQZo5_3mvqZ2_kXuPiOK02cH-ARofYrny0mQ2-rv55w7yBxMTBe3ymCW7c77quZ4xlkdDG9FcEhBYFr7GWmbyPE_1K1xqU0mvT-h51Z8hLg-LnWl32MeOy-aumsGO9-j8VSOSOfVUDB2k1vWOpEdyGEWV9ipF4kf3HVP1Au2ClbkYtAJrc/s1600/backup-hacked.jpg"
+    },
     {
       "title": "UAT-11985 usa convites de eventos falsos para atingir afiliados de pesquisa de Taiwan com Google AitM Phishing",
       "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma campanha de spear-phishing de ameaça persistente avançada (APT) que tem como alvo indivíduos afiliados a organizações de pesquisa de Taiwan para direcionar as vítimas para uma estrutura de phish",
@@ -20,8 +92,8 @@
       "image": ""
     },
     {
-      "title": "Em outras notícias: ataque ICS-Sniper, hackeamento de operadores de malware XWorm, exploração do Chrome de US$ 250 mil",
-      "summary": "Histórias dignas de nota que podem ter passado despercebidas: o BofA adiciona 1.000 prestadores de serviços de patch, o KGB RAT combina roubo de dados com sustos e falha de Langflow sob ataque. A postagem Em outras notícias: Ataque ICS-Sniper, hackeando operad",
+      "title": "Em outras notícias: ataque ICS-Sniper, hackeamento de operadores de malware XWorm, exploração de US$ 250 mil no Chrome",
+      "summary": "Histórias dignas de nota que podem ter passado despercebidas: o BofA adiciona 1.000 prestadores de serviços de correção, o KGB RAT combina roubo de dados com sustos e falha de Langflow sob ataque. A postagem Em outras notícias: Ataque ICS-Sniper, hackeando ope",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
@@ -75,7 +147,7 @@
     },
     {
       "title": "Modelos OpenAI invadiram portais de dados e invadiram uma carteira criptografada para concluir tarefas",
-      "summary": "Sem fundos para uma tarefa de codificação, um modelo OpenAI testou a criptografia da carteira de um estranho e a deixou de fora de seu relatório. A postagem Modelos OpenAI hackearam portais de dados, invadiram uma carteira criptografada para concluir tarefas a",
+      "summary": "Sem fundos para uma tarefa de codificação, um modelo OpenAI testou a criptografia da carteira de um estranho e a deixou de fora de seu relatório. A postagem Modelos OpenAI invadiram portais de dados, invadiram uma carteira criptografada para concluir tarefas a",
       "category": "DEFESA",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/",
@@ -90,78 +162,6 @@
       "url": "https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/",
       "published": "2026-10-16T09:54:34+00:00",
       "image": ""
-    },
-    {
-      "title": "Microsoft: atualização do Windows de outubro pode quebrar o Smart App Control",
-      "summary": "A Microsoft diz que alguns usuários podem ter problemas para ativar o Smart App Control após instalar a atualização de segurança KB5127648 do Windows 11 deste mês. [...]",
-      "category": "DEFESA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
-      "published": "2026-10-16T08:44:22+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft corrige duas dúzias de falhas de RCE no Office",
-      "summary": "Além das falhas do RCE, a Microsoft corrigiu vários bugs de divulgação de informações e um problema de desvio de segurança no Office. A postagem Microsoft corrige duas dúzias de falhas de RCE no Office apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/microsoft-patches-two-dozen-rce-flaws-in-office/",
-      "published": "2026-10-16T07:55:06+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ataque cibernético da BAE Systems interrompe operações de tribunais federais dos EUA",
-      "summary": "O Escritório Administrativo dos Tribunais dos EUA afirma que um ataque cibernético à empresa governamental BAE Systems derrubou o sistema de notificação usado pelos tribunais federais de falências. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
-      "published": "2026-10-16T07:37:35+00:00",
-      "image": ""
-    },
-    {
-      "title": "Proofpoint fecha acordo em dinheiro de US$ 6,3 bilhões para adquirir a Varonis",
-      "summary": "A Proofpoint, de propriedade da Thoma Bravo, adquirirá a Varonis em uma transação totalmente em dinheiro e a Varonis se tornará uma empresa privada. A postagem Proofpoint fecha acordo totalmente em dinheiro de US$ 6,3 bilhões para adquirir a Varonis apareceu p",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/",
-      "published": "2026-10-16T07:12:51+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers ligados à China exploraram o BeyondTrust Zero-Day para assumir o controle de servidores de suporte remoto - The Hacker News",
-      "summary": "Hackers ligados à China exploraram o BeyondTrust Zero-Day para assumir o controle de servidores de suporte remoto The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52TGNNelNLMmlNcDA3MmJUWUVqVWtXRkctQ21KdUtTem1JQUkzQzYyXzkzVl9ENk5BTE53SWFySFNNc2xFdXVuaFgySTJQMVozY0Y4emNPQUd4dHhidEE0aTg0aGFIUW5ob0phRl9fZDQ1bXRTNzB3MQ?oc=5",
-      "published": "2026-10-16T06:59:14+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers ligados à China exploraram o BeyondTrust Zero-Day para assumir o controle de servidores de suporte remoto",
-      "summary": "O grupo de espionagem cibernética China-nexus rastreado como Armory Castle (anteriormente UNC5221 ou Warp Panda) explorou uma falha de segurança recentemente divulgada no BeyondTrust Remote Support (anteriormente Bomgar) como um dia zero no final de agosto de ",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
-      "published": "2026-10-16T06:55:55+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5zD5GBvYxe93igsDOMdwS6eyfDORIWio42Z9UY0enK0XKWYcQlLB9RLx3iO_V1xm8vqBxMVZ_R8Lt-xxOumO5_RIFN3hgB-yZyGGlVMypRx5lm2GJq-1c9cbzfRcjrMAIfBI67L4QUI-MwjjQjKL1RcgPnzFdYuAF3k1y2Ev-ppSmiG8sdQ5dbJkbjKR/s1600/beyond.jpg"
-    },
-    {
-      "title": "BeyondTrust corrige o dia zero explorado em ataques desde agosto",
-      "summary": "A BeyondTrust alertou os clientes na quinta-feira para corrigir uma falha crítica em seu Suporte Remoto (RS) que tem sido explorada em ataques de dia zero desde o final de agosto. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
-      "published": "2026-10-16T06:18:08+00:00",
-      "image": ""
-    },
-    {
-      "title": "Malware PEERSTITCH implantado via falha do FortiOS ignora verificações em sessões VPN marcadas",
-      "summary": "Um suspeito de ameaça avançada foi observado explorando uma falha de segurança no Fortinet FortiOS para entregar um malware ARM64 residente na memória anteriormente não relatado, conhecido como PEERSTITCH. O ataque envolve a exploração do CVE-2025-61624 (pontu",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
-      "published": "2026-10-16T04:59:36+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMvdc6m999SfUEEWC89wHnBiUX9WAMCSdWtbFP_lrH4DuREHfOJL7G29LkM4uAvittg3XsHxnq6dq_VEX1zB_jCGi5RJDbQZlrq37gHSCXpRrn11FEN-hezQn0Dt4Xcw4DcanklKW_8iLEnQN6JpzkQ7JHBOS1_dMzDAs2h_jJcWDqOGjbkMoeabOCkSFK/s1600/f.jpg"
     }
   ]
 }
