@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-10-16T11:36:51.892648+00:00",
+  "updated_at": "2026-10-16T16:47:31.449423+00:00",
   "items": [
+    {
+      "title": "UAT-11985 usa convites de eventos falsos para atingir afiliados de pesquisa de Taiwan com Google AitM Phishing",
+      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma campanha de spear-phishing de ameaça persistente avançada (APT) que tem como alvo indivíduos afiliados a organizações de pesquisa de Taiwan para direcionar as vítimas para uma estrutura de phish",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+      "published": "2026-10-16T16:16:44+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPclyw7bJ19im5Qmzj9jgFlsM4XJqPK6hyphenhyphenRDCcQ0bnpWrteeTWgPNlip5T0P_oj_AC6V3osZ2xIpYipKjXWQw3BfFEQ1n28dleNCLRi7difLnPLY8Yc-oJ6BCVZ1V0VBpF_ZNu36qM_yCvyvbgBsSfh2AXq-IBIk7QjnBSR_T7s8ajMCOkIEhA5YGeYWg4/s1600/google-phish.jpg"
+    },
+    {
+      "title": "Gerenciando o risco do modelo de peso aberto em implantações empresariais",
+      "summary": "O novo whitepaper da Microsoft e da NVIDIA ajuda as empresas a gerenciar riscos de modelos de IA de peso aberto com taxonomia, avaliações e controles compartilhados. A postagem Gerenciando o risco do modelo de peso aberto em implantações corporativas apareceu ",
+      "category": "CLOUD & IA",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/",
+      "published": "2026-10-16T16:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Em outras notícias: ataque ICS-Sniper, hackeamento de operadores de malware XWorm, exploração do Chrome de US$ 250 mil",
+      "summary": "Histórias dignas de nota que podem ter passado despercebidas: o BofA adiciona 1.000 prestadores de serviços de patch, o KGB RAT combina roubo de dados com sustos e falha de Langflow sob ataque. A postagem Em outras notícias: Ataque ICS-Sniper, hackeando operad",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
+      "published": "2026-10-16T14:09:51+00:00",
+      "image": ""
+    },
+    {
+      "title": "Quando o seu negociador de ransomware trabalha para o outro lado",
+      "summary": "A prisão chocante de um conhecido negociador de ransomware revela a necessidade crítica de supervisão do programa do fornecedor.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
+      "published": "2026-10-16T14:00:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c22b787d3880a22/6a469e8782b5bc23f1d3a21e/ransomware-Just_Super-Getty-1399980046.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Quando agentes de IA cometem violações, os humanos não podem ser responsabilizados",
+      "summary": "À medida que os agentes escapam da contenção e acessam sistemas externos, a responsabilidade permanece humana. A responsabilização, no entanto, é muito menos estabelecida.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
+      "published": "2026-10-16T13:00:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt57714ec5c1148817/6ad10d43b8f30368a29f5d16/robot_peeking_through_blinds-Moor_Studio-GettyImages-1746666469.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Violação de dados do Burger King Japão expõe 11 milhões de registros de clientes",
+      "summary": "A Burger King Japan, subsidiária japonesa da gigante global de fast-food Burger King, divulgou uma grande violação de dados depois que invasores acessaram um servidor contendo 11,18 milhões de registros de clientes. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
+      "published": "2026-10-16T12:01:29+00:00",
+      "image": ""
+    },
+    {
+      "title": "Avisos de paralisações de incidentes de segurança da BAE Systems dos tribunais de falências dos EUA",
+      "summary": "Um incidente cibernético que afetou a empreiteira BAE Systems desativou o Centro de Notificação de Falências, suspendendo os avisos em todo o país por uma semana. A postagem Avisos de paralisação de incidentes de segurança da BAE Systems nos tribunais de falên",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/",
+      "published": "2026-10-16T11:46:40+00:00",
+      "image": ""
+    },
     {
       "title": "APT chinês explorou vulnerabilidade BeyondTrust como dia zero",
       "summary": "O Armory Castle explorou CVE-2026-102764 para acesso inicial, implantou ferramentas personalizadas e excluiu logs e artefatos. O post APT chinês explorou a vulnerabilidade BeyondTrust como Zero-Day apareceu pela primeira vez na SecurityWeek.",
@@ -99,69 +162,6 @@
       "url": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
       "published": "2026-10-16T04:59:36+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMvdc6m999SfUEEWC89wHnBiUX9WAMCSdWtbFP_lrH4DuREHfOJL7G29LkM4uAvittg3XsHxnq6dq_VEX1zB_jCGi5RJDbQZlrq37gHSCXpRrn11FEN-hezQn0Dt4Xcw4DcanklKW_8iLEnQN6JpzkQ7JHBOS1_dMzDAs2h_jJcWDqOGjbkMoeabOCkSFK/s1600/f.jpg"
-    },
-    {
-      "title": "Malware PEERSTITCH implantado via FortiOS Flaw ignora verificações em sessões VPN marcadas - The Hacker News",
-      "summary": "Malware PEERSTITCH implantado via FortiOS Flaw ignora verificações em sessões VPN marcadas The Hacker News",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WVTduYWpZbkFsQjIyd1JnM0JsNTM3aXFXMVhuc0hvNF9zZkVVZnJ2a1RaNDk1ZFhaVlFkVGxWOWFDUmRqNDF1ZnpIVFo5dmE2dDBYUW5TQUViTURxbkFEU1dKeW5Na29paGxoUEVqbXVoNTlBMVhRR1lQaW4?oc=5",
-      "published": "2026-10-16T04:59:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "AI Slop não serve apenas para mídias sociais; Também está arruinando os ataques cibernéticos – Dark Reading",
-      "summary": "AI Slop não serve apenas para mídias sociais; Está arruinando ataques cibernéticos, leitura muito sombria",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTzIwcHlYcVhTSEJ1d1ppZTF5R09JVDZLNjZ0ZUI5Qkk3LWwxS2Z4VVpmcjlUSk4yZDI2Q2x0Z095NzB0YmdtWDdiMlg1djlUUUFLRk5DLUplSWhZU1VFVEhlWU1od3hFVk93NjJ2X1FUT25reXV1QzE3MndMeko3TGh3?oc=5",
-      "published": "2026-10-16T00:10:05+00:00",
-      "image": ""
-    },
-    {
-      "title": "SecTor 2026 revela um cenário de segurança cibernética em rápida mudança",
-      "summary": "O evento foi encerrado em Toronto na semana passada, com especialistas compartilhando perspectivas críticas sobre riscos emergentes, atraindo um público recorde e registrando um crescimento de 22%.",
-      "category": "DEFESA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape",
-      "published": "2026-10-15T22:10:08+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "F-Secure lança enciclopédia de golpes que priorizam a vítima, cobrindo mais de 50 tipos de fraude ao consumidor",
-      "summary": "Construído a partir de décadas de pesquisa de inteligência sobre ameaças, o novo recurso explica golpes da perspectiva das vítimas e rastreia formas emergentes de crime cibernético.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud",
-      "published": "2026-10-15T21:55:07+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "AI Slop não serve apenas para mídias sociais; Também está arruinando os ataques cibernéticos",
-      "summary": "Não compre o hype! A IA tem emburrecido os ataques cibernéticos e os agentes de ameaças graves mal conseguem tocá-la.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks",
-      "published": "2026-10-15T20:43:20+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt11c8852e00d576cc/6ad12b33703094ce8966a380/Robot-Chris_Wright-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Hackers exploram falha Collabora RCE para backdoor de servidores Nextcloud",
-      "summary": "Os atores da ameaça estão explorando uma falha crítica de execução de comando, agora rastreada como CVE-2026-110447, no aplicativo Collabora Online - Built-in CODE Server (richdocumentscode) para Nextcloud. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
-      "published": "2026-10-15T20:25:04+00:00",
-      "image": ""
-    },
-    {
-      "title": "Vulnerabilidade crítica do kernel do PwnEscape Linux permite que VMs convidadas leiam a memória do host",
-      "summary": "Uma falha crítica recentemente divulgada no kernel do Linux permite que o código dentro de uma máquina virtual leia a memória do computador host em que é executada. Um pesquisador demonstrou o vazamento nas sandboxes de nuvem ativas da Vercel, e Vercel confirm",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
-      "published": "2026-10-15T20:24:36+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Y0ZP5acV4vjjJV9at7yMnz0frJTAeLd3nGmqMIcifTwGoe2NsB7pDInUjGa6aocyqoM3o-NyXKpsfyy1LRdkH5UG67UVYC_lNZDYArvg-hkmtifcalWo67Mkl3A4_2qwXomi7iJURUjoiSlBdEWtJL5N63jfuMDjI7ewZHLlTZBXlkc4zqwyxKox7eE/s1600/pwnescape-main.jpg"
     }
   ]
 }
