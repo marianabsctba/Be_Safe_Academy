@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T21:22:00.229893+00:00",
+  "updated_at": "2026-10-17T04:40:04.058301+00:00",
   "items": [
     {
       "title": "BeyondTrust Remote Support Zero-Day continua tendência de bugs de borda explorados",
@@ -56,7 +56,16 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqmitTMm5t8BBKfynqzFAKqJSzh_s7fQczmMm5u95RLUUzuWMubd5DeM8e8EH6YOpP-_gvbYwn8Cd3flsL-nGIupBw5HOo49Orr7J2rqhI99J7U4LcXW6shlxd3w0zFAng1mLw5xGb-F9GRmpDK82GC1-Dcb1gPcvkgl4wVi0-QTEGalDwPmelGE0TtNU/s1600/openbsd.jpg"
     },
     {
-      "title": "Anúncios direcionados instalaram spyware Candiru em ataques sem clique",
+      "title": "Pesquisadores demonstram exploração de root do OpenBSD encadeando bug de memória compartilhada de 37 anos - The Hacker News",
+      "summary": "Pesquisadores demonstram exploração de root do OpenBSD encadeando bug de memória compartilhada de 37 anos The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb1NCaVREdll3cjZkeDBXODNDWko5QXMyOTRIN3p2N0RYeGllUXBKOTVfZW1ZU3dUaXZjXzdUUThJWXctMkRNaWFKNVFXMlBfYlFienQ3MnZlYmFqSGlsNjZJaVVYbGNSVmdBWGxDRHNTazE0a1BtRjBBTFZaNDQ4cg?oc=5",
+      "published": "2026-10-16T17:48:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Anúncios direcionados instalaram spyware Candiru em ataques de clique zero",
       "summary": "O spyware Candiru foi entregue aos dispositivos da Al Jazeera Media Network por meio de anúncios on-line direcionados em um ataque sem clique que exigia apenas a renderização dos anúncios maliciosos no dispositivo da vítima. [...]",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
@@ -72,6 +81,15 @@
       "url": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
       "published": "2026-10-16T16:43:39+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhuPumyjeBRpQZo5_3mvqZ2_kXuPiOK02cH-ARofYrny0mQ2-rv55w7yBxMTBe3ymCW7c77quZ4xlkdDG9FcEhBYFr7GWmbyPE_1K1xqU0mvT-h51Z8hLg-LnWl32MeOy-aumsGO9-j8VSOSOfVUDB2k1vWOpEdyGEWV9ipF4kf3HVP1Au2ClbkYtAJrc/s1600/backup-hacked.jpg"
+    },
+    {
+      "title": "Atacantes adulteraram os servidores de atualização do AOMEI Backupper por minutos para fornecer um backdoor – The Hacker News",
+      "summary": "Atacantes adulteraram os servidores de atualização do AOMEI Backupper por minutos para fornecer um backdoor The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sTjdyVXF4VFNEZDV5UlFaNUFrZU9IUW5ROEEwdWZ4aUw0VzhMMWo2SU5XUi1VRFluRjRVN1lBVnJTTnNkOTRtcVdBVXVwelVBeGh6WUxlVU02aE0yZXVWQXdyMkZCbHZJek12bmYzR3BoZUo3X2gw?oc=5",
+      "published": "2026-10-16T16:43:00+00:00",
+      "image": ""
     },
     {
       "title": "UAT-11985 usa convites de eventos falsos para atingir afiliados de pesquisa de Taiwan com Google AitM Phishing",
@@ -92,8 +110,8 @@
       "image": ""
     },
     {
-      "title": "Em outras notícias: ataque ICS-Sniper, hackeamento de operadores de malware XWorm, exploração de US$ 250 mil no Chrome",
-      "summary": "Histórias dignas de nota que podem ter passado despercebidas: o BofA adiciona 1.000 prestadores de serviços de correção, o KGB RAT combina roubo de dados com sustos e falha de Langflow sob ataque. A postagem Em outras notícias: Ataque ICS-Sniper, hackeando ope",
+      "title": "Em outras notícias: ataque ICS-Sniper, hackeamento de operadores de malware XWorm, exploração do Chrome de US$ 250 mil",
+      "summary": "Histórias dignas de nota que podem ter passado despercebidas: o BofA adiciona 1.000 prestadores de serviços de patch, o KGB RAT combina roubo de dados com sustos e falha de Langflow sob ataque. A postagem Em outras notícias: Ataque ICS-Sniper, hackeando operad",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
@@ -143,24 +161,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/",
       "published": "2026-10-16T10:53:22+00:00",
-      "image": ""
-    },
-    {
-      "title": "Modelos OpenAI invadiram portais de dados e invadiram uma carteira criptografada para concluir tarefas",
-      "summary": "Sem fundos para uma tarefa de codificação, um modelo OpenAI testou a criptografia da carteira de um estranho e a deixou de fora de seu relatório. A postagem Modelos OpenAI invadiram portais de dados, invadiram uma carteira criptografada para concluir tarefas a",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/",
-      "published": "2026-10-16T10:32:11+00:00",
-      "image": ""
-    },
-    {
-      "title": "F5, Vulnerabilidades Críticas de Patch da Juniper Networks",
-      "summary": "A exploração bem-sucedida de alguns desses problemas pode levar à execução remota de código e ao controle total do dispositivo. A postagem F5, Vulnerabilidades críticas de patch da Juniper Networks apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/",
-      "published": "2026-10-16T09:54:34+00:00",
       "image": ""
     }
   ]
