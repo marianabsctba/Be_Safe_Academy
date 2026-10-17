@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-10-17T10:56:14.159766+00:00",
+  "updated_at": "2026-10-17T15:44:01.286323+00:00",
   "items": [
+    {
+      "title": "Hackers violam locatários do Microsoft 365 por meio de ataque à cadeia de suprimentos ConnectWise",
+      "summary": "ConnectWise desligou o acesso do cliente ao seu serviço Cloud Backup (anteriormente SkyKick Cloud Backup) depois que hackers acessaram identidades de aplicativos e comprometeram locatários do Microsoft 365. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+      "published": "2026-10-17T15:18:51+00:00",
+      "image": ""
+    },
+    {
+      "title": "Drupal corrige falhas críticas de RCE e alerta que explorações podem surgir em breve",
+      "summary": "O Drupal corrigiu duas vulnerabilidades críticas que poderiam permitir que invasores executassem código remotamente em sites que executam qualquer versão suportada do sistema de gerenciamento de conteúdo. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+      "published": "2026-10-17T14:32:48+00:00",
+      "image": ""
+    },
+    {
+      "title": "Pacote MALFEX npm 'imgdecode' oculta o carregador Shellcode no complemento nativo do Windows",
+      "summary": "Pesquisadores de segurança cibernética descobriram um pacote npm malicioso que faz parte de uma campanha de ataque à cadeia de suprimentos de software divulgada recentemente, chamada MALFEX. O pacote, denominado “imgdecode”, foi carregado no registro de pacote",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+      "published": "2026-10-17T11:11:56+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fNb_yEvP6C_CENfQMUx3EDGofY1ejEHusnumTjCLnX3s8pevEbl_cgrtFHhzeEUhyphenhyphenyKe_X41OzQOGL5zlXeLLBnj_ZrLqH1IUag1QWm4QS9V2hgc5ucEzEZKjhstvtde8CFs8anPSZv9w3op67F8Q_MHVC_demESnH8lpAYLLpIRizCyvF5gsi5PDKzm/s1600/npm-dll.jpg"
+    },
+    {
+      "title": "Empresa de publicidade israelense dobrou como canal de distribuição de spyware com clique zero da Candiru",
+      "summary": "Os anúncios da empresa israelense Discover-Tech permitem que os agentes de ameaças obtenham impressões digitais e rastreiem dispositivos em grande escala e infectem alvos selecionados. A postagem Empresa de publicidade israelense dobrou como canal de entrega d",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
+      "published": "2026-10-17T11:00:00+00:00",
+      "image": ""
+    },
     {
       "title": "Hackers usam credencial ConnectWise comprometida para fazer login em 173 locatários do Microsoft 365",
       "summary": "Pesquisadores de segurança cibernética estão soando o alarme relacionado a uma campanha ativa na qual agentes de ameaças desconhecidos estão abusando de uma credencial comprometida do Microsoft 365 (M365) pertencente ao ConnectWise Cloud Backup (anteriormente ",
@@ -74,8 +110,8 @@
       "image": ""
     },
     {
-      "title": "Anúncios direcionados instalaram spyware Candiru em ataques sem clique",
-      "summary": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
+      "title": "Anúncios direcionados instalaram spyware Candiru em ataques de clique zero",
+      "summary": "O spyware Candiru foi entregue aos dispositivos da Al Jazeera Media Network por meio de anúncios on-line direcionados em um ataque sem clique que exigia apenas a renderização dos anúncios maliciosos no dispositivo da vítima. [...]",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
@@ -119,48 +155,12 @@
       "image": ""
     },
     {
-      "title": "Em outras notícias: ataque ICS-Sniper, hackeamento de operadores de malware XWorm, exploração de US$ 250 mil no Chrome",
+      "title": "Em outras notícias: ataque ICS-Sniper, hackeamento de operadores de malware XWorm, exploração do Chrome de US$ 250 mil",
       "summary": "Histórias dignas de nota que podem ter passado despercebidas: o BofA adiciona 1.000 prestadores de serviços de patch, o KGB RAT combina roubo de dados com sustos e falha de Langflow sob ataque. A postagem Em outras notícias: Ataque ICS-Sniper, hackeando operad",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
       "published": "2026-10-16T14:09:51+00:00",
-      "image": ""
-    },
-    {
-      "title": "Quando o seu negociador de ransomware trabalha para o outro lado",
-      "summary": "A prisão chocante de um conhecido negociador de ransomware revela a necessidade crítica de supervisão do programa do fornecedor.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
-      "published": "2026-10-16T14:00:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c22b787d3880a22/6a469e8782b5bc23f1d3a21e/ransomware-Just_Super-Getty-1399980046.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Quando agentes de IA cometem violações, os humanos não podem ser responsabilizados",
-      "summary": "À medida que os agentes escapam da contenção e acessam sistemas externos, a responsabilidade permanece humana. A responsabilização, no entanto, é muito menos estabelecida.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
-      "published": "2026-10-16T13:00:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt57714ec5c1148817/6ad10d43b8f30368a29f5d16/robot_peeking_through_blinds-Moor_Studio-GettyImages-1746666469.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Violação de dados do Burger King Japão expõe 11 milhões de registros de clientes",
-      "summary": "A Burger King Japan, subsidiária japonesa da gigante global de fast-food Burger King, divulgou uma grande violação de dados depois que invasores acessaram um servidor contendo 11,18 milhões de registros de clientes. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
-      "published": "2026-10-16T12:01:29+00:00",
-      "image": ""
-    },
-    {
-      "title": "Avisos de incidentes de segurança da BAE Systems dos tribunais de falências dos EUA",
-      "summary": "Um incidente cibernético que afetou a empreiteira BAE Systems desativou o Centro de Notificação de Falências, suspendendo os avisos em todo o país por uma semana. A postagem Avisos de paralisação de incidentes de segurança da BAE Systems nos tribunais de falên",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/",
-      "published": "2026-10-16T11:46:40+00:00",
       "image": ""
     }
   ]
