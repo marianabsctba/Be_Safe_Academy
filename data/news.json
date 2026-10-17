@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-17T04:40:04.058301+00:00",
+  "updated_at": "2026-10-17T10:56:14.159766+00:00",
   "items": [
+    {
+      "title": "Hackers usam credencial ConnectWise comprometida para fazer login em 173 locatários do Microsoft 365",
+      "summary": "Pesquisadores de segurança cibernética estão soando o alarme relacionado a uma campanha ativa na qual agentes de ameaças desconhecidos estão abusando de uma credencial comprometida do Microsoft 365 (M365) pertencente ao ConnectWise Cloud Backup (anteriormente ",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+      "published": "2026-10-17T06:16:46+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgel6whr7-1_Lf62w6AJwYfEyic0x1lJ0c-qOfOprMUdm83xpM7rqXbJzplx7BPBUBDD4yUcLWoPvFBhF6HIDORPNNXYj7NfDOTf7YN5lT7p80jxtN6VrTxMjWT0OplFNx0BdjoMmFzk3ssVlbapm7Qfl0Z9_1T7jA_zwz2tbjrxzRircL28mr0zcsci98x/s1600/connectwise.jpg"
+    },
     {
       "title": "BeyondTrust Remote Support Zero-Day continua tendência de bugs de borda explorados",
       "summary": "Ivanti, Cisco e Palo Alto Networks tiveram vulnerabilidades em dispositivos de ponta que foram atacadas esta semana. Agora BeyondTrust se junta ao grupo.",
@@ -65,8 +74,8 @@
       "image": ""
     },
     {
-      "title": "Anúncios direcionados instalaram spyware Candiru em ataques de clique zero",
-      "summary": "O spyware Candiru foi entregue aos dispositivos da Al Jazeera Media Network por meio de anúncios on-line direcionados em um ataque sem clique que exigia apenas a renderização dos anúncios maliciosos no dispositivo da vítima. [...]",
+      "title": "Anúncios direcionados instalaram spyware Candiru em ataques sem clique",
+      "summary": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
@@ -110,7 +119,7 @@
       "image": ""
     },
     {
-      "title": "Em outras notícias: ataque ICS-Sniper, hackeamento de operadores de malware XWorm, exploração do Chrome de US$ 250 mil",
+      "title": "Em outras notícias: ataque ICS-Sniper, hackeamento de operadores de malware XWorm, exploração de US$ 250 mil no Chrome",
       "summary": "Histórias dignas de nota que podem ter passado despercebidas: o BofA adiciona 1.000 prestadores de serviços de patch, o KGB RAT combina roubo de dados com sustos e falha de Langflow sob ataque. A postagem Em outras notícias: Ataque ICS-Sniper, hackeando operad",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
@@ -146,21 +155,12 @@
       "image": ""
     },
     {
-      "title": "Avisos de paralisações de incidentes de segurança da BAE Systems dos tribunais de falências dos EUA",
+      "title": "Avisos de incidentes de segurança da BAE Systems dos tribunais de falências dos EUA",
       "summary": "Um incidente cibernético que afetou a empreiteira BAE Systems desativou o Centro de Notificação de Falências, suspendendo os avisos em todo o país por uma semana. A postagem Avisos de paralisação de incidentes de segurança da BAE Systems nos tribunais de falên",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/",
       "published": "2026-10-16T11:46:40+00:00",
-      "image": ""
-    },
-    {
-      "title": "APT chinês explorou vulnerabilidade BeyondTrust como dia zero",
-      "summary": "O Armory Castle explorou CVE-2026-102764 para acesso inicial, implantou ferramentas personalizadas e excluiu logs e artefatos. O post APT chinês explorou a vulnerabilidade BeyondTrust como Zero-Day apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/",
-      "published": "2026-10-16T10:53:22+00:00",
       "image": ""
     }
   ]
