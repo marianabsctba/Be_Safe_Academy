@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-18T04:45:23.817348+00:00",
+  "updated_at": "2026-10-18T11:21:30.406595+00:00",
   "items": [
+    {
+      "title": "As ofertas de emprego em segurança cibernética nos EUA caem 26% à medida que a demanda por engenheiros de segurança de IA aumenta",
+      "summary": "O Relatório de Empregos em Segurança Cibernética da CyberSN fornece visibilidade do mercado de trabalho em segurança cibernética dos EUA. É uma mistura. A postagem As ofertas de emprego em segurança cibernética nos EUA caem 26% à medida que a demanda por engen",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
+      "published": "2026-10-18T11:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "ConnectWise suspende backup na nuvem depois que invasores comprometem locatários do Microsoft 365",
+      "summary": "A ConnectWise disse no sábado que desativou sete identidades de aplicativos ConnectWise enquanto continua sua investigação sobre um incidente no qual atores de ameaças desconhecidos obtiveram acesso não autorizado às identidades de aplicativos e comprometeram ",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+      "published": "2026-10-18T08:23:02+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxTJ5xsWsmrBmF1q18Gi5uaokNeC6-M0VbSf0T5X3KMQH7QGMhC7mz4XB6TUJuE7P9tjknMAqaGQ-Iz_7UuQ-NdKKXJTgqLhHMipRcd57VUOpwfJ2xxO8Hq_PX8hotdp_KZddNDzfQFw3bLHbYYLasThNbqGlidzhZ485ApBIKh2KUgn4g6PeBbhMwhc0T/s1600/ms-connect.jpg"
+    },
+    {
+      "title": "ConnectWise suspende backup na nuvem depois que invasores comprometem locatários do Microsoft 365 - The Hacker News",
+      "summary": "ConnectWise suspende backup na nuvem depois que invasores comprometem locatários do Microsoft 365 The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPamJycFRPeUdfNnlxcWtWXzB2RXZVNFVfTFRCLUs3ZWJxdVplX3J1LUJwbEpZT3dDWHA4bWljVEVqbTJtV3RfNjhjem1PTTBzRXprVmJYbEttTGdvVXFfRExZUTFiYTRmMEw3dnJHaElTeUsxcjR5bl9XWXNxRkFoSk9rcWw?oc=5",
+      "published": "2026-10-18T08:23:00+00:00",
+      "image": ""
+    },
     {
       "title": "Hackers violam locatários do Microsoft 365 por meio de ataque à cadeia de suprimentos ConnectWise",
       "summary": "ConnectWise desligou o acesso do cliente ao seu serviço Cloud Backup (anteriormente SkyKick Cloud Backup) depois que hackers acessaram identidades de aplicativos e comprometeram locatários do Microsoft 365. [...]",
@@ -110,7 +137,7 @@
       "image": ""
     },
     {
-      "title": "Anúncios direcionados instalaram spyware Candiru em ataques de clique zero",
+      "title": "Anúncios direcionados instalaram spyware Candiru em ataques sem clique",
       "summary": "O spyware Candiru foi entregue aos dispositivos da Al Jazeera Media Network por meio de anúncios on-line direcionados em um ataque sem clique que exigia apenas a renderização dos anúncios maliciosos no dispositivo da vítima. [...]",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
@@ -134,33 +161,6 @@
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sTjdyVXF4VFNEZDV5UlFaNUFrZU9IUW5ROEEwdWZ4aUw0VzhMMWo2SU5XUi1VRFluRjRVN1lBVnJTTnNkOTRtcVdBVXVwelVBeGh6WUxlVU02aE0yZXVWQXdyMkZCbHZJek12bmYzR3BoZUo3X2gw?oc=5",
       "published": "2026-10-16T16:43:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "UAT-11985 usa convites de eventos falsos para atingir afiliados de pesquisa de Taiwan com Google AitM Phishing",
-      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma campanha de spear-phishing de ameaça persistente avançada (APT) que tem como alvo indivíduos afiliados a organizações de pesquisa de Taiwan para direcionar as vítimas para uma estrutura de phish",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
-      "published": "2026-10-16T16:16:44+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPclyw7bJ19im5Qmzj9jgFlsM4XJqPK6hyphenhyphenRDCcQ0bnpWrteeTWgPNlip5T0P_oj_AC6V3osZ2xIpYipKjXWQw3BfFEQ1n28dleNCLRi7difLnPLY8Yc-oJ6BCVZ1V0VBpF_ZNu36qM_yCvyvbgBsSfh2AXq-IBIk7QjnBSR_T7s8ajMCOkIEhA5YGeYWg4/s1600/google-phish.jpg"
-    },
-    {
-      "title": "Gerenciando o risco do modelo de peso aberto em implantações empresariais",
-      "summary": "O novo whitepaper da Microsoft e da NVIDIA ajuda as empresas a gerenciar riscos de modelos de IA de peso aberto com taxonomia, avaliações e controles compartilhados. A postagem Gerenciando o risco do modelo de peso aberto em implantações corporativas apareceu ",
-      "category": "CLOUD & IA",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/",
-      "published": "2026-10-16T16:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Em outras notícias: ataque ICS-Sniper, hackeamento de operadores de malware XWorm, exploração do Chrome de US$ 250 mil",
-      "summary": "Histórias dignas de nota que podem ter passado despercebidas: o BofA adiciona 1.000 prestadores de serviços de patch, o KGB RAT combina roubo de dados com sustos e falha de Langflow sob ataque. A postagem Em outras notícias: Ataque ICS-Sniper, hackeando operad",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
-      "published": "2026-10-16T14:09:51+00:00",
       "image": ""
     }
   ]
