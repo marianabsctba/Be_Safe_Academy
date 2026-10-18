@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T23:13:40.427077+00:00",
+  "updated_at": "2026-10-18T04:45:23.817348+00:00",
   "items": [
     {
       "title": "Hackers violam locatários do Microsoft 365 por meio de ataque à cadeia de suprimentos ConnectWise",
@@ -21,7 +21,7 @@
     },
     {
       "title": "Pacote MALFEX npm 'imgdecode' oculta o carregador Shellcode no complemento nativo do Windows",
-      "summary": "Pesquisadores de segurança cibernética descobriram um pacote npm malicioso que faz parte de uma campanha de ataque à cadeia de suprimentos de software recentemente divulgada, chamada MALFEX. O pacote, denominado “imgdecode”, foi carregado no registro de pacote",
+      "summary": "Pesquisadores de segurança cibernética descobriram um pacote npm malicioso que faz parte de uma campanha de ataque à cadeia de suprimentos de software divulgada recentemente, chamada MALFEX. O pacote, denominado “imgdecode”, foi carregado no registro de pacote",
       "category": "INCIDENTES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
@@ -110,7 +110,7 @@
       "image": ""
     },
     {
-      "title": "Anúncios direcionados instalaram spyware Candiru em ataques sem clique",
+      "title": "Anúncios direcionados instalaram spyware Candiru em ataques de clique zero",
       "summary": "O spyware Candiru foi entregue aos dispositivos da Al Jazeera Media Network por meio de anúncios on-line direcionados em um ataque sem clique que exigia apenas a renderização dos anúncios maliciosos no dispositivo da vítima. [...]",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
@@ -155,7 +155,7 @@
       "image": ""
     },
     {
-      "title": "Em outras notícias: ataque ICS-Sniper, hackeamento de operadores de malware XWorm, exploração de US$ 250 mil no Chrome",
+      "title": "Em outras notícias: ataque ICS-Sniper, hackeamento de operadores de malware XWorm, exploração do Chrome de US$ 250 mil",
       "summary": "Histórias dignas de nota que podem ter passado despercebidas: o BofA adiciona 1.000 prestadores de serviços de patch, o KGB RAT combina roubo de dados com sustos e falha de Langflow sob ataque. A postagem Em outras notícias: Ataque ICS-Sniper, hackeando operad",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
