@@ -1,12 +1,30 @@
 {
-  "updated_at": "2026-10-18T11:21:30.406595+00:00",
+  "updated_at": "2026-10-18T15:59:46.708774+00:00",
   "items": [
+    {
+      "title": "Hackers exploram falha do SiteGuard WAF para executar comandos como administradores",
+      "summary": "Os invasores têm como alvo uma vulnerabilidade de injeção de comando do sistema operacional no SiteGuard Server Edition que permite executar comandos como root ou SYSTEM nos servidores afetados. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
+      "published": "2026-10-18T14:23:16+00:00",
+      "image": ""
+    },
     {
       "title": "As ofertas de emprego em segurança cibernética nos EUA caem 26% à medida que a demanda por engenheiros de segurança de IA aumenta",
       "summary": "O Relatório de Empregos em Segurança Cibernética da CyberSN fornece visibilidade do mercado de trabalho em segurança cibernética dos EUA. É uma mistura. A postagem As ofertas de emprego em segurança cibernética nos EUA caem 26% à medida que a demanda por engen",
       "category": "CLOUD & IA",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
+      "published": "2026-10-18T11:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "As ofertas de emprego em segurança cibernética nos EUA caem 26% à medida que a demanda por engenheiros de segurança de IA aumenta - SecurityWeek",
+      "summary": "As ofertas de emprego em segurança cibernética nos EUA caem 26% à medida que a demanda por engenheiros de segurança de IA aumenta SecurityWeek",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeE96TlNGQ3kyaUdnZ3h2WVhPY3l2a0kwby04VnlaWTRtUlN0TXBTLTdJaUROOWd5T3NGZ1c1Y0xySFpUTjk0RkVLdG9DN1ctZEU4cGhfZ1VsN3E1bkRXdnJ1ZmtvaUVDbm5ZZlNOWW4xOEtGc2RpdWJQdVBPMGZzSDNIeXE0VUlIeVFjQ21TOXE4LVowYm13azUwckctcno4T3NBMG9ua9IBrAFBVV95cUxNaU1DcXhEZDFlM3ZfVVhybkdaWGE5OHoyNXkwcjUwNVQxaHI5OHVOdlpBNk9IV1JQNy1kdWJRbmxSTEt6U2llWUludGZDVFFBWTg0cUdDYlZLQ2JUdTczU0JaSkUxdFFTVmkyXzRGU2lyVWxWMTNLWlVqOWdyWi1BNnNaZ2ZaMElqZjBXTGFleExLc3QwQWdXVkx6VFNVMklCeUpvODRhTVBnY2gw?oc=5",
       "published": "2026-10-18T11:00:00+00:00",
       "image": ""
     },
@@ -61,6 +79,15 @@
       "category": "AMEAÇAS",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
+      "published": "2026-10-17T11:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Empresa de publicidade israelense também é o canal de entrega de spyware com clique zero da Candiru - SecurityWeek",
+      "summary": "Empresa de publicidade israelense dobrou como canal de entrega de spyware com clique zero da Candiru SecurityWeek",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRU1RMFM5cWFpb2loSk5NSC1adW9FX3FQcHZKd2tmVlppNzFnQlN4WGk2MXFXLXhreHNrXzBmV2Izd0FBRl93TTRzNHNMeGVWeV9ZWFNLLThzSXNNSHlNaloxOFJSY0pBTi1qUHEzeHphMk5IeDM3WDgyejNtMFNhUUtsU1VlRVd3Z0MtODRPZ2I0OUxMZWNrY2VZV1pVMlZ3Skhr?oc=5",
       "published": "2026-10-17T11:00:00+00:00",
       "image": ""
     },
@@ -134,33 +161,6 @@
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb1NCaVREdll3cjZkeDBXODNDWko5QXMyOTRIN3p2N0RYeGllUXBKOTVfZW1ZU3dUaXZjXzdUUThJWXctMkRNaWFKNVFXMlBfYlFienQ3MnZlYmFqSGlsNjZJaVVYbGNSVmdBWGxDRHNTazE0a1BtRjBBTFZaNDQ4cg?oc=5",
       "published": "2026-10-16T17:48:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Anúncios direcionados instalaram spyware Candiru em ataques sem clique",
-      "summary": "O spyware Candiru foi entregue aos dispositivos da Al Jazeera Media Network por meio de anúncios on-line direcionados em um ataque sem clique que exigia apenas a renderização dos anúncios maliciosos no dispositivo da vítima. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
-      "published": "2026-10-16T17:20:03+00:00",
-      "image": ""
-    },
-    {
-      "title": "Atacantes adulteraram os servidores de atualização do AOMEI Backupper por minutos para entregar um backdoor",
-      "summary": "Os invasores alteraram repetidamente os arquivos que o AOMEI Backupper busca nos servidores de atualização do próprio fornecedor, em janelas de cinco a dez minutos por vez entre maio e julho de 2026, para que qualquer cópia do programa de backup do Windows que",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
-      "published": "2026-10-16T16:43:39+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhuPumyjeBRpQZo5_3mvqZ2_kXuPiOK02cH-ARofYrny0mQ2-rv55w7yBxMTBe3ymCW7c77quZ4xlkdDG9FcEhBYFr7GWmbyPE_1K1xqU0mvT-h51Z8hLg-LnWl32MeOy-aumsGO9-j8VSOSOfVUDB2k1vWOpEdyGEWV9ipF4kf3HVP1Au2ClbkYtAJrc/s1600/backup-hacked.jpg"
-    },
-    {
-      "title": "Atacantes adulteraram os servidores de atualização do AOMEI Backupper por minutos para fornecer um backdoor – The Hacker News",
-      "summary": "Atacantes adulteraram os servidores de atualização do AOMEI Backupper por minutos para fornecer um backdoor The Hacker News",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sTjdyVXF4VFNEZDV5UlFaNUFrZU9IUW5ROEEwdWZ4aUw0VzhMMWo2SU5XUi1VRFluRjRVN1lBVnJTTnNkOTRtcVdBVXVwelVBeGh6WUxlVU02aE0yZXVWQXdyMkZCbHZJek12bmYzR3BoZUo3X2gw?oc=5",
-      "published": "2026-10-16T16:43:00+00:00",
       "image": ""
     }
   ]
