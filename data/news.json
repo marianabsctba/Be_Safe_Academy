@@ -1,6 +1,123 @@
 {
-  "updated_at": "2026-10-19T04:53:33.851702+00:00",
+  "updated_at": "2026-10-19T13:35:42.803693+00:00",
   "items": [
+    {
+      "title": "ConnectWise suspende serviços em nuvem em resposta a ataque cibernético",
+      "summary": "Os serviços permanecem indisponíveis enquanto a empresa continua a correção e validação de segurança. A postagem ConnectWise suspende serviços em nuvem em resposta a um ataque cibernético apareceu pela primeira vez na SecurityWeek.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/",
+      "published": "2026-10-19T13:16:20+00:00",
+      "image": ""
+    },
+    {
+      "title": "Os agentes são seus mais novos insiders. A segurança deve mover-se à sua velocidade.",
+      "summary": "Os novos recursos do Microsoft 365 E7 e do Project Perception ajudam as organizações a conter o risco do agente e a adaptar a proteção continuamente. Os agentes postais são seus mais novos insiders. A segurança deve mover-se à sua velocidade. apareceu primeiro",
+      "category": "DEFESA",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/",
+      "published": "2026-10-19T13:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Além do patch: protegendo seu gateway NetScaler contra vulnerabilidades futuras",
+      "summary": "CVE-2026-88771 permite que invasores executem comandos no NetScaler Gateway antes que alguém faça login. A aplicação de patches leva um tempo que a maioria das equipes não tem, portanto, a decisão de login deve passar na frente do código vulnerável.",
+      "category": "VULNERABILIDADES",
+      "source": "Cloudflare Security",
+      "url": "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
+      "published": "2026-10-19T13:00:00+00:00",
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M537RBT01XNYZ0RR0CP9PS55.png"
+    },
+    {
+      "title": "Cadeia de exploração Plex2Shell armada contra servidores Plex horas após a divulgação",
+      "summary": "Foram observados atores de ameaças entregando mineradores de criptomoedas e software proxy. A postagem Cadeia de exploração Plex2Shell armada contra servidores Plex horas após a divulgação apareceu pela primeira vez em SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/",
+      "published": "2026-10-19T12:44:39+00:00",
+      "image": ""
+    },
+    {
+      "title": "Um login comprometido expôs milhões de registros de estudantes da Califórnia",
+      "summary": "Os invasores usaram credenciais comprometidas para acessar um servidor ETS SFTP, copiando registros de estudantes da Califórnia desde 2006. A postagem Um login comprometido expôs milhões de registros de estudantes da Califórnia apareceu pela primeira vez na Se",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/",
+      "published": "2026-10-19T11:55:50+00:00",
+      "image": ""
+    },
+    {
+      "title": "Bug Fortinet explorado vinculado ao implante Stealthy FortiGate em hack de telecomunicações",
+      "summary": "O persistente e furtivo implante FortiGate foi implantado contra uma organização de telecomunicações. O posto Bug Fortinet explorado vinculado ao implante Stealthy FortiGate em Telecom Hack apareceu pela primeira vez em SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/",
+      "published": "2026-10-19T11:13:23+00:00",
+      "image": ""
+    },
+    {
+      "title": "O falso acelerador Web3 usa pacotes npm para espalhar malware e sequestrar o tráfego do agente AI",
+      "summary": "Um falso acelerador Web3 foi observado empurrando ladrões de informações e backdoors para sistemas Windows e macOS usando pacotes npm maliciosos sob o pretexto de oferecer créditos gratuitos de inteligência artificial (IA) para Anthropic Claude e Google Gemini",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
+      "published": "2026-10-19T10:06:40+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAw5A6yrE0NkMreq5lBZaS4ndrFrorAZaVrjJ218aS1RcJoQVYOJOVejIn8rBH5RHIIZ_cpvtzHnQMwMMWVOFbpfcs01tolLCmlYAY3qy-onWaOUQhzB6H2VjlWaUgBCL_0vAjRB7VmumClnaiIxDds6j9wD3lt9vD-kptWl6bUft29O6Z0cTNgBQV6t76/s1600/npm-apex.jpg"
+    },
+    {
+      "title": "MITRE ATT&CK v20 cataloga abuso de IA, desvio de MFA, ataques de serviços públicos de água",
+      "summary": "Os defensores obtêm 15 novas estratégias de detecção, seis para empresas e nove para ICS, apoiadas por 38 análises. A postagem MITRE ATT&CK v20 Catálogos Abuso de IA, Bypass MFA, Ataques a Utilitários de Água apareceu pela primeira vez em SecurityWeek.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/",
+      "published": "2026-10-19T09:37:04+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft: atualizações de outubro do Windows Server interrompem o login do Exchange e o fluxo de mensagens",
+      "summary": "A Microsoft confirmou que as atualizações de segurança do Windows Server deste mês estão causando problemas de login e entrega de email do OWA em alguns sistemas Exchange Server. [...]",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
+      "published": "2026-10-19T08:58:41+00:00",
+      "image": ""
+    },
+    {
+      "title": "Anthropic adquire sistemas opacos de startup de IA confidenciais",
+      "summary": "A Opaque Systems desenvolveu tecnologia que permite que os sistemas de IA usem dados confidenciais, mantendo-os protegidos pelo hardware subjacente. A postagem Anthropic adquire sistemas opacos de startup de IA confidenciais apareceu pela primeira vez na Secur",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/",
+      "published": "2026-10-19T07:45:25+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falha de Wi-Fi Broadcom não corrigida permite que invasores executem código como root em roteadores",
+      "summary": "Uma falha no software de configuração de Wi-Fi da Broadcom permite que um invasor dentro do alcance do rádio execute código como root em roteadores baseados em Broadcom, sem a senha da rede ou qualquer etapa de emparelhamento, revelou o pesquisador de seguranç",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
+      "published": "2026-10-19T06:29:44+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKR22_EY_V4kc68OQN7vGigoOrsBiy_aMnJVifzUg15itznrR-KdvcSdcaVSGnA6A2kAgMCSUNbIoqzh10gy8wQzkpK55LJPTjPPoV73VzoJlNCtZOn0LltkE7gq8PwH29hLNlUn41qQV8A7fTGkCwHu2LQ0OtvvTFtNRHll7xY0_PUfQ5K08JtCWriXg/s1600/wifi.gif"
+    },
+    {
+      "title": "A violação do console OpenCode pode ter exposto chaves de API OpenAI, Anthropic e Google",
+      "summary": "Um intruso atingiu um sistema legado no OpenCode na noite de 16 de outubro e pode ter exposto as chaves do provedor de IA de terceiros que os usuários salvaram no OpenCode Console, disse a empresa. Console é o serviço hospedado opcional do OpenCode: um espaço ",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
+      "published": "2026-10-19T06:07:08+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzRSuvywT7bfHRl45krYywOIqL__Cw1hXchChbx5ylDNZaHxVDEf8O1pmzajCnItG1rwxKq0k2GHdMeDW_DvQP8Wk5MEiwlE2dZXn9grvDpAOpViWonNWsFMkTXoKpcFj8lk0UuMrGx-xVHRU_KufidsDcY7e0RUSG62aapDC9y9opt8V_rmgxkCG9v6A/s1600/opencode.jpg"
+    },
+    {
+      "title": "Violação do console OpenCode pode ter exposto chaves de API OpenAI, Anthropic e Google – The Hacker News",
+      "summary": "Violação do console OpenCode pode ter exposto chaves de API OpenAI, Anthropic e Google The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DSHd3eWxKVUpRZVpodjBWSENuSVRUMUpEQnQxNFJvN0JaT0JkQndMamRlRVk5QUtvaDJ5M2hldzh2bkhOVWlGa3VHcXlheHg3d3UxamFSbDNDd2o0a1FpbXB1UWpva3VUSE1xTkhYUGtrbFQ4d19hSVpyRQ?oc=5",
+      "published": "2026-10-19T06:07:00+00:00",
+      "image": ""
+    },
     {
       "title": "Hackers exploram falha do SiteGuard WAF para executar comandos como administradores",
       "summary": "Os invasores têm como alvo uma vulnerabilidade de injeção de comando do sistema operacional no SiteGuard Server Edition que permite executar comandos como root ou SYSTEM nos servidores afetados. [...]",
@@ -44,123 +161,6 @@
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPamJycFRPeUdfNnlxcWtWXzB2RXZVNFVfTFRCLUs3ZWJxdVplX3J1LUJwbEpZT3dDWHA4bWljVEVqbTJtV3RfNjhjem1PTTBzRXprVmJYbEttTGdvVXFfRExZUTFiYTRmMEw3dnJHaElTeUsxcjR5bl9XWXNxRkFoSk9rcWw?oc=5",
       "published": "2026-10-18T08:23:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers violam locatários do Microsoft 365 por meio de ataque à cadeia de suprimentos ConnectWise",
-      "summary": "ConnectWise desligou o acesso do cliente ao seu serviço Cloud Backup (anteriormente SkyKick Cloud Backup) depois que hackers acessaram identidades de aplicativos e comprometeram locatários do Microsoft 365. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
-      "published": "2026-10-17T15:18:51+00:00",
-      "image": ""
-    },
-    {
-      "title": "Drupal corrige falhas críticas de RCE e alerta que explorações podem surgir em breve",
-      "summary": "O Drupal corrigiu duas vulnerabilidades críticas que poderiam permitir que invasores executassem código remotamente em sites que executam qualquer versão suportada do sistema de gerenciamento de conteúdo. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
-      "published": "2026-10-17T14:32:48+00:00",
-      "image": ""
-    },
-    {
-      "title": "Pacote MALFEX npm 'imgdecode' oculta o carregador Shellcode no complemento nativo do Windows",
-      "summary": "Pesquisadores de segurança cibernética descobriram um pacote npm malicioso que faz parte de uma campanha de ataque à cadeia de suprimentos de software recentemente divulgada, chamada MALFEX. O pacote, denominado “imgdecode”, foi carregado no registro de pacote",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
-      "published": "2026-10-17T11:11:56+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8fNb_yEvP6C_CENfQMUx3EDGofY1ejEHusnumTjCLnX3s8pevEbl_cgrtFHhzeEUhyphenhyphenyKe_X41OzQOGL5zlXeLLBnj_ZrLqH1IUag1QWm4QS9V2hgc5ucEzEZKjhstvtde8CFs8anPSZv9w3op67F8Q_MHVC_demESnH8lpAYLLpIRizCyvF5gsi5PDKzm/s1600/npm-dll.jpg"
-    },
-    {
-      "title": "Empresa de publicidade israelense dobrou como canal de distribuição de spyware com clique zero da Candiru",
-      "summary": "Os anúncios da empresa israelense Discover-Tech permitem que os agentes de ameaças obtenham impressões digitais e rastreiem dispositivos em grande escala e infectem alvos selecionados. A postagem Empresa de publicidade israelense dobrou como canal de entrega d",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/israeli-ad-firm-doubled-as-candirus-zero-click-spyware-delivery-channel/",
-      "published": "2026-10-17T11:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Empresa de publicidade israelense também é o canal de entrega de spyware com clique zero da Candiru - SecurityWeek",
-      "summary": "Empresa de publicidade israelense dobrou como canal de entrega de spyware com clique zero da Candiru SecurityWeek",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRU1RMFM5cWFpb2loSk5NSC1adW9FX3FQcHZKd2tmVlppNzFnQlN4WGk2MXFXLXhreHNrXzBmV2Izd0FBRl93TTRzNHNMeGVWeV9ZWFNLLThzSXNNSHlNaloxOFJSY0pBTi1qUHEzeHphMk5IeDM3WDgyejNtMFNhUUtsU1VlRVd3Z0MtODRPZ2I0OUxMZWNrY2VZV1pVMlZ3Skhr?oc=5",
-      "published": "2026-10-17T11:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers usam credencial ConnectWise comprometida para fazer login em 173 locatários do Microsoft 365",
-      "summary": "Pesquisadores de segurança cibernética estão soando o alarme relacionado a uma campanha ativa na qual agentes de ameaças desconhecidos estão abusando de uma credencial comprometida do Microsoft 365 (M365) pertencente ao ConnectWise Cloud Backup (anteriormente ",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
-      "published": "2026-10-17T06:16:46+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgel6whr7-1_Lf62w6AJwYfEyic0x1lJ0c-qOfOprMUdm83xpM7rqXbJzplx7BPBUBDD4yUcLWoPvFBhF6HIDORPNNXYj7NfDOTf7YN5lT7p80jxtN6VrTxMjWT0OplFNx0BdjoMmFzk3ssVlbapm7Qfl0Z9_1T7jA_zwz2tbjrxzRircL28mr0zcsci98x/s1600/connectwise.jpg"
-    },
-    {
-      "title": "BeyondTrust Remote Support Zero-Day continua tendência de bugs de borda explorados",
-      "summary": "Ivanti, Cisco e Palo Alto Networks tiveram vulnerabilidades em dispositivos de ponta que foram atacadas esta semana. Agora BeyondTrust se junta ao grupo.",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
-      "published": "2026-10-16T20:34:37+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4a126b2e0eae913e/6ad27ebc7cb22e18dd04a52b/Locusts-ZU_09-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Falha crítica do BlockStrap permite que hackers executem código em servidores Magento",
-      "summary": "Os pesquisadores alertam que os hackers poderão em breve explorar uma vulnerabilidade de gravidade máxima (CVE-2026-103849) que afeta Magento e Adobe Commerce, potencialmente permitindo-lhes executar código PHP arbitrário em servidores de lojas. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
-      "published": "2026-10-16T20:00:59+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falso Claude, ataques ChatGPT aumentam, colocando desenvolvedores em risco",
-      "summary": "As campanhas que personificam marcas populares de IA estão aumentando e normalmente usam táticas semelhantes às do ClickFix para atingir funcionários corporativos desavisados.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk",
-      "published": "2026-10-16T19:49:30+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1652c5132de5d8e6/6ad27799ee37e003e0d27496/airesults-Ekaterina_Goncharova-Getty-2173055307.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "A IA empresarial entra na fase de gerenciamento de riscos à medida que aumentam as preocupações com segurança",
-      "summary": "As empresas estão descobrindo cada vez mais que o desafio da IA ​​não é mais a adoção, mas a execução.",
-      "category": "CLOUD & IA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise",
-      "published": "2026-10-16T19:13:59+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "IA assume o controle do braço robótico em 16 minutos",
-      "summary": "A maioria dos dispositivos de TO em concessionárias, fábricas e outros lugares foram implantados há uma década ou mais, mas as operadoras precisam ser ágeis e implantar novas defesas cibernéticas.",
-      "category": "DEFESA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
-      "published": "2026-10-16T18:37:50+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6937d5b3760a530f/6ad14589831f9d6076cdd58b/robotic-arms-grid-overlay-greenbutterfly-shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Pesquisadores demonstram exploração de root do OpenBSD encadeando bug de memória compartilhada de 37 anos",
-      "summary": "Uma exploração de escalonamento de privilégios local publicada hoje ganha raiz no OpenBSD 7.9 encadeando um estouro de número inteiro de aproximadamente 37 anos com uma falha de kernel separada, ignorando a randomização de endereço de kernel KARL do OpenBSD e ",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
-      "published": "2026-10-16T17:48:45+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqmitTMm5t8BBKfynqzFAKqJSzh_s7fQczmMm5u95RLUUzuWMubd5DeM8e8EH6YOpP-_gvbYwn8Cd3flsL-nGIupBw5HOo49Orr7J2rqhI99J7U4LcXW6shlxd3w0zFAng1mLw5xGb-F9GRmpDK82GC1-Dcb1gPcvkgl4wVi0-QTEGalDwPmelGE0TtNU/s1600/openbsd.jpg"
-    },
-    {
-      "title": "Pesquisadores demonstram exploração de root do OpenBSD encadeando bug de memória compartilhada de 37 anos - The Hacker News",
-      "summary": "Pesquisadores demonstram exploração de root do OpenBSD encadeando bug de memória compartilhada de 37 anos The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb1NCaVREdll3cjZkeDBXODNDWko5QXMyOTRIN3p2N0RYeGllUXBKOTVfZW1ZU3dUaXZjXzdUUThJWXctMkRNaWFKNVFXMlBfYlFienQ3MnZlYmFqSGlsNjZJaVVYbGNSVmdBWGxDRHNTazE0a1BtRjBBTFZaNDQ4cg?oc=5",
-      "published": "2026-10-16T17:48:00+00:00",
       "image": ""
     }
   ]
