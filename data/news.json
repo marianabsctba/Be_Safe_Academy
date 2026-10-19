@@ -1,6 +1,150 @@
 {
-  "updated_at": "2026-10-19T13:35:42.803693+00:00",
+  "updated_at": "2026-10-19T20:39:17.712266+00:00",
   "items": [
+    {
+      "title": "'AdFection' transforma impressões de anúncios em entrega de spyware com clique zero",
+      "summary": "Os fornecedores de spyware estão explorando anúncios direcionados no ecossistema digital para identificar e rastrear indivíduos e organizações de interesse.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery",
+      "published": "2026-10-19T19:55:01+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta9877a78be2c957c/6ad66b90a54e05edb3fb8747/surveillance_Lightspring_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Hackers sequestram servidores de atualização AOMEI para espalhar malware secretamente",
+      "summary": "Os hackers supostamente comprometeram os servidores da AOMEI para distribuir malware por meio de um recurso promocional integrado em seu software de backup, adulterando brevemente os arquivos de configuração antes de restaurá-los ao seu estado original para oc",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
+      "published": "2026-10-19T19:40:58+00:00",
+      "image": ""
+    },
+    {
+      "title": "Bullhorn coloca a plataforma de pessoal off-line para conter ataques cibernéticos",
+      "summary": "A empresa de software de recrutamento Bullhorn desativou o acesso à sua plataforma para conter um ataque cibernético que causou uma interrupção em todo o sistema. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
+      "published": "2026-10-19T18:51:13+00:00",
+      "image": ""
+    },
+    {
+      "title": "Vulnerabilidade do Siemens Software Center explorada em ataques de malware ClickFix",
+      "summary": "Os invasores emparelharam uma cópia genuína e assinada do Siemens Software Center com DLLs maliciosas para infectar PCs com Windows por meio de iscas ClickFix. A postagem Vulnerabilidade do Siemens Software Center explorada em ataques de malware ClickFix apare",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/",
+      "published": "2026-10-19T18:15:39+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers exploram falhas do Plex2Shell para instalar criptomineradores e backdoor de proxy Linux",
+      "summary": "Os atores de ameaças começaram a explorar uma cadeia de vulnerabilidades no Plex Media Server para implantar mineradores de criptomoedas e software de proxy reverso, um dia depois que uma prova de conceito (PoC) se tornou pública. De acordo com um pesquisador ",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
+      "published": "2026-10-19T17:32:13+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF_Xo8mH5AxIDYx4hFrS1_uhblD0IoGUTo6bioM38mwy-whZAbcq1aaGeH1iZrS8nmk5Ow25NfX67HRXKiWFfzLc8C1A2zs2n948DwyW_NSSkowFDnEzxUofGxhNV72vTEWkgPmbO6XJyDUPwBR-lzSekj5_m8tY3JHjozUXETGEBg6GrLZrekhilW9W_R/s1600/plex-hack.jpg"
+    },
+    {
+      "title": "Hack OpenCode expõe chaves de API em meio a ataques de destilação de IA",
+      "summary": "O projeto de codificação de IA de código aberto OpenCode notificou um pequeno número de usuários de que as chaves de API usadas com provedores externos foram expostas em uma violação de segurança. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
+      "published": "2026-10-19T17:27:15+00:00",
+      "image": ""
+    },
+    {
+      "title": "Popular WordPress SEO Plugin Rank Math PRO sequestrado para fornecer backdoor auto-restaurável",
+      "summary": "Cópias do Rank Math PRO, a versão paga do plugin Rank Math SEO para WordPress, que foram baixadas de rankmath.com ou entregues como atualizações entre 20h02 UTC de 15 de outubro e 07h12 UTC de 16 de outubro continham malware, disse Rank Math em um aviso de seg",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
+      "published": "2026-10-19T16:28:47+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja-6AhEjL8YvRsoNjXIIDEnsVd8gMMW_cUqMvLNcRukJXjatSuo-phLfYxt2A76gSCk-uZFmo4EbJjQuMr8_k8Pxl2ho1TnUL_50Q_VknkR8JqnTiVOqZ48i5W6Mv6HB0cQfJoAjs8xHUu6urkucsPClURVP3aWM0aivfngCFZLykMYzJITwenYfSb9Sk/s1600/wordpress-rank.jpg"
+    },
+    {
+      "title": "Popular WordPress SEO Plugin Rank Math PRO sequestrado para fornecer backdoor auto-restaurável - The Hacker News",
+      "summary": "Popular WordPress SEO Plugin Rank Math PRO sequestrado para fornecer backdoor auto-restaurável The Hacker News",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQblZvT0VOSTFIaEc3ZnpVZW1lWnZxMEc1dDhMaERsVTFLb3k0cDJ6d0w1UWE4bEtyWWZJdHRlLVFuX1ZWZDNzZkZwenhBb3FFRDd5WTV2MzhXSkIwbjNRZF9nYVFSbzk2Nk1nMVJFaHFkRWhhYzFhVHlLalNFdU9kdENNSQ?oc=5",
+      "published": "2026-10-19T16:28:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Drupal alerta sobre risco de exploração rápida para falha crítica do RCE",
+      "summary": "Falhas críticas afetam os módulos Entity List e Field UI, e existem caminhos de exploração com módulos contribuídos. A postagem Drupal alerta sobre risco de exploração rápida para falha crítica do RCE central apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/drupal-warns-of-fast-exploitation-risk-for-critical-core-rce-flaw/",
+      "published": "2026-10-19T15:47:50+00:00",
+      "image": ""
+    },
+    {
+      "title": "Plugin Rank Math PRO WordPress comprometido em ataque à cadeia de suprimentos",
+      "summary": "Os hackers injetaram malware nos pacotes do Rank Math PRO versão 3.0.123 distribuídos entre 15 e 16 de outubro. O post Rank Math PRO WordPress Plugin comprometido no ataque à cadeia de suprimentos apareceu pela primeira vez na SecurityWeek.",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/rank-math-pro-wordpress-plugin-compromised-in-supply-chain-attack/",
+      "published": "2026-10-19T15:20:53+00:00",
+      "image": ""
+    },
+    {
+      "title": "Remoções de direitos autorais de OnlyFans expõem sites comprometidos",
+      "summary": "Solicitações de remoção de direitos autorais vinculadas a OnlyFans e outros criadores de conteúdo adulto estão revelando como os invasores exploram sites vulneráveis ​​de universidades e governos para manipular os resultados da pesquisa. Greg Pollock, da UpGua",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/onlyfans-copyright-takedowns-expose-compromised-websites",
+      "published": "2026-10-19T14:28:11+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltef729e5049e61b8c/6ad290a4ed74a528c20a7b92/copyright1800_wakila_GettyImages-157508105.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "⚡ Recapitulação semanal: 98 dias zero, agentes de IA desonestos, roubo de criptografia de US$ 100 milhões, sucesso em 700 supermercados e muito mais",
+      "summary": "Os piores problemas nem sempre vêm com um aviso. Às vezes, eles chegam por meio de um serviço em que todos confiam, de um dispositivo que alguém comprou ou de um sistema que ninguém pensou em verificar. Quando algo parece errado, o estrago já pode estar feito.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
+      "published": "2026-10-19T14:14:07+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTvDNJzlrpPvCifQ9zNcdkc0vjmmRwGCap_kODFlX5W_IimpUgTyObjSefO7gHjXKUMhEkIlmgnH1GbbbWna6eZWa8xcRDLXeRmYX0oSrhAgS8YXth6_T2CPXMMnZvgsf1Psq_DUB9JkjeELLHjnB2xFl9-8bM5BW19fJ1aHcOruzwKErZJkjwRBSRedBq/s1600/recap-1.jpg"
+    },
+    {
+      "title": "Por dentro do mercado subterrâneo para conhecer seus serviços ao cliente",
+      "summary": "Os cibercriminosos estão vendendo documentos de identidade falsos, vídeos deepfake e serviços de verificação ao vivo para ajudar os compradores a contornar as verificações do Know Your Client (KYC). Flare examina como funcionam esses serviços clandestinos e as",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
+      "published": "2026-10-19T14:00:10+00:00",
+      "image": ""
+    },
+    {
+      "title": "O léxico em evolução da segurança cibernética: descoberta de vulnerabilidades para resiliência",
+      "summary": "O foco de todo o setor nas vulnerabilidades deixou as equipes de segurança cibernética sem espaço suficiente para traçar estratégias de resiliência.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience",
+      "published": "2026-10-19T14:00:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt65c173c2226bc353/6ad26aaeed74a561440a7b76/dictionary-boonchai_wedmakawand-Getty-1321495582.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "F5 lança patches fora de banda para vulnerabilidades críticas do NGINX",
+      "summary": "A F5 lançou patches de segurança fora de banda para solucionar várias falhas do servidor web NGINX, incluindo três vulnerabilidades de gravidade crítica que podem permitir que invasores executem código em sistemas vulneráveis. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
+      "published": "2026-10-19T13:49:24+00:00",
+      "image": ""
+    },
+    {
+      "title": "Negociador de resgate suspeito de federais administrou site de extorsão ShinyHunters",
+      "summary": "Investigadores federais dos EUA que perseguem o grupo de hackers ShinyHunters, que recentemente roubou dados altamente confidenciais do FBI, identificaram executivos de duas empresas diferentes de negociação de ransomware que mantiveram relações excepcionalmen",
+      "category": "AMEAÇAS",
+      "source": "KrebsOnSecurity",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "published": "2026-10-19T13:48:56+00:00",
+      "image": ""
+    },
     {
       "title": "ConnectWise suspende serviços em nuvem em resposta a ataque cibernético",
       "summary": "Os serviços permanecem indisponíveis enquanto a empresa continua a correção e validação de segurança. A postagem ConnectWise suspende serviços em nuvem em resposta a um ataque cibernético apareceu pela primeira vez na SecurityWeek.",
@@ -11,157 +155,13 @@
       "image": ""
     },
     {
-      "title": "Os agentes são seus mais novos insiders. A segurança deve mover-se à sua velocidade.",
-      "summary": "Os novos recursos do Microsoft 365 E7 e do Project Perception ajudam as organizações a conter o risco do agente e a adaptar a proteção continuamente. Os agentes postais são seus mais novos insiders. A segurança deve mover-se à sua velocidade. apareceu primeiro",
-      "category": "DEFESA",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/",
-      "published": "2026-10-19T13:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Além do patch: protegendo seu gateway NetScaler contra vulnerabilidades futuras",
-      "summary": "CVE-2026-88771 permite que invasores executem comandos no NetScaler Gateway antes que alguém faça login. A aplicação de patches leva um tempo que a maioria das equipes não tem, portanto, a decisão de login deve passar na frente do código vulnerável.",
-      "category": "VULNERABILIDADES",
-      "source": "Cloudflare Security",
-      "url": "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
-      "published": "2026-10-19T13:00:00+00:00",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M537RBT01XNYZ0RR0CP9PS55.png"
-    },
-    {
-      "title": "Cadeia de exploração Plex2Shell armada contra servidores Plex horas após a divulgação",
-      "summary": "Foram observados atores de ameaças entregando mineradores de criptomoedas e software proxy. A postagem Cadeia de exploração Plex2Shell armada contra servidores Plex horas após a divulgação apareceu pela primeira vez em SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/",
-      "published": "2026-10-19T12:44:39+00:00",
-      "image": ""
-    },
-    {
-      "title": "Um login comprometido expôs milhões de registros de estudantes da Califórnia",
-      "summary": "Os invasores usaram credenciais comprometidas para acessar um servidor ETS SFTP, copiando registros de estudantes da Califórnia desde 2006. A postagem Um login comprometido expôs milhões de registros de estudantes da Califórnia apareceu pela primeira vez na Se",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/",
-      "published": "2026-10-19T11:55:50+00:00",
-      "image": ""
-    },
-    {
-      "title": "Bug Fortinet explorado vinculado ao implante Stealthy FortiGate em hack de telecomunicações",
-      "summary": "O persistente e furtivo implante FortiGate foi implantado contra uma organização de telecomunicações. O posto Bug Fortinet explorado vinculado ao implante Stealthy FortiGate em Telecom Hack apareceu pela primeira vez em SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/",
-      "published": "2026-10-19T11:13:23+00:00",
-      "image": ""
-    },
-    {
-      "title": "O falso acelerador Web3 usa pacotes npm para espalhar malware e sequestrar o tráfego do agente AI",
-      "summary": "Um falso acelerador Web3 foi observado empurrando ladrões de informações e backdoors para sistemas Windows e macOS usando pacotes npm maliciosos sob o pretexto de oferecer créditos gratuitos de inteligência artificial (IA) para Anthropic Claude e Google Gemini",
+      "title": "GhostAction Attackers planta ladrão de credenciais disfarçado de fonte em 94 repositórios GitHub",
+      "summary": "O ator de ameaça por trás do ataque à cadeia de suprimentos GhostAction expandiu-se além da injeção de fluxos de trabalho maliciosos do GitHub Actions em projetos comprometidos para fazer phishing em desenvolvedores de código aberto e entregar um malware ladrã",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
-      "published": "2026-10-19T10:06:40+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAw5A6yrE0NkMreq5lBZaS4ndrFrorAZaVrjJ218aS1RcJoQVYOJOVejIn8rBH5RHIIZ_cpvtzHnQMwMMWVOFbpfcs01tolLCmlYAY3qy-onWaOUQhzB6H2VjlWaUgBCL_0vAjRB7VmumClnaiIxDds6j9wD3lt9vD-kptWl6bUft29O6Z0cTNgBQV6t76/s1600/npm-apex.jpg"
-    },
-    {
-      "title": "MITRE ATT&CK v20 cataloga abuso de IA, desvio de MFA, ataques de serviços públicos de água",
-      "summary": "Os defensores obtêm 15 novas estratégias de detecção, seis para empresas e nove para ICS, apoiadas por 38 análises. A postagem MITRE ATT&CK v20 Catálogos Abuso de IA, Bypass MFA, Ataques a Utilitários de Água apareceu pela primeira vez em SecurityWeek.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/",
-      "published": "2026-10-19T09:37:04+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft: atualizações de outubro do Windows Server interrompem o login do Exchange e o fluxo de mensagens",
-      "summary": "A Microsoft confirmou que as atualizações de segurança do Windows Server deste mês estão causando problemas de login e entrega de email do OWA em alguns sistemas Exchange Server. [...]",
-      "category": "DEFESA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
-      "published": "2026-10-19T08:58:41+00:00",
-      "image": ""
-    },
-    {
-      "title": "Anthropic adquire sistemas opacos de startup de IA confidenciais",
-      "summary": "A Opaque Systems desenvolveu tecnologia que permite que os sistemas de IA usem dados confidenciais, mantendo-os protegidos pelo hardware subjacente. A postagem Anthropic adquire sistemas opacos de startup de IA confidenciais apareceu pela primeira vez na Secur",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/",
-      "published": "2026-10-19T07:45:25+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falha de Wi-Fi Broadcom não corrigida permite que invasores executem código como root em roteadores",
-      "summary": "Uma falha no software de configuração de Wi-Fi da Broadcom permite que um invasor dentro do alcance do rádio execute código como root em roteadores baseados em Broadcom, sem a senha da rede ou qualquer etapa de emparelhamento, revelou o pesquisador de seguranç",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
-      "published": "2026-10-19T06:29:44+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKR22_EY_V4kc68OQN7vGigoOrsBiy_aMnJVifzUg15itznrR-KdvcSdcaVSGnA6A2kAgMCSUNbIoqzh10gy8wQzkpK55LJPTjPPoV73VzoJlNCtZOn0LltkE7gq8PwH29hLNlUn41qQV8A7fTGkCwHu2LQ0OtvvTFtNRHll7xY0_PUfQ5K08JtCWriXg/s1600/wifi.gif"
-    },
-    {
-      "title": "A violação do console OpenCode pode ter exposto chaves de API OpenAI, Anthropic e Google",
-      "summary": "Um intruso atingiu um sistema legado no OpenCode na noite de 16 de outubro e pode ter exposto as chaves do provedor de IA de terceiros que os usuários salvaram no OpenCode Console, disse a empresa. Console é o serviço hospedado opcional do OpenCode: um espaço ",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
-      "published": "2026-10-19T06:07:08+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzRSuvywT7bfHRl45krYywOIqL__Cw1hXchChbx5ylDNZaHxVDEf8O1pmzajCnItG1rwxKq0k2GHdMeDW_DvQP8Wk5MEiwlE2dZXn9grvDpAOpViWonNWsFMkTXoKpcFj8lk0UuMrGx-xVHRU_KufidsDcY7e0RUSG62aapDC9y9opt8V_rmgxkCG9v6A/s1600/opencode.jpg"
-    },
-    {
-      "title": "Violação do console OpenCode pode ter exposto chaves de API OpenAI, Anthropic e Google – The Hacker News",
-      "summary": "Violação do console OpenCode pode ter exposto chaves de API OpenAI, Anthropic e Google The Hacker News",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DSHd3eWxKVUpRZVpodjBWSENuSVRUMUpEQnQxNFJvN0JaT0JkQndMamRlRVk5QUtvaDJ5M2hldzh2bkhOVWlGa3VHcXlheHg3d3UxamFSbDNDd2o0a1FpbXB1UWpva3VUSE1xTkhYUGtrbFQ4d19hSVpyRQ?oc=5",
-      "published": "2026-10-19T06:07:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers exploram falha do SiteGuard WAF para executar comandos como administradores",
-      "summary": "Os invasores têm como alvo uma vulnerabilidade de injeção de comando do sistema operacional no SiteGuard Server Edition que permite executar comandos como root ou SYSTEM nos servidores afetados. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
-      "published": "2026-10-18T14:23:16+00:00",
-      "image": ""
-    },
-    {
-      "title": "As ofertas de emprego em segurança cibernética nos EUA caem 26% à medida que a demanda por engenheiros de segurança de IA aumenta",
-      "summary": "O Relatório de Empregos em Segurança Cibernética da CyberSN fornece visibilidade do mercado de trabalho em segurança cibernética dos EUA. É uma mistura. A postagem As ofertas de emprego em segurança cibernética nos EUA caem 26% à medida que a demanda por engen",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
-      "published": "2026-10-18T11:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "As ofertas de emprego em segurança cibernética nos EUA caem 26% à medida que a demanda por engenheiros de segurança de IA aumenta - SecurityWeek",
-      "summary": "As ofertas de emprego em segurança cibernética nos EUA caem 26% à medida que a demanda por engenheiros de segurança de IA aumenta SecurityWeek",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeE96TlNGQ3kyaUdnZ3h2WVhPY3l2a0kwby04VnlaWTRtUlN0TXBTLTdJaUROOWd5T3NGZ1c1Y0xySFpUTjk0RkVLdG9DN1ctZEU4cGhfZ1VsN3E1bkRXdnJ1ZmtvaUVDbm5ZZlNOWW4xOEtGc2RpdWJQdVBPMGZzSDNIeXE0VUlIeVFjQ21TOXE4LVowYm13azUwckctcno4T3NBMG9ua9IBrAFBVV95cUxNaU1DcXhEZDFlM3ZfVVhybkdaWGE5OHoyNXkwcjUwNVQxaHI5OHVOdlpBNk9IV1JQNy1kdWJRbmxSTEt6U2llWUludGZDVFFBWTg0cUdDYlZLQ2JUdTczU0JaSkUxdFFTVmkyXzRGU2lyVWxWMTNLWlVqOWdyWi1BNnNaZ2ZaMElqZjBXTGFleExLc3QwQWdXVkx6VFNVMklCeUpvODRhTVBnY2gw?oc=5",
-      "published": "2026-10-18T11:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "ConnectWise suspende backup na nuvem depois que invasores comprometem locatários do Microsoft 365",
-      "summary": "A ConnectWise disse no sábado que desativou sete identidades de aplicativos ConnectWise enquanto continua sua investigação sobre um incidente no qual atores de ameaças desconhecidos obtiveram acesso não autorizado às identidades de aplicativos e comprometeram ",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
-      "published": "2026-10-18T08:23:02+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxTJ5xsWsmrBmF1q18Gi5uaokNeC6-M0VbSf0T5X3KMQH7QGMhC7mz4XB6TUJuE7P9tjknMAqaGQ-Iz_7UuQ-NdKKXJTgqLhHMipRcd57VUOpwfJ2xxO8Hq_PX8hotdp_KZddNDzfQFw3bLHbYYLasThNbqGlidzhZ485ApBIKh2KUgn4g6PeBbhMwhc0T/s1600/ms-connect.jpg"
-    },
-    {
-      "title": "ConnectWise suspende backup na nuvem depois que invasores comprometem locatários do Microsoft 365 - The Hacker News",
-      "summary": "ConnectWise suspende backup na nuvem depois que invasores comprometem locatários do Microsoft 365 The Hacker News",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPamJycFRPeUdfNnlxcWtWXzB2RXZVNFVfTFRCLUs3ZWJxdVplX3J1LUJwbEpZT3dDWHA4bWljVEVqbTJtV3RfNjhjem1PTTBzRXprVmJYbEttTGdvVXFfRExZUTFiYTRmMEw3dnJHaElTeUsxcjR5bl9XWXNxRkFoSk9rcWw?oc=5",
-      "published": "2026-10-18T08:23:00+00:00",
-      "image": ""
+      "url": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
+      "published": "2026-10-19T13:05:45+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtAKfaW5dHhlv9lpzzAju1Cm_EjO4wOkhGQEMspSKCVFUCA_eaanAXGHkb-Dv3c9zSXWHW45I50Fp_bqX6ydaNlPWixkd39bl4IOeYv8xQ0oviE4d6SZcQmQ27ztf-tVV7BozEDeFYi2Fde0LpJAJ9gTHUGSOvc46MtgawesAd5-wljApeBpLyUYnczZnR/s1600/git-font.jpg"
     }
   ]
 }
