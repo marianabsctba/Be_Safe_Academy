@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-20T19:23:40.352291+00:00",
+  "updated_at": "2026-10-20T23:59:01.094413+00:00",
   "items": [
+    {
+      "title": "PHP alerta administradores sobre duas falhas críticas, patches de emergência chegando amanhã",
+      "summary": "A equipe de segurança do PHP está alertando os administradores para se prepararem para atualizações de segurança de emergência amanhã para resolver duas vulnerabilidades críticas, já que informações sobre as falhas vazaram antes de sua divulgação programada. [",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
+      "published": "2026-10-20T20:56:43+00:00",
+      "image": ""
+    },
+    {
+      "title": "Zeabur fechando após segunda violação de segurança em dois meses",
+      "summary": "A plataforma de desenvolvimento Zeabur divulgou detalhes de um incidente de segurança cibernética em que um invasor usou credenciais internas vazadas armazenadas em texto simples para comprometer sua infraestrutura e roubar mais de 3,2 milhões de registros e i",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
+      "published": "2026-10-20T19:33:02+00:00",
+      "image": ""
+    },
+    {
+      "title": "Ex-engenheiro da OpenAI detido após plantar gravador secreto na sede",
+      "summary": "O criminoso, que tem ligações com a Arábia Saudita, foi preso por supostamente grampear uma sala de conferências da OpenAI, destacando um vetor de ameaça interna evitável.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties",
+      "published": "2026-10-20T19:16:49+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4490aa31390e262f/6ad7b11151d60c256274529b/REC_recording-Tomasz_%C5%9Amigla-GettyImages-1338436529.jpg?width=720&quality=80&disable=upscale"
+    },
     {
       "title": "Agências dos EUA detalham práticas de resposta a incidentes para agentes de IA desonestos",
       "summary": "NIST, CISA e NSA compartilham dez práticas voluntárias para preparar, detectar, responder, recuperar e relatar incidentes com agentes de IA desonestos. A postagem Agências dos EUA detalham práticas de resposta a incidentes para agentes de IA desonestos aparece",
@@ -18,6 +45,15 @@
       "url": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
       "published": "2026-10-20T15:38:52+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3BuJLxcpzxzxwpUcwsPb7L-gNCeXeyuPtNysOMHtf06VmANCx2DR3O52Puw9AQwUu0C8ccQ77MF_l0bAf4zL-hrvYO8jSHs6Km0Xz6-Q4yYm1thRvJ-y59qLRX9Qni0zD161qJ53oCgzEIo3NjOLKtgOrIAbOMsAhITOhL9qoy2v9D6tRU26m0fBoMDhJ/s1600/fort-poc.jpg"
+    },
+    {
+      "title": "Falha crítica do FortiSIEM obtém PoC de exploração pública para execução remota de código não autenticado - The Hacker News",
+      "summary": "Falha crítica do FortiSIEM obtém PoC de exploração pública para execução remota de código não autenticado The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RX2pkMC00UUtyd1NpTC1rUHR1RVdVbnUyTmVXMWg0THB4MmlrdXRpeDR2bG5vN0tXcWJ3Z09qeFR4NEQ0amtnalBRdGVsakZzemRjVWFqdkhUNHg4S3BWRzJ4RnJqRGtKNUtpUVh2Nk5LbWdnOEtMQW9ucmQzM1E?oc=5",
+      "published": "2026-10-20T15:38:00+00:00",
+      "image": ""
     },
     {
       "title": "Elimine lacunas de identidade no desenvolvimento de software antes de lançar a IA",
@@ -38,7 +74,7 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd71tvun8MRT5muo9ZiruSzkyqhGkeh-_5dP4QardwiC54o4wW3PtC7I1jtP_vVX1rPujN_YdrmILFSZw_Ikl6v8Gn2w75v-90aSHpnngi2WE-Ezv6OAO37YY4pJpNwe_DcGWRMgIOUxAEPyVisI3SxXnV30HejoGfGtlXDfAgGkdqrdFJjAI7x6jjFFj-/s1600/palo-ransomware.jpg"
     },
     {
-      "title": "Grupos Qilin e INC Ransomware exploram falha da Palo Alto Networks para contornar MFA - The Hacker News",
+      "title": "Grupos de ransomware Qilin e INC exploram falha da Palo Alto Networks para contornar MFA - The Hacker News",
       "summary": "Grupos Qilin e INC Ransomware exploram falha da Palo Alto Networks para contornar MFA The Hacker News",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
@@ -125,42 +161,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
       "published": "2026-10-20T13:18:36+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ahold Delhaize restaura serviços interrompidos por ataque cibernético",
-      "summary": "A empresa restaurou muitos sites e aplicativos na Europa e espera que as marcas de comércio eletrônico nos EUA sejam restauradas em dias. A postagem Ahold Delhaize restaurando serviços interrompidos por ataque cibernético apareceu pela primeira vez na Security",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/",
-      "published": "2026-10-20T13:02:18+00:00",
-      "image": ""
-    },
-    {
-      "title": "Infecção por spyware Pegasus confirmada no iPhone do reitor da Universidade Sérvia, dias antes da eleição",
-      "summary": "O iPhone de Vladan Đokić, reitor da Universidade de Belgrado e um proeminente defensor do movimento de protesto estudantil da Sérvia, foi infectado com o spyware Pegasus do Grupo NSO em 2026, disse o Citizen Lab em 19 de outubro. A infecção usou uma exploração",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
-      "published": "2026-10-20T12:59:44+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_cQrX8zsqCvWd9Pl1mfmh8oQBwRAG_IcrKQB-EpiVEn2GXf5UJBh0UrLXCKzAmJo2Z-Di9G7-16n5hV-gmtfMi-JtB9sOd9neC-b1-6CpErVOYE7CUjBmZhunV45nzsFcDr03rK5RA8q7gFZXIuJZ4c6ND0VSQHYuppDkdTqq04MI7nVCz-10-K-xmc0/s1600/iphone-spyware.jpg"
-    },
-    {
-      "title": "AI Platform Cairn abusada para hackear mais de 100 organizações",
-      "summary": "Pelo menos três atores de ameaças têm abusado de Cairn para acesso persistente e roubo financeiro. A postagem AI Platform Cairn foi abusada para hackear mais de 100 organizações apareceu pela primeira vez na SecurityWeek.",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/",
-      "published": "2026-10-20T12:47:22+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ex-funcionário da OpenAI acusado de escutar sala de conferências planejada para voar para a Arábia Saudita, dizem os promotores",
-      "summary": "A esposa e o filho de Abdulrahman Alfozan também deixaram o país um dia após a prisão do cidadão saudita de 35 anos. A postagem Ex-trabalhador da OpenAI acusado de escutar sala de conferência planejada para voar para a Arábia Saudita, dizem os promotores apare",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/",
-      "published": "2026-10-20T12:33:12+00:00",
       "image": ""
     }
   ]
