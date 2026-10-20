@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-20T00:27:37.545181+00:00",
+  "updated_at": "2026-10-20T08:42:34.472231+00:00",
   "items": [
+    {
+      "title": "Atacantes ClickFix exploram falha do Siemens Software Center para implantar Trojan de acesso remoto",
+      "summary": "A Siemens abordou uma vulnerabilidade de carregamento lateral de DLL que afetava o Siemens Software Center e que, segundo ela, foi explorada em ataques ClickFix. A vulnerabilidade de alta gravidade, rastreada como CVE-2026-110936 (pontuação CVSS v4: 8.4), pode",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
+      "published": "2026-10-20T07:11:45+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUJqb8f_ibR_O_dPoJqAVHZOVmgi23TsxhFzv19_3uzAbEqH6L6QMJUWdelmEKmDe6U9wj6KKyDpPKi_1a93IK1KJa-Ql0kFRtfqVe9sKQpVFj0dA65dCfRKCN7H0LQYgMdzqdJoLgSb6rRFBA4bfmf4oUqItqe6pVCsyxmEzCnHx02h_m1WsK6sJu7jy2/s1600/siemens.jpg"
+    },
+    {
+      "title": "Hackers usam a nova plataforma ROMULUS ClickFix para entregar LegionLoader e outros malwares",
+      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma plataforma de entrega ClickFix chamada ROMULUS que está sendo usada para distribuir malware como o Legion Loader. De acordo com Forescout Research - Vedere Labs, ROMULUS é semelhante a um serviç",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
+      "published": "2026-10-20T04:05:58+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8zydF3pRz3L86iRbEdX23esEuSWg0nt4Zq-6jV1oJy7HCuQ0oxZThFma1tspyuxRo0VG0kkCA_GZNobZkykxlZIKUb22Iq7DSwRepN3yIEk5Lfn7EeYUX52_Gkbz0GmerEPMuRP2EZTGegoGZd-p_8zvZKen5n8IZ9bm3_533b1aMXzdRKCNICkYzYJ7z/s1600/romulus.jpg"
+    },
     {
       "title": "Nikkei divulga terceira violação de dados em um mês, 1,8 milhão de registros expostos",
       "summary": "A Nikkei Inc. divulgou uma nova violação de dados, a terceira em cerca de um mês, que expôs 1,83 milhão de registros de informações pessoais. [...]",
@@ -61,6 +79,15 @@
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/",
+      "published": "2026-10-19T18:15:39+00:00",
+      "image": ""
+    },
+    {
+      "title": "Vulnerabilidade do Siemens Software Center explorada em ataques de malware ClickFix - SecurityWeek",
+      "summary": "Vulnerabilidade do Siemens Software Center explorada em ataques de malware ClickFix SecurityWeek",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdmhTa3VHTk1RM21mdzVWVjFTUU13R2lMTUVnYl9ldWNrVVlQTVl0UmR2X3Rtcmxpc2VrYzZlaGt0S0FoNDUtTTJSY1dXYXZDNGlnYlJwZmI2SURnOUZqS3hqalBMNkFEeGJvcHE1azdnbXpWTHdxZVo5LV93V2k0Q0lyaEt1WVVWbkNhNUthRkpMLVgtUnFWM1hKUlRmeHZnc0Q2UWZDdXbSAa4BQVVfeXFMTU1kemtCY0drQUdfeDZVdGdoZm5uOVZHNTRPWUhIM0lBVmJNZTBPQ3RKYUZTb3RSZzlnelU4NW5kb1RuWUYyWWNnOE5QM0JuQWtTbFV6a3lEa21abDAycVo2eTlzNDNDa1RfeFBxajB2Q29Wc2xKQ18xRjdNeTJaY084NzZJMWFVa01FbDZIVmNIaVFmMU9YZ2J0Y3FKWkUxVm5LQVNqSDcycWdPdTNn?oc=5",
       "published": "2026-10-19T18:15:39+00:00",
       "image": ""
     },
@@ -134,33 +161,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
       "published": "2026-10-19T14:00:10+00:00",
-      "image": ""
-    },
-    {
-      "title": "O léxico em evolução da segurança cibernética: descoberta de vulnerabilidades para resiliência",
-      "summary": "O foco de todo o setor nas vulnerabilidades deixou as equipes de segurança cibernética sem espaço suficiente para traçar estratégias de resiliência.",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience",
-      "published": "2026-10-19T14:00:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt65c173c2226bc353/6ad26aaeed74a561440a7b76/dictionary-boonchai_wedmakawand-Getty-1321495582.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "F5 lança patches fora de banda para vulnerabilidades críticas do NGINX",
-      "summary": "A F5 lançou patches de segurança fora de banda para solucionar várias falhas do servidor web NGINX, incluindo três vulnerabilidades de gravidade crítica que podem permitir que invasores executem código em sistemas vulneráveis. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-      "published": "2026-10-19T13:49:24+00:00",
-      "image": ""
-    },
-    {
-      "title": "Federais suspeitam que negociador de resgate administrou site de extorsão ShinyHunters",
-      "summary": "Investigadores federais dos EUA que perseguem o grupo de hackers ShinyHunters, que recentemente roubou dados altamente confidenciais do FBI, identificaram executivos de duas empresas diferentes de negociação de ransomware que mantiveram relações excepcionalmen",
-      "category": "AMEAÇAS",
-      "source": "KrebsOnSecurity",
-      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-      "published": "2026-10-19T13:48:56+00:00",
       "image": ""
     }
   ]
