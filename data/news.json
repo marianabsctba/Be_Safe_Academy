@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-10-20T14:23:54.158671+00:00",
+  "updated_at": "2026-10-20T19:23:40.352291+00:00",
   "items": [
+    {
+      "title": "Agências dos EUA detalham práticas de resposta a incidentes para agentes de IA desonestos",
+      "summary": "NIST, CISA e NSA compartilham dez práticas voluntárias para preparar, detectar, responder, recuperar e relatar incidentes com agentes de IA desonestos. A postagem Agências dos EUA detalham práticas de resposta a incidentes para agentes de IA desonestos aparece",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/",
+      "published": "2026-10-20T15:45:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falha crítica do FortiSIEM obtém PoC de exploração pública para execução remota de código não autenticado",
+      "summary": "Pesquisadores de segurança cibernética lançaram uma exploração de prova de conceito (PoC) para uma falha crítica de segurança recentemente corrigida que afeta o Fortinet FortiSIEM e que pode resultar na execução arbitrária de código. A vulnerabilidade, rastrea",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
+      "published": "2026-10-20T15:38:52+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3BuJLxcpzxzxwpUcwsPb7L-gNCeXeyuPtNysOMHtf06VmANCx2DR3O52Puw9AQwUu0C8ccQ77MF_l0bAf4zL-hrvYO8jSHs6Km0Xz6-Q4yYm1thRvJ-y59qLRX9Qni0zD161qJ53oCgzEIo3NjOLKtgOrIAbOMsAhITOhL9qoy2v9D6tRU26m0fBoMDhJ/s1600/fort-poc.jpg"
+    },
+    {
+      "title": "Elimine lacunas de identidade no desenvolvimento de software antes de lançar a IA",
+      "summary": "A Inteligência Artificial está complicando a segurança no ciclo de vida de desenvolvimento de software, mas uma mesa redonda da Dark Reading encontrou colaboração, melhor visibilidade da identidade e custos reduzidos de testes oferecem aos CISOs um caminho a s",
+      "category": "CLOUD & IA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai",
+      "published": "2026-10-20T15:35:45+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt44a0332eb39140fa/679be79d9bc2cd9f0b986638/TippaPatt-software-developer-shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Grupos Qilin e INC Ransomware exploram falha da Palo Alto Networks para contornar MFA",
+      "summary": "A Palo Alto Networks divulgou que continua observando a exploração de uma falha de segurança agora corrigida que afeta o PAN-OS e o Prisma Access por agentes de ransomware. A atividade está relacionada ao CVE-2026-0257 (pontuação CVSS: 7,8), uma falha de desvi",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+      "published": "2026-10-20T15:32:27+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd71tvun8MRT5muo9ZiruSzkyqhGkeh-_5dP4QardwiC54o4wW3PtC7I1jtP_vVX1rPujN_YdrmILFSZw_Ikl6v8Gn2w75v-90aSHpnngi2WE-Ezv6OAO37YY4pJpNwe_DcGWRMgIOUxAEPyVisI3SxXnV30HejoGfGtlXDfAgGkdqrdFJjAI7x6jjFFj-/s1600/palo-ransomware.jpg"
+    },
+    {
+      "title": "Grupos Qilin e INC Ransomware exploram falha da Palo Alto Networks para contornar MFA - The Hacker News",
+      "summary": "Grupos Qilin e INC Ransomware exploram falha da Palo Alto Networks para contornar MFA The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPam9xTThueWJIQ0xWWjE1VEM0dC1IOHVYelF1SGI1d2FmdUxKUWpTNzFXRUtEdDNtLWJjNVpnWXNUYnVMMlctdFR0T0pPN1VUUVBDdFkyNjNhLS1NOC1rVmd2SlpJODhoQjRKMjU5R014NUFMNmVqZ0MyNTNhLU1iUDBaQXg?oc=5",
+      "published": "2026-10-20T15:32:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Há tanto código: o aumento nos números de vulnerabilidade",
+      "summary": "O lançamento do Microsoft Patch Tuesday de setembro incluiu 975 avisos de vulnerabilidade. Este mês, 1.415 vulnerabilidades foram eliminadas. Comparado com uma média anterior a junho de 100 por mês, esse aumento é impressionante. De onde eles vieram? E como se",
+      "category": "VULNERABILIDADES",
+      "source": "Cisco Talos",
+      "url": "https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/",
+      "published": "2026-10-20T15:31:22+00:00",
+      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/on_the_radar.jpg"
+    },
+    {
+      "title": "Hackers abusam da ferramenta AI Pen-Test Cairn para automatizar uma série de ataques massivos",
+      "summary": "Um invasor que fala chinês comprometeu centenas de sites em todo o mundo, saqueando peixes grandes como John Deere, SharkNinja e o fabricante de motores Cummins.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn",
+      "published": "2026-10-20T14:36:05+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcbe1b408854966e2/6ad73d5767600f57689ea49a/AI_agent_concept_Brain_light_Alamy.png?width=720&quality=80&disable=upscale"
+    },
     {
       "title": "DHS proíbe produtos DeepSeek em agências civis federais dos EUA",
       "summary": "O Departamento de Segurança Interna (DHS) dos EUA está ordenando que as agências civis federais parem de usar produtos DeepSeek e os removam dos sistemas governamentais. [...]",
@@ -8,6 +71,24 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
       "published": "2026-10-20T14:19:05+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers usam agentes autônomos de IA para invadir sites de empresas e atingir mais de 1.200 sites",
+      "summary": "Um criminoso que fala chinês apontou agentes autônomos de IA para sites de empresas e os deixou invadir quase sem ajuda, e um pesquisador de segurança observou isso acontecer porque as operadoras deixaram seus painéis de controle abertos na internet. Os agente",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
+      "published": "2026-10-20T14:07:17+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYic0qXjDFjrKdw3Ed58Uv28Xt2G7GTuEZhXrAiV07Xnn_I9DPNeQuntZ-TNMi_4i0JdPOyLj4geWCj8K_Zv2OBO4qaujmlDFzBDljcRvvbDx-3r1hSDDaDN-mI3u61F2gJW6zhShFGLZBKrLM0k0Y9yl5-VOVXFHiJaEg3V65-yfT1yXWc5FSfaYLCKg/s1600/bot-attack.jpg"
+    },
+    {
+      "title": "Hackers usam agentes autônomos de IA para invadir sites de empresas e atingir mais de 1.200 sites - The Hacker News",
+      "summary": "Hackers usam agentes autônomos de IA para invadir sites de empresas e atingir mais de 1.200 sites The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xVTRxMVZMZEJqTU1JbTA2dUx4RjhlYm10dFlFaEZWcV9NMHlIZUU4X0cyZzh5dW5fUi1ILTBIdXVOWG1YWS1jWXk3eXBvTXlpbkV2MmRVal9WOUpGallQOWYzUURvMU1GWjRycFpuTWRTTTYwckFONWJzV3BxeWc?oc=5",
+      "published": "2026-10-20T14:07:00+00:00",
       "image": ""
     },
     {
@@ -56,7 +137,7 @@
       "image": ""
     },
     {
-      "title": "Infecção por spyware Pegasus confirmada no iPhone do reitor da universidade sérvia dias antes da eleição",
+      "title": "Infecção por spyware Pegasus confirmada no iPhone do reitor da Universidade Sérvia, dias antes da eleição",
       "summary": "O iPhone de Vladan Đokić, reitor da Universidade de Belgrado e um proeminente defensor do movimento de protesto estudantil da Sérvia, foi infectado com o spyware Pegasus do Grupo NSO em 2026, disse o Citizen Lab em 19 de outubro. A infecção usou uma exploração",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
@@ -66,7 +147,7 @@
     },
     {
       "title": "AI Platform Cairn abusada para hackear mais de 100 organizações",
-      "summary": "Pelo menos três atores de ameaças têm abusado de Cairn para acesso persistente e roubo financeiro. A postagem AI Platform Cairn é abusada para hackear mais de 100 organizações apareceu pela primeira vez na SecurityWeek.",
+      "summary": "Pelo menos três atores de ameaças têm abusado de Cairn para acesso persistente e roubo financeiro. A postagem AI Platform Cairn foi abusada para hackear mais de 100 organizações apareceu pela primeira vez na SecurityWeek.",
       "category": "AMEAÇAS",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/",
@@ -81,87 +162,6 @@
       "url": "https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/",
       "published": "2026-10-20T12:33:12+00:00",
       "image": ""
-    },
-    {
-      "title": "Windows Server 2025 obtém suporte para recuperação rápida de máquinas",
-      "summary": "A Microsoft anunciou que os administradores de TI agora podem usar a recuperação rápida de máquina no Windows Server 2025 após instalar a atualização de segurança de outubro de 2026. [...]",
-      "category": "DEFESA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
-      "published": "2026-10-20T12:16:32+00:00",
-      "image": ""
-    },
-    {
-      "title": "O WhatsApp ocultou instruções nas páginas de ajuda dizendo ao seu AI Chatbot para não recomendar reguladores de privacidade",
-      "summary": "As páginas de ajuda do WhatsApp traziam instruções ocultas para seu chatbot de suporte, que lhe diziam para não recomendar uma autoridade ou regulador de proteção de dados para usuários que não pudessem mais excluir suas contas, embora a própria política de pr",
-      "category": "CLOUD & IA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
-      "published": "2026-10-20T11:41:06+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTtrA7WSHbxSgTUKrOz8Swz6vdK1sarnVj8fCSEjFPdIMyLbOCOIytF60D82szAQpXLHR0mXI3j4zcIobCRS2g8ZI6GkbuLTHkoM4OmkUAWD0P1D1KyYuYrSxWvbq7Yy6zJ-B03VGWxy49q1BUF4owk5gUAVBBd6g2v7xl28TT_ax7Il5ixELfwcBawpA/s1600/whatsapp-chatbot.jpg"
-    },
-    {
-      "title": "O que as equipes de segurança podem fazer para domar o código selvagem",
-      "summary": "Um gerente de vendas cria um fluxo de trabalho assistido por IA para encaminhar leads. Ele se conecta aos registros dos clientes, resume as solicitações recebidas e publica atualizações em um canal compartilhado. O fluxo de trabalho economiza tempo, reduz o tr",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
-      "published": "2026-10-20T11:33:04+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7Q3156iY5WJRnphGSZ5PuIiMopF0sG7ku3FR-WROda9fE4jCSIOQpClG1HOBRCvbuqDyLHgsC0N3UFjowgnXzZN4T1mDpkQbTz2gX7z4NRZsfoEpimVlZ7hevcXmeTfpOt1iFrHqvLXubegNIRz15gjlQNHIBBYzQVAmy8MNAGiZs6OXIEuWNntLwTlI/s1600/tines-main.jpg"
-    },
-    {
-      "title": "Go emite atualização de emergência bloqueando oito chaves CA devido a questões de segurança não reveladas",
-      "summary": "Go 1.27.3 e Go 1.26.10, lançados em 20 de outubro, fazem com que o verificador de certificados do Go rejeite qualquer cadeia de certificados que passe por uma das oito chaves intermediárias de autoridade de certificação. Os programas desenvolvidos com base na ",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
-      "published": "2026-10-20T11:32:59+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh12Jum-ReZMOyqaMubiLlMwx4-uDVxEJkD6-CJabWhHfCKV-Csw7P4MoeRX85Ag-3rxZMftHE6KGcdh059DoOPvF1Mirv05BQsflmg8RroWBt_t00BGTHsdhqkmVWVuRHKAs56AhNfdsq_YH0QWrMJ1z4dFT3I3xOK7Dwqu7aPp_P7tFSxQ-bzqyz8e4/s1600/go-certs.jpg"
-    },
-    {
-      "title": "OVHcloud CLI lança backdoor no GitHub para roubar segredos dos desenvolvedores",
-      "summary": "O provedor francês de nuvem e hospedagem OVHcloud está alertando os usuários que invasores comprometeram sua ferramenta de interface de linha de comando (CLI) de código aberto para distribuir malware que rouba informações. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
-      "published": "2026-10-20T11:31:22+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft visa agentes de IA desonestos com permissões dinâmicas e pontuação de risco",
-      "summary": "A Microsoft diz que as empresas devem tratar os agentes de IA como internos e está adicionando controles que concedem acesso por tarefa e o restringem à medida que o risco do agente aumenta. A postagem Microsoft visa agentes de IA desonestos com permissões din",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/microsoft-targets-rogue-ai-agents-with-dynamic-permissions-risk-scoring/",
-      "published": "2026-10-20T11:30:18+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ahold Delhaize: Ataque cibernético afeta serviços nos EUA e na Europa",
-      "summary": "Ahold Delhaize, uma das maiores cadeias de retalho alimentar do mundo, confirmou que o ataque cibernético da semana passada interrompeu os serviços em lojas na Europa e nos Estados Unidos. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
-      "published": "2026-10-20T11:18:35+00:00",
-      "image": ""
-    },
-    {
-      "title": "APT28 russo viola construtor naval da OTAN em país da OTAN e implanta novo carregador reflexivo",
-      "summary": "O ator de ameaça patrocinado pelo Estado ligado à Rússia e rastreado como APT28 (também conhecido como BlueDelta, Fancy Bear e Forest Blizzard) foi atribuído a ataques contra dois estados membros da Organização do Tratado do Atlântico Norte (OTAN). A equipe Sy",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
-      "published": "2026-10-20T11:06:25+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNLZ-1vEmoCyztDVMziqJlhZPTZfW4mOe-qDn6OxDQ-K2LVZTvqhoOe3MIip5bDJfiJd7e3HLcq4S-0xb2SlfWbEqp4vlvbOnQDSP5edsQIxHFtYSCt1qM7XZksq0NPZ9AGesx0YzqHsTeWUuPUTysC5dbuDOvKIjQW0DJvkg1UG9KLH2Doglq7WtgyiRM/s1600/russia-nato.jpg"
-    },
-    {
-      "title": "ConnectWise redefine credenciais enquanto o backup na nuvem permanece off-line após incidente de segurança",
-      "summary": "ConnectWise disse na segunda-feira que tomou medidas de remediação, incluindo o fortalecimento das proteções de acesso administrativo e a redefinição de contas e a substituição de credenciais de aplicativos, à medida que continua a responder a um incidente de ",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
-      "published": "2026-10-20T10:56:08+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgN8mboHojdAmthr-jUWvIgg5BgmRsrAFJRQFz-nEuPEAIGTqwVKwnf9c7E8jGzdpHfWZuDENURbDFFADIJ76Tf7h5lamLTOUoY5ui438ugfOJYw-2vkAuITMBMxt-0CWFxj43bdgDY19exYceRvJEScmPpWoYXBjkIHLOilUSF1wWmSta5o9ocPpLywQn/s1600/connect.jpg"
     }
   ]
 }
