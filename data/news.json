@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-19T20:39:17.712266+00:00",
+  "updated_at": "2026-10-20T00:27:37.545181+00:00",
   "items": [
+    {
+      "title": "Nikkei divulga terceira violação de dados em um mês, 1,8 milhão de registros expostos",
+      "summary": "A Nikkei Inc. divulgou uma nova violação de dados, a terceira em cerca de um mês, que expôs 1,83 milhão de registros de informações pessoais. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
+      "published": "2026-10-19T21:49:48+00:00",
+      "image": ""
+    },
+    {
+      "title": "Plugin SEO para WordPress Rank Math comprometido em sites backdoor",
+      "summary": "Alguns downloads do plugin Rank Math PRO WordPress do site oficial do fornecedor continham malware que plantou backdoors ocultos em um ataque à cadeia de suprimentos na semana passada. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
+      "published": "2026-10-19T21:24:51+00:00",
+      "image": ""
+    },
     {
       "title": "'AdFection' transforma impressões de anúncios em entrega de spyware com clique zero",
       "summary": "Os fornecedores de spyware estão explorando anúncios direcionados no ecossistema digital para identificar e rastrear indivíduos e organizações de interesse.",
@@ -18,6 +36,15 @@
       "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
       "published": "2026-10-19T19:40:58+00:00",
       "image": ""
+    },
+    {
+      "title": "ConnectWise desativa backups em nuvem em meio a preocupações com MSPs downstream",
+      "summary": "Os pesquisadores dizem que os invasores se autenticaram em locatários do Microsoft 365 usando credenciais do ConnectWise; ConnectWise afirma que o impacto no cliente ainda não foi confirmado.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps",
+      "published": "2026-10-19T19:19:33+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bed2421e7501183/6ad6650c7e69bd1337538960/Cloud_Backup-TU_IS-GettyImages-1399936043_(1).jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Bullhorn coloca a plataforma de pessoal off-line para conter ataques cibernéticos",
@@ -63,15 +90,6 @@
       "url": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
       "published": "2026-10-19T16:28:47+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja-6AhEjL8YvRsoNjXIIDEnsVd8gMMW_cUqMvLNcRukJXjatSuo-phLfYxt2A76gSCk-uZFmo4EbJjQuMr8_k8Pxl2ho1TnUL_50Q_VknkR8JqnTiVOqZ48i5W6Mv6HB0cQfJoAjs8xHUu6urkucsPClURVP3aWM0aivfngCFZLykMYzJITwenYfSb9Sk/s1600/wordpress-rank.jpg"
-    },
-    {
-      "title": "Popular WordPress SEO Plugin Rank Math PRO sequestrado para fornecer backdoor auto-restaurável - The Hacker News",
-      "summary": "Popular WordPress SEO Plugin Rank Math PRO sequestrado para fornecer backdoor auto-restaurável The Hacker News",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQblZvT0VOSTFIaEc3ZnpVZW1lWnZxMEc1dDhMaERsVTFLb3k0cDJ6d0w1UWE4bEtyWWZJdHRlLVFuX1ZWZDNzZkZwenhBb3FFRDd5WTV2MzhXSkIwbjNRZF9nYVFSbzk2Nk1nMVJFaHFkRWhhYzFhVHlLalNFdU9kdENNSQ?oc=5",
-      "published": "2026-10-19T16:28:00+00:00",
-      "image": ""
     },
     {
       "title": "Drupal alerta sobre risco de exploração rápida para falha crítica do RCE",
@@ -137,31 +155,13 @@
       "image": ""
     },
     {
-      "title": "Negociador de resgate suspeito de federais administrou site de extorsão ShinyHunters",
+      "title": "Federais suspeitam que negociador de resgate administrou site de extorsão ShinyHunters",
       "summary": "Investigadores federais dos EUA que perseguem o grupo de hackers ShinyHunters, que recentemente roubou dados altamente confidenciais do FBI, identificaram executivos de duas empresas diferentes de negociação de ransomware que mantiveram relações excepcionalmen",
       "category": "AMEAÇAS",
       "source": "KrebsOnSecurity",
       "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
       "published": "2026-10-19T13:48:56+00:00",
       "image": ""
-    },
-    {
-      "title": "ConnectWise suspende serviços em nuvem em resposta a ataque cibernético",
-      "summary": "Os serviços permanecem indisponíveis enquanto a empresa continua a correção e validação de segurança. A postagem ConnectWise suspende serviços em nuvem em resposta a um ataque cibernético apareceu pela primeira vez na SecurityWeek.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/connectwise-suspends-cloud-services-in-response-to-cyberattack/",
-      "published": "2026-10-19T13:16:20+00:00",
-      "image": ""
-    },
-    {
-      "title": "GhostAction Attackers planta ladrão de credenciais disfarçado de fonte em 94 repositórios GitHub",
-      "summary": "O ator de ameaça por trás do ataque à cadeia de suprimentos GhostAction expandiu-se além da injeção de fluxos de trabalho maliciosos do GitHub Actions em projetos comprometidos para fazer phishing em desenvolvedores de código aberto e entregar um malware ladrã",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
-      "published": "2026-10-19T13:05:45+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtAKfaW5dHhlv9lpzzAju1Cm_EjO4wOkhGQEMspSKCVFUCA_eaanAXGHkb-Dv3c9zSXWHW45I50Fp_bqX6ydaNlPWixkd39bl4IOeYv8xQ0oviE4d6SZcQmQ27ztf-tVV7BozEDeFYi2Fde0LpJAJ9gTHUGSOvc46MtgawesAd5-wljApeBpLyUYnczZnR/s1600/git-font.jpg"
     }
   ]
 }
