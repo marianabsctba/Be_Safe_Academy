@@ -1,166 +1,166 @@
 {
-  "updated_at": "2026-10-21T05:01:09.479008+00:00",
+  "updated_at": "2026-10-21T12:02:34.028132+00:00",
   "items": [
     {
-      "title": "Accenture, Dragos e SANS lançam iniciativa de US$ 10 milhões para defender pequenas empresas de serviços públicos dos EUA",
-      "summary": "A primeira fase cobrirá até 500 concessionárias, que receberão ferramentas de segurança, equipamentos, ajuda de implantação e treinamento gratuitos. A postagem Accenture, Dragos e SANS lançam iniciativa de US$ 10 milhões para defender pequenas empresas de serv",
+      "title": "Navegadores bloqueiam CAs intermediárias do eMudhra sobre chaves privadas recuperáveis",
+      "summary": "As chaves privadas associadas a oito certificados foram comprometidas e programas raiz e armazenamentos confiáveis ​​estão bloqueando-as. A postagem Navegadores bloqueiam CAs intermediárias do eMudhra sobre chaves privadas recuperáveis ​​apareceu pela primeira",
       "category": "DEFESA",
       "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities/",
-      "published": "2026-10-21T04:22:11+00:00",
+      "url": "https://www.securityweek.com/browsers-block-emudhra-intermediate-cas-over-recoverable-private-keys/",
+      "published": "2026-10-21T11:22:05+00:00",
       "image": ""
     },
     {
-      "title": "Chaves UpdraftCentral roubadas usadas para backdoor de sites WordPress",
-      "summary": "Um agente de ameaça violou o site da TeamUpdraft, desenvolvedora de plug-ins populares de backup e segurança para WordPress, comprometendo potencialmente as chaves de conexão do UpdraftCentral que podem enviar comandos para sites conectados. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
-      "published": "2026-10-21T01:01:50+00:00",
-      "image": ""
-    },
-    {
-      "title": "PHP alerta administradores sobre duas falhas críticas, patches de emergência chegando amanhã",
-      "summary": "A equipe de segurança do PHP está alertando os administradores para se prepararem para atualizações de segurança de emergência amanhã para resolver duas vulnerabilidades críticas, já que informações sobre as falhas vazaram antes de sua divulgação programada. [",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
-      "published": "2026-10-20T20:56:43+00:00",
-      "image": ""
-    },
-    {
-      "title": "Zeabur fechando após segunda violação de segurança em dois meses",
-      "summary": "A plataforma de desenvolvimento Zeabur divulgou detalhes de um incidente de segurança cibernética em que um invasor usou credenciais internas vazadas armazenadas em texto simples para comprometer sua infraestrutura e roubar mais de 3,2 milhões de registros e i",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
-      "published": "2026-10-20T19:33:02+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ex-engenheiro da OpenAI detido após plantar gravador secreto na sede",
-      "summary": "O criminoso, que tem ligações com a Arábia Saudita, foi preso por supostamente grampear uma sala de conferências da OpenAI, destacando um vetor de ameaça interna evitável.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties",
-      "published": "2026-10-20T19:16:49+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4490aa31390e262f/6ad7b11151d60c256274529b/REC_recording-Tomasz_%C5%9Amigla-GettyImages-1338436529.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Agências dos EUA detalham práticas de resposta a incidentes para agentes de IA desonestos",
-      "summary": "NIST, CISA e NSA compartilham dez práticas voluntárias para preparar, detectar, responder, recuperar e relatar incidentes com agentes de IA desonestos. A postagem Agências dos EUA detalham práticas de resposta a incidentes para agentes de IA desonestos aparece",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/us-agencies-detail-incident-response-practices-for-rogue-ai-agents/",
-      "published": "2026-10-20T15:45:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falha crítica do FortiSIEM obtém PoC de exploração pública para execução remota de código não autenticado",
-      "summary": "Pesquisadores de segurança cibernética lançaram uma exploração de prova de conceito (PoC) para uma falha crítica de segurança recentemente corrigida que afeta o Fortinet FortiSIEM e que pode resultar na execução arbitrária de código. A vulnerabilidade, rastrea",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
-      "published": "2026-10-20T15:38:52+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3BuJLxcpzxzxwpUcwsPb7L-gNCeXeyuPtNysOMHtf06VmANCx2DR3O52Puw9AQwUu0C8ccQ77MF_l0bAf4zL-hrvYO8jSHs6Km0Xz6-Q4yYm1thRvJ-y59qLRX9Qni0zD161qJ53oCgzEIo3NjOLKtgOrIAbOMsAhITOhL9qoy2v9D6tRU26m0fBoMDhJ/s1600/fort-poc.jpg"
-    },
-    {
-      "title": "Falha crítica do FortiSIEM obtém PoC de exploração pública para execução remota de código não autenticado - The Hacker News",
-      "summary": "Falha crítica do FortiSIEM obtém PoC de exploração pública para execução remota de código não autenticado The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RX2pkMC00UUtyd1NpTC1rUHR1RVdVbnUyTmVXMWg0THB4MmlrdXRpeDR2bG5vN0tXcWJ3Z09qeFR4NEQ0amtnalBRdGVsakZzemRjVWFqdkhUNHg4S3BWRzJ4RnJqRGtKNUtpUVh2Nk5LbWdnOEtMQW9ucmQzM1E?oc=5",
-      "published": "2026-10-20T15:38:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Elimine lacunas de identidade no desenvolvimento de software antes de lançar a IA",
-      "summary": "A Inteligência Artificial está complicando a segurança no ciclo de vida de desenvolvimento de software, mas uma mesa redonda da Dark Reading encontrou colaboração, melhor visibilidade da identidade e custos reduzidos de testes oferecem aos CISOs um caminho a s",
+      "title": "China defende DeepSeek após proibição dos EUA de sua IA em sistemas governamentais",
+      "summary": "O DHS disse que as agências deveriam remover os produtos DeepSeek, bem como produtos e serviços de terceiros desenvolvidos com DeepSeek de seus sistemas de TI. A postagem China defende DeepSeek após proibição dos EUA de sua IA em sistemas governamentais aparec",
       "category": "CLOUD & IA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai",
-      "published": "2026-10-20T15:35:45+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt44a0332eb39140fa/679be79d9bc2cd9f0b986638/TippaPatt-software-developer-shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Grupos Qilin e INC Ransomware exploram falha da Palo Alto Networks para contornar MFA",
-      "summary": "A Palo Alto Networks divulgou que continua observando a exploração de uma falha de segurança agora corrigida que afeta o PAN-OS e o Prisma Access por agentes de ransomware. A atividade está relacionada ao CVE-2026-0257 (pontuação CVSS: 7,8), uma falha de desvi",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
-      "published": "2026-10-20T15:32:27+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd71tvun8MRT5muo9ZiruSzkyqhGkeh-_5dP4QardwiC54o4wW3PtC7I1jtP_vVX1rPujN_YdrmILFSZw_Ikl6v8Gn2w75v-90aSHpnngi2WE-Ezv6OAO37YY4pJpNwe_DcGWRMgIOUxAEPyVisI3SxXnV30HejoGfGtlXDfAgGkdqrdFJjAI7x6jjFFj-/s1600/palo-ransomware.jpg"
-    },
-    {
-      "title": "Grupos Qilin e INC Ransomware exploram falha da Palo Alto Networks para contornar MFA - The Hacker News",
-      "summary": "Grupos Qilin e INC Ransomware exploram falha da Palo Alto Networks para contornar MFA The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPam9xTThueWJIQ0xWWjE1VEM0dC1IOHVYelF1SGI1d2FmdUxKUWpTNzFXRUtEdDNtLWJjNVpnWXNUYnVMMlctdFR0T0pPN1VUUVBDdFkyNjNhLS1NOC1rVmd2SlpJODhoQjRKMjU5R014NUFMNmVqZ0MyNTNhLU1iUDBaQXg?oc=5",
-      "published": "2026-10-20T15:32:00+00:00",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/",
+      "published": "2026-10-21T10:54:49+00:00",
       "image": ""
     },
     {
-      "title": "Há tanto código: o aumento nos números de vulnerabilidade",
-      "summary": "O lançamento do Microsoft Patch Tuesday de setembro incluiu 975 avisos de vulnerabilidade. Este mês, 1.415 vulnerabilidades foram eliminadas. Comparado com uma média anterior a junho de 100 por mês, esse aumento é impressionante. De onde eles vieram? E como se",
+      "title": "PHP2Shell: O que realmente protege você antes do patch PHP RCE das 14:00 UTC e o que não protege",
+      "summary": "Você não pode bloquear totalmente as duas falhas críticas do PHP chamadas PHP2Shell antes da correção de hoje, e a única configuração que está sendo repassada como solução alternativa não é suficiente por si só, diz agora a empresa de segurança que a sugeriu. ",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
+      "published": "2026-10-21T10:36:53+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipzsA5sBIvBsTGT1YIrSeK_4YH5ISqTd40ZG1tV8YN1VkjjZuiY6CfQojYR-TIoYKM0EgZM4fYrmdtD25XjeTtgBkTFCQGny4DLL0fTKT5SEFpOFBcxNjLgif_FrX-1d-IX9DE58tQX6ELzGk4cWNpUpU5Eaig8pqdLL2h6qqVCC95ZmHFN6m7tD6m7BY/s1600/php-rce-patch.jpg"
+    },
+    {
+      "title": "PHP2Shell: O que realmente protege você antes do patch PHP RCE das 14:00 UTC e o que não protege - The Hacker News",
+      "summary": "PHP2Shell: O que realmente protege você antes do patch PHP RCE das 14:00 UTC e o que não protege The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNlQ0QWdXUWFKXzBZcEo1Z1cwRW5QOVhYR3M2aEVtOWVkbl9iZnZnME52cS1Ya0JWXzVmM0JhVUFpZmRTQlhER0Uwc1ZTRmJyNmtVeTJ0MjNLM09OekJZYmJma3d3VUVVcEtUREFqYU00UEE2V25PMjA1UUFTaEhPWg?oc=5",
+      "published": "2026-10-21T10:36:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "O chicote é a parte difícil do pentesting agente",
+      "summary": "Uma equipe AppSec pode apontar um agente de IA em execução em um modelo de uso geral para seus próprios aplicativos da web com pouca configuração. Claro, o modelo escreve os ataques. Mas tudo o que torna esses ataques seguros para serem executados contra a pro",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
+      "published": "2026-10-21T10:32:40+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTdLja8gnPl92G1mhffmAZ3Dy5Q8gX9wpjY22n1J2xerzpx0Eab4VMj2fzt3XAe_TjT8hlDkjdzW8DdBwWCvAPa9o5SKnFN4MSo5H0MnXylWX36NwFiwcI19f3MR0QDPT2uKXtXH4RAj5_rU3aBnmAVxsczeL2sfBj7G1r878XbJ6rAyEFgIg0XeuBNKk/s1600/pentera-main.jpg"
+    },
+    {
+      "title": "Atacantes sequestraram mais de 300 relés de saída Tor para interceptar conexões SSH",
+      "summary": "Os invasores assumiram o controle de mais de 300 retransmissores de saída do Tor no início de outubro e os usaram para redirecionar conexões SSH para servidores que roubaram senhas de login, descobriu um pesquisador. Os relés de saída são o último salto em um ",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
+      "published": "2026-10-21T10:30:27+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-PokIxnQKc5RkxwrgRCR7Aaw8sjbkT1F4TQWCIG2V_rhQVKp8CJgtivgF5Zns45rObi0Tf-e9FDBXdX0L7OUshol00GvpiQhAi3SUAa72DV-bjeDu2oNzET9uV_cIQV2U9jSXGC2qiWWOr00M1ZYPAtcaWJNSn2_IH_BwPWVaUEqqjpmUSgfhIvRUdbY/s1600/tor-ssh.jpg"
+    },
+    {
+      "title": "Modelo chinês de IA escreve código mais hackeável quando informado que é para empreiteiro dos EUA",
+      "summary": "Com a tarefa de escrever um pedido para um empreiteiro de defesa dos EUA, o modelo aumentou a probabilidade de o código ser hackeado em 19%. A postagem Modelo de IA chinês escreve código mais hackeável quando informado que é para empreiteiro dos EUA apareceu p",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/chinese-ai-model-writes-more-hackable-code-when-told-its-for-us-contractor/",
+      "published": "2026-10-21T10:03:24+00:00",
+      "image": ""
+    },
+    {
+      "title": "Parasitando a confiança: como a infraestrutura legítima se torna um canal de entrega para invasores",
+      "summary": "Os adversários estão transformando as ferramentas em que as empresas confiam em mecanismos de entrega de atividades maliciosas. A Cisco Talos observou abusos de mais de 25 plataformas legítimas no ano passado, explorando a confiança inerente à colaboração, par",
       "category": "VULNERABILIDADES",
       "source": "Cisco Talos",
-      "url": "https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/",
-      "published": "2026-10-20T15:31:22+00:00",
-      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/on_the_radar.jpg"
+      "url": "https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/",
+      "published": "2026-10-21T10:00:00+00:00",
+      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/parasitizingtrust.jpg"
     },
     {
-      "title": "Hackers abusam da ferramenta AI Pen-Test Cairn para automatizar uma série de ataques massivos",
-      "summary": "Um invasor que fala chinês comprometeu centenas de sites em todo o mundo, saqueando peixes grandes como John Deere, SharkNinja e o fabricante de motores Cummins.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn",
-      "published": "2026-10-20T14:36:05+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcbe1b408854966e2/6ad73d5767600f57689ea49a/AI_agent_concept_Brain_light_Alamy.png?width=720&quality=80&disable=upscale"
+      "title": "PHP2Shell: Duas falhas críticas de PHP RCE não corrigidas (CVSS 9.2) acionam alerta de segurança de emergência",
+      "summary": "Esta história está em desenvolvimento e foi escrita antes do lançamento agendado do PHP para as 14:00 UTC do dia 21 de outubro. Assim que o lançamento for lançado, as versões afetadas e corrigidas abaixo serão confirmadas pelo comunicado oficial. O PHP enviará",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+      "published": "2026-10-21T09:05:17+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcxq1wmaSTaMiFJnrulXjwGrIIkIHBR3Q9Yv6Lky3rAie6XPOnFmXOVckMgVzGn9yvodrbkt6kV623Ofg8Iw-1MTDRoCVzXPiikivnZ5R7OynIF5-QC0DAiwXq8q2MRS3PZaz9NpjhJUqa-QWi1AQJ2XnJ-nvUNEvG3f1E0UpU5slUwzguAI-cESkZ5Xc/s1600/php2shell.jpg"
     },
     {
-      "title": "DHS proíbe produtos DeepSeek em agências civis federais dos EUA",
-      "summary": "O Departamento de Segurança Interna (DHS) dos EUA está ordenando que as agências civis federais parem de usar produtos DeepSeek e os removam dos sistemas governamentais. [...]",
-      "category": "DEFESA",
+      "title": "Atacantes abusam de chaves UpdraftCentral para implantar backdoors em sites WordPress",
+      "summary": "Atores de ameaças desconhecidos violaram o site da TeamUpdraft e potencialmente obtiveram acesso não autorizado às chaves de conexão dos clientes para UpdraftCentral, UpdraftVault e UpdraftClone, usando-as para backdoor de sites WordPress. TeamUpdraft é o dese",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
+      "published": "2026-10-21T09:01:12+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdsSYB_dpfRL3wD0MeCT_VyPyFJS8HjQAW0VuBHSTviFY4WBOQfa8MCP79qyJR3zYyMBesIXiCtL8XwwtjjLGm9Stxdv_qoIkf3_Rpc7YGFwZuzVS974TbuDfF5GkLRJX2DxFaDudlMlXSDyiZ8fvoVGaKaA-tpCr_eAvvEsfQr1uyfdBk-8KyK4aisYgC/s1600/wp-backdoor.jpg"
+    },
+    {
+      "title": "CISA: O ransomware SafePay atingiu mais de 600 organizações de infraestrutura crítica",
+      "summary": "A Agência de Segurança Cibernética e de Infraestrutura (CISA) afirma que a gangue de ransomware SafePay violou mais de 600 organizações de infraestrutura crítica em todo o mundo desde 2024. [...]",
+      "category": "AMEAÇAS",
       "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
-      "published": "2026-10-20T14:19:05+00:00",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
+      "published": "2026-10-21T08:36:24+00:00",
       "image": ""
     },
     {
-      "title": "Hackers usam agentes autônomos de IA para invadir sites de empresas e atingir mais de 1.200 sites",
-      "summary": "Um criminoso que fala chinês apontou agentes autônomos de IA para sites de empresas e os deixou invadir quase sem ajuda, e um pesquisador de segurança observou isso acontecer porque as operadoras deixaram seus painéis de controle abertos na internet. Os agente",
-      "category": "INCIDENTES",
+      "title": "EUA ordenam que DeepSeek seja removido dos sistemas civis federais e proíbe novas compras",
+      "summary": "As agências civis federais dos EUA devem remover os produtos DeepSeek de seus sistemas de tecnologia da informação, juntamente com quaisquer produtos ou serviços de terceiros “desenvolvidos usando implementações DeepSeek”, sob uma ordem do Departamento de Segu",
+      "category": "CLOUD & IA",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
-      "published": "2026-10-20T14:07:17+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYic0qXjDFjrKdw3Ed58Uv28Xt2G7GTuEZhXrAiV07Xnn_I9DPNeQuntZ-TNMi_4i0JdPOyLj4geWCj8K_Zv2OBO4qaujmlDFzBDljcRvvbDx-3r1hSDDaDN-mI3u61F2gJW6zhShFGLZBKrLM0k0Y9yl5-VOVXFHiJaEg3V65-yfT1yXWc5FSfaYLCKg/s1600/bot-attack.jpg"
+      "url": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
+      "published": "2026-10-21T08:04:17+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjAZGBcWVyeZELPmEq7fujTJPeDgQoEZQpt7sD2rB1EO9fXByN2kmezefmvfihwR7fDE-77o-JVKB8bASzvKamkZB9kx9SstR2PA529wjrAWiSr1IBHEfrShRbiOd3PG2OP3iqygUb_ZeXYBSzrTN86MY5pjngL6WsqwoqJYYzUXSSVCJNKihe8F7FKsA/s1600/deepseek-dhs.jpg"
     },
     {
-      "title": "Hackers usam agentes autônomos de IA para invadir sites de empresas e atingir mais de 1.200 sites - The Hacker News",
-      "summary": "Hackers usam agentes autônomos de IA para invadir sites de empresas e atingir mais de 1.200 sites The Hacker News",
-      "category": "INCIDENTES",
+      "title": "CISA ordena que agências federais corrijam falhas exploradas do Plex2Shell, Siemens e SiteGuard",
+      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) adicionou na terça-feira quatro vulnerabilidades ao seu catálogo de Vulnerabilidades Exploradas Conhecidas (KEV), incluindo quatro vulnerabilidades que afetam o Plex Media Server, que é cham",
+      "category": "VULNERABILIDADES",
       "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xVTRxMVZMZEJqTU1JbTA2dUx4RjhlYm10dFlFaEZWcV9NMHlIZUU4X0cyZzh5dW5fUi1ILTBIdXVOWG1YWS1jWXk3eXBvTXlpbkV2MmRVal9WOUpGallQOWYzUURvMU1GWjRycFpuTWRTTTYwckFONWJzV3BxeWc?oc=5",
-      "published": "2026-10-20T14:07:00+00:00",
+      "url": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
+      "published": "2026-10-21T07:26:49+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNWLuogjq0EVRQo6oTMUucF21anDW9Jpvs5w98qm-I6hOqH4fU1ZeHA1DqNilI_drxE548BnZD4vkXfB3KmWXAm4xfU3KU3j38LI-ZXhB03kZy4rWc9qiQqSED6vVjxihA1-uM_46qlXjjDchlvKmtgFG-ym3oosqXFEED6w2mG_Zb-yHjq4IIPcFDeX13/s1600/cisa-patch.jpg"
+    },
+    {
+      "title": "CISA ordena que agências federais corrijam falhas exploradas do Plex2Shell, Siemens e SiteGuard - The Hacker News",
+      "summary": "CISA ordena que agências federais corrijam falhas exploradas do Plex2Shell, Siemens e SiteGuard The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRFpoa1E5YmEwWHdpSWdiWEY2dTc3Smdhd2o4NUJkOUpTUFZrY1pGY1gzcFdOLTZ5dVVKLVZPbUtZOHFsQUp2OGNOdVR5eDdoUHFha196Ti1NdG5kbTlFdVEyeGhjT2VpSF9KUjcxMUhneDladFJnWmEtWkhnVzk1VXZn?oc=5",
+      "published": "2026-10-21T07:26:00+00:00",
       "image": ""
     },
     {
-      "title": "AOMEI Backupper comprometido em campanha de cadeia de suprimentos de curta duração",
-      "summary": "Em várias janelas de comprometimento curto, os usuários receberam um downloader para a estrutura backdoor modular ShinyRoad. A postagem AOMEI Backupper comprometido na campanha da cadeia de suprimentos de curta duração apareceu pela primeira vez na SecurityWee",
-      "category": "DEFESA",
+      "title": "PHP2Shell: Exploração em massa se aproxima de falhas críticas de PHP vazadas",
+      "summary": "Rastreados como CVE-2026-109618 e CVE-2026-109619, os bugs podem levar à execução remota de código não autenticado. A postagem PHP2Shell: exploração em massa se aproxima de falhas críticas de PHP vazadas apareceu pela primeira vez em SecurityWeek.",
+      "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/",
-      "published": "2026-10-20T13:51:01+00:00",
+      "url": "https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/",
+      "published": "2026-10-21T07:02:06+00:00",
       "image": ""
     },
     {
-      "title": "Conformidade com CJIS v6.1: 5 prioridades práticas para agências",
-      "summary": "O CJIS v6.1 exige que as agências mantenham autenticação forte, segurança de conta e controles de auditoria, ao mesmo tempo que demonstram conformidade contínua. Specops descreve cinco prioridades práticas que abrangem MFA, gerenciamento de contas, senhas, reg",
+      "title": "PHP2Shell: Duas falhas críticas de PHP RCE não corrigidas (CVSS 9.2) acionam alerta de segurança de emergência - The Hacker News",
+      "summary": "PHP2Shell: Duas falhas críticas de PHP RCE não corrigidas (CVSS 9.2) acionam alerta de segurança de emergência The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbjN3SkNMZnRrQWkwSmJjQWtoOFJQeHN3VWM0VG84eGJwcERUUFRVelVoU1QxM19FRXdwYmdkVVpmNjJjWkhhQXFkeHh5bmxwSmp3NmRaMjdnNGdwV2hkNDY1TENadEFiSUhESy1ydVItYVl4RUFQdVV2M0R3d0Uycg?oc=5",
+      "published": "2026-10-21T06:59:29+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers esconderam backdoor Vasilek em ferramentas VMware durante invasão russa de saúde de 2 anos",
+      "summary": "Um grupo hacktivista alinhado à Bielorrússia passou quase dois anos na rede de uma organização de saúde russa. De acordo com um relatório publicado pela empresa russa de segurança cibernética Solar, a atividade foi atribuída a um cluster de ameaças denominado ",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
+      "published": "2026-10-21T06:05:15+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwNHgVe_6hmXG-V6Nx8pk56jDEW1WRCKtvvG9RHugoj65LqTTVGLvgl1Eh1E7ClmyMDn9k4RrF7Yp1kteZvZ_r7v9IxQPG_Eif3nk_13gz_MSddPcBtJdLKFwYAPa4BKMN5FdZLvvTIjahr4aTdiiLeQMuVzrj8Ff9wvgmUCW_6_OyfXPSGIEEIxZgdtQ-/s1600/vmware-healthcare.jpg"
+    },
+    {
+      "title": "Hackers esconderam backdoor de Vasilek em ferramentas VMware durante invasão russa de saúde de 2 anos - The Hacker News",
+      "summary": "Hackers esconderam backdoor de Vasilek em ferramentas VMware durante dois anos de invasão russa na área de saúde The Hacker News",
       "category": "DEFESA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
-      "published": "2026-10-20T13:51:00+00:00",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYTZXbl9vMEJ0Q1RZVVI4Yi0tNDJ5REg2dTV6LUdBM1pxNFc5MGdqdFFQQ1I5b0VkX250M0laSmlXSW1MclZ6M2NVeVhVY2dzQjRfMUpwTllZY29tQ1VBa242TVI3NVVlbmFDbF95NGFBZFJULWVrRDRfdFktNVM2dnVzRQ?oc=5",
+      "published": "2026-10-21T06:05:00+00:00",
       "image": ""
     }
   ]
