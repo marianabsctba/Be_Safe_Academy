@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-10-20T23:59:01.094413+00:00",
+  "updated_at": "2026-10-21T05:01:09.479008+00:00",
   "items": [
+    {
+      "title": "Accenture, Dragos e SANS lançam iniciativa de US$ 10 milhões para defender pequenas empresas de serviços públicos dos EUA",
+      "summary": "A primeira fase cobrirá até 500 concessionárias, que receberão ferramentas de segurança, equipamentos, ajuda de implantação e treinamento gratuitos. A postagem Accenture, Dragos e SANS lançam iniciativa de US$ 10 milhões para defender pequenas empresas de serv",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities/",
+      "published": "2026-10-21T04:22:11+00:00",
+      "image": ""
+    },
+    {
+      "title": "Chaves UpdraftCentral roubadas usadas para backdoor de sites WordPress",
+      "summary": "Um agente de ameaça violou o site da TeamUpdraft, desenvolvedora de plug-ins populares de backup e segurança para WordPress, comprometendo potencialmente as chaves de conexão do UpdraftCentral que podem enviar comandos para sites conectados. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+      "published": "2026-10-21T01:01:50+00:00",
+      "image": ""
+    },
     {
       "title": "PHP alerta administradores sobre duas falhas críticas, patches de emergência chegando amanhã",
       "summary": "A equipe de segurança do PHP está alertando os administradores para se prepararem para atualizações de segurança de emergência amanhã para resolver duas vulnerabilidades críticas, já que informações sobre as falhas vazaram antes de sua divulgação programada. [",
@@ -74,7 +92,7 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd71tvun8MRT5muo9ZiruSzkyqhGkeh-_5dP4QardwiC54o4wW3PtC7I1jtP_vVX1rPujN_YdrmILFSZw_Ikl6v8Gn2w75v-90aSHpnngi2WE-Ezv6OAO37YY4pJpNwe_DcGWRMgIOUxAEPyVisI3SxXnV30HejoGfGtlXDfAgGkdqrdFJjAI7x6jjFFj-/s1600/palo-ransomware.jpg"
     },
     {
-      "title": "Grupos de ransomware Qilin e INC exploram falha da Palo Alto Networks para contornar MFA - The Hacker News",
+      "title": "Grupos Qilin e INC Ransomware exploram falha da Palo Alto Networks para contornar MFA - The Hacker News",
       "summary": "Grupos Qilin e INC Ransomware exploram falha da Palo Alto Networks para contornar MFA The Hacker News",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
@@ -143,24 +161,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
       "published": "2026-10-20T13:51:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "A chave para a segurança do software de IA não é a velocidade, é a maturidade",
-      "summary": "A posição de seus desenvolvedores na escala de adoção de IA tem um impacto real em como você está lidando com os riscos de segurança. A postagem A chave para a segurança do software de IA não é a velocidade, é a maturidade apareceu pela primeira vez na Securit",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/",
-      "published": "2026-10-20T13:34:23+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hacker pega 8 anos por roubar US$ 3,3 milhões dos contribuintes",
-      "summary": "Um cidadão nigeriano foi condenado a oito anos de prisão por seu envolvimento em uma série de ataques de spearphishing contra empresas de preparação de impostos dos EUA desde 2019. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
-      "published": "2026-10-20T13:18:36+00:00",
       "image": ""
     }
   ]
