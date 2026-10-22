@@ -1,9 +1,99 @@
 {
-  "updated_at": "2026-10-22T17:19:41.940479+00:00",
+  "updated_at": "2026-10-22T21:45:31.171287+00:00",
   "items": [
     {
-      "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Railway alerta desenvolvedores para alternar segredos após possível violação",
+      "summary": "A plataforma em nuvem Railway publicou um aviso urgente aos usuários após detectar atividades suspeitas em seus sistemas que armazenam variáveis ​​de ambiente do cliente no início desta semana. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+      "published": "2026-10-22T21:25:31+00:00",
+      "image": ""
+    },
+    {
+      "title": "Capcom confirma violação de dados que afeta 11,7 milhões de contas",
+      "summary": "A gigante japonesa de jogos Capcom confirmou que hackers violaram seu serviço de associação, CAPCOM ID, expondo mais de 11,7 milhões de endereços de e-mail de clientes e informações associadas. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+      "published": "2026-10-22T20:22:45+00:00",
+      "image": ""
+    },
+    {
+      "title": "Pipeline de lançamento do LiteLLM hackeado para distribuir malware ladrão de informações",
+      "summary": "Os hackers comprometeram o pacote PyPI do projeto LiteLLM e publicaram imagens maliciosas do Docker com uma carga útil que rouba credenciais, segredos e variáveis ​​de ambiente. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+      "published": "2026-10-22T19:12:51+00:00",
+      "image": ""
+    },
+    {
+      "title": "O agente de IA que ninguém possui: assista ao webinar de especialistas sobre sua mais nova ameaça interna",
+      "summary": "No momento, provavelmente há um agente de IA em execução em um laptop em algum lugar da sua rede. Ele armazena chaves de API e senhas de banco de dados, pode acessar seus sistemas internos e funciona sem ninguém observar. Ninguém revisou seu acesso. Ninguém é ",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+      "published": "2026-10-22T19:05:35+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyT7lik0MCxUa_ALE00qK-x8qCQiM7doEPBK3sl90Y0J4N6zpBNzLI5ixKwtXItAzgHOIz9t-YerpeISJ7WcT7VJLyfWphEU4cHrm3CHpIwnsIcKT64fwNVkACsm7GxDnXqzqR4M5QXkLuUkUWxPEI5PhAI65_sXtcb2jW-0OhuVHC3n5vQnPVBrT_D5g/s1600/bit.jpg"
+    },
+    {
+      "title": "Arista alerta sobre injeção crítica de VeloCloud SQL explorada em ataques de dia zero",
+      "summary": "Os invasores estão explorando uma falha de injeção SQL de dia zero no VeloCloud Orchestrator (VCO) da Arista, o sistema de gerenciamento central para redes VeloCloud SD-WAN, disse a empresa em um comunicado em 22 de outubro. Para",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
+      "published": "2026-10-22T19:05:17+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio5jLAiZnSHOwYGjf-F6s4HR4ileDOwAkHiX9NyW30mGUqSzgdwGVdTzCTYkgmeoGtTRaSVm-h2IBwvJ9xd84OU2t3YXd8hf5PwlGdjh6VlcYZoCNkx6Yt0FY_JlVcM3AtXI4LQyidnOE86NMVwOGcztaFtV2Qq21X1pRQi6jxiITnQIoO14XLiOWaufI/s1600/velo.jpg"
+    },
+    {
+      "title": "Arista alerta sobre injeção crítica de VeloCloud SQL explorada em ataques de dia zero - The Hacker News",
+      "summary": "Arista alerta sobre injeção crítica de VeloCloud SQL explorada em ataques de dia zero The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVFNEYzN4WW9OcnFCQUNUcTZUQ21oNk9FTXdQR2ZMVFJVbFZIMjV2ZWNjbjlCY2FydGlzQjRUWFNsU3RXNFdHRDcyRnBmX3ZEcW9iNDJvUTVveEhLeFZsaE5wLU5ieDd4MnJ2c09GSEdOd0dHNy14WXgwQXlOeDlJQlItUQ?oc=5",
+      "published": "2026-10-22T19:05:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "ThreatsDay: vazamento de segredos de IA, roubo de fonte PingCAP, falha de desligamento de sinal, desvio de autenticação Laravel e mais 21",
+      "summary": "Esta semana já foi difícil para a segurança cibernética. Falhas críticas de PHP e GitLab RCE, bugs graves de segurança do Linux, certificados eMudhra comprometidos, uma falha RCE do Node.js, uma versão LiteLLM hackeada e centenas de relés Tor sequestrados. Iss",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
+      "published": "2026-10-22T17:45:44+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt9NuQgzmDAqircHtb2OEO9jXuNXIfpmc6cywt44gLVoKRSyrTtwqh2DaQkZ_BCrux5hLbZ9-uU9fR7Q6oFE7cjYOJB6aF1zqIJrrgT9A5RVRZguNYHZCk7-LBEAY7GxyR9KoCwwdPF9UowRvnZBvSN4X24RJXEQBRg3F1Mi5ktvXfNWWsUXlVnHLUmYd6/s1600/threatsday-oct-main.jpg"
+    },
+    {
+      "title": "ThreatsDay: vazamento de segredos de IA, roubo de fonte PingCAP, falha de desligamento de sinal, desvio de autenticação Laravel e mais 21 - The Hacker News",
+      "summary": "ThreatsDay: Vazamento de segredos de IA, roubo de fonte PingCAP, falha de desligamento de sinal, Laravel Auth Bypass + 21 mais The Hacker News",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LTUx5Z3NyUXdFVHJ0SENOX0NFcW5WZHpVREdJUHdqaWZFMWRodUNUSUIxOXNwcE1ZU3Z1VUwyYmFjcl9zemN3M2drVE5GSkNuamFOczhKeW1JX1RLRVFJbG1ac2N6bFJiTE9USElSYjJwOUdxSmx3dXNWMkFHdw?oc=5",
+      "published": "2026-10-22T17:45:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Arista corrige novo VeloCloud Orchestrator explorado de dia zero em ataques",
+      "summary": "A Arista Networks lançou atualizações de segurança para corrigir uma vulnerabilidade de dia zero explorada ativamente que afeta as implantações locais do VeloCloud Orchestrator (VCO). [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+      "published": "2026-10-22T17:18:22+00:00",
+      "image": ""
+    },
+    {
+      "title": "Duas falhas do CVSS 9.0 Linux KSMBD RCE divulgadas em listas de discussão públicas antes das correções do kernel",
+      "summary": "Servidores Linux executando KSMBD, o servidor SMB integrado do kernel, estão expostos a duas falhas de execução remota de código relatadas publicamente, classificadas como 9.0 pela Zero Day Initiative da Trend Micro, sem correção ainda no kernel principal. Um ",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
+      "published": "2026-10-22T17:01:53+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdNNyKzD2udgIl0X434MI2ucEwGFB_B-QqyjMnMuvTfwZv7clEo3n0ASA_aEQtUmQ7wqPSREwq1Cvi3iQLtubfUkK7p017Q6SrliTkwHiJyhfDIzahdof71Mxs4LXqJWoLkAnwikxy2KmZ1pkMg5Qto-RwPnvQx71Ol4G7sO20eeVNr_pfstT2WbDg3Nk/s1600/linux-rce.jpg"
+    },
+    {
+      "title": "Meta condenada a pagar US$ 25 bilhões após tribunal encontrar 43 milhões de violações de privacidade",
+      "summary": "A gigante da mídia social Meta foi condenada a pagar 25 bilhões em multas por um tribunal do Novo México na quarta-feira, como parte de um processo de privacidade de dados que surgiu do escândalo de dados Cambridge Analytica da empresa, que veio à tona em 2018",
       "category": "PRIVACIDADE",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
@@ -11,8 +101,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj49OFtokFF7N2TVBrjY_XC7E-OBiaU7QI0bBuS8sRk2RCrhj7g_hQWeTxWJjF_fFyMXXSd6ZhiZc2M_K6Wq9-LSRnNzrWiL8eV0IXlA-iTrkt-UbQ8K6DMLYAjEqy1fOgxJkHiGerU_cRfBVIwhLLWGRiWUdp1Kc0cKZaGxRXz27_vWwuaQrDHppXS_N1Y/s1600/mark.jpg"
     },
     {
-      "title": "Hacker Conversations: Corey Thuen and the Evil Bit",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Conversas de hackers: Corey Thuen e o Evil Bit",
+      "summary": "Corey Thuen contrata hackers para o que ele chama de “a parte do mal” – uma tendência adversária que ele acredita existir ou não. O post Conversas de hackers: Corey Thuen e o Evil Bit apareceu pela primeira vez na SecurityWeek.",
       "category": "DEFESA",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/",
@@ -20,8 +110,8 @@
       "image": ""
     },
     {
-      "title": "Machine speed attacks require machine speed detection and response",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Ataques à velocidade da máquina exigem detecção e resposta à velocidade da máquina",
+      "summary": "Os invasores podem roubar credenciais e começar a exfiltrar dados em minutos, muitas vezes antes que as equipes de segurança possam responder. A Exaforce examina ataques do mundo real envolvendo tokens GitHub roubados, instaladores maliciosos de IA e phishing ",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
@@ -29,8 +119,8 @@
       "image": ""
     },
     {
-      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "INTERPOL prende 1.462 suspeitos e interrompe 10.909 redes de crimes cibernéticos na repressão global",
+      "summary": "A INTERPOL anunciou na quinta-feira que uma ação coordenada de aplicação da lei interrompeu 10.909 redes maliciosas e recuperou mais de US$ 105 milhões em fundos ilícitos. Paralelamente, o esforço permitiu que agências policiais de 21 países prendessem 1.462 s",
       "category": "DEFESA",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
@@ -38,8 +128,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgztarCkWkHIW3EBCYV1Uaoz1pLURW3sA5E381ALhft79JhEp71NrhOngLJTWtoT1EL-mI7G6sz0geVq0clphhNqFhyphenhyphen6zPdTK1KYcNAPR43HvdicTavSv5eFTsMTVh36gi570aIN265ZJnbfwvMcWSIriWeU_28JWsofVj-9k1qQdKddXoDeh6dNeWy2ViE/s1600/interpol-1.jpg"
     },
     {
-      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Amazon diz que a exploração do PHP2Shell começou 4 dias antes dos patches",
+      "summary": "Pesquisadores de segurança da Amazon Threat Intelligence dizem que os invasores começaram a atacar as falhas do PHP2Shell quatro dias antes do lançamento dos patches de segurança na quarta-feira. [...]",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
@@ -47,8 +137,8 @@
       "image": ""
     },
     {
-      "title": "Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Indurex levanta US$ 8 milhões para expandir plataforma de segurança cibernética industrial",
+      "summary": "A empresa sediada em Amesterdão planeia utilizar o financiamento para investigação e desenvolvimento e expansão comercial na Europa e no Médio Oriente. A postagem Indurex levanta US$ 8 milhões para expandir a plataforma de segurança cibernética industrial apar",
       "category": "DEFESA",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/indurex-raises-8-million-to-expand-industrial-cybersecurity-platform/",
@@ -56,8 +146,8 @@
       "image": ""
     },
     {
-      "title": "Localizing compliance at scale: achieving South Korea’s ISMS certification",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Localizando a conformidade em escala: alcançando a certificação ISMS da Coreia do Sul",
+      "summary": "A Cloudflare obteve a certificação ISMS da Coreia do Sul após uma auditoria em 80 controles. Saiba como localizamos os fluxos de consentimento do usuário, adaptamos os caminhos de inscrição social na borda e validamos nosso programa de segurança global.",
       "category": "CLOUD & IA",
       "source": "Cloudflare Security",
       "url": "https://blog.cloudflare.com/k-isms/",
@@ -65,102 +155,12 @@
       "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5G8JRPS2ZR304ZH695BQBTD.01M5G8JS8D86H6MQHCQERAW2XC.png"
     },
     {
-      "title": "Signal Vulnerability Lets Malicious Callers Block Hang-Ups",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Vulnerabilidade de sinal permite que chamadores maliciosos bloqueiem interrupções",
+      "summary": "Afetando a biblioteca de chamadas de código aberto RingRTC, o bug impedia que as chamadas terminassem corretamente. A postagem Vulnerabilidade de sinal permite que chamadores maliciosos bloqueiem desligamentos apareceu pela primeira vez em SecurityWeek.",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/",
       "published": "2026-10-22T12:34:31+00:00",
-      "image": ""
-    },
-    {
-      "title": "Tech and Security Companies Respond to PHP2Shell Vulnerabilities",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/",
-      "published": "2026-10-22T12:20:23+00:00",
-      "image": ""
-    },
-    {
-      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-      "published": "2026-10-22T11:45:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyT7lik0MCxUa_ALE00qK-x8qCQiM7doEPBK3sl90Y0J4N6zpBNzLI5ixKwtXItAzgHOIz9t-YerpeISJ7WcT7VJLyfWphEU4cHrm3CHpIwnsIcKT64fwNVkACsm7GxDnXqzqR4M5QXkLuUkUWxPEI5PhAI65_sXtcb2jW-0OhuVHC3n5vQnPVBrT_D5g/s1600/bit.jpg"
-    },
-    {
-      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb1ljUjh3RnVBaVJwemlKem1QeUN2X1UxcnZFY0FETFV3QmFKN3Rta3VJV2JmMUJMNFJDNkNzWVpoOXZSbTV3Mm56c01md2lhUmV6TFF4UkNSbzZreFJ1UGhseTZHY3pJbi1ZLThnRjBnN29pcmhRYnloaGJQaVJpUGp3?oc=5",
-      "published": "2026-10-22T11:45:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "GitLab warns of new max severity code execution vulnerability",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
-      "published": "2026-10-22T11:41:48+00:00",
-      "image": ""
-    },
-    {
-      "title": "Splunk, SolarWinds Release Fresh Security Updates",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/",
-      "published": "2026-10-22T10:45:24+00:00",
-      "image": ""
-    },
-    {
-      "title": "Cisco Patches 34 Vulnerabilities Across Multiple Products",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/",
-      "published": "2026-10-22T10:05:21+00:00",
-      "image": ""
-    },
-    {
-      "title": "PHP2Shell Exploitation Started Days Before Patches",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/",
-      "published": "2026-10-22T09:48:58+00:00",
-      "image": ""
-    },
-    {
-      "title": "PHP2Shell Exploitation Started Days Before Patches - SecurityWeek",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdkd3VmdwZXVPQjFOZDZRdVE4ZVk4dS1ITklDRDFaUlhoZG1ETU8zRllYSzhuZzJxVjhrcHBCaHJMOUlQaEtid25VUFQ4VjRQUDVxUXdaNk02ZTNfSFppdmhmUFpBbFdNaVlOcEhjazlnaHl6REZ4cnNOQnZiaTk1a2ZpRy1vRTjSAYwBQVVfeXFMTVRRWkJOV3Y2RFVUTXBtN0NhazJUTzhsRVZkWU5zQ0o2ei1lcmFna1dFNnhRcGNiakZzZVNPV1VpVlVZSlQwdHZVZFNkQ2NzV2NiSDJ2TlRRZ0Q5NWtKZDFJVnhwdXFtU3B3U2JJUHd1WkZLUV9zbjlvd2Vza1ZnOEU5MlQ5cDZ2allFY2M?oc=5",
-      "published": "2026-10-22T09:48:58+00:00",
-      "image": ""
-    },
-    {
-      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-      "published": "2026-10-22T08:28:48+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiEKKMESHBCMBHXA8Yf_clmAeFQXSdaKTEz0t_6RDzj1zXcwiPxA4gy2MPmftM6vyCkoG7OsCZJ2a8t7xJe1qbn3tEWRZfVgStzQVJy0ZfwEkjhg6-A34iT3XnQG7nYku04cWbIaHwkQmuDVghCeJBx5xJcbtozsyD3Genw4wyxFtgWIVD-rRGRLMBKoq2/s1600/litellm-breach.jpg"
-    },
-    {
-      "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
-      "published": "2026-10-22T08:27:11+00:00",
       "image": ""
     }
   ]
