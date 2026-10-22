@@ -1,9 +1,144 @@
 {
-  "updated_at": "2026-10-22T05:02:05.514381+00:00",
+  "updated_at": "2026-10-22T12:04:59.628561+00:00",
   "items": [
     {
-      "title": "O Google Chrome adiciona detecção de golpes com tecnologia Gemini e alerta os usuários sobre ataques ClickFix",
-      "summary": "O Chrome está recebendo novas proteções contra golpes que usam o Gemini para detectar sites enganosos e alertar os usuários quando eles copiam comandos suspeitos de ataques ClickFix. [...]",
+      "title": "GitLab warns of new max severity code execution vulnerability",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
+      "published": "2026-10-22T11:41:48+00:00",
+      "image": ""
+    },
+    {
+      "title": "Splunk, SolarWinds Release Fresh Security Updates",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/",
+      "published": "2026-10-22T10:45:24+00:00",
+      "image": ""
+    },
+    {
+      "title": "Cisco Patches 34 Vulnerabilities Across Multiple Products",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/",
+      "published": "2026-10-22T10:05:21+00:00",
+      "image": ""
+    },
+    {
+      "title": "PHP2Shell Exploitation Started Days Before Patches",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/",
+      "published": "2026-10-22T09:48:58+00:00",
+      "image": ""
+    },
+    {
+      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+      "published": "2026-10-22T08:28:48+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiEKKMESHBCMBHXA8Yf_clmAeFQXSdaKTEz0t_6RDzj1zXcwiPxA4gy2MPmftM6vyCkoG7OsCZJ2a8t7xJe1qbn3tEWRZfVgStzQVJy0ZfwEkjhg6-A34iT3XnQG7nYku04cWbIaHwkQmuDVghCeJBx5xJcbtozsyD3Genw4wyxFtgWIVD-rRGRLMBKoq2/s1600/litellm-breach.jpg"
+    },
+    {
+      "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
+      "published": "2026-10-22T08:27:11+00:00",
+      "image": ""
+    },
+    {
+      "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
+      "published": "2026-10-22T07:47:22+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFwR_FE94PTthun36oXfrSIiYx7N-Hb3Ww1w2gFs6x6qs0mML2v_TmYZmgqYKxB6VlMBzmIQksNdHldgX-UxykDBNwnszmBuB7IZWyWJhxei65NJlOImUWde5tYzB7D94dmieFBGhFNVAt3bL4qlhXkl4o3uw362QKgJpk37xutyRmM5bB3sHR8XMC3bc/s1600/nodejs-rce.jpg"
+    },
+    {
+      "title": "Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/",
+      "published": "2026-10-22T07:38:14+00:00",
+      "image": ""
+    },
+    {
+      "title": "Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "PRIVACIDADE",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/",
+      "published": "2026-10-22T07:26:54+00:00",
+      "image": ""
+    },
+    {
+      "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
+      "published": "2026-10-22T06:38:31+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidksxeLP_h5vpqmr62J_72yOAmQIRsZDLE6bpclFaHY1yQX6Dv-omiTvu_j49FuvXUOwxQT8levg89_AGRMiPNidANkEn1PSGSaNFoCVnY_VQ2Ny9D7FhLwtd9VDboOjxPi6Ssg78CdLFUzShhEt8oK6x0obKcHCZbbIMWBylnQCVCbQGUqjfbBJAKCew/s1600/http3.jpg"
+    },
+    {
+      "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
+      "published": "2026-10-22T06:34:10+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZXm1gLzaKPP-QW888zIx_tXRCirkgZBsOOn0icTEOrFBf7w28955jH1zY8jxw2Cf-g2Qp9mPHgrBe7E5dux_L2XUzdaVZfvRgj_utCT-nTiU7haAkAr_F6eEeW5YJmtwbtJoIuumhnv5F9tFG_2BcLwnaqwkFGWEvFnWsUDHHuobMhZ_letCSD6I56Lw_/s1600/php-hacks.jpg"
+    },
+    {
+      "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNkl5UTc0aUhRakhnaDdlZnZxUHVzckxNdUFPbXh4elZGLVNRRXpKeGxRSlRRQ3VhRzZ0c1BJekhHa1NRZUdEeFR5NGh0dmtEbW8tYWM1MGNpekJ2SUljUFJjSlJKOVRVTnFRcl9BTHBxU2RLeXgyZy1wUHRQN1ZRMg?oc=5",
+      "published": "2026-10-22T06:34:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "UAE Transitions 50% of Gov't Services to Agentic AI",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "CLOUD & IA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai",
+      "published": "2026-10-22T05:00:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc928e4fa76e21bf1/6ad7e1eca34f770597a25359/uae-on-map-with-pin-Zarko_Prusac-shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+      "published": "2026-10-22T04:21:26+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBGpr0x4Dn4VV8YVCO_s3CzzGvwmVUceHbt0llcvrzvBmWFaJcu9E9v3WntJGdez3PZ-53GAVSRiYc5FdSOgmyeCSXvpL2t5nCjhzJC50kTLhQygW8cCeFHqtZtDYHsG7Vx2uf1vVdobBbKJ5fcCKSNZDKpV00GRQKVlD444srM9L4rcPnTe28nABZ3pon/s1600/chinese-ai.jpg"
+    },
+    {
+      "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jeWhMdkF2cUFmbnF0TkZTX080dFRCbGhXbW91RkI4MG9ydUE0ZDFRWk1WUGZsanZ6dUp3Z3ktMEs1NHR2dnRBQmROdzA4SFhfOVdYbElKZHpsTnFQd0JuYUJlMmdEcWlDNC1ERXdpajVNamZEZkotZkxod3U?oc=5",
+      "published": "2026-10-22T04:21:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
@@ -11,8 +146,8 @@
       "image": ""
     },
     {
-      "title": "Onamae Desktop Cloud do Japão hackeado, até 27.000 servidores afetados",
-      "summary": "Os hackers comprometeram a infraestrutura da Onamae Desktop Cloud, um provedor popular de serviços VPS no Japão, e instalaram malware em servidores de até 26.739 clientes. [...]",
+      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
@@ -20,148 +155,13 @@
       "image": ""
     },
     {
-      "title": "Violação do TiDB expõe suposições falhas de segurança na nuvem",
-      "summary": "Os provedores de nuvem podem armazenar dados confidenciais de clientes, sem que nenhuma das partes saiba disso. Mas quando um provedor é violado, os dados voltam para casa.",
+      "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
       "published": "2026-10-21T21:15:39+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9561c8122fa8def8/6ad9188c009b36a4ff009e9b/Fulcrum-MicroStockHub-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Hackers do Lazarus usam criptografia pós-quântica para entrega de malware",
-      "summary": "Os hackers norte-coreanos estão usando um mecanismo criptográfico pós-quântico para proteger a entrega de cargas maliciosas em novas operações que combinam malware novo e antigo. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
-      "published": "2026-10-21T20:31:48+00:00",
-      "image": ""
-    },
-    {
-      "title": "Marvell, Microsoft e Oracle trabalham para padronizar a segurança de hardware de data centers",
-      "summary": "O esforço visa padronizar um HSM integrado NIST FIPS 140-3 Nível 3 para infraestrutura de data center em nuvem e em hiperescala.",
-      "category": "CLOUD & IA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security",
-      "published": "2026-10-21T20:14:42+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Pesquisa da Cloud Security Alliance descobre que a prevenção contra perda de dados geralmente detecta a perda de dados somente depois que ela acontece",
-      "summary": "A pesquisa descobriu que, entre os entrevistados que sofreram perda de dados, apenas 16% disseram que o DLP bloqueou os incidentes mais significativos antes que os dados saíssem da organização.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss",
-      "published": "2026-10-21T20:03:14+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Bugs 'PHP2Shell' sinalizam alerta vermelho para a indústria de segurança - Dark Reading",
-      "summary": "Bugs 'PHP2Shell' sinalizam alerta vermelho para leitura escura da indústria de segurança",
-      "category": "DEFESA",
-      "source": "Dark Reading",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUHBzTlE3YjM5VllleFRhSk00bWk5cTdGcm95M0QwNkdKblVpaEJPbXBKYjBrcTdaZTY2ZFQyUFljVjBwZUc0a0VfSDNvVTE1MGllZWRuMmMxX3pQMjlyUTNHdVhBUzFyUjRQRlhmM0JNR3d1MTN6cUVsUXIyVXZJdE0zdkZ6S1VaTk01NTFSelFKMHo4RXc?oc=5",
-      "published": "2026-10-21T19:55:59+00:00",
-      "image": ""
-    },
-    {
-      "title": "Bugs do 'PHP2Shell' sinalizam alerta vermelho para a indústria de segurança",
-      "summary": "As equipes de segurança estão lutando para remediar duas vulnerabilidades críticas do PHP após vazamento de detalhes e relatórios de tentativas de exploração.",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry",
-      "published": "2026-10-21T19:19:17+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt67e9fa778860769f/6ad8fdb74b1e4143168658d7/warning_sign_with_siren-DSGpro-GettyImages-184878150.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Falha crítica do GitLab (CVSS 10.0) pode permitir RCE não autenticado em 12 anos de lançamentos",
-      "summary": "O GitLab lançou correções em 21 de outubro para uma falha que permite que um invasor execute código em um servidor autogerenciado sem fazer login, e afeta todas as versões do software desde a 7.0, lançada em 2014. A correção é importante mesmo para administrad",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
-      "published": "2026-10-21T18:57:34+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig4Pkd5r0GeWGSaCoHaEsZVVoh5Y6xBkFvMTGYKvD5oONYnczQGAUqpjD6eCiA6sxiiel6Zs0kPiBEWOZJ21URkE59iJm-LDUFPYwPEf8o8d8lnyiMOR53H7IeXGKn3tTG9pusA-HKwYo0n04WQ1m8kg8dxIWEtxFGMDiBzrV-zzqAH2R2OVT2E1ViX_U/s1600/git-rce.jpg"
-    },
-    {
-      "title": "CISA: Hackers encadeiam falhas do Plex em ataques Plex2Shell para violar servidores",
-      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) está alertando que os invasores estão explorando ativamente quatro vulnerabilidades no Plex Media Server. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
-      "published": "2026-10-21T18:34:42+00:00",
-      "image": ""
-    },
-    {
-      "title": "Campanha estatal em grande escala, orientada por IA, usando ARTEX permite comprometimento da cadeia de suprimentos",
-      "summary": "Storm-0940 usou IA agente ARTEX para acelerar o comprometimento da cadeia de suprimentos do ConnectWise, permitindo o abuso de credenciais de aplicativos em ambientes Microsoft 365. A campanha pós-estado-nação em grande escala, orientada por IA, usando ARTEX p",
-      "category": "CLOUD & IA",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
-      "published": "2026-10-21T18:23:55+00:00",
-      "image": ""
-    },
-    {
-      "title": "LiteLLM comprometido em ataque à cadeia de suprimentos, entregando ladrão de credenciais e backdoor",
-      "summary": "O popular pacote LiteLLM Python foi comprometido como parte de um ataque à cadeia de suprimentos de software que entregou um ladrão de credenciais e um backdoor, de acordo com relatórios de SafeDep, Socket, StepSecurity e Upwind. O compromisso afeta o LiteLLM ",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
-      "published": "2026-10-21T18:01:57+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-f1TsJE93kcT5Cp1wvKlnR-bCWFP9ZUZofd0PXryxRBt0B1q0-t0BaHnEJcNhy3IhRZq2fBU9fmILshSvlY-qk28TOO-f1JoBcGSRtwiC3MIV4gDxdXYzTS_ZMirtPka7UaG9Shie7kgWKzauZOwKgPvk8hHXUTFly2YXpzBuxUD20MdxBfKeXrRsIG-W/s1600/litellm-hack.jpg"
-    },
-    {
-      "title": "LiteLLM comprometido em ataque à cadeia de suprimentos, entregando ladrão de credenciais e backdoor - The Hacker News",
-      "summary": "LiteLLM comprometido em ataque à cadeia de suprimentos, entregando ladrão de credenciais e backdoor The Hacker News",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rdFNHNXNqaU9VNHk4OTNlTmI5TUZCcW1oRHVfUkg4T083SGNuemw5cGlOWFlyQnNqMzVpU3RHZGNzZ2UzS21UVjZySllFZGVINERHYmZUUjQ1d1ZlUjVSQmJwRG4yVTU2cVdWZktfZlE5OEF0S3RhSmJfZXZKZTA?oc=5",
-      "published": "2026-10-21T18:01:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Google fortalece o Chrome contra ataques ClickFix e conexões HTTP inseguras",
-      "summary": "Foram adicionadas proteções contra golpes e engenharia social, incluindo novos avisos de sites e análises Gemini do lado do servidor. A postagem Google fortalece o Chrome contra ataques ClickFix, conexões HTTP inseguras apareceu pela primeira vez em SecurityWe",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/",
-      "published": "2026-10-21T17:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "PHP2Shell Patches chegam quando as primeiras tentativas de exploração atingem sensores",
-      "summary": "Várias empresas de segurança cibernética viram tentativas de exploração de CVE-2026-109618 e CVE-2026-109619 antes do PHP lançar os patches. A postagem PHP2Shell Patches chega quando as primeiras tentativas de exploração atingem sensores apareceu pela primeira",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/",
-      "published": "2026-10-21T16:50:40+00:00",
-      "image": ""
-    },
-    {
-      "title": "PHP2Shell Patches chegam quando as primeiras tentativas de exploração atingem sensores",
-      "summary": "PHP2Shell Patches chegam quando as primeiras tentativas de exploração atingem sensores SecurityWeek",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaFoxZkxQS1BGRVVfWHF5R3Azd2xvb3VuR3ZibU44Mk51RVF1UjE2YUZ6elRaVmtTaGxfdTcwMjU4bDh3QTRabUtJdmd0MlVXYURSMnhSSlJKS2Z0ZWRvb2VIM29aMU5GR2g3WFMzeGdfaG5xaEdmSlkxRG8zby1xWWQ5LU5vZHlaallOWTFCMmJuQkduWW4tdS1tc9IBoAFBVV95cUxNWVdDT1FTeFFwUzJaMlZxaDd0QnpvNEZZazdOTGlSTWtCdnBvLUNuWHd3bTN5OWVFTEZOQ2t0azFMc3VQVmJyaUxFNndIZkZ5X3dIeU1xRWowNnR0YmdaRThISS1SbVQ3MWQtd1hKOV9rWGZyaXdZX1NlOTBPbGhJaTNnZEt5R191TU1LWHoyTzRIMFpBZHA1NzRTWlRNZWUx?oc=5",
-      "published": "2026-10-21T16:50:40+00:00",
-      "image": ""
-    },
-    {
-      "title": "Compromisso OVHcloud GitHub vinculado a atores de ameaças GlassWorm",
-      "summary": "A conta GitHub de um desenvolvedor que foi comprometida vários meses antes foi usada para enviar código malicioso a usuários desavisados.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors",
-      "published": "2026-10-21T16:50:15+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte501832a54d78d89/6ad8ee8ba10b5733db901071/worms-Tatiana_Maksimova-Getty-2162542629.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Optiv lança programa de treinamento de conscientização sobre segurança cibernética CyberBOT",
-      "summary": "As sessões práticas fornecem aos educadores, organizações sem fins lucrativos e líderes comunitários um recurso acessível para promover a conscientização cibernética durante todo o ano e construir comunidades mais resilientes.",
-      "category": "DEFESA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-operations/optiv-launches-cyberbot-cybersecurity-awareness-training-program",
-      "published": "2026-10-21T15:44:48+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
     }
   ]
 }
