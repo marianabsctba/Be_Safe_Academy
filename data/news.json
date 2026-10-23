@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-22T21:45:31.171287+00:00",
+  "updated_at": "2026-10-23T05:03:04.558974+00:00",
   "items": [
+    {
+      "title": "State Bank of India sofre vazamento de dados de PII de cliente",
+      "summary": "Violações de dados relativamente pequenas na Índia podem tornar-se bastante graves, graças a um sofisticado mercado clandestino para o comércio de PII.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
+      "published": "2026-10-23T03:30:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt979cd25773f1b3d4/6ada6acba10b57ec999014b8/SBI-Yawar_Nazir-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
     {
       "title": "Railway alerta desenvolvedores para alternar segredos após possível violação",
       "summary": "A plataforma em nuvem Railway publicou um aviso urgente aos usuários após detectar atividades suspeitas em seus sistemas que armazenam variáveis ​​de ambiente do cliente no início desta semana. [...]",
@@ -9,6 +18,15 @@
       "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
       "published": "2026-10-22T21:25:31+00:00",
       "image": ""
+    },
+    {
+      "title": "Microsoft vincula Storm-0940 ao ataque à cadeia de suprimentos ConnectWise",
+      "summary": "O ator ligado à China utilizou uma ferramenta de teste de penetração habilitada para IA para automatizar e acelerar o seu ataque a mais de 2.200 inquilinos.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
+      "published": "2026-10-22T20:42:17+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt481be0dcde6741d2/6ada753af919424ed83bcdaf/chinacyber_mageFlow_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Capcom confirma violação de dados que afeta 11,7 milhões de contas",
@@ -65,7 +83,7 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt9NuQgzmDAqircHtb2OEO9jXuNXIfpmc6cywt44gLVoKRSyrTtwqh2DaQkZ_BCrux5hLbZ9-uU9fR7Q6oFE7cjYOJB6aF1zqIJrrgT9A5RVRZguNYHZCk7-LBEAY7GxyR9KoCwwdPF9UowRvnZBvSN4X24RJXEQBRg3F1Mi5ktvXfNWWsUXlVnHLUmYd6/s1600/threatsday-oct-main.jpg"
     },
     {
-      "title": "ThreatsDay: vazamento de segredos de IA, roubo de fonte PingCAP, falha de desligamento de sinal, desvio de autenticação Laravel e mais 21 - The Hacker News",
+      "title": "ThreatsDay: vazamento de segredos de IA, roubo de fonte PingCAP, falha de desligamento de sinal, desvio de autenticação do Laravel e mais 21 - The Hacker News",
       "summary": "ThreatsDay: Vazamento de segredos de IA, roubo de fonte PingCAP, falha de desligamento de sinal, Laravel Auth Bypass + 21 mais The Hacker News",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
@@ -110,7 +128,7 @@
       "image": ""
     },
     {
-      "title": "Ataques à velocidade da máquina exigem detecção e resposta à velocidade da máquina",
+      "title": "Ataques à velocidade da máquina exigem detecção e resposta da velocidade da máquina",
       "summary": "Os invasores podem roubar credenciais e começar a exfiltrar dados em minutos, muitas vezes antes que as equipes de segurança possam responder. A Exaforce examina ataques do mundo real envolvendo tokens GitHub roubados, instaladores maliciosos de IA e phishing ",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
@@ -143,24 +161,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/indurex-raises-8-million-to-expand-industrial-cybersecurity-platform/",
       "published": "2026-10-22T13:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Localizando a conformidade em escala: alcançando a certificação ISMS da Coreia do Sul",
-      "summary": "A Cloudflare obteve a certificação ISMS da Coreia do Sul após uma auditoria em 80 controles. Saiba como localizamos os fluxos de consentimento do usuário, adaptamos os caminhos de inscrição social na borda e validamos nosso programa de segurança global.",
-      "category": "CLOUD & IA",
-      "source": "Cloudflare Security",
-      "url": "https://blog.cloudflare.com/k-isms/",
-      "published": "2026-10-22T13:00:00+00:00",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5G8JRPS2ZR304ZH695BQBTD.01M5G8JS8D86H6MQHCQERAW2XC.png"
-    },
-    {
-      "title": "Vulnerabilidade de sinal permite que chamadores maliciosos bloqueiem interrupções",
-      "summary": "Afetando a biblioteca de chamadas de código aberto RingRTC, o bug impedia que as chamadas terminassem corretamente. A postagem Vulnerabilidade de sinal permite que chamadores maliciosos bloqueiem desligamentos apareceu pela primeira vez em SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/",
-      "published": "2026-10-22T12:34:31+00:00",
       "image": ""
     }
   ]
