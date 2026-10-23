@@ -1,9 +1,117 @@
 {
-  "updated_at": "2026-10-23T11:50:31.532864+00:00",
+  "updated_at": "2026-10-23T17:17:51.548684+00:00",
   "items": [
     {
-      "title": "URGENTE - PHP alerta sobre outro RCE sem patch dois dias após patches de emergência do PHP2Shell",
-      "summary": "O PHP alertou sobre outra maneira pela qual um invasor poderia executar código em um servidor web, dois dias depois de enviar correções de emergência para as falhas críticas do PHP2Shell. O novo problema, designado CVE-2026-115560, afeta apenas aplicações web ",
+      "title": "Microsoft: Windows Server 2016 chega ao fim do suporte em janeiro",
+      "summary": "A Microsoft afirma que o Windows Server 2016 deixará de receber atualizações de segurança após atingir o fim do suporte em janeiro de 2027. [...]",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
+      "published": "2026-10-23T17:05:07+00:00",
+      "image": ""
+    },
+    {
+      "title": "Quest Diagnostics confirma registros de pacientes expostos a violação de dados",
+      "summary": "A empresa americana de laboratórios clínicos Quest Diagnostics divulgou que os registros dos pacientes foram expostos depois que um agente de ameaça obteve acesso não autorizado ao seu sistema Quanum LSM. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+      "published": "2026-10-23T16:40:07+00:00",
+      "image": ""
+    },
+    {
+      "title": "PHP compartilha mitigação para nova vulnerabilidade RCE sem patch",
+      "summary": "A equipe de segurança do PHP compartilhou medidas de mitigação para uma nova vulnerabilidade de execução remota de código que afeta sistemas com configurações não padrão e sem patch. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
+      "published": "2026-10-23T15:38:05+00:00",
+      "image": ""
+    },
+    {
+      "title": "Em outras notícias: Tor Exit Relays sequestrados, bancos detectam agentes de IA desonestos, ransomware macOS de auto-reconstrução",
+      "summary": "Histórias dignas de nota que podem ter passado despercebidas: o APT28 da Rússia atingiu empresas de defesa da OTAN, o código-fonte do PingCAP foi roubado, a investigação do negociador ShinyHunters. A postagem Em outras notícias: Relés de saída Tor sequestrados",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/",
+      "published": "2026-10-23T14:23:37+00:00",
+      "image": ""
+    },
+    {
+      "title": "Por que as ameaças caribenhas se transformam em riscos cibernéticos globais",
+      "summary": "A região está a demonstrar o que acontece quando as explorações aceleram, mas a garantia não.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk",
+      "published": "2026-10-23T14:00:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9c2c56022ab6d6c2/6ada53fbcca51d530a712e5f/Caribbean-FrankRamspott-Getty-1627410191.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Hackers violam firewalls e VPNs empresariais, expondo mais de 70.000 credenciais",
+      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma campanha em grande escala que teve como alvo dispositivos de borda de rede expostos, como os firewalls Fortinet FortiGate e Palo Alto Networks GlobalProtect. \"Os artefactos desta investigação ta",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
+      "published": "2026-10-23T13:50:56+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSk-Q06Dd5YyYmXWMt9b860DzGRKbTae_QwvoZDKNICaEznAj2AUurJmv6vPnpcH7qqDjauFZWWx7GX1RN93BLaU9Rqgiqe9j1iQRg2Vqcz3HpSqgesA6oS-GrMTyx4CTzwOD7C_z205k57ZpT70Gv4RXi-65X-nyI04wpA3raJ5nh46pN5ox42cyLnHjv/s1600/1000117358.jpg"
+    },
+    {
+      "title": "Hackers violam firewalls corporativos e VPNs, expondo mais de 70.000 credenciais - The Hacker News",
+      "summary": "Hackers violam firewalls e VPNs empresariais, expondo mais de 70.000 credenciais The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPXzhmTmdDTXhpLWNBc2I4ejBjNWFJbXZ0VWJ2blNpZWZHSEVVVEIyMVFDQmRMbmVmWE1EVEtQby12MUlmRmN0c2NqRlU5TDNxQ2MxUnBGWEVBU2wtRTVTZVhSTHVvQ29tb0ZsekxGMEQxY09WSnlGLTM3bXFCcTBBdGVtOFc?oc=5",
+      "published": "2026-10-23T13:50:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "A nova realidade do seguro cibernético: a subscrição não é suficiente",
+      "summary": "O aumento dos riscos de IA, engenharia social e nuvem estão empurrando as operadoras para além da transferência de riscos e se aprofundando na própria segurança cibernética.",
+      "category": "CLOUD & IA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough",
+      "published": "2026-10-23T13:30:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt532ec4c95e5c91b7/6ada58e98f65b93d8e99c4a2/Insurance_policy-Mohamad_Faizal_Bin_Ramli-GettyImages-1295819436.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "A HPE corrige oito falhas de RCE de gravidade máxima e desvio de autenticação de AOS",
+      "summary": "A Hewlett Packard Enterprise (HPE) lançou atualizações de segurança para corrigir 72 vulnerabilidades no sistema operacional Aruba (ArubaOS), incluindo oito desvios de autenticação de gravidade máxima e problemas de execução de código. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
+      "published": "2026-10-23T12:48:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Operadores de botnet Mirai juntam-se a ataques PHP2Shell à medida que surgem explorações de desvio de ASLR",
+      "summary": "Os pesquisadores vinculam as tentativas do PHP2Shell a um botnet Mirai e mostram um desvio de ASLR, mas nenhum comprometimento bem-sucedido foi confirmado ainda. A postagem Operadores de botnet Mirai juntam-se a ataques PHP2Shell enquanto surgem explorações de",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/",
+      "published": "2026-10-23T12:45:52+00:00",
+      "image": ""
+    },
+    {
+      "title": "Operadores de botnet Mirai unem-se a ataques PHP2Shell enquanto surgem explorações de desvio de ASLR - SecurityWeek",
+      "summary": "Operadores de botnet Mirai unem-se a ataques PHP2Shell enquanto explorações de desvio de ASLR emergem SecurityWeek",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMkxRSmMtek9DTG9TdjhLeXF4dHF5SDVWTVo3M2JkS1g1cVhfZjBvXzZEbWx0YmNDeXNRRXNLVHI1ckhWdTVGSGZmUmFLSExDekFFUUlYNVhjRXZCbVpLV3JjalEtOU5PakhVVW1nZ241YlQ4NDVsZnY5TFZfdUR1bFZ1SmpxZjZUSEZycURCTXp1LTY4VEJsLTQzU083ZWhaTGs2alRmXzhTd9IBrwFBVV95cUxOc0RXRi1EX0VZQ3hXRE1lNVptTURiX0ZFengtQnhGZmVLN3lMenVqbWxWOUlxbjBKWGlZR0ZwY1Rwbk9Pd2JrMy1lLWtvQlc4OUZveG5DVVNNWFVyMi1uYnJQd1NLNmU1NDljTkRzX2l6TjFkVmpSWnlOT1o3YVBHcmNpODktOF8zYkl2LU4xeHVCaURvVWY4YVpUQ2FQdHFkM0ZXX1N4UmNnQWdQaWdj?oc=5",
+      "published": "2026-10-23T12:45:52+00:00",
+      "image": ""
+    },
+    {
+      "title": "Agentes de IA como ameaças internas: por dentro da aposta da Microsoft em uma pilha de segurança unificada",
+      "summary": "O Project Perception da Microsoft adiciona Agentes Guardiões para monitorar e conter agentes de IA anômalos, mas especialistas alertam que o policiamento de agentes imprevisíveis com outros agentes pode multiplicar – e não conter – o risco.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
+      "published": "2026-10-23T11:38:28+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt521637665481bcc9/65dfe9cfea879b040a14fbb9/policerobot-Agencja_Fotograficzna_Caro-alamy.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "PHP alerta sobre outro risco de RCE não corrigido dois dias após patches de emergência do PHP2Shell",
+      "summary": "O PHP alertou sobre outra maneira pela qual um invasor poderia executar código em um servidor web, dois dias depois de enviar correções de emergência para as falhas críticas do PHP2Shell. O novo problema, atribuído CVE-2026-115560, afeta apenas aplicativos web",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
@@ -11,8 +119,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXE1XecomGt7TSLi_DCDVL8oQjsLEtppNNGjkuW1cbVl-cXZkMG-rqTr-oSVz_6XfoU8aoScw3rjGxsnTpV3JaV5eWfj431lg09Rnrrk1UjwNq1ZEofkwR4FaM2qatC_FD9ZNBZk-T9_9ddu8n-BtUkhwVgWzc2ZvaWAHP8eMxlLU19qxIjlXeHOJYHs/s1600/php2.jpg"
     },
     {
-      "title": "URGENTE - PHP alerta sobre outro RCE sem patch dois dias após patches de emergência do PHP2Shell - The Hacker News",
-      "summary": "URGENTE - PHP alerta sobre outro RCE sem patch dois dias após correções de emergência PHP2Shell The Hacker News",
+      "title": "PHP alerta sobre outro risco de RCE não corrigido dois dias após patches de emergência do PHP2Shell - The Hacker News",
+      "summary": "PHP alerta sobre outro risco de RCE não corrigido dois dias após correções de emergência PHP2Shell The Hacker News",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa1ZSODRXV0ZXTTJ1TFh6S19mRXJ0Yld5b3dDd1F2RnMwTXZ2Y1EyMm83ak05WVF3NndRRXhtczJBeG9tVmxWZXRCa2lHYjVkVzFUM0Y1dTFsbXoxaHpzY0lTQzRZeEpWQ2dmdkxBcWphV0gyeGNYNWtDZE1QWHpRSnRB?oc=5",
@@ -29,6 +137,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxH9YdfH7FHfSBJt7wrnd1P2hTQG6_2rpkp3YBqp2Yd49nYy4-a0zmvk5mqKlXH4DWfRO4Q4MmzLG4_t19me5rErcvoEpGJ5Q8LYty_GXXys63QC8HlO3G2jRC9f5vJd1BDiOp4APzxV4rSbFOZY80zIUmxvJ8V6isB-eDy9e9tVWaLR53fpPO80mzn_BH/s1600/uk-russia.jpg"
     },
     {
+      "title": "Hackers ligados à Rússia usaram novo backdoor de rede mesh em ataque destrutivo na Ucrânia - The Hacker News",
+      "summary": "Hackers ligados à Rússia usaram novo backdoor de rede mesh em ataque destrutivo na Ucrânia The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUjA1OVBVbl92Mk5fUFNEak9QMTJlM3pKWHBaandrVFlQNVhWN0ZySG83VXQtQXg5Vy1QUkxIaVdjQnlkRTFRMEktM0Y4REFmeDdnR0J2ZG1NUVhPZUl6MGprVF9uOTdjT0hmT05XWTllUGUwelhzSnRRRVU3VUF4OQ?oc=5",
+      "published": "2026-10-23T11:11:00+00:00",
+      "image": ""
+    },
+    {
       "title": "China APT usa ferramenta AI Pentest Artex em ataques ConnectWise",
       "summary": "Os hackers patrocinados pelo Estado visaram centenas de organizações e obtiveram acesso privilegiado a alguns ambientes. O post China APT usa AI Pentest Tool Artex em ataques ConnectWise apareceu pela primeira vez em SecurityWeek.",
       "category": "INCIDENTES",
@@ -38,130 +155,13 @@
       "image": ""
     },
     {
-      "title": "Atacantes exploram terceiro dia zero do VeloCloud Orchestrator em quatro meses",
-      "summary": "A falha de injeção SQL de gravidade crítica permite que invasores acessem funcionalidades internas privilegiadas e obtenham privilégios de operador. A postagem Atacantes exploram o terceiro dia zero do VeloCloud Orchestrator em quatro meses apareceu pela prime",
+      "title": "Atacantes exploram terceiro dia zero do Arista VCO em quatro meses",
+      "summary": "A falha de injeção de SQL de gravidade crítica permite que invasores acessem funcionalidades internas privilegiadas e obtenham privilégios de operador. A postagem Atacantes exploram o terceiro dia zero do Arista VCO em quatro meses apareceu pela primeira vez n",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
       "published": "2026-10-23T09:58:34+00:00",
       "image": ""
-    },
-    {
-      "title": "Falha crítica na popular biblioteca de imagens de travesseiros do Python permite a execução de código por meio de uma imagem criada",
-      "summary": "Pillow, a biblioteca de imagens mais usada para Python, pode ser executada para executar comandos do sistema operacional em um servidor, especificando o nome de um arquivo que ele deve abrir. A falha, CVE-2026-112900, está na maneira como o Pillow lida com ima",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
-      "published": "2026-10-23T09:36:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGp9s38cCmrESabSZezAPkJaYoavpBM8Ehckei0ZrhKfBSoSXMyrWkzooakGExz1GBYVgi0izvW8wyKH2CEX7vpzLExRkK7uNW8wDdMzJ_k7NR8u6q-WA9e8Aoc19LNfJbFKgB6GkbAKbXW69_lOdM4sz4t5fmpKsLxHWKJPOugq5g_45Q5_WmCm_vA6U/s1600/python-image.jpg"
-    },
-    {
-      "title": "Pesquisadores demonstram exploração do Node2Shell RCE na construção do Node.js usando dados Brotli criados",
-      "summary": "Dados maliciosos do Brotli podem fazer com que um aplicativo em uma versão oficial do Node.js execute código fornecido pelo invasor, demonstraram pesquisadores de segurança da Imperva. Sua prova de conceito \"Node2Shell\" executou código na imagem oficial do Nod",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-      "published": "2026-10-23T08:40:43+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDudJHAM27KiE-F4E5vX1WOgITTdawUaZrFoXUIrf7lscEHIl7fgGQY5Qo60bRxr-o7UKloYK1sp23i5cvWPpc6XXttZa8GFvYxqSV7pp0B6vdBTp0sIBCX8r8oC5CAXO1mdJfshaIpLFyrFDCm9HPiYyBZMECEcSHKzbVzOk_VpGL2kEQDjB1rNk21Y8/s1600/node2shell.gif"
-    },
-    {
-      "title": "Falha crítica do SDK x402 pode permitir que APIs maliciosas drenem os saldos de tokens dos agentes de IA",
-      "summary": "Os agentes de IA que pagam por chamadas de API com os SDKs x402 poderiam assinar um pagamento pelo saldo total de um token suportado se uma API maliciosa o solicitasse, disse a empresa de segurança V12 em 22 de outubro. A causa foi o cliente padrão dos SDKs, q",
-      "category": "CLOUD & IA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
-      "published": "2026-10-23T08:35:45+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1nl6HARmLzzb4BlklarhKxB1F2U6dwKebASj9-Ow-WI6otLzFoATEY-icF7OCAgwHqRzwNhs9jHY2S7e4ZGRHykrIzedvLxQlAyen6jQsOoY_L80gd0Lrjy3-3xzlHavaxahxsI1o13_r2MRRDwbQrtslkXfbITBGcp_736F1sPVq7dR8Rnq_JSVQP3A/s1600/ai-wallet.jpg"
-    },
-    {
-      "title": "11 milhões impactados pela violação de dados da Capcom",
-      "summary": "Os hackers roubaram 11 milhões de endereços de e-mail do CAPCOM ID e alteraram as senhas de login de 196 contas. O post 11 milhões de impactados pela violação de dados da Capcom apareceu pela primeira vez na SecurityWeek.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
-      "published": "2026-10-23T08:34:14+00:00",
-      "image": ""
-    },
-    {
-      "title": "Quest Diagnostics relata violação cibernética que afeta ‘determinados registros de pacientes’",
-      "summary": "Em um documento regulatório, a Quest Diagnostics relatou acesso não autorizado ao seu Quanum Lab Services Manager, uma plataforma onde determinados clientes podem fazer pedidos de testes. A postagem Quest Diagnostics relata violação cibernética que afeta 'dete",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
-      "published": "2026-10-23T08:25:06+00:00",
-      "image": ""
-    },
-    {
-      "title": "LiteLLM comprometido em ataque à cadeia de suprimentos de produtos frescos",
-      "summary": "Os hackers usaram tokens GitHub CLI OAuth comprometidos para enviar e aprovar pacotes maliciosos no PyPI e Docker. A postagem LiteLLM comprometida em ataque à cadeia de suprimentos frescos apareceu pela primeira vez na SecurityWeek.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/",
-      "published": "2026-10-23T08:10:46+00:00",
-      "image": ""
-    },
-    {
-      "title": "Atlassian corrige 75 falhas em produtos de data center e servidores",
-      "summary": "O boletim de outubro da Atlassian lista 176 entradas de vulnerabilidade, incluindo 14 problemas de gravidade crítica, todos em componentes de terceiros. A postagem Atlassian corrige 75 falhas em produtos de data center e servidor apareceu pela primeira vez na ",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/",
-      "published": "2026-10-23T07:54:47+00:00",
-      "image": ""
-    },
-    {
-      "title": "Pesquisadores demonstram exploração do Node2Shell RCE na construção do Node.js usando dados Brotli criados - The Hacker News",
-      "summary": "Pesquisadores demonstram exploração do Node2Shell RCE na construção do Node.js usando dados Brotli criados The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQXFON00xeXloc005dEF1cWMzbUdxYmM1RzluZlBRS3NEWHFreFN2RzZMRXhQNHIxdVQwTlJKdDhVQXkzV1JwX0pkMmxkWlZBYUtXcy04MUZ1NDh0VzFBUk1JdU5STHIwN09pVEthRjVGNnY5S3AwVWdsenZnS3dTWTZQRQ?oc=5",
-      "published": "2026-10-23T07:54:38+00:00",
-      "image": ""
-    },
-    {
-      "title": "Tentativas de exploração do PHP2Shell atingem milhões enquanto invasores tentam implantar malware Mirai",
-      "summary": "Foram observados atores de ameaças tentando, sem sucesso, explorar as vulnerabilidades recém-divulgadas do PHP2Shell para conectar sistemas infectados a uma variante do botnet Mirai chamada Potassium, à medida que se constata que transformar as falhas em armas",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-      "published": "2026-10-23T07:40:45+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3SkRCDhjMsUS2FZ9ES40x39o7u2jdwMQDcq4NC75CsC2Xjji94ZZt_0Jgzdxmbf92n3razC07QvKJ-VT65axzIbXWoYrHytaQhNRBdYEMgmb1Fki-gR2NKY1TXuhpb9lcCemaPSqu8E0Q6KVczRNa97_7tj5Vyt0wngICj6GnWEHphW8fpaSybzKAa-pV/s1600/phpshell.jpg"
-    },
-    {
-      "title": "Príncipe da Pérsia do Irã APT hospeda C&C nos EUA pela primeira vez desde 2016",
-      "summary": "Após uma pausa de três meses, o Prince of Persia escondeu um servidor Tornado C&C na hospedagem compartilhada dos EUA, seu primeiro servidor baseado nos EUA desde 2016. A postagem Prince of Persia do Irã APT hospeda C&C nos EUA pela primeira vez desde 2016 apa",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/",
-      "published": "2026-10-23T06:39:29+00:00",
-      "image": ""
-    },
-    {
-      "title": "State Bank of India sofre vazamento de dados de PII de cliente",
-      "summary": "Violações de dados relativamente pequenas na Índia podem tornar-se bastante graves, graças a um sofisticado mercado clandestino para o comércio de PII.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak",
-      "published": "2026-10-23T03:30:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt979cd25773f1b3d4/6ada6acba10b57ec999014b8/SBI-Yawar_Nazir-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Railway alerta desenvolvedores para alternar segredos após possível violação",
-      "summary": "A plataforma em nuvem Railway publicou um aviso urgente aos usuários após detectar atividades suspeitas em seus sistemas que armazenam variáveis ​​de ambiente do cliente no início desta semana. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
-      "published": "2026-10-22T21:25:31+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft vincula Storm-0940 ao ataque à cadeia de suprimentos ConnectWise",
-      "summary": "O ator ligado à China utilizou uma ferramenta de teste de penetração habilitada para IA para automatizar e acelerar o seu ataque a mais de 2.200 inquilinos.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
-      "published": "2026-10-22T20:42:17+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt481be0dcde6741d2/6ada753af919424ed83bcdaf/chinacyber_mageFlow_shutterstock.jpg?width=720&quality=80&disable=upscale"
     }
   ]
 }
