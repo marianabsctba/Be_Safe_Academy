@@ -1,9 +1,108 @@
 {
-  "updated_at": "2026-10-23T17:17:51.548684+00:00",
+  "updated_at": "2026-10-23T21:31:51.105164+00:00",
   "items": [
     {
-      "title": "Microsoft: Windows Server 2016 chega ao fim do suporte em janeiro",
-      "summary": "A Microsoft afirma que o Windows Server 2016 deixará de receber atualizações de segurança após atingir o fim do suporte em janeiro de 2027. [...]",
+      "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
+      "published": "2026-10-23T20:57:56+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt34579512de050396/6a5a6336b09056633bee9fe7/trust_dial-NicoElNino-getty-2079838824.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Abandoned Popcorn Time app exposed millions of device to RCE attacks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+      "published": "2026-10-23T20:55:05+00:00",
+      "image": ""
+    },
+    {
+      "title": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
+      "published": "2026-10-23T19:41:23+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte307a3bd1a7bcb35/6adb9c8d2d5b887cc408cb52/Globe_bandages-zennie-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+      "published": "2026-10-23T18:54:41+00:00",
+      "image": ""
+    },
+    {
+      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+      "published": "2026-10-23T18:50:13+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0cTK7D5hQFR-3qGTicTlfi6_CbnMIgCJWIojDeXmZr91hrIPqhhxZ72mAsnB6kBOcCdscZOL_VN8RhAdYIxq3d128rkaDweIApSaV5w3IzB1YGN3XNnlarG0IKN5VuDJy_RnPBxXZoKQ1Yh950YFNz-b_pbvEY_QlQa5Tr-BP4366UgkGIg968J-QEN1M/s1600/uefi.jpg"
+    },
+    {
+      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mci1JT250Ujg4emRCZThxLWw1YXI5WkNWdjBmTHhpcG9FZE0yV2Zha29rZERBM3F5M25RSEgwazFncXBBNHNhUkJ4OTJ1dl9aTzV2cWhJSU5XRWNkd1JHa25ja0JFLVNJZGVfVkhpX003eVkyRjNQbjFUWWFaYkE?oc=5",
+      "published": "2026-10-23T18:50:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/",
+      "published": "2026-10-23T18:12:19+00:00",
+      "image": ""
+    },
+    {
+      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+      "published": "2026-10-23T17:54:08+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA5n8ST_yuElQgTwbfq1oFnVAoiTvZCW_Ct1b8lT_OQ9dnyeXfocrqzTUJJ1t920YaEa-7Sonxl9KlthV4x7lXI3dmJxc9_S11NjWRJ6dcgfsX4UGhv0KFWZsZrzXKpjh92JPyDdHPlCPQh1AHd0YKM44sVcc9d-57r8_BdrIb3V06MWfk8bRAy4kDU6I/s1600/ruby-rce.jpg"
+    },
+    {
+      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+      "published": "2026-10-23T17:50:47+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6gkXKzxUypnUKbTuo7Xq-8TSUpDD8TNF5XEG-bV6zcA7V3z_cO2pJeTiX1KIFi-rFNX5SOlMY93oGQpfQUuWOl0RJ35nM1XeIqu2ZV4aAIZXEd9RXQVQk0rMmeI67ysGsTJ1OXLIQg2LvGjMLHCQQ8dgqalHaBE9yCZKwIOVjHCD_lOTlsP1HdBziZ3Sb/s1600/ai-hacker-kimi.jpg"
+    },
+    {
+      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RdS16cTVMVVc1bWUweEI5OHJ5aDUwUFhnMG4xMW0xUHNEYTVQcjYwdWZQNERYWG03YkVuNXhva2pYY1dtcl9fczZDYi1XTl9VcmJQU0F5cXJ2bzEyYTNrbWJEeFVVWlMwQjFjM0YtWURDM0VZdG9JbXViZ1ZKdw?oc=5",
+      "published": "2026-10-23T17:50:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "AI Tools Are Generating Massive Attacks for Little Cost",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost",
+      "published": "2026-10-23T17:26:59+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte7023e63db2b06bb/6adb780c560f54c5dbf647e8/economics-cybersecurity-Ton_Wanniwat-shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Microsoft: Windows Server 2016 reaches end of support in January",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "DEFESA",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
@@ -11,8 +110,8 @@
       "image": ""
     },
     {
-      "title": "Quest Diagnostics confirma registros de pacientes expostos a violação de dados",
-      "summary": "A empresa americana de laboratórios clínicos Quest Diagnostics divulgou que os registros dos pacientes foram expostos depois que um agente de ameaça obteve acesso não autorizado ao seu sistema Quanum LSM. [...]",
+      "title": "Quest Diagnostics confirms data breach exposed patient records",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
@@ -20,8 +119,8 @@
       "image": ""
     },
     {
-      "title": "PHP compartilha mitigação para nova vulnerabilidade RCE sem patch",
-      "summary": "A equipe de segurança do PHP compartilhou medidas de mitigação para uma nova vulnerabilidade de execução remota de código que afeta sistemas com configurações não padrão e sem patch. [...]",
+      "title": "PHP shares mitigation for new RCE vulnerability with no patch",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
@@ -29,8 +128,8 @@
       "image": ""
     },
     {
-      "title": "Em outras notícias: Tor Exit Relays sequestrados, bancos detectam agentes de IA desonestos, ransomware macOS de auto-reconstrução",
-      "summary": "Histórias dignas de nota que podem ter passado despercebidas: o APT28 da Rússia atingiu empresas de defesa da OTAN, o código-fonte do PingCAP foi roubado, a investigação do negociador ShinyHunters. A postagem Em outras notícias: Relés de saída Tor sequestrados",
+      "title": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/",
@@ -38,8 +137,8 @@
       "image": ""
     },
     {
-      "title": "Por que as ameaças caribenhas se transformam em riscos cibernéticos globais",
-      "summary": "A região está a demonstrar o que acontece quando as explorações aceleram, mas a garantia não.",
+      "title": "Why Caribbean Threats Cascade Into Global Cyber-Risk",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk",
@@ -47,8 +146,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9c2c56022ab6d6c2/6ada53fbcca51d530a712e5f/Caribbean-FrankRamspott-Getty-1627410191.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Hackers violam firewalls e VPNs empresariais, expondo mais de 70.000 credenciais",
-      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma campanha em grande escala que teve como alvo dispositivos de borda de rede expostos, como os firewalls Fortinet FortiGate e Palo Alto Networks GlobalProtect. \"Os artefactos desta investigação ta",
+      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
@@ -56,111 +155,12 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSk-Q06Dd5YyYmXWMt9b860DzGRKbTae_QwvoZDKNICaEznAj2AUurJmv6vPnpcH7qqDjauFZWWx7GX1RN93BLaU9Rqgiqe9j1iQRg2Vqcz3HpSqgesA6oS-GrMTyx4CTzwOD7C_z205k57ZpT70Gv4RXi-65X-nyI04wpA3raJ5nh46pN5ox42cyLnHjv/s1600/1000117358.jpg"
     },
     {
-      "title": "Hackers violam firewalls corporativos e VPNs, expondo mais de 70.000 credenciais - The Hacker News",
-      "summary": "Hackers violam firewalls e VPNs empresariais, expondo mais de 70.000 credenciais The Hacker News",
+      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPXzhmTmdDTXhpLWNBc2I4ejBjNWFJbXZ0VWJ2blNpZWZHSEVVVEIyMVFDQmRMbmVmWE1EVEtQby12MUlmRmN0c2NqRlU5TDNxQ2MxUnBGWEVBU2wtRTVTZVhSTHVvQ29tb0ZsekxGMEQxY09WSnlGLTM3bXFCcTBBdGVtOFc?oc=5",
       "published": "2026-10-23T13:50:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "A nova realidade do seguro cibernético: a subscrição não é suficiente",
-      "summary": "O aumento dos riscos de IA, engenharia social e nuvem estão empurrando as operadoras para além da transferência de riscos e se aprofundando na própria segurança cibernética.",
-      "category": "CLOUD & IA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough",
-      "published": "2026-10-23T13:30:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt532ec4c95e5c91b7/6ada58e98f65b93d8e99c4a2/Insurance_policy-Mohamad_Faizal_Bin_Ramli-GettyImages-1295819436.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "A HPE corrige oito falhas de RCE de gravidade máxima e desvio de autenticação de AOS",
-      "summary": "A Hewlett Packard Enterprise (HPE) lançou atualizações de segurança para corrigir 72 vulnerabilidades no sistema operacional Aruba (ArubaOS), incluindo oito desvios de autenticação de gravidade máxima e problemas de execução de código. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
-      "published": "2026-10-23T12:48:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Operadores de botnet Mirai juntam-se a ataques PHP2Shell à medida que surgem explorações de desvio de ASLR",
-      "summary": "Os pesquisadores vinculam as tentativas do PHP2Shell a um botnet Mirai e mostram um desvio de ASLR, mas nenhum comprometimento bem-sucedido foi confirmado ainda. A postagem Operadores de botnet Mirai juntam-se a ataques PHP2Shell enquanto surgem explorações de",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/",
-      "published": "2026-10-23T12:45:52+00:00",
-      "image": ""
-    },
-    {
-      "title": "Operadores de botnet Mirai unem-se a ataques PHP2Shell enquanto surgem explorações de desvio de ASLR - SecurityWeek",
-      "summary": "Operadores de botnet Mirai unem-se a ataques PHP2Shell enquanto explorações de desvio de ASLR emergem SecurityWeek",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMkxRSmMtek9DTG9TdjhLeXF4dHF5SDVWTVo3M2JkS1g1cVhfZjBvXzZEbWx0YmNDeXNRRXNLVHI1ckhWdTVGSGZmUmFLSExDekFFUUlYNVhjRXZCbVpLV3JjalEtOU5PakhVVW1nZ241YlQ4NDVsZnY5TFZfdUR1bFZ1SmpxZjZUSEZycURCTXp1LTY4VEJsLTQzU083ZWhaTGs2alRmXzhTd9IBrwFBVV95cUxOc0RXRi1EX0VZQ3hXRE1lNVptTURiX0ZFengtQnhGZmVLN3lMenVqbWxWOUlxbjBKWGlZR0ZwY1Rwbk9Pd2JrMy1lLWtvQlc4OUZveG5DVVNNWFVyMi1uYnJQd1NLNmU1NDljTkRzX2l6TjFkVmpSWnlOT1o3YVBHcmNpODktOF8zYkl2LU4xeHVCaURvVWY4YVpUQ2FQdHFkM0ZXX1N4UmNnQWdQaWdj?oc=5",
-      "published": "2026-10-23T12:45:52+00:00",
-      "image": ""
-    },
-    {
-      "title": "Agentes de IA como ameaças internas: por dentro da aposta da Microsoft em uma pilha de segurança unificada",
-      "summary": "O Project Perception da Microsoft adiciona Agentes Guardiões para monitorar e conter agentes de IA anômalos, mas especialistas alertam que o policiamento de agentes imprevisíveis com outros agentes pode multiplicar – e não conter – o risco.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
-      "published": "2026-10-23T11:38:28+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt521637665481bcc9/65dfe9cfea879b040a14fbb9/policerobot-Agencja_Fotograficzna_Caro-alamy.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "PHP alerta sobre outro risco de RCE não corrigido dois dias após patches de emergência do PHP2Shell",
-      "summary": "O PHP alertou sobre outra maneira pela qual um invasor poderia executar código em um servidor web, dois dias depois de enviar correções de emergência para as falhas críticas do PHP2Shell. O novo problema, atribuído CVE-2026-115560, afeta apenas aplicativos web",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-      "published": "2026-10-23T11:25:43+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXE1XecomGt7TSLi_DCDVL8oQjsLEtppNNGjkuW1cbVl-cXZkMG-rqTr-oSVz_6XfoU8aoScw3rjGxsnTpV3JaV5eWfj431lg09Rnrrk1UjwNq1ZEofkwR4FaM2qatC_FD9ZNBZk-T9_9ddu8n-BtUkhwVgWzc2ZvaWAHP8eMxlLU19qxIjlXeHOJYHs/s1600/php2.jpg"
-    },
-    {
-      "title": "PHP alerta sobre outro risco de RCE não corrigido dois dias após patches de emergência do PHP2Shell - The Hacker News",
-      "summary": "PHP alerta sobre outro risco de RCE não corrigido dois dias após correções de emergência PHP2Shell The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa1ZSODRXV0ZXTTJ1TFh6S19mRXJ0Yld5b3dDd1F2RnMwTXZ2Y1EyMm83ak05WVF3NndRRXhtczJBeG9tVmxWZXRCa2lHYjVkVzFUM0Y1dTFsbXoxaHpzY0lTQzRZeEpWQ2dmdkxBcWphV0gyeGNYNWtDZE1QWHpRSnRB?oc=5",
-      "published": "2026-10-23T11:25:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers ligados à Rússia usaram novo backdoor de rede mesh em ataque destrutivo na Ucrânia",
-      "summary": "O grupo de hackers patrocinado pelo Estado russo Sandworm se uniu a outro ator de ameaça para realizar um ataque destrutivo contra uma empresa de logística ucraniana no ano passado. De acordo com a ESET, o ataque envolveu o UAC-0099 (também conhecido como Eart",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-      "published": "2026-10-23T11:11:23+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxH9YdfH7FHfSBJt7wrnd1P2hTQG6_2rpkp3YBqp2Yd49nYy4-a0zmvk5mqKlXH4DWfRO4Q4MmzLG4_t19me5rErcvoEpGJ5Q8LYty_GXXys63QC8HlO3G2jRC9f5vJd1BDiOp4APzxV4rSbFOZY80zIUmxvJ8V6isB-eDy9e9tVWaLR53fpPO80mzn_BH/s1600/uk-russia.jpg"
-    },
-    {
-      "title": "Hackers ligados à Rússia usaram novo backdoor de rede mesh em ataque destrutivo na Ucrânia - The Hacker News",
-      "summary": "Hackers ligados à Rússia usaram novo backdoor de rede mesh em ataque destrutivo na Ucrânia The Hacker News",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUjA1OVBVbl92Mk5fUFNEak9QMTJlM3pKWHBaandrVFlQNVhWN0ZySG83VXQtQXg5Vy1QUkxIaVdjQnlkRTFRMEktM0Y4REFmeDdnR0J2ZG1NUVhPZUl6MGprVF9uOTdjT0hmT05XWTllUGUwelhzSnRRRVU3VUF4OQ?oc=5",
-      "published": "2026-10-23T11:11:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "China APT usa ferramenta AI Pentest Artex em ataques ConnectWise",
-      "summary": "Os hackers patrocinados pelo Estado visaram centenas de organizações e obtiveram acesso privilegiado a alguns ambientes. O post China APT usa AI Pentest Tool Artex em ataques ConnectWise apareceu pela primeira vez em SecurityWeek.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/",
-      "published": "2026-10-23T10:31:16+00:00",
-      "image": ""
-    },
-    {
-      "title": "Atacantes exploram terceiro dia zero do Arista VCO em quatro meses",
-      "summary": "A falha de injeção de SQL de gravidade crítica permite que invasores acessem funcionalidades internas privilegiadas e obtenham privilégios de operador. A postagem Atacantes exploram o terceiro dia zero do Arista VCO em quatro meses apareceu pela primeira vez n",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
-      "published": "2026-10-23T09:58:34+00:00",
       "image": ""
     }
   ]
