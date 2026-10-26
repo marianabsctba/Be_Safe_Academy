@@ -1,6 +1,114 @@
 {
-  "updated_at": "2026-10-26T04:59:13.897905+00:00",
+  "updated_at": "2026-10-26T13:18:05.447244+00:00",
   "items": [
+    {
+      "title": "953 Online Stores Infected in Long-Lasting Malware Campaign",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/",
+      "published": "2026-10-26T12:46:44+00:00",
+      "image": ""
+    },
+    {
+      "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
+      "published": "2026-10-26T11:52:41+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5xq9w5oCep_lu7UpdVExPO7yRQ1tMz0YkxljYR_LmwG3WKowZ2CtLPh4F6kASJ7Xu0xJKy4uVzlwj7fPEO3fgKUELS4BqUtDZvGh1P-iqRslXNCLdkcJMCBGSKvJeqrrkeZdfPO9Wmv_v2VqdYEZVavTHw-QHUhli9QYGVhASuSRt3DETy8JMBz1D-kE/s1600/wasm.jpg"
+    },
+    {
+      "title": "Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/",
+      "published": "2026-10-26T11:47:52+00:00",
+      "image": ""
+    },
+    {
+      "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+      "published": "2026-10-26T11:23:56+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH3sLtMeyrqaZo1e2DoGlQohJtAM96DKv9JxQVxynJVNyJ_76dwQQAvkcN2xeos8NtStnH6A3B4bOwtFvdsNSxdBkR6so5s66iBb0ApIhIJ2cs3hVCYdh6oOnO4K_kwKOJsDSqL4wsPrOJ48x3VmSXiQwpcxm_ULL7En-Xw_9Rc1sEFQvCdb9Sr0NwUH0/s1600/Misses.jpg"
+    },
+    {
+      "title": "Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/",
+      "published": "2026-10-26T10:21:57+00:00",
+      "image": ""
+    },
+    {
+      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+      "published": "2026-10-26T09:54:02+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdBBtFdo2KmBzapUDlLWoS0hh17lYfWUw0kOLWTfbgeNOTP5F5pEJPmWSzBHkjSv4HR-vwfJ-Ba38Tg_su11Zi4CDKXJ29BnlQdCrU-oU84jl7TAET_aPyWV2fRazSLy0hBz8sBP3EhFubGETPdPwpnAFAX0CSbEQfsA65JqQMob9R_4cPbbJRi91KAkY/s1600/telegram-wechat.jpg"
+    },
+    {
+      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+      "published": "2026-10-26T09:19:57+00:00",
+      "image": ""
+    },
+    {
+      "title": "Mythos 5 Ignored Real-World Harm in July Attack",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/",
+      "published": "2026-10-26T09:10:03+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+      "published": "2026-10-26T08:35:51+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKwJ8hpTcgaV_VMCyzQDPQQOPlZmmE3Fg-XAOrUfFazMKgVGEoT7OHQgWhyJLhCpHO6Hvp35u_YZGBfyGXAuJfpwP4BriicsNfvhPXjq4BzNyULVQPzNCWzmSIGnDLN7P2RNW2sfm15qZxLrVzpDg8FvOcGTZBhMsBFPH3IhiV1k3NdGAHFRC7kkKaOMMn/s1600/contoso.jpg"
+    },
+    {
+      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+      "published": "2026-10-26T07:49:46+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipCbP2hnS9ddXqMz9cNIAMEQZWy2qX45MZnYfIuO_Zszamhl_FS7ViRp4CZcjHS6uu6A4jR_S4vBzHzoMNtAb0CbaGxHxj2F07wuKWHfSbsFUov-4dsQWUNJZwfGbnfThW1sAQZ61y5ibqyhlW1iBmbWeSwE1gKHsigRRXaql9P96aFANb3al6vno7fuA/s1600/github-secrets.jpg"
+    },
+    {
+      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+      "published": "2026-10-26T06:03:48+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6cUQufM8zcABLKEfGt5xpGX34mUnThXvptS6o1GfAv8Ak_FO__f-rsT0GPf1Nro1NSRQuUsEGJl1boXq5Rt-IMFOnHunESsqj4sfJ_ypu9qhRgva3V0OqPN04FAKvOw0Y0KeKUvgG_RzWvA7u6piuPvLIaTJG2mbeWRRgFJB2vziZdJbkU1dN2nfwBf8/s1600/codex.png"
+    },
+    {
+      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15ZHdheVQ5cVEzNzhBZnJJa1p0R0phR1ppdl92R0NWdEdzbnlINnZBSEQ2cXFCaWYyRGtXQW94ek4yTDZXMy1PV0dHM2xIc2FuOTNMNkNuN0FJbUtWY1FqTEN4SHlKamotOXNfczM5cS16bnF4eW03WUEtd0VKdw?oc=5",
+      "published": "2026-10-26T06:03:00+00:00",
+      "image": ""
+    },
     {
       "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
@@ -9,6 +117,15 @@
       "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
       "published": "2026-10-25T17:44:09+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbGR63RmXInXPwCVFZlGJSiGv5WQfLTWymToOPIYbKXfXniB7X4YDbTVK-28G4r3WfdelCr_2TRzhoYrIogcG_C9WjXEHaLhURIh_v5RyO5sBY8UKwQWbKUBrv_H5n5K7N4mz2WG3d5dldw_re-M5CgDDbVi_EhTqvB9P87fZJlODojj8ivvj-RwLUhpg/s1600/tailscale.jpg"
+    },
+    {
+      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU0dXVVB0bGJlZ1JjUDBEUmZqeWVIQ0tLYUZnVE1INHV0THdOWGVDdnVuRXlhbThDVmFnMWcxUGRLV3dHb2Zya1dlZFNHN1pOaG9adHRlUjRtMk5ROVkwTDR5a2k4dFhwQVdkTzMzYm5pazBvYjZ2MFkyTTlLZzVYWVBEYkI?oc=5",
+      "published": "2026-10-25T17:44:00+00:00",
+      "image": ""
     },
     {
       "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
@@ -20,7 +137,7 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzK2qokKedMIUzd876s0EWaLDb7qw-DMzlFWKvmfgCzMKZ2KVvdpZ-298SoEm1_PP6aoEBc6q1LAydnANGur1FbFNmXmhlo6zHtRFvgRcbx-LOoDoM_-JI-_7XkkM4r5q3LQH1SdfirarXTGeiu16d5YMDSeYs8tfJn5ITfRQ4DThbqkq66b4WdDQcOJqf/s1600/php2shell-exploit.jpg"
     },
     {
-      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking - The Hacker News",
+      "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity - The Hacker News",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
@@ -38,130 +155,13 @@
       "image": ""
     },
     {
-      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "CLOUD & IA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
-      "published": "2026-10-25T06:54:29+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSwuCxStjU_WIIOJ5dEqVxFVQeLfJevQdmLoYLBiXsduAvosK7VfzyduIRRmiOcpl2lQlSdEoInwRkfOnR4devMGT6oI_Limrjcx8yLFsTRau7CBK76cGIMXxC916OKHtwALlELG-nPljBDVIPl2aPDOZTYqkTr6AyZMyFQ6hwUFdfx5Tr2cz8KpDSlb9j/s1600/ai-agents.jpg"
-    },
-    {
-      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-      "published": "2026-10-24T14:17:32+00:00",
-      "image": ""
-    },
-    {
-      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-      "published": "2026-10-24T11:09:29+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxIIerJT3LOMCGn3nXAnmhaHzJlJnVJCso1COluq8t3WuF4IpNARa_Asl5nEhRUDTEcR89kwzo5vGmP5IyNbj1ncdaCpkhqcHUODHAd3khanaE-7N8Vb0NyEJkmPmNkhSpJtLCLgi9srDRhZLtM5n8UDI58F797ZJaVzC7JzjPLfca4NpxZr_7tCX8RIk/s1600/br-nodejs.jpg"
-    },
-    {
-      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-      "published": "2026-10-24T11:03:33+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipiDo2Yur6TXZHLped9EQgORAH65rC4APGTaq_EZzlDnspAaULTQCKblBC0FeIah7nOCKTiQa2Oi8cyx-bbxHj042Km9oYAf2s78XmStFxzPBTSQ_oqv4ZcWGEkUP1wo5JfJ1UDrWQpAtz8ZHd9i3ZbGWWe8s6CMeUU_nObp5tCEywMWGovqFh9NA1H8Sv/s1600/lite.jpg"
-    },
-    {
-      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ1hydHp6Zm9tZktVS0w4TTZsY3pRUFVRcHlTZ0V0cklCeXp1aGpqdkVoQ3o4TFZjanI1ZmVTRVRoWUZ3LXZ3UFNhUmMyV0k5b0JUMTg5c2FLUHRRQ3UzX04xS1IyekFQX3VaRURhV1YxWHpVT1RLMHRmem1jeGdPaG5nalY?oc=5",
-      "published": "2026-10-24T11:03:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "CLOUD & IA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-      "published": "2026-10-24T10:36:33+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhROXFilBwGnS1Jb3AQ6nIinoxB1mh-7gsbdRfToYn8VReagY7IMb3CCVyZkzPFEfOHIkwnRxmOSeM30Gxp7e9uRzvuvEqQTmIMPilPM_IfujygTv6OfExi8kWoEhF42lBKok_gzwD4Md_daCMvVOtlf2pQT7mgtYuJA0TzJnhkM4PCycgKpf0XxIBQmI57/s1600/google-ai.jpg"
-    },
-    {
-      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
-      "published": "2026-10-24T09:04:24+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuy-T7iQPeiRqkJd7yhxd2WVQzxURRnLyHG9yz5fUXxIhjUW-bv_yAAt13dnTE1ecuh1w6cRjenRXL3In2b55rL22lXnBhpKrVvS9c5Qb6Bv0TeQPLeAXYoafNYnqYxYQwWnZBCO3e8ZW-HS8Y2GMbQuGz58-_wG7gT6Pcok3j53J4iiZ7jw6kLoGGtWU/s1600/popcorn.jpg"
-    },
-    {
-      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbU5CVzJRckUtWmVNdW5Ob2x2cGhIME1VU1B2dmpsZzFZQmx2dTBrQWVPeUwwWEFGZE41SjQ4YUVKUXEyenA1Nm1Ua09Ebk12QXUzWUlVVTF4QXdCbWE0dkVDa2E5bGc4U20yNW8yTFlmcUJtdHVDLTNlV3JVNHhnckRIMFY?oc=5",
-      "published": "2026-10-24T09:04:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-      "published": "2026-10-24T06:25:57+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmm0pKX3kbfMC2GKemUiMT8PH1uDJIHn4AcmoiQ5nUK4TWZl0Ni_-k6kjpAFUrFzEWSSq_G307YJXTXmn9FZ7q6oOr5OEMASP9mrXOXrk9lSOGzqPCAbkQqpHsMxFe1q5CnyDZnqeDq_FiiC7jEzp0ie1r_nnQOSKcbPcKBdoXI-ycAjCZA9AuxemUhE5k/s1600/arista-cisa.jpg"
-    },
-    {
-      "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
-      "published": "2026-10-23T20:57:56+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt34579512de050396/6a5a6336b09056633bee9fe7/trust_dial-NicoElNino-getty-2079838824.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
-      "published": "2026-10-23T20:55:05+00:00",
-      "image": ""
-    },
-    {
-      "title": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice",
+      "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave - SecurityWeek",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "DEFESA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
-      "published": "2026-10-23T19:41:23+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte307a3bd1a7bcb35/6adb9c8d2d5b887cc408cb52/Globe_bandages-zennie-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
-      "published": "2026-10-23T18:54:41+00:00",
+      "source": "SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONDFvRlVTQS1XV2ZKUlZHSkhsNlBQUU04YWVGQVV3T2VpczltZERrX1RwQlBxN3VEUm1iRU8zU0tIYzl6Z3BBaHVnZnh6UHNGNkdCaE42Z2ZrY2tBRlhsWDJ2ekhfaVhINGQ4U3dtS25SdTFBRzA2ems1cHhVWGdSRVBsTE1iaDdpbm1HbmtVQzZiQmdwZXl0ZVMwbkJuRVZVYXhaSFYxWdIBrAFBVV95cUxNd3lYZXRWN2RfcGpBNGVoRjYwQ2hMX2RfR2NEbVR4Z0Y2N19kMVh4UlplZXZ4TjJzclAtYXNzeTBLODhpOXNQZFFQX3FvMm9INTZnRzJ4VzFwbXdnYzVKOWVQa2ZSYkM2Q0p1Z2s3OVpwNjRFRjFSUE43V05lNUtjSjZhT3gxd1pIa1JpNFV5ZXlHX3FrSkdRa2FjVkltcHY0aGpoTkZSalhOS2RH?oc=5",
+      "published": "2026-10-25T11:00:00+00:00",
       "image": ""
-    },
-    {
-      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-      "published": "2026-10-23T18:50:13+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0cTK7D5hQFR-3qGTicTlfi6_CbnMIgCJWIojDeXmZr91hrIPqhhxZ72mAsnB6kBOcCdscZOL_VN8RhAdYIxq3d128rkaDweIApSaV5w3IzB1YGN3XNnlarG0IKN5VuDJy_RnPBxXZoKQ1Yh950YFNz-b_pbvEY_QlQa5Tr-BP4366UgkGIg968J-QEN1M/s1600/uefi.jpg"
     }
   ]
 }
