@@ -1,6 +1,51 @@
 {
-  "updated_at": "2026-10-26T20:37:00.771044+00:00",
+  "updated_at": "2026-10-27T00:35:08.970924+00:00",
   "items": [
+    {
+      "title": "So Many AI Security Benchmarks, But None Tell the Whole Story",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
+      "published": "2026-10-27T00:26:50+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdc3474b6e8cd660f/6ada510270603f3265a5b817/measuring-tape-on-table-k1tyara-shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "University of Copenhagen data breach exposes data of 525,000 people",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+      "published": "2026-10-26T22:20:36+00:00",
+      "image": ""
+    },
+    {
+      "title": "Risks & Rewards: How AI Is Redefining the CISO's Role",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "CLOUD & IA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
+      "published": "2026-10-26T21:44:33+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt739dd94533bc1a1c/6adfbdf0c68e80623ff507bb/ciso_Dave_Hoeek_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
+      "published": "2026-10-26T21:08:28+00:00",
+      "image": ""
+    },
+    {
+      "title": "In-the-Wild Attack Abuses AI Agents' Trust in Markdown",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
+      "published": "2026-10-26T20:59:26+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta8e8c1bff2695425/6adfab77ad59c66918c6c335/laptop_and_folder-ipuwadol-GettyImages-1402436756.jpg?width=720&quality=80&disable=upscale"
+    },
     {
       "title": "Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
@@ -45,15 +90,6 @@
       "url": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
       "published": "2026-10-26T17:45:57+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWGYEqFaRxRywsWzBt-2T2G_Jpdp4zy3iV7qI1alNGRaBf_8TMdzRQQb335GhASkVoXD3q9mGkiLjAog4ez9d7DHhl88lkNVvuhI74KiKZP0zZpb2O8yyqyDw12WoYTiGaq1AVfG9TfGcdNhP-DmRwuKJ4Pj4mr9rEo-TVLYxYSpmUogJUSFZFL_VaduQ/s1600/php-windows.jpg"
-    },
-    {
-      "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZaUhGWXUtaV9nYnBYMEE4elZQRjFlUWFvUEhVX1IyZWg3RjJFdkV0UWRLa3dyWWZybjVtSk1oY2h3Nl9OTzcwXzdha3QwT0gtWUp5U05wNWdEN0JMVmp2Z3JzaFJteldOOTYtcUgwUXdDTWxmUm1ObFZ3MHlQdw?oc=5",
-      "published": "2026-10-26T17:45:00+00:00",
-      "image": ""
     },
     {
       "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
@@ -126,42 +162,6 @@
       "url": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
       "published": "2026-10-26T14:06:13+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjztmxBbaYZEAd_HSv1heMQm8UuLym1h7XcN8NrgWjJmaoghOIR2O1rHwQzunUd9jlQn4R_8ft4Y0K9xLQOhs2xM8vVh1eHoEsZIFonHd7K6TA1cd0aIJ6jK-K2RNVBCwMfQwq7WWpuFtB8inWvubRjIEw_9fetsRFllw-fsAAnjCnpMCqFIL28ovMhJwbd/s1600/recap2monday.jpg"
-    },
-    {
-      "title": "10 Software Security Practices Built for the Next 250 Years",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years",
-      "published": "2026-10-26T14:00:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0de7e1fa7b975bb4/6a2830dd09a01a8cc3ee406e/bug-sankai-Getty-2192972249.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "PHP2Shell Exploitation Moves From Probes to Working Shells",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/",
-      "published": "2026-10-26T13:30:10+00:00",
-      "image": ""
-    },
-    {
-      "title": "PHP2Shell Exploitation Moves From Probes to Working Shells - SecurityWeek",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT0xvcDZrOXl1MlFybDBjbGIwTW5pUFNwQ0pRMkpubUp2ak13cDR5V1dPR2FEMXcxRm1pUUE1NXNEVjBoMmxpX2pBV0V0UTJlTHdYYzE5SDZ4V001bTVhb203TUgwRV90a293Ql9ZNTVGRnlKeDlWMWJLTndfMGVLem1yY2pNc3ltbzR2QWswUUR5QdIBlwFBVV95cUxOWjBYX2hQRGVrOXlQNDhZNzRXZWkwdzV4UEV6RWtLRnhJbElBNmt3bGlKYndtOGg2Sm5tUTVuaUdsY21tRkNmeXhGMlAxQTVQLW4zcVQwaEl2cW1lUmFKUDVvWS1jMkwtM2VPQlVQVnBqWDY5YmtFbVBBOV9kU05xQjRibHVwY0RXMlc5bnEzWmEtRXA2TmhZ?oc=5",
-      "published": "2026-10-26T13:30:10+00:00",
-      "image": ""
-    },
-    {
-      "title": "953 Online Stores Infected in Long-Lasting Malware Campaign",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/",
-      "published": "2026-10-26T12:46:44+00:00",
-      "image": ""
     }
   ]
 }
