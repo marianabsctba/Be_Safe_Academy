@@ -1,9 +1,108 @@
 {
-  "updated_at": "2026-10-27T15:27:01.301661+00:00",
+  "updated_at": "2026-10-27T22:24:47.021364+00:00",
   "items": [
     {
-      "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Ataque de ransomware da UNM Health interrompe atendimento a pacientes e cirurgias",
+      "summary": "O Centro de Ciências da Saúde da Universidade do Novo México divulgou um ataque cibernético que causou interrupções no sistema e interrompeu o atendimento aos pacientes e as atividades acadêmicas. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
+      "published": "2026-10-27T22:07:34+00:00",
+      "image": ""
+    },
+    {
+      "title": "3 estruturas para proteger CISOs e organizações contra responsabilidades de IA",
+      "summary": "Os líderes cibernéticos podem se antecipar à responsabilidade pela IA com documentação rigorosa, transparência e negociações inteligentes de contratos com fornecedores de IA.",
+      "category": "CLOUD & IA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
+      "published": "2026-10-27T21:15:03+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbc201b7327a3221e/6ae0e1681ae793f19fb9e1de/Cyber_legal_Abu_Hanifa_Getty_Images.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Bate-papos de equipes externas ancoram entrega de malware em 15 minutos",
+      "summary": "A principal irmã do bombardeio está ganhando um novo visual com uma campanha contínua de engenharia social em larga escala que pode estar ligada à gangue de ransomware Black Basta.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
+      "published": "2026-10-27T20:42:40+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt634b295db59f5c55/6ae0fd3853ec236cfd97d242/Email_flood-juststock-GettyImages-2156140935.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Os SBOMs por si só não podem revelar o escopo de um ataque à cadeia de suprimentos",
+      "summary": "Um recente ataque Shai-Hulud mostra que os defensores precisam de visibilidade em tempo real do código de produção e dos serviços afetados para responder aos comprometimentos da cadeia de fornecimento.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack",
+      "published": "2026-10-27T19:58:06+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaa7bc1b8ce13713c/6ae1025ea3c73d20dd328ef4/sschain_LocalPhotoSomebody_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "CyberStrikeAI usa 44 agentes de IA para automatizar operações de hackers contra alvos no Japão",
+      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de três ataques cibernéticos direcionados a organizações no Japão, nos quais a inteligência artificial (IA) foi um elemento-chave, seja no comando ou para auxiliar um operador humano. TrendAI, que anal",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+      "published": "2026-10-27T18:26:46+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiniSfVwM2b4RVouLhc_nIvm2CdQCg9jtQDBVQP6BjvEC2NBaLFqU0A8RyC_GA3PkI4jF87W3h0GJ4xzycp6LAd4I3eRh3JnhnM9yi7CZ9dX2Pfe3MdDaaUSyrDUy1ksA-fdq0bUVzWcFRmS-JWOy3z7xiWB70DzgXLst_YspRqbGIAyv85_D4H9sPT7Sq3/s1600/cyberstrikeai.jpg"
+    },
+    {
+      "title": "CyberStrikeAI usa 44 agentes de IA para automatizar operações de hacking contra alvos do Japão - The Hacker News",
+      "summary": "CyberStrikeAI usa 44 agentes de IA para automatizar operações de hacking contra alvos do Japão The Hacker News",
+      "category": "CLOUD & IA",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XVXBTdTVsTmJSUXJDN3Y4VmVudFJaRFFISWxxTFRXb2Jwbkg3MS1Db0Y3ZzA2dGxBQUc1Tnp6WUVJVFVBNXJmQ214MmxWTjlZMGprQV91Z3JDQWM2UXNzcllLVVNyV0t2M3F6Q1dlN2pYRTMyX1dENWg2ZkxNUQ?oc=5",
+      "published": "2026-10-27T18:26:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Cuidado com o Slasher: IA pode acabar com as habilidades dos profissionais de segurança cibernética",
+      "summary": "Nathan Hamiel descreve o potencial horror do SecOps no meio da IA, à medida que as principais capacidades técnicas servem para ler um atlas ou lembrar números de telefone.",
+      "category": "CLOUD & IA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills",
+      "published": "2026-10-27T17:43:07+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc41ecdc8029e697f/6ae0df62008cb1fe5c9e9737/scream-Jesse_Grant-GettyImages-2261562479.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Ladrão de 'Aokigahara' tem como alvo 'chaveiros de desenvolvedor' e assistentes de IA",
+      "summary": "O foco do malware em ferramentas de IA expande o manual tradicional do infostealer para expor uma floresta de sessões de IA, dados de negócios confidenciais e infraestrutura de desenvolvedor a partir de um único endpoint comprometido.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants",
+      "published": "2026-10-27T16:47:20+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt951105ce06efe522/6ae0c30979732c23e08f3f0c/aokigahara-Carl_Court-GettyImages-931736204jpg..jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Warp divulga violação expondo logs de agentes de IA e dados de telemetria do usuário",
+      "summary": "Os logs de decisão do agente e os dados de telemetria pertencentes aos usuários do ambiente de desenvolvimento agente Warp foram expostos em um ataque a um fornecedor terceirizado na infraestrutura do projeto. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
+      "published": "2026-10-27T16:15:39+00:00",
+      "image": ""
+    },
+    {
+      "title": "Tailscale apressa patches após divulgação descoordenada de falhas de ‘Tailworm’",
+      "summary": "Tailscale está preparando um patch para falhas SSH do Tailscale cujos detalhes foram divulgados no fim de semana, antes que qualquer correção fosse lançada. A postagem Tailscale Rushes Patches após divulgação descoordenada de falhas de ‘Tailworm’ apareceu pela",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/",
+      "published": "2026-10-27T15:26:12+00:00",
+      "image": ""
+    },
+    {
+      "title": "Tailscale apressa patches após divulgação descoordenada de falhas do ‘Tailworm’ - SecurityWeek",
+      "summary": "Tailscale apressa patches após divulgação descoordenada de falhas de ‘Tailworm’ SecurityWeek",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZTl0YThJODlqbWxSV3BfbnJINzBqMnFHU2hFWG5leWRCMUlGNHhmdXFmaW83TkxtV2FBSTdJMEZCMFVJR3JQdVMwUjhYc3paaEp5amd3eUdYX184QTBiX18xLWkxRUFxalJJWGFJMHlmTDNHc3MyNC00aElIWWxIUnFWM2tKQjBaU29ta0hGaVljRUJRdVBIWll6ZF81VUZXR00tWE1R0gGrAUFVX3lxTE5aRTJ2ODg3M1d1NzZUeXdNVHRTVlFyNjhiX2x5UTJjblBlenl1ME9ZbFYwX2hObWFYOVN5dlY4SE1QdGtvZjRyd2M1NlBmbllVQjFuMkFDRWFyZTZld1lWaE5aV2s4NWtQM0RiTlJFdnN2ZGlDd2ZIalhtRXVhQzZQM3Jja0lZNERVbWdSSTJmbDNCNGtfNG1XVkRSV3ZpdHBaWUprbHFDUTliWQ?oc=5",
+      "published": "2026-10-27T15:26:12+00:00",
+      "image": ""
+    },
+    {
+      "title": "Tailscale alerta sobre falhas de SSH que permitem escalonamento de privilégios de root",
+      "summary": "A equipe de segurança da Tailscale está trabalhando para corrigir quase uma dúzia de vulnerabilidades de segurança que podem ser exploradas para roubar credenciais, travar servidores, obter privilégios de root e muito mais. [...]",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
@@ -11,8 +110,8 @@
       "image": ""
     },
     {
-      "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "O quadrante trágico da caçadora: classificando as ameaças que atingem mais as empresas",
+      "summary": "Os invasores estão cada vez mais abusando de ferramentas de TI legítimas, sessões do Microsoft 365 e fluxos de trabalho diários para comprometer os negócios sem acionar as defesas tradicionais. O Huntress Labs classifica as ameaças que mais atingem as organiza",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
@@ -20,8 +119,17 @@
       "image": ""
     },
     {
-      "title": "Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Correção de backports da Apple para falha explorada do CoreGraphics em iPhones e iPads mais antigos",
+      "summary": "A Apple reportou na segunda-feira correções para uma falha de segurança de alta gravidade que foi explorada em ataques cibernéticos do mundo real a dispositivos mais antigos. A vulnerabilidade, rastreada como CVE-2026-86950 (pontuação CVSS: 8,8), é uma gravaçã",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+      "published": "2026-10-27T13:59:09+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqZx9ghfLBFufN5Q4s1dq2U1rXwenlfzU7UsqQfLWn3AEUe5CX3krGuvC6DM4mF2T9MmscvntBNxmgU7UjNOnfJQteKvuAs-4Nq0vJ3TnTkuFy1TRO3ibdh2Ekqi_WqiInvPkXjYlnvrCuYb5mb8neOOqBbmf_034wh8MPOLPKW2Nvvezpb2LFNXPbeUa6/s1600/apple-patch.jpg"
+    },
+    {
+      "title": "Vazamento de chave do fornecedor coloca em risco dados de 238.000 membros do plano de saúde de Denver",
+      "summary": "Uma chave de acesso vazada do SquareML poderia ter sido usada para acessar um banco de dados contendo informações pessoais e de saúde. A postagem Vazamento de chave do fornecedor coloca em risco dados de 238.000 membros do plano de saúde de Denver apareceu pel",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/",
@@ -29,8 +137,8 @@
       "image": ""
     },
     {
-      "title": "HPE Patches Dozens of Critical Flaws in Networking Products",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "HPE corrige dezenas de falhas críticas em produtos de rede",
+      "summary": "Oito defeitos de segurança de gravidade máxima podem levar à execução remota de código e ao desvio de autenticação. A postagem HPE corrige dezenas de falhas críticas em produtos de rede apareceu pela primeira vez na SecurityWeek.",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/",
@@ -38,8 +146,8 @@
       "image": ""
     },
     {
-      "title": "Introducing the Cloudflare PHP Capture the Flag challenge",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Apresentando o desafio Cloudflare PHP Capture the Flag",
+      "summary": "Estamos lançando um desafio PHP Capture the Flag integrado ao nosso programa Bug Bounty para testar nossas proteções WAF. Os pesquisadores de segurança são convidados a contornar nossas defesas e capturar a bandeira para ajudar a tornar a Internet mais segura.",
       "category": "CLOUD & IA",
       "source": "Cloudflare Security",
       "url": "https://blog.cloudflare.com/php-ctf/",
@@ -47,121 +155,13 @@
       "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5YGNS8F8NYE3V5QERKYNG79.png"
     },
     {
-      "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Falha do autenticador da Microsoft permite que aplicativos Android sem permissão roubem tokens de contas de trabalho",
+      "summary": "A Microsoft corrigiu uma falha em seu aplicativo Authenticator para Android que permitia que um aplicativo malicioso sem permissões se passasse por um aplicativo confiável da Microsoft, como o Teams, e coletasse tokens de login para a conta de trabalho da víti",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
       "published": "2026-10-27T12:09:50+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqk63DF3MJCMgQqpg91UsWY7mjACbBgPl50GfKwDPi7v3md6sP5l8a2BUqHABjgMN_6BzgcMx4vVKW4hR9B9pz8_XHqp5ctKqQQLw-RJwuKmVWm2MaSzEMkHIsV-Yi0V6Mq_gUYYuzTpi-BzV2-8dRVYBjtuW4nb9TbobkPwvOGTkIFTpr334JB_LZIkw/s1600/msms.jpg"
-    },
-    {
-      "title": "Unexplained DreamHost Incident Prompts Email, FTP Password Resets",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/",
-      "published": "2026-10-27T12:02:06+00:00",
-      "image": ""
-    },
-    {
-      "title": "iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/",
-      "published": "2026-10-27T11:49:57+00:00",
-      "image": ""
-    },
-    {
-      "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
-      "published": "2026-10-27T11:46:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkvGXPUhZZjWBsYYBAx8KeJ8WilsBMLE-JhqfNAEyCOPuxs6-4VIF1e77IHR5zVdGfRsjJkSOfUVE1JaEmKe0mSAVM-ha4SeROxEGAdkLY5n5rBqx1LBSm6UVxA167sJYZEJTRra7BSipFtdlw2S-kFCUOSa9n70NbfSka3zRNVHd0D69qbVpSGIOnuAU/s1600/keystone.jpg"
-    },
-    {
-      "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
-      "published": "2026-10-27T11:32:46+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCX1RKz1isf0HwbYOFkKneC7maFNTVr0q0LTVHBsoGhEN5w7ZOfSLYqfq_6-oKzf51Vb3FJTVla21T-RrWus7Dxadw81UmqDBbw8rIWxfbBhPdI5tyAUQZSYwYaq9JetgW4_4yl1qbWU7ScrdxYjoTCot6v9gXMIyjsk4W66Z531z5oHaHHEguj6_EISU/s1600/keeper-password.jpg"
-    },
-    {
-      "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
-      "published": "2026-10-27T11:32:31+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwoWz3Ex4w0TebsrzDSdna5WAjqoQx5EHWC1kY3db9VgMg6FrGK6VbncVA9b3tKdPnqlR6qmdwsq7CT1f-Cp57WpH6lpfoF-5zb_Xg-ahdsNxO4OUTsdDVeO_8s7SQFLp54SrsWlWrZn-37sAcqv1ZeG_7Yc62vQ5X9Tq-MlIEm6EOQOiTkQVlcy9F4VG4/s1600/korean-malware.jpg"
-    },
-    {
-      "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMVU2SVU1TVhob0N1NUpoSHRWSmlPY3haX21qZ2k0b3hKNVB6OFhXZXdRSnM5Z3RaUXIyYzh5N3dmdjFOVTNVeklGQmVOU2stMG94SUJQdlA1UFN5bExPUW5WRTRaUlhyR2I4UGNDMG1QdWF2bzRBem1KdGxqQ1JEMA?oc=5",
-      "published": "2026-10-27T11:32:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/",
-      "published": "2026-10-27T10:44:20+00:00",
-      "image": ""
-    },
-    {
-      "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
-      "published": "2026-10-27T10:36:12+00:00",
-      "image": ""
-    },
-    {
-      "title": "This is Fine: What NetScaler Zero-Days Tell Us About the New Normal",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/",
-      "published": "2026-10-27T10:02:24+00:00",
-      "image": ""
-    },
-    {
-      "title": "From federal SOCs to Talos: Ryan Fetterman on practical security research",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "Cisco Talos",
-      "url": "https://blog.talosintelligence.com/from-federal-socs-to-talos-ryan-fetterman-on-practical-security-research/",
-      "published": "2026-10-27T10:00:21+00:00",
-      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/09/humans_of_talos.jpg"
-    },
-    {
-      "title": "Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/",
-      "published": "2026-10-27T09:44:50+00:00",
-      "image": ""
-    },
-    {
-      "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
-      "published": "2026-10-27T09:33:06+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinCXm9nOGLf3YFKOH7D87d6Wau4yc3WG_4nSANlzh0oVcI9dUXg07hiHfBkDONqewGH90O6qN1cv9B1vPKGeXr7dhwAjpJ9pHCZKv2MOU9WYesukNBqS55LiPg0ytVl8JonI32qTVei_L25bCcUsPTl2PZsxYhvx0nDsxwqy3RgKE1_iRRuSbAoaH8OcY/s1600/aus.jpg"
     }
   ]
 }
