@@ -1,6 +1,150 @@
 {
-  "updated_at": "2026-10-28T05:55:45.570686+00:00",
+  "updated_at": "2026-10-28T13:12:03.150841+00:00",
   "items": [
+    {
+      "title": "Hackers agora examinam sistemas em busca de falhas Oracle recentemente corrigidas",
+      "summary": "Os invasores começaram a investigar a Internet em busca de sistemas sem correção contra uma vulnerabilidade crítica recentemente divulgada do Oracle E-Business Suite (EBS). [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
+      "published": "2026-10-28T12:19:57+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers ligados à China exploram PHP2Shell para rootear firewalls",
+      "summary": "Os invasores encadearam explorações do PHP2Shell e do Fragnesia e invadiram dois servidores de uma organização afiliada ao governo dos EUA. A postagem Hackers vinculados à China exploram PHP2Shell para rootear firewalls apareceu pela primeira vez na SecurityWe",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/",
+      "published": "2026-10-28T12:00:59+00:00",
+      "image": ""
+    },
+    {
+      "title": "Adobe corrige oito falhas críticas do Campaign Classic, permitindo execução de código e desvio de segurança",
+      "summary": "A Adobe lançou patches para solucionar várias falhas críticas de segurança no Campaign Classic que, se exploradas com sucesso, podem resultar na execução arbitrária de código, desvio de recursos de segurança e escalonamento de privilégios. A lista de oito vuln",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
+      "published": "2026-10-28T11:15:51+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3z7SDPF49VtrfeTS8qZD9-Rv1ne3ZUL2KLJZklOlASYXMnjBQXmmIYZ-wAC9PR248ntUBTyZLq2G6TPVYLZ-aEN7fDFc4pcEhSbt_vj36JTbujGJ2UHTbxFDUOiDvYDyKl7NpCvSMlySdqWjPhyphenhyphenFUNTkC38Ej0biyWHeF1u4kFHCe4tkJjgCW6RCHttx_/s1600/adobe-main.jpg"
+    },
+    {
+      "title": "Falhas há muito ocultadas corrigidas no software de controle de instalações de pesquisa EPICS",
+      "summary": "Quatro falhas do EPICS Base encontradas por um sistema autônomo podem permitir que invasores interrompam processos em aceleradores de partículas e laboratórios de fusão. A postagem Falhas há muito ocultas corrigidas no software de controle de instalações de pe",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/",
+      "published": "2026-10-28T10:48:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "CISA alerta sobre hackers que agora exploram falha crítica do Node2Shell",
+      "summary": "Na terça-feira, a Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) confirmou que os hackers começaram a explorar uma vulnerabilidade crítica do Brotli conhecida como Node2Shell, Broccoli2Shell e HTTP2Shell. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
+      "published": "2026-10-28T10:46:23+00:00",
+      "image": ""
+    },
+    {
+      "title": "Organizações americanas sob ataque: campanha de phishing de código de dispositivo Skyw4lker exposta",
+      "summary": "As campanhas modernas de phishing podem comprometer as empresas americanas sem depender do tradicional roubo de credenciais. Os invasores podem abusar de serviços de nuvem legítimos, mecanismos de autenticação e fluxos de trabalho de negócios confiáveis ​​para",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
+      "published": "2026-10-28T10:30:00+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf2g4rsWnZ5eQP03cr-4e99MQStvJmuaTTi91WESG3ua1ddAW73T6X22gyaspj2SirqH-1bSAU9VkOg2F1Kh9TLmPc4jYsNAlD72S2XzCeTTRHSiN3B7is7roWwIMcIm__yRu8SkUBbyeWxAEBo5Fe-bbACZWRuoxZqv_pysQ9iMsZRHPCD_clJZsNIDs/s1600/anyrun-main.jpg"
+    },
+    {
+      "title": "Ninguém confia no questionário de segurança. Nós confiamos nisso de qualquer maneira.",
+      "summary": "O processo que envolve quase todos os negócios B2B é uma autoavaliação da qual o remetente desconfia e o destinatário aceita. Finalmente existe uma base melhor para a confiança entre as empresas. A postagem Ninguém confia no questionário de segurança. Nós conf",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/",
+      "published": "2026-10-28T10:30:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Empresa de gerenciamento de segredos Infisical avaliada em US$ 600 milhões após aumento de US$ 40 milhões",
+      "summary": "A empresa usará os fundos da Série B para expandir sua plataforma para garantir o acesso dos agentes de IA a sistemas confidenciais. A postagem Infisical da empresa de gerenciamento de segredos avaliada em US$ 600 milhões após aumento de US$ 40 milhões aparece",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/",
+      "published": "2026-10-28T09:48:24+00:00",
+      "image": ""
+    },
+    {
+      "title": "Afiliado de ransomware Nefilim e Hive pega 70 meses de prisão",
+      "summary": "Um cidadão ucraniano foi condenado a 70 meses de prisão por seu papel em ataques de ransomware contra hospitais, entidades governamentais e empresas de alta receita em todo o mundo entre 2018 e 2021. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
+      "published": "2026-10-28T09:43:15+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers começam a investigar vulnerabilidade recente do Oracle EBS",
+      "summary": "CVE-2026-101767 é uma injeção SQL não autenticada que pode ser explorada para execução remota de código. A postagem Hackers começam a investigar novas vulnerabilidades do Oracle EBS apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/",
+      "published": "2026-10-28T09:14:23+00:00",
+      "image": ""
+    },
+    {
+      "title": "CISA alerta sobre exploração de Node2Shell enquanto Honeypots registram tentativas de ataque",
+      "summary": "A CISA adicionou a falha Brotli ao seu catálogo KEV, e dois operadores de honeypot registraram tentativas, incluindo uma que usava uma exploração quebrada. A postagem CISA alerta sobre exploração de Node2Shell conforme tentativas de ataque de log de Honeypots ",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/",
+      "published": "2026-10-28T08:37:24+00:00",
+      "image": ""
+    },
+    {
+      "title": "O modelo de IA não lançado da Anthropic encadeia falhas no funcionamento de explorações do Chrome, Safari, Windows e Linux",
+      "summary": "Um modelo antrópico de IA não lançado encontrou falhas de segurança no Chrome, Safari, Android, Windows e Linux e as encadeou em explorações funcionais de prova de conceito, disse a empresa em seu último relatório. As explorações foram construídas em laboratór",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+      "published": "2026-10-28T08:15:07+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSMl2C6S6mb-smamI35fLYotcPaercI_2PIgtuF78Q7PtQcFvFUKXkModTW4nRCh6FC7Xht2BltSGImRS2QNR4Lnc22S7UBU9V_0UDcZi2iDNXSlCJDqD4ApmJPqA_boFokj_9dTWKdzhjIgNt_Y47zumx_c5vrcJn5Vd-Xaowafv4HGCzCcqgDV4GGpo/s1600/hacker-chain.jpg"
+    },
+    {
+      "title": "GMO do Japão oferece recompensa de US$ 1 milhão para capturar hackers por trás da violação da nuvem de negociação de câmbio",
+      "summary": "O GMO Internet Group do Japão está oferecendo até US$ 1 milhão no total por dicas que ajudem a capturar os invasores que violaram seu serviço Onamae.com Desktop Cloud, após se recusarem a pagar uma exigência de extorsão. O programa de recompensas foi inaugurad",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
+      "published": "2026-10-28T07:13:21+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguDDZZalFBPLgf4YxDU_9FK46XXVkU3x0GKHeZHFd2WTdJ0cK5n1KCWDEOIvSgzHP4R14xmwLygLnnmyuBEVcHRVO7b9nIUZVcp5ehxIgFGrPyXZ3hZGwNa2bg8k4e_kkSHa2tyo05yPortQqRR_9g3yr-T0k0Tga9_26Pr0rs_MNIU8RndHMeq9r5Rr0/s1600/gmo.jpg"
+    },
+    {
+      "title": "Tailscale corrige falhas de SSH que podem permitir que dispositivos hackeados obtenham acesso root em outros servidores",
+      "summary": "Tailscale lançou a versão 1.104.4 para corrigir falhas em seu servidor SSH integrado que poderia permitir que um invasor acessasse serviços e arquivos em outros servidores que apenas o usuário root deveria ser capaz de acessar. As falhas estão na forma como o ",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
+      "published": "2026-10-28T06:20:37+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4t7YUY-idhgGJFpEuulM5zELQR4QNB-UKmsh7cyB5cdMH4AU_zumf3K27WBWgAw6ra28TvALm5fFeLrV_1wHJXeYy3azE1TcblP-1JSCPLF3mq-WKjUOXy3K-pfjhHtiwGkCoYhxfEMZGielHz2Bit6mLoNlnElmauP0RNcbXelNkAHIWI4s92qrymUQ/s1600/tailscale-patches.jpg"
+    },
+    {
+      "title": "Oracle PeopleSoft Zero-Day explorado por ShinyHunters revela-se três falhas encadeadas",
+      "summary": "O bug crítico do Oracle PeopleSoft que o ShinyHunters tem explorado desde maio não é uma falha, mas três encadeadas, disseram os pesquisadores que o relataram esta semana. A Oracle corrigiu todos os três sob um único identificador, CVE-2026-35273, em junho. Su",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
+      "published": "2026-10-28T06:04:58+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgiU-iVEycp9z-2dprGJhgl046M9ZvG7kGGwaXNzgFJg7XDubOoWWLvEuKAOczIcGuXU04db46Xa6pRMKO36ZS7Fu8Xkv7mNuPjHUS0zLTHkGlNWNRD2DLCznPf6jqvqamZSZGMBXSzh9gMYm-9sR-y7OgN7i7n6x0dfYxyl9QftWlfuQw0mpTteHy57k/s1600/sh.jpg"
+    },
+    {
+      "title": "Ataques Adobe Commerce PolyShell invadem centenas de lojas à medida que surge o tráfego de exploração de Brotli",
+      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) adicionou na terça-feira duas vulnerabilidades que afetam Adobe Commerce e Magento, e a biblioteca de decodificadores Brotli do Google ao seu catálogo de Vulnerabilidades Exploradas Conhecid",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
+      "published": "2026-10-28T05:42:26+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1vdoV4q9cDhhxBpH2lDPkUPc4WTkuwSmH93IS6MDM8fSYR4ZsKEakfK54cvOjHMFYGJA7Hri87MShqbPweb0BNmEXEsKJErbferZyq7_m7XdHLrb2bgmps_Bs_nu_w7RCiade8PPKSYv6NpxnWTG8pJD5CIUvI2E_cfWMqNBFTl4MXm2WKZaqL_T0DaO-/s1600/cisa-warning.jpg"
+    },
     {
       "title": "GMO do Japão pede aos clientes que desliguem PCs em meio a ameaça de ransomware",
       "summary": "O Grupo GMO instou os clientes a desconectarem seus sistemas da Internet e desligarem os computadores depois que um agente de ameaça que violou o Onamae Desktop Cloud da empresa ameaçou lançar um ataque de ransomware hoje. [...]",
@@ -17,150 +161,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
       "published": "2026-10-27T22:07:34+00:00",
-      "image": ""
-    },
-    {
-      "title": "Três estruturas para proteger CISOs e organizações contra responsabilidades de IA",
-      "summary": "Os líderes cibernéticos podem se antecipar à responsabilidade pela IA com documentação rigorosa, transparência e negociações inteligentes de contratos com fornecedores de IA.",
-      "category": "CLOUD & IA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
-      "published": "2026-10-27T21:15:03+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbc201b7327a3221e/6ae0e1681ae793f19fb9e1de/Cyber_legal_Abu_Hanifa_Getty_Images.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Bate-papos de equipes externas ancoram entrega de malware em 15 minutos",
-      "summary": "A principal irmã do bombardeio está ganhando um novo visual com uma campanha contínua de engenharia social em larga escala que pode estar ligada à gangue de ransomware Black Basta.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
-      "published": "2026-10-27T20:42:40+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt634b295db59f5c55/6ae0fd3853ec236cfd97d242/Email_flood-juststock-GettyImages-2156140935.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Os SBOMs por si só não podem revelar o escopo de um ataque à cadeia de suprimentos",
-      "summary": "Um recente ataque Shai-Hulud mostra que os defensores precisam de visibilidade em tempo real do código de produção e dos serviços afetados para responder aos comprometimentos da cadeia de fornecimento.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack",
-      "published": "2026-10-27T19:58:06+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaa7bc1b8ce13713c/6ae1025ea3c73d20dd328ef4/sschain_LocalPhotoSomebody_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "CyberStrikeAI usa 44 agentes de IA para automatizar operações de hackers contra alvos no Japão",
-      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de três ataques cibernéticos direcionados a organizações no Japão, nos quais a inteligência artificial (IA) foi um elemento-chave, seja no comando ou para auxiliar um operador humano. TrendAI, que anal",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
-      "published": "2026-10-27T18:26:46+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiniSfVwM2b4RVouLhc_nIvm2CdQCg9jtQDBVQP6BjvEC2NBaLFqU0A8RyC_GA3PkI4jF87W3h0GJ4xzycp6LAd4I3eRh3JnhnM9yi7CZ9dX2Pfe3MdDaaUSyrDUy1ksA-fdq0bUVzWcFRmS-JWOy3z7xiWB70DzgXLst_YspRqbGIAyv85_D4H9sPT7Sq3/s1600/cyberstrikeai.jpg"
-    },
-    {
-      "title": "CyberStrikeAI usa 44 agentes de IA para automatizar operações de hacking contra alvos do Japão - The Hacker News",
-      "summary": "CyberStrikeAI usa 44 agentes de IA para automatizar operações de hacking contra alvos do Japão The Hacker News",
-      "category": "CLOUD & IA",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XVXBTdTVsTmJSUXJDN3Y4VmVudFJaRFFISWxxTFRXb2Jwbkg3MS1Db0Y3ZzA2dGxBQUc1Tnp6WUVJVFVBNXJmQ214MmxWTjlZMGprQV91Z3JDQWM2UXNzcllLVVNyV0t2M3F6Q1dlN2pYRTMyX1dENWg2ZkxNUQ?oc=5",
-      "published": "2026-10-27T18:26:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Cuidado com o Slasher: IA pode acabar com as habilidades dos profissionais de segurança cibernética – Dark Reading",
-      "summary": "Cuidado com o Slasher: a IA pode acabar com as habilidades dos profissionais de segurança cibernética.",
-      "category": "CLOUD & IA",
-      "source": "Dark Reading",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSjVLNmEtUnlkQ0FYTnF1ODJuQXdrNGZZbVdsdU1uZjl6T1kyX0dhclU2Z1NkbjNMS0c1VVJHWFJ4TmU3d2x6MTE1dnp0MDFERE9EWUN5TW9hZ2MzRmxqQVd6NTE2a3huUXVCdDZ5ZlhybUwyT3BHTnRLSzJOaXNCNVpIbFZQeFdYc2N3LUlYWVdfMFNi?oc=5",
-      "published": "2026-10-27T18:03:54+00:00",
-      "image": ""
-    },
-    {
-      "title": "Cuidado com o Slasher: IA pode acabar com as habilidades dos profissionais de segurança cibernética",
-      "summary": "Nathan Hamiel descreve o potencial horror do SecOps no meio da IA, à medida que as principais capacidades técnicas servem para ler um atlas ou lembrar números de telefone.",
-      "category": "CLOUD & IA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills",
-      "published": "2026-10-27T17:43:07+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc41ecdc8029e697f/6ae0df62008cb1fe5c9e9737/scream-Jesse_Grant-GettyImages-2261562479.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Ladrão de 'Aokigahara' tem como alvo 'chaveiros de desenvolvedor' e assistentes de IA",
-      "summary": "O foco do malware em ferramentas de IA expande o manual tradicional do infostealer para expor uma floresta de sessões de IA, dados de negócios confidenciais e infraestrutura de desenvolvedor a partir de um único endpoint comprometido.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants",
-      "published": "2026-10-27T16:47:20+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt951105ce06efe522/6ae0c30979732c23e08f3f0c/aokigahara-Carl_Court-GettyImages-931736204jpg..jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Warp divulga violação expondo logs de agentes de IA e dados de telemetria do usuário",
-      "summary": "Os logs de decisão do agente e os dados de telemetria pertencentes aos usuários do ambiente de desenvolvimento agente Warp foram expostos em um ataque a um fornecedor terceirizado na infraestrutura do projeto. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
-      "published": "2026-10-27T16:15:39+00:00",
-      "image": ""
-    },
-    {
-      "title": "Tailscale apressa patches após divulgação descoordenada de falhas de ‘Tailworm’",
-      "summary": "Tailscale está preparando um patch para falhas SSH do Tailscale cujos detalhes foram divulgados no fim de semana, antes que qualquer correção fosse lançada. A postagem Tailscale Rushes Patches após divulgação descoordenada de falhas de ‘Tailworm’ apareceu pela",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/",
-      "published": "2026-10-27T15:26:12+00:00",
-      "image": ""
-    },
-    {
-      "title": "Tailscale apressa patches após divulgação descoordenada de falhas do ‘Tailworm’ - SecurityWeek",
-      "summary": "Tailscale apressa patches após divulgação descoordenada de falhas de ‘Tailworm’ SecurityWeek",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZTl0YThJODlqbWxSV3BfbnJINzBqMnFHU2hFWG5leWRCMUlGNHhmdXFmaW83TkxtV2FBSTdJMEZCMFVJR3JQdVMwUjhYc3paaEp5amd3eUdYX184QTBiX18xLWkxRUFxalJJWGFJMHlmTDNHc3MyNC00aElIWWxIUnFWM2tKQjBaU29ta0hGaVljRUJRdVBIWll6ZF81VUZXR00tWE1R0gGrAUFVX3lxTE5aRTJ2ODg3M1d1NzZUeXdNVHRTVlFyNjhiX2x5UTJjblBlenl1ME9ZbFYwX2hObWFYOVN5dlY4SE1QdGtvZjRyd2M1NlBmbllVQjFuMkFDRWFyZTZld1lWaE5aV2s4NWtQM0RiTlJFdnN2ZGlDd2ZIalhtRXVhQzZQM3Jja0lZNERVbWdSSTJmbDNCNGtfNG1XVkRSV3ZpdHBaWUprbHFDUTliWQ?oc=5",
-      "published": "2026-10-27T15:26:12+00:00",
-      "image": ""
-    },
-    {
-      "title": "Tailscale alerta sobre falhas de SSH que permitem escalonamento de privilégios de root",
-      "summary": "A equipe de segurança da Tailscale está trabalhando para corrigir quase uma dúzia de vulnerabilidades de segurança que podem ser exploradas para roubar credenciais, travar servidores, obter privilégios de root e muito mais. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
-      "published": "2026-10-27T14:09:46+00:00",
-      "image": ""
-    },
-    {
-      "title": "O quadrante trágico da caçadora: classificando as ameaças que atingem mais as empresas",
-      "summary": "Os invasores estão cada vez mais abusando de ferramentas de TI legítimas, sessões do Microsoft 365 e fluxos de trabalho diários para comprometer os negócios sem acionar as defesas tradicionais. O Huntress Labs classifica as ameaças que mais atingem as organiza",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
-      "published": "2026-10-27T14:01:11+00:00",
-      "image": ""
-    },
-    {
-      "title": "Correção de backports da Apple para falha explorada do CoreGraphics em iPhones e iPads mais antigos",
-      "summary": "A Apple reportou na segunda-feira correções para uma falha de segurança de alta gravidade que foi explorada em ataques cibernéticos do mundo real a dispositivos mais antigos. A vulnerabilidade, rastreada como CVE-2026-86950 (pontuação CVSS: 8,8), é uma gravaçã",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
-      "published": "2026-10-27T13:59:09+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqZx9ghfLBFufN5Q4s1dq2U1rXwenlfzU7UsqQfLWn3AEUe5CX3krGuvC6DM4mF2T9MmscvntBNxmgU7UjNOnfJQteKvuAs-4Nq0vJ3TnTkuFy1TRO3ibdh2Ekqi_WqiInvPkXjYlnvrCuYb5mb8neOOqBbmf_034wh8MPOLPKW2Nvvezpb2LFNXPbeUa6/s1600/apple-patch.jpg"
-    },
-    {
-      "title": "Correção de backports da Apple para falha explorada do CoreGraphics em iPhones e iPads mais antigos - The Hacker News",
-      "summary": "Correção de backports da Apple para falha explorada de CoreGraphics em iPhones e iPads mais antigos The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50VW1MUmptSWRxZEZCak1iYjRGZkx1Y3JwUGdOMFpSNFhKeGFhTUJ2TmZVUlh4UzdnOWdaemZ3ZTgtei1JblVDMGxvT0lSNGwtM1hDXzhlWXRtYy1MOUZXQkJIREY4Y2dkZmpGcTl4MWV3ZWR5TmV5VW9NUDY?oc=5",
-      "published": "2026-10-27T13:59:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Vazamento de chave do fornecedor coloca em risco dados de 238.000 membros do plano de saúde de Denver",
-      "summary": "Uma chave de acesso SquareML vazada poderia ter sido usada para acessar um banco de dados contendo informações pessoais e de saúde. A postagem Vazamento de chave do fornecedor coloca em risco dados de 238.000 membros do plano de saúde de Denver apareceu pela p",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/",
-      "published": "2026-10-27T13:30:28+00:00",
       "image": ""
     }
   ]
