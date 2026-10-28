@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-10-27T22:24:47.021364+00:00",
+  "updated_at": "2026-10-28T05:55:45.570686+00:00",
   "items": [
+    {
+      "title": "GMO do Japão pede aos clientes que desliguem PCs em meio a ameaça de ransomware",
+      "summary": "O Grupo GMO instou os clientes a desconectarem seus sistemas da Internet e desligarem os computadores depois que um agente de ameaça que violou o Onamae Desktop Cloud da empresa ameaçou lançar um ataque de ransomware hoje. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+      "published": "2026-10-27T23:35:51+00:00",
+      "image": ""
+    },
     {
       "title": "Ataque de ransomware da UNM Health interrompe atendimento a pacientes e cirurgias",
       "summary": "O Centro de Ciências da Saúde da Universidade do Novo México divulgou um ataque cibernético que causou interrupções no sistema e interrompeu o atendimento aos pacientes e as atividades acadêmicas. [...]",
@@ -11,7 +20,7 @@
       "image": ""
     },
     {
-      "title": "3 estruturas para proteger CISOs e organizações contra responsabilidades de IA",
+      "title": "Três estruturas para proteger CISOs e organizações contra responsabilidades de IA",
       "summary": "Os líderes cibernéticos podem se antecipar à responsabilidade pela IA com documentação rigorosa, transparência e negociações inteligentes de contratos com fornecedores de IA.",
       "category": "CLOUD & IA",
       "source": "Dark Reading",
@@ -53,6 +62,15 @@
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XVXBTdTVsTmJSUXJDN3Y4VmVudFJaRFFISWxxTFRXb2Jwbkg3MS1Db0Y3ZzA2dGxBQUc1Tnp6WUVJVFVBNXJmQ214MmxWTjlZMGprQV91Z3JDQWM2UXNzcllLVVNyV0t2M3F6Q1dlN2pYRTMyX1dENWg2ZkxNUQ?oc=5",
       "published": "2026-10-27T18:26:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Cuidado com o Slasher: IA pode acabar com as habilidades dos profissionais de segurança cibernética – Dark Reading",
+      "summary": "Cuidado com o Slasher: a IA pode acabar com as habilidades dos profissionais de segurança cibernética.",
+      "category": "CLOUD & IA",
+      "source": "Dark Reading",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSjVLNmEtUnlkQ0FYTnF1ODJuQXdrNGZZbVdsdU1uZjl6T1kyX0dhclU2Z1NkbjNMS0c1VVJHWFJ4TmU3d2x6MTE1dnp0MDFERE9EWUN5TW9hZ2MzRmxqQVd6NTE2a3huUXVCdDZ5ZlhybUwyT3BHTnRLSzJOaXNCNVpIbFZQeFdYc2N3LUlYWVdfMFNi?oc=5",
+      "published": "2026-10-27T18:03:54+00:00",
       "image": ""
     },
     {
@@ -128,40 +146,22 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqZx9ghfLBFufN5Q4s1dq2U1rXwenlfzU7UsqQfLWn3AEUe5CX3krGuvC6DM4mF2T9MmscvntBNxmgU7UjNOnfJQteKvuAs-4Nq0vJ3TnTkuFy1TRO3ibdh2Ekqi_WqiInvPkXjYlnvrCuYb5mb8neOOqBbmf_034wh8MPOLPKW2Nvvezpb2LFNXPbeUa6/s1600/apple-patch.jpg"
     },
     {
+      "title": "Correção de backports da Apple para falha explorada do CoreGraphics em iPhones e iPads mais antigos - The Hacker News",
+      "summary": "Correção de backports da Apple para falha explorada de CoreGraphics em iPhones e iPads mais antigos The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50VW1MUmptSWRxZEZCak1iYjRGZkx1Y3JwUGdOMFpSNFhKeGFhTUJ2TmZVUlh4UzdnOWdaemZ3ZTgtei1JblVDMGxvT0lSNGwtM1hDXzhlWXRtYy1MOUZXQkJIREY4Y2dkZmpGcTl4MWV3ZWR5TmV5VW9NUDY?oc=5",
+      "published": "2026-10-27T13:59:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Vazamento de chave do fornecedor coloca em risco dados de 238.000 membros do plano de saúde de Denver",
-      "summary": "Uma chave de acesso vazada do SquareML poderia ter sido usada para acessar um banco de dados contendo informações pessoais e de saúde. A postagem Vazamento de chave do fornecedor coloca em risco dados de 238.000 membros do plano de saúde de Denver apareceu pel",
+      "summary": "Uma chave de acesso SquareML vazada poderia ter sido usada para acessar um banco de dados contendo informações pessoais e de saúde. A postagem Vazamento de chave do fornecedor coloca em risco dados de 238.000 membros do plano de saúde de Denver apareceu pela p",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/",
       "published": "2026-10-27T13:30:28+00:00",
       "image": ""
-    },
-    {
-      "title": "HPE corrige dezenas de falhas críticas em produtos de rede",
-      "summary": "Oito defeitos de segurança de gravidade máxima podem levar à execução remota de código e ao desvio de autenticação. A postagem HPE corrige dezenas de falhas críticas em produtos de rede apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/",
-      "published": "2026-10-27T13:13:58+00:00",
-      "image": ""
-    },
-    {
-      "title": "Apresentando o desafio Cloudflare PHP Capture the Flag",
-      "summary": "Estamos lançando um desafio PHP Capture the Flag integrado ao nosso programa Bug Bounty para testar nossas proteções WAF. Os pesquisadores de segurança são convidados a contornar nossas defesas e capturar a bandeira para ajudar a tornar a Internet mais segura.",
-      "category": "CLOUD & IA",
-      "source": "Cloudflare Security",
-      "url": "https://blog.cloudflare.com/php-ctf/",
-      "published": "2026-10-27T13:00:00+00:00",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5YGNS8F8NYE3V5QERKYNG79.png"
-    },
-    {
-      "title": "Falha do autenticador da Microsoft permite que aplicativos Android sem permissão roubem tokens de contas de trabalho",
-      "summary": "A Microsoft corrigiu uma falha em seu aplicativo Authenticator para Android que permitia que um aplicativo malicioso sem permissões se passasse por um aplicativo confiável da Microsoft, como o Teams, e coletasse tokens de login para a conta de trabalho da víti",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
-      "published": "2026-10-27T12:09:50+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqk63DF3MJCMgQqpg91UsWY7mjACbBgPl50GfKwDPi7v3md6sP5l8a2BUqHABjgMN_6BzgcMx4vVKW4hR9B9pz8_XHqp5ctKqQQLw-RJwuKmVWm2MaSzEMkHIsV-Yi0V6Mq_gUYYuzTpi-BzV2-8dRVYBjtuW4nb9TbobkPwvOGTkIFTpr334JB_LZIkw/s1600/msms.jpg"
     }
   ]
 }
