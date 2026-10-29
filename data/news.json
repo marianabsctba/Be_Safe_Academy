@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-10-28T20:22:56.931993+00:00",
+  "updated_at": "2026-10-29T01:04:19.367325+00:00",
   "items": [
+    {
+      "title": "Por dentro do KeyDrift: analisando a atividade histórica do UAT-11473 no Cisco SD-WAN",
+      "summary": "Talos identificou UAT-11473, um APT altamente sofisticado, que explorou CVE-2026-20127, uma vulnerabilidade de desvio de autenticação em instâncias do Cisco SD-WAN Catalyst Controller para ignorar a autenticação e obter acesso não autorizado aos sistemas afeta",
+      "category": "VULNERABILIDADES",
+      "source": "Cisco Talos",
+      "url": "https://blog.talosintelligence.com/uat-11473-keydrift/",
+      "published": "2026-10-28T21:32:02+00:00",
+      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/threat_advisory-1.jpg"
+    },
+    {
+      "title": "Polícia apreende serviço à prova de balas Virtualine vinculado a resgate e crime cibernético",
+      "summary": "As autoridades dos EUA confiscaram o domínio principal do Virtualine, um serviço de hospedagem à prova de balas anunciado em fóruns de crimes cibernéticos para facilitar atividades ilegais. [...]",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
+      "published": "2026-10-28T20:47:22+00:00",
+      "image": ""
+    },
+    {
+      "title": "GhostAction Hacking Wave fracassa, mas invasores se escondem no GitHub",
+      "summary": "A mudança da campanha de ataque à cadeia de suprimentos em direção aos endpoints dos desenvolvedores e ao acesso à nuvem sinaliza o que pode vir a seguir para o grupo de crimes cibernéticos.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
+      "published": "2026-10-28T19:39:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb1d9be3de2e89da6/6ae252ca6c2fe31e558a43e9/Ghosts-GrafikLab-GettyImages-2173220193.jpg?width=720&quality=80&disable=upscale"
+    },
     {
       "title": "Volt Typhoon usou rede secreta de trens silenciosos em quatro campanhas de exploração de dia zero",
       "summary": "O grupo de espionagem cibernética do nexo da China, conhecido como Volt Typhoon, foi atribuído a uma rede de acesso secreto, agora interrompida, chamada Silent Train, que foi utilizada para exploração de dia zero e acesso estratégico. “Identificado pela primei",
@@ -11,8 +38,17 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXuRyHXVM1n6S9Z49nYkM2dmJjKwuZx2RAre0CQSpB202GteLj8keMogqzR7ZVIv7YRc9udBHU7-oCpnpzL6nLaez3ypbVr9cVmiH9zFwJVApy5cev84W725y38auaUdkCQGN3zvngCivMUl-SYV1jnJu9eHduaYeBzro4cdmFHIQJfBQN4RvcC-fUTrs1/s1600/si.jpg"
     },
     {
+      "title": "Volt Typhoon usou rede secreta de trens silenciosos em quatro campanhas de exploração de dia zero - The Hacker News",
+      "summary": "Volt Typhoon usou rede secreta de trens silenciosos em quatro campanhas de exploração de dia zero The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdGxpNXRUY3o4cU1WbXdTdm1XTXBSd1htSWQ1QkRVMW5YU2tvdGI2OXlwUHV5NDNacEl1bFlhNFo4WnRwV0F4NXVtMVkxYWJqNHhGMVFoS1hkZXZGM05mdUJjdzhJVFE1bWZWYmNrQkxxeUZHQTExT19Ua2pkMXB6U2Vn?oc=5",
+      "published": "2026-10-28T18:08:00+00:00",
+      "image": ""
+    },
+    {
       "title": "Google permitirá instalações de aplicativos Android com um toque em lojas de terceiros aprovadas fora dos EUA",
-      "summary": "Lojas de aplicativos Android de terceiros agora podem solicitar permissão ao Google para instalar aplicativos com um toque, sem as telas de confirmação habituais do Android, e para atualizá-los em segundo plano. Para se qualificar, uma loja deve passar por ver",
+      "summary": "Lojas de aplicativos Android de terceiros agora podem solicitar ao Google permissão para instalar aplicativos com um toque, sem as telas de confirmação habituais do Android, e para atualizá-los em segundo plano. Para se qualificar, uma loja deve passar por ver",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
@@ -125,42 +161,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/",
       "published": "2026-10-28T13:39:35+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falhas de TLS encontradas no servidor Web GoAhead usado em centenas de milhões de dispositivos",
-      "summary": "A FoxIO divulgou três bugs do GoAhead TLS que podem permitir a passagem de certificados revogados ou expor algumas sessões criptografadas a bisbilhoteiros. A postagem Falhas de TLS encontradas no servidor Web GoAhead usadas em centenas de milhões de dispositiv",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/",
-      "published": "2026-10-28T13:10:34+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers visam falha crítica do Oracle E-Business Suite RCE dias após patch de segurança",
-      "summary": "Os atores de ameaças estão começando a investigar uma vulnerabilidade crítica recentemente corrigida no Oracle E-Business Suite (EBS), de acordo com a empresa de inteligência de ameaças Defused Cyber. A vulnerabilidade em questão é a CVE-2026-101767 (pontuação",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
-      "published": "2026-10-28T12:48:03+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBB03AGS7veiAqQ7-xPeadzhhaRvDmhOlLgQcDN0y-r1na_us5yomWjBEXCbwbw8OW_o8SSGjjqk4VZFQ4ZxLiWKQPZxlcBkzJ5lv3OlEV0rOETUKyQzWoZ74LGpSjOjrScmk1rVf0OhRmDACHG3jwSDfBnnta75I_3s_nuoWGZmcfg7NZfHBp_PEIl8aj/s1600/oracle-hack.jpg"
-    },
-    {
-      "title": "Hackers visam falha crítica do Oracle E-Business Suite RCE dias após patch de segurança - The Hacker News",
-      "summary": "Hackers visam falha crítica do Oracle E-Business Suite RCE dias após patch de segurança The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XN2N4MGw3WThxNWR6b2liZ2t1dlYwTlJObDFLakliWjNqN2diSUlpbF91SnhBTk9mWHZidUFTOVEtTmZvWXRWMEV0cnM4VDhqcnZLeHNyODJlUDFpbkRoYjFyQmI1aHdfUlYta0g3N0UydG1lcnBwSmFESQ?oc=5",
-      "published": "2026-10-28T12:48:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers agora examinam sistemas em busca de falhas Oracle recentemente corrigidas",
-      "summary": "Os invasores começaram a investigar a Internet em busca de sistemas sem correção contra uma vulnerabilidade crítica recentemente divulgada do Oracle E-Business Suite (EBS). [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
-      "published": "2026-10-28T12:19:57+00:00",
       "image": ""
     }
   ]
