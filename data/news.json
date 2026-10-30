@@ -1,6 +1,78 @@
 {
-  "updated_at": "2026-10-29T18:34:04.078569+00:00",
+  "updated_at": "2026-10-30T01:09:11.511893+00:00",
   "items": [
+    {
+      "title": "Binance probes potential $5.8 billion crypto-theft hack",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
+      "published": "2026-10-29T22:45:23+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
+      "published": "2026-10-29T22:09:24+00:00",
+      "image": ""
+    },
+    {
+      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+      "published": "2026-10-29T22:08:04+00:00",
+      "image": ""
+    },
+    {
+      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+      "published": "2026-10-29T21:47:25+00:00",
+      "image": ""
+    },
+    {
+      "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
+      "published": "2026-10-29T21:21:56+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfbdba6806da96431/6ae3993ee7e856faec896a9e/Mask-beast01-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Rethinking Cybersecurity Awareness in the AI Era",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era",
+      "published": "2026-10-29T20:15:37+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcc4390b0f2e6c554/6ae3b02dfe80872ab5936fa3/cybersecuritytraining-_Maria_Vonotna-Getty-1351111419.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+      "published": "2026-10-29T19:11:58+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoNTh5CKLvFJeeXzWn1LVT-e9435oFtUz4jT-4TmZaWkRUY_RY8EAtijUWxQztoK3K_tU_csSw54MuVeX8UzeT6ZWNLtTMex5pMS4z4Npz-aYAN9qIfWk2bUsei5nswh3UkzycVlKznVjK7n1I_knJ-p1I59RoX_TECTfr-NPej9LWoDt2UuwvLY4heSip/s1600/t-day.jpg"
+    },
+    {
+      "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
+      "published": "2026-10-29T18:38:26+00:00",
+      "image": ""
+    },
     {
       "title": "Claude Model Builds Exploits Across Major Browsers & OSes",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
@@ -53,7 +125,7 @@
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
       "published": "2026-10-29T15:57:05+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcSWXTg8eHlxb0m5-m8xCEly9KQO-0qKV9c7QD7fF51aCb4HUEucmb657vogvKmlA8ra_4kMI6i_w11eYPIVvPSEBnuKnPg9E_HpEw0H1czq883zm_NaUEzarlfXlLd2OKd4b2jbPmMDXvWloR9iNa748-3xhEjD5wNuIznKGTmNwIV3CSeoBkt61zN5o/s1600/linux-dos.png"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfCJ0ttE8v4hkDjJRqbTvxlxFcoNtFJhbYCQ-o8NtaiyFLImEyA8aSO967eeZG9fRebhc8oVA-OloE9X9KVVAxM-H3wKvUlh8XmN6bGlEz2IJwMgcssmA7yIRi7YNOwVQYD6nhQCaWUg6fPy-QXVjfw6rV55LueKlLvZLazjKjTL94KJMMUZ2uZ3R019Km/s1600/linux-flaw.jpg"
     },
     {
       "title": "Threat Modeling With 4 Simple Questions on a White Board",
@@ -89,78 +161,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/",
       "published": "2026-10-29T15:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/",
-      "published": "2026-10-29T14:35:40+00:00",
-      "image": ""
-    },
-    {
-      "title": "Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/",
-      "published": "2026-10-29T14:18:03+00:00",
-      "image": ""
-    },
-    {
-      "title": "3 Ways AI Agents Already Operate in Your Browser",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "CLOUD & IA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/",
-      "published": "2026-10-29T14:00:10+00:00",
-      "image": ""
-    },
-    {
-      "title": "IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "Cisco Talos",
-      "url": "https://blog.talosintelligence.com/ir-trends-q3-2026/",
-      "published": "2026-10-29T14:00:00+00:00",
-      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/TalosIR_quarterly_trends.jpg"
-    },
-    {
-      "title": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
-      "published": "2026-10-29T13:59:48+00:00",
-      "image": ""
-    },
-    {
-      "title": "Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/",
-      "published": "2026-10-29T13:42:52+00:00",
-      "image": ""
-    },
-    {
-      "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
-      "published": "2026-10-29T13:42:40+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMb78BxIXnGaXFzCXPdswdQZsuh8rz63Y22pLX3cOkgRgaPv3KJgw6fRULDT3am1YO4eA1obnh0aOdxZy4KVZMww8sxNOtxzZXYcouotzbB25LVdJrCeDk0MQsgCmsYQBAaGdwyhmiMNa2Y90ujuXFXZPLTIrOo1PB6vtWqWAXygOvM72cEmXvHTN9Ktw/s1600/google-gemini.jpg"
-    },
-    {
-      "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE50ck5wcllHV21sMDZLVEJiWkp2OGlqbTVxcmRMRlJSRkFydUxodGlHalJDYl81WE00aUJsbnVRZFdQSmRrOUg4Rnh3NWdMNWowWGotNmZ2MzB6dm5tZzRYQnpqaFc4VG1oblhmSUVIYXRPR0hXUklz?oc=5",
-      "published": "2026-10-29T13:42:00+00:00",
       "image": ""
     }
   ]
