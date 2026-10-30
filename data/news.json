@@ -1,167 +1,167 @@
 {
-  "updated_at": "2026-10-30T10:13:45.087284+00:00",
+  "updated_at": "2026-10-30T18:06:21.847250+00:00",
   "items": [
     {
-      "title": "$2 Million+ Drained From Polymarket Traders in New Supply Chain Attack",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "4 reais? Rastreamento de exploração e correção de chaves fracas do eMudhra",
+      "summary": "Quatro, apenas quatro: essa é a chave para invadir qualquer conexão não corrigida na Internet que use certificados eMudhra. Veja como corrigimos rapidamente o Cloudflare, quais evidências podemos ver de tentativa de exploração e quanto do restante da Internet ",
+      "category": "VULNERABILIDADES",
+      "source": "Cloudflare Security",
+      "url": "https://blog.cloudflare.com/emudhra-patching/",
+      "published": "2026-10-30T17:38:50+00:00",
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M66XYHSQQJRRA4097AJD12PN.png"
+    },
+    {
+      "title": "Da representação do suporte técnico ao abuso do AD CS: investigando caminhos de intrusão ESC1 e ESC8",
+      "summary": "As equipes suportam a personificação que leva ao acesso remoto, execução maliciosa de tempo de execução e abuso de serviços de certificados por meio de retransmissão de autenticação e Kerberos. A postagem Da representação do suporte técnico ao abuso do AD CS: ",
+      "category": "DEFESA",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/",
+      "published": "2026-10-30T16:11:44+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falha do TeamViewer permite que computadores remotos ataquem usuários que se conectam para controlá-los",
+      "summary": "O TeamViewer corrigiu uma falha que permite que a máquina controlada em uma sessão remota ataque o computador conectado para controlá-la. Em uma sessão do TeamViewer, o computador que se conecta e assume o controle é o visualizador, e a máquina que ele control",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
+      "published": "2026-10-30T15:17:28+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge-ZayNgwlu4fhpD2BSyGgkMYehkV0atRJINisISPLpiubkgyXopa4NWVnxOZs9gi-DEYTNEQ5G2pu-X5iSHyMp8pguzp-Q6g-1-mGwcy3so4AkeuYFuYoaotOcmF5A-2oVDvnxd0B_FaZ7JJt8W3zrNFot6kBlJp7WffHkb7m92C9bNQnwFLwnNgXpDk/s1600/teamviewer-flaw.jpg"
+    },
+    {
+      "title": "Falha do TeamViewer permite que computadores remotos ataquem usuários que se conectam para controlá-los - The Hacker News",
+      "summary": "Falha do TeamViewer permite que computadores remotos ataquem usuários que se conectam para controlá-los The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZmxvdmFjSWtvUTN4Z0tFOGxwbF9wTUd5LUl4S0RfTmRFQXBsM0ljOE1yZDZGMDRhNGxWTGVIX2VrdXQ5ZkhKV04wWFNFaW5LX3c5c0I4YjdIZWcwV08yRXVMcU9EelFuR2VOQXF0VWlPM2d6aUNkNDlVc2VqTDJNUW1R?oc=5",
+      "published": "2026-10-30T15:17:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "PHP2Shell ataca firewalls raiz de Palo Alto, mas falha no WordPress",
+      "summary": "Mais de 22,6 milhões de instâncias expostas são potencialmente afetadas pelas falhas críticas de PHP que foram atacadas por mais de uma semana. A postagem PHP2Shell ataca firewalls raiz de Palo Alto, mas falha no WordPress apareceu pela primeira vez em Securit",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/",
-      "published": "2026-10-30T09:41:36+00:00",
+      "url": "https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/",
+      "published": "2026-10-30T15:09:25+00:00",
       "image": ""
     },
     {
-      "title": "Max-Severity GitLab Vulnerability Exploited Against Alpine Linux",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Em outras notícias: Disputa de violação antrópica, falha UEFI atinge a maioria dos servidores, vazamento de dados de IA da Cloudflare",
+      "summary": "Histórias dignas de nota que podem ter passado despercebidas: Irã de olho em hacks de freezers militares, violação da Universidade de Copenhague, malware alimentado por IA. A postagem Em outras notícias: Disputa de violação antrópica, falha UEFI atinge a maior",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/",
+      "published": "2026-10-30T14:41:35+00:00",
+      "image": ""
+    },
+    {
+      "title": "Extensão maliciosa do Claude Code no Cursor plantou backdoors SSH",
+      "summary": "Uma versão maliciosa da extensão Claude Code VS Code da Anthropic foi distribuída através do mercado de extensões do Cursor por aproximadamente 11 horas em 29 de outubro, expondo até 5.000 desenvolvedores a malware projetado para instalar backdoors SSH persist",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
+      "published": "2026-10-30T14:36:54+00:00",
+      "image": ""
+    },
+    {
+      "title": "Projetos de software mortos-vivos continuam a aumentar riscos de segurança",
+      "summary": "Uma empresa de segurança corrigiu um aplicativo de uma década para evitar a aquisição de milhões de máquinas, destacando que os domínios abandonados continuam sendo uma vantagem para os invasores.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks",
+      "published": "2026-10-30T14:10:37+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd40811c92b905082/6ae3b49914ffedf86f1c84cc/zombies-in-graveyard-zef_art-shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Falha RCE do WordPress atrai quase 63.000 tentativas de ataque em apenas 24 horas",
+      "summary": "Foram observados agentes de ameaças tentando explorar uma falha de segurança de alta gravidade no WordPress Core logo após o lançamento dos patches. A vulnerabilidade, que não possui identificador CVE, está relacionada a um caso de execução remota de código qu",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
+      "published": "2026-10-30T14:08:14+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf-pzflJO9HQoCdvBvYNtS12gwwEjAbM4dQ30ak7UYaIPzsVPN9MlFwvIDEFkbe9cWg4wQRFPbGfJ0YXjzGcBS6mUTwttwkQ8IR7OoHyTz3owZkVzYQOAObyJUqfjsC-PqMw2pv41_m68hb6ZkwJb56kGx-Ypv7GWZBtDzjyTTQ8L8i9NxA8_MDVoJSEba/s1600/wp-hack.jpg"
+    },
+    {
+      "title": "Falha RCE do WordPress atrai quase 63.000 tentativas de ataque em apenas 24 horas - The Hacker News",
+      "summary": "Falha RCE do WordPress atrai quase 63.000 tentativas de ataque em apenas 24 horas The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWDhKVWdCUUdmZGxKYzF1cGZzUzdHbHRfcUNWMzhxSF80aGwzQTJOem1LS2hKWHVVZWVpU09tcEx3SURyRzBzVHRCNFNOVXp6U1NxTmZ2WWh5cmJ6VXRlT2s4LUpINm5IaTNjcUU5TGUxUzUzZHpLOTk5b3ZIQ3FfT21n?oc=5",
+      "published": "2026-10-30T14:08:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Ataques SS7 e Diameter: como as falhas de sinalização expõem seu telefone",
+      "summary": "Falhas nos protocolos de sinalização SS7 e Diameter podem permitir que invasores rastreiem localizações de telefones, interceptem chamadas e códigos de verificação de SMS e se façam passar por assinantes sem comprometer seus dispositivos. Cape explica como ess",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
+      "published": "2026-10-30T14:00:10+00:00",
+      "image": ""
+    },
+    {
+      "title": "As chaves de acesso são melhores que as senhas. Mas eles não são suficientes.",
+      "summary": "À medida que as organizações eliminam as senhas, os invasores se adaptam. Em vez de atacar diretamente o autenticador, eles procurarão oportunidades em torno dele. A postagem As chaves de acesso são melhores que as senhas. Mas eles não são suficientes. aparece",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/",
+      "published": "2026-10-30T14:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Host à prova de balas Virtualine perde seu domínio para apreensão do FBI",
+      "summary": "Ele permitiu que os clientes hospedassem serviços de hack-for-hire, apoiassem operadores de ransomware e infostealer e aceitassem pagamentos criptográficos. O post Virtualine à prova de balas perde seu domínio para apreensão do FBI apareceu pela primeira vez e",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/",
+      "published": "2026-10-30T13:36:12+00:00",
+      "image": ""
+    },
+    {
+      "title": "CISA diz que falha de gravidade máxima do GitLab agora é explorada em estado selvagem",
+      "summary": "Os invasores começaram a explorar uma vulnerabilidade de gravidade máxima do GitLab corrigida no início deste mês, de acordo com a Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA). [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
+      "published": "2026-10-30T13:00:32+00:00",
+      "image": ""
+    },
+    {
+      "title": "Vulnerabilidade recente do WordPress na mira dos invasores",
+      "summary": "Os atores da ameaça estão tentando explorar uma condição de corrida não autenticada de alta gravidade que leva à execução remota de código. A postagem Vulnerabilidade recente do WordPress na mira dos invasores apareceu pela primeira vez na SecurityWeek.",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/",
-      "published": "2026-10-30T09:32:27+00:00",
+      "url": "https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/",
+      "published": "2026-10-30T12:04:13+00:00",
       "image": ""
     },
     {
-      "title": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Vulnerabilidade recente do WordPress na mira de invasores - SecurityWeek",
+      "summary": "Nova vulnerabilidade do WordPress na mira dos invasores SecurityWeek",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONjNkaWJLSWdxY1BvMDBaaTZrcndHb1N2Z3prSTg5ZTlQSF9fNVpZTFN6YTZMOGk2U2V5NWlaYlE0ODFCaHVmYkNIVG40ME1Oc0FXZ1dMR1ZPSzJja3d2cnVpSVpka0d1UXExWWhCMGUzSmV5c3JSMFcxbjFrOHFNRWFmMTE0Qm1wdjRV0gGQAUFVX3lxTE1OTDl1ZDlDanBWUlBVT0ZqakMzeS1sN2kwWDEwVUJOdElpelN6RGQxbGFkbHVEZEJJZ0sxSHBRZjlFOE1teVlKdms2dEphTTZ5NWNzTHdLTGwtMjlIT3ZRaGRJWlFVYkVvdUZUUFVLTDhmVWZNMzd2QXZ0SnBfT2lfMmNzYWdvSG56SlAxeDlVLQ?oc=5",
+      "published": "2026-10-30T12:04:13+00:00",
+      "image": ""
+    },
+    {
+      "title": "Por que as correções de segurança urgentes não são corrigidas. Observar, provar, agir e confirmar faz com que eles se movam",
+      "summary": "O alerta é crítico. A correção é conhecida. E o ingresso fica na fila por dias. As equipes de segurança entendem o risco, mas as pessoas que mantêm os aplicativos disponíveis precisam de provas de que a mudança não prejudicará nada. Suas preocupações são práti",
       "category": "DEFESA",
       "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS2hyRVBYNEpLVEQ2V2IwYk9aZmhtUm9veEV5RE4tZVVONXpIM1Y5Q1hxSWprYjFDR1NXNGF2MjlyeUpod2p6NFNydVltcmpudHoxU2wtUWJxSUdrWUhhanRiTUo3ZzdGNXViN0NyRUdTcHFiVEJfT2Z0VklGczNiOGhzYw?oc=5",
-      "published": "2026-10-30T08:55:00+00:00",
-      "image": ""
+      "url": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
+      "published": "2026-10-30T11:58:53+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitJWSYL167QzDoyvN2y9DAuXmFFe0en34dEHp-I2sSVLEPIfljdlRfeIthyMQUgSvf9AfwW4p-solbE5zH3cKpfeLKWg-IqPnVdHbKQ99Bw91fDAoqHx3E9mlpNmXYA5i3RnaTYxZYkZcwbeY31O4CljtFQYp2JPLTmJo1BI09Al9Kh-CDtzFubVly7hM/s1600/cp.jpg"
     },
     {
-      "title": "TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/",
-      "published": "2026-10-30T08:44:49+00:00",
-      "image": ""
-    },
-    {
-      "title": "$6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/",
-      "published": "2026-10-30T08:16:26+00:00",
-      "image": ""
-    },
-    {
-      "title": "As Russia's Cyberwar Evolves, Belarus Steps Forward",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
-      "published": "2026-10-30T08:00:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd600d33b7bbbc448/6ae39a9b20628a26ab67c66f/Belarus_Russia_flags-Oleksii_Liskonih-GettyImages-1089909770.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-      "published": "2026-10-30T07:45:30+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitgPkf4uToEgXwcfmDEKipEveRL2l0PEz6WIegAc2uWyf5_khO7Scgu6MpWHRovED7S-4sKJb4o88JsJT8NI8zB8WCBo04Q9TrEVNJa-08EbxP_zdPkaA7wsBEPIjXbApW1StdY8JunSewAi9TNrAcMwYZjqSsVktddqQ0uIi8-rUzXq1LMMLBHBdccapz/s1600/drupal-rce.jpg"
-    },
-    {
-      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6MzJ0UEViUlowYUQ3QzBqa2gzalU3SlhXUkdFaFMtMHR6Q0trYWZyVzFRdEVLeVFrd3duNFNRQV9VbTlhQVVLdmhuVG1wYXNxNEE4QmM3Y1Ewbml1WmhiQUl3UjRWdmxJb29qTlVGcnhEenFROEh2SGpn?oc=5",
-      "published": "2026-10-30T07:45:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-      "published": "2026-10-30T07:27:05+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw1Ms9mKdtALczFoDaNy5Bm0HVMfxu0ps0ykDUXuLn3BeOEqUCDnzUiCP2lU_7xbC2kYuIAGCuOiQCGIlkR6wYBfCfb7g0wRESfIFaMtSltOjWphyswldC4LJxFf0RnCB9FzEVc-euJGtGbUvpJr7FOE0QefC3_rn8xLSFTij_yJn1MNP6bJVu8VgrcLaV/s1600/github-cisco.jpg"
-    },
-    {
-      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
-      "published": "2026-10-30T04:14:59+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmTtJggkBbk2ERH6bhZMSPnb_E1aQ44w4EpzkwAt1tqp45sGvG7jeAg2QvmbWQsBy5hyphenhyphen7ur18XQ1Uax7D9XRg-CZpQpMAByXt37Fn1loBClsu49KlBEsnxRCfy7vSuI-5yrpHB4JLWc1vtw0aITnhbFXDb4CosJzm07My3Lw6p3fOLTfcaxJLBR-Pdi2A6/s1600/Binance.jpg"
-    },
-    {
-      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80VjhXOXk0Y3pjb2EtV0tEOWdlcU5zSVlKV0ZuMzhodHB2X21URE92Tmtaem1IcGpBWUFFNnRBSW5NWlRDRFFzeURwMnFyeG1pa0FKaElTZml6Wm5OeE1NT0cwUnhBVGFBNFp6emNnMEVDTkNhanZOdm93?oc=5",
-      "published": "2026-10-30T04:14:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Binance probes potential $5.8 billion crypto-theft hack",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
+      "title": "A Microsoft finalmente corrige problemas de VPN causados ​​pelas atualizações de setembro",
+      "summary": "A Microsoft resolveu falhas de conexão Always On VPN desencadeadas após a instalação das atualizações de segurança do Windows 11 de setembro de 2026. [...]",
+      "category": "DEFESA",
       "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
-      "published": "2026-10-29T22:45:23+00:00",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
+      "published": "2026-10-30T11:20:26+00:00",
       "image": ""
-    },
-    {
-      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
-      "published": "2026-10-29T22:09:24+00:00",
-      "image": ""
-    },
-    {
-      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
-      "published": "2026-10-29T22:08:04+00:00",
-      "image": ""
-    },
-    {
-      "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools - Dark Reading",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaUdrSjBtRmhSbVZHWDBCREw2RkdGQmVvYThia1o3T0NmUVBxRktMVlh3UG9Pb1A1bW1rV0hqS0swdThZQ2VHbnJ2MlVVNTZjRHJkalBVeU16dWhQRzVIWGN5MXNER0I5QmtBSzVUajdVT3Z5TmdBXzVCbUYtVnllcy1zeVY2MGpya1hYUkVnQXFiODRES2NEX18tdUU1ZHZONVpQaQ?oc=5",
-      "published": "2026-10-29T21:53:25+00:00",
-      "image": ""
-    },
-    {
-      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
-      "published": "2026-10-29T21:47:25+00:00",
-      "image": ""
-    },
-    {
-      "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
-      "published": "2026-10-29T21:21:56+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfbdba6806da96431/6ae3993ee7e856faec896a9e/Mask-beast01-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Rethinking Cybersecurity Awareness in the AI Era",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era",
-      "published": "2026-10-29T20:15:37+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcc4390b0f2e6c554/6ae3b02dfe80872ab5936fa3/cybersecuritytraining-_Maria_Vonotna-Getty-1351111419.jpg?width=720&quality=80&disable=upscale"
     }
   ]
 }
