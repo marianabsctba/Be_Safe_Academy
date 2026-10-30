@@ -1,6 +1,105 @@
 {
-  "updated_at": "2026-10-30T01:09:11.511893+00:00",
+  "updated_at": "2026-10-30T10:13:45.087284+00:00",
   "items": [
+    {
+      "title": "$2 Million+ Drained From Polymarket Traders in New Supply Chain Attack",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/",
+      "published": "2026-10-30T09:41:36+00:00",
+      "image": ""
+    },
+    {
+      "title": "Max-Severity GitLab Vulnerability Exploited Against Alpine Linux",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/",
+      "published": "2026-10-30T09:32:27+00:00",
+      "image": ""
+    },
+    {
+      "title": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPS2hyRVBYNEpLVEQ2V2IwYk9aZmhtUm9veEV5RE4tZVVONXpIM1Y5Q1hxSWprYjFDR1NXNGF2MjlyeUpod2p6NFNydVltcmpudHoxU2wtUWJxSUdrWUhhanRiTUo3ZzdGNXViN0NyRUdTcHFiVEJfT2Z0VklGczNiOGhzYw?oc=5",
+      "published": "2026-10-30T08:55:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/",
+      "published": "2026-10-30T08:44:49+00:00",
+      "image": ""
+    },
+    {
+      "title": "$6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/",
+      "published": "2026-10-30T08:16:26+00:00",
+      "image": ""
+    },
+    {
+      "title": "As Russia's Cyberwar Evolves, Belarus Steps Forward",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
+      "published": "2026-10-30T08:00:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd600d33b7bbbc448/6ae39a9b20628a26ab67c66f/Belarus_Russia_flags-Oleksii_Liskonih-GettyImages-1089909770.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+      "published": "2026-10-30T07:45:30+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitgPkf4uToEgXwcfmDEKipEveRL2l0PEz6WIegAc2uWyf5_khO7Scgu6MpWHRovED7S-4sKJb4o88JsJT8NI8zB8WCBo04Q9TrEVNJa-08EbxP_zdPkaA7wsBEPIjXbApW1StdY8JunSewAi9TNrAcMwYZjqSsVktddqQ0uIi8-rUzXq1LMMLBHBdccapz/s1600/drupal-rce.jpg"
+    },
+    {
+      "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6MzJ0UEViUlowYUQ3QzBqa2gzalU3SlhXUkdFaFMtMHR6Q0trYWZyVzFRdEVLeVFrd3duNFNRQV9VbTlhQVVLdmhuVG1wYXNxNEE4QmM3Y1Ewbml1WmhiQUl3UjRWdmxJb29qTlVGcnhEenFROEh2SGpn?oc=5",
+      "published": "2026-10-30T07:45:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
+      "published": "2026-10-30T07:27:05+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw1Ms9mKdtALczFoDaNy5Bm0HVMfxu0ps0ykDUXuLn3BeOEqUCDnzUiCP2lU_7xbC2kYuIAGCuOiQCGIlkR6wYBfCfb7g0wRESfIFaMtSltOjWphyswldC4LJxFf0RnCB9FzEVc-euJGtGbUvpJr7FOE0QefC3_rn8xLSFTij_yJn1MNP6bJVu8VgrcLaV/s1600/github-cisco.jpg"
+    },
+    {
+      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+      "published": "2026-10-30T04:14:59+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmTtJggkBbk2ERH6bhZMSPnb_E1aQ44w4EpzkwAt1tqp45sGvG7jeAg2QvmbWQsBy5hyphenhyphen7ur18XQ1Uax7D9XRg-CZpQpMAByXt37Fn1loBClsu49KlBEsnxRCfy7vSuI-5yrpHB4JLWc1vtw0aITnhbFXDb4CosJzm07My3Lw6p3fOLTfcaxJLBR-Pdi2A6/s1600/Binance.jpg"
+    },
+    {
+      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80VjhXOXk0Y3pjb2EtV0tEOWdlcU5zSVlKV0ZuMzhodHB2X21URE92Tmtaem1IcGpBWUFFNnRBSW5NWlRDRFFzeURwMnFyeG1pa0FKaElTZml6Wm5OeE1NT0cwUnhBVGFBNFp6emNnMEVDTkNhanZOdm93?oc=5",
+      "published": "2026-10-30T04:14:00+00:00",
+      "image": ""
+    },
     {
       "title": "Binance probes potential $5.8 billion crypto-theft hack",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
@@ -29,6 +128,15 @@
       "image": ""
     },
     {
+      "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools - Dark Reading",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaUdrSjBtRmhSbVZHWDBCREw2RkdGQmVvYThia1o3T0NmUVBxRktMVlh3UG9Pb1A1bW1rV0hqS0swdThZQ2VHbnJ2MlVVNTZjRHJkalBVeU16dWhQRzVIWGN5MXNER0I5QmtBSzVUajdVT3Z5TmdBXzVCbUYtVnllcy1zeVY2MGpya1hYUkVnQXFiODRES2NEX18tdUU1ZHZONVpQaQ?oc=5",
+      "published": "2026-10-29T21:53:25+00:00",
+      "image": ""
+    },
+    {
       "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
@@ -54,114 +162,6 @@
       "url": "https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era",
       "published": "2026-10-29T20:15:37+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcc4390b0f2e6c554/6ae3b02dfe80872ab5936fa3/cybersecuritytraining-_Maria_Vonotna-Getty-1351111419.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
-      "published": "2026-10-29T19:11:58+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoNTh5CKLvFJeeXzWn1LVT-e9435oFtUz4jT-4TmZaWkRUY_RY8EAtijUWxQztoK3K_tU_csSw54MuVeX8UzeT6ZWNLtTMex5pMS4z4Npz-aYAN9qIfWk2bUsei5nswh3UkzycVlKznVjK7n1I_knJ-p1I59RoX_TECTfr-NPej9LWoDt2UuwvLY4heSip/s1600/t-day.jpg"
-    },
-    {
-      "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
-      "published": "2026-10-29T18:38:26+00:00",
-      "image": ""
-    },
-    {
-      "title": "Claude Model Builds Exploits Across Major Browsers & OSes",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses",
-      "published": "2026-10-29T18:15:59+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt626614753803fdf0/6ae260b6848b397b5d1859e3/anthropic_Algi_Febri_Sugita_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "A quiet week in infosec <.<",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "Cisco Talos",
-      "url": "https://blog.talosintelligence.com/a-quiet-week-in-infosec/",
-      "published": "2026-10-29T18:00:00+00:00",
-      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/10/threat_source-3.jpg"
-    },
-    {
-      "title": "When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/",
-      "published": "2026-10-29T16:30:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Tracking AI adoption in North Korean threat actor tradecraft",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/",
-      "published": "2026-10-29T16:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/29/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment/",
-      "published": "2026-10-29T16:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
-      "published": "2026-10-29T15:57:05+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfCJ0ttE8v4hkDjJRqbTvxlxFcoNtFJhbYCQ-o8NtaiyFLImEyA8aSO967eeZG9fRebhc8oVA-OloE9X9KVVAxM-H3wKvUlh8XmN6bGlEz2IJwMgcssmA7yIRi7YNOwVQYD6nhQCaWUg6fPy-QXVjfw6rV55LueKlLvZLazjKjTL94KJMMUZ2uZ3R019Km/s1600/linux-flaw.jpg"
-    },
-    {
-      "title": "Threat Modeling With 4 Simple Questions on a White Board",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions",
-      "published": "2026-10-29T15:44:04+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbcb778399a7f6bf5/6ae2559253ec23dfb497d680/White_Board_ljubaphoto_Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
-      "published": "2026-10-29T15:20:29+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1ij0gwe-L1jDZxdoUPZ6hpSJnJgMHh2bG8bFF2y8y-dJA9nY0Fr2JOU2i4NaCetGqvTZOtvaRXbZONR6d8ajjMR6DNm_X7OwaVCiH7dPycEN9xGI0psNvPYbwDhpGmUQ4Qyhp5x9fqQ_sgzjcReslK-a-gRS3kFr5_JOns1kkuC6UheDHVb2yaV8EAhIF/s1600/claude-hack.jpg"
-    },
-    {
-      "title": "Google Touts Powerful Cybersecurity Capabilities in Gemini 4 Carbon Model",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/",
-      "published": "2026-10-29T15:01:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/",
-      "published": "2026-10-29T15:00:00+00:00",
-      "image": ""
     }
   ]
 }
