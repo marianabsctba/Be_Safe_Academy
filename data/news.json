@@ -1,9 +1,27 @@
 {
-  "updated_at": "2026-10-30T18:06:21.847250+00:00",
+  "updated_at": "2026-10-30T22:29:41.344421+00:00",
   "items": [
     {
-      "title": "4 reais? Rastreamento de exploração e correção de chaves fracas do eMudhra",
-      "summary": "Quatro, apenas quatro: essa é a chave para invadir qualquer conexão não corrigida na Internet que use certificados eMudhra. Veja como corrigimos rapidamente o Cloudflare, quais evidências podemos ver de tentativa de exploração e quanto do restante da Internet ",
+      "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
+      "published": "2026-10-30T21:09:46+00:00",
+      "image": ""
+    },
+    {
+      "title": "Devs Hit by Trojanized Claude Code Extension for Cursor",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
+      "published": "2026-10-30T20:05:58+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5af13434263526c5/6ae4e524fd7d52bad0112be2/Package_trap-Alina_Naumova-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "4 real? Tracking exploitation and patching of eMudhra’s weak keys",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "Cloudflare Security",
       "url": "https://blog.cloudflare.com/emudhra-patching/",
@@ -11,8 +29,17 @@
       "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M66XYHSQQJRRA4097AJD12PN.png"
     },
     {
-      "title": "Da representação do suporte técnico ao abuso do AD CS: investigando caminhos de intrusão ESC1 e ESC8",
-      "summary": "As equipes suportam a personificação que leva ao acesso remoto, execução maliciosa de tempo de execução e abuso de serviços de certificados por meio de retransmissão de autenticação e Kerberos. A postagem Da representação do suporte técnico ao abuso do AD CS: ",
+      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+      "published": "2026-10-30T16:58:44+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP1M46Z4Xs0qNHz9xzhTea14XsqTHvNhAfnGb4Ni9goHQR2ypz3BLKRgu-WxWD8VSUNMB3YAP7UhcCAK1AweCc3lC-7VlJ-OqNniD4FvZdE_R-XJkkRadhl2tp3-PqbKPWmQTeJ3a3gvd1kHH_zaW06tCf9cH-7k5feNqHrqbChMAsc5K3hruiX9BDROAe/s1600/CS.jpg"
+    },
+    {
+      "title": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "DEFESA",
       "source": "Microsoft Security",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/",
@@ -20,8 +47,8 @@
       "image": ""
     },
     {
-      "title": "Falha do TeamViewer permite que computadores remotos ataquem usuários que se conectam para controlá-los",
-      "summary": "O TeamViewer corrigiu uma falha que permite que a máquina controlada em uma sessão remota ataque o computador conectado para controlá-la. Em uma sessão do TeamViewer, o computador que se conecta e assume o controle é o visualizador, e a máquina que ele control",
+      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
@@ -29,8 +56,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge-ZayNgwlu4fhpD2BSyGgkMYehkV0atRJINisISPLpiubkgyXopa4NWVnxOZs9gi-DEYTNEQ5G2pu-X5iSHyMp8pguzp-Q6g-1-mGwcy3so4AkeuYFuYoaotOcmF5A-2oVDvnxd0B_FaZ7JJt8W3zrNFot6kBlJp7WffHkb7m92C9bNQnwFLwnNgXpDk/s1600/teamviewer-flaw.jpg"
     },
     {
-      "title": "Falha do TeamViewer permite que computadores remotos ataquem usuários que se conectam para controlá-los - The Hacker News",
-      "summary": "Falha do TeamViewer permite que computadores remotos ataquem usuários que se conectam para controlá-los The Hacker News",
+      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZmxvdmFjSWtvUTN4Z0tFOGxwbF9wTUd5LUl4S0RfTmRFQXBsM0ljOE1yZDZGMDRhNGxWTGVIX2VrdXQ5ZkhKV04wWFNFaW5LX3c5c0I4YjdIZWcwV08yRXVMcU9EelFuR2VOQXF0VWlPM2d6aUNkNDlVc2VqTDJNUW1R?oc=5",
@@ -38,8 +65,8 @@
       "image": ""
     },
     {
-      "title": "PHP2Shell ataca firewalls raiz de Palo Alto, mas falha no WordPress",
-      "summary": "Mais de 22,6 milhões de instâncias expostas são potencialmente afetadas pelas falhas críticas de PHP que foram atacadas por mais de uma semana. A postagem PHP2Shell ataca firewalls raiz de Palo Alto, mas falha no WordPress apareceu pela primeira vez em Securit",
+      "title": "PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/",
@@ -47,8 +74,17 @@
       "image": ""
     },
     {
-      "title": "Em outras notícias: Disputa de violação antrópica, falha UEFI atinge a maioria dos servidores, vazamento de dados de IA da Cloudflare",
-      "summary": "Histórias dignas de nota que podem ter passado despercebidas: Irã de olho em hacks de freezers militares, violação da Universidade de Copenhague, malware alimentado por IA. A postagem Em outras notícias: Disputa de violação antrópica, falha UEFI atinge a maior",
+      "title": "PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress - SecurityWeek",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNHplZ1hUdkl1Z3dGc1lvZWJRWmZGR2JVWUtncXhGdkVwMGtibzhGczVoblJTQUhyY25kXzZMVDdaeTZSWTBFVDVKZkE2YWh3dUtuRy01T0UyNlVtZWdYVDg5Y2k1cVdJZ2NDbUtlSTRQbGFBMGZDMG9wTkNkaHhJczFKX3dnc2wzUGxLbUZXNzBpLS05VUM1ZEZtQTFZUXpP0gGmAUFVX3lxTE1vTUV6US1MVUJ1U3FvcFFoMk51VWZBNm9VdTdqZlpGYldKRS1PdTdXN20wN3d3OGg0dkRYTDFscDZoM3dHbm8xbHlyUExUR2k5M1hJSXgtZUhGS01NaVFkYmpnbXJ4elUyZ2Y3YTU3WFBub29FRVV3VXNqNXRPVmI2Q182SnA5cGhTdzBtNld4a043TnUycERPcHZHbWlhZVFmcEJiWnc?oc=5",
+      "published": "2026-10-30T15:09:25+00:00",
+      "image": ""
+    },
+    {
+      "title": "In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/",
@@ -56,8 +92,8 @@
       "image": ""
     },
     {
-      "title": "Extensão maliciosa do Claude Code no Cursor plantou backdoors SSH",
-      "summary": "Uma versão maliciosa da extensão Claude Code VS Code da Anthropic foi distribuída através do mercado de extensões do Cursor por aproximadamente 11 horas em 29 de outubro, expondo até 5.000 desenvolvedores a malware projetado para instalar backdoors SSH persist",
+      "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
@@ -65,8 +101,8 @@
       "image": ""
     },
     {
-      "title": "Projetos de software mortos-vivos continuam a aumentar riscos de segurança",
-      "summary": "Uma empresa de segurança corrigiu um aplicativo de uma década para evitar a aquisição de milhões de máquinas, destacando que os domínios abandonados continuam sendo uma vantagem para os invasores.",
+      "title": "Undead Software Projects Continue to Raise Security Risks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks",
@@ -74,8 +110,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd40811c92b905082/6ae3b49914ffedf86f1c84cc/zombies-in-graveyard-zef_art-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Falha RCE do WordPress atrai quase 63.000 tentativas de ataque em apenas 24 horas",
-      "summary": "Foram observados agentes de ameaças tentando explorar uma falha de segurança de alta gravidade no WordPress Core logo após o lançamento dos patches. A vulnerabilidade, que não possui identificador CVE, está relacionada a um caso de execução remota de código qu",
+      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
@@ -83,8 +119,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf-pzflJO9HQoCdvBvYNtS12gwwEjAbM4dQ30ak7UYaIPzsVPN9MlFwvIDEFkbe9cWg4wQRFPbGfJ0YXjzGcBS6mUTwttwkQ8IR7OoHyTz3owZkVzYQOAObyJUqfjsC-PqMw2pv41_m68hb6ZkwJb56kGx-Ypv7GWZBtDzjyTTQ8L8i9NxA8_MDVoJSEba/s1600/wp-hack.jpg"
     },
     {
-      "title": "Falha RCE do WordPress atrai quase 63.000 tentativas de ataque em apenas 24 horas - The Hacker News",
-      "summary": "Falha RCE do WordPress atrai quase 63.000 tentativas de ataque em apenas 24 horas The Hacker News",
+      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWDhKVWdCUUdmZGxKYzF1cGZzUzdHbHRfcUNWMzhxSF80aGwzQTJOem1LS2hKWHVVZWVpU09tcEx3SURyRzBzVHRCNFNOVXp6U1NxTmZ2WWh5cmJ6VXRlT2s4LUpINm5IaTNjcUU5TGUxUzUzZHpLOTk5b3ZIQ3FfT21n?oc=5",
@@ -92,8 +128,8 @@
       "image": ""
     },
     {
-      "title": "Ataques SS7 e Diameter: como as falhas de sinalização expõem seu telefone",
-      "summary": "Falhas nos protocolos de sinalização SS7 e Diameter podem permitir que invasores rastreiem localizações de telefones, interceptem chamadas e códigos de verificação de SMS e se façam passar por assinantes sem comprometer seus dispositivos. Cape explica como ess",
+      "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
@@ -101,8 +137,8 @@
       "image": ""
     },
     {
-      "title": "As chaves de acesso são melhores que as senhas. Mas eles não são suficientes.",
-      "summary": "À medida que as organizações eliminam as senhas, os invasores se adaptam. Em vez de atacar diretamente o autenticador, eles procurarão oportunidades em torno dele. A postagem As chaves de acesso são melhores que as senhas. Mas eles não são suficientes. aparece",
+      "title": "Passkeys Are Better Than Passwords. But They Are Not Enough.",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/",
@@ -110,8 +146,8 @@
       "image": ""
     },
     {
-      "title": "Host à prova de balas Virtualine perde seu domínio para apreensão do FBI",
-      "summary": "Ele permitiu que os clientes hospedassem serviços de hack-for-hire, apoiassem operadores de ransomware e infostealer e aceitassem pagamentos criptográficos. O post Virtualine à prova de balas perde seu domínio para apreensão do FBI apareceu pela primeira vez e",
+      "title": "Bulletproof Host Virtualine Loses Its Domain to FBI Seizure",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/",
@@ -119,48 +155,12 @@
       "image": ""
     },
     {
-      "title": "CISA diz que falha de gravidade máxima do GitLab agora é explorada em estado selvagem",
-      "summary": "Os invasores começaram a explorar uma vulnerabilidade de gravidade máxima do GitLab corrigida no início deste mês, de acordo com a Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA). [...]",
+      "title": "CISA says max severity GitLab flaw now exploited in the wild",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
       "published": "2026-10-30T13:00:32+00:00",
-      "image": ""
-    },
-    {
-      "title": "Vulnerabilidade recente do WordPress na mira dos invasores",
-      "summary": "Os atores da ameaça estão tentando explorar uma condição de corrida não autenticada de alta gravidade que leva à execução remota de código. A postagem Vulnerabilidade recente do WordPress na mira dos invasores apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/",
-      "published": "2026-10-30T12:04:13+00:00",
-      "image": ""
-    },
-    {
-      "title": "Vulnerabilidade recente do WordPress na mira de invasores - SecurityWeek",
-      "summary": "Nova vulnerabilidade do WordPress na mira dos invasores SecurityWeek",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONjNkaWJLSWdxY1BvMDBaaTZrcndHb1N2Z3prSTg5ZTlQSF9fNVpZTFN6YTZMOGk2U2V5NWlaYlE0ODFCaHVmYkNIVG40ME1Oc0FXZ1dMR1ZPSzJja3d2cnVpSVpka0d1UXExWWhCMGUzSmV5c3JSMFcxbjFrOHFNRWFmMTE0Qm1wdjRV0gGQAUFVX3lxTE1OTDl1ZDlDanBWUlBVT0ZqakMzeS1sN2kwWDEwVUJOdElpelN6RGQxbGFkbHVEZEJJZ0sxSHBRZjlFOE1teVlKdms2dEphTTZ5NWNzTHdLTGwtMjlIT3ZRaGRJWlFVYkVvdUZUUFVLTDhmVWZNMzd2QXZ0SnBfT2lfMmNzYWdvSG56SlAxeDlVLQ?oc=5",
-      "published": "2026-10-30T12:04:13+00:00",
-      "image": ""
-    },
-    {
-      "title": "Por que as correções de segurança urgentes não são corrigidas. Observar, provar, agir e confirmar faz com que eles se movam",
-      "summary": "O alerta é crítico. A correção é conhecida. E o ingresso fica na fila por dias. As equipes de segurança entendem o risco, mas as pessoas que mantêm os aplicativos disponíveis precisam de provas de que a mudança não prejudicará nada. Suas preocupações são práti",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
-      "published": "2026-10-30T11:58:53+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitJWSYL167QzDoyvN2y9DAuXmFFe0en34dEHp-I2sSVLEPIfljdlRfeIthyMQUgSvf9AfwW4p-solbE5zH3cKpfeLKWg-IqPnVdHbKQ99Bw91fDAoqHx3E9mlpNmXYA5i3RnaTYxZYkZcwbeY31O4CljtFQYp2JPLTmJo1BI09Al9Kh-CDtzFubVly7hM/s1600/cp.jpg"
-    },
-    {
-      "title": "A Microsoft finalmente corrige problemas de VPN causados ​​pelas atualizações de setembro",
-      "summary": "A Microsoft resolveu falhas de conexão Always On VPN desencadeadas após a instalação das atualizações de segurança do Windows 11 de setembro de 2026. [...]",
-      "category": "DEFESA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
-      "published": "2026-10-30T11:20:26+00:00",
       "image": ""
     }
   ]
