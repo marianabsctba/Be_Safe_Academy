@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-10-31T12:46:53.040103+00:00",
+  "updated_at": "2026-10-31T19:23:18.391007+00:00",
   "items": [
+    {
+      "title": "A violação de segurança da Northflank leva ao abuso das chaves de API de IA dos clientes",
+      "summary": "A plataforma de hospedagem de aplicativos em nuvem Northflank está alertando os clientes para alternar todas as credenciais e segredos armazenados em sua plataforma depois que uma violação de segurança levou ao uso não autorizado das chaves de API de IA dos cl",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+      "published": "2026-10-31T18:01:12+00:00",
+      "image": ""
+    },
+    {
+      "title": "Nova exploração do Android SMS of Death pode travar remotamente telefones não corrigidos",
+      "summary": "Um pesquisador de segurança lançou uma exploração de prova de conceito para uma vulnerabilidade do Android recentemente corrigida, apelidada de “SMS da Morte” e rastreada como CVE-2026-58882, que permite que invasores interrompam remotamente o serviço de celul",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+      "published": "2026-10-31T15:35:11+00:00",
+      "image": ""
+    },
+    {
+      "title": "Do iniciante ao caçador de bugs: aprendendo a segurança cibernética na era da IA.",
+      "summary": "Os relatórios de vulnerabilidade gerados pela IA estão sobrecarregando alguns programas de recompensa por bugs, tornando mais difícil para os aspirantes a pesquisadores de segurança saber por onde começar. TryHackMe explica como os iniciantes podem desenvolver",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
+      "published": "2026-10-31T13:10:19+00:00",
+      "image": ""
+    },
+    {
+      "title": "Chainalysis divulga violação de dados por “técnicas de agentes ofensivos”",
+      "summary": "A empresa de análise Blockchain Chainalysis divulgou uma violação de dados depois que os invasores usaram “técnicas de agente ofensivas” para acessar sistemas e ferramentas internas, expondo nomes de clientes, endereços de e-mail, IDs de usuários e funções org",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+      "published": "2026-10-31T12:50:09+00:00",
+      "image": ""
+    },
     {
       "title": "Chainalysis confirma invasão em ferramentas internas e exposição de dados de identidade do cliente",
       "summary": "A empresa americana de análise de blockchain Chainalysis disse que foi alvo de um incidente de segurança cibernética no qual um ator externo acessou dados não confidenciais de clientes. No entanto, a empresa observou que a violação não resultou em acesso não a",
@@ -126,42 +162,6 @@
       "url": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
       "published": "2026-10-30T15:17:28+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge-ZayNgwlu4fhpD2BSyGgkMYehkV0atRJINisISPLpiubkgyXopa4NWVnxOZs9gi-DEYTNEQ5G2pu-X5iSHyMp8pguzp-Q6g-1-mGwcy3so4AkeuYFuYoaotOcmF5A-2oVDvnxd0B_FaZ7JJt8W3zrNFot6kBlJp7WffHkb7m92C9bNQnwFLwnNgXpDk/s1600/teamviewer-flaw.jpg"
-    },
-    {
-      "title": "Falha do TeamViewer permite que computadores remotos ataquem usuários que se conectam para controlá-los - The Hacker News",
-      "summary": "Falha do TeamViewer permite que computadores remotos ataquem usuários que se conectam para controlá-los The Hacker News",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZmxvdmFjSWtvUTN4Z0tFOGxwbF9wTUd5LUl4S0RfTmRFQXBsM0ljOE1yZDZGMDRhNGxWTGVIX2VrdXQ5ZkhKV04wWFNFaW5LX3c5c0I4YjdIZWcwV08yRXVMcU9EelFuR2VOQXF0VWlPM2d6aUNkNDlVc2VqTDJNUW1R?oc=5",
-      "published": "2026-10-30T15:17:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "PHP2Shell ataca firewalls raiz de Palo Alto, mas falha no WordPress",
-      "summary": "Mais de 22,6 milhões de instâncias expostas são potencialmente afetadas pelas falhas críticas de PHP que foram atacadas por mais de uma semana. A postagem PHP2Shell ataca firewalls raiz de Palo Alto, mas falha no WordPress apareceu pela primeira vez em Securit",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/",
-      "published": "2026-10-30T15:09:25+00:00",
-      "image": ""
-    },
-    {
-      "title": "Em outras notícias: Disputa de violação antrópica, falha UEFI atinge a maioria dos servidores, vazamento de dados de IA da Cloudflare",
-      "summary": "Histórias dignas de nota que podem ter passado despercebidas: Irã de olho em hacks de freezers militares, violação da Universidade de Copenhague, malware alimentado por IA. A postagem Em outras notícias: Disputa de violação antrópica, falha UEFI atinge a maior",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/",
-      "published": "2026-10-30T14:41:35+00:00",
-      "image": ""
-    },
-    {
-      "title": "Extensão maliciosa do Claude Code no Cursor plantou backdoors SSH",
-      "summary": "Uma versão maliciosa da extensão Claude Code VS Code da Anthropic foi distribuída através do mercado de extensões do Cursor por aproximadamente 11 horas em 29 de outubro, expondo até 5.000 desenvolvedores a malware projetado para instalar backdoors SSH persist",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
-      "published": "2026-10-30T14:36:54+00:00",
-      "image": ""
     }
   ]
 }
