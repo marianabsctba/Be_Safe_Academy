@@ -1,18 +1,81 @@
 {
-  "updated_at": "2026-10-31T05:56:45.542708+00:00",
+  "updated_at": "2026-10-31T12:46:53.040103+00:00",
   "items": [
     {
-      "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/",
-      "published": "2026-10-31T01:02:57+00:00",
+      "title": "Chainalysis confirma invasão em ferramentas internas e exposição de dados de identidade do cliente",
+      "summary": "A empresa americana de análise de blockchain Chainalysis disse que foi alvo de um incidente de segurança cibernética no qual um ator externo acessou dados não confidenciais de clientes. No entanto, a empresa observou que a violação não resultou em acesso não a",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+      "published": "2026-10-31T12:01:56+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFRN0kXDPnLLvRBYqNZG4BTyUK0EaSxRtepYOQ-msXGAqu1IW8t2cdnav4ANAO8fXwY_-ug6Ictj29WcseInPhJmYOwpgcinvc8KO36A8HK6Wo41lgztgyH2jb9hGg7bVyWZ4A-adjBYuTi-hOJxMALa7myG172BWKwB_SyvrfMeqxH_3DdcyJxYwXFIKG/s1600/chain.jpg"
+    },
+    {
+      "title": "Hacker sírio é preso nos EUA depois de mais de uma década em fuga",
+      "summary": "Um tribunal dos EUA condenou o hacker sírio Ahmad Umar Agha a 42 meses por ataques pró-Assad a meios de comunicação, empresas e entidades governamentais. A postagem Hacker sírio é preso nos EUA depois de mais de uma década em fuga apareceu pela primeira vez em",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/",
+      "published": "2026-10-31T11:00:00+00:00",
       "image": ""
     },
     {
-      "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Atacantes encadeiam três falhas seguras do Ivanti Connect para obter acesso root não autenticado",
+      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) adicionou na sexta-feira duas falhas de segurança que impactam o Ivanti Connect Secure (ICS) ao seu catálogo de Vulnerabilidades Exploradas Conhecidas (KEV), após exploração ativa em estado ",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+      "published": "2026-10-31T08:27:43+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeqP4vPt6j2lLPFj77A_1OthmSKb8mItfBrX_q8sQCAUVgTry1FxKizDI2SCLS4CglfjgbVkaMDN8ainqoOZm2pdaF6xw7sU4STZhwIFPCLSz84YXQTVx2tquPo7YJsZhgOWcD3V_w5td9BA_vVuOu1cFcrgL3SXyLF4E24IyGotrzDcbJ-M1mA85biDuW/s1600/1000120841.jpg"
+    },
+    {
+      "title": "Atacantes encadeiam três falhas seguras do Ivanti Connect para obter acesso root não autenticado - The Hacker News",
+      "summary": "Atacantes encadeiam três falhas seguras do Ivanti Connect para obter acesso root não autenticado The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTzdGS3JjTmphZUpTQl9WU2FLU283M3p2X1Vrd3VSMDNCOFR6QjNMektJS19GSDRtVzJoalN6TmxYbU1nb2lRcmh4cnhfbV9PUXh2WDJJaGRDdW5UcDJMNnlTTGJ6QTdIRFpCYUhnU1BrNkFKUkI1SEpSR2VlcUFwbg?oc=5",
+      "published": "2026-10-31T08:27:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Um link ChatGPT compartilhado pode executar código invasor em sua sessão e ler bate-papos privados",
+      "summary": "Um link de compartilhamento ChatGPT malicioso pode executar o código de um invasor na sessão logada de qualquer pessoa que o abra, permitindo-lhes ler suas conversas privadas, mostraram pesquisadores da empresa de segurança Parameter. Os pesquisadores relatara",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+      "published": "2026-10-31T05:33:41+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEplEzMjNIg5IBNIX4uz_WyVhtJqqbKICvvpW5LbwPEsQVd4ypSQC1ISnXoR0pMLlQEF4erNUIf-5-ELvBXIE8VH2Iv7dCPCuaZAFVeS9VIITs_5e_77DwtIvo3ExUcfJC_aT4x3FDD3AmTKeQFKnOrufXorlbiHOJNO-pUhwzBNwL98r-2JSW2CWiTBs/s1600/chatgpt.jpg"
+    },
+    {
+      "title": "Um link ChatGPT compartilhado pode executar código invasor em sua sessão e ler bate-papos privados - The Hacker News",
+      "summary": "Um link ChatGPT compartilhado pode executar código invasor em sua sessão e ler bate-papos privados The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xLTVwY2pKZ1U4Y0J1VjJVQnkwZTJNcGFGUEtfbHZXSENiQkxXdFVJaEhXbGJYSWpRMjJUcW81dFFMRWpvWVZCUm5EY0pRRHpfZlJ3WXlHV3BmUVBXS3VvaWJzdTB1SzNmUkJLaTNINkZCckE3QVRSdGpB?oc=5",
+      "published": "2026-10-31T05:33:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Cloudflare relata 18,2 milhões de ataques DDoS na camada de rede no terceiro trimestre, um aumento de 38%",
+      "summary": "Os atores de ameaças estão lançando cerca de 8.226 ataques de negação de serviço distribuído (DDoS) na camada de rede por hora, revelou a Cloudflare na quinta-feira. A empresa de infraestrutura e segurança da web disse que mitigou de forma autônoma 18,2 milhõe",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+      "published": "2026-10-31T04:56:12+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9-PGmRcZy9OvjKNOWHrGVMpF2DhnvIrHU6mOwyroU7CeoEKMkrjCt8HxCKBzAOia6ZpDEvTuQcF2Xg_50vE_W8DdjmLJjxMXPUUm5Ryfym8GBhm74Z6jwZCeXSKgxuK6A57rVsM-Z1G8nfEF3Mn8QgoD77Nbqxakkj_ZxbBNDtp0ljvTKrXydLYm1BFZR/s1600/cf.jpg"
+    },
+    {
+      "title": "Cloudflare relata 18,2 milhões de ataques DDoS na camada de rede no terceiro trimestre, um aumento de 38% - The Hacker News",
+      "summary": "Cloudflare relata 18,2 milhões de ataques DDoS na camada de rede no terceiro trimestre, um aumento de 38% The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSi0zamgwZ0RrN3YzS3dkNUM5bXZyVHFKTW1DYjRJTGpyY09vcTgtb1k1a25pdHZla3kxam5Tai16alh4MnBLaGtremNISzFaVFFFV0Z1Z29MSzdWUVgyTVkyMThPcFFUMEd6QnF4NkdtTGlwemhiSm1ITDJaZGJza1BwRQ?oc=5",
+      "published": "2026-10-31T04:56:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falha crítica do kernel Linux permite ataques root remotos em servidores MPTCP",
+      "summary": "Pesquisadores de segurança da Anthropic desenvolveram uma exploração para uma vulnerabilidade crítica do kernel Linux que permite que invasores não autenticados executem comandos remotamente como root em servidores que executam ouvintes Multipath TCP (MPTCP). ",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
@@ -20,8 +83,8 @@
       "image": ""
     },
     {
-      "title": "Devs Hit by Trojanized Claude Code Extension for Cursor",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Desenvolvedores atingidos pela extensão de código Claude trojanizada para Cursor",
+      "summary": "Dois sérios problemas de segurança atingiram o Cursor no mesmo dia, destacando os riscos para ambientes de desenvolvimento integrado (IDEs) alimentados por IA.",
       "category": "DEFESA",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
@@ -29,8 +92,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5af13434263526c5/6ae4e524fd7d52bad0112be2/Package_trap-Alina_Naumova-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Behind the Scenes of How Operation Blackout Went Down",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Nos bastidores de como ocorreu a operação Blackout",
+      "summary": "Uma recente operação policial para desmantelar centros fraudulentos prejudiciais foi um grande sucesso. Um especialista em inteligência de ameaças nos explica o que aconteceu e por que ele quer mais do mesmo.",
       "category": "AMEAÇAS",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
@@ -38,8 +101,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blted8eeb1e23f7df84/6ae3bbdee7e856ef65896aec/GettyImages-1294781573.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "4 real? Tracking exploitation and patching of eMudhra’s weak keys",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "4 reais? Rastreamento de exploração e correção de chaves fracas do eMudhra",
+      "summary": "Quatro, apenas quatro: essa é a chave para invadir qualquer conexão não corrigida na Internet que use certificados eMudhra. Veja como corrigimos rapidamente o Cloudflare, quais evidências podemos ver de tentativa de exploração e quanto do restante da Internet ",
       "category": "VULNERABILIDADES",
       "source": "Cloudflare Security",
       "url": "https://blog.cloudflare.com/emudhra-patching/",
@@ -47,8 +110,8 @@
       "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M66XYHSQQJRRA4097AJD12PN.png"
     },
     {
-      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Hackers chineses usam ARTEX com tecnologia de IA para atingir mais de 200 organizações em todo o mundo",
+      "summary": "Atores de ameaças patrocinados pelo Estado chinês foram observados usando uma estrutura de testes de penetração baseada em inteligência artificial (IA) baseada em Go, chamada ARTEX, em ataques direcionados a alvos de alto valor simultaneamente. A atividade foi",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
@@ -56,17 +119,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP1M46Z4Xs0qNHz9xzhTea14XsqTHvNhAfnGb4Ni9goHQR2ypz3BLKRgu-WxWD8VSUNMB3YAP7UhcCAK1AweCc3lC-7VlJ-OqNniD4FvZdE_R-XJkkRadhl2tp3-PqbKPWmQTeJ3a3gvd1kHH_zaW06tCf9cH-7k5feNqHrqbChMAsc5K3hruiX9BDROAe/s1600/CS.jpg"
     },
     {
-      "title": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/",
-      "published": "2026-10-30T16:11:44+00:00",
-      "image": ""
-    },
-    {
-      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Falha do TeamViewer permite que computadores remotos ataquem usuários que se conectam para controlá-los",
+      "summary": "O TeamViewer corrigiu uma falha que permite que a máquina controlada em uma sessão remota ataque o computador conectado para controlá-la. Em uma sessão do TeamViewer, o computador que se conecta e assume o controle é o visualizador, e a máquina que ele control",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
@@ -74,8 +128,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge-ZayNgwlu4fhpD2BSyGgkMYehkV0atRJINisISPLpiubkgyXopa4NWVnxOZs9gi-DEYTNEQ5G2pu-X5iSHyMp8pguzp-Q6g-1-mGwcy3so4AkeuYFuYoaotOcmF5A-2oVDvnxd0B_FaZ7JJt8W3zrNFot6kBlJp7WffHkb7m92C9bNQnwFLwnNgXpDk/s1600/teamviewer-flaw.jpg"
     },
     {
-      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Falha do TeamViewer permite que computadores remotos ataquem usuários que se conectam para controlá-los - The Hacker News",
+      "summary": "Falha do TeamViewer permite que computadores remotos ataquem usuários que se conectam para controlá-los The Hacker News",
       "category": "INCIDENTES",
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZmxvdmFjSWtvUTN4Z0tFOGxwbF9wTUd5LUl4S0RfTmRFQXBsM0ljOE1yZDZGMDRhNGxWTGVIX2VrdXQ5ZkhKV04wWFNFaW5LX3c5c0I4YjdIZWcwV08yRXVMcU9EelFuR2VOQXF0VWlPM2d6aUNkNDlVc2VqTDJNUW1R?oc=5",
@@ -83,8 +137,8 @@
       "image": ""
     },
     {
-      "title": "PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "PHP2Shell ataca firewalls raiz de Palo Alto, mas falha no WordPress",
+      "summary": "Mais de 22,6 milhões de instâncias expostas são potencialmente afetadas pelas falhas críticas de PHP que foram atacadas por mais de uma semana. A postagem PHP2Shell ataca firewalls raiz de Palo Alto, mas falha no WordPress apareceu pela primeira vez em Securit",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/",
@@ -92,17 +146,8 @@
       "image": ""
     },
     {
-      "title": "PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress - SecurityWeek",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNHplZ1hUdkl1Z3dGc1lvZWJRWmZGR2JVWUtncXhGdkVwMGtibzhGczVoblJTQUhyY25kXzZMVDdaeTZSWTBFVDVKZkE2YWh3dUtuRy01T0UyNlVtZWdYVDg5Y2k1cVdJZ2NDbUtlSTRQbGFBMGZDMG9wTkNkaHhJczFKX3dnc2wzUGxLbUZXNzBpLS05VUM1ZEZtQTFZUXpP0gGmAUFVX3lxTE1vTUV6US1MVUJ1U3FvcFFoMk51VWZBNm9VdTdqZlpGYldKRS1PdTdXN20wN3d3OGg0dkRYTDFscDZoM3dHbm8xbHlyUExUR2k5M1hJSXgtZUhGS01NaVFkYmpnbXJ4elUyZ2Y3YTU3WFBub29FRVV3VXNqNXRPVmI2Q182SnA5cGhTdzBtNld4a043TnUycERPcHZHbWlhZVFmcEJiWnc?oc=5",
-      "published": "2026-10-30T15:09:25+00:00",
-      "image": ""
-    },
-    {
-      "title": "In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Em outras notícias: Disputa de violação antrópica, falha UEFI atinge a maioria dos servidores, vazamento de dados de IA da Cloudflare",
+      "summary": "Histórias dignas de nota que podem ter passado despercebidas: Irã de olho em hacks de freezers militares, violação da Universidade de Copenhague, malware alimentado por IA. A postagem Em outras notícias: Disputa de violação antrópica, falha UEFI atinge a maior",
       "category": "AMEAÇAS",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/",
@@ -110,57 +155,12 @@
       "image": ""
     },
     {
-      "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Extensão maliciosa do Claude Code no Cursor plantou backdoors SSH",
+      "summary": "Uma versão maliciosa da extensão Claude Code VS Code da Anthropic foi distribuída através do mercado de extensões do Cursor por aproximadamente 11 horas em 29 de outubro, expondo até 5.000 desenvolvedores a malware projetado para instalar backdoors SSH persist",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
       "published": "2026-10-30T14:36:54+00:00",
-      "image": ""
-    },
-    {
-      "title": "Undead Software Projects Continue to Raise Security Risks",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks",
-      "published": "2026-10-30T14:10:37+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd40811c92b905082/6ae3b49914ffedf86f1c84cc/zombies-in-graveyard-zef_art-shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
-      "published": "2026-10-30T14:08:14+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf-pzflJO9HQoCdvBvYNtS12gwwEjAbM4dQ30ak7UYaIPzsVPN9MlFwvIDEFkbe9cWg4wQRFPbGfJ0YXjzGcBS6mUTwttwkQ8IR7OoHyTz3owZkVzYQOAObyJUqfjsC-PqMw2pv41_m68hb6ZkwJb56kGx-Ypv7GWZBtDzjyTTQ8L8i9NxA8_MDVoJSEba/s1600/wp-hack.jpg"
-    },
-    {
-      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWDhKVWdCUUdmZGxKYzF1cGZzUzdHbHRfcUNWMzhxSF80aGwzQTJOem1LS2hKWHVVZWVpU09tcEx3SURyRzBzVHRCNFNOVXp6U1NxTmZ2WWh5cmJ6VXRlT2s4LUpINm5IaTNjcUU5TGUxUzUzZHpLOTk5b3ZIQ3FfT21n?oc=5",
-      "published": "2026-10-30T14:08:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
-      "published": "2026-10-30T14:00:10+00:00",
-      "image": ""
-    },
-    {
-      "title": "Passkeys Are Better Than Passwords. But They Are Not Enough.",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/",
-      "published": "2026-10-30T14:00:00+00:00",
       "image": ""
     }
   ]
