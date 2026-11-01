@@ -1,9 +1,18 @@
 {
-  "updated_at": "2026-11-01T16:08:17.932450+00:00",
+  "updated_at": "2026-11-01T22:11:30.972474+00:00",
   "items": [
     {
-      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "FBI liga roubo de criptografia da Binance de US$ 6,3 bilhões a hackers norte-coreanos",
+      "summary": "O FBI confirmou que hackers patrocinados pelo Estado norte-coreano, conhecidos como TraderTraitor, estavam por trás do ataque de roubo de criptografia de US$ 6,3 bilhões à Binance, tornando-o o maior roubo de criptomoeda já registrado. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+      "published": "2026-11-01T19:57:53+00:00",
+      "image": ""
+    },
+    {
+      "title": "Alpine Linux reconstrói GitLab após tentativa de ataque RCE",
+      "summary": "Hackers tentaram explorar uma vulnerabilidade crítica do GitLab na infraestrutura de desenvolvimento do Alpine Linux de 20 a 21 de outubro, levando o projeto de código aberto a reconstruir seu servidor GitLab e redefinir todas as senhas devido a preocupações d",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
@@ -11,8 +20,8 @@
       "image": ""
     },
     {
-      "title": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Northstar Security sai do sigilo com US$ 7 milhões para expor combinações de riscos tóxicos",
+      "summary": "A startup mapeia como identidades, ativos e vulnerabilidades se conectam e usa agentes de IA para encontrar e corrigir combinações arriscadas de problemas. A postagem Northstar Security sai do sigilo com US$ 7 milhões para expor combinações de riscos tóxicos a",
       "category": "CLOUD & IA",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/",
@@ -20,8 +29,8 @@
       "image": ""
     },
     {
-      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "CVSS 10.0 LXD, falha no MicroCloud permite que invasores se passem por clientes confiáveis ​​sem uma chave privada",
+      "summary": "Uma falha crítica no LXD e no MicroCloud da Canonical permite que um invasor faça login como um cliente confiável sem manter a chave privada desse cliente. Para fazer isso, o invasor precisava acessar sua API HTTPS pela rede e ter o certificado público do clie",
       "category": "INCIDENTES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
@@ -29,8 +38,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4Vibbj3miGalyf0avn_Z2WlLhFh5cC5ImXGFlOL0cisgxikHCcLzHjOVM3qO5B47V3uw62rWH6m6fP1svsH3TCG6i9sS19BIXn1CsDjKK3gnG6VQxkFwghemdeBlV4_AM5Ah-_TJ3T_5Gv-D5Pygrm-B5yzQnDqvIXmI2FyAeuzk57_l6esdhNrTMBj0/s1600/linux-vm.jpg"
     },
     {
-      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "CVSS 10.0 LXD, falha na MicroCloud permite que invasores se passem por clientes confiáveis ​​sem uma chave privada - The Hacker News",
+      "summary": "CVSS 10.0 LXD, falha na MicroCloud permite que invasores se passem por clientes confiáveis ​​sem uma chave privada The Hacker News",
       "category": "INCIDENTES",
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSEtwb3BUWUJwN3hLb2N1LXRkY2xIcFJCYmFtbWF1MDJZd0ppcmNTeDc3Ynl2cWlfWFVsd3hmSGlyS3djT3hKLVVNLWFFdThYSl9yYlJGc2llel9SSUtHODJkOXUwcTJyLW9EQkZJOEdfd0VLOEQtYXpzdnBvY0NZbnNn?oc=5",
@@ -38,8 +47,8 @@
       "image": ""
     },
     {
-      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Malware NetamLoader tem como alvo sistemas Windows 10 governamentais na Ásia por meio de injeção .NET",
+      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes do que foi descrito como uma “cadeia de infecção altamente sofisticada” que visa organizações governamentais na Ásia. A atividade, detalhada pela Kaspersky esta semana, tinha como alvo uma versão perso",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
@@ -47,8 +56,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy0oLNj9TVg8ifLKdJSg4HH1EhN3m_OBldd7wEIeVoQSHtFXSmsiPdmf-njsPD-CbVHY8NckeW2N9rN8-CTnp81zaeFq-ISj04O7ihoj5HgnvJT_zY_0fdC8vCcd5LXL8Mx9ym1fPI5GMrEtjxZoEiernCr_CZwLocgtrJsKZzixEnYUe2WmkehWLNR2hx/s1600/windows-hacker.jpg"
     },
     {
-      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Malware NetamLoader tem como alvo sistemas Windows 10 governamentais na Ásia por meio de injeção .NET - The Hacker News",
+      "summary": "Malware NetamLoader tem como alvo sistemas Windows 10 governamentais na Ásia por meio de injeção .NET The Hacker News",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZVFZYnJhMjlvU2daaFNuWGwwU1NZM2llT0hsWEZGZ1JWZ1pGQmZhYmZYa0xmY3BBbTBhSmpSYWpkMm5WRndzcDRvUkowMGxEVjVTQmRhZ290ZnJmZ2FJRURpX1BzMy1xYXVCVGwwaXdqU0JnLXJWdEJJaU9OeHZtLVA4WQ?oc=5",
@@ -56,8 +65,8 @@
       "image": ""
     },
     {
-      "title": "Northflank security breach leads to abuse of customers' AI API keys",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "A violação de segurança da Northflank leva ao abuso das chaves de API de IA dos clientes",
+      "summary": "A plataforma de hospedagem de aplicativos em nuvem Northflank está alertando os clientes para alternar todas as credenciais e segredos armazenados em sua plataforma depois que uma violação de segurança levou ao uso não autorizado das chaves de API de IA dos cl",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
@@ -65,8 +74,8 @@
       "image": ""
     },
     {
-      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Nova exploração do Android SMS of Death pode travar remotamente telefones não corrigidos",
+      "summary": "Um pesquisador de segurança lançou uma exploração de prova de conceito para uma vulnerabilidade do Android recentemente corrigida, apelidada de “SMS da Morte” e rastreada como CVE-2026-58882, que permite que invasores interrompam remotamente o serviço de celul",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
@@ -74,8 +83,8 @@
       "image": ""
     },
     {
-      "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Do iniciante ao caçador de bugs: aprendendo a segurança cibernética na era da IA.",
+      "summary": "Os relatórios de vulnerabilidade gerados por IA estão sobrecarregando alguns programas de recompensa por bugs, tornando mais difícil para os aspirantes a pesquisadores de segurança saber por onde começar. TryHackMe explica como os iniciantes podem desenvolver ",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
@@ -83,8 +92,8 @@
       "image": ""
     },
     {
-      "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Chainalysis divulga violação de dados por “técnicas de agentes ofensivos”",
+      "summary": "A empresa de análise Blockchain Chainalysis divulgou uma violação de dados depois que os invasores usaram “técnicas de agente ofensivas” para acessar sistemas e ferramentas internas, expondo nomes de clientes, endereços de e-mail, IDs de usuários e funções org",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
@@ -92,8 +101,8 @@
       "image": ""
     },
     {
-      "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Chainalysis confirma invasão em ferramentas internas e exposição de dados de identidade do cliente",
+      "summary": "A empresa americana de análise de blockchain Chainalysis disse que foi alvo de um incidente de segurança cibernética no qual um ator externo acessou dados não confidenciais de clientes. No entanto, a empresa observou que a violação não resultou em acesso não a",
       "category": "INCIDENTES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
@@ -101,8 +110,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFRN0kXDPnLLvRBYqNZG4BTyUK0EaSxRtepYOQ-msXGAqu1IW8t2cdnav4ANAO8fXwY_-ug6Ictj29WcseInPhJmYOwpgcinvc8KO36A8HK6Wo41lgztgyH2jb9hGg7bVyWZ4A-adjBYuTi-hOJxMALa7myG172BWKwB_SyvrfMeqxH_3DdcyJxYwXFIKG/s1600/chain.jpg"
     },
     {
-      "title": "Syrian Hacker Gets Prison Time in US After Over a Decade on the Run",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Hacker sírio é preso nos EUA depois de mais de uma década em fuga",
+      "summary": "Um tribunal dos EUA condenou o hacker sírio Ahmad Umar Agha a 42 meses por ataques pró-Assad a meios de comunicação, empresas e entidades governamentais. A postagem Hacker sírio é preso nos EUA depois de mais de uma década em fuga apareceu pela primeira vez em",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/",
@@ -110,8 +119,8 @@
       "image": ""
     },
     {
-      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Atacantes encadeiam três falhas seguras do Ivanti Connect para obter acesso root não autenticado",
+      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) adicionou na sexta-feira duas falhas de segurança que impactam o Ivanti Connect Secure (ICS) ao seu catálogo de Vulnerabilidades Exploradas Conhecidas (KEV), após exploração ativa em estado ",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
@@ -119,8 +128,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeqP4vPt6j2lLPFj77A_1OthmSKb8mItfBrX_q8sQCAUVgTry1FxKizDI2SCLS4CglfjgbVkaMDN8ainqoOZm2pdaF6xw7sU4STZhwIFPCLSz84YXQTVx2tquPo7YJsZhgOWcD3V_w5td9BA_vVuOu1cFcrgL3SXyLF4E24IyGotrzDcbJ-M1mA85biDuW/s1600/1000120841.jpg"
     },
     {
-      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Atacantes encadeiam três falhas seguras do Ivanti Connect para obter acesso root não autenticado - The Hacker News",
+      "summary": "Atacantes encadeiam três falhas seguras do Ivanti Connect para obter acesso root não autenticado The Hacker News",
       "category": "INCIDENTES",
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTzdGS3JjTmphZUpTQl9WU2FLU283M3p2X1Vrd3VSMDNCOFR6QjNMektJS19GSDRtVzJoalN6TmxYbU1nb2lRcmh4cnhfbV9PUXh2WDJJaGRDdW5UcDJMNnlTTGJ6QTdIRFpCYUhnU1BrNkFKUkI1SEpSR2VlcUFwbg?oc=5",
@@ -128,8 +137,8 @@
       "image": ""
     },
     {
-      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Um link ChatGPT compartilhado pode executar código invasor em sua sessão e ler bate-papos privados",
+      "summary": "Um link malicioso de compartilhamento do ChatGPT poderia executar o código de um invasor na sessão logada de qualquer pessoa que o abrisse, permitindo-lhes ler suas conversas privadas, mostraram pesquisadores da empresa de segurança Parameter. Os pesquisadores",
       "category": "INCIDENTES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
@@ -137,8 +146,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEplEzMjNIg5IBNIX4uz_WyVhtJqqbKICvvpW5LbwPEsQVd4ypSQC1ISnXoR0pMLlQEF4erNUIf-5-ELvBXIE8VH2Iv7dCPCuaZAFVeS9VIITs_5e_77DwtIvo3ExUcfJC_aT4x3FDD3AmTKeQFKnOrufXorlbiHOJNO-pUhwzBNwL98r-2JSW2CWiTBs/s1600/chatgpt.jpg"
     },
     {
-      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Um link ChatGPT compartilhado pode executar código invasor em sua sessão e ler bate-papos privados - The Hacker News",
+      "summary": "Um link ChatGPT compartilhado pode executar código invasor em sua sessão e ler bate-papos privados The Hacker News",
       "category": "INCIDENTES",
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xLTVwY2pKZ1U4Y0J1VjJVQnkwZTJNcGFGUEtfbHZXSENiQkxXdFVJaEhXbGJYSWpRMjJUcW81dFFMRWpvWVZCUm5EY0pRRHpfZlJ3WXlHV3BmUVBXS3VvaWJzdTB1SzNmUkJLaTNINkZCckE3QVRSdGpB?oc=5",
@@ -146,22 +155,13 @@
       "image": ""
     },
     {
-      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Cloudflare relata 18,2 milhões de ataques DDoS na camada de rede no terceiro trimestre, um aumento de 38%",
+      "summary": "Os atores de ameaças estão lançando cerca de 8.226 ataques de negação de serviço distribuído (DDoS) na camada de rede por hora, revelou a Cloudflare na quinta-feira. A empresa de infraestrutura e segurança da web disse que mitigou de forma autônoma 18,2 milhõe",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
       "published": "2026-10-31T04:56:12+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9-PGmRcZy9OvjKNOWHrGVMpF2DhnvIrHU6mOwyroU7CeoEKMkrjCt8HxCKBzAOia6ZpDEvTuQcF2Xg_50vE_W8DdjmLJjxMXPUUm5Ryfym8GBhm74Z6jwZCeXSKgxuK6A57rVsM-Z1G8nfEF3Mn8QgoD77Nbqxakkj_ZxbBNDtp0ljvTKrXydLYm1BFZR/s1600/cf.jpg"
-    },
-    {
-      "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/",
-      "published": "2026-10-31T01:02:57+00:00",
-      "image": ""
     }
   ]
 }
