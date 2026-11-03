@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-11-02T19:36:32.006845+00:00",
+  "updated_at": "2026-11-03T02:58:42.078846+00:00",
   "items": [
+    {
+      "title": "Empresas de tecnologia desmantelam botnet que transformou 1,3 milhão de caixas de TV em proxies",
+      "summary": "O Google disse hoje que trabalhou com parceiros da indústria para desmantelar uma botnet composta por mais de 1,3 milhão de decodificadores de TV Android que vêm com software malicioso que aluga secretamente a conexão de Internet do usuário para estranhos e co",
+      "category": "AMEAÇAS",
+      "source": "KrebsOnSecurity",
+      "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+      "published": "2026-11-03T02:24:31+00:00",
+      "image": ""
+    },
+    {
+      "title": "Um laptop comprometido, bilhões perdidos: o aviso de caminho de ataque da Binance",
+      "summary": "O roubo de registos mostra como a fraca separação do sistema, os controlos inadequados e as possibilidades de ataque não testadas podem transformar uma violação numa perda sistémica.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
+      "published": "2026-11-02T22:27:24+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5a6c898e92d21e63/6ae8ffda91cb5739c41bd1e1/binance_creativetan_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Hackers chineses usam ARTEX AI em ataques automatizados contra 200 organizações",
+      "summary": "Os hackers chineses usaram o ARTEX, uma estrutura de teste de penetração de IA multiagente e de código aberto, em ataques contra mais de 200 organizações em 14 países. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+      "published": "2026-11-02T21:40:14+00:00",
+      "image": ""
+    },
+    {
+      "title": "O que as vulnerabilidades exploradas têm em comum: uma análise baseada em dados de ataques do mundo real",
+      "summary": "A exploração no mundo real concentra-se num subconjunto pequeno e de alto impacto de CVEs. Saiba como os defensores podem priorizar vulnerabilidades com base na probabilidade de exploração, exposição e raio potencial de explosão. A postagem O que as vulnerabil",
+      "category": "VULNERABILIDADES",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/",
+      "published": "2026-11-02T20:20:59+00:00",
+      "image": ""
+    },
     {
       "title": "Plataforma Fintech Sageworks colocada offline após suspeita de ataque cibernético",
       "summary": "A empresa de tecnologia financeira Abrigo restaurou seu aplicativo de gerenciamento de risco Sageworks, exceto para recursos voltados para o mutuário, após uma interrupção desencadeada por “atividades irregulares” em seu ambiente. [...]",
@@ -125,42 +161,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/",
       "published": "2026-11-02T13:35:21+00:00",
-      "image": ""
-    },
-    {
-      "title": "Google apresenta recompensa de recompensa por bug raiz na nuvem de US$ 250.000",
-      "summary": "O maior pagamento é para pesquisas arquitetônicas de alto impacto que demonstrem total controle administrativo. A postagem Google apresenta recompensa de recompensa por bug root-in-cloud de US$ 250.000 apareceu pela primeira vez na SecurityWeek.",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/google-introduces-250000-root-in-cloud-bug-bounty-reward/",
-      "published": "2026-11-02T13:25:11+00:00",
-      "image": ""
-    },
-    {
-      "title": "Mais de 1.000 servidores GitLab vulneráveis ​​a ataques RCE contínuos",
-      "summary": "Mais de 1.000 servidores GitLab expostos à Internet ainda não foram corrigidos contra uma falha de gravidade máxima explorada ativamente em ataques de execução remota de código. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
-      "published": "2026-11-02T12:47:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falhas críticas no Langflow podem permitir que invasores não autenticados executem código em servidores",
-      "summary": "Duas falhas críticas no Langflow podem permitir que um invasor remoto sem conta ignore a autenticação ou execute código arbitrário, disse a IBM na semana passada. Langflow é uma ferramenta de código aberto para construir agentes e fluxos de trabalho de IA, e s",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
-      "published": "2026-11-02T11:50:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_FF2_yXQrxnB1ymo-GsohY6t0INslV7mps2DVMnYa_dD_RpZu7uz9HwNrux1gxieMF4hnc_84KMpOyhroj0EDx0Vwv0QljdhTehvJINIsr-Sjyw4CaMiLO3fFWGl-8LhLWgOtC4DRU2X5e46s3Rxghu3KLUMsyHfpxFyKogIs34Q2fm2RYpAMI_Jt_9A/s1600/langflow-rce.jpg"
-    },
-    {
-      "title": "Falhas críticas no Langflow podem permitir que invasores não autenticados executem códigos em servidores - The Hacker News",
-      "summary": "Falhas críticas no Langflow podem permitir que invasores não autenticados executem código em servidores The Hacker News",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJcm9uUjY2VkxLdzNYVlNtdHlyVUxBUWRjLVFiNnRJVEZxNUNqa0hGS0ZUS3RIZGNGbDhwYXVIS3EtQ2RSV2ZraS0zT2pIWHdRdklnc1QtTFJMeFd4azRndjdiQzMtNFloSkFtNlNERVVaTlhtcUxSMnFtbWs?oc=5",
-      "published": "2026-11-02T11:50:00+00:00",
       "image": ""
     }
   ]
