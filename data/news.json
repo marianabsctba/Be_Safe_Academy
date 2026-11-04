@@ -1,166 +1,166 @@
 {
-  "updated_at": "2026-11-04T01:29:41.316468+00:00",
+  "updated_at": "2026-11-04T19:54:12.538367+00:00",
   "items": [
     {
-      "title": "Hackers sequestram atualização automática do cPGuard para implantar backdoor e roubar dados",
-      "summary": "Os invasores comprometeram a infraestrutura de atualização do pacote de segurança da web cPGuard para distribuir um backdoor e um script de roubo de dados. [...]",
+      "title": "DreamHost confirma logins de FTP e sessões de webmail expostos à violação de dados",
+      "summary": "DreamHost está alertando sobre uma violação de dados depois que invasores obtiveram acesso à sua plataforma File Manager por dois meses e roubaram nomes de usuário e senhas FTP/SFTP dos clientes. [...]",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
-      "published": "2026-11-03T22:18:50+00:00",
+      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+      "published": "2026-11-04T19:05:19+00:00",
       "image": ""
     },
     {
-      "title": "Novos ataques a frigoríficos europeus colocam a segurança da cadeia de frio em foco",
-      "summary": "Para além do armazenamento de alimentos, a mesma combinação de conectividade à Internet, acesso remoto e práticas de segurança inadequadas pode colocar em risco infraestruturas com temperatura controlada noutros setores críticos.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security",
-      "published": "2026-11-03T22:16:49+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3c1ba20d1eb5be7f/6aea51a7937e6faad50e3a84/cold_Adisa_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "WorkOS diz que invasor usou ARTEX AI para violar aplicativo de vendas interno",
-      "summary": "A plataforma de desenvolvimento WorkOS sofreu uma violação de dados depois que um agente de ameaça acessou registros de contatos comerciais e resumos de comunicações de clientes. [...]",
+      "title": "Ataque cibernético interrompe sistemas de refrigeração de armazenamento de sangue na França",
+      "summary": "O serviço nacional de sangue da França confirmou que um ataque cibernético contra um fornecedor de equipamentos de refrigeração aumentou a temperatura e as configurações de descongelamento em três de suas instalações, ameaçando os produtos sanguíneos armazenad",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
-      "published": "2026-11-03T21:28:44+00:00",
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
+      "published": "2026-11-04T18:02:56+00:00",
       "image": ""
     },
     {
-      "title": "Binance diz que entrevista de emprego falsa levou a roubo de criptografia de US$ 6,3 bilhões",
-      "summary": "A exchange de criptomoedas Binance diz que hackers norte-coreanos usaram uma entrevista de emprego falsa para induzir um funcionário a instalar malware que acabou permitindo que eles comprometessem a infraestrutura de carteira da empresa e roubassem cerca de U",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
-      "published": "2026-11-03T20:05:50+00:00",
-      "image": ""
-    },
-    {
-      "title": "Google: ataques de LLMjacking acumulam US$ 1 milhão em cobranças de IA na nuvem",
-      "summary": "Os grandes ataques de sequestro de modelos de linguagem, também conhecidos como LLMjacking, estão gerando grandes cobranças fraudulentas na nuvem, com algumas organizações perdendo mais de US$ 100.000 por dia. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
-      "published": "2026-11-03T18:51:04+00:00",
-      "image": ""
-    },
-    {
-      "title": "mSecure avisa os usuários para alterarem senhas, redefinir 2FA e chaves de acesso após atividades suspeitas",
-      "summary": "Os clientes do gerenciador de senhas mSecure estão sendo instados a agir agora para proteger as informações confidenciais que armazenam nele, possivelmente alterando senhas, redefinindo a autenticação de dois fatores (2FA) e removendo chaves de acesso. O aviso",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
-      "published": "2026-11-03T18:46:38+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtvbYhodewxI1TOMjVp0GKUmMdudVKH27My8auvMEvDbCkd_JBzdJjjBb99j2a2a9R1wgkOaTdLcM_9FEmpyweVquFetLeyfzSC5UgpukK8Ukw7keJb5HwmTnPP1qWT2QzVX3FKLtBKLDFnuMrzmfgW5dwYf6SJHZHqSDj_eYGdap3ECOMMI1Em6_oS_0/s1600/msecure.jpg"
-    },
-    {
-      "title": "mSecure avisa os usuários para alterar senhas, redefinir 2FA e chaves de acesso após atividades suspeitas - The Hacker News",
-      "summary": "mSecure avisa os usuários para alterar senhas, redefinir 2FA e chaves de acesso após atividades suspeitas The Hacker News",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOem5LNWhPZWE2cTJBa2NkdFB1b0pqWE5Sbm9hSnhnWl9PZDVRTWw3NHFuWF9NWWxDYjIxUTZGd3RiTGJsYmcwRnJZZVZZN29IV3NFeklveXhDTEZac0VBbDNCdDlJdUJXZTk0UEhLXzF6aWRvMU5FWVpLWW9QNE5YNWRnNDk?oc=5",
-      "published": "2026-11-03T18:46:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Chainstack relata violação de sistemas de produção expondo dados de clientes e hashes de senha",
-      "summary": "O provedor de infraestrutura Blockchain Chainstack divulgou na terça-feira que foi alvo de um ataque cibernético que permitiu que uma parte não autorizada obtivesse acesso a algumas partes de sua infraestrutura. O incidente é avaliado como parte de uma campanh",
+      "title": "Falha no APT do Debian e Ubuntu permite que invasores do MitM troquem pacotes verificados e executem código como root",
+      "summary": "Uma falha no APT, o gerenciador de pacotes para Debian e Ubuntu, permite que um invasor que possa modificar downloads de pacotes troque um pacote verificado pelo seu próprio. O código do invasor então é executado como root, de acordo com os avisos publicados p",
       "category": "INCIDENTES",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
-      "published": "2026-11-03T18:16:19+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMgLc61q6cTompbBY4lS-pqinmS1_3vYBYH7OVnnFTmOZfMk8R7houuqUmnMhUs-gTI-55HwieAaPuCI_zhc0XNw74PhfZVbCjWexPUUugMc1crPvP6uQsic7o3GDy5KXbYJE8LtXqdban8cTcfnn9AxRgOkR0w5_bQx-pHTR1A5-ttEHcpqGkgYajjSiA/s1600/chainstack.png"
+      "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+      "published": "2026-11-04T17:00:46+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUPaNgRQEg3TU6-9BBgKse77CGVpbBFbn48cBnN1aanKvaMzk_mT74RxyWZA3_NbcrYe0UnRAQlELRYKGiGNrLUDcBMSKXFgRNxaND7RoaVFOs1Q7rkFFtlpoAzYQ7C8i6RAY4bNNTarEMUI-iFR4A_IfjIkFE9vpyQjG-0QFngy5cRE8f2GhGfTltkaI/s1600/linux-apt.jpg"
     },
     {
-      "title": "Campanha de download falso usa instaladores trojanizados para fornecer cargas úteis de monetização",
-      "summary": "O Microsoft Threat Intelligence rastreia uma campanha de download falso que usa instaladores Inno trojanizados para fornecer diversas ofertas de monetização e fornece orientação de detecção e investigação em toda a sessão do instalador. A postagem A campanha d",
-      "category": "AMEAÇAS",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/03/fake-download-campaign-uses-trojanized-installers-deliver-monetization-payloads/",
-      "published": "2026-11-03T17:32:47+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft nomeada líder no Gartner® Magic Quadrant™ de 2026 para plataformas de gerenciamento de agentes de IA",
-      "summary": "Leia por que o Gartner nomeou a Microsoft como líder no primeiro Quadrante Mágico de Plataformas de Gerenciamento de Agentes de IA de 2026. A postagem Microsoft nomeada líder no Gartner® Magic Quadrant™ de 2026 para plataformas de gerenciamento de agentes de I",
-      "category": "CLOUD & IA",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/03/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-ai-agent-management-platforms/",
-      "published": "2026-11-03T17:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Binance revela como entrevistas de emprego falsas e abuso de ferramentas de IA levaram ao roubo de US$ 6,43 bilhões",
-      "summary": "A Binance disse na terça-feira que o roubo recorde de US$ 6,43 bilhões em ativos da maior bolsa de criptomoedas do mundo foi o culminar de uma “campanha sofisticada e de vários estágios” que envolveu o uso de uma instalação adulterada do Homebrew e um ataque d",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
-      "published": "2026-11-03T16:55:58+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZCMCR8h3YCPcfY8Fbe54ckYKh_YUt_Yd7v82dAHobZtMNlQl_JVKWUX4OUPwR0dEmYsLNfeKsW6rUthk8pYRVhIddbPXx86sHCcNBRL9E-9LJTPrYSYwJ_V66EwGJNFeoWgDPbjcGfeJ4w2qn_gfTjXBoNAnfWq4GZ8rq7VOhnqt4QlItYEBr3Zar7XL1/s1600/bin.jpg"
-    },
-    {
-      "title": "Falhas do Barracuda podem ser encadeadas para ignorar autorização e obter acesso root",
-      "summary": "A Barracuda divulgou detalhes de duas vulnerabilidades que afetam seus produtos e que, se encadeadas, poderiam permitir que um invasor contornasse os controles de autorização e obtivesse acesso root a um dispositivo suscetível. As vulnerabilidades, uma vulnera",
+      "title": "SonicWall não corrigirá falhas do EoL GMS que poderiam expor arquivos e alterar registros de banco de dados",
+      "summary": "A SonicWall alertou sobre duas vulnerabilidades que afetam os sistemas Global Management System (GMS) em fim de vida e que, segundo ela, não serão corrigidas. Os detalhes das falhas de segurança, que afetam o SonicWall GMS 9.5.2 e versões anteriores, estão aba",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
-      "published": "2026-11-03T15:59:19+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCvGJCkYjldhAvsjMo47UqxGOTfVY1zCcjZQzgebkO8j1__fa0cFOn3CAV1jPTUpzwDDISQKPQP5eVGOl9BzRLBX7KlWuU2HMpzuHRWV2wyaItDwYgPu0X7m3qE5V1kgFzKZ1QYcRBcZyDqkUTFberiOWXBfV_-suYC1QQWq_TwBMeyme4F0FsOZnpijhC/s1600/barracuda.png"
+      "url": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
+      "published": "2026-11-04T17:00:38+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgME1T4MkjI8UEzzSmlLgbPG6a__VNQNoKkhuxiaW5zF5fnHLPmsTdkGoIL06JTeER1jcOMH-WLuNYyva_sSW_8DnZojbMC8ikgNME3ZPUAdkij-9nVm8joHHdaZRoLNbVgcSVLNSc6Tt7UJ3YPhQmea3OtQwg-H2UzUPIgWq7nFwoEQcMsGCKf-0fImEvd/s1600/sonic.jpg"
     },
     {
-      "title": "Google alerta que ataques de LLMjacking estão custando a algumas empresas até US$ 1 milhão em tarifas de nuvem",
-      "summary": "O Google alertou na segunda-feira que os agentes de ameaças estão sequestrando o acesso empresarial a Large Language Models (LLMs) para aproveitar de forma fraudulenta recursos de computação e serviços de IA caros. A tática é chamada de LLMjacking, uma forma d",
+      "title": "Lançador de jogos para PC NIKKE hackeado para espalhar malware de acesso remoto e roubo de dados",
+      "summary": "Os desenvolvedores de Goddess of Victory: NIKKE confirmaram que hackers adulteraram os scripts de inicialização do jogo para PC em um ataque à cadeia de suprimentos, distribuindo malware capaz de roubar credenciais e dados de carteiras de criptomoedas. [...]",
       "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
-      "published": "2026-11-03T15:41:53+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvqwPJPXsflyvqykVK3Pd1lLXLzEJ6vpLudxQUyYbWkS4nQ0dr9dhcSlMCPwgqfAkyadPSj28XReqkeiymKG5RAZMWpx5Hqhg_XI0HNp3jRMRpaO-wVIRbyJyS8MaaqDNOxXvk8aUENx_aiNMqrqm9SWjtJVpXR2uaP-LNp5deG4U_4YvSxpPKtdJLRNoh/s1600/llmjacking.png"
-    },
-    {
-      "title": "Google alerta que ataques de LLMjacking estão custando a algumas empresas até US$ 1 milhão em tarifas de nuvem - The Hacker News",
-      "summary": "Google alerta que ataques de LLMjacking estão custando a algumas empresas até US$ 1 milhão em tarifas de nuvem The Hacker News",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43MFUxc19NY3FaQ1VQSlFraVNmdnJVOW5hdWhpc09QN29sTU9BX09jY2pvMTB4OUE1X2wwRXNJbzdWalpLSGFpdjZyM0Npa0JaN0lNUF81M29JRS1LQTVwWFFoWG5XclFIUUU5aV9xRW1LMDFWa096elF3UzllNEU?oc=5",
-      "published": "2026-11-03T15:41:00+00:00",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
+      "published": "2026-11-04T16:58:46+00:00",
       "image": ""
     },
     {
-      "title": "9 dicas de conscientização cibernética que realmente correspondem ao labirinto de ameaças atual",
-      "summary": "Orientações práticas sobre pesquisa mais segura, segurança de login mais forte, melhor proteção executiva e outros hábitos que ajudam a reduzir o risco empresarial.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats",
-      "published": "2026-11-03T15:38:20+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt73242ae0d40b68c0/6aea0c8226a0725a0631618d/maze-mikkelwilliam-GettyImages-1420679447.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "LLMjacking surge como uma empresa cibercriminosa próspera",
-      "summary": "Os cibercriminosos transformaram a revenda de acesso à nuvem para LLMs em um modelo de negócios lucrativo, com algumas vítimas pagando até US$ 1 milhão em consumo de recursos antes que o acesso fosse revogado.",
-      "category": "CLOUD & IA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cloud-security/llmjacking-thriving-cybercriminal-enterprise",
-      "published": "2026-11-03T15:35:50+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbc06310368e21110/6a4bdbe6a6d4757864059ce1/llm-Boy_Wirat-Getty-2149059417.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Canal de atualização cPGuard sequestrado para servidores Linux backdoor e coleta de hashes de senha",
-      "summary": "Um invasor invadiu o sistema de atualização da ferramenta de segurança cPGuard em 2 de novembro e o usou para enviar um script malicioso aos servidores Linux dos clientes. O script instalou um backdoor e coletou hashes de senha e outros arquivos confidenciais ",
+      "title": "Falha no APT do Debian e Ubuntu permite que invasores do MitM troquem pacotes verificados e executem código como root - The Hacker News",
+      "summary": "Falha no APT do Debian e Ubuntu permite que invasores do MitM troquem pacotes verificados e executem código como root The Hacker News",
       "category": "INCIDENTES",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
-      "published": "2026-11-03T15:16:32+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtc3HOtWwxZPk7V8yva9o6Oe5lWAPX8KZsWHG27ohycqrb04wAKSDSSdk6ta6y284N9gT6Ab6QKIWwTPss2bBK4PtS3Fm7gSI9QG5kec2AvEgQPjQnc0YlhlUQx0uZKt2ygn576BQ3aburL-IhrMRFVm1vEpTR5ol06R0BtjySvifD05Q_dQGUPvyPLxs/s1600/cpgaurd.png"
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUzhMRVZybl9KSmp0dUwtVFZ1ZGU0cHlsZlhtVkZzckx6U0Jfc0tvMzVuUkp4blBWdnZ4UHJMa1ZuSDRmM2pqOU9EQkRMZnl2bGc2aEhReFpOQXhQZmZUZmtzcEhGUk8yTldiSnp6X2U0YnA4cW1TX1RNS0dSbHFiTQ?oc=5",
+      "published": "2026-11-04T16:44:00+00:00",
+      "image": ""
     },
     {
-      "title": "Canal de atualização do cPGuard sequestrado para servidores Linux backdoor e coleta hashes de senha - The Hacker News",
-      "summary": "Canal de atualização cPGuard sequestrado para servidores Linux backdoor e coleta hashes de senha The Hacker News",
-      "category": "DEFESA",
+      "title": "Google e parceiros interrompem botnet XCPE com 1,3 milhão de dispositivos",
+      "summary": "O Google alega que o fabricante de dispositivos Android Videostrong executou a operação, que infectou decodificadores e dispositivos IoT com um backdoor para criar infraestrutura para atividades criminosas.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet",
+      "published": "2026-11-04T16:24:08+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt40a50320ed3d3a77/6aeb310312acd3feff711f6e/rogue_AO_bot_Chris_Light_Alamy.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Pesquisadores descobrem adware prompt oculto no OpenAI Codex Jailbreak Toolkit",
+      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de um pacote de jailbreak do OpenAI Codex projetado para modificar as instruções confiáveis ​​de um agente de inteligência artificial (IA) para inserir anúncios em um gateway de IA de terceiros. O fenô",
+      "category": "CLOUD & IA",
       "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YYjVnZTAwNkE0ZTFSNVNFTlZ2d0EtemdGV3VyOHlmWGJKYzk3U1d1MU1DSDlYX25yak9wVGcyNzd3WHBLT2xWdlJVSEZVemdKX2owYjBzc3ZlTkJ3VV84ZmhkZHlIRENvNTRlVEFYbVIxaEtIUTNFbjM2QW1jQQ?oc=5",
-      "published": "2026-11-03T15:16:00+00:00",
+      "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
+      "published": "2026-11-04T16:06:43+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO7-xs-0dO1uqFLbfphgPbe8T7cbCLkrab6XhAjlNPVo-bLQOFw4mkcArqglQOvhuIYif4ohTAub-TNWlket6iguifshMRo3zBrYvM4G_IwFTtbh8ifIqh1Vuf8GuNmqDg_PB2Roy7yzYuTFhRrFM8wxOo8HVwfG9Y2eqJnq82LGYHnAKI5S6TuvZ_Q95A/s1600/ai-adware.jpg"
+    },
+    {
+      "title": "O hack do gerenciador de senhas mSecure solicita avisos de redefinição de senha",
+      "summary": "A mSeven Software está alertando os clientes atuais e antigos do gerenciador de senhas mSecure para alterar senhas, redefinir a autenticação de dois fatores e remover chaves de acesso após um ataque cibernético que supostamente expôs um banco de dados criptogr",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
+      "published": "2026-11-04T16:00:18+00:00",
+      "image": ""
+    },
+    {
+      "title": "Campanha de phishing do Google Agenda sequestra sessões e ignora MFA",
+      "summary": "Uma campanha de phishing usou convites do Google Agenda, redirecionamentos confiáveis ​​e páginas de login falsas para sequestrar sessões corporativas do Google e contornar as proteções de MFA. Material Security examina como a Operação CloudFire rastreou os at",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
+      "published": "2026-11-04T15:00:10+00:00",
+      "image": ""
+    },
+    {
+      "title": "SonicWall alerta sobre falhas não corrigidas em software GMS em fim de vida",
+      "summary": "A SonicWall alertou os clientes sobre duas falhas de segurança que afetam os sistemas Global Management System (GMS) em fim de vida e que não serão corrigidas. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
+      "published": "2026-11-04T14:42:25+00:00",
+      "image": ""
+    },
+    {
+      "title": "Sysdig adiciona segurança e governança de tempo de execução para agentes de IA",
+      "summary": "A plataforma Sysdig usa visibilidade em tempo de execução para rastrear ações de agentes de IA e bloquear comportamentos arriscados antes que cheguem aos sistemas de produção. A postagem Sysdig adiciona segurança e governança de tempo de execução para agentes ",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/",
+      "published": "2026-11-04T14:34:44+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers vinculados ao APT29 sequestram script de análise da Web para fornecer explorações de iOS e Android",
+      "summary": "Diz-se que o ator de ameaças ligado à Rússia, conhecido como APT29, está por trás de uma campanha de watering hole em grande escala visando usuários de iOS e Android por meio de sites comprometidos, domínios falsos e um ataque à cadeia de suprimentos envolvend",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
+      "published": "2026-11-04T14:27:52+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx1cus2o8fkYGLhQu9BfPgGtAUwnmTAMucLagfAodBuRoYnyxGIJKgpqtKFyCSV-WSG3pDqmPujhj-iwoOZB-zF8JjbQMrLzDHYtdTPA3hD3Kc3rqYQM4CQwkICwZkh8K6O8ZSt-WAA_PBoUA6lHwh_55dbDlKizsjzcTN847c9BSHsWHmrAP42JHRHIYS/s1600/ios-exploit.jpg"
+    },
+    {
+      "title": "Hackers vinculados ao APT29 sequestram script de análise da Web para fornecer explorações de iOS e Android - The Hacker News",
+      "summary": "Hackers vinculados ao APT29 sequestram script de análise da Web para fornecer explorações de iOS e Android The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ldjNRckVDYzhzNU8zOWdiSFY0VXQwSkl4dXpaMjdmN1g0Y1RnWXU0WkFYMjFadkZQVmlhZW83bkpvVFJSXy1aM25SYW96dzFiM2VZb0ZYZURHTGJUZGV1VVpTbzNmRHR6RUc1MDdxYlVBU3NMVlY3b3Nn?oc=5",
+      "published": "2026-11-04T14:27:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falha de desvio de autenticação do Barracuda ESG abre caminho para root",
+      "summary": "Um desvio de autenticação e uma falha de injeção de comando podem ser encadeados para acesso root nos dispositivos Email Security Gateway da Barracuda. A postagem Falha de desvio de autenticação do Barracuda ESG abre caminho para root apareceu pela primeira ve",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/",
+      "published": "2026-11-04T14:24:54+00:00",
+      "image": ""
+    },
+    {
+      "title": "Sentra, empresa de segurança de dados da Agentic, levanta US$ 150 milhões",
+      "summary": "A empresa investirá em recursos de segurança de dados de agentes e expandirá sua organização de entrada no mercado. A postagem Sentra, empresa de segurança de dados da Agentic, levanta US$ 150 milhões apareceu pela primeira vez na SecurityWeek.",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/agentic-data-security-firm-sentra-raises-150-million/",
+      "published": "2026-11-04T14:09:20+00:00",
+      "image": ""
+    },
+    {
+      "title": "Violações vinculadas à IA aumentam à medida que WorkOS, Northflank e Trigger.dev divulgam hacks",
+      "summary": "Os hackers têm coletado tokens de acesso de IA e usado ferramentas ofensivas assistidas por IA para automatizar ataques. A postagem Violações vinculadas à IA aumentam como WorkOS, Northflank, Trigger.dev Disclose Hacks apareceu pela primeira vez em SecurityWee",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/",
+      "published": "2026-11-04T12:43:20+00:00",
+      "image": ""
+    },
+    {
+      "title": "Canadense extraditado para os EUA por hacks de criptografia em supercomputadores universitários",
+      "summary": "Um grande júri federal indiciou dois canadenses por sequestrar supercomputadores universitários para extrair secretamente a criptomoeda Electroneum. A postagem Canadense extraditado para os EUA por causa de hackers de criptografia em supercomputadores universi",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/",
+      "published": "2026-11-04T12:27:58+00:00",
       "image": ""
     }
   ]
