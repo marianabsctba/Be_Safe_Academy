@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-11-03T19:37:01.881341+00:00",
+  "updated_at": "2026-11-04T01:29:41.316468+00:00",
   "items": [
+    {
+      "title": "Hackers sequestram atualização automática do cPGuard para implantar backdoor e roubar dados",
+      "summary": "Os invasores comprometeram a infraestrutura de atualização do pacote de segurança da web cPGuard para distribuir um backdoor e um script de roubo de dados. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
+      "published": "2026-11-03T22:18:50+00:00",
+      "image": ""
+    },
+    {
+      "title": "Novos ataques a frigoríficos europeus colocam a segurança da cadeia de frio em foco",
+      "summary": "Para além do armazenamento de alimentos, a mesma combinação de conectividade à Internet, acesso remoto e práticas de segurança inadequadas pode colocar em risco infraestruturas com temperatura controlada noutros setores críticos.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security",
+      "published": "2026-11-03T22:16:49+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3c1ba20d1eb5be7f/6aea51a7937e6faad50e3a84/cold_Adisa_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "WorkOS diz que invasor usou ARTEX AI para violar aplicativo de vendas interno",
+      "summary": "A plataforma de desenvolvimento WorkOS sofreu uma violação de dados depois que um agente de ameaça acessou registros de contatos comerciais e resumos de comunicações de clientes. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
+      "published": "2026-11-03T21:28:44+00:00",
+      "image": ""
+    },
+    {
+      "title": "Binance diz que entrevista de emprego falsa levou a roubo de criptografia de US$ 6,3 bilhões",
+      "summary": "A exchange de criptomoedas Binance diz que hackers norte-coreanos usaram uma entrevista de emprego falsa para induzir um funcionário a instalar malware que acabou permitindo que eles comprometessem a infraestrutura de carteira da empresa e roubassem cerca de U",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
+      "published": "2026-11-03T20:05:50+00:00",
+      "image": ""
+    },
     {
       "title": "Google: ataques de LLMjacking acumulam US$ 1 milhão em cobranças de IA na nuvem",
       "summary": "Os grandes ataques de sequestro de modelos de linguagem, também conhecidos como LLMjacking, estão gerando grandes cobranças fraudulentas na nuvem, com algumas organizações perdendo mais de US$ 100.000 por dia. [...]",
@@ -18,6 +54,15 @@
       "url": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
       "published": "2026-11-03T18:46:38+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtvbYhodewxI1TOMjVp0GKUmMdudVKH27My8auvMEvDbCkd_JBzdJjjBb99j2a2a9R1wgkOaTdLcM_9FEmpyweVquFetLeyfzSC5UgpukK8Ukw7keJb5HwmTnPP1qWT2QzVX3FKLtBKLDFnuMrzmfgW5dwYf6SJHZHqSDj_eYGdap3ECOMMI1Em6_oS_0/s1600/msecure.jpg"
+    },
+    {
+      "title": "mSecure avisa os usuários para alterar senhas, redefinir 2FA e chaves de acesso após atividades suspeitas - The Hacker News",
+      "summary": "mSecure avisa os usuários para alterar senhas, redefinir 2FA e chaves de acesso após atividades suspeitas The Hacker News",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOem5LNWhPZWE2cTJBa2NkdFB1b0pqWE5Sbm9hSnhnWl9PZDVRTWw3NHFuWF9NWWxDYjIxUTZGd3RiTGJsYmcwRnJZZVZZN29IV3NFeklveXhDTEZac0VBbDNCdDlJdUJXZTk0UEhLXzF6aWRvMU5FWVpLWW9QNE5YNWRnNDk?oc=5",
+      "published": "2026-11-03T18:46:00+00:00",
+      "image": ""
     },
     {
       "title": "Chainstack relata violação de sistemas de produção expondo dados de clientes e hashes de senha",
@@ -74,6 +119,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvqwPJPXsflyvqykVK3Pd1lLXLzEJ6vpLudxQUyYbWkS4nQ0dr9dhcSlMCPwgqfAkyadPSj28XReqkeiymKG5RAZMWpx5Hqhg_XI0HNp3jRMRpaO-wVIRbyJyS8MaaqDNOxXvk8aUENx_aiNMqrqm9SWjtJVpXR2uaP-LNp5deG4U_4YvSxpPKtdJLRNoh/s1600/llmjacking.png"
     },
     {
+      "title": "Google alerta que ataques de LLMjacking estão custando a algumas empresas até US$ 1 milhão em tarifas de nuvem - The Hacker News",
+      "summary": "Google alerta que ataques de LLMjacking estão custando a algumas empresas até US$ 1 milhão em tarifas de nuvem The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43MFUxc19NY3FaQ1VQSlFraVNmdnJVOW5hdWhpc09QN29sTU9BX09jY2pvMTB4OUE1X2wwRXNJbzdWalpLSGFpdjZyM0Npa0JaN0lNUF81M29JRS1LQTVwWFFoWG5XclFIUUU5aV9xRW1LMDFWa096elF3UzllNEU?oc=5",
+      "published": "2026-11-03T15:41:00+00:00",
+      "image": ""
+    },
+    {
       "title": "9 dicas de conscientização cibernética que realmente correspondem ao labirinto de ameaças atual",
       "summary": "Orientações práticas sobre pesquisa mais segura, segurança de login mais forte, melhor proteção executiva e outros hábitos que ajudam a reduzir o risco empresarial.",
       "category": "AMEAÇAS",
@@ -107,60 +161,6 @@
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YYjVnZTAwNkE0ZTFSNVNFTlZ2d0EtemdGV3VyOHlmWGJKYzk3U1d1MU1DSDlYX25yak9wVGcyNzd3WHBLT2xWdlJVSEZVemdKX2owYjBzc3ZlTkJ3VV84ZmhkZHlIRENvNTRlVEFYbVIxaEtIUTNFbjM2QW1jQQ?oc=5",
       "published": "2026-11-03T15:16:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Barracuda alerta sobre falhas críticas que permitem acesso root aos dispositivos",
-      "summary": "A empresa de segurança cibernética Barracuda Networks alertou os clientes para corrigir duas vulnerabilidades que podem permitir que invasores executem comandos com privilégios de root. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
-      "published": "2026-11-03T15:06:16+00:00",
-      "image": ""
-    },
-    {
-      "title": "Gartner prevê que SOCs terão 50% mais engenheiros do que analistas até 2028",
-      "summary": "O Gartner prevê que os centros de operações de segurança terão 50% mais engenheiros do que analistas até 2028, à medida que os agentes de IA assumirem o tratamento rotineiro de alertas. A Prophet Security examina como a IA está remodelando as funções do SOC, d",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
-      "published": "2026-11-03T15:00:10+00:00",
-      "image": ""
-    },
-    {
-      "title": "Violação de dados educacionais na linha de frente impacta mais de 1,3 milhão",
-      "summary": "Os hackers exploraram uma falha em software de terceiros e roubaram informações pessoais de funcionários e alunos do distrito escolar. A postagem Violação de dados educacionais da linha de frente impacta mais de 1,3 milhão apareceu pela primeira vez na Securit",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/frontline-education-data-breach-impacts-over-1-3-million/",
-      "published": "2026-11-03T14:32:38+00:00",
-      "image": ""
-    },
-    {
-      "title": "CrowdStrike supostamente paga US$ 495 milhões pelas empresas de segurança de IA Fiddler, Dreadnode",
-      "summary": "As aquisições adicionarão observabilidade de agentes de IA e recursos automatizados de testes de segurança de IA à plataforma CrowdStrike Falcon. A postagem CrowdStrike supostamente pagando US$ 495 milhões por empresas de segurança de IA Fiddler, Dreadnode apa",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/",
-      "published": "2026-11-03T14:12:44+00:00",
-      "image": ""
-    },
-    {
-      "title": "CrowdStrike supostamente paga US$ 495 milhões pelas empresas de segurança de IA Fiddler, Dreadnode",
-      "summary": "CrowdStrike supostamente pagando US$ 495 milhões por empresas de segurança de IA Fiddler, Dreadnode SecurityWeek",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRGFnYTJURUt3WF83aHNEVVZ3TE5iU1lIaW1zLXJiLXpiY0NmQTJKNlIteVFWc2pPTzNnVmhTV3ZBa3BiVURJbjYtT1FMdGJBbGpXd1VnaGJYRE9MUmlHYTRrQWtXdHpUa0JrRWJNZ09KRGhBU2RuOF8wRV81c3FBOGxkTTRPQkJrMnpEYmREakYzRDM3VExYMWhOaU9hQ0tlV19BeDBuRVlDakhBN092ctIBtgFBVV95cUxQc21lRjBILXV4ZEk2dldQNjlWNDNHWDU5VXBFYW84Y2Mtb0wyMUkzN3VFQlRFdmFCTTVpT255Y2FsUFc0aHJRNkNxS2tSeGlYQ0FiR3Bic1VzRHVXMFhmaVIzSTBEX3c5Z0RxNURBM0sxaXBWS01lYm4wT0FERlpOMW93MHF1UDVfdVRHUVdYaXN2eldhejhuT3R6V2dCb1dBMV9FTGoyRVR6YU83Q0xnOXp4aVJWdw?oc=5",
-      "published": "2026-11-03T14:12:44+00:00",
-      "image": ""
-    },
-    {
-      "title": "Escola do Reino Unido atingida por ransomware às 3 da manhã em suspeita de ataque assistido por IA",
-      "summary": "Uma afiliada do ransomware 3AM teve como alvo uma escola no Reino Unido e criptografou com sucesso cerca de 37 das quase 50 máquinas acessadas por um host não gerenciado. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
-      "published": "2026-11-03T14:00:00+00:00",
       "image": ""
     }
   ]
