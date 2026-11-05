@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-04T19:54:12.538367+00:00",
+  "updated_at": "2026-11-05T01:31:41.527834+00:00",
   "items": [
+    {
+      "title": "Bug crítico do Rails ameaça inviabilizar servidores vulneráveis",
+      "summary": "Um invasor pode gravar arquivos arbitrários e ler arquivos confidenciais por meio de imagens carregadas na integração Rails Active Storage ImageMagick, possivelmente posicionando um ator de ameaça para movimento lateral.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
+      "published": "2026-11-04T21:48:18+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1200a12331479a63/6aeb910a69108565761c02f3/metal_guardrails-viti-GettyImages-897806150.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Vercel lança nova proteção contra ataques de cookies de sessão roubados",
+      "summary": "A Vercel está gradualmente lançando credenciais de sessão vinculadas a dispositivos (DBSC) em sua plataforma como uma defesa importante contra malware ladrão de informações. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+      "published": "2026-11-04T21:31:18+00:00",
+      "image": ""
+    },
+    {
+      "title": "Zyxel corrige exploração de dia zero para hackear quase 1.000 switches de rede",
+      "summary": "A Zyxel corrigiu uma vulnerabilidade de dia zero em seus switches de rede da série GS1900 que hackers exploraram para comprometer quase 1.000 dispositivos em todo o mundo e roubar arquivos de configuração e credenciais. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+      "published": "2026-11-04T20:58:19+00:00",
+      "image": ""
+    },
     {
       "title": "DreamHost confirma logins de FTP e sessões de webmail expostos à violação de dados",
       "summary": "DreamHost está alertando sobre uma violação de dados depois que invasores obtiveram acesso à sua plataforma File Manager por dois meses e roubaram nomes de usuário e senhas FTP/SFTP dos clientes. [...]",
@@ -52,7 +79,7 @@
       "category": "INCIDENTES",
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUzhMRVZybl9KSmp0dUwtVFZ1ZGU0cHlsZlhtVkZzckx6U0Jfc0tvMzVuUkp4blBWdnZ4UHJMa1ZuSDRmM2pqOU9EQkRMZnl2bGc2aEhReFpOQXhQZmZUZmtzcEhGUk8yTldiSnp6X2U0YnA4cW1TX1RNS0dSbHFiTQ?oc=5",
-      "published": "2026-11-04T16:44:00+00:00",
+      "published": "2026-11-04T16:49:34+00:00",
       "image": ""
     },
     {
@@ -134,33 +161,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/",
       "published": "2026-11-04T14:24:54+00:00",
-      "image": ""
-    },
-    {
-      "title": "Sentra, empresa de segurança de dados da Agentic, levanta US$ 150 milhões",
-      "summary": "A empresa investirá em recursos de segurança de dados de agentes e expandirá sua organização de entrada no mercado. A postagem Sentra, empresa de segurança de dados da Agentic, levanta US$ 150 milhões apareceu pela primeira vez na SecurityWeek.",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/agentic-data-security-firm-sentra-raises-150-million/",
-      "published": "2026-11-04T14:09:20+00:00",
-      "image": ""
-    },
-    {
-      "title": "Violações vinculadas à IA aumentam à medida que WorkOS, Northflank e Trigger.dev divulgam hacks",
-      "summary": "Os hackers têm coletado tokens de acesso de IA e usado ferramentas ofensivas assistidas por IA para automatizar ataques. A postagem Violações vinculadas à IA aumentam como WorkOS, Northflank, Trigger.dev Disclose Hacks apareceu pela primeira vez em SecurityWee",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/",
-      "published": "2026-11-04T12:43:20+00:00",
-      "image": ""
-    },
-    {
-      "title": "Canadense extraditado para os EUA por hacks de criptografia em supercomputadores universitários",
-      "summary": "Um grande júri federal indiciou dois canadenses por sequestrar supercomputadores universitários para extrair secretamente a criptomoeda Electroneum. A postagem Canadense extraditado para os EUA por causa de hackers de criptografia em supercomputadores universi",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/",
-      "published": "2026-11-04T12:27:58+00:00",
       "image": ""
     }
   ]
