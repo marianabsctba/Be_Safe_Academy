@@ -1,9 +1,126 @@
 {
-  "updated_at": "2026-11-05T01:31:41.527834+00:00",
+  "updated_at": "2026-11-05T11:10:31.788868+00:00",
   "items": [
     {
-      "title": "Bug crítico do Rails ameaça inviabilizar servidores vulneráveis",
-      "summary": "Um invasor pode gravar arquivos arbitrários e ler arquivos confidenciais por meio de imagens carregadas na integração Rails Active Storage ImageMagick, possivelmente posicionando um ator de ameaça para movimento lateral.",
+      "title": "Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/",
+      "published": "2026-11-05T10:56:41+00:00",
+      "image": ""
+    },
+    {
+      "title": "Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/",
+      "published": "2026-11-05T10:37:13+00:00",
+      "image": ""
+    },
+    {
+      "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
+      "published": "2026-11-05T10:06:19+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZC8n70grf1uGE8ms7f_4uuZv5h_YLLS1M8CGyqXzMyfCTbNbBCwOC4IF715IzuXyE7dY2Sslf1v77Ka15CPZvgY15pcZrZPZRK5xk5pFnyotvxHAXeyD39vG7JedceJz97Z1y0LCwaWgRLVnO6Uo-YbgJJ3o1n_Hh7k1rJWaQ-X7FTTMxr0U-LFuwx0M/s1600/cyberattacks.jpg"
+    },
+    {
+      "title": "OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/",
+      "published": "2026-11-05T10:02:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
+      "published": "2026-11-05T09:18:29+00:00",
+      "image": ""
+    },
+    {
+      "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+      "published": "2026-11-05T08:42:03+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA5xlxteigxw9PDEVogRmGjD3vyPuJRyKCuIAOmURy0CY-OLXfYOjC93BPb_gvifLUiVoUk9JcjmxtsGpkT-cYhlrTwXS6yodTv-WwHnPUKvahU67tc5R841Sb_hkIIsUkzNzne5Fzo0h6BUpzEW1770YFBayYksyjSc9pKOV3VsHfoHcPfu3mYAFOQW4K/s1600/docker-ai.jpg"
+    },
+    {
+      "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+      "published": "2026-11-05T07:06:33+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaF7lULSp8hpZx_WSDcDsJxD9TzTOH5Oo5dkFteUVQqQMOXc7ZyytOxbNgL01vkV43Kx0V0sDzJvKGrZvPwjos_-g9djk8jVAqSN04CIhGoiWWUMLdyKQH32ES8ghi-6ilZbnbGi_WIRi8hvzik6ztrin-MZEK1QI2CKR3Lk1sUg3yVYuhGvsX0pC85Qg/s1600/zyxel-hacker.jpg"
+    },
+    {
+      "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMlR2aTFlTi1XeHVVc2h3NDVGOHZLV1VTZTM0T3J1ZHZIUXFRR2VGalByU3ZNYnpWSWdzN3ZTVlQyeXdSeUQ5dmVnUU13Y1pnOUN5RG9xMEJ0d3hHWWN2WEU2QnozT2ItUjFibnhJaGNqcGVLNmlwV0tBeVpoSnlVcWlFbw?oc=5",
+      "published": "2026-11-05T07:06:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+      "published": "2026-11-05T05:17:04+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkv0B0acGnMDLnCJQYXNCkpzSeKKr_1m4-a10Q2Iy6DZOorGLb35YDD9vw3iQQA9fZTi7QGIZYlSsvTSmxc8w0UbgN_Xtl-QPyTngA9qhOuoryee3Z8X8CZRnHiUAY3wuIXG_UIO1DyDnjnfS5cOilt3WPzRnYYqFDZ1NHbXS0OVAsrVYHSeFuc7zglZw5/s1600/apple-0day.jpg"
+    },
+    {
+      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZW9MSWxjSU82aFpyV1QwZDZQQzNzdTIxT0Y2aUZOOE5hTGJ2REhkbVlNQzFmckFMZzlSVnRPR2d1RmVrRGNlcE1PQmVUaFJBcF9yTnZYYUFiV181OVQ1czl2Q21USjlncXRsWEszM2NmWDRpeFd1OWwxNlRFMzVkNHB3?oc=5",
+      "published": "2026-11-05T05:17:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Want to Rent an Internet Address at the White House?",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "KrebsOnSecurity",
+      "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+      "published": "2026-11-05T04:36:17+00:00",
+      "image": ""
+    },
+    {
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+      "published": "2026-11-05T04:31:16+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje4ZiJMrWCzkoOXuOcWQkB02TmQLM81NWPvzQ8yw9iComqPyLIP0_TAzy8AHMkNfzyXw2Fw-8kBhWIohuXc_dGl39AI4Kw_n4Tll0DImNrRfcPrk1eZNQCP9QtOich_dhNW-ly5DIuZSzmWspWsWXU9QiGwnS5W7qzVDiIBVc4oggC__f6tsL1AOIP8opc/s1600/linux-lpe.jpg"
+    },
+    {
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTjBhVWJNR1E4TFpreTFWVVNQTzhVT29FbFU2RjFiQzJlOXhRRWlJejhwMUZPMzFhaGJMbm9GakpFR3NDZzZwZFJWQ2gzdjNQeXFzQ3JpNTh6ZXVKcE1tTGZfYlhnQ3RXZ2RWM2JxTWJXN0hrMzVmMDdnRlIyM0s0cjZXUQ?oc=5",
+      "published": "2026-11-05T04:31:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
@@ -11,8 +128,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1200a12331479a63/6aeb910a69108565761c02f3/metal_guardrails-viti-GettyImages-897806150.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Vercel lança nova proteção contra ataques de cookies de sessão roubados",
-      "summary": "A Vercel está gradualmente lançando credenciais de sessão vinculadas a dispositivos (DBSC) em sua plataforma como uma defesa importante contra malware ladrão de informações. [...]",
+      "title": "Vercel rolls out new protection against stolen session cookie attacks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
@@ -20,8 +137,8 @@
       "image": ""
     },
     {
-      "title": "Zyxel corrige exploração de dia zero para hackear quase 1.000 switches de rede",
-      "summary": "A Zyxel corrigiu uma vulnerabilidade de dia zero em seus switches de rede da série GS1900 que hackers exploraram para comprometer quase 1.000 dispositivos em todo o mundo e roubar arquivos de configuração e credenciais. [...]",
+      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
@@ -29,8 +146,8 @@
       "image": ""
     },
     {
-      "title": "DreamHost confirma logins de FTP e sessões de webmail expostos à violação de dados",
-      "summary": "DreamHost está alertando sobre uma violação de dados depois que invasores obtiveram acesso à sua plataforma File Manager por dois meses e roubaram nomes de usuário e senhas FTP/SFTP dos clientes. [...]",
+      "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
@@ -38,129 +155,12 @@
       "image": ""
     },
     {
-      "title": "Ataque cibernético interrompe sistemas de refrigeração de armazenamento de sangue na França",
-      "summary": "O serviço nacional de sangue da França confirmou que um ataque cibernético contra um fornecedor de equipamentos de refrigeração aumentou a temperatura e as configurações de descongelamento em três de suas instalações, ameaçando os produtos sanguíneos armazenad",
+      "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
       "published": "2026-11-04T18:02:56+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falha no APT do Debian e Ubuntu permite que invasores do MitM troquem pacotes verificados e executem código como root",
-      "summary": "Uma falha no APT, o gerenciador de pacotes para Debian e Ubuntu, permite que um invasor que possa modificar downloads de pacotes troque um pacote verificado pelo seu próprio. O código do invasor então é executado como root, de acordo com os avisos publicados p",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-      "published": "2026-11-04T17:00:46+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUPaNgRQEg3TU6-9BBgKse77CGVpbBFbn48cBnN1aanKvaMzk_mT74RxyWZA3_NbcrYe0UnRAQlELRYKGiGNrLUDcBMSKXFgRNxaND7RoaVFOs1Q7rkFFtlpoAzYQ7C8i6RAY4bNNTarEMUI-iFR4A_IfjIkFE9vpyQjG-0QFngy5cRE8f2GhGfTltkaI/s1600/linux-apt.jpg"
-    },
-    {
-      "title": "SonicWall não corrigirá falhas do EoL GMS que poderiam expor arquivos e alterar registros de banco de dados",
-      "summary": "A SonicWall alertou sobre duas vulnerabilidades que afetam os sistemas Global Management System (GMS) em fim de vida e que, segundo ela, não serão corrigidas. Os detalhes das falhas de segurança, que afetam o SonicWall GMS 9.5.2 e versões anteriores, estão aba",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-      "published": "2026-11-04T17:00:38+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgME1T4MkjI8UEzzSmlLgbPG6a__VNQNoKkhuxiaW5zF5fnHLPmsTdkGoIL06JTeER1jcOMH-WLuNYyva_sSW_8DnZojbMC8ikgNME3ZPUAdkij-9nVm8joHHdaZRoLNbVgcSVLNSc6Tt7UJ3YPhQmea3OtQwg-H2UzUPIgWq7nFwoEQcMsGCKf-0fImEvd/s1600/sonic.jpg"
-    },
-    {
-      "title": "Lançador de jogos para PC NIKKE hackeado para espalhar malware de acesso remoto e roubo de dados",
-      "summary": "Os desenvolvedores de Goddess of Victory: NIKKE confirmaram que hackers adulteraram os scripts de inicialização do jogo para PC em um ataque à cadeia de suprimentos, distribuindo malware capaz de roubar credenciais e dados de carteiras de criptomoedas. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
-      "published": "2026-11-04T16:58:46+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falha no APT do Debian e Ubuntu permite que invasores do MitM troquem pacotes verificados e executem código como root - The Hacker News",
-      "summary": "Falha no APT do Debian e Ubuntu permite que invasores do MitM troquem pacotes verificados e executem código como root The Hacker News",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUzhMRVZybl9KSmp0dUwtVFZ1ZGU0cHlsZlhtVkZzckx6U0Jfc0tvMzVuUkp4blBWdnZ4UHJMa1ZuSDRmM2pqOU9EQkRMZnl2bGc2aEhReFpOQXhQZmZUZmtzcEhGUk8yTldiSnp6X2U0YnA4cW1TX1RNS0dSbHFiTQ?oc=5",
-      "published": "2026-11-04T16:49:34+00:00",
-      "image": ""
-    },
-    {
-      "title": "Google e parceiros interrompem botnet XCPE com 1,3 milhão de dispositivos",
-      "summary": "O Google alega que o fabricante de dispositivos Android Videostrong executou a operação, que infectou decodificadores e dispositivos IoT com um backdoor para criar infraestrutura para atividades criminosas.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet",
-      "published": "2026-11-04T16:24:08+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt40a50320ed3d3a77/6aeb310312acd3feff711f6e/rogue_AO_bot_Chris_Light_Alamy.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Pesquisadores descobrem adware prompt oculto no OpenAI Codex Jailbreak Toolkit",
-      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de um pacote de jailbreak do OpenAI Codex projetado para modificar as instruções confiáveis ​​de um agente de inteligência artificial (IA) para inserir anúncios em um gateway de IA de terceiros. O fenô",
-      "category": "CLOUD & IA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
-      "published": "2026-11-04T16:06:43+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO7-xs-0dO1uqFLbfphgPbe8T7cbCLkrab6XhAjlNPVo-bLQOFw4mkcArqglQOvhuIYif4ohTAub-TNWlket6iguifshMRo3zBrYvM4G_IwFTtbh8ifIqh1Vuf8GuNmqDg_PB2Roy7yzYuTFhRrFM8wxOo8HVwfG9Y2eqJnq82LGYHnAKI5S6TuvZ_Q95A/s1600/ai-adware.jpg"
-    },
-    {
-      "title": "O hack do gerenciador de senhas mSecure solicita avisos de redefinição de senha",
-      "summary": "A mSeven Software está alertando os clientes atuais e antigos do gerenciador de senhas mSecure para alterar senhas, redefinir a autenticação de dois fatores e remover chaves de acesso após um ataque cibernético que supostamente expôs um banco de dados criptogr",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
-      "published": "2026-11-04T16:00:18+00:00",
-      "image": ""
-    },
-    {
-      "title": "Campanha de phishing do Google Agenda sequestra sessões e ignora MFA",
-      "summary": "Uma campanha de phishing usou convites do Google Agenda, redirecionamentos confiáveis ​​e páginas de login falsas para sequestrar sessões corporativas do Google e contornar as proteções de MFA. Material Security examina como a Operação CloudFire rastreou os at",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
-      "published": "2026-11-04T15:00:10+00:00",
-      "image": ""
-    },
-    {
-      "title": "SonicWall alerta sobre falhas não corrigidas em software GMS em fim de vida",
-      "summary": "A SonicWall alertou os clientes sobre duas falhas de segurança que afetam os sistemas Global Management System (GMS) em fim de vida e que não serão corrigidas. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
-      "published": "2026-11-04T14:42:25+00:00",
-      "image": ""
-    },
-    {
-      "title": "Sysdig adiciona segurança e governança de tempo de execução para agentes de IA",
-      "summary": "A plataforma Sysdig usa visibilidade em tempo de execução para rastrear ações de agentes de IA e bloquear comportamentos arriscados antes que cheguem aos sistemas de produção. A postagem Sysdig adiciona segurança e governança de tempo de execução para agentes ",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/",
-      "published": "2026-11-04T14:34:44+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers vinculados ao APT29 sequestram script de análise da Web para fornecer explorações de iOS e Android",
-      "summary": "Diz-se que o ator de ameaças ligado à Rússia, conhecido como APT29, está por trás de uma campanha de watering hole em grande escala visando usuários de iOS e Android por meio de sites comprometidos, domínios falsos e um ataque à cadeia de suprimentos envolvend",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
-      "published": "2026-11-04T14:27:52+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx1cus2o8fkYGLhQu9BfPgGtAUwnmTAMucLagfAodBuRoYnyxGIJKgpqtKFyCSV-WSG3pDqmPujhj-iwoOZB-zF8JjbQMrLzDHYtdTPA3hD3Kc3rqYQM4CQwkICwZkh8K6O8ZSt-WAA_PBoUA6lHwh_55dbDlKizsjzcTN847c9BSHsWHmrAP42JHRHIYS/s1600/ios-exploit.jpg"
-    },
-    {
-      "title": "Hackers vinculados ao APT29 sequestram script de análise da Web para fornecer explorações de iOS e Android - The Hacker News",
-      "summary": "Hackers vinculados ao APT29 sequestram script de análise da Web para fornecer explorações de iOS e Android The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ldjNRckVDYzhzNU8zOWdiSFY0VXQwSkl4dXpaMjdmN1g0Y1RnWXU0WkFYMjFadkZQVmlhZW83bkpvVFJSXy1aM25SYW96dzFiM2VZb0ZYZURHTGJUZGV1VVpTbzNmRHR6RUc1MDdxYlVBU3NMVlY3b3Nn?oc=5",
-      "published": "2026-11-04T14:27:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falha de desvio de autenticação do Barracuda ESG abre caminho para root",
-      "summary": "Um desvio de autenticação e uma falha de injeção de comando podem ser encadeados para acesso root nos dispositivos Email Security Gateway da Barracuda. A postagem Falha de desvio de autenticação do Barracuda ESG abre caminho para root apareceu pela primeira ve",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/",
-      "published": "2026-11-04T14:24:54+00:00",
       "image": ""
     }
   ]
