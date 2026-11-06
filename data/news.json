@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-11-06T01:38:47.183284+00:00",
+  "updated_at": "2026-11-06T11:08:10.172649+00:00",
   "items": [
+    {
+      "title": "O modelo OpenAI escreveu seu próprio código de rede para contornar as restrições do sandbox",
+      "summary": "Depois que seu proxy sandbox falhou, um modelo interno da OpenAI criou pacotes brutos e investigou os serviços da AWS que tentavam acessar a Internet. A postagem O modelo OpenAI escreveu seu próprio código de rede para contornar as restrições do sandbox aparec",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
+      "published": "2026-11-06T09:33:51+00:00",
+      "image": ""
+    },
+    {
+      "title": "MetaMask afirma que o ataque recente não afetou a infraestrutura da carteira",
+      "summary": "O provedor de carteira de criptomoeda MetaMask disse que um recente incidente de segurança não afetou as carteiras MetaMask ou sua infraestrutura de carteira. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
+      "published": "2026-11-06T09:22:28+00:00",
+      "image": ""
+    },
+    {
+      "title": "A violação da Chainalysis expõe as credenciais de todos os usuários e força o encerramento dos principais serviços",
+      "summary": "A empresa de análise de blockchain Chainalysis revelou que sua investigação em andamento sobre o ataque cibernético de agente direcionado a seus sistemas também expôs nomes, nomes de usuário, hashes de senha e tokens ativos para todos os usuários. “Enquanto in",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
+      "published": "2026-11-06T08:04:49+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoSpb8lu1ytakNne4rJ58nWfLFrYtdR7MCyZ2prSaLKiAb2Bt_upvfAHl-slDTt_3h7zxFdhbPcLwzAkcHDjnvu2TNcVp6JsgJU6GI5GMvZrrmzZTUZDyeOhS0GnFV-YtazzzcgMFnUvkqKmpSr9FBrCXQhlyPZM9E8c7LPSxACwPhfJ4nFzIANqdaVXUd/s1600/chain-breach.jpg"
+    },
+    {
+      "title": "Hackers ocultam backdoor do Linux no servidor do painel da Web de controle para executar comandos sem registros",
+      "summary": "Um backdoor foi encontrado escondido no servidor web que executa o Control Web Panel (CWP), um painel gratuito para gerenciar servidores de hospedagem Linux, disseram pesquisadores do XLab da QiAnXin esta semana. O servidor web backdoor executa comandos que os",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
+      "published": "2026-11-06T05:58:54+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsAMxBevh2cmz1buKWukyP6JgUHrIPcr9zrJjAs1OwDoP1wMjn_s_WKHeUAdSwVzTImUsDE0C3SLGEpciaLk9H8CGvqiYugQWASsflB1a5zA9Wyr4RbroT3Z3JlOeak1AEinAy7Brf9N0BRDuGFWdZC23nCrOq4VuSMQQuDFYBYC6YCEm2ncPhHOv3KXs/s1600/cwp.jpg"
+    },
+    {
+      "title": "Hackers escondem backdoor do Linux no servidor do painel da Web de controle para executar comandos sem registros - The Hacker News",
+      "summary": "Hackers escondem backdoor do Linux no servidor do painel da Web de controle para executar comandos sem registros The Hacker News",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZGswT2ZhN1Zzdl9TY0dOa3BXVUtnZi1LNm5WMVVRLTlkTTUyM2dqYXBQNm5yQUt4T2hKaUJpUDBDajQ1d1dxWVZXS2FwbXpJcnhIZzFCWUItZUFQam1BSFMzWVdiX1pycldlREVhZ0dyb2NzdWVfRk1IV29jdHFuY2pQVQ?oc=5",
+      "published": "2026-11-06T05:58:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Especialistas demonstram cadeia de gateway de segurança de e-mail Barracuda permitindo acesso root sem login",
+      "summary": "Duas falhas no Email Security Gateway da Barracuda, um dispositivo de filtragem de e-mail, podem ser encadeadas para executar comandos como root, seu nível mais alto de acesso, sem necessidade de login. A empresa lançou patches na segunda-feira, e a empresa de",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
+      "published": "2026-11-06T05:39:10+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh59LXthjD6N50867w2v7T4JyVUCOlVAmz1MJcZHKBFFaSnKDabB0FmdedrbvWRkp9XONe9Pz2RV1MQ-9QpJ8d85XE3w54EmMLKgaf1ygKD2e0y2X9mA7VsfyyB-8l1KFi-F5Gj9Q2vdsusmAl2khvXHNyOzWB_l7bj6NkOHkUgDYW-vENOowt0L8qM4kM/s1600/bar.jpg"
+    },
+    {
+      "title": "3 Acusado de esquema para usar IA para se passar por CEOs e advogados para roubar US$ 129 milhões",
+      "summary": "O trio, que tem apelidos que incluem “Rocky Balboa”, “Superman Cash” e “Fat Boy”, muitas vezes tinha como alvo os departamentos de contabilidade das empresas. A postagem 3 acusados ​​de esquema para usar IA para se passar por CEOs e advogados para roubar US$ 1",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
+      "published": "2026-11-06T03:03:29+00:00",
+      "image": ""
+    },
     {
       "title": "FBI e CISA alertam sobre ataques cibernéticos direcionados a sistemas de refrigeração",
       "summary": "O FBI e a CISA alertam que os hackers estão a visar ativamente sistemas de refrigeração industrial e de monitorização da cadeia de frio em todo o mundo, podendo causar deterioração de alimentos, danos em equipamentos e riscos de incêndio. [...]",
@@ -75,7 +138,7 @@
     },
     {
       "title": "Falha no OpenSSH permite que invasores façam login em contas Linux com senha desativada",
-      "summary": "Uma vulnerabilidade OpenSSH recentemente divulgada, apelidada de “*sshole”, permite que invasores façam login em determinadas contas Alpine Linux e outras contas Linux baseadas em musl que estão configuradas para bloquear a autenticação de senha, simplesmente ",
+      "summary": "Uma vulnerabilidade OpenSSH recentemente divulgada, chamada “*sshole”, permite que invasores façam login em determinadas contas Alpine Linux e outras contas Linux baseadas em musl que estão configuradas para bloquear a autenticação de senha, simplesmente inser",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
@@ -92,75 +155,12 @@
       "image": ""
     },
     {
-      "title": "Agentes de IA obtiveram root no Linux por meio de 948 falhas de kernel na pesquisa OpenAI - SecurityWeek",
-      "summary": "Agentes de IA obtiveram root no Linux por meio de 948 falhas de kernel na OpenAI Research SecurityWeek",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOHQ1eWdCOVFrWkFUTks1M2hLWVdib0lCZWFnVW5NOXFPN0JXbTNXczhBQldSaEliOFNaWm9NaHVFMjJDdWhYYWNPZFdQUlptWUlkMnRORmJzTTJ4WHY3bWs2b2ZYQUxiT2tJcWlINmVNMGlpR2VLMGprN1ZjUUJSUmJrS1lmcnMyNGpTYmlDcG4zRVVQVlQ1ZGlVbGFRZ9IBowFBVV95cUxQNXE5V2F5MElDY1N6WTg0Z05MdVhCa05EZl9yUWtCRjFaQThRT0Q5cjl3NXVXbWNzdmo0TWVJU3hHM0xRckwtakpxa2VTaURVbV93aXNDR0ZDcG5nbDV0Zi1IbTlrY3ZBSFNaekdBQUNyS29aUnBiVUNZczFCeEI1dDRGWnRheWI2bnRBRXdwSUpWaFZKM05TY1ZoUWxYRzBRWjNn?oc=5",
-      "published": "2026-11-05T17:32:37+00:00",
-      "image": ""
-    },
-    {
       "title": "Novos investimentos para reduzir o risco de segurança local",
       "summary": "Estamos anunciando uma nova iniciativa de segurança local, reunindo orientação, migração e investimentos em produtos. A postagem Novos investimentos para reduzir o risco de segurança local apareceu pela primeira vez no Blog de Segurança da Microsoft.",
       "category": "DEFESA",
       "source": "Microsoft Security",
       "url": "https://techcommunity.microsoft.com/blog/microsoft-security-blog/new-investments-to-reduce-on-premises-security-risk/4570381",
       "published": "2026-11-05T17:10:14+00:00",
-      "image": ""
-    },
-    {
-      "title": "​​​​O que há de novo na segurança da Microsoft: novembro de 2026",
-      "summary": "As atualizações de segurança da Microsoft de novembro de 2026 fortalecem a segurança do agente de IA, privilégios mínimos, proteção contra ameaças e gerenciamento de exposição. A postagem Novidades em segurança da Microsoft: novembro de 2026 apareceu pela prim",
-      "category": "AMEAÇAS",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/",
-      "published": "2026-11-05T17:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "SecurityDataPipeline.com é lançado como um novo recurso educacional para a era da IA",
-      "summary": "O recurso ilimitado explica como os pipelines de dados de segurança reduzem os custos de ingestão de SIEM, preservam a cobertura de detecção e preparam a camada de dados para operações de segurança orientadas por IA.",
-      "category": "CLOUD & IA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era",
-      "published": "2026-11-05T16:48:36+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "OpenSSH emite correção de emergência para falha que permite que senhas longas ignorem autenticação SSH no Alpine Linux",
-      "summary": "Os invasores podem fazer login em contas que não possuem senha, como contas somente com chave SSH, em alguns servidores Alpine Linux que executam o pacote openssh-server padrão. Eles precisam de acesso de rede ao servidor, um nome de conta e uma senha entre 25",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
-      "published": "2026-11-05T16:42:46+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieaHvS5baW_XG1eAsBsoSp9qRzV179f0WwXoj9k6rUeX4Qa4sxpi3hvpGkgkYNMPzZQH0mvvVAoTooEAgl1G3SyFksmhqNEbDEIEWM83RH47u8qvNyIYclA7z7GUdPJGx8WfJd556iCvvtvsitAYp9M-T46OvuwkaSWwnyhlynEpYax2qyTCACsPbtQLw/s1600/ssh-linux.jpg"
-    },
-    {
-      "title": "Pesquisadores ignoram o modo de bloqueio do ChatGPT para exfiltrar bate-papos sem interação do usuário",
-      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma vulnerabilidade agora corrigida que poderia ser explorada para contornar as proteções do modo Lockdown no OpenAI ChatGPT. O Modo Lockdown foi introduzido pela empresa de inteligência artificial ",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
-      "published": "2026-11-05T16:42:32+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrZkGDnavpYu1VmQZCorYSw9PnFNh3tGXQ7YWWrZ3g6sURYj4RiS7za99akV3poXhW7GLoJw3j-baYvwyor0f_8iI3t5zk3NeXj1V1eVDMFUklqlYz629h88oYzxk3aIQPPwQF3xaw10DZTE-lEKyaojqzlLHC_DGtF91AVhXkaFNfY6Mh-qVqn86LCfQz/s1600/chat.gif"
-    },
-    {
-      "title": "Hackers fazem backdoor em servidores Linux usando servidor web CWP trojanizado",
-      "summary": "Um novo malware Linux chamado CWPdoor está sendo distribuído por meio de uma versão trojanizada do cwpsrv, o servidor web por trás da interface de gerenciamento do Control Web Panel (CWP). [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-      "published": "2026-11-05T16:24:26+00:00",
-      "image": ""
-    },
-    {
-      "title": "A violação de dados da DigiCert expõe informações do cliente e documentos de identidade",
-      "summary": "A DigiCert alerta que sofreu uma violação de dados depois que uma migração de servidor expôs por engano um sistema comercial interno à Internet, permitindo acesso não autorizado a informações de clientes e documentos de identidade. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-      "published": "2026-11-05T16:12:46+00:00",
       "image": ""
     }
   ]
