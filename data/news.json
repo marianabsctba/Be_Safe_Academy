@@ -1,6 +1,69 @@
 {
-  "updated_at": "2026-11-05T20:06:25.697622+00:00",
+  "updated_at": "2026-11-06T01:38:47.183284+00:00",
   "items": [
+    {
+      "title": "FBI e CISA alertam sobre ataques cibernéticos direcionados a sistemas de refrigeração",
+      "summary": "O FBI e a CISA alertam que os hackers estão a visar ativamente sistemas de refrigeração industrial e de monitorização da cadeia de frio em todo o mundo, podendo causar deterioração de alimentos, danos em equipamentos e riscos de incêndio. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+      "published": "2026-11-06T00:56:44+00:00",
+      "image": ""
+    },
+    {
+      "title": "Os atores de ameaças usam ferramentas de IA de agência para encontrar e abusar de segredos expostos",
+      "summary": "A Microsoft Threat Intelligence observou atores de ameaças usando a estrutura de segurança ofensiva de agentes ARTEX para pesquisar no GitHub segredos de aplicativos OAuth, que podem ser usados ​​para comprometer o aplicativo OAuth associado e executar ações a",
+      "category": "AMEAÇAS",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/",
+      "published": "2026-11-05T23:46:50+00:00",
+      "image": ""
+    },
+    {
+      "title": "Sistemas de e-mail do governo dos EUA abertos a abusos graças a erros de digitação",
+      "summary": "Registros DNS incorretos ou desatualizados podem dar aos invasores poderes surpreendentes sobre os sistemas de e-mail das organizações.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
+      "published": "2026-11-05T21:35:05+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd6ea448209c5a17d/6aece801ba5b3c3c708d8893/_gov-PashalIgnatov-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Eventos falsos de OpenAI e SpaceX usados ​​para roubar contas da Microsoft e do Google",
+      "summary": "Os hackers estão usando convites falsos para eventos OpenAI, SpaceX e Anthropic para atrair funcionários para ataques de phishing, usando duas plataformas diferentes de phishing como serviço para roubar credenciais de contas da Microsoft e do Google e sessões ",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+      "published": "2026-11-05T21:30:30+00:00",
+      "image": ""
+    },
+    {
+      "title": "O que perdemos: o teste de phishing do Knicks sai dos limites",
+      "summary": "Nesta conversa em vídeo, os editores do Dark Reading discutem algumas das notícias que não tiveram a chance de cobrir, desde uma simulação de phishing mal concebida até um ataque hacktivista a uma agência governamental dos EUA.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
+      "published": "2026-11-05T21:00:47+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt431c72a149154279/6aecd7076d111e8012a4d417/phishingtest-juststock-Getty-2193049867.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Quase 1,5 milhão de segredos expostos são alvo de novo programa de revogação",
+      "summary": "A Truffle Security lançou o Programa de Revogação de Segredos, uma iniciativa gratuita que ajuda os emissores de chaves de API a revogar 1,4 milhão de segredos expostos publicamente que permanecem válidos. [...]",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
+      "published": "2026-11-05T20:15:08+00:00",
+      "image": ""
+    },
+    {
+      "title": "Watering Holes do APT29 têm como alvo milhares de usuários móveis",
+      "summary": "Depois de comprometer sites, o grupo de ameaças patrocinado pelo Estado russo está coletando impressões digitais das vítimas e, em seguida, colhendo informações das pessoas interessantes.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
+      "published": "2026-11-05T20:05:39+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt601f7aa888c1b14c/6aecc62cf0c14cb22547f05a/phone_tete_escape_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
     {
       "title": "Traga uma barraca, eu tenho o café: lições disso",
       "summary": "Thorsten pode ter tido que acampar em Nuremberg para participar do it-sa, mas a verdadeira história é a iniciativa de adicionar um programa formal de aprendizagem em Segurança de TI na Alemanha para os milhares de jovens hackers prontos para se juntarem ao nos",
@@ -11,17 +74,8 @@
       "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/11/threat_source.jpg"
     },
     {
-      "title": "Watering Holes do APT29 têm como alvo milhares de usuários móveis",
-      "summary": "Depois de comprometer sites, o grupo de ameaças patrocinado pelo Estado russo está coletando impressões digitais das vítimas e, em seguida, colhendo informações das pessoas interessantes.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
-      "published": "2026-11-05T18:08:31+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt601f7aa888c1b14c/6aecc62cf0c14cb22547f05a/phone_tete_escape_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "Falha no OpenSSH permite que invasores façam login em contas Linux com senha desativada",
-      "summary": "Uma vulnerabilidade OpenSSH recentemente divulgada, chamada “*sshole”, permite que invasores façam login em determinadas contas Alpine Linux e outras contas Linux baseadas em musl que estão configuradas para bloquear a autenticação de senha, simplesmente inser",
+      "summary": "Uma vulnerabilidade OpenSSH recentemente divulgada, apelidada de “*sshole”, permite que invasores façam login em determinadas contas Alpine Linux e outras contas Linux baseadas em musl que estão configuradas para bloquear a autenticação de senha, simplesmente ",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
@@ -34,6 +88,15 @@
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
+      "published": "2026-11-05T17:32:37+00:00",
+      "image": ""
+    },
+    {
+      "title": "Agentes de IA obtiveram root no Linux por meio de 948 falhas de kernel na pesquisa OpenAI - SecurityWeek",
+      "summary": "Agentes de IA obtiveram root no Linux por meio de 948 falhas de kernel na OpenAI Research SecurityWeek",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOHQ1eWdCOVFrWkFUTks1M2hLWVdib0lCZWFnVW5NOXFPN0JXbTNXczhBQldSaEliOFNaWm9NaHVFMjJDdWhYYWNPZFdQUlptWUlkMnRORmJzTTJ4WHY3bWs2b2ZYQUxiT2tJcWlINmVNMGlpR2VLMGprN1ZjUUJSUmJrS1lmcnMyNGpTYmlDcG4zRVVQVlQ1ZGlVbGFRZ9IBowFBVV95cUxQNXE5V2F5MElDY1N6WTg0Z05MdVhCa05EZl9yUWtCRjFaQThRT0Q5cjl3NXVXbWNzdmo0TWVJU3hHM0xRckwtakpxa2VTaURVbV93aXNDR0ZDcG5nbDV0Zi1IbTlrY3ZBSFNaekdBQUNyS29aUnBiVUNZczFCeEI1dDRGWnRheWI2bnRBRXdwSUpWaFZKM05TY1ZoUWxYRzBRWjNn?oc=5",
       "published": "2026-11-05T17:32:37+00:00",
       "image": ""
     },
@@ -65,7 +128,25 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Hackers backdoor servidores Linux usando servidor web CWP trojanizado",
+      "title": "OpenSSH emite correção de emergência para falha que permite que senhas longas ignorem autenticação SSH no Alpine Linux",
+      "summary": "Os invasores podem fazer login em contas que não possuem senha, como contas somente com chave SSH, em alguns servidores Alpine Linux que executam o pacote openssh-server padrão. Eles precisam de acesso de rede ao servidor, um nome de conta e uma senha entre 25",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+      "published": "2026-11-05T16:42:46+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieaHvS5baW_XG1eAsBsoSp9qRzV179f0WwXoj9k6rUeX4Qa4sxpi3hvpGkgkYNMPzZQH0mvvVAoTooEAgl1G3SyFksmhqNEbDEIEWM83RH47u8qvNyIYclA7z7GUdPJGx8WfJd556iCvvtvsitAYp9M-T46OvuwkaSWwnyhlynEpYax2qyTCACsPbtQLw/s1600/ssh-linux.jpg"
+    },
+    {
+      "title": "Pesquisadores ignoram o modo de bloqueio do ChatGPT para exfiltrar bate-papos sem interação do usuário",
+      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma vulnerabilidade agora corrigida que poderia ser explorada para contornar as proteções do modo Lockdown no OpenAI ChatGPT. O Modo Lockdown foi introduzido pela empresa de inteligência artificial ",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+      "published": "2026-11-05T16:42:32+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrZkGDnavpYu1VmQZCorYSw9PnFNh3tGXQ7YWWrZ3g6sURYj4RiS7za99akV3poXhW7GLoJw3j-baYvwyor0f_8iI3t5zk3NeXj1V1eVDMFUklqlYz629h88oYzxk3aIQPPwQF3xaw10DZTE-lEKyaojqzlLHC_DGtF91AVhXkaFNfY6Mh-qVqn86LCfQz/s1600/chat.gif"
+    },
+    {
+      "title": "Hackers fazem backdoor em servidores Linux usando servidor web CWP trojanizado",
       "summary": "Um novo malware Linux chamado CWPdoor está sendo distribuído por meio de uma versão trojanizada do cwpsrv, o servidor web por trás da interface de gerenciamento do Control Web Panel (CWP). [...]",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
@@ -81,87 +162,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
       "published": "2026-11-05T16:12:46+00:00",
       "image": ""
-    },
-    {
-      "title": "Cenário de ameaças de e-mail: tendências e insights do terceiro trimestre de 2026",
-      "summary": "O Microsoft Threat Intelligence observou um aumento acentuado na atividade de phishing baseada em e-mail no final do terceiro trimestre de 2026 (julho a setembro), mesmo com o declínio do phishing por código QR, a recuperação do phishing controlado por CAPTCHA",
-      "category": "AMEAÇAS",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/",
-      "published": "2026-11-05T16:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "OpenSSH emite correção de emergência para falha que permite que senhas longas ignorem a autenticação SSH no Alpine Linux - The Hacker News",
-      "summary": "OpenSSH emite correção de emergência para falha que permite que senhas longas ignorem autenticação SSH no Alpine Linux The Hacker News",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaGZIVGMxLVBKb1NRaGNvbmxHTXFVa3phVkZLWWtzQ3RqNHFuRmEtbnJLaUlaX2YxcXA2dWE2WGk2MWQtUXJiQ09iR2FWeGJ3c2ZZYUJjR1hYVFRvb3FDNnV0ZUJDNUZQVGZDYjBicXpRbVRscmQ5M2pyZ0FERWYycmZn?oc=5",
-      "published": "2026-11-05T15:31:57+00:00",
-      "image": ""
-    },
-    {
-      "title": "Fechando a lacuna de identidade no Service Desk",
-      "summary": "Os invasores têm como alvo os service desks de TI para contornar a MFA, fazendo-se passar por funcionários e convencendo a equipe a redefinir senhas ou registrar novos dispositivos de autenticação. A Specops Software explica por que os métodos tradicionais de ",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
-      "published": "2026-11-05T15:00:10+00:00",
-      "image": ""
-    },
-    {
-      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 mais histórias",
-      "summary": "Quanto dano alguém pode causar sem quebrar muito? Bastante, ao que parece. Um login roubado pode abrir portas em vários sistemas. Uma configuração confiável pode ser usada para bloquear o acesso de pessoas. Mesmo uma simples cópia de arquivo pode chegar a luga",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
-      "published": "2026-11-05T14:41:10+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj37A8QMI4tUKrluDLCSgawVjQQeZ6c6NrfWLMLUjrI6vRhpt8Tlw4PNnfF49ZlOTtW28Cfb035jo-j22auCrWauuE-JpHfKMFSVfIQtUZjn1eETLFhQEev0FFafFlGz8W6r-96FPmTWlFGTR3RhV869PbcYkO4YPi5nD-zQVGHSZ8d39OmhecF693dj4-x/s1600/tds.jpg"
-    },
-    {
-      "title": "Sites de phishing bancário mostram páginas falsas ‘suspensas’ para evitar remoções",
-      "summary": "Mais de 200 sites foram vistos veiculando conteúdo de phishing para visitantes de primeira viagem, mas não para aqueles que revisitaram. A postagem Sites de phishing de banco mostram páginas falsas ‘suspensas’ para evitar remoções apareceu pela primeira vez em",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/",
-      "published": "2026-11-05T13:22:12+00:00",
-      "image": ""
-    },
-    {
-      "title": "Sites de phishing bancário mostram páginas falsas ‘suspensas’ para evitar remoções – SecurityWeek",
-      "summary": "Sites de phishing bancário mostram páginas falsas ‘suspensas’ para evitar remoções SecurityWeek",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNmEzRC0xMDZNRDh4bXR1SmZLUTRtWnRSN2lmdE9QLU0xQzFDN0RVTkJuTWxrT0txd29Rb3diaWVVaWg1WnhwUUpqNWRxTlJJOEFYSW56dkNYQjhJT3oyWWpIb2oyb0prNDAyUWJlWUNZREctTGRYd1lhTnZqSkNpcWJIakxBcTZucmx2RWp2dEltN2cwVVlidl9B0gGfAUFVX3lxTE9xWWZGcklXNmpvWkVQaTRxV25XX05pTnZ3VV9mLUY4ZTFwWnlKeGdGbld1UDFVbDBrUUtidjdvWTU4TDNEY0tZTkJGQmhScHQzUFpkLTdyMGhkQ2RZNldMQXpYaGJBZzBJbFhSTEFWai1pcUEtQ28wdEhnN0RNU2lIXzROX2g5T1o1N0ZseUhWUzdUbnNFc09Eak9zblBFdw?oc=5",
-      "published": "2026-11-05T13:22:12+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ataque cibernético atinge site de banco de sangue francês, mas nenhum produto sanguíneo é comprometido",
-      "summary": "O incidente ocorre depois de supermercados de vários países europeus terem relatado esta semana que os seus frigoríficos e congeladores aqueceram depois de terem sido hackeados remotamente. A postagem Ataque cibernético atinge site de banco de sangue francês, ",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/",
-      "published": "2026-11-05T12:58:32+00:00",
-      "image": ""
-    },
-    {
-      "title": "Cisco, patches de lançamento da WatchGuard; SonicWall não corrigirá falhas do GMS",
-      "summary": "A Cisco corrigiu um RCE no software UCS Central; A WatchGuard corrigiu falhas de autenticação e MitM. O post Cisco, Patches de lançamento do WatchGuard; SonicWall não corrigirá falhas de GMS apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/",
-      "published": "2026-11-05T12:33:49+00:00",
-      "image": ""
-    },
-    {
-      "title": "Sua plataforma de gerenciamento de exposição está deixando você exposto? Cinco testes para descobrir",
-      "summary": "Uma descoberta crítica pode passar por diversas ferramentas de segurança e ainda assim deixar a organização exposta. A vulnerabilidade tem uma pontuação de gravidade e um ticket chegou à fila. O progresso depende então das informações que podem faltar na desco",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
-      "published": "2026-11-05T12:25:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTqhUSejDKMWiBuqakycpFyce33qmRAlEPU4FbfKnzSRZmIlOQia8YXyU8bdvYFN6ldGMqz2vxPZn-s9524oTPZithSzMiO5ejngh_UMdp8jEbSG8znPLj-0husv1pxRF0dW2qES9dz4oR56dk67YJ8zePlgnVFSbHSIKHAU_7VqK0-pwSVeYEsOYM7u8/s1600/exposure.png"
     }
   ]
 }
