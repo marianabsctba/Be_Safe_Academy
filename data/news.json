@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-11-07T10:27:21.376661+00:00",
+  "updated_at": "2026-11-07T17:48:28.114771+00:00",
   "items": [
+    {
+      "title": "Hackers realizam assalto a banco francês de US$ 133 milhões por meio de provedor de serviços",
+      "summary": "O banco cooperativo francês Crédit Mutuel Arkéa foi alvo de um ataque cibernético que permitiu transações fraudulentas de até US$ 133 milhões, forçando-o a responder suspendendo certos sistemas.v [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+      "published": "2026-11-07T15:25:35+00:00",
+      "image": ""
+    },
+    {
+      "title": "CTM360 expõe golpes de cartões-presente falsos que exploram marcas confiáveis",
+      "summary": "Os golpistas estão se passando por grandes marcas e celebridades para atrair os consumidores a brindes falsos de cartões-presente que coletam informações pessoais e acionam assinaturas indesejadas. CTM360 revela como essas campanhas usam etapas de verificação ",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
+      "published": "2026-11-07T14:10:19+00:00",
+      "image": ""
+    },
     {
       "title": "SonicWall Patches explora vulnerabilidade do SonicOS que enfraquece logins de VPN",
       "summary": "CVE-2026-19868 pode permitir que invasores que possuem credenciais para um método de login diferente passem pelas verificações de SAML, incluindo MFA imposta por SAML. A postagem SonicWall Patches explora vulnerabilidade do SonicOS que enfraquece logins de VPN",
@@ -143,24 +161,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
       "published": "2026-11-06T15:00:10+00:00",
-      "image": ""
-    },
-    {
-      "title": "OpenAI lança GPT-6 Cyber ​​​​após IA ajudar a encontrar 81 falhas do Firefox e 948 explorações do Linux",
-      "summary": "A OpenAI revelou na quinta-feira o GPT‑6 Cyber, que descreveu como um grande avanço na pesquisa de segurança que reúne capacidades de segurança cibernética mais fortes com uma melhoria radical no alinhamento do modelo. O novo modelo é “mais capaz de encontrar ",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
-      "published": "2026-11-06T14:58:32+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXR9F1Fu-E50zYby7QnTXAX324GHruNgN0_-95ygoUQV94WlkKSNHt1n8Af8HANmBe6GYgt_1-jGJzGNdg6NnoWY_Jrfbxjyv8mSQzOCa_t7e-e5S8DEB32YavCpthT2pB3jQsFRNJ69bgOgph9qyCBppvb93YSsYSzBM1P9CdeO_rhMcF4LgCj-kQvY2C/s1600/gpt-cyber.jpg"
-    },
-    {
-      "title": "OpenAI lança GPT-6 Cyber ​​​​após IA ajudar a encontrar 81 falhas do Firefox e 948 explorações do Linux - The Hacker News",
-      "summary": "OpenAI lança GPT-6 Cyber ​​​​depois que IA ajuda a encontrar 81 falhas do Firefox, 948 explorações do Linux The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX2ZfWDZjZ0ZiM2VHMU5CWDFwNFdZR093TTh1RUVYN3h2NkRVWnBCdEUyWkhTOUhBMEd5di13STkxVlBCTXlMcFJTS2tZS20wT1lkOE03UGd2VnpkSG1Sb2F1cWtISFB5UEFJY2RhT19DV3N3djNmaEI0SDVWUVlTbg?oc=5",
-      "published": "2026-11-06T14:58:00+00:00",
       "image": ""
     }
   ]
