@@ -1,9 +1,45 @@
 {
-  "updated_at": "2026-11-06T19:31:54.712440+00:00",
+  "updated_at": "2026-11-07T01:00:12.005673+00:00",
   "items": [
     {
-      "title": "Ferramentas de segurança falsas no GitHub empurram backdoors e infostealers",
-      "summary": "Profissionais de segurança cibernética estão sendo alvo de projetos de segurança infectados no GitHub que implantam backdoor e malware ladrão de informações. [...]",
+      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+      "published": "2026-11-07T00:00:55+00:00",
+      "image": ""
+    },
+    {
+      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+      "published": "2026-11-06T22:27:25+00:00",
+      "image": ""
+    },
+    {
+      "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "CLOUD & IA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
+      "published": "2026-11-06T21:27:36+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt657a1273b2714e2a/6aee1af430222a6f81ad8ea8/ukmap-da-kuk-Getty-1368022904.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+      "published": "2026-11-06T20:24:19+00:00",
+      "image": ""
+    },
+    {
+      "title": "Fake security tools on GitHub push backdoors and infostealers",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
@@ -11,8 +47,8 @@
       "image": ""
     },
     {
-      "title": "Japão anuncia pacote emergencial de segurança cibernética após onda de ataques",
-      "summary": "O pacote de emergência surge depois de dezenas de empresas e agências governamentais terem sido atingidas por acessos não autorizados aos seus sistemas e fugas de dados de clientes, provocando desconforto em todo o Japão. O posto Japão anuncia pacote emergenci",
+      "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/",
@@ -20,8 +56,8 @@
       "image": ""
     },
     {
-      "title": "AI deu ao seu arquivo de incidentes um segundo trabalho",
-      "summary": "Os registros de segurança são cada vez mais usados ​​pelos fornecedores para treinar seus modelos, criando novos riscos para as empresas.",
+      "title": "AI Gave Your Incident Archive a Second Job",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job",
@@ -29,8 +65,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfb0f3465591962e4/6aee1cd77073b469ffb052f4/archive_-3alexd-Getty-95769788.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "QNAP diz que hackers invadiram dispositivos NAS em ataques Plex2Shell",
-      "summary": "A QNAP incentiva os usuários a atualizar o Plex Media Server para a versão mais recente disponível no QNAP App Center, pois os hackers estão explorando a cadeia de vulnerabilidades do Plex2Shell. [...]",
+      "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
@@ -38,8 +74,8 @@
       "image": ""
     },
     {
-      "title": "Instalar a correção para uma falha explorada do WordPress pode expor alguns sites pela última vez",
-      "summary": "Alguns sites WordPress ainda podem ser atacados enquanto instalam a correção para uma falha explorada ativamente, de acordo com Umut Bayram, o pesquisador da Picus Security que a encontrou. A atualização que instala a correção ainda descompacta seus arquivos u",
+      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
@@ -47,8 +83,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4gwg9bgmxLj_anXtQvOZdeKYWN-aAZxZqlOrI7wXwZ_qW_lUZrzwYufexnbDLcC20eXBkh7TgA-dAQHm6EEmEc80i9A6GOBGkiOb8NhcR1d1CFLKDLc7VJzyC4Bv-5Ye2AEE_ApPcKmAWqJJFfbQ2AOGffKhCPNznyYyz5s0Jro-mxcTxfxPoqRe-ZoY/s1600/wp-update.jpg"
     },
     {
-      "title": "Instalar a correção para uma falha explorada do WordPress pode expor alguns sites pela última vez - The Hacker News",
-      "summary": "Instalar a correção para uma falha explorada do WordPress pode expor alguns sites pela última vez The Hacker News",
+      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObFVrZk9kMVdsY3FjSTdrcmlDTUQ0RnZyampfSGRUOUdxUWtiM20yQm94RGx0aEpHWWF1eHl4dnM2bEw2Nk1YUWc3ZmtOaUxLbGtWdVh0QU5sR1JibGZHeXFFSGViRnBQU0pkc0h5VFZaRHE2eDR3Zy1xR0pYUURZbDhGdw?oc=5",
@@ -56,8 +92,8 @@
       "image": ""
     },
     {
-      "title": "Hackers visam falha SSHhole do OpenSSH poucas horas após a divulgação e ganham raiz no Honeypot",
-      "summary": "Os atores da ameaça estão tentando explorar uma falha de segurança divulgada recentemente que afeta o OpenSSH e que pode permitir logins em contas que não possuem senha definida, de acordo com a Previdian. A vulnerabilidade, rastreada como CVE-2026-123158 (pon",
+      "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
@@ -65,8 +101,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHbl1TAGj_ZHZDF3oQ8AfebRDiovg_d8Wk4huY5VJkSa0csE45G7k5jwdG1De-W-7l2RjnyH_ZvT3vcioykVeOooifwvViM8RiuTu0gSt2t-XgOefyYKyM5_zbsI5WFNubkIT0hOUr4inPIQMvXs6GDTLa6j7XWL3etRJYvOcDLJxa3IDXv-KtuCma5JsG/s1600/ssh.jpg"
     },
     {
-      "title": "IMSI vs IMEI: o que seu telefone transmite e quem pode lê-lo",
-      "summary": "IMSI e IMEI são IDs que seu telefone compartilha com as redes. Saiba como eles diferem, como os invasores os obtêm e por que a rotação do seu IMSI prejudica o rastreamento. [...]",
+      "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
@@ -74,8 +110,8 @@
       "image": ""
     },
     {
-      "title": "OpenAI lança GPT-6 Cyber ​​​​após IA ajudar a encontrar 81 falhas do Firefox e 948 explorações do Linux",
-      "summary": "A OpenAI revelou na quinta-feira o GPT‑6 Cyber, que descreveu como um grande avanço na pesquisa de segurança que reúne capacidades mais fortes de segurança cibernética com uma melhoria radical no alinhamento do modelo. O novo modelo é “mais capaz de encontrar ",
+      "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
@@ -83,8 +119,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXR9F1Fu-E50zYby7QnTXAX324GHruNgN0_-95ygoUQV94WlkKSNHt1n8Af8HANmBe6GYgt_1-jGJzGNdg6NnoWY_Jrfbxjyv8mSQzOCa_t7e-e5S8DEB32YavCpthT2pB3jQsFRNJ69bgOgph9qyCBppvb93YSsYSzBM1P9CdeO_rhMcF4LgCj-kQvY2C/s1600/gpt-cyber.jpg"
     },
     {
-      "title": "OpenAI lança GPT-6 Cyber ​​​​após IA ajudar a encontrar 81 falhas do Firefox e 948 explorações do Linux - The Hacker News",
-      "summary": "OpenAI lança GPT-6 Cyber ​​​​depois que IA ajuda a encontrar 81 falhas do Firefox, 948 explorações do Linux The Hacker News",
+      "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX2ZfWDZjZ0ZiM2VHMU5CWDFwNFdZR093TTh1RUVYN3h2NkRVWnBCdEUyWkhTOUhBMEd5di13STkxVlBCTXlMcFJTS2tZS20wT1lkOE03UGd2VnpkSG1Sb2F1cWtISFB5UEFJY2RhT19DV3N3djNmaEI0SDVWUVlTbg?oc=5",
@@ -92,8 +128,8 @@
       "image": ""
     },
     {
-      "title": "Em outras notícias: Implante Trezor, contas LLMJacking atingem US$ 1 milhão, falhas SAP armadas em poucos dias",
-      "summary": "Histórias dignas de nota que podem ter passado despercebidas: Synology alerta sobre ataques de ransomware NAS, ataques de ‘olá’ do Flowise, expansão do impacto da violação do Chainalysis. A postagem Em outras notícias: Trezor Implant, LLMJacking Bills atingiu ",
+      "title": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
@@ -101,8 +137,8 @@
       "image": ""
     },
     {
-      "title": "Chainalysis afirma violação de credenciais expostas para todos os clientes",
-      "summary": "A empresa de inteligência Blockchain Chainalysis afirma que um ataque recente a seus sistemas e ferramentas internas expôs credenciais e tokens ativos para todos os clientes. [...]",
+      "title": "Chainalysis says breach exposed credentials for all customers",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
@@ -110,8 +146,8 @@
       "image": ""
     },
     {
-      "title": "A violação de dados da DigiCert afeta as informações dos clientes empresariais",
-      "summary": "Os hackers criaram uma conta em um sistema interno e acessaram nomes, endereços de e-mail, números de telefone e endereços comerciais. A postagem A violação de dados da DigiCert impacta as informações dos clientes empresariais apareceu pela primeira vez na Sec",
+      "title": "DigiCert Data Breach Impacts Business Customer Information",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/",
@@ -119,49 +155,13 @@
       "image": ""
     },
     {
-      "title": "Por que os Freezer Hacks da Europa se espalharam tão longe e tão rápido",
-      "summary": "Os ataques aos congeladores dos supermercados europeus mostram como os problemas de segurança podem propagar-se por toda a indústria, perturbando as cadeias de abastecimento em grande escala.",
+      "title": "Why Europe's Freezer Hacks Spread So Far, So Fast",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "DEFESA",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
       "published": "2026-11-06T14:00:00+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt888d802e435faf7a/6aecff1baf87734cefe9fe4c/Supermarket_freezer_aise-bernardbodo-GettyImages-1393629140.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "O futuro pós-quântico da privacidade na web",
-      "summary": "Protocolos criptográficos como o Privacy Pass ajudam a manter os sites protegidos contra abusos e, ao mesmo tempo, mantêm a privacidade de seus usuários. Esta postagem analisa a ameaça quântica a esses protocolos e algumas novas criptografias pós-quânticas que",
-      "category": "AMEAÇAS",
-      "source": "Cloudflare Security",
-      "url": "https://blog.cloudflare.com/vole-mole/",
-      "published": "2026-11-06T14:00:00+00:00",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M6RNKQ9RKEJ9CKY6DGNF44RV.01M6RNKRJAQTN05BV66646AM7Z.png"
-    },
-    {
-      "title": "OpenAI afirma que novo modelo cibernético GPT-6 caça falhas sem ultrapassar os limites",
-      "summary": "Classificado como crítico para segurança cibernética, o novo modelo da OpenAI supera o GPT-5.6 Cyber ​​na exploração, ao mesmo tempo que permanece no escopo de forma mais confiável. A postagem OpenAI afirma que novo modelo cibernético GPT-6 caça falhas sem cru",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/",
-      "published": "2026-11-06T13:19:52+00:00",
-      "image": ""
-    },
-    {
-      "title": "Agências dos EUA incentivam as organizações a fortalecer os controladores de refrigeração",
-      "summary": "As recomendações surgem no meio de ataques contra frigoríficos e congeladores em supermercados e bancos de sangue na Europa. A postagem Agências dos EUA incentivam as organizações a endurecer os controladores de refrigeração apareceu pela primeira vez na Secur",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/",
-      "published": "2026-11-06T13:02:26+00:00",
-      "image": ""
-    },
-    {
-      "title": "A gigante do setor de alimentos Ahold Delhaize estima o custo financeiro do ataque cibernético de outubro",
-      "summary": "O incidente de outubro reduzirá as vendas do quarto trimestre em até 250 milhões de euros e levou a Ahold Delhaize a reduzir as suas perspetivas para 2026. A postagem A gigante dos supermercados Ahold Delhaize estima o custo financeiro do ataque cibernético de",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/",
-      "published": "2026-11-06T12:47:55+00:00",
-      "image": ""
     }
   ]
 }
