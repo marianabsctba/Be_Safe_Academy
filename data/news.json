@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-07T17:48:28.114771+00:00",
+  "updated_at": "2026-11-07T22:00:13.035404+00:00",
   "items": [
     {
-      "title": "Hackers realizam assalto a banco francês de US$ 133 milhões por meio de provedor de serviços",
-      "summary": "O banco cooperativo francês Crédit Mutuel Arkéa foi alvo de um ataque cibernético que permitiu transações fraudulentas de até US$ 133 milhões, forçando-o a responder suspendendo certos sistemas.v [...]",
+      "title": "Hackers pull off $133 million French bank heist via service provider",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
@@ -11,8 +11,8 @@
       "image": ""
     },
     {
-      "title": "CTM360 expõe golpes de cartões-presente falsos que exploram marcas confiáveis",
-      "summary": "Os golpistas estão se passando por grandes marcas e celebridades para atrair os consumidores a brindes falsos de cartões-presente que coletam informações pessoais e acionam assinaturas indesejadas. CTM360 revela como essas campanhas usam etapas de verificação ",
+      "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
@@ -20,8 +20,8 @@
       "image": ""
     },
     {
-      "title": "SonicWall Patches explora vulnerabilidade do SonicOS que enfraquece logins de VPN",
-      "summary": "CVE-2026-19868 pode permitir que invasores que possuem credenciais para um método de login diferente passem pelas verificações de SAML, incluindo MFA imposta por SAML. A postagem SonicWall Patches explora vulnerabilidade do SonicOS que enfraquece logins de VPN",
+      "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
@@ -29,8 +29,8 @@
       "image": ""
     },
     {
-      "title": "O arquivo “Don't Ask Again” de Claude Code expõe senhas e chaves em 1.122 cópias públicas no GitHub",
-      "summary": "As senhas e chaves de API que os desenvolvedores digitaram nos comandos que aprovaram no Claude Code estão em repositórios públicos do GitHub, onde qualquer pessoa pode lê-las. Quando um usuário seleciona “Sim e não pergunte novamente”, o assistente de codific",
+      "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "CLOUD & IA",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
@@ -38,8 +38,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZH3vYLZb9lP7mDLqy2h-upzdComeWIfjDX5siFUO3FM2HlUs03OTwirA1R2uzOZq_clptIVBsoaJNXIuf8LlTbXHFvzBJLRl1l3mqGVesHjgdmD86S_c-k2JY_t56xZqI0bnN6jXRDr92KlMw6X5BHzm5hqogpWflsERi9zrsMHSS_abAcvZMcUGovd8/s1600/claude-code.jpg"
     },
     {
-      "title": "O abuso da ARTEX se expande à medida que os cibercriminosos visam o setor financeiro",
-      "summary": "Em outubro de 2026, o ator de ameaças com motivação financeira Storm-3358 começou a visar organizações no setor financeiro usando a estrutura ofensiva de IA de agência ARTEX. A postagem O abuso da ARTEX se expande à medida que os cibercriminosos visam o setor ",
+      "title": "ARTEX abuse expands as cybercriminals target financial sector",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "Microsoft Security",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/",
@@ -47,8 +47,8 @@
       "image": ""
     },
     {
-      "title": "SonicWall alerta sobre nova falha de bypass SSL-VPN MFA explorada em ataques",
-      "summary": "A SonicWall lançou atualizações de segurança para corrigir sete vulnerabilidades nos firewalls do SonicOS, incluindo uma falha de desvio de autenticação SSL-VPN explorada em ataques. [...]",
+      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
@@ -56,8 +56,8 @@
       "image": ""
     },
     {
-      "title": "Agente hacker de IA em fuga por trás da violação do WorkOS após escapar da sandbox",
-      "summary": "WorkOS afirma que um agente de hacking baseado em IA que violou seu aplicativo interno de vendas e acessou informações de clientes foi operado por um pesquisador de segurança que afirma que a ferramenta escapou de seu ambiente de teste e atacou involuntariamen",
+      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
@@ -65,8 +65,8 @@
       "image": ""
     },
     {
-      "title": "Reino Unido conquista soberania tecnológica em meio a mudanças nas políticas de IA",
-      "summary": "O Reino Unido está a apostar na IA nacional e no investimento cibernético para reduzir a dependência da tecnologia dos EUA – mas os líderes de segurança questionam se o financiamento é demasiado fragmentado e demasiado tardio.",
+      "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "CLOUD & IA",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
@@ -74,8 +74,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt657a1273b2714e2a/6aee1af430222a6f81ad8ea8/ukmap-da-kuk-Getty-1368022904.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "O novo GPT-6 Cyber ​​AI da OpenAI encontra 81 falhas do Firefox, 948 bugs do Linux",
-      "summary": "OpenAI revelou GPT-6 Cyber, um novo modelo de inteligência artificial que descobriu 81 vulnerabilidades de alta gravidade do Firefox anteriormente desconhecidas e desenvolveu explorações funcionais para 948 falhas distintas do kernel Linux. [...]",
+      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
@@ -83,8 +83,8 @@
       "image": ""
     },
     {
-      "title": "Ferramentas de segurança falsas no GitHub empurram backdoors e infostealers",
-      "summary": "Profissionais de segurança cibernética estão sendo alvo de projetos de segurança infectados no GitHub que implantam backdoor e malware ladrão de informações. [...]",
+      "title": "Fake security tools on GitHub push backdoors and infostealers",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
@@ -92,8 +92,8 @@
       "image": ""
     },
     {
-      "title": "Japão anuncia pacote emergencial de segurança cibernética após onda de ataques",
-      "summary": "O pacote de emergência surge depois de dezenas de empresas e agências governamentais terem sido atingidas por acessos não autorizados aos seus sistemas e fugas de dados de clientes, provocando desconforto em todo o Japão. O posto Japão anuncia pacote emergenci",
+      "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/",
@@ -101,8 +101,8 @@
       "image": ""
     },
     {
-      "title": "Japão anuncia pacote emergencial de segurança cibernética após onda de ataques - SecurityWeek",
-      "summary": "Japão anuncia pacote emergencial de segurança cibernética após onda de ataques SecurityWeek",
+      "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks - SecurityWeek",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSjh4RlR5OEhwamF3RWMtbkdyYVBybXZPVUFmOE1VWWViN09LOHRVNDM1dUdadWZPZTRFQ2FmbzNCa0FSRVFNdXhqQ1Y0dExua1N0UFlvMFdRZGMwUGUydV84SHcySFVVVF9VZk1NSV9wZ3VDZDh5Z0c5ZFNPakMyNk5UbVBlaXprTC15dVhYS1k4OW5lX2VUWTNVaU5vMXVFMnIzUWVteFo?oc=5",
@@ -110,8 +110,8 @@
       "image": ""
     },
     {
-      "title": "AI deu ao seu arquivo de incidentes um segundo trabalho",
-      "summary": "Os registros de segurança são cada vez mais usados ​​pelos fornecedores para treinar seus modelos, criando novos riscos para as empresas.",
+      "title": "AI Gave Your Incident Archive a Second Job",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job",
@@ -119,8 +119,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfb0f3465591962e4/6aee1cd77073b469ffb052f4/archive_-3alexd-Getty-95769788.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "QNAP diz que hackers invadiram dispositivos NAS em ataques Plex2Shell",
-      "summary": "A QNAP incentiva os usuários a atualizar o Plex Media Server para a versão mais recente disponível no QNAP App Center, pois os hackers estão explorando a cadeia de vulnerabilidades do Plex2Shell. [...]",
+      "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
@@ -128,8 +128,8 @@
       "image": ""
     },
     {
-      "title": "Instalar a correção para uma falha explorada do WordPress pode expor alguns sites pela última vez",
-      "summary": "Alguns sites WordPress ainda podem ser atacados enquanto instalam a correção para uma falha explorada ativamente, de acordo com Umut Bayram, o pesquisador da Picus Security que a encontrou. A atualização que instala a correção ainda descompacta seus arquivos u",
+      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
@@ -137,8 +137,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4gwg9bgmxLj_anXtQvOZdeKYWN-aAZxZqlOrI7wXwZ_qW_lUZrzwYufexnbDLcC20eXBkh7TgA-dAQHm6EEmEc80i9A6GOBGkiOb8NhcR1d1CFLKDLc7VJzyC4Bv-5Ye2AEE_ApPcKmAWqJJFfbQ2AOGffKhCPNznyYyz5s0Jro-mxcTxfxPoqRe-ZoY/s1600/wp-update.jpg"
     },
     {
-      "title": "Instalar a correção para uma falha explorada do WordPress pode expor alguns sites pela última vez - The Hacker News",
-      "summary": "Instalar a correção para uma falha explorada do WordPress pode expor alguns sites pela última vez The Hacker News",
+      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObFVrZk9kMVdsY3FjSTdrcmlDTUQ0RnZyampfSGRUOUdxUWtiM20yQm94RGx0aEpHWWF1eHl4dnM2bEw2Nk1YUWc3ZmtOaUxLbGtWdVh0QU5sR1JibGZHeXFFSGViRnBQU0pkc0h5VFZaRHE2eDR3Zy1xR0pYUURZbDhGdw?oc=5",
@@ -146,8 +146,8 @@
       "image": ""
     },
     {
-      "title": "Hackers visam falha SSHhole do OpenSSH poucas horas após a divulgação e ganham raiz no Honeypot",
-      "summary": "Os atores da ameaça estão tentando explorar uma falha de segurança divulgada recentemente que afeta o OpenSSH e que pode permitir logins em contas que não possuem senha definida, de acordo com a Previdian. A vulnerabilidade, rastreada como CVE-2026-123158 (pon",
+      "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
@@ -155,8 +155,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHbl1TAGj_ZHZDF3oQ8AfebRDiovg_d8Wk4huY5VJkSa0csE45G7k5jwdG1De-W-7l2RjnyH_ZvT3vcioykVeOooifwvViM8RiuTu0gSt2t-XgOefyYKyM5_zbsI5WFNubkIT0hOUr4inPIQMvXs6GDTLa6j7XWL3etRJYvOcDLJxa3IDXv-KtuCma5JsG/s1600/ssh.jpg"
     },
     {
-      "title": "IMSI vs IMEI: o que seu telefone transmite e quem pode lê-lo",
-      "summary": "IMSI e IMEI são IDs que seu telefone compartilha com as redes. Saiba como eles diferem, como os invasores os obtêm e por que a rotação do seu IMSI prejudica o rastreamento. [...]",
+      "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
