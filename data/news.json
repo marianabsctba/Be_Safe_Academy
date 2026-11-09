@@ -1,9 +1,117 @@
 {
-  "updated_at": "2026-11-09T01:01:02.893211+00:00",
+  "updated_at": "2026-11-09T11:48:49.501343+00:00",
   "items": [
     {
-      "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "A senha padrão do servidor 'admin:admin' ajuda pesquisadores a hackear duas montadoras, desbloquear e dar partida em carros",
+      "summary": "Os sistemas de login por trás dos aplicativos móveis de duas marcas de automóveis poderiam ser completamente controlados, descobriram dois pesquisadores de segurança, permitindo-lhes acessar a conta de qualquer cliente e, para um proprietário com um carro cone",
+      "category": "DEFESA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
+      "published": "2026-11-09T11:27:53+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI85M0pHHPiXe5ar2VpaGsBVRzxoYfZhpQTKgWqd8YGjK9Nyaca-z6XrGT3jT0lqh41qe-cAjb33_r7JErd7rB1CfuWkgTP_z-_IJkpQPWebz1GeEvSu9QpE5XYWRMOfhYTHmzhbkFB07hzSuV1FYARdaIWjfB_mUoX1_eMjl_3dOaSUFpTQvjt-34eQo/s1600/login-car.jpg"
+    },
+    {
+      "title": "Violação de dados da Amplifon Americas impacta 1,3 milhão",
+      "summary": "Os hackers roubaram informações pessoais, de saúde e de seguros, incluindo números de Seguro Social, dos sistemas internos da empresa. A postagem Violação de dados da Amplifon Americas impacta 1,3 milhão apareceu pela primeira vez na SecurityWeek.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/amplifon-americas-data-breach-impacts-1-3-million/",
+      "published": "2026-11-09T11:20:09+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falha do Web3Auth explorada para roubar criptografia Keplr, provedor esvazia outras carteiras por segurança",
+      "summary": "Algumas pessoas que configuraram uma carteira criptografada Keplr com suas contas do Google ou Apple tiveram dinheiro roubado por um invasor. Keplr usa uma empresa chamada Web3Auth para executar o login do Google e da Apple. O invasor usou uma falha de seguran",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
+      "published": "2026-11-09T10:56:25+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJtevfYXrRQrcU5FKn33bfyWpqN9O6FlI2b1eWOTjNWWslLIM1wwUfpzedZdMvdw6BXqmYqM1PwO-8GH3_IpKOGa15uoiXx5yDTkAal7JOFSKisSYOAHBdRk9XImTowXaCyJlTwX-chPd7uJFCDEq8u9sKY7jW6UYxorQKUSyuH9pF3szdwejvN_HGhno/s1600/kep.jpg"
+    },
+    {
+      "title": "Mais de 3 milhões de pessoas atingidas por violação de dados educacionais de primeira linha",
+      "summary": "A Frontline Education disse aos reguladores de Indiana que a violação de dados em agosto afetou mais de 3 milhões de funcionários e alunos do distrito escolar. A postagem Mais de 3 milhões de pessoas atingidas por violação de dados educacionais da linha de fre",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/",
+      "published": "2026-11-09T10:09:02+00:00",
+      "image": ""
+    },
+    {
+      "title": "LNbits pede que todas as operadoras desliguem seus servidores de carteira Bitcoin Lightning em meio a ataques",
+      "summary": "Todos que executam LNbits, um sistema de carteira Bitcoin Lightning gratuito e de código aberto, deveriam desligar seus servidores agora por causa de uma onda de ataques, disse o projeto ontem. Ele tem várias correções de segurança para lançar e pede aos opera",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
+      "published": "2026-11-09T10:01:21+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPZfiSS8v6cUfSW1R2sbPNNfjluB-GvnXCxcAW_G6pKRNzYU2Be89Qyu9Zx0mnY7voaGpLXFtsajKS9tqYp74Qo05wPzzELg9ZpbVcoWa5l9AKhf4SmmNbnIvjOUrm4LsB9V-tGBxU-V0NxHzAoV2Cnlz6tHlcPewPh2ir8ipqn6Kj-phVDm5zraXs9ss/s1600/crypto-bits.jpg"
+    },
+    {
+      "title": "Hacker baseado em Taiwan usou agentes BOSSAI AI para roubar registros de despacho de emergência em Taipei",
+      "summary": "Um único invasor usando agentes de IA obteve registros de despacho de emergência cobrindo sete distritos de Taipei, disseram pesquisadores da Unidade de Pesquisa de Ameaças da Acronis na semana passada. Os agentes também encontraram uma plataforma do corpo de ",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
+      "published": "2026-11-09T09:01:50+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd53Ql49F0iuQEtdvfoxOLNTuQnYM5oGQkqnQ3ym4aIW-HVZuHtOqzyi0IdwUxpFj5qU_jbUEKzPXG4Wx7Uj7g2-UKDotvOh0_AlNlkEIpgLbEBDuQxDkuxDFlukNKKbWXXZv1xCeHEtoOQ_Z1XQUshkJmlBaOmGQzMbryg6KHbOdt8IR7MNQ5oADM-GM/s1600/CYBER-AI.jpg"
+    },
+    {
+      "title": "Hacker baseado em Taiwan usou agentes de IA da BOSSAI para roubar registros de despacho de emergência de Taipei - The Hacker News",
+      "summary": "Hacker baseado em Taiwan usou agentes de IA da BOSSAI para roubar registros de despacho de emergência de Taipei The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1JN21iLXBCbjhYSEt5cnNLVE45ZFFMZDBjcURrX0hfYlgwd2xUWnBpM0lNX3g3b25QVFVQMnFHQ3BtcGppcElVR3FFQ2xwbWQtdUdpMGJ6Z213M1FsNU5iTzRyLUh0SXpud0RTZ29mMUM0QS1WQnpBV0N1Unkxdw?oc=5",
+      "published": "2026-11-09T09:01:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Os agentes de IA do Google DeepMind tornam as chaves RSA de 1024 bits mais baratas para atacar",
+      "summary": "Trabalhando com criptógrafos, os agentes de IA da DeepMind reduziram o custo de falsificação de assinaturas RSA-1024 e encontraram uma maneira mais barata de fatorar chaves. A postagem Os agentes de IA do Google DeepMind tornam as chaves RSA de 1024 bits mais ",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/",
+      "published": "2026-11-09T08:35:50+00:00",
+      "image": ""
+    },
+    {
+      "title": "Agências dos EUA alertam que ataques a controladores de refrigeração podem causar incêndios e perdas de estoque",
+      "summary": "As agências governamentais dos EUA alertaram que os agentes da ameaça estão a visar ativamente sistemas de refrigeração industrial e de monitorização da cadeia de frio a nível mundial, com o objetivo de causar interrupções de serviço, riscos de incêndio e perd",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
+      "published": "2026-11-09T06:15:10+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKryTkTZPSm_Pvf-PEvYRFle3Bp0jQaXScE21oOsMfwir63sr355bqHInvPRm5zynq2sYfLswRNEeywDHo7p2snw5sQmlIrWIONBq4AoYFEGXvdgy5gNLMESgjL5zwnhbqYIwdKLRaolb18pKz1sqFynmSjWn2IT_BxlEb-0av9vDfp-oEzp23_cwOIoik/s1600/ref.jpg"
+    },
+    {
+      "title": "Agências dos EUA alertam que ataques a controladores de refrigeração podem causar incêndios e perdas de estoque - The Hacker News",
+      "summary": "Agências dos EUA alertam que ataques a controladores de refrigeração podem causar incêndios e perdas de estoque The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VNEJKeXBuMUJCVVFBdVl0X2J1VHdKSEk4MHcwQUpGRkdBaGVHT2FMNVBlSi12c1VVSk4wTjA2RUw1U0JsVXZIY1BYR2JPWWdDUVJXMFhsQVJLTzY1bDhvSVkxLTVGRmlPUkVJRWVzNjZyX2xzbDIxSw?oc=5",
+      "published": "2026-11-09T06:15:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "CISA sinaliza falha de desvio do SonicWall SonicOS MFA em meio a relatos de possível exploração",
+      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) adicionou uma vulnerabilidade de alta gravidade que afeta o SonicWall SonicOS ao seu catálogo de Vulnerabilidades Exploradas Conhecidas (KEV), após relatos de que ela disse que pode ter sido",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
+      "published": "2026-11-09T06:05:24+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjILYvlBWd-cPdnYJiX5gpFUBvDeq0nZYHWard5V4B8oEx7r_-4lUxcIan0_5l4EHxun-KbEHOJTj1p8qTuORzAaKalwqmlz1ajVuBmS-KTBJB0-rBSrhHGgHUkY0I3GTMSEbIy5fkP4vDyITtkZvbkqreMTACQjDS3OBRmnZE4U7pVZLjgId53L259b5Qj/s1600/sonicss.jpg"
+    },
+    {
+      "title": "CISA sinaliza falha de desvio do SonicWall SonicOS MFA em meio a relatos de possível exploração - The Hacker News",
+      "summary": "CISA sinaliza falha de desvio do SonicWall SonicOS MFA em meio a relatos de possível exploração The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUjlURm1XclVha3VlWUM0UTVVWFFXTVRueUdLUXdaWVVOa1pHZ0xZNDNqeVdRdktkdVlWbGJ2MV9wZW5IeVAzeUw3NzJBQlVTTG5pTjFKMUtqYl9RZTEzNWRfSEdFTjVnNl9QNHdfM0VKdWtIYmJEaXpZdTc2SXAzM1plaUE?oc=5",
+      "published": "2026-11-09T06:05:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "A violação da nuvem de dados Iris Ohyama expõe informações de 7,7 milhões de clientes",
+      "summary": "A fabricante japonesa Iris Ohyama, operadora da plataforma de compras Iris Plaza, revelou que informações pessoais pertencentes a cerca de 7,7 milhões de pessoas podem ter sido expostas após acesso não autorizado a um serviço de nuvem de terceiros utilizado pe",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
@@ -11,8 +119,8 @@
       "image": ""
     },
     {
-      "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Brava Security emerge do sigilo com US$ 15 milhões em financiamento",
+      "summary": "Sua plataforma de IA multiagente gera a telemetria que um ataque produziria para corrigir lacunas nas defesas empresariais. A postagem Brava Security emerge do sigilo com US$ 15 milhões em financiamento apareceu pela primeira vez na SecurityWeek.",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
@@ -20,8 +128,8 @@
       "image": ""
     },
     {
-      "title": "Hackers pull off $133 million French bank heist via service provider",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Hackers realizam assalto a banco francês de US$ 133 milhões por meio de provedor de serviços",
+      "summary": "O banco cooperativo francês Crédit Mutuel Arkéa foi alvo de um ataque cibernético que permitiu transações fraudulentas de até US$ 133 milhões, forçando-o a responder suspendendo certos sistemas.v [...]",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
@@ -29,8 +137,8 @@
       "image": ""
     },
     {
-      "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "CTM360 expõe golpes de cartões-presente falsos que exploram marcas confiáveis",
+      "summary": "Os golpistas estão se passando por grandes marcas e celebridades para atrair os consumidores a brindes falsos de cartões-presente que coletam informações pessoais e acionam assinaturas indesejadas. CTM360 revela como essas campanhas usam etapas de verificação ",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
@@ -38,8 +146,8 @@
       "image": ""
     },
     {
-      "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "SonicWall Patches explora vulnerabilidade do SonicOS que enfraquece logins de VPN",
+      "summary": "CVE-2026-19868 pode permitir que invasores que possuem credenciais para um método de login diferente passem pelas verificações de SAML, incluindo MFA imposta por SAML. A postagem SonicWall Patches explora vulnerabilidade do SonicOS que enfraquece logins VPN ap",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
@@ -47,121 +155,13 @@
       "image": ""
     },
     {
-      "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "O arquivo “Don't Ask Again” de Claude Code expõe senhas e chaves em 1.122 cópias públicas no GitHub",
+      "summary": "As senhas e chaves de API que os desenvolvedores digitaram nos comandos que aprovaram no Claude Code estão em repositórios públicos do GitHub, onde qualquer pessoa pode lê-las. Quando um usuário seleciona “Sim e não pergunte novamente”, o assistente de codific",
       "category": "CLOUD & IA",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
       "published": "2026-11-07T06:44:17+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZH3vYLZb9lP7mDLqy2h-upzdComeWIfjDX5siFUO3FM2HlUs03OTwirA1R2uzOZq_clptIVBsoaJNXIuf8LlTbXHFvzBJLRl1l3mqGVesHjgdmD86S_c-k2JY_t56xZqI0bnN6jXRDr92KlMw6X5BHzm5hqogpWflsERi9zrsMHSS_abAcvZMcUGovd8/s1600/claude-code.jpg"
-    },
-    {
-      "title": "ARTEX abuse expands as cybercriminals target financial sector",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/",
-      "published": "2026-11-07T02:44:34+00:00",
-      "image": ""
-    },
-    {
-      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
-      "published": "2026-11-07T00:00:55+00:00",
-      "image": ""
-    },
-    {
-      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
-      "published": "2026-11-06T22:27:25+00:00",
-      "image": ""
-    },
-    {
-      "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "CLOUD & IA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
-      "published": "2026-11-06T21:27:36+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt657a1273b2714e2a/6aee1af430222a6f81ad8ea8/ukmap-da-kuk-Getty-1368022904.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
-      "published": "2026-11-06T20:24:19+00:00",
-      "image": ""
-    },
-    {
-      "title": "Fake security tools on GitHub push backdoors and infostealers",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
-      "published": "2026-11-06T18:46:52+00:00",
-      "image": ""
-    },
-    {
-      "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/",
-      "published": "2026-11-06T18:28:41+00:00",
-      "image": ""
-    },
-    {
-      "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks - SecurityWeek",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSjh4RlR5OEhwamF3RWMtbkdyYVBybXZPVUFmOE1VWWViN09LOHRVNDM1dUdadWZPZTRFQ2FmbzNCa0FSRVFNdXhqQ1Y0dExua1N0UFlvMFdRZGMwUGUydV84SHcySFVVVF9VZk1NSV9wZ3VDZDh5Z0c5ZFNPakMyNk5UbVBlaXprTC15dVhYS1k4OW5lX2VUWTNVaU5vMXVFMnIzUWVteFo?oc=5",
-      "published": "2026-11-06T18:28:41+00:00",
-      "image": ""
-    },
-    {
-      "title": "AI Gave Your Incident Archive a Second Job",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job",
-      "published": "2026-11-06T18:27:30+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfb0f3465591962e4/6aee1cd77073b469ffb052f4/archive_-3alexd-Getty-95769788.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
-      "published": "2026-11-06T17:04:23+00:00",
-      "image": ""
-    },
-    {
-      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
-      "published": "2026-11-06T16:08:38+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4gwg9bgmxLj_anXtQvOZdeKYWN-aAZxZqlOrI7wXwZ_qW_lUZrzwYufexnbDLcC20eXBkh7TgA-dAQHm6EEmEc80i9A6GOBGkiOb8NhcR1d1CFLKDLc7VJzyC4Bv-5Ye2AEE_ApPcKmAWqJJFfbQ2AOGffKhCPNznyYyz5s0Jro-mxcTxfxPoqRe-ZoY/s1600/wp-update.jpg"
-    },
-    {
-      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObFVrZk9kMVdsY3FjSTdrcmlDTUQ0RnZyampfSGRUOUdxUWtiM20yQm94RGx0aEpHWWF1eHl4dnM2bEw2Nk1YUWc3ZmtOaUxLbGtWdVh0QU5sR1JibGZHeXFFSGViRnBQU0pkc0h5VFZaRHE2eDR3Zy1xR0pYUURZbDhGdw?oc=5",
-      "published": "2026-11-06T16:08:00+00:00",
-      "image": ""
     }
   ]
 }
