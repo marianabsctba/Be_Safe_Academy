@@ -1,9 +1,54 @@
 {
-  "updated_at": "2026-11-09T22:31:06.815227+00:00",
+  "updated_at": "2026-11-10T07:30:19.587395+00:00",
   "items": [
     {
-      "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Google emite atualização de segurança do Chrome para o oitavo dia zero explorado ativamente de 2026",
+      "summary": "O Google lançou na segunda-feira atualizações para corrigir nove vulnerabilidades de segurança, incluindo uma que está sob exploração ativa em estado selvagem. A vulnerabilidade de alta gravidade, atribuída ao identificador CVE CVE-2026-125350 (pontuação CVSS:",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
+      "published": "2026-11-10T06:52:54+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjk5S9J891bQS8W6TgyoiEPQ7geGia8FqqWjckFlo9qMH2wXIXv-7gyod1XKUpI9BfgcliN2Re8A85rJ121jxqgfnw1LsjYBvAYtX7694GVgMF7B94G0n5MzqMaKqLAbr-No1nqrN0gyF8MFR_bYQIYlqiTh_FzobmWrq4NOCLbcW_78uEMMW5FE4eqJoo/s1600/chrome-0day.jpg"
+    },
+    {
+      "title": "N-able coloca a nuvem N-central off-line depois que pesquisador revela 33 dias zero com explorações de PoC",
+      "summary": "A N-able disse que colocou os ambientes hospedados N-central offline e está pedindo aos clientes locais que desliguem seus servidores até novo aviso após a divulgação pública de mais de 30 vulnerabilidades rastreadas coletivamente como Able2Shell. \"Como medida",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
+      "published": "2026-11-10T06:44:36+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-DkzHcZpJVVEU3e3wmGB2DiyRsnWXkf_2bfT1fiDJG4Wn92cartbhyphenhyphenqZHOjXGasigHqJAyXM0kjOlYipgEkahrCi9KGa1s8gpINVT-oFldgOc1bZMUQ-nmFqsSMNwIe6463fXOxSqX1dNroXgwn9MwsmCx41jvPdtdygITxfKyTRDUWKS19YVTFTZY8sr/s1600/n-able.jpg"
+    },
+    {
+      "title": "CISA alerta sobre exploração ativa de falhas do OpenSSH, GPUStack, FreeSWITCH e IBM",
+      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) adicionou na segunda-feira quatro falhas de segurança que afetam GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH e IBM Aspera Faspex ao seu catálogo de Vulnerabilidades Exploradas Conhecida",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
+      "published": "2026-11-10T06:31:42+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVAsrcYxVs8sJe7IiSD6WkTC4yPv0eLfup7dwcsS0NLcAAgoY__wyC3UFCR90PL2ziKCEW-vMNIEQXES-8uAG-MxuXlyIDdQGeNREm8yFv3tbvsCVXXRyRGT4ORirvcVKP_uD62XHYy9w3x_P0o7XzkguJPwq_1vV2jPxxnZWbhAHHUJ3YJ6HbTlXb0shyphenhyphen/s1600/openssh.png"
+    },
+    {
+      "title": "Patches de atualização do Chrome exploraram XML Zero-Day, oitavo neste ano",
+      "summary": "O uso pós-liberação de alta gravidade no componente XML do Chrome foi relatado anonimamente em 6 de novembro e já está sendo explorado em ataques. A postagem Patches de atualização do Chrome explorados XML Zero-Day, oitavo deste ano apareceu pela primeira vez ",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/chrome-update-patches-exploited-xml-zero-day-eighth-this-year/",
+      "published": "2026-11-10T06:12:24+00:00",
+      "image": ""
+    },
+    {
+      "title": "Universidade Vanderbilt atingida em ataque de ransomware BYOD, alegado roubo de dados",
+      "summary": "A Universidade Vanderbilt alerta que está respondendo a um ataque cibernético reivindicado pela gangue de ransomware BYOD, que afirma ter criptografado os bancos de dados da universidade e roubado dados confidenciais de alunos, funcionários e pesquisas. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+      "published": "2026-11-09T23:52:12+00:00",
+      "image": ""
+    },
+    {
+      "title": "Violação de dados do boletim informativo da SEGA expõe 2,2 milhões de endereços de e-mail",
+      "summary": "A gigante japonesa de jogos SEGA revelou que uma violação de dados em seu provedor terceirizado de boletins informativos, ARARA, expôs os endereços de e-mail de 2,2 milhões de assinantes de boletins informativos. [...]",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
@@ -11,8 +56,8 @@
       "image": ""
     },
     {
-      "title": "CISA Announces Enhanced Reporting Form for Cyber Incidents",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "CISA Anuncia Formulário de Relatório Aprimorado para Incidentes Cibernéticos",
+      "summary": "O novo questionário captura dados e informações críticas que melhoram a capacidade da agência de avaliar incidentes, identificar tendências e priorizar ações de resposta.",
       "category": "INCIDENTES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/cisa-announces-enhanced-reporting-form-cyber-incidents",
@@ -20,8 +65,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "N-able coloca a plataforma em nuvem off-line após mais de 30 “dias zero” publicados",
+      "summary": "A N-able colocou off-line seus ambientes N-central hospedados e pediu aos clientes locais que desligassem seus servidores depois que um pesquisador de segurança divulgou publicamente mais de 30 supostas vulnerabilidades de dia zero, incluindo explorações que p",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
@@ -29,8 +74,8 @@
       "image": ""
     },
     {
-      "title": "York University breach exposed personal information dating to 2007",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "A violação da Universidade de York expôs informações pessoais datadas de 2007",
+      "summary": "A Universidade de York anunciou que sofreu um incidente de segurança cibernética em que um agente de ameaça roubou informações pessoais enviadas por pessoas por meio de formulários online. [...]",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
@@ -38,8 +83,8 @@
       "image": ""
     },
     {
-      "title": "Microsoft Fixes RCE Bug in Windows Paint After Weeks of Confusion",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Microsoft corrige bug RCE no Windows Paint após semanas de confusão",
+      "summary": "No mês passado, a Microsoft divulgou uma vulnerabilidade no Microsoft Paint, mas as mensagens sobre um patch não eram claras.",
       "category": "VULNERABILIDADES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/application-security/microsoft-rce-bug-windows-paint-confusion",
@@ -47,8 +92,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8b872cbcbcd2dcf7/6af22bc90de73971ce9d3cd2/pink_paint-Olga_Yastremska-GettyImages-2289198696.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Black Hat India 2026 Makes a Landmark Debut in Bengaluru, Bringing the Global Cybersecurity Community to India",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Black Hat India 2026 faz uma estreia marcante em Bengaluru, trazendo a comunidade global de segurança cibernética para a Índia",
+      "summary": "A edição inaugural da Informa Markets na Índia reúne os principais pesquisadores, profissionais de segurança e tomadores de decisão do setor durante quatro dias de pesquisa de ponta, intercâmbio técnico e diálogo estratégico.",
       "category": "DEFESA",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cybersecurity-operations/black-hat-india-2026-landmark-debut",
@@ -56,8 +101,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "FORGE Lab uses agentic tools to identify memory safety issues in Rust",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "FORGE Lab usa ferramentas de agente para identificar problemas de segurança de memória em Rust",
+      "summary": "Os pesquisadores do Microsoft FORGE Lab encontraram bugs de segurança de memória nas bibliotecas principais e std do Rust, incluindo casos em que o código Rust seguro pode desencadear um comportamento indefinido. Usando Hyenas, a versão de pesquisa de fronteir",
       "category": "DEFESA",
       "source": "Microsoft Security",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/11/09/forge-lab-uses-agentic-tools-to-identify-memory-safety-issues-in-rust/",
@@ -65,8 +110,8 @@
       "image": ""
     },
     {
-      "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "França culpa hackers iranianos por ataques a supermercados que provocaram incêndios",
+      "summary": "A França relacionou os ataques cibernéticos de outubro, que interromperam os sistemas de refrigeração em mais de 700 supermercados e outros locais de varejo, a hackers apoiados pelo Estado iraniano, dizendo que os ataques causaram perdas de alimentos e provoca",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
@@ -74,8 +119,17 @@
       "image": ""
     },
     {
-      "title": "Attackers Crash Claude's 'Office Party' Flaw to Run Malicious Code on Linux",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Claude Flaw ameaça organizações Linux com execução de código malicioso - Dark Reading",
+      "summary": "Claude Flaw ameaça organizações Linux com execução de código malicioso Dark Reading",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVEk0c3pENWRsUDZWeUh3emY1UGpxRDB3aUdscXRtVmhycUZNS0hma1g0Ykp2aG1RdUc1Qk96eF9DNzhwSHVDWmhwZnVDVTNldTh6dVhRNWNNSEpFSC1QNjhVbmNEMFNMYzJ3RmRIbTJNZ2JUVy1QZW1RWHoxUjhPNUxKVG9IdDdxV3BRMDJlN04wejZqeFRTZzFFQnV0Tl9ybHY4?oc=5",
+      "published": "2026-11-09T18:12:27+00:00",
+      "image": ""
+    },
+    {
+      "title": "Os invasores destroem a falha 'Office Party' de Claude para executar código malicioso no Linux",
+      "summary": "Os invasores podem explorar uma falha na ferramenta de processamento de documentos de Claude criando um arquivo temporário que o assistente de IA da Anthropic pode acessar e executar na máquina do usuário.",
       "category": "VULNERABILIDADES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux",
@@ -83,8 +137,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt51641f3329337b62/6af209f8c974042ad49c3fce/office-Portra-GettyImages-1691188392_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Hackers exploram o acesso confiável da AWS da Qubole para violar contas de clientes e roubar dados",
+      "summary": "Um invasor invadiu contas da AWS pertencentes a vários clientes Qubole entre 14 e 26 de outubro e roubou segredos e dados armazenados, disse hoje a empresa de segurança em nuvem Wiz. O invasor usou credenciais de uma conta da AWS que a plataforma da Qubole usa",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
@@ -92,8 +146,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj3p_1P-Ko_l_HuUr2Doq9kJOQa3Y5dCrkiVWqjJXzvQfYgKvgJXyvdBqLH2hp7s_ZY2kk-hhaCQhjf_v9SdjSbNpaDV2Eohk6-NEFUZp_ROjMJf_Q1xUSKcrqNj-Dd5ZrfjV6uP1blo579IaZ6hgHxOFAUhyJVgdGop-KVIWCjWQIYOKku3iN1N1EIUk/s1600/aws-hacked.jpg"
     },
     {
-      "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Hackers exploram o acesso confiável da AWS da Qubole para violar contas de clientes e roubar dados - The Hacker News",
+      "summary": "Hackers exploram o acesso confiável da AWS da Qubole para violar contas de clientes e roubar dados The Hacker News",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52RTM1SDF4Vi1lUklSODAzVTUxdFFfSXh4LTI2bmZCV3NfV2kyVWEzVHZjZ0NYWGEteG5CQzJxekdGNkNuZU9jbVJ4SzB6T3p6d2FjOGtsTlVBN2tDTzZIQmtiT1hac2JGbERzRVlMSU12VDdYUVpZQmFDaUdKbGs?oc=5",
@@ -101,67 +155,13 @@
       "image": ""
     },
     {
-      "title": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Empresa de nuvem russa Beget se reconstrói do zero após ataque de limpeza de dados",
+      "summary": "Um ataque de malware para limpeza de dados forçou o provedor russo de serviços em nuvem Beget a reconstruir sua infraestrutura em nuvem do zero, disse a empresa. [...]",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
       "published": "2026-11-09T17:50:32+00:00",
       "image": ""
-    },
-    {
-      "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
-      "published": "2026-11-09T17:36:28+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4ZFiesBwDTk8fRRfKfNIw0lLkhqF6ZAExRxuuRtfRCWrxs6Rg7M5UdSIcJqH2zstViFreL30JMmdebYTlMOKvg4D6GvaS70XPdembzyIZoX2KBj_S3kxKWmBjJll4exWUYXrap9IDW_ugXHOux5jZXk44_v5xac1mxFouywezDcsGeMdLrGd1sJStMoo/s1600/bees.jpg"
-    },
-    {
-      "title": "PwC's CISO on AI, Robots & What's Next for Security",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "CLOUD & IA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security",
-      "published": "2026-11-09T17:17:23+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6ace2e1a111df3c2/6aee5059d31a318d0d477246/robots1800_kevin_winters_GettyImages-512935278.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Binance denies data breach after alleged ShinyHunters claims",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
-      "published": "2026-11-09T16:12:39+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
-      "published": "2026-11-09T16:04:57+00:00",
-      "image": ""
-    },
-    {
-      "title": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
-      "published": "2026-11-09T15:05:15+00:00",
-      "image": ""
-    },
-    {
-      "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
-      "published": "2026-11-09T14:31:29+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQwQpjbb2oT57o807l7YmQ31V2RbyxqqO4hENkKlfikKKH-LeqSUiYz5AaPCCFWml-l_RaN1JMiwbJa9lJe7z7Ijzdk66icRP70eETLZ7lLomkSa3JjezoxbRNeDEkTv0K-26dSzHKxAjc7xyLA9RbIiERPLqyRu5QzfyrPeyIA4dfLzMil5wDkYN9n4sG/s1600/command.jpg"
     }
   ]
 }
