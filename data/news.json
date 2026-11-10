@@ -1,166 +1,166 @@
 {
-  "updated_at": "2026-11-10T17:09:43.265364+00:00",
+  "updated_at": "2026-11-10T23:31:30.098554+00:00",
   "items": [
     {
-      "title": "A transparência do software está mudando: Allan Friedman sobre SBOM, AI BOMs e o que vem a seguir",
-      "summary": "O pioneiro do SBOM, Allan Friedman, juntou-se ao Podcast da SecurityWeek para discutir por que saber o que está dentro do software é apenas o começo, como a IA está complicando a visibilidade da cadeia de suprimentos de software e o que as organizações deveria",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/software-transparency-is-changing-allan-friedman-on-sbom-ai-boms-and-what-comes-next/",
-      "published": "2026-11-10T16:45:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Google amplia acesso ao Gemini 4 Carbon depois que agentes de IA verificam o código do sinal",
-      "summary": "O Google abriu o Carbon para desenvolvedores e empresas pagantes, já que a DeepMind usou agentes criados nele para provar as garantias de segurança do libsignal. A postagem Google amplia o acesso ao carbono Gemini 4 depois que agentes de IA verificam o código ",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/",
-      "published": "2026-11-10T16:42:02+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falha crítica de desvio de autenticação do Xen Orchestra explorada para sequestrar servidores VM",
-      "summary": "Uma vulnerabilidade crítica de desvio de autenticação no Xen Orchestra está sendo explorada ativamente em ataques que podem conceder privilégios de administrador e permitir o controle de hosts de virtualização XCP-ng. [...]",
+      "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
-      "published": "2026-11-10T16:17:16+00:00",
-      "image": ""
-    },
-    {
-      "title": "Atacantes exploram falhas do AhsayCBS para implantar backdoor Python que evita sandbox",
-      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de um ataque que explorou duas vulnerabilidades agora corrigidas no AhsayCBS para entregar um implante baseado em Python. A atividade, observada pela Huntress em outubro de 2026, envolve a exploração d",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
-      "published": "2026-11-10T16:00:55+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT-Z8hFA8uMe4HXLf_4QRk4Z4VLuUCDRL89LcgpXfsj9YAwLsLHIZL46pn2SLz0BBhCKPUKBhChDRRsKYPSkZPwmsDIhozGQ-4YemxOSol0AiwBEgtGX9OSZ_L3SQZVoebBX1fWGkh8TQ_hNVYHho0eCrBQzLlhnjPhhymXqcWePyuhdQDCMb6KJi6pmIe/s1600/cbs.jpg"
-    },
-    {
-      "title": "Binance alerta sobre falha do iOS que pode vazar segredos da carteira criptografada",
-      "summary": "Binance está alertando sobre uma vulnerabilidade no iOS 26.7.1, 27.0.1 e 27.2 da Apple que pode permitir que aplicativos de terceiros leiam arquivos privados armazenados por outros aplicativos, incluindo frases iniciais de criptomoeda, chaves secretas e creden",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
-      "published": "2026-11-10T15:59:19+00:00",
-      "image": ""
-    },
-    {
-      "title": "Blind Eagle usa avisos judiciais falsos para distribuir Trojan de acesso remoto em toda a América Latina",
-      "summary": "O ator de ameaça conhecido como Blind Eagle ressurgiu com uma nova campanha visando organizações na América Latina por meio de iscas de phishing com temas judiciais e administrativos para entregar um trojan de acesso remoto (RAT) que compartilha sua linhagem c",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
-      "published": "2026-11-10T15:58:44+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs4UHnKTj_NJCPa7Jqdntj8tEvZ2PgaY7s9kKK8_X2bxehTUcJeZPFfguJzvW_D0H9XD_q-qLZV2Qq6hqRYDQRYMXpyAzw-6T2yDjFjIY7zhGRLPDPjOalASUgX_Z-M2cEsNqiuys_4QjQ8vY_xl0fnWi2Y_9tT9aAH0WQOAB3D6uDf8yZY8VuphL4TRFG/s1600/court-phish.jpg"
-    },
-    {
-      "title": "A violação do Fireworks AI se amplia para expor dados de faturamento do cliente e pesos de modelo incompletos",
-      "summary": "A Fireworks AI divulgou na segunda-feira que sua investigação sobre um incidente de segurança relatado pela primeira vez no início do mês passado descobriu mais atividades maliciosas, afetando informações de contas e cobrança, juntamente com segredos, conjunto",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
-      "published": "2026-11-10T15:33:59+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-mBJN_E4CjW3MXyjYYdeCGcyR052aVnG3uUWjaEfafvPAdatcJhn9LbtngqXBb5JsVwJVoorc8i41nTbYR9UcwVrwWNzU-WAfVk2yL32hYW1elVMJtwauW53nhRG37EwbovnFCW8InensI8tKoR9pqcWnZx54t6xOU_HsjjR9KWTLwVr_MBcknFeGShZU/s1600/fire.jpg"
-    },
-    {
-      "title": "A recuperação de ransomware agora é uma métrica de retenção de clientes",
-      "summary": "A recuperação do ransomware não garante que um MSP reterá seus clientes, especialmente quando atrasos, comunicação deficiente e custos inesperados minam a confiança. A Kaseya examina como as ferramentas de recuperação desconectadas criam esses problemas e como",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
-      "published": "2026-11-10T15:01:11+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hoje: CISO Forum Virtual Summit 2026 – Junte-se aos líderes globais de segurança cibernética",
-      "summary": "Projetado para líderes de segurança cibernética, este evento virtual envolvente de dois dias é o seu principal destino para discutir, compartilhar e aprender estratégias inovadoras de gestão de risco e defesa que definem a empresa moderna. A postagem Hoje: CIS",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
-      "published": "2026-11-10T15:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "WhiteMatter levanta US$ 20 milhões em financiamento da Série A",
-      "summary": "A startup de segurança cibernética implanta um agente guardião dedicado para cada agente de IA no ambiente de uma organização. A postagem WhiteMatter levanta US$ 20 milhões em financiamento da Série A apareceu pela primeira vez na SecurityWeek.",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/",
-      "published": "2026-11-10T14:58:19+00:00",
-      "image": ""
-    },
-    {
-      "title": "SAP corrige vulnerabilidades críticas de ICM2SHELL e ProxyGate",
-      "summary": "A SAP publicou 42 comunicados de segurança novos e atualizados, incluindo nove que abordam vulnerabilidades de gravidade crítica. O post SAP Patches Critical ICM2SHELL, Vulnerabilidades ProxyGate apareceu pela primeira vez em SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/sap-patches-critical-icm2shell-proxygate-vulnerabilities/",
-      "published": "2026-11-10T14:46:28+00:00",
-      "image": ""
-    },
-    {
-      "title": "Mais de uma dúzia de organizações atingidas no ataque à cadeia de suprimentos Qubole",
-      "summary": "Os hackers usaram credenciais Qubole IAM comprometidas para roubar arquivos, segredos, chaves, variáveis ​​de ambiente e credenciais de clientes. A postagem Mais de uma dúzia de organizações atingidas no ataque à cadeia de suprimentos Qubole apareceu pela prim",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack/",
-      "published": "2026-11-10T13:27:44+00:00",
-      "image": ""
-    },
-    {
-      "title": "A IA torna o software e o malware convencionais de engenharia reversa muito mais fáceis",
-      "summary": "Os pesquisadores descompactaram, mapearam e recriaram software complexo e o malware Turla, levantando novas preocupações para os defensores.",
-      "category": "AMEAÇAS",
       "source": "Dark Reading",
-      "url": "https://www.darkreading.com/application-security/ai-reverse-engineering-apps",
-      "published": "2026-11-10T13:00:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt50398014b3f8049d/6aee2b328988653fd1de4aef/Binary-PashaIgnatov-Getty.jpg?width=720&quality=80&disable=upscale"
+      "url": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
+      "published": "2026-11-10T22:26:51+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt033b67685e64cff8/6af3980e4e01486fb09958c1/thanksgiving-Gurol_Tuna-GettyImages-2248720649.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Anthropic lança Mythos 5.2 com caça a insetos aprimorada e menos fugas de sandbox",
-      "summary": "A Anthropic diz que o Mythos 5.2 melhora a descoberta de vulnerabilidades, ao mesmo tempo que mostra uma menor tendência de escapar de sandboxes em testes controlados. A postagem Anthropic lança Mythos 5.2 com caça de bugs aprimorada, menos fugas de sandbox ap",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/anthropic-rolls-out-mythos-5-2-with-improved-bug-hunting-fewer-sandbox-escapes/",
-      "published": "2026-11-10T12:17:13+00:00",
-      "image": ""
-    },
-    {
-      "title": "SAP corrige falhas de gravidade máxima ICM2SHELL e PROXYGATE",
-      "summary": "A SAP corrigiu 35 vulnerabilidades em suas atualizações de segurança de novembro de 2026, incluindo quatro problemas de gravidade máxima que afetam seus softwares NetWeaver, Web Dispatcher e Gateway. [...]",
+      "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
-      "published": "2026-11-10T12:07:03+00:00",
+      "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+      "published": "2026-11-10T22:20:19+00:00",
       "image": ""
     },
     {
-      "title": "Além do alerta: o caso dos dados de rede ricos",
-      "summary": "Em algum momento sua segurança irá falhar. Isso não é pessimismo. Não é porque sua equipe e suas ferramentas não sejam sofisticadas o suficiente. É a razão pela qual temos detecções em primeiro lugar. E é por isso que, uma vez aceito que a prevenção tem limite",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
-      "published": "2026-11-10T11:38:13+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2keP-LKMaj66fcb6TF9mNwdN01ndHv16r6WcnXbXwTwCNvUJXDxuyG_WacuYRt2DNFA7Fy_Hb4cyDvXeRsWrUWrql4RyMK4dD9s2adlVOnPWyR04wDmPu5jUlZL3-kGiDgPY2NU8yptKV1o21Wsuyu6IOSxico18zjLqDNLoA1bkl_DheKZevChrO6ZE/s1600/Corelights.jpg"
+      "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "KrebsOnSecurity",
+      "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
+      "published": "2026-11-10T21:55:03+00:00",
+      "image": ""
     },
     {
-      "title": "Apple corrige falhas de privacidade de bate-papo em grupo do iMessage e vulnerabilidades de emparelhamento Bluetooth",
-      "summary": "Uma falha no iMessage poderia permitir que um invasor remoto participasse de um bate-papo em grupo e recebesse suas mensagens, disse a Apple ontem, e lançou atualizações para corrigi-lo. As atualizações também corrigem uma falha separada do iMessage que pode p",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
-      "published": "2026-11-10T10:16:51+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUM6RGvSNUqube0TIXYpzHhs7uSvT0k28f2Q8s-GVOexnCI4T5mzFMUs3Lz4_aS6gNuS71DSTvtfOO-tfVFXvVu82pBmj5gO5_jO5g1ndVQQX8xjBY8A_IDAVNkO7oE1s5FRyEsxXQ_HEM_5_KI4g9VWN8BLgCmQTS1DaFt6lRlfgEJMsxyC5bxQW1qhM/s1600/apple-patch.jpg"
+      "title": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon",
+      "published": "2026-11-10T21:01:14+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte1b65168e9679e0a/6af379bdf986ff173e0a7def/Lock_with_target-Alena_Butusava-GettyImages-2263307877.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Apple corrige falhas de privacidade de bate-papo em grupo do iMessage e vulnerabilidades de emparelhamento de Bluetooth – The Hacker News",
-      "summary": "Apple corrige falhas de privacidade de bate-papo em grupo do iMessage e vulnerabilidades de emparelhamento de Bluetooth The Hacker News",
+      "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
+      "published": "2026-11-10T20:54:55+00:00",
+      "image": ""
+    },
+    {
+      "title": "Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "CLOUD & IA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer",
+      "published": "2026-11-10T20:35:34+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "How to Assess OT Incident Response Preparedness",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness",
+      "published": "2026-11-10T20:18:43+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Microsoft releases Windows 10 KB5131096 extended security update",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
+      "published": "2026-11-10T20:04:36+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
+      "published": "2026-11-10T19:31:11+00:00",
+      "image": ""
+    },
+    {
+      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBRQnNTMjFQRW1FNWFfcFhILTNyQUFXMlZnNUIwczhzV0ROak0xOU9BYXZuOUZqU0xuUXR3OE9OUXA2ZURkcGxMeC1UVjhKRVN0T25LYlhEN21acUlnWXhCZjhDb0NtVHdHY19jWnRUR2FIOTBjWkJqdzR3ekM?oc=5",
-      "published": "2026-11-10T10:16:00+00:00",
+      "url": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+      "published": "2026-11-10T19:23:10+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipoPlLYj_xfJ8bsfRTONwa3estE9I2un_9OBx2fVuxEp-zoiADgipn-gGOeU4TqqyjqjrCpoGXC4jmuF7o1e_PUMbr-QoHDdPZEDWavb4VbjtWbOxMfmz-E9fIPT2DHEXYCN53l2jtiJGVfEFjHsR8gaHeyF59Yii0oTnP73vaslLWPzuideEGxTy6S9U/s1600/gits.jpg"
+    },
+    {
+      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZTh2WHFSUXJfbEJCaFNDaUUzTmpTMjljenJPTWdHRHhnNjZUOGFraktSMHVKUHlFcXJWQmg1aHRHdzY3eWlOMGZ6OWIzODk0Sng4a0R6UWk1SFZKU2htTXBad3M0VktidF9uc1N4c19USklTR2VfZmZjNUE2R2g3LQ?oc=5",
+      "published": "2026-11-10T19:23:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
+      "published": "2026-11-10T19:19:46+00:00",
+      "image": ""
+    },
+    {
+      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+      "published": "2026-11-10T19:19:39+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifQOwa1ngLZRATbbZyg_iud4SNx-9ugjo2iOG6crnJzatc_uS9FjGScBnNUy-uNIuOEE3Y6kJTpUVMVtOR1bW5sse_pRNJA1SQALCGjshDx6-CF1t8HXlUI2CCb6yp7Uepz6uk3ctMLUlSx4Q36Q7pZcx1nb9wPgbYAZqvd6CnSJ6WM6Kn_ZENtHpESoM/s1600/nearai.jpg"
+    },
+    {
+      "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
+      "published": "2026-11-10T19:07:36+00:00",
+      "image": ""
+    },
+    {
+      "title": "AI Coding Agents Leak Thousands of Secrets to GitHub",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github",
+      "published": "2026-11-10T18:46:22+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt048c697c8a84cb6c/6af31954c9740413639c4243/Gorodenkoff-developer-coding-shutterstock.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
+      "published": "2026-11-10T18:33:26+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
+      "published": "2026-11-10T18:12:21+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMH_u7t-U3KIejAItsfC_js20xJgxT2ITYLsR0DAxzfcwDvPrzBHkpZlDuALWPnACOoknX2IALwHIUxIzfhbA24M7e8cGWTZpBMWqpX-wn6xqe8_U3fAtnR-9RsRdFHMCjvNnBsMXrEUKhVYS5bbTGL3B50UMO0aydtHIomY89s2iDAQMq0jXJJ3vh4Nvi/s1600/XEN-attack.jpg"
+    },
+    {
+      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa2Q2SXBGZ2J0N21BMjFxVVV1TFV0RUlqOXg1THNyVXNHbFlhOHd5VXpSU05OTHZ1UHd4b2FrZG9mdXNweEZDTnlsVjZfU3NoaldVN1VnYnBxdnBaUFotVzNmOWh5b2FBcXdxQ3dtRXJtTVlHX0llUFRlZUZ2ODdrUFhzbw?oc=5",
+      "published": "2026-11-10T18:12:00+00:00",
       "image": ""
     }
   ]
