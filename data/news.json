@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-11-10T23:31:30.098554+00:00",
+  "updated_at": "2026-11-11T06:43:34.093087+00:00",
   "items": [
+    {
+      "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+      "published": "2026-11-11T06:04:02+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4aXykaOroazGO_7IuXugse9ynGpt1PkKJDM8lKL4by93ixX28cs23KAZZRF2dCN2cogu1ti8q5kmqfqSBLmOXWkVi7ZGWmwYMkeCOUXsOXwLoF07FbzmVnlr9DoeqtCboI_9LKWgohgWi2jIB1TzGO6uEkp5lsMnq5fSVqrN-NZGJjAQE2kIUyHsdkw6J/s1600/cisa-cisco.jpg"
+    },
+    {
+      "title": "Microsoft Patch Tuesday for November 2026 — Snort rules and prominent vulnerabilities",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "Cisco Talos",
+      "url": "https://blog.talosintelligence.com/microsoft-patch-tuesday-for-november-2026/",
+      "published": "2026-11-11T01:41:17+00:00",
+      "image": ""
+    },
+    {
+      "title": "Detecting sleeper agents hiding in AI model neurons",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/10/detecting-sleeper-agents-hiding-in-ai-model-neurons/",
+      "published": "2026-11-10T23:00:00+00:00",
+      "image": ""
+    },
     {
       "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
@@ -110,6 +137,15 @@
       "image": ""
     },
     {
+      "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft - SecurityWeek",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONmpKRUg4TkR2ZnBwU1RzV0YxUW5VYkFZTThBdFhiZDlpT2R2Y1BlZURScDBNM1pyTjhXT2dzZTJoX3FLTDAyY2JZNFlyYXJVbFFHTTJ1U29YdTVwU09oYVJvTU42UnpWc1ZES2Vjc2JkNzBwQlpVdVF2VHVMd09UeHp0M0YwU0UyRy11bXNPWFB2aXptTTNNX2tR?oc=5",
+      "published": "2026-11-10T19:19:46+00:00",
+      "image": ""
+    },
+    {
       "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
       "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
@@ -125,42 +161,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
       "published": "2026-11-10T19:07:36+00:00",
-      "image": ""
-    },
-    {
-      "title": "AI Coding Agents Leak Thousands of Secrets to GitHub",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github",
-      "published": "2026-11-10T18:46:22+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt048c697c8a84cb6c/6af31954c9740413639c4243/Gorodenkoff-developer-coding-shutterstock.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
-      "published": "2026-11-10T18:33:26+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
-      "published": "2026-11-10T18:12:21+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMH_u7t-U3KIejAItsfC_js20xJgxT2ITYLsR0DAxzfcwDvPrzBHkpZlDuALWPnACOoknX2IALwHIUxIzfhbA24M7e8cGWTZpBMWqpX-wn6xqe8_U3fAtnR-9RsRdFHMCjvNnBsMXrEUKhVYS5bbTGL3B50UMO0aydtHIomY89s2iDAQMq0jXJJ3vh4Nvi/s1600/XEN-attack.jpg"
-    },
-    {
-      "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa2Q2SXBGZ2J0N21BMjFxVVV1TFV0RUlqOXg1THNyVXNHbFlhOHd5VXpSU05OTHZ1UHd4b2FrZG9mdXNweEZDTnlsVjZfU3NoaldVN1VnYnBxdnBaUFotVzNmOWh5b2FBcXdxQ3dtRXJtTVlHX0llUFRlZUZ2ODdrUFhzbw?oc=5",
-      "published": "2026-11-10T18:12:00+00:00",
       "image": ""
     }
   ]
