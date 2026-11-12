@@ -1,9 +1,108 @@
 {
-  "updated_at": "2026-11-11T17:16:52.806700+00:00",
+  "updated_at": "2026-11-12T00:51:22.113040+00:00",
   "items": [
     {
-      "title": "Today: CISO Forum Virtual Summit 2026 Day 2 – Join Cybersecurity Leaders Online",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Japão impulsiona financiamento de emergência para segurança cibernética à medida que aumentam as violações assistidas por IA",
+      "summary": "O pacote acrescenta equipes de resposta cibernética público-privadas, uma equipe focada em IA dirigida pelo Ministério da Economia e mais margem de manobra para usar os novos poderes ativos de defesa cibernética do governo.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
+      "published": "2026-11-12T00:00:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc3d52fd595b74813/6af39e0cb6c48b43d1f3dedb/musashi-kojiro-attack-defense-statues-GARAGE38-shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Baker Tilly notifica clientes sobre violação de dados em provedores terceirizados",
+      "summary": "O Baker Tilly Advisory Group está notificando os clientes de que uma violação de dados comprometeu certas informações pessoais sobre eles e seus dependentes. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+      "published": "2026-11-11T23:01:31+00:00",
+      "image": ""
+    },
+    {
+      "title": "Ataques ativos do ScreenConnect violam MSPs e impactam dezenas de organizações",
+      "summary": "ConnectWise está investigando uma campanha ativa de malware direcionada a provedores de serviços gerenciados (MSPs) que usam ambientes ScreenConnect comprometidos para implantar clientes de acesso remoto não autorizados em dispositivos de clientes. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+      "published": "2026-11-11T22:56:21+00:00",
+      "image": ""
+    },
+    {
+      "title": "Atacantes dizem ‘olá’ para uma escala diferente de ataque à nuvem",
+      "summary": "Os pesquisadores apelidaram uma cadeia de ataque de “Greeter” depois de descobrirem que os invasores cobriram deliberadamente seu rastro, deixando mensagens de “olá” nos registros.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack",
+      "published": "2026-11-11T21:44:04+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt10d089cc23c19918/6af23c18ddd4d34d271f90a5/GettyImages-511970077.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "eMudhra revoga mais 8 certificados CA após acidente de chave privada",
+      "summary": "A autoridade de certificação eMudhra revogou oito certificados de CA intermediários adicionais depois que uma investigação sobre seu recente incidente de segurança de certificado descobriu o manuseio inadequado de chaves privadas durante o processo de geração ",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+      "published": "2026-11-11T21:27:40+00:00",
+      "image": ""
+    },
+    {
+      "title": "IA aumenta os riscos para a resiliência cibernética",
+      "summary": "A capacidade de uma organização recuperar rapidamente de uma interrupção nos negócios será uma vantagem competitiva numa era de ameaças impulsionadas pela IA e de capacitação empresarial.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience",
+      "published": "2026-11-11T21:20:41+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcc4e8093ca09a7aa/6af4d41325a88f7635e2ef35/resops_Sohan_stock_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Notion diz que a violação do Fireworks expôs transcrições de bate-papo de IA do cliente",
+      "summary": "A Notion, a plataforma de espaço de trabalho digital, revelou que uma violação de segurança em seu provedor de infraestrutura de IA, Fireworks AI, expôs transcrições de bate-papo da Notion AI em um pequeno número de espaços de trabalho. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+      "published": "2026-11-11T20:54:20+00:00",
+      "image": ""
+    },
+    {
+      "title": "N-able coloca a plataforma N-central off-line após descoberta de 33 falhas",
+      "summary": "O provedor RMM também lançou um hotfix como uma das mitigações recomendadas para lidar com explorações públicas para os supostos dias zero que permitem a tomada de controle por invasores.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws",
+      "published": "2026-11-11T20:05:18+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1eb3a07d69de328b/6af4605e4c33022b5dec789d/RMM_panthermedia_Alamy.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "O soquete global: como os agentes de ameaças estão transformando o GSocket em arma para C2 furtivo",
+      "summary": "Os atores da ameaça estão implantando o GSocket em servidores Linux comprometidos para manter o acesso remoto criptografado após a vulnerabilidade original ser corrigida. Aprenda como detectar, investigar e corrigir essa atividade. A postagem O soquete global:",
+      "category": "VULNERABILIDADES",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/",
+      "published": "2026-11-11T19:49:57+00:00",
+      "image": ""
+    },
+    {
+      "title": "Quem dirige o grupo de ransomware Qilin?",
+      "summary": "O grupo de crimes cibernéticos Qilin emergiu como o programa afiliado de ransomware mais ativo do mundo, reivindicando pelo menos 365 organizações vítimas apenas nos últimos três meses. Mas mesmo os principais hackers russos cometem erros de segurança operacio",
+      "category": "AMEAÇAS",
+      "source": "KrebsOnSecurity",
+      "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
+      "published": "2026-11-11T18:06:01+00:00",
+      "image": ""
+    },
+    {
+      "title": "Lições de 59 relatórios de bugs do kernel Linux",
+      "summary": "Os pesquisadores do Microsoft FORGE Lab usaram o codinome MDASH para investigar vulnerabilidades do kernel Linux, resultando em 59 relatórios de bugs upstream, 33 CVEs atribuídos e 38 correções mescladas. A pesquisa inclui oito explorações demonstradas de esca",
+      "category": "VULNERABILIDADES",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/11/lessons-from-59-linux-kernel-bug-reports/",
+      "published": "2026-11-11T16:55:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hoje: CISO Forum Virtual Summit 2026, dia 2 – Junte-se aos líderes de segurança cibernética online",
+      "summary": "Projetado para líderes de segurança cibernética, este evento virtual envolvente de dois dias é o seu principal destino para discutir, compartilhar e aprender estratégias inovadoras de gestão de risco e defesa que definem a empresa moderna. A postagem Hoje: CIS",
       "category": "DEFESA",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
@@ -11,8 +110,8 @@
       "image": ""
     },
     {
-      "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Maersk confirma violação de dados enquanto ransomware WhiteArmor exige US$ 5 milhões",
+      "summary": "A Maersk anunciou que um agente de ameaça obteve acesso não autorizado a um sistema legado local herdado de uma aquisição anterior e extraiu dados dele. [...]",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
@@ -20,8 +119,8 @@
       "image": ""
     },
     {
-      "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Falha crítica no local de trabalho do Zoom pode permitir escalonamento de privilégios remotos não autenticados",
+      "summary": "A Zoom lançou atualizações de software para solucionar duas falhas de segurança que afetam o Zoom Workplace para Windows, incluindo um bug crítico que pode resultar no aumento de privilégios nos sistemas afetados. As vulnerabilidades estão listadas abaixo - CV",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
@@ -29,8 +128,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhox0GUms6IXvet2jPVoQ5VlUIZ_V7C3iT4HI3qV-Pi7_KRybDyGKGlb2S0Z4uvih4ERjjnGOn9Prav0HpvqNNR3_HVs7W5o0wM0-XsTdp6ploM2Optp5ls97C0JU5DIqubY-lNcLvLia25Z2c__IZt8Ws1OjX0tGavbyvb_dXrltSKj-HJHijQJ9AdDxEB/s1600/zoom-prv.jpg"
     },
     {
-      "title": "Critical Xen Orchestra Flaws Exploited in Attacks",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Falhas críticas da Orquestra Xen exploradas em ataques",
+      "summary": "Um desvio de autenticação crítico permite que invasores executem código arbitrário como administrador e assumam o controle de nós XCP-ng. O posto Falhas críticas da orquestra Xen exploradas em ataques apareceu pela primeira vez na SecurityWeek.",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/",
@@ -38,8 +137,8 @@
       "image": ""
     },
     {
-      "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Plataforma AntiFox AI Pentesting vinculada a ataques que acessaram segredos de produção da AWS",
+      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma campanha na qual uma plataforma emergente de testes de penetração de agentes chamada AntiFox foi usada para roubar credenciais da Amazon Web Services (AWS) e migrar lateralmente para ambientes c",
       "category": "INCIDENTES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
@@ -47,8 +146,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi08pEbJ7-HNwC0kJf517wnB6y8HwgKhMU-vxbhnCEh9KpWk1kmIjp_bb71k7GYfiTZNep3bcejvN7RmriF9_0RJnGGe9T5WB_nihCgxiDYOMl8mgDmI0Pm6ZFmPzf8HulQUxHjX3TncwmvqJIDPLyZBoHZpOahcMl7fehtwvT-oCxLzPec-KRtiScHT7wk/s1600/aws-secrets.jpg"
     },
     {
-      "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Plataforma AntiFox AI Pentesting vinculada a ataques que acessaram segredos de produção da AWS - The Hacker News",
+      "summary": "Plataforma AntiFox AI Pentesting vinculada a ataques que acessaram segredos de produção da AWS The Hacker News",
       "category": "INCIDENTES",
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY3pkdkZYRzZmS0I3TXBnQ19ETWkwekNVOVdIam84Wnd5VkhncUxsRWlFWF9PZ1FPV3V4RzZud3ZuYVRSMkVkVkVYR29lY2ZUTHh2YzdIZVhMRlNPYklOaC15bl9jSk5JSGI2RkR4ZTZiOTZna2VhOFp4anJMQUtaWkFB?oc=5",
@@ -56,112 +155,13 @@
       "image": ""
     },
     {
-      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Hackers usam agentes AntiFox AI em ataques de roubo de credenciais da AWS",
+      "summary": "Os invasores estão usando o Alibaba Cloud para hospedar instâncias autogerenciadas do AntiFox, uma plataforma de teste de penetração de agente de código aberto, para atingir serviços da web e ambientes AWS. [...]",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
       "published": "2026-11-11T15:12:59+00:00",
       "image": ""
-    },
-    {
-      "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
-      "published": "2026-11-11T15:01:11+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
-      "published": "2026-11-11T14:01:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5L1m-CqPOrgk9otByC4blBWuqDylovaSyHYhirRHQvzjjSUB0DBWbxnF_8cNIsONC6yoL3h-ydX61vmnsctKr_IbcnvmwRLAMqch16Ru5oMVuDWy1bilEt6EAgEerB7mUxICRgck1NkoJeA7Y2lvV0oqLkw12-f1xMhC7Dw5F1aK35NhVf3oZwj4WbfOT/s1600/qliksense.jpg"
-    },
-    {
-      "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRTFFWWJpcm1qeEJkSTJrV2wwVEUyVGkwVGJKbWg4SGNkUklDQnZPQ0xkWlNkbDZnX3Z2VGVFalllVGxoT3JEVG5BV3E2THBTUm5VSk9YbjlZbVpEOXZ1MWJtY2tCRUJfVElranJSN0R4Q0JTTFp0dkVCdmwzd0pQa1o0WQ?oc=5",
-      "published": "2026-11-11T14:01:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Asus, Zoom Release Security Patches",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/asus-zoom-release-security-patches/",
-      "published": "2026-11-11T13:58:38+00:00",
-      "image": ""
-    },
-    {
-      "title": "Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/",
-      "published": "2026-11-11T13:37:19+00:00",
-      "image": ""
-    },
-    {
-      "title": "N-able releases security hotfixes for zero-day vulnerabilities",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
-      "published": "2026-11-11T12:32:27+00:00",
-      "image": ""
-    },
-    {
-      "title": "Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/",
-      "published": "2026-11-11T12:24:33+00:00",
-      "image": ""
-    },
-    {
-      "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
-      "published": "2026-11-11T12:19:40+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh54t26Pk-bNbcIXgu8KrKpT_zN1KxEov16xTFlJ8kiPJ3-btXjGUE1lb0ZpamQU5jUHwmxzxHpYLsAQfiaHQUu3gxCIUw2gsEYNwMjL6nRm_jWm6t_VdHJkz6xj3fAsmTZKP8Bbax1qdT98a_PY4ynv81njiDyPXvIIihl4dqXxxC9pMMf8-Mn9dziy_A/s1600/grokai.jpg"
-    },
-    {
-      "title": "Fortinet Patches Nearly 100 Vulnerabilities",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/",
-      "published": "2026-11-11T12:10:14+00:00",
-      "image": ""
-    },
-    {
-      "title": "Fortinet Patches Nearly 100 Vulnerabilities - SecurityWeek",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UelRxSU1jdWw0NjNuRXY1SWFPUF9LdGt2M2xpY1h2b3dtcUI5RDIzRzZSUDB0dGRDV0ZORUlmMWRkZTlDN3k2MG0tdUNoTkFFamY0TnRNcUtuV19FY3BCMUlMRkFuNGJRei0wRE5uNkpPQU1BY0UyUm9zQVJzdw?oc=5",
-      "published": "2026-11-11T12:10:14+00:00",
-      "image": ""
-    },
-    {
-      "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "CLOUD & IA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
-      "published": "2026-11-11T12:01:59+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB22NtEOE6ioVcc92S5bLfFX3tbKyjNkx0j8OmHekqWq6Od4h9DtFmbmdd74VzwHCh5h6NbWnBgHgKzC49DwS7QAgA0uH3eL7BvBnN9QJu3U5-oiy5ZFMN7PvaJTBqjP7TR5VMjzrGxjfOfjgBqs3lecFZnWGEYNDp_BJgklco1L_acBqGm1M_CvtfLaY/s1600/AI-AGENT.png"
     }
   ]
 }
