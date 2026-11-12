@@ -1,166 +1,166 @@
 {
-  "updated_at": "2026-11-12T11:30:04.603405+00:00",
+  "updated_at": "2026-11-12T20:06:28.502578+00:00",
   "items": [
     {
-      "title": "Notion Customer Data Compromised in Fireworks AI Hack",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/",
-      "published": "2026-11-12T11:08:52+00:00",
-      "image": ""
-    },
-    {
-      "title": "Inside an AI Attack Against a US Retailer",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer",
-      "published": "2026-11-12T11:00:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte38664ed1dd3c978/6af4c35c1e561a1b3aa196c5/broken_lock-TU_IS-GettyImages-1369792495.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Hackers Deploy Malware in Fresh ScreenConnect Campaign",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/",
-      "published": "2026-11-12T10:39:34+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft confirms Windows security updates installation issues",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
-      "published": "2026-11-12T10:24:07+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers Target N-central Zero-Days as N-able Rushes Patches",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/",
-      "published": "2026-11-12T09:39:55+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers plant GSocket on Linux servers for persistent access",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Novo N-able “4EverAble2Shell” explorado de dia zero horas após o lançamento do PoC",
+      "summary": "Os hackers estão explorando ativamente uma vulnerabilidade de dia zero N-able N-central recém-divulgada chamada \"4EverAble2Shell\" para comprometer servidores e implantar mineradores de criptomoedas, com pesquisadores relatando pelo menos 21 sistemas afetados, ",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
-      "published": "2026-11-12T09:38:00+00:00",
+      "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+      "published": "2026-11-12T19:51:16+00:00",
       "image": ""
     },
     {
-      "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Servidor HTTP Apache corrige falha crítica de execução remota de código HTTP/2",
+      "summary": "Uma vulnerabilidade crítica no módulo HTTP/2 do Apache HTTP Server pode ser explorada por um invasor não autenticado para obter execução remota de código (RCE). [...]",
       "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+      "published": "2026-11-12T19:12:55+00:00",
+      "image": ""
+    },
+    {
+      "title": "Webinar: veja como os pontos cegos de identidade colocam seu SOC em risco e como fechá-los",
+      "summary": "As equipes de segurança têm mais alertas, registros e ferramentas de monitoramento do que nunca. No entanto, quando ocorre um ataque, uma pergunta simples ainda pode demorar muito para ser respondida: quem ou o que está por trás dessa atividade e o que eles po",
+      "category": "INCIDENTES",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
-      "published": "2026-11-12T09:25:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6RJLDSM13MwenwxG4xnZ-Td2_zmnya-Y39FLHlNk-7P3hZ5w1qGjG3XFqT-4gaeZIxSepWWNM53bKTIkZBNA-X_tVKsrgWbw8u81mjLzL6dXvTtvKfKeT-FkwSz4CsdMoHNza2NRFy0PJzzmaMROCr3D7e6AKT5UR3Lh4zFb_1w9HMmXXKKvATVWHU-E/s1600/mongo-poc.gif"
+      "url": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+      "published": "2026-11-12T18:07:15+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj765JyAl658UR5d1raKFLJmZpxXuof0-wBCobeJwnWjWZROTa4wtMyPvTTjBr4-ccE0cmKpIyGT1BetlqUPkPS_omcKVWz7RcCv6sUl2h6KxXrem_X26kzrp7kwq8bSezUsYMa6h2JNh-rPglsuNnRzt6i3IdzBjkLFNBNy5-Y0jId2B6Zhyir_jdm8O4/s1600/sails.jpg"
     },
     {
-      "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMDBfekFQb0pMZmFRY2kzUmVmUEZFUldTQjNsSjBlMkF4Rl9TalJIaG9BOXB6NXIzd01hSFBNbndHbGxRY29hamppTUt3UEh4X1I0RUc0MUt2bThNeTlMVGxXRWk1TXdRQi1yVXJWNThQNTdodkRWaURhOTc5eTdrWWdMb2w?oc=5",
-      "published": "2026-11-12T09:25:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Critical Red Hat Quay Vulnerability Could Expose Private Container Images",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/",
-      "published": "2026-11-12T09:23:21+00:00",
-      "image": ""
-    },
-    {
-      "title": "Maersk Confirms Data Theft Amid $5 Million Extortion Attempt",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "ThreatsDay: 59 bugs do kernel Linux, Falcon Spyware, GSocket Backdoors + 17 mais histórias",
+      "summary": "Um resultado de pesquisa nem sempre é seguro. Uma solicitação de acesso nem sempre é inofensiva. E uma conta familiar nem sempre significa que uma pessoa conhecida a esteja usando. Coisas simples para lembrar. No entanto, uma parte surpreendente dos problemas ",
       "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
+      "published": "2026-11-12T18:02:51+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpHFMwpmKB3Mn6eMpEHMAX_8gqnyi4xwTCuYj7NTrCcTMWAsSZtaUsHYUa1kvi3jQf92A5pR_Qz7kzgTarHmo6q6YsXVeVSJEkkx0JkioCXa6GbKJzG9eZz0dkotf9QEpdcRMy94hoYhGfIoEk7pPOFUSgTY5ciU7_wkSOJc7kgXcS1GS3qGC-Ql7kMrks/s1600/thd.jpg"
+    },
+    {
+      "title": "Nova exploração SignDrop Zero-Day transforma recurso de segurança CLFS do Windows em acesso ao SISTEMA",
+      "summary": "O código de exploração público lançado no início desta semana afirma que um usuário local do Windows pode obter privilégios de SYSTEM por meio do driver Common Log File System. A prova de conceito, chamada SignDrop, tem como alvo um recurso de autenticação de ",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
+      "published": "2026-11-12T17:50:27+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-9BW-gpid0fJ4GJSsWoqjYl5qF_EdYchTcxeNjFfMV-MCcvSRTs-rAmiHKNX3M2dr66bJcfUelNR5CR9g-JLKPkMrROsqrM6hf563hIMklj5v08uYDtEp7pdYPcs5Y5TEGxgTWTHDG_Q-L8Tbq12yo57xp0GOlYk8g05nU3peuA_kedIXtggnakiiCGM/s1600/signdrop.jpg"
+    },
+    {
+      "title": "Nova exploração SignDrop Zero-Day transforma recurso de segurança CLFS do Windows em acesso ao SISTEMA - The Hacker News",
+      "summary": "Nova exploração SignDrop Zero-Day transforma recurso de segurança CLFS do Windows em acesso ao sistema The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85NUswNElUcjRodEQ5VFloeHhBSXJSVVNzMnRONXcwQkRDNklZWC1tZFJwM3VabjVPSS1sazBlbzF0UXE3QlJpdzFvZ1RHVTRORVVoSXlrZ0l2VWs0Vi1Xb3Z2YVljaElfMzVGZWZfcWxtend4dXN3YXRSU3JjYVk?oc=5",
+      "published": "2026-11-12T17:50:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Treinado para trair: como ataques à cadeia de suprimentos pós-treinamento sequestram agentes de codificação",
+      "summary": "A Microsoft Defender Research e a AI Red Team discutem como conjuntos de dados envenenados e pontos de verificação de modelos envenenados podem desencadear a execução remota de código e outras atividades maliciosas. A postagem Treinado para trair: como ataques",
+      "category": "INCIDENTES",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/",
+      "published": "2026-11-12T17:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falha crítica no Red Hat Quay permite que invasores leiam e sobrescrevam todas as imagens de contêineres privados em um registro",
+      "summary": "Uma falha crítica no Red Hat Quay permite que um invasor que possa acessar um registro do Quay leia e substitua imagens de contêineres privados em cada repositório. O Quay permite o acesso anônimo por padrão e, enquanto estiver habilitado, o invasor não precis",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
+      "published": "2026-11-12T16:27:01+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtLHm05FB2LmoHZMLAD5nDmfo_G2tdIqO4URdUwukuooBCVwIJhKC2rUDbDNtsGB8_lwium1MEUD1CxYcix4WMVpCoS58DJivMBSmb9LcIGswQu0nKUNE_sbfH8EsgFfhPrKEgEY7MJHWKyhFqX61ne-AOFKnTNuqIkWez1bec-kq-3Cz8BFbPLrgiV8k/s1600/redhat.jpg"
+    },
+    {
+      "title": "Falha crítica no Red Hat Quay permite que invasores leiam e sobrescrevam todas as imagens de contêineres privados em um registro - The Hacker News",
+      "summary": "Falha crítica no Red Hat Quay permite que invasores leiam e sobrescrevam todas as imagens de contêineres privados em um registro The Hacker News",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LTl82QjJkZnZDeERZMlpYQS1WN3BXQVFLNXR5UTdEa3Q2XzBJYmlOTnBkRXFJZHBvbWZ2eDNyY2V3LXNXc3FLb09ndFZCMHNwZFZkOUQySktLZE5xOWNwcDJURzhfTWVPdDRJMVJuOG5NVVN2QjdYcWJR?oc=5",
+      "published": "2026-11-12T16:27:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "O novo Windows SignDrop zero-day dá aos hackers privilégios de SISTEMA",
+      "summary": "O pesquisador de segurança Abdelhamid Naceri (também conhecido como Nightmare Eclipse) lançou uma nova exploração de dia zero do Windows que pode permitir que invasores obtenham privilégios de SYSTEM. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
+      "published": "2026-11-12T16:04:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Citrix corrige 12 falhas do NetScaler e do cliente de acesso seguro, incluindo desvio de autenticação",
+      "summary": "A Citrix lançou patches para várias falhas críticas de segurança que afetam o NetScaler ADC, o Citrix NetScaler Gateway e o NetScaler Console, que podem levar à negação de serviço (DoS) ou a um desvio de autenticação. As vulnerabilidades críticas que afetam o ",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
+      "published": "2026-11-12T15:38:49+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDDv_B4B-cVtvwKyLiGQsL804yGC7_xHF7y3yD5_C284fRXBVRAn5Ashy2apgJr-jaoBHRa3ujgXv1jskM53EvP_pFt41CTazYqFT-tQdcukNBeOTzVIpZXVDsdgtup4MJOEdNNZP9SP0FAdIpG1Cnfgo0YgBXzmI_boLV4qSAsVrmYn5wA3GxnPuj21JO/s1600/citrix.jpg"
+    },
+    {
+      "title": "Apache corrige RCE crítico de servidor HTTP encontrado pela Anthropic e Google",
+      "summary": "A condição de corrida mod_http2, CVE-2026-119618, pode permitir que invasores não autenticados executem código em servidores com HTTP/2 habilitado. A postagem Apache Patches Critical HTTP Server RCE Encontrado pela Anthropic, Google apareceu pela primeira vez ",
+      "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/",
-      "published": "2026-11-12T08:38:47+00:00",
+      "url": "https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/",
+      "published": "2026-11-12T15:38:31+00:00",
       "image": ""
     },
     {
-      "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
+      "title": "186 domínios de IA falsos redirecionam usuários para iscas ClickFix, malware de navegador e sequestradores de pesquisa",
+      "summary": "Pesquisadores de segurança cibernética descobriram que domínios semelhantes disfarçados de ferramentas de inteligência artificial (IA) estão sendo usados ​​para servir iscas no estilo ClickFix, malware de sequestro de navegador e um conjunto de extensões que s",
+      "category": "AMEAÇAS",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
-      "published": "2026-11-12T06:42:47+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1-4OiOkGLcK3fAr2HdhALOfc_BqR21440TsjUIuCNzv4YL0lWRC3lvUjE1vu2RdVfjunxi80gMQyGpjvUdWzMRtthW8_-hFOJ79YhFzJrNGgoKDPYXm2OaWOsN8kgBELqOPs5s9QKL4qzQzu_3NEEqHygpfQzKYxDRIQeFgMHj24oyPyaslUemke-loU/s1600/github.jpg"
+      "url": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
+      "published": "2026-11-12T15:15:40+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirJnc36Fxj4oKOmKhcPvspB_xQpv3VgpXjYnu29SOv8NbVJHeaGNKT26851QIPQbHozxeF5vmq5otdRbJBKEaN9557MtuxLwp5fxX-pQVDVKwvZJtPR9ayT2Njx83svW7TVsVkVpFUOt5JHqhdSkSI7uV0d4dxlf5pWAmHISttTHWjURyOpuuy0CzVCSmK/s1600/lauce.jpg"
     },
     {
-      "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSnhmREVDY182U0k1TnkxaE1UR25oWFVaenllV0JZdTFmdUp0dDNHZ3BhSkkyWU5pZTl4VFBhZnFuT25TcndHbzlOWTBVdW1PMkExckVVb1Jyb25HZklzZ2VlM3VkWGtZWWZ2eHk1eXl5WU9ja0NtZzVDLUE4cjBoSg?oc=5",
-      "published": "2026-11-12T06:42:00+00:00",
+      "title": "Polícia desmonta infraestrutura de malware Gootloader, CastleRAT e StealC",
+      "summary": "A Europol e parceiros responsáveis ​​pela aplicação da lei de nove países apreenderam centenas de servidores e domínios utilizados pelas operações de malware Gootloader, CastleRAT e StealC. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
+      "published": "2026-11-12T15:07:20+00:00",
       "image": ""
     },
     {
-      "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
-      "published": "2026-11-12T05:12:26+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLpi_uN6PmG2Gn1agNMsOrsCp324eH-utKkDl_SPe32ggjcWFPjxZSyeA1KvAtvI9SQ4VAN_zssvdJLJ59IXE8_-MatPOyFXY-FcwtL7HtfKyW3MtsKwglIe2X62WBOcUkPMv-klM1h8T2EBMWFOWyPG89bfbAHS5byyfXATXN_lUUJWmUGWChekyWxTQ/s1600/apache-http.jpg"
-    },
-    {
-      "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
-      "published": "2026-11-12T04:39:48+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEfz7InYm8UO-p35K6B4j009BxA-MO7DdZ2x1d-xhyphenhyphenPxNnVs848IlgAGelmuW-sPbEZbE8-L9_KWEYNH_M5HaTMy14MFd87A7YkqHAzDKaamKOdpZKR9owL3nK3gbqAngvWa6A4NC1KK1l0ie9FK731LfKPI0lguiGQ1b71sHIZj2kR2H3I-GJjSPY4kJU/s1600/screenconnect-hack.jpg"
-    },
-    {
-      "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX0pnUHptSnRuYS1KWVUyd1pTNzgwYmJ6ZzA1ZTBaUk5JQXlOZlppUHQtYWtkTzNnSm5OSFFweENuNndUN3ZaNFJjOHVoM3h1ZG5ya0xubm1FbUl2bTBtSFdTQlpadXZTVFNQZmdWZ0RuS1lrREVvQlNudjItMi12RDdn?oc=5",
-      "published": "2026-11-12T04:39:00+00:00",
+      "title": "Sua plataforma de gerenciamento de endpoint pode ser seu maior risco de segurança",
+      "summary": "As plataformas de gerenciamento de endpoints podem se tornar ferramentas de ataque poderosas quando comprometidas, permitindo que hackers implantem malware, executem comandos e interrompam milhares de dispositivos. Action1 explica como a autorização criptográf",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
+      "published": "2026-11-12T15:00:10+00:00",
       "image": ""
     },
     {
-      "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry",
-      "published": "2026-11-12T01:00:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6aad3115d0b39df8/6af3b700f317a18a4957378c/Jinan_University-TkKurikawa-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
-      "published": "2026-11-12T00:00:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc3d52fd595b74813/6af39e0cb6c48b43d1f3dedb/musashi-kojiro-attack-defense-statues-GARAGE38-shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Baker Tilly notifies clients of data breach at third-party provider",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Apify alterna tokens de API e solicita redefinições de 2FA após violação",
+      "summary": "Apify alterou segredos internos críticos e revogou algumas conexões OAuth de terceiros após detectar acesso não autorizado a seus sistemas internos. [...]",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
-      "published": "2026-11-11T23:01:31+00:00",
+      "url": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
+      "published": "2026-11-12T14:36:47+00:00",
+      "image": ""
+    },
+    {
+      "title": "Chrome e Firefox atualizam patch para mais de 180 vulnerabilidades",
+      "summary": "O Google corrigiu 83 falhas com uma nova versão do Chrome 157, e a Mozilla corrigiu 99 bugs no Firefox 160. A postagem Chrome, Firefox atualiza patch de mais de 180 vulnerabilidades apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/",
+      "published": "2026-11-12T13:42:09+00:00",
+      "image": ""
+    },
+    {
+      "title": "Atacante visa 60.000 repositórios GitHub em campanha de roubo de credenciais",
+      "summary": "Usando milhares de contas sequestradas, a campanha wfx-loot plantou um ladrão de segredos de CI que foi executado em mais de 1.800 repositórios GitHub. A postagem Atacante visa 60.000 repositórios GitHub em campanha de roubo de credenciais apareceu pela primei",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/attacker-targets-60000-github-repositories-in-credential-theft-campaign/",
+      "published": "2026-11-12T13:39:03+00:00",
       "image": ""
     }
   ]
