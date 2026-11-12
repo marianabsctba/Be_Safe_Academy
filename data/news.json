@@ -1,9 +1,153 @@
 {
-  "updated_at": "2026-11-12T00:51:22.113040+00:00",
+  "updated_at": "2026-11-12T11:30:04.603405+00:00",
   "items": [
     {
-      "title": "Japão impulsiona financiamento de emergência para segurança cibernética à medida que aumentam as violações assistidas por IA",
-      "summary": "O pacote acrescenta equipes de resposta cibernética público-privadas, uma equipe focada em IA dirigida pelo Ministério da Economia e mais margem de manobra para usar os novos poderes ativos de defesa cibernética do governo.",
+      "title": "Notion Customer Data Compromised in Fireworks AI Hack",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/",
+      "published": "2026-11-12T11:08:52+00:00",
+      "image": ""
+    },
+    {
+      "title": "Inside an AI Attack Against a US Retailer",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer",
+      "published": "2026-11-12T11:00:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte38664ed1dd3c978/6af4c35c1e561a1b3aa196c5/broken_lock-TU_IS-GettyImages-1369792495.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Hackers Deploy Malware in Fresh ScreenConnect Campaign",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/",
+      "published": "2026-11-12T10:39:34+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft confirms Windows security updates installation issues",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
+      "published": "2026-11-12T10:24:07+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers Target N-central Zero-Days as N-able Rushes Patches",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/",
+      "published": "2026-11-12T09:39:55+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers plant GSocket on Linux servers for persistent access",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
+      "published": "2026-11-12T09:38:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
+      "published": "2026-11-12T09:25:00+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6RJLDSM13MwenwxG4xnZ-Td2_zmnya-Y39FLHlNk-7P3hZ5w1qGjG3XFqT-4gaeZIxSepWWNM53bKTIkZBNA-X_tVKsrgWbw8u81mjLzL6dXvTtvKfKeT-FkwSz4CsdMoHNza2NRFy0PJzzmaMROCr3D7e6AKT5UR3Lh4zFb_1w9HMmXXKKvATVWHU-E/s1600/mongo-poc.gif"
+    },
+    {
+      "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMDBfekFQb0pMZmFRY2kzUmVmUEZFUldTQjNsSjBlMkF4Rl9TalJIaG9BOXB6NXIzd01hSFBNbndHbGxRY29hamppTUt3UEh4X1I0RUc0MUt2bThNeTlMVGxXRWk1TXdRQi1yVXJWNThQNTdodkRWaURhOTc5eTdrWWdMb2w?oc=5",
+      "published": "2026-11-12T09:25:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Critical Red Hat Quay Vulnerability Could Expose Private Container Images",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/",
+      "published": "2026-11-12T09:23:21+00:00",
+      "image": ""
+    },
+    {
+      "title": "Maersk Confirms Data Theft Amid $5 Million Extortion Attempt",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/",
+      "published": "2026-11-12T08:38:47+00:00",
+      "image": ""
+    },
+    {
+      "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
+      "published": "2026-11-12T06:42:47+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1-4OiOkGLcK3fAr2HdhALOfc_BqR21440TsjUIuCNzv4YL0lWRC3lvUjE1vu2RdVfjunxi80gMQyGpjvUdWzMRtthW8_-hFOJ79YhFzJrNGgoKDPYXm2OaWOsN8kgBELqOPs5s9QKL4qzQzu_3NEEqHygpfQzKYxDRIQeFgMHj24oyPyaslUemke-loU/s1600/github.jpg"
+    },
+    {
+      "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSnhmREVDY182U0k1TnkxaE1UR25oWFVaenllV0JZdTFmdUp0dDNHZ3BhSkkyWU5pZTl4VFBhZnFuT25TcndHbzlOWTBVdW1PMkExckVVb1Jyb25HZklzZ2VlM3VkWGtZWWZ2eHk1eXl5WU9ja0NtZzVDLUE4cjBoSg?oc=5",
+      "published": "2026-11-12T06:42:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+      "published": "2026-11-12T05:12:26+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLpi_uN6PmG2Gn1agNMsOrsCp324eH-utKkDl_SPe32ggjcWFPjxZSyeA1KvAtvI9SQ4VAN_zssvdJLJ59IXE8_-MatPOyFXY-FcwtL7HtfKyW3MtsKwglIe2X62WBOcUkPMv-klM1h8T2EBMWFOWyPG89bfbAHS5byyfXATXN_lUUJWmUGWChekyWxTQ/s1600/apache-http.jpg"
+    },
+    {
+      "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
+      "published": "2026-11-12T04:39:48+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEfz7InYm8UO-p35K6B4j009BxA-MO7DdZ2x1d-xhyphenhyphenPxNnVs848IlgAGelmuW-sPbEZbE8-L9_KWEYNH_M5HaTMy14MFd87A7YkqHAzDKaamKOdpZKR9owL3nK3gbqAngvWa6A4NC1KK1l0ie9FK731LfKPI0lguiGQ1b71sHIZj2kR2H3I-GJjSPY4kJU/s1600/screenconnect-hack.jpg"
+    },
+    {
+      "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX0pnUHptSnRuYS1KWVUyd1pTNzgwYmJ6ZzA1ZTBaUk5JQXlOZlppUHQtYWtkTzNnSm5OSFFweENuNndUN3ZaNFJjOHVoM3h1ZG5ya0xubm1FbUl2bTBtSFdTQlpadXZTVFNQZmdWZ0RuS1lrREVvQlNudjItMi12RDdn?oc=5",
+      "published": "2026-11-12T04:39:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry",
+      "published": "2026-11-12T01:00:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6aad3115d0b39df8/6af3b700f317a18a4957378c/Jinan_University-TkKurikawa-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
@@ -11,156 +155,12 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc3d52fd595b74813/6af39e0cb6c48b43d1f3dedb/musashi-kojiro-attack-defense-statues-GARAGE38-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Baker Tilly notifica clientes sobre violação de dados em provedores terceirizados",
-      "summary": "O Baker Tilly Advisory Group está notificando os clientes de que uma violação de dados comprometeu certas informações pessoais sobre eles e seus dependentes. [...]",
+      "title": "Baker Tilly notifies clients of data breach at third-party provider",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
       "published": "2026-11-11T23:01:31+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ataques ativos do ScreenConnect violam MSPs e impactam dezenas de organizações",
-      "summary": "ConnectWise está investigando uma campanha ativa de malware direcionada a provedores de serviços gerenciados (MSPs) que usam ambientes ScreenConnect comprometidos para implantar clientes de acesso remoto não autorizados em dispositivos de clientes. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
-      "published": "2026-11-11T22:56:21+00:00",
-      "image": ""
-    },
-    {
-      "title": "Atacantes dizem ‘olá’ para uma escala diferente de ataque à nuvem",
-      "summary": "Os pesquisadores apelidaram uma cadeia de ataque de “Greeter” depois de descobrirem que os invasores cobriram deliberadamente seu rastro, deixando mensagens de “olá” nos registros.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack",
-      "published": "2026-11-11T21:44:04+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt10d089cc23c19918/6af23c18ddd4d34d271f90a5/GettyImages-511970077.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "eMudhra revoga mais 8 certificados CA após acidente de chave privada",
-      "summary": "A autoridade de certificação eMudhra revogou oito certificados de CA intermediários adicionais depois que uma investigação sobre seu recente incidente de segurança de certificado descobriu o manuseio inadequado de chaves privadas durante o processo de geração ",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
-      "published": "2026-11-11T21:27:40+00:00",
-      "image": ""
-    },
-    {
-      "title": "IA aumenta os riscos para a resiliência cibernética",
-      "summary": "A capacidade de uma organização recuperar rapidamente de uma interrupção nos negócios será uma vantagem competitiva numa era de ameaças impulsionadas pela IA e de capacitação empresarial.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience",
-      "published": "2026-11-11T21:20:41+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcc4e8093ca09a7aa/6af4d41325a88f7635e2ef35/resops_Sohan_stock_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Notion diz que a violação do Fireworks expôs transcrições de bate-papo de IA do cliente",
-      "summary": "A Notion, a plataforma de espaço de trabalho digital, revelou que uma violação de segurança em seu provedor de infraestrutura de IA, Fireworks AI, expôs transcrições de bate-papo da Notion AI em um pequeno número de espaços de trabalho. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
-      "published": "2026-11-11T20:54:20+00:00",
-      "image": ""
-    },
-    {
-      "title": "N-able coloca a plataforma N-central off-line após descoberta de 33 falhas",
-      "summary": "O provedor RMM também lançou um hotfix como uma das mitigações recomendadas para lidar com explorações públicas para os supostos dias zero que permitem a tomada de controle por invasores.",
-      "category": "VULNERABILIDADES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/endpoint-security/n-able-n-central-offline-33-flaws",
-      "published": "2026-11-11T20:05:18+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1eb3a07d69de328b/6af4605e4c33022b5dec789d/RMM_panthermedia_Alamy.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "O soquete global: como os agentes de ameaças estão transformando o GSocket em arma para C2 furtivo",
-      "summary": "Os atores da ameaça estão implantando o GSocket em servidores Linux comprometidos para manter o acesso remoto criptografado após a vulnerabilidade original ser corrigida. Aprenda como detectar, investigar e corrigir essa atividade. A postagem O soquete global:",
-      "category": "VULNERABILIDADES",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/",
-      "published": "2026-11-11T19:49:57+00:00",
-      "image": ""
-    },
-    {
-      "title": "Quem dirige o grupo de ransomware Qilin?",
-      "summary": "O grupo de crimes cibernéticos Qilin emergiu como o programa afiliado de ransomware mais ativo do mundo, reivindicando pelo menos 365 organizações vítimas apenas nos últimos três meses. Mas mesmo os principais hackers russos cometem erros de segurança operacio",
-      "category": "AMEAÇAS",
-      "source": "KrebsOnSecurity",
-      "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
-      "published": "2026-11-11T18:06:01+00:00",
-      "image": ""
-    },
-    {
-      "title": "Lições de 59 relatórios de bugs do kernel Linux",
-      "summary": "Os pesquisadores do Microsoft FORGE Lab usaram o codinome MDASH para investigar vulnerabilidades do kernel Linux, resultando em 59 relatórios de bugs upstream, 33 CVEs atribuídos e 38 correções mescladas. A pesquisa inclui oito explorações demonstradas de esca",
-      "category": "VULNERABILIDADES",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/11/lessons-from-59-linux-kernel-bug-reports/",
-      "published": "2026-11-11T16:55:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hoje: CISO Forum Virtual Summit 2026, dia 2 – Junte-se aos líderes de segurança cibernética online",
-      "summary": "Projetado para líderes de segurança cibernética, este evento virtual envolvente de dois dias é o seu principal destino para discutir, compartilhar e aprender estratégias inovadoras de gestão de risco e defesa que definem a empresa moderna. A postagem Hoje: CIS",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
-      "published": "2026-11-11T16:29:42+00:00",
-      "image": ""
-    },
-    {
-      "title": "Maersk confirma violação de dados enquanto ransomware WhiteArmor exige US$ 5 milhões",
-      "summary": "A Maersk anunciou que um agente de ameaça obteve acesso não autorizado a um sistema legado local herdado de uma aquisição anterior e extraiu dados dele. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
-      "published": "2026-11-11T16:24:18+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falha crítica no local de trabalho do Zoom pode permitir escalonamento de privilégios remotos não autenticados",
-      "summary": "A Zoom lançou atualizações de software para solucionar duas falhas de segurança que afetam o Zoom Workplace para Windows, incluindo um bug crítico que pode resultar no aumento de privilégios nos sistemas afetados. As vulnerabilidades estão listadas abaixo - CV",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
-      "published": "2026-11-11T16:12:46+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhox0GUms6IXvet2jPVoQ5VlUIZ_V7C3iT4HI3qV-Pi7_KRybDyGKGlb2S0Z4uvih4ERjjnGOn9Prav0HpvqNNR3_HVs7W5o0wM0-XsTdp6ploM2Optp5ls97C0JU5DIqubY-lNcLvLia25Z2c__IZt8Ws1OjX0tGavbyvb_dXrltSKj-HJHijQJ9AdDxEB/s1600/zoom-prv.jpg"
-    },
-    {
-      "title": "Falhas críticas da Orquestra Xen exploradas em ataques",
-      "summary": "Um desvio de autenticação crítico permite que invasores executem código arbitrário como administrador e assumam o controle de nós XCP-ng. O posto Falhas críticas da orquestra Xen exploradas em ataques apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/",
-      "published": "2026-11-11T15:42:47+00:00",
-      "image": ""
-    },
-    {
-      "title": "Plataforma AntiFox AI Pentesting vinculada a ataques que acessaram segredos de produção da AWS",
-      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma campanha na qual uma plataforma emergente de testes de penetração de agentes chamada AntiFox foi usada para roubar credenciais da Amazon Web Services (AWS) e migrar lateralmente para ambientes c",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
-      "published": "2026-11-11T15:34:27+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi08pEbJ7-HNwC0kJf517wnB6y8HwgKhMU-vxbhnCEh9KpWk1kmIjp_bb71k7GYfiTZNep3bcejvN7RmriF9_0RJnGGe9T5WB_nihCgxiDYOMl8mgDmI0Pm6ZFmPzf8HulQUxHjX3TncwmvqJIDPLyZBoHZpOahcMl7fehtwvT-oCxLzPec-KRtiScHT7wk/s1600/aws-secrets.jpg"
-    },
-    {
-      "title": "Plataforma AntiFox AI Pentesting vinculada a ataques que acessaram segredos de produção da AWS - The Hacker News",
-      "summary": "Plataforma AntiFox AI Pentesting vinculada a ataques que acessaram segredos de produção da AWS The Hacker News",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY3pkdkZYRzZmS0I3TXBnQ19ETWkwekNVOVdIam84Wnd5VkhncUxsRWlFWF9PZ1FPV3V4RzZud3ZuYVRSMkVkVkVYR29lY2ZUTHh2YzdIZVhMRlNPYklOaC15bl9jSk5JSGI2RkR4ZTZiOTZna2VhOFp4anJMQUtaWkFB?oc=5",
-      "published": "2026-11-11T15:34:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers usam agentes AntiFox AI em ataques de roubo de credenciais da AWS",
-      "summary": "Os invasores estão usando o Alibaba Cloud para hospedar instâncias autogerenciadas do AntiFox, uma plataforma de teste de penetração de agente de código aberto, para atingir serviços da web e ambientes AWS. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
-      "published": "2026-11-11T15:12:59+00:00",
       "image": ""
     }
   ]
