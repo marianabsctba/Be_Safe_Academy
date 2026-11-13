@@ -1,6 +1,132 @@
 {
-  "updated_at": "2026-11-13T01:57:01.655754+00:00",
+  "updated_at": "2026-11-13T11:13:49.646839+00:00",
   "items": [
+    {
+      "title": "A aplicação da lei interrompe a infraestrutura Gootloader, CastleRAT e StealC",
+      "summary": "Os investigadores apreenderam 235 servidores e 257 domínios, juntamente com 6,4 milhões de credenciais de vítimas como parte da Operação Endgame. A postagem A aplicação da lei interrompe a infraestrutura Gootloader, CastleRAT e StealC apareceu pela primeira ve",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/",
+      "published": "2026-11-13T10:48:40+00:00",
+      "image": ""
+    },
+    {
+      "title": "Check Point alerta sobre falha de dia zero explorada para acesso root",
+      "summary": "A Check Point Software lançou hotfixes de emergência para resolver uma falha de alta gravidade que os hackers têm explorado para obter privilégios de root e estabelecer persistência em dispositivos vulneráveis ​​desde o final de outubro. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+      "published": "2026-11-13T10:44:22+00:00",
+      "image": ""
+    },
+    {
+      "title": "Citrix corrige 10 vulnerabilidades críticas do NetScaler",
+      "summary": "A exploração bem-sucedida pode levar a comportamentos inesperados ou condições de negação de serviço (DoS). A postagem Citrix corrige 10 vulnerabilidades críticas do NetScaler apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/",
+      "published": "2026-11-13T09:36:56+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft confirma falhas de ativação do Windows após atualizações de novembro",
+      "summary": "A Microsoft confirmou que as atualizações de segurança do Patch Tuesday deste mês estão causando falhas de ativação e licenciamento do Windows com códigos de erro 0x80041008. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
+      "published": "2026-11-13T09:36:18+00:00",
+      "image": ""
+    },
+    {
+      "title": "OpenAI revela Daybreak Red Team, ferramentas de segurança para fábrica de defesa",
+      "summary": "O Daybreak Red Team testa aplicativos da web com agentes de IA, enquanto o Defense Factory investiga descobertas de segurança e prepara patches. A postagem OpenAI revela Daybreak Red Team, ferramentas de segurança da Defense Factory apareceu pela primeira vez ",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
+      "published": "2026-11-13T09:21:01+00:00",
+      "image": ""
+    },
+    {
+      "title": "Nightmare Eclipse descarta a exploração de dia zero do Windows ‘SignDrop’",
+      "summary": "Ele abusa do CLFS e do Windows Defender para acionar a criação arbitrária de arquivos no contexto do processo antimalware. A postagem Nightmare Eclipse descarta a exploração de dia zero do Windows ‘SignDrop’ apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
+      "published": "2026-11-13T08:50:36+00:00",
+      "image": ""
+    },
+    {
+      "title": "Polícia prende 354 suspeitos de repressão ao crime cibernético na dark web",
+      "summary": "As autoridades prenderam 354 suspeitos em uma operação internacional conjunta visando fornecedores e compradores nos mercados Archetyp, Nemesis, Tor2Door, Bohemia e Kingdom dark web. [...]",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
+      "published": "2026-11-13T08:34:20+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers exploram falhas do PHP2Shell em gateways Check Point para implantar backdoor TSGA e limpar arquivos ESXi",
+      "summary": "Um agente de ameaça desconhecido foi observado visando gateways de segurança Check Point não corrigidos para obter acesso inicial por meio das vulnerabilidades do PHP2Shell e, em seguida, uma falha de escalonamento de privilégios local não relatada anteriormen",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
+      "published": "2026-11-13T08:05:49+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP3B9ZQG1BXlSPUWzwVJ5qgwh899Ngm9u2GAbWiX5HDqhhT6q6gsmva9-TR2upR0fepas2i0k53VUxh1CH21LeUUv1Ipczl9huExytcqNdlqIoHP64CRYJuGyHe-OgLoov-JR6GziUT4JDJ92Ne83CshfWn9pr9Bt2HPKkv4phQJ2esJHcV6eZqzRretVu/s1600/php.jpg"
+    },
+    {
+      "title": "Hackers exploram falhas do PHP2Shell em gateways Check Point para implantar backdoor TSGA e limpar arquivos ESXi - The Hacker News",
+      "summary": "Hackers exploram falhas do PHP2Shell em gateways Check Point para implantar backdoor TSGA e limpar arquivos ESXi The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wY25ETkp0RWNhWVQzZ0xZcXR0RUdSd09HNW52U2JHTmlmTENZcmh0MEdaV0U1RDI4YUk1YTFka196Y3F1NTl5V0NzUFM5NTJjckE1MkpldjEtdjZGRUphbWpDQ1VNVW40azljbTNpWGdpR3hZYUZtMUkzaGdjZw?oc=5",
+      "published": "2026-11-13T08:05:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "PHP2Shell explorado em ataques destrutivos de gateway de ponto de verificação",
+      "summary": "O PHP2Shell permitiu o comprometimento inicial, enquanto o CVE-2026-123039 permitiu que os invasores elevassem privilégios para root. A postagem PHP2Shell explorado em ataques destrutivos de gateway de ponto de verificação apareceu pela primeira vez em Securit",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/",
+      "published": "2026-11-13T07:39:04+00:00",
+      "image": ""
+    },
+    {
+      "title": "PHP2Shell explorado em ataques destrutivos de gateway de ponto de verificação - SecurityWeek",
+      "summary": "PHP2Shell explorado em ataques destrutivos de gateway de ponto de verificação SecurityWeek",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRFNEUXdNODNqRGZZOUU5WU5SS0xGdnRmYWVFczZXTlRxaFB2cllLbm40cEM4ekdvMUdWTmhWMm1fTl92dU8zUnN3eXhIRVNreE5JZHZOV2dhMmQ1SkVvRW5ueEF5Y0ZKQ1ZjZ2U0ZHJHYkF6YjE0UFdTeTVDajVLRVZCSHl0enJVcmNZNk9tVWlGa0R3WVQ0?oc=5",
+      "published": "2026-11-13T07:39:04+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers exploram novas horas de dia zero N-central após a publicação do PoC",
+      "summary": "Chamada de 4EverAble2Shell, a falha pode permitir que invasores remotos e não autenticados executem código com privilégios de root. A postagem Hackers exploram novas horas de dia zero N-central após a publicação do PoC apareceu pela primeira vez na SecurityWee",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/",
+      "published": "2026-11-13T07:20:50+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers exploram falhas do N-central para infectar 21 servidores, incluindo 19 executando o Hotfix 2",
+      "summary": "A N-able disse na quinta-feira que está tomando precauções adicionais após a divulgação pública de um novo conjunto de falhas rastreadas como 4EverAble2Shell e Agent2Shell. “Estamos restringindo certos recursos e integrações do N-central”, disse a empresa em u",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
+      "published": "2026-11-13T05:43:28+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA4jxlXpPBPhD5o3IHy80Fn7fSHUtcqH3iXQlU-jDUL5C3zJcf1_Zb-GAYxuW6P6q647p9JAT_opImlj-v-USDNhZ_z83mYC3ISKtN72pe_3XLwf5EyMRuK4OdXCFnYxGMhOAvN_i4UFqk5vJLriRnkbRRwILuT5JUpExx9Tm74sXSCQ0g7jjsOzWV1cqk/s1600/nable-hacks.jpg"
+    },
+    {
+      "title": "FBI afirma que EUA apreenderam US$ 1,2 bilhão em criptomoeda roubada da Binance",
+      "summary": "Também na quinta-feira, o FBI culpou a Coreia do Norte por um esquema separado de engenharia social que, segundo as autoridades, resultou no roubo de US$ 400 milhões em criptomoedas. A postagem FBI afirma que EUA apreenderam US$ 1,2 bilhão em criptomoeda rouba",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
+      "published": "2026-11-13T02:28:21+00:00",
+      "image": ""
+    },
     {
       "title": "Novo malware ‘SCKit’ semelhante a um worm tem como alvo MSPs em ataques ScreenConnect",
       "summary": "Um novo kit de ferramentas de malware semelhante a um worm chamado SCKit foi implantado nos recentes ataques ScreenConnect direcionados a provedores de serviços gerenciados (MSPs), projetados para se espalhar de dispositivos de clientes infectados para computa",
@@ -35,132 +161,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/",
       "published": "2026-11-12T20:55:30+00:00",
-      "image": ""
-    },
-    {
-      "title": "Interrupção do Microsoft 365 interrompe Outlook, Exchange Online e Teams - SecurityWeek",
-      "summary": "Interrupção do Microsoft 365 interrompe Outlook, Exchange Online e Teams SecurityWeek",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONUpZX08wc0l2M09xZjJIMEp0MkJHbTBsSFB0bkE5Y2hudy1LV3BQX3BhZ0o3Mk5pWVFYYkVUN181N2tiR18yTUJDRDNSSjljaDY1Vm1xWFFZT19VbWxvMGd2TU9kNElLdWNTcEFuN2VfQnRYLXU2ck9vNGJCbC1mOGh4eVNfbURkQUxlVG5tc2dVYmF3a3YxWA?oc=5",
-      "published": "2026-11-12T20:55:30+00:00",
-      "image": ""
-    },
-    {
-      "title": "Grupo de extorsão Luna Moth entra em escritórios de advocacia pela segunda vez",
-      "summary": "Os cibercriminosos estão redirecionando escritórios de advocacia que se recusaram a pagar o primeiro resgate, com um golpe de engenharia social que visa roubar tokens de acesso da Microsoft.",
-      "category": "DEFESA",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time",
-      "published": "2026-11-12T20:09:41+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd72cfa843f157710/6af61e08fa93fcee56324598/black_and_white_moth-powerofforever-GettyImages-1920014051.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Novo N-able “4EverAble2Shell” explorado de dia zero horas após o lançamento do PoC",
-      "summary": "Os hackers estão explorando ativamente uma vulnerabilidade de dia zero N-able N-central recém-divulgada chamada \"4EverAble2Shell\" para comprometer servidores e implantar mineradores de criptomoedas, com pesquisadores relatando pelo menos 21 sistemas afetados, ",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-      "published": "2026-11-12T19:51:16+00:00",
-      "image": ""
-    },
-    {
-      "title": "Servidor HTTP Apache corrige falha crítica de execução remota de código HTTP/2",
-      "summary": "Uma vulnerabilidade crítica no módulo HTTP/2 do Apache HTTP Server pode ser explorada por um invasor não autenticado para obter execução remota de código (RCE). [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
-      "published": "2026-11-12T19:12:55+00:00",
-      "image": ""
-    },
-    {
-      "title": "Webinar: veja como os pontos cegos de identidade colocam seu SOC em risco e como fechá-los",
-      "summary": "As equipes de segurança têm mais alertas, registros e ferramentas de monitoramento do que nunca. No entanto, quando ocorre um ataque, uma pergunta simples ainda pode demorar muito para ser respondida: quem ou o que está por trás dessa atividade e o que eles po",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
-      "published": "2026-11-12T18:07:15+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj765JyAl658UR5d1raKFLJmZpxXuof0-wBCobeJwnWjWZROTa4wtMyPvTTjBr4-ccE0cmKpIyGT1BetlqUPkPS_omcKVWz7RcCv6sUl2h6KxXrem_X26kzrp7kwq8bSezUsYMa6h2JNh-rPglsuNnRzt6i3IdzBjkLFNBNy5-Y0jId2B6Zhyir_jdm8O4/s1600/sails.jpg"
-    },
-    {
-      "title": "ThreatsDay: 59 bugs do kernel Linux, Falcon Spyware, GSocket Backdoors + 17 mais histórias",
-      "summary": "Um resultado de pesquisa nem sempre é seguro. Uma solicitação de acesso nem sempre é inofensiva. E uma conta familiar nem sempre significa que uma pessoa conhecida a esteja usando. Coisas simples para lembrar. No entanto, uma parte surpreendente dos problemas ",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
-      "published": "2026-11-12T18:02:51+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpHFMwpmKB3Mn6eMpEHMAX_8gqnyi4xwTCuYj7NTrCcTMWAsSZtaUsHYUa1kvi3jQf92A5pR_Qz7kzgTarHmo6q6YsXVeVSJEkkx0JkioCXa6GbKJzG9eZz0dkotf9QEpdcRMy94hoYhGfIoEk7pPOFUSgTY5ciU7_wkSOJc7kgXcS1GS3qGC-Ql7kMrks/s1600/thd.jpg"
-    },
-    {
-      "title": "Nova exploração SignDrop Zero-Day transforma recurso de segurança CLFS do Windows em acesso ao SISTEMA",
-      "summary": "O código de exploração público lançado no início desta semana afirma que um usuário local do Windows pode obter privilégios de SYSTEM por meio do driver Common Log File System. A prova de conceito, chamada SignDrop, tem como alvo um recurso de autenticação de ",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
-      "published": "2026-11-12T17:50:27+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-9BW-gpid0fJ4GJSsWoqjYl5qF_EdYchTcxeNjFfMV-MCcvSRTs-rAmiHKNX3M2dr66bJcfUelNR5CR9g-JLKPkMrROsqrM6hf563hIMklj5v08uYDtEp7pdYPcs5Y5TEGxgTWTHDG_Q-L8Tbq12yo57xp0GOlYk8g05nU3peuA_kedIXtggnakiiCGM/s1600/signdrop.jpg"
-    },
-    {
-      "title": "Nova exploração SignDrop Zero-Day transforma recurso de segurança CLFS do Windows em acesso ao SISTEMA - The Hacker News",
-      "summary": "Nova exploração SignDrop Zero-Day transforma recurso de segurança CLFS do Windows em acesso ao sistema The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85NUswNElUcjRodEQ5VFloeHhBSXJSVVNzMnRONXcwQkRDNklZWC1tZFJwM3VabjVPSS1sazBlbzF0UXE3QlJpdzFvZ1RHVTRORVVoSXlrZ0l2VWs0Vi1Xb3Z2YVljaElfMzVGZWZfcWxtend4dXN3YXRSU3JjYVk?oc=5",
-      "published": "2026-11-12T17:50:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Treinado para trair: como ataques à cadeia de suprimentos pós-treinamento sequestram agentes de codificação",
-      "summary": "A Microsoft Defender Research e a AI Red Team discutem como conjuntos de dados envenenados e pontos de verificação de modelos envenenados podem desencadear a execução remota de código e outras atividades maliciosas. A postagem Treinado para trair: como ataques",
-      "category": "INCIDENTES",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/",
-      "published": "2026-11-12T17:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Falha crítica no Red Hat Quay permite que invasores leiam e sobrescrevam todas as imagens de contêineres privados em um registro",
-      "summary": "Uma falha crítica no Red Hat Quay permite que um invasor que possa acessar um registro do Quay leia e substitua imagens de contêineres privados em cada repositório. O Quay permite o acesso anônimo por padrão e, enquanto estiver habilitado, o invasor não precis",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
-      "published": "2026-11-12T16:27:01+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtLHm05FB2LmoHZMLAD5nDmfo_G2tdIqO4URdUwukuooBCVwIJhKC2rUDbDNtsGB8_lwium1MEUD1CxYcix4WMVpCoS58DJivMBSmb9LcIGswQu0nKUNE_sbfH8EsgFfhPrKEgEY7MJHWKyhFqX61ne-AOFKnTNuqIkWez1bec-kq-3Cz8BFbPLrgiV8k/s1600/redhat.jpg"
-    },
-    {
-      "title": "Falha crítica no Red Hat Quay permite que invasores leiam e sobrescrevam todas as imagens de contêineres privados em um registro - The Hacker News",
-      "summary": "Falha crítica no Red Hat Quay permite que invasores leiam e sobrescrevam todas as imagens de contêineres privados em um registro The Hacker News",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9LTl82QjJkZnZDeERZMlpYQS1WN3BXQVFLNXR5UTdEa3Q2XzBJYmlOTnBkRXFJZHBvbWZ2eDNyY2V3LXNXc3FLb09ndFZCMHNwZFZkOUQySktLZE5xOWNwcDJURzhfTWVPdDRJMVJuOG5NVVN2QjdYcWJR?oc=5",
-      "published": "2026-11-12T16:27:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "O novo Windows SignDrop zero-day dá aos hackers privilégios de SISTEMA",
-      "summary": "O pesquisador de segurança Abdelhamid Naceri (também conhecido como Nightmare Eclipse) lançou uma nova exploração de dia zero do Windows que pode permitir que invasores obtenham privilégios de SYSTEM. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
-      "published": "2026-11-12T16:04:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Citrix corrige 12 falhas do NetScaler e do cliente de acesso seguro, incluindo desvio de autenticação",
-      "summary": "A Citrix lançou patches para várias falhas críticas de segurança que afetam o NetScaler ADC, o Citrix NetScaler Gateway e o NetScaler Console, que podem levar à negação de serviço (DoS) ou a um desvio de autenticação. As vulnerabilidades críticas que afetam o ",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
-      "published": "2026-11-12T15:38:49+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDDv_B4B-cVtvwKyLiGQsL804yGC7_xHF7y3yD5_C284fRXBVRAn5Ashy2apgJr-jaoBHRa3ujgXv1jskM53EvP_pFt41CTazYqFT-tQdcukNBeOTzVIpZXVDsdgtup4MJOEdNNZP9SP0FAdIpG1Cnfgo0YgBXzmI_boLV4qSAsVrmYn5wA3GxnPuj21JO/s1600/citrix.jpg"
-    },
-    {
-      "title": "Apache corrige RCE crítico de servidor HTTP encontrado pela Anthropic e Google",
-      "summary": "A condição de corrida mod_http2, CVE-2026-119618, pode permitir que invasores não autenticados executem código em servidores com HTTP/2 habilitado. A postagem Apache Patches Critical HTTP Server RCE Encontrado pela Anthropic, Google apareceu pela primeira vez ",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/",
-      "published": "2026-11-12T15:38:31+00:00",
       "image": ""
     }
   ]
