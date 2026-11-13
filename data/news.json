@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-11-12T20:06:28.502578+00:00",
+  "updated_at": "2026-11-13T01:57:01.655754+00:00",
   "items": [
+    {
+      "title": "Novo malware ‘SCKit’ semelhante a um worm tem como alvo MSPs em ataques ScreenConnect",
+      "summary": "Um novo kit de ferramentas de malware semelhante a um worm chamado SCKit foi implantado nos recentes ataques ScreenConnect direcionados a provedores de serviços gerenciados (MSPs), projetados para se espalhar de dispositivos de clientes infectados para computa",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
+      "published": "2026-11-12T22:53:10+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers comprometem 4.800 contas do GitHub para roubar credenciais de nuvem",
+      "summary": "Uma nova campanha chamada ‘wfx-loot’ foi lançada no GitHub, onde os agentes de ameaças usaram 4.837 contas comprometidas para investigar 61.764 repositórios, abrir solicitações pull e enviar malware para roubo de segredos. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+      "published": "2026-11-12T22:25:30+00:00",
+      "image": ""
+    },
+    {
+      "title": "Especialistas cibernéticos avaliam: como combater Artex e AntiFox",
+      "summary": "Os cibercriminosos que usam ferramentas de teste de penetração de agentes são um proverbial gênio fora da garrafa neste momento, então as empresas precisam implementar um plano de defesa imediatamente.",
+      "category": "DEFESA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox",
+      "published": "2026-11-12T21:18:52+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt131056a0513594b5/6af623f4a8a90fde9d0b34ee/Artex-ShaunWilkinson-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Interrupção do Microsoft 365 interrompe Outlook, Exchange Online e Teams",
+      "summary": "A Microsoft afirma que as falhas nas verificações de integridade do servidor interromperam o Outlook e outros serviços do Microsoft 365. A empresa ainda está investigando a causa e não divulgou nenhuma evidência de ataque cibernético. A postagem Interrupção do",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/",
+      "published": "2026-11-12T20:55:30+00:00",
+      "image": ""
+    },
+    {
+      "title": "Interrupção do Microsoft 365 interrompe Outlook, Exchange Online e Teams - SecurityWeek",
+      "summary": "Interrupção do Microsoft 365 interrompe Outlook, Exchange Online e Teams SecurityWeek",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONUpZX08wc0l2M09xZjJIMEp0MkJHbTBsSFB0bkE5Y2hudy1LV3BQX3BhZ0o3Mk5pWVFYYkVUN181N2tiR18yTUJDRDNSSjljaDY1Vm1xWFFZT19VbWxvMGd2TU9kNElLdWNTcEFuN2VfQnRYLXU2ck9vNGJCbC1mOGh4eVNfbURkQUxlVG5tc2dVYmF3a3YxWA?oc=5",
+      "published": "2026-11-12T20:55:30+00:00",
+      "image": ""
+    },
+    {
+      "title": "Grupo de extorsão Luna Moth entra em escritórios de advocacia pela segunda vez",
+      "summary": "Os cibercriminosos estão redirecionando escritórios de advocacia que se recusaram a pagar o primeiro resgate, com um golpe de engenharia social que visa roubar tokens de acesso da Microsoft.",
+      "category": "DEFESA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time",
+      "published": "2026-11-12T20:09:41+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd72cfa843f157710/6af61e08fa93fcee56324598/black_and_white_moth-powerofforever-GettyImages-1920014051.jpg?width=720&quality=80&disable=upscale"
+    },
     {
       "title": "Novo N-able “4EverAble2Shell” explorado de dia zero horas após o lançamento do PoC",
       "summary": "Os hackers estão explorando ativamente uma vulnerabilidade de dia zero N-able N-central recém-divulgada chamada \"4EverAble2Shell\" para comprometer servidores e implantar mineradores de criptomoedas, com pesquisadores relatando pelo menos 21 sistemas afetados, ",
@@ -107,60 +161,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/",
       "published": "2026-11-12T15:38:31+00:00",
-      "image": ""
-    },
-    {
-      "title": "186 domínios de IA falsos redirecionam usuários para iscas ClickFix, malware de navegador e sequestradores de pesquisa",
-      "summary": "Pesquisadores de segurança cibernética descobriram que domínios semelhantes disfarçados de ferramentas de inteligência artificial (IA) estão sendo usados ​​para servir iscas no estilo ClickFix, malware de sequestro de navegador e um conjunto de extensões que s",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
-      "published": "2026-11-12T15:15:40+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirJnc36Fxj4oKOmKhcPvspB_xQpv3VgpXjYnu29SOv8NbVJHeaGNKT26851QIPQbHozxeF5vmq5otdRbJBKEaN9557MtuxLwp5fxX-pQVDVKwvZJtPR9ayT2Njx83svW7TVsVkVpFUOt5JHqhdSkSI7uV0d4dxlf5pWAmHISttTHWjURyOpuuy0CzVCSmK/s1600/lauce.jpg"
-    },
-    {
-      "title": "Polícia desmonta infraestrutura de malware Gootloader, CastleRAT e StealC",
-      "summary": "A Europol e parceiros responsáveis ​​pela aplicação da lei de nove países apreenderam centenas de servidores e domínios utilizados pelas operações de malware Gootloader, CastleRAT e StealC. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
-      "published": "2026-11-12T15:07:20+00:00",
-      "image": ""
-    },
-    {
-      "title": "Sua plataforma de gerenciamento de endpoint pode ser seu maior risco de segurança",
-      "summary": "As plataformas de gerenciamento de endpoints podem se tornar ferramentas de ataque poderosas quando comprometidas, permitindo que hackers implantem malware, executem comandos e interrompam milhares de dispositivos. Action1 explica como a autorização criptográf",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
-      "published": "2026-11-12T15:00:10+00:00",
-      "image": ""
-    },
-    {
-      "title": "Apify alterna tokens de API e solicita redefinições de 2FA após violação",
-      "summary": "Apify alterou segredos internos críticos e revogou algumas conexões OAuth de terceiros após detectar acesso não autorizado a seus sistemas internos. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
-      "published": "2026-11-12T14:36:47+00:00",
-      "image": ""
-    },
-    {
-      "title": "Chrome e Firefox atualizam patch para mais de 180 vulnerabilidades",
-      "summary": "O Google corrigiu 83 falhas com uma nova versão do Chrome 157, e a Mozilla corrigiu 99 bugs no Firefox 160. A postagem Chrome, Firefox atualiza patch de mais de 180 vulnerabilidades apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/",
-      "published": "2026-11-12T13:42:09+00:00",
-      "image": ""
-    },
-    {
-      "title": "Atacante visa 60.000 repositórios GitHub em campanha de roubo de credenciais",
-      "summary": "Usando milhares de contas sequestradas, a campanha wfx-loot plantou um ladrão de segredos de CI que foi executado em mais de 1.800 repositórios GitHub. A postagem Atacante visa 60.000 repositórios GitHub em campanha de roubo de credenciais apareceu pela primei",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/attacker-targets-60000-github-repositories-in-credential-theft-campaign/",
-      "published": "2026-11-12T13:39:03+00:00",
       "image": ""
     }
   ]
