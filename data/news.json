@@ -1,9 +1,45 @@
 {
-  "updated_at": "2026-11-13T19:52:47.784351+00:00",
+  "updated_at": "2026-11-14T01:30:47.417464+00:00",
   "items": [
     {
-      "title": "Trezor confirma implantes de roubo de criptografia em três carteiras e lança correção",
-      "summary": "O fabricante de carteiras de hardware de criptomoeda Trezor confirmou que três dispositivos Safe 5 vendidos pelo revendedor CryptoBilis do sudeste asiático continham implantes de hardware maliciosos projetados para roubar frases de recuperação de carteira e en",
+      "title": "FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/",
+      "published": "2026-11-13T21:33:27+00:00",
+      "image": ""
+    },
+    {
+      "title": "SCKit abuses ScreenConnect to deploy remote access and target technician sessions",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/",
+      "published": "2026-11-13T21:31:44+00:00",
+      "image": ""
+    },
+    {
+      "title": "ARTEX and beyond: AI-enabled penetration testing platforms",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "Cisco Talos",
+      "url": "https://blog.talosintelligence.com/artex-and-beyond/",
+      "published": "2026-11-13T20:57:13+00:00",
+      "image": ""
+    },
+    {
+      "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
+      "published": "2026-11-13T20:20:27+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt876ae2249da592eb/6af77117471ce44823395b3f/smartphone_Ao_Zaa_Studio_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
@@ -11,8 +47,8 @@
       "image": ""
     },
     {
-      "title": "Adaptando-se aos orquestradores de testes de penetração de IA: o modelo de segurança moderno",
-      "summary": "Plataformas de testes de penetração orquestradas por IA, como a ARTEX, tornaram-se ferramentas cada vez mais poderosas, permitindo ataques eficazes a infraestruturas expostas. Aqui compartilhamos as observações da Cloudflare e as contramedidas recomendadas.",
+      "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "Cloudflare Security",
       "url": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
@@ -20,8 +56,8 @@
       "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M7B3YN6VXD98D313GQ0MHPM2.png"
     },
     {
-      "title": "Operações militares alemãs de drones interrompidas por ataque cibernético",
-      "summary": "A empresa alemã de tecnologia de defesa Quantum Systems confirmou que detectou um incidente no final de outubro que fazia parte de um ataque cibernético ativo por “atores hostis”. [...]",
+      "title": "German military drone operations disrupted by cyberattack",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
@@ -29,8 +65,8 @@
       "image": ""
     },
     {
-      "title": "PostgreSQL corrige 52 falhas, incluindo bug de 22 anos que permite RCE autenticado",
-      "summary": "Uma falha de confusão de tipo no PostgreSQL permite que um usuário de banco de dados que pode criar objetos execute código no servidor. As atualizações lançadas ontem corrigem isso, junto com outras 51 falhas de segurança. A proteção total contra essa falha ta",
+      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
@@ -38,8 +74,17 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj8XOS7IKEt2ZhrwwdlDSpQ5hAyI46wHZpPkTQ3_hA6yUtMQpzaM50fm2v9x0O7NCt5z9vdrTsYM3iPOmu9fmmMTQDViu-rQjCfSxfCQhwZQazr4ZYayvEn5MQfUdTBVODtAay6RIaTqJGUj-HVzbtMqNPdNFiQHExhO9sitJX0GrvTx_EhWmslA-87ds/s1600/postgresql.jpg"
     },
     {
-      "title": "Gateways Check Point hackeados via PHP2Shell para implantar limpador VMware ESXi",
-      "summary": "Instâncias vulneráveis ​​do Check Point Security Gateway foram alvo de ataques PHP2Shell que implantaram malware de limpeza de dados em hosts VMware ESXi. [...]",
+      "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaGdMRjVvWU5YOGVxT3k2UUh6amJZT2o3SDNDd2pyd1Y5Q1cxYUppRF9McjduQkJ1V2RoQmJHVkVFVWpuaUN3YmJueGs3bHFibGFobHp4LXdwckxCbGJsWHBPWmJHREtia1QyYUdsLWFYaVhJcFFleEZVTmtHVURJRTN3?oc=5",
+      "published": "2026-11-13T16:53:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
@@ -47,8 +92,8 @@
       "image": ""
     },
     {
-      "title": "Novos ataques Mior e Skyfall permitem que hosts de nuvem invasores roubem segredos de VMs AMD SEV-SNP",
-      "summary": "Dois ataques tornados públicos esta semana permitem que um host malicioso leia dados dentro de máquinas virtuais (VMs) protegidas por AMD SEV-SNP, que são construídas para manter o operador do servidor afastado. Um deles, o Mior, também pode modificar a memóri",
+      "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
@@ -56,8 +101,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi28SrA-dW0l0kreAg1vMHHOgBRMM7lzxv5qg2FT2HzRxReJ96pxZP4Fjpm15fYWDDgWpbBI8iC119aE37t_kmQ4guoA70NUlJsdiA4hFvTg8fflx9fsKqUsGuoB-S9VS5pPd38EBVYRGmvKIT5EylE3IwEK8bBCp5CkLrdTwhbyUA2xWN_0iOynP33yE8/s1600/amd-flaws.jpg"
     },
     {
-      "title": "Em outras notícias: Novo nomeado para diretor da CISA, Connected Car Hacking, Baker Tilly Data Breach",
-      "summary": "Histórias dignas de nota que podem ter passado despercebidas: Siemens detalha política de consultoria de segurança, risco de backdoor OpenAI Codex, Microsoft alerta sobre backdoors de peso de modelo. A postagem Em outras notícias: Novo nomeado para diretor da ",
+      "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/",
@@ -65,8 +110,8 @@
       "image": ""
     },
     {
-      "title": "Como um agente de IA expôs cinco lacunas críticas de segurança empresarial",
-      "summary": "Um agente de IA criado para automatizar o processamento de faturas poderia ser manipulado para alterar os dados bancários do fornecedor por meio de um e-mail malicioso, sem acionar alertas de segurança tradicionais. A Token Security examina cinco lacunas críti",
+      "title": "How one AI agent exposed five critical enterprise security gaps",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "CLOUD & IA",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
@@ -74,8 +119,8 @@
       "image": ""
     },
     {
-      "title": "FBI afirma que hackers norte-coreanos roubaram mais de US$ 400 milhões em criptografia usando videochamadas deepfake",
-      "summary": "O Federal Bureau of Investigation (FBI) dos EUA estabeleceu que atores de ameaças ligados à República Popular Democrática da Coreia (RPDC, também conhecida como Coreia do Norte) roubaram mais de US$ 400 milhões em criptomoedas como parte de um esquema de engen",
+      "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
@@ -83,8 +128,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDmjJA-t4vvigohRIfUR6JExYEPR0Dohh29eooVagQOvRyRDgdisxAy3wSWni5iFHjf2Dk8X2BavSeGO8hJ-wCTbDuffsdtamOuqj1PVTb75EWNF5vNe3tCsS6pyS_pSzNhEELOVU0DxHdmGx4Kt8KNqwz8YheAM9kEoVmpnHeVV1qsofLCBYDEt0E2IqX/s1600/flash.jpg"
     },
     {
-      "title": "Trezor confirma implantes ocultos em carteiras vendidas por CryptoBilis que podem roubar frases de recuperação",
-      "summary": "Três carteiras Trezor Safe 5 compradas do revendedor CryptoBilis contêm um implante, uma placa de circuito extra que pode copiar suas frases de recuperação, disse ontem o fabricante de carteiras de hardware Trezor. O implante lê a frase na tela da carteira e a",
+      "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
@@ -92,8 +137,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivDE4uIn_bV4GUrsw0LjzqBnnNaQM_0lzJhrSy89nrShmwNlFcsVucCFpzzZ2LMkkSMF-XMb8rp0e7_Maemyj5sypkVIf4s2Wx5pbJXkOwf0vMkG9ThBQAHhvJ_mKWHq78f_iJYhAM2l1Hp_Zk3VtB_bVvYFmZTX4WakIpC_Zib0rlFnDG-H674JSP5Mg/s1600/implant.jpg"
     },
     {
-      "title": "Microsoft luta para restaurar e-mail e outros serviços em meio a uma interrupção global",
-      "summary": "A Microsoft está tentando diferentes maneiras de identificar a causa do problema e colocar seus servidores online novamente, usando “uma abordagem medida para identificar e reparar a infraestrutura afetada”. A postagem Microsoft se esforça para restaurar e-mai",
+      "title": "Microsoft Struggles to Restore Email and Other Services in a Global Outage",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "DEFESA",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/",
@@ -101,67 +146,22 @@
       "image": ""
     },
     {
-      "title": "Atacantes em violação de binance visam fraquezas conhecidas e controles ausentes",
-      "summary": "As complexidades do blockchain, como os varredores implantados por invasores, prejudicam os controles de segurança projetados para limitar os danos de um comprometimento da exchange.",
+      "title": "Microsoft Struggles to Restore Email and Other Services in a Global Outage - SecurityWeek",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeDVrU1E3aTZpdTlnYV9yUWJHbkhCSGF3LUZIbVJOeEhYbzhoRUtLNGVFOEdTdmpBUW5mWUJORXpHMU9xRUEtNVhZNlJkNEpmcEZKMGdfVkhKaHdyU1lXajhrdGtRSDhwRXB1ekRuVUVlVE4zOVNJc2JzLV9CTEE4TG1ub0pLVTgyUjNDQ3hOTWo5NFpSMFc2VXFuZkVEb2FmVXgtOUp1dw?oc=5",
+      "published": "2026-11-13T13:47:42+00:00",
+      "image": ""
+    },
+    {
+      "title": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls",
       "published": "2026-11-13T13:00:00+00:00",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3c2322c93d29d2a7/6aed04e63037c1017f2823d8/binance-logo-on-black-bkgrd-Zulfugar_Graphics-shutterstockjpg.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Apify confirma dados de clientes acessados ​​em ataque cibernético",
-      "summary": "A empresa de web scraping afirma que um invasor acessou contas de clientes e obteve informações pessoais ou dados armazenados. O post Apify confirma dados do cliente acessados ​​​​em ataque cibernético apareceu pela primeira vez em SecurityWeek.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/",
-      "published": "2026-11-13T12:41:01+00:00",
-      "image": ""
-    },
-    {
-      "title": "Microsoft diz que atualizações de segurança de novembro causam problemas de impressão",
-      "summary": "A Microsoft alertou os clientes no início desta semana que as atualizações de segurança de novembro de 2026 podem interromper a impressão de documentos com formatação complexa. [...]",
-      "category": "DEFESA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
-      "published": "2026-11-13T12:27:40+00:00",
-      "image": ""
-    },
-    {
-      "title": "SilentAir Hackers interceptam chamadas e SMS de dentro de redes móveis",
-      "summary": "Enea diz que a SilentAir sequestrou nós de rede móvel para interceptar chamadas e mensagens, sendo os assinantes taiwaneses os principais alvos. A postagem SilentAir Hackers interceptam chamadas e SMS de dentro de redes móveis apareceu pela primeira vez em Sec",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/",
-      "published": "2026-11-13T12:20:28+00:00",
-      "image": ""
-    },
-    {
-      "title": "SilentAir sequestra redes de telecomunicações asiáticas para interceptar códigos SMS 2FA e espionar usuários taiwaneses",
-      "summary": "Um grupo de espionagem recém-identificado usou equipamentos hackeados dentro de operadoras móveis asiáticas para interceptar chamadas e mensagens de texto de pessoas selecionadas, principalmente em Taiwan. A Enea, uma empresa de software de telecomunicações e ",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
-      "published": "2026-11-13T11:10:40+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjskRPNlV_kYE1N2eF2J_J0fBvF_nQxnvtaS78Grj04KqkEauvr-R5jO-ynD9nm51SgF2XtCCAsWUbJrHU0wGRnXC9yHmblhNCF8Jt9NdVahMju3voR2z9xb2uqoSi7Nc085UqDBelqg4XDRdjJ2lsF7EeN28rjq7oBc_NpBUWRqLWXiOh9FBRIH28teHM/s1600/telecom-hack.jpg"
-    },
-    {
-      "title": "Operação Endgame derruba servidores Gootloader, CastleRAT e StealC e apreende 6,4 milhões de logins roubados",
-      "summary": "Uma operação policial internacional derrubou servidores atrás de Gootloader, CastleRAT e StealC esta semana. Os criminosos usaram as três ferramentas de malware para obter acesso a computadores, roubar senhas e lançar ataques de ransomware. A polícia também ap",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
-      "published": "2026-11-13T10:55:03+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsu6ZFyYFr1dxp2XHIaG_pyTwkoH58ICgyXLuTthkuYSJVcqAwX_O_bEJYfheyxpYmI7nnok1xrj97q7s-9l8JHFt1ogBAOJAEUqM8_vf6H3a8eYPKzB34d6XrvnkRu8zGaoKMgSJqWsE6u2zYXLdJKTtcDvk3beN6_o40ygJ4MVSMomS3Q1aEFV_jSq8/s1600/gootloader.jpg"
-    },
-    {
-      "title": "A aplicação da lei interrompe a infraestrutura Gootloader, CastleRAT e StealC",
-      "summary": "Os investigadores apreenderam 235 servidores e 257 domínios, juntamente com 6,4 milhões de credenciais de vítimas como parte da Operação Endgame. A postagem A aplicação da lei interrompe a infraestrutura Gootloader, CastleRAT e StealC apareceu pela primeira ve",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/",
-      "published": "2026-11-13T10:48:40+00:00",
-      "image": ""
     }
   ]
 }
