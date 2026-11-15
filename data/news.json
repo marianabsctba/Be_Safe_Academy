@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-11-15T06:47:43.009178+00:00",
+  "updated_at": "2026-11-15T16:27:58.710532+00:00",
   "items": [
+    {
+      "title": "Violação de dados de funcionários da TSMC vinculada ao provedor de nuvem",
+      "summary": "A Taiwan Semiconductor Manufacturing Company (TSMC) confirmou que dados pessoais de funcionários vazaram online depois que um agente de ameaça colocou em leilão 6,9 GB de informações supostamente roubadas da empresa. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+      "published": "2026-11-15T15:23:48+00:00",
+      "image": ""
+    },
+    {
+      "title": "Pentágono renomeia CDAO como ‘Escritório de Super Inteligência’",
+      "summary": "A medida segue a ordem do presidente Trump de substituir a “inteligência artificial” por “superinteligência” nas comunicações do poder executivo. A postagem Pentágono renomeia CDAO como ‘Super Intelligence Office’ apareceu pela primeira vez na SecurityWeek.",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
+      "published": "2026-11-15T12:51:33+00:00",
+      "image": ""
+    },
+    {
+      "title": "Cursor diz que chave de IA roubada do Fireworks levou a incidente de extensão de código Claude trojanizado",
+      "summary": "O comprometimento da extensão oficial Claude Code da Anthropic no mercado de extensões do Cursor foi o resultado do roubo de uma chave de acesso que foi exposta na sequência de uma violação visando o Fireworks AI. “Um invasor obteve uma chave de acesso que emi",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+      "published": "2026-11-15T08:22:04+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg16ACawbG7rP_kT-8Boo4xdTje3BeTWyFSnNXwHhr5cvy2-1X3Ljhrc1IuZlseWd55tN8E1yjQ9ldhTnjWTU-GJBpX_Zen36YiLQGsRSRAoteqHyxx7mn_w0QgLfMKDLItA4p_jpHajucbglLnCR_zWBY_t82YvFkLa9dQFBfjP1BrTlrNdYufsGMSZiGn/s1600/cursor.jpg"
+    },
+    {
+      "title": "Meta multada em US$ 887 milhões na Itália por causa de fotos e vídeos da galeria Android no Facebook",
+      "summary": "A diretiva protege os smartphones como parte da esfera privada de uma pessoa e exige “consentimento livre e informado” para tal acesso, disse a autoridade. A postagem Meta multada em US$ 887 milhões na Itália por fotos e vídeos da galeria do Android no Faceboo",
+      "category": "DEFESA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/",
+      "published": "2026-11-14T19:00:00+00:00",
+      "image": ""
+    },
     {
       "title": "Cursor confirma que violação de segurança levou à extensão maliciosa do Claude Code",
       "summary": "A Cursor confirmou que sofreu uma violação de segurança que permitiu que hackers distribuíssem uma extensão maliciosa do Claude Code em seu mercado após roubar credenciais do provedor de infraestrutura de IA Fireworks AI. [...]",
@@ -125,42 +161,6 @@
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
       "published": "2026-11-13T19:38:36+00:00",
-      "image": ""
-    },
-    {
-      "title": "Adaptando-se aos orquestradores de testes de penetração de IA: o modelo de segurança moderno",
-      "summary": "Plataformas de testes de penetração orquestradas por IA, como a ARTEX, tornaram-se ferramentas cada vez mais poderosas, permitindo ataques eficazes a infraestruturas expostas. Aqui compartilhamos as observações da Cloudflare e as contramedidas recomendadas.",
-      "category": "INCIDENTES",
-      "source": "Cloudflare Security",
-      "url": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
-      "published": "2026-11-13T19:26:07+00:00",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M7B3YN6VXD98D313GQ0MHPM2.png"
-    },
-    {
-      "title": "Operações militares alemãs de drones interrompidas por ataque cibernético",
-      "summary": "A empresa alemã de tecnologia de defesa Quantum Systems confirmou que detectou um incidente no final de outubro que fazia parte de um ataque cibernético ativo por “atores hostis”. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
-      "published": "2026-11-13T17:31:56+00:00",
-      "image": ""
-    },
-    {
-      "title": "PostgreSQL corrige 52 falhas, incluindo bug de 22 anos que permite RCE autenticado",
-      "summary": "Uma falha de confusão de tipo no PostgreSQL permite que um usuário de banco de dados que pode criar objetos execute código no servidor. As atualizações lançadas ontem corrigem isso, junto com outras 51 falhas de segurança. A proteção total contra essa falha ta",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
-      "published": "2026-11-13T16:53:08+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj8XOS7IKEt2ZhrwwdlDSpQ5hAyI46wHZpPkTQ3_hA6yUtMQpzaM50fm2v9x0O7NCt5z9vdrTsYM3iPOmu9fmmMTQDViu-rQjCfSxfCQhwZQazr4ZYayvEn5MQfUdTBVODtAay6RIaTqJGUj-HVzbtMqNPdNFiQHExhO9sitJX0GrvTx_EhWmslA-87ds/s1600/postgresql.jpg"
-    },
-    {
-      "title": "Gateways Check Point hackeados via PHP2Shell para implantar limpador VMware ESXi",
-      "summary": "Instâncias vulneráveis ​​do Check Point Security Gateway foram alvo de ataques PHP2Shell que implantaram malware de limpeza de dados em hosts VMware ESXi. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
-      "published": "2026-11-13T16:21:43+00:00",
       "image": ""
     }
   ]
