@@ -1,9 +1,81 @@
 {
-  "updated_at": "2026-11-16T19:43:24.279193+00:00",
+  "updated_at": "2026-11-17T04:00:39.553067+00:00",
   "items": [
     {
-      "title": "A tática de 'agente adormecido' esconde cargas úteis em modelos de IA de peso aberto",
-      "summary": "O malware pode estar escondido em apenas 0,00001% de uma rede neural. Como, então, qualquer usuário pode saber que ele está lá?",
+      "title": "Optimizely supply chain attack infects major brands' sites with malware",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware/",
+      "published": "2026-11-17T02:12:17+00:00",
+      "image": ""
+    },
+    {
+      "title": "High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2/",
+      "published": "2026-11-17T00:08:41+00:00",
+      "image": ""
+    },
+    {
+      "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+      "published": "2026-11-16T22:54:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+      "published": "2026-11-16T21:31:44+00:00",
+      "image": ""
+    },
+    {
+      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
+      "published": "2026-11-16T20:59:44+00:00",
+      "image": ""
+    },
+    {
+      "title": "Trump Administration Moves to Block China From Indirect Access to American AI Technology",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "CLOUD & IA",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-technology/",
+      "published": "2026-11-16T20:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
+      "published": "2026-11-16T19:57:13+00:00",
+      "image": ""
+    },
+    {
+      "title": "Ransomware Attacks Increase Behind AI, But Payments Decline",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/threat-intelligence/ransomware-attacks-increase-ai-payments-decline",
+      "published": "2026-11-16T19:56:05+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt80dac13b14975660/6af7368e89398e7e289817aa/global-cyber-map-alestudio996-shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "'Sleeper Agent' Tactic Hides Payloads in Open-Weight AI Models",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/vulnerabilities-threats/sleeper-agent-tactic-payloads-open-weight-ai-models",
@@ -11,8 +83,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc64dc86fdbfba025/6af7630521de23678b058bc7/Spy-IconicBestiary-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Atores China-Nexus violam 10 organizações em ataques conduzidos por IA",
-      "summary": "Os atacantes usaram Cairn mais uma vez em ataques autónomos que visavam sectores avançados de produção e defesa, bem como organizações de direitos civis e humanos.",
+      "title": "China-Nexus Actors Breach 10 Organizations in AI-Driven Attacks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks",
@@ -20,8 +92,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98c5fdb26a9d6d01/669a8451220787d9a293b79f/China(1800)_Rokas_Tenys_Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Ataque de cursor à cadeia de suprimentos iniciado no Fireworks AI",
-      "summary": "O invasor roubou uma chave de acesso do Fireworks e a usou para exfiltrar credenciais que lhes permitiram enviar cópias maliciosas da extensão Claude Code. A postagem Ataque de cursor à cadeia de suprimentos iniciado no Fireworks AI apareceu pela primeira vez ",
+      "title": "Cursor Supply Chain Attack Started at Fireworks AI",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/",
@@ -29,8 +101,8 @@
       "image": ""
     },
     {
-      "title": "Fandango diz que hackers roubaram detalhes de cartões de pagamento nas páginas de checkout",
-      "summary": "O vendedor de ingressos Fandango Media está notificando os clientes sobre uma violação de dados que expôs os detalhes do cartão de pagamento inseridos em suas páginas de checkout. [...]",
+      "title": "Fandango says hackers stole payment card details from checkout pages",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
@@ -38,8 +110,8 @@
       "image": ""
     },
     {
-      "title": "Google Project Zero define rumo para prazo de divulgação de 30 dias",
-      "summary": "Ele passará para uma janela de divulgação de vulnerabilidade de 60 dias em fevereiro de 2027 e para uma janela de 30 dias em janeiro de 2028. A postagem Google Project Zero define curso para prazo de divulgação de 30 dias apareceu pela primeira vez na Security",
+      "title": "Google Project Zero Sets Course for 30-Day Disclosure Deadline",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline/",
@@ -47,8 +119,8 @@
       "image": ""
     },
     {
-      "title": "Barracuda hackeada em meio a ataques cibernéticos impulsionados pela Artex",
-      "summary": "Os atores de ameaças chineses estão adotando amplamente a estrutura de testes de penetração de IA para acelerar seus ataques. A postagem Barracuda hackeada em meio ao aumento de ataques cibernéticos movidos pela Artex apareceu pela primeira vez na SecurityWeek",
+      "title": "Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/barracuda-hacked-amid-surge-in-artex-powered-cyberattacks/",
@@ -56,8 +128,8 @@
       "image": ""
     },
     {
-      "title": "7 dicas para cumprir os requisitos de senha CJIS e MFA",
-      "summary": "A mais recente Política de Segurança CJIS do FBI exige que as agências de aplicação da lei fortaleçam as proteções de senha e apliquem MFA em contas privilegiadas e não privilegiadas. A Specops Software descreve sete etapas práticas para atender a esses requis",
+      "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "DEFESA",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
@@ -65,8 +137,8 @@
       "image": ""
     },
     {
-      "title": "Google alerta que ataques de IA totalmente automatizados ocorrerão em breve",
-      "summary": "Os atores de ameaças agora contam com fluxos de trabalho de agentes alimentados por estruturas ofensivas baseadas em IA para automatizar a descoberta e exploração de vulnerabilidades, acelerando os ataques à velocidade da máquina. [...]",
+      "title": "Google warns that fully-automated AI attacks are coming soon",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
@@ -74,8 +146,8 @@
       "image": ""
     },
     {
-      "title": "Google encontra hackers usando agentes de IA para criar e executar explorações a partir de patches de software",
-      "summary": "O Google revelou na segunda-feira que o uso adversário de inteligência artificial (IA) por atores de ameaças foi além da solicitação manual para a implantação de estruturas ofensivas multiagentes autônomas como ARTEX, CAIRN, CyberStrikeAI e PentAGI para execut",
+      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
@@ -83,85 +155,13 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpEBmKLWFpEn8sSoJLtj1ZR7FPMd8GxxKN2v4IzyBkydma_g4gXzaWEEkK5CTPwidrBPw6QPdoByiEC14ufVP2pvezWKtH_dmqHttARDKzDOopkw0vzUdTYZubCh9Qy76nlmVSbhtTSvDOuT1c70E4TVPw8T4hUhMdR-saHjQPW1S9IZNmg2_RfsMsmJLb/s1600/google.jpg"
     },
     {
-      "title": "Google encontra hackers usando agentes de IA para criar e executar explorações a partir de patches de software – The Hacker News",
-      "summary": "Google encontra hackers usando agentes de IA para criar e executar explorações a partir de patches de software The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMU1mNVUtaU1mbFc5RkYtbVl5SndUcjJPVm1FVjcxWnB1NW9KRHJoTloxZ053STNBdUxuVHhqLXF6dV8xRWRGMUNhRzVMSnhrNTRnNnRtY2s0WWMzeEVjR21HOVQwT0R3RkVXZDNYbFRqY2FYZl9wOElWc3JVRklDUFdRcWw?oc=5",
-      "published": "2026-11-16T14:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "⚡ Recapitulação semanal: N-able 0 dias, Windows 0 dias, Chrome 0 dias, geladeira 0 dias e mais dias ruins",
-      "summary": "Uma senha padrão abriu portas que nunca deveria ter aberto. Uma atualização confiável entregou malware. Até mesmo um recurso de segurança tornou-se uma forma de invasão. Histórias diferentes, o mesmo problema: as coisas destinadas a nos proteger nem sempre est",
+      "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
       "published": "2026-11-16T13:27:20+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMhM3PBYlJasSU7OztYuQsJDnDRFYwqV1-X9Nt1mTlAhFe0YQXSr0XrdCfo47u2DGAE8qSNw32LuPlMxoeTOBjakeXiHpHjFSXw7rsy8FdCldY2E6MuX9uKGM2McoGsaXUGDY2MYBsRAGXUDMGqzkT4wWlEezGDQho_f7d6MYNG2HAeW9FKeldRJrh0kj3/s1600/recaps.jpg"
-    },
-    {
-      "title": "Microsoft: Windows Server 2016 chega ao fim do suporte em 60 dias",
-      "summary": "A Microsoft lembrou novamente aos clientes que o Windows Server 2016 deixará de receber atualizações de segurança após atingir o fim do suporte em dois meses. [...]",
-      "category": "DEFESA",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
-      "published": "2026-11-16T12:53:18+00:00",
-      "image": ""
-    },
-    {
-      "title": "Widgets do Telegram atingidos por demonstrações RCE, aviso de malware dias após o lançamento",
-      "summary": "A Kaspersky suspeita da exploração dos novos widgets do Telegram para fornecer WebRAT, enquanto os pesquisadores demonstram o RCE e Pavel Durov contesta as alegações. A postagem Widgets do Telegram atingidos por demonstrações RCE, aviso de malware dias após o ",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/",
-      "published": "2026-11-16T12:48:03+00:00",
-      "image": ""
-    },
-    {
-      "title": "Seis falhas não corrigidas do controlador de refrigeração Danfoss podem permitir aquisição remota sem login",
-      "summary": "Seis falhas nos controladores de refrigeração Danfoss AK-SM800A podem permitir que um invasor remoto assuma o controle de um controlador sem fazer login, disse a consultoria de segurança holandesa Midnight Blue no início desta semana. Nenhum patch está disponí",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
-      "published": "2026-11-16T12:34:21+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_1GngZ38pRRizZTrhUgdWx49U1Dk8N_Y1Wkfll2kXIjAeYMmX2R69d6OBvA9k-zb6rnYbNOZyouN9yj59QIlT8XxiTzmmhLTmwmEdU2bqiGc_XoSMlvKKN1qZtH3o73YN1miGEhR4vkDniji2WkWOHjSPPIn69ysWKPkFzr504FsViG2NQYxPDkD7sgw/s1600/flaws.jpg"
-    },
-    {
-      "title": "Seis falhas não corrigidas do controlador de refrigeração Danfoss podem permitir o controle remoto sem login - The Hacker News",
-      "summary": "Seis falhas não corrigidas do controlador de refrigeração Danfoss podem permitir aquisição remota sem login The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RMXl0VUVtWmJITW9QM1RlT3UwWXIwMnJCNkphY0Y3MW8xcjVHR1VOY1JTS1NRNW4tcjZabnc4NzMtT1haNUt5cHowTkttMFdpSEV2QTROZWxpcmpOUUU3SExWaXpEN3pMTmo5MUtYd3R2RDduVGNZcWlvbUM3MEE?oc=5",
-      "published": "2026-11-16T12:34:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "O worm Retadup reaparece 7 anos após a remoção para espalhar o malware CoffeeLoader",
-      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma nova variante do CoffeeLoader, um malware projetado para entregar cargas adicionais a máquinas infectadas. “No lançamento, o executável do instalador baseado em NSIS colocou um arquivo chamado ‘",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
-      "published": "2026-11-16T12:33:18+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxRuwbdQU-KyBsSrFlIZp4oczr_tJu53WrfB3nM6QYrO7kFgGAZO1NMSi7mziUOUaTrzq5C4KzCJqvYOf0Ry19ypJac-9mBYzYiqiTNl462i1uYo7DF9aAHxiVU_IOaByH3NtNlrF0hUhZtpItADKJauPVzWrz8r6YOQEHQrt_YiAmPba4CIOsSjZA2Wy_/s1600/hacker-code.jpg"
-    },
-    {
-      "title": "O worm Retadup ressurge 7 anos após a remoção para espalhar o malware CoffeeLoader - The Hacker News",
-      "summary": "O worm Retadup reaparece 7 anos após a remoção para espalhar o malware CoffeeLoader The Hacker News",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQm1rRjd1RGp1YW85bi1oUVItY3Fra1U2SFJWUkYzbjVtWEU0aHZHcnlnc05KVkcwM0RUZlFlZ0JGRDR4WTAzWDUzaTZzb25xQzNmSEVEb09tRlZvb19QRlFmaDRTSVFuWUtLaDVrZ09xYjZoaFJZRVhJcC1TYXo0dEtn?oc=5",
-      "published": "2026-11-16T12:33:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Gigante varejista australiano Coles investiga incidente de segurança cibernética",
-      "summary": "O Coles Group Limited, o segundo maior varejista da Austrália, está investigando o que descreveu como um “incidente de segurança cibernética” que não afetou as lojas da empresa. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
-      "published": "2026-11-16T11:18:09+00:00",
-      "image": ""
     }
   ]
 }
