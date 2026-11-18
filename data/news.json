@@ -1,166 +1,166 @@
 {
-  "updated_at": "2026-11-18T01:02:30.072214+00:00",
+  "updated_at": "2026-11-18T11:56:25.546045+00:00",
   "items": [
     {
-      "title": "Falha crítica do Java4Shell permite ataques RCE nos principais aplicativos Java",
-      "summary": "Uma vulnerabilidade crítica chamada Java4Shell no OpenJDK, a implementação de código aberto do Java, pode permitir que invasores não autenticados executem remotamente código em aplicativos empresariais populares, incluindo Jenkins, Atlassian Jira, Confluence e",
+      "title": "Chrome 158 Patches 204 Vulnerabilities",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
-      "published": "2026-11-17T23:04:21+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ataques de malware otimizados destacam riscos de fornecedores terceirizados",
-      "summary": "Pelo menos 178 organizações, incluindo várias marcas importantes, expuseram involuntariamente visitantes de sites a malware do tipo Hydra por meio de uma plataforma de terceiros.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
-      "published": "2026-11-17T22:34:22+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0c54a284942546cd/6afccec91ecf5c62546c1c34/hydra_Daniel_Eskridge_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Chaves de nuvem vazadas em imagens do Docker Hub são roubadas em segundos",
-      "summary": "Credenciais e segredos de acesso expostos em imagens públicas do Docker Hub estão sendo extraídos e explorados por invasores em apenas oito segundos após a publicação. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
-      "published": "2026-11-17T21:27:17+00:00",
-      "image": ""
-    },
-    {
-      "title": "Kit de phishing 'TheMailer' coloca IA no comando",
-      "summary": "O kit comercial usa modelos de IA fornecidos pelo invasor para personalizar iscas, evitar filtros de spam e dimensionar campanhas para dezenas de milhares de alvos.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
-      "published": "2026-11-17T20:58:13+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6f7643977746699c/6afcac2049ae9b70b9695c91/red_mailbox_white_brick_wall-Liudmila_Chernetska-GettyImages-1477282383.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Japão desliga supercomputador Fugaku após ataque cibernético",
-      "summary": "O supercomputador Fugaku operado pelo Centro RIKEN de Ciência Computacional do Japão foi colocado offline após uma violação de segurança. [...]",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
-      "published": "2026-11-17T20:51:21+00:00",
-      "image": ""
-    },
-    {
-      "title": "A retirada da Quad9 de França: um canário na mina de carvão",
-      "summary": "A retirada forçada da Quad9 de França destaca os perigos de impor o bloqueio ao nível do DNS. Exploramos por que forçar os resolvedores públicos a agirem como filtros de conteúdo é tecnicamente falho e ameaça a Internet aberta.",
-      "category": "AMEAÇAS",
-      "source": "Cloudflare Security",
-      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
-      "published": "2026-11-17T20:24:27+00:00",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M7NJ9YQG0JNP2HSE7YEGCHJB.png"
-    },
-    {
-      "title": "Pesquisadores afirmam duas explorações de RCE que contornam as novas defesas do Android do Telegram",
-      "summary": "Um widget malicioso pode contornar o filtro de segurança que o Telegram adicionou ao seu aplicativo Android na semana passada e executar código fora dele, de acordo com a NebuSec, uma empresa de segurança. Widgets são pequenos blocos interativos que os bots en",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
-      "published": "2026-11-17T19:34:20+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpVlnQrxQ-QDawosxNpQdcPtITzUQKuYeqUtOk0gctwRhi-8P9Qi_9L72cSwkHRdGNS94HaIDHEkqeb0NTPw3mIZyFstN3ZM1FlUoMweKPNz4iTkAkxlxFSNdE92DAFlfLMFe0gTXWE78eOHROSbISVMgdmFOeVhm0SS2-1wXrNxPGknTVMGroQ0pRqYg/s1600/telegram-rce.jpg"
-    },
-    {
-      "title": "Pesquisadores afirmam duas explorações de RCE que contornam as novas defesas do Android do Telegram - The Hacker News",
-      "summary": "Pesquisadores afirmam duas explorações de RCE que contornam as novas defesas do Android do Telegram The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa05ncWJKLUtZLUhjcDF5ZWFhWE1tMFh0Yk8zQWxPZ0JNR1hYQXBCUExtQ1NYM0I4b1FGTHNKRms5NVVxcmhoLXlMTGFmZkNYNkNCVW1HREgwVGYtT3Eyb05odUh4b3JKM2hKQ0JXekNpYXIwZUJ2VlBuNHE0akRuMTk5cHo?oc=5",
-      "published": "2026-11-17T19:34:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Cursor rastreia extensão de código malicioso de Claude para violação de terceiros",
-      "summary": "Uma chave comprometida emitida para o provedor de infraestrutura de IA Fireworks foi usada por agentes de ameaças para acessar dados e credenciais do Cursor.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
-      "published": "2026-11-17T18:38:37+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0ac2db6d8dd7d25d/6afb79babb3cf32830e383ff/cursor_Erman_Gunes_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Falhas armadas autonomamente do AI Framework em ataques reais, afirma o Google",
-      "summary": "Os atores da ameaça estão implantando estruturas ofensivas multiagentes para aumentar a velocidade das invasões em vários estágios. A postagem Falhas armadas automaticamente do AI Framework em ataques reais, afirma o Google, apareceu pela primeira vez na Secur",
-      "category": "AMEAÇAS",
       "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/",
-      "published": "2026-11-17T18:16:17+00:00",
+      "url": "https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/",
+      "published": "2026-11-18T11:43:22+00:00",
       "image": ""
     },
     {
-      "title": "Segurança para a era agente, desenvolvida pela Microsoft Perception",
-      "summary": "Leia sobre as atualizações do Microsoft Perception e a nova pilha cibernética do Microsoft Security para se defender contra ameaças, proteger agentes e proteger seu patrimônio digital. A postagem Segurança para a era agente, desenvolvida pela Microsoft Percept",
-      "category": "AMEAÇAS",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/17/security-for-the-agentic-era-powered-by-microsoft-perception/",
-      "published": "2026-11-17T18:14:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Tor lança atualização de emergência em meio a ataque DDoS em andamento",
-      "summary": "O Projeto Tor lançou uma atualização de segurança para seu software de retransmissão de rede para aumentar as defesas contra um ataque contínuo de negação de serviço distribuído que, segundo ele, sobrecarregou as retransmissões e afetou a maioria das operadora",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
-      "published": "2026-11-17T18:04:15+00:00",
-      "image": ""
-    },
-    {
-      "title": "Oracle corrige 11 falhas de Java hoje à medida que surge relatório crítico do OpenJDK RCE (CVE-2026-114938)",
-      "summary": "A Oracle está se preparando para lançar patches de segurança para 11 vulnerabilidades no Java SE na terça-feira, 17 de novembro de 2026, todas as quais podem ser exploradas remotamente sem autenticação, já que relatórios separados alertam sobre uma falha poten",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
-      "published": "2026-11-17T15:17:36+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw1l9jYXUC-XLNjqqVjPvFicpQvkj-fwml16Gl43nsTc5TrBGGzijFoCzpxHpfninWaxrDxoCW4J6FKkgO1rPsnVFgFAcMbm9hl9YxeVO6fM4sBrs_tvUOXG8MnKPqDXRal3qNJ2VY7RzqAlj5vJzYI6xVFOxVGV7TyDliY-AIBqKm2bst1d6rCNl2qkhv/s1600/java4shell.jpg"
-    },
-    {
-      "title": "Por dentro dos modernos kits de phishing criados para roubar sessões do Microsoft 365",
-      "summary": "Os pesquisadores da Huntress explicam como EvilTokens, Knight Office e Kali365 capturam e reproduzem tokens M365, além de como os defensores podem detectá-los e contê-los. [...]",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
-      "published": "2026-11-17T15:01:11+00:00",
-      "image": ""
-    },
-    {
-      "title": "Os riscos da autenticação de código de dispositivo para agentes de codificação de IA",
-      "summary": "A pesquisa de laboratório mostra como o phishing de código de dispositivo, uma técnica que se aplica a qualquer cliente de fluxo de dispositivo, pode se estender aos agentes de codificação de IA, usando GitHub Copilot CLI como exemplo ilustrativo. A postagem O",
-      "category": "AMEAÇAS",
-      "source": "Microsoft Security",
-      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/17/the-risks-of-device-code-authentication-for-ai-coding-agents/",
-      "published": "2026-11-17T15:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Gigante de pesquisa de mercado Ipsos investiga violação de sistema interno",
-      "summary": "A empresa tornou o incidente público na segunda-feira, 16 de novembro, cinco dias depois de apresentar queixa às autoridades. O post Gigante de pesquisa de mercado Ipsos investigando violação de sistema interno apareceu pela primeira vez na SecurityWeek.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/",
-      "published": "2026-11-17T14:55:30+00:00",
-      "image": ""
-    },
-    {
-      "title": "Fandango alerta compradores de ingressos sobre exposição de dados de cartões de pagamento",
-      "summary": "Números de cartões, CVVs, datas de validade e endereços de e-mail usados ​​na finalização da compra de ingressos do Fandango durante quatro dias em outubro podem ter sido expostos. A postagem Fandango alerta compradores de ingressos sobre exposição de dados de",
+      "title": "Microsoft Agent Framework Releases Poisoned With Credential Stealer",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "DEFESA",
       "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/",
-      "published": "2026-11-17T14:14:24+00:00",
+      "url": "https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/",
+      "published": "2026-11-18T11:05:39+00:00",
       "image": ""
     },
     {
-      "title": "Pretxt emerge furtivamente com sementes de US$ 5 milhões e uma ferramenta de supervisão de IA",
-      "summary": "Pretxt fornece tecnologia para evitar que agentes de IA escapem de suas grades de proteção e causem danos não intencionais. A postagem Pretxt emerge furtivamente com sementes de US$ 5 milhões e uma ferramenta de supervisão de IA apareceu pela primeira vez na S",
-      "category": "CLOUD & IA",
+      "title": "The challenge of defending against bulletproof dead drops on public blockchains",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "Cisco Talos",
+      "url": "https://blog.talosintelligence.com/the-challenge-of-defending-against-bulletproof-dead-drops-on-public-blockchains/",
+      "published": "2026-11-18T11:00:00+00:00",
+      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/11/on_the_radar.jpg"
+    },
+    {
+      "title": "UAT-12643: Suspected North Korea-aligned actor blends blockchain resilience with targeted infostealing",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "Cisco Talos",
+      "url": "https://blog.talosintelligence.com/uat-12643-suspected-north-korea-aligned-actor-blends-blockchain-resilience-with-targeted-infostealing/",
+      "published": "2026-11-18T11:00:00+00:00",
+      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/11/threat_spotlight.jpg"
+    },
+    {
+      "title": "Critical Perforce Puppet RCE Exploited in Attacks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/",
-      "published": "2026-11-17T14:00:00+00:00",
+      "url": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/",
+      "published": "2026-11-18T10:37:08+00:00",
+      "image": ""
+    },
+    {
+      "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+      "published": "2026-11-18T10:35:05+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft announces Windows Server 2028 with hardened security",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+      "published": "2026-11-18T09:24:31+00:00",
+      "image": ""
+    },
+    {
+      "title": "Oracle Patches 950 Vulnerabilities With November 2026 CSPU",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/",
+      "published": "2026-11-18T08:47:18+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
+      "published": "2026-11-18T08:24:31+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoFKMFLPbzyM7RGi89XdpVFUfFqLH2C0QnAIyZfTSZIkvQNT8jhFEdMdW3D1qPXE0MjtV-q8fM1Alicz0wEuNJ6fnIjOs3BY8D7ABBRWNqPg6NGz9FjhbSQhapwUDZPDyg3kJEy9CZeUwbcmZ3N5nCU8bH6bkCo4BgLfhlE3R3AdDi9CvLVgjqlMW42Pm2/s1600/puppet.jpg"
+    },
+    {
+      "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
+      "published": "2026-11-18T08:24:23+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivmrsz2fViEN49Su385gmuAShCPcxobsMF-FbR9t1sXw6aEbOMzFUT5YktViqASQUXP3bLT13HYMAE1wBQTN0ZRDGXWFJUy_EWOKhOjR7jSz-bhEK8jas_v9wWUYxevCAZt4PzOCaGNLLC96kDwFjtKBuXVW2O3K2BK9AO5nyZutFf_uCaZtvyaQ2qf8gK/s1600/cisa-java.jpg"
+    },
+    {
+      "title": "British Scattered Spider hacker sentenced to 6 years in prison",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "DEFESA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+      "published": "2026-11-18T08:24:18+00:00",
+      "image": ""
+    },
+    {
+      "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCajhzcVBDdFJTYnZPWkZrd1AwUFJ4ZGE2ZnhLaGVBczF3cVNrTm9DLTBucnJoQnFFbTJpdlFMbGtGM2lrSXZTTURmZFAxSDJhRlk3dVVNbGI3bURfZnhMZkJHUkEtWmtyQlRuazJuVGdyUTJyTm54aGJkRQ?oc=5",
+      "published": "2026-11-18T08:24:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMEw1SUVJbHI0cWNkUU55dWQwMFBMOVEzVEVsT3ZReHlnSnlHTV9fbHpPOEN6U0tmUWhCbUQxUzZnS0xUNXNFN084aW5mTU43bm5iX2tVSXlaeUhoaE5mUGNpOEdYVkF4U1lESDRYWnAyXzRPMVF3OUd2ZGNuLWFzeEdQdw?oc=5",
+      "published": "2026-11-18T08:24:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/",
+      "published": "2026-11-18T07:43:34+00:00",
+      "image": ""
+    },
+    {
+      "title": "Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover - SecurityWeek",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYWlJY3pIYnZXUUxPNW9PYXdoZkFJaVQ5eXJOMFBNM3hqcXN2Ty1wbzR4SjV3endBNEZBQTNQWExvbWNzYVVwbWRvWHRJdG9OT1BpdDNpd3NJdGZPSlNzUXRDSFlmN0Jjd1NDY0VYMHlENDVXYXBEaVVycDE3bThxYUdjR1AtanZOU3ZPZDIyc1pnS056YXRxMVlXTGpXWFZ1clBFV2hCZFFPM1g2?oc=5",
+      "published": "2026-11-18T07:43:34+00:00",
+      "image": ""
+    },
+    {
+      "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
+      "published": "2026-11-18T06:45:26+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_LozO7RAz13Jr3eqWHIjlAF6M0Cs-mJXX2mKUqU0TxVS02piD1na92TAZjICmeySD4z0zS-Y_BFvceERBdk-UZvV1DUh1LGN6wK-T-yt_TROJ5fcuvROu807jqESQo93CFP3faBbReKMZQxvgYOAGl_vS2VzfO67O24NdAgh6d9jMO2mTSy2jaNJMPD9T/s1600/ms-python.jpg"
+    },
+    {
+      "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
+      "published": "2026-11-18T05:58:04+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLbxlzqi-uBPlDXGecxrfXQ8kZLpAKsDO5c7KmTTyYyNQQE6bdI0TqT7Rk_JrKRie2pMB_xrLRKy1Cksp1GYHfUGHXz7UGg5nWOAQmPmiRKoUJkMCHrMvW7A72W9x7_I7KESMQmJLQVrJth_Ozj7i1nF7IPB4W_WV-NQyy0afEMgGVbGdaSNfIjolqtC4-/s1600/cloud.jpg"
+    },
+    {
+      "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMnVlRGRqZ1hBVy1jdzkyaXduSWhraVJoY1FvSG1PcWlqNzByX2FkMGxsWHB6cEhnbGp0WnJ4aWJ1VjJWYWhaOTVvVVh6VDZLX2oyTTFjWmdyRFhic1J6NEwwdXBDZTltbElXT1dNeEk1eWxsSUFHVkZBTzJvbjg4ZUh3?oc=5",
+      "published": "2026-11-18T05:58:00+00:00",
       "image": ""
     }
   ]
