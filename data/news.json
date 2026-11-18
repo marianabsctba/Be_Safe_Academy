@@ -1,9 +1,126 @@
 {
-  "updated_at": "2026-11-17T16:14:24.060460+00:00",
+  "updated_at": "2026-11-18T01:02:30.072214+00:00",
   "items": [
     {
-      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Falha crítica do Java4Shell permite ataques RCE nos principais aplicativos Java",
+      "summary": "Uma vulnerabilidade crítica chamada Java4Shell no OpenJDK, a implementação de código aberto do Java, pode permitir que invasores não autenticados executem remotamente código em aplicativos empresariais populares, incluindo Jenkins, Atlassian Jira, Confluence e",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+      "published": "2026-11-17T23:04:21+00:00",
+      "image": ""
+    },
+    {
+      "title": "Ataques de malware otimizados destacam riscos de fornecedores terceirizados",
+      "summary": "Pelo menos 178 organizações, incluindo várias marcas importantes, expuseram involuntariamente visitantes de sites a malware do tipo Hydra por meio de uma plataforma de terceiros.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks",
+      "published": "2026-11-17T22:34:22+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0c54a284942546cd/6afccec91ecf5c62546c1c34/hydra_Daniel_Eskridge_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Chaves de nuvem vazadas em imagens do Docker Hub são roubadas em segundos",
+      "summary": "Credenciais e segredos de acesso expostos em imagens públicas do Docker Hub estão sendo extraídos e explorados por invasores em apenas oito segundos após a publicação. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+      "published": "2026-11-17T21:27:17+00:00",
+      "image": ""
+    },
+    {
+      "title": "Kit de phishing 'TheMailer' coloca IA no comando",
+      "summary": "O kit comercial usa modelos de IA fornecidos pelo invasor para personalizar iscas, evitar filtros de spam e dimensionar campanhas para dezenas de milhares de alvos.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat",
+      "published": "2026-11-17T20:58:13+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6f7643977746699c/6afcac2049ae9b70b9695c91/red_mailbox_white_brick_wall-Liudmila_Chernetska-GettyImages-1477282383.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Japão desliga supercomputador Fugaku após ataque cibernético",
+      "summary": "O supercomputador Fugaku operado pelo Centro RIKEN de Ciência Computacional do Japão foi colocado offline após uma violação de segurança. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+      "published": "2026-11-17T20:51:21+00:00",
+      "image": ""
+    },
+    {
+      "title": "A retirada da Quad9 de França: um canário na mina de carvão",
+      "summary": "A retirada forçada da Quad9 de França destaca os perigos de impor o bloqueio ao nível do DNS. Exploramos por que forçar os resolvedores públicos a agirem como filtros de conteúdo é tecnicamente falho e ameaça a Internet aberta.",
+      "category": "AMEAÇAS",
+      "source": "Cloudflare Security",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "published": "2026-11-17T20:24:27+00:00",
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M7NJ9YQG0JNP2HSE7YEGCHJB.png"
+    },
+    {
+      "title": "Pesquisadores afirmam duas explorações de RCE que contornam as novas defesas do Android do Telegram",
+      "summary": "Um widget malicioso pode contornar o filtro de segurança que o Telegram adicionou ao seu aplicativo Android na semana passada e executar código fora dele, de acordo com a NebuSec, uma empresa de segurança. Widgets são pequenos blocos interativos que os bots en",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+      "published": "2026-11-17T19:34:20+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpVlnQrxQ-QDawosxNpQdcPtITzUQKuYeqUtOk0gctwRhi-8P9Qi_9L72cSwkHRdGNS94HaIDHEkqeb0NTPw3mIZyFstN3ZM1FlUoMweKPNz4iTkAkxlxFSNdE92DAFlfLMFe0gTXWE78eOHROSbISVMgdmFOeVhm0SS2-1wXrNxPGknTVMGroQ0pRqYg/s1600/telegram-rce.jpg"
+    },
+    {
+      "title": "Pesquisadores afirmam duas explorações de RCE que contornam as novas defesas do Android do Telegram - The Hacker News",
+      "summary": "Pesquisadores afirmam duas explorações de RCE que contornam as novas defesas do Android do Telegram The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa05ncWJKLUtZLUhjcDF5ZWFhWE1tMFh0Yk8zQWxPZ0JNR1hYQXBCUExtQ1NYM0I4b1FGTHNKRms5NVVxcmhoLXlMTGFmZkNYNkNCVW1HREgwVGYtT3Eyb05odUh4b3JKM2hKQ0JXekNpYXIwZUJ2VlBuNHE0akRuMTk5cHo?oc=5",
+      "published": "2026-11-17T19:34:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Cursor rastreia extensão de código malicioso de Claude para violação de terceiros",
+      "summary": "Uma chave comprometida emitida para o provedor de infraestrutura de IA Fireworks foi usada por agentes de ameaças para acessar dados e credenciais do Cursor.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
+      "published": "2026-11-17T18:38:37+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0ac2db6d8dd7d25d/6afb79babb3cf32830e383ff/cursor_Erman_Gunes_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Falhas armadas autonomamente do AI Framework em ataques reais, afirma o Google",
+      "summary": "Os atores da ameaça estão implantando estruturas ofensivas multiagentes para aumentar a velocidade das invasões em vários estágios. A postagem Falhas armadas automaticamente do AI Framework em ataques reais, afirma o Google, apareceu pela primeira vez na Secur",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/",
+      "published": "2026-11-17T18:16:17+00:00",
+      "image": ""
+    },
+    {
+      "title": "Segurança para a era agente, desenvolvida pela Microsoft Perception",
+      "summary": "Leia sobre as atualizações do Microsoft Perception e a nova pilha cibernética do Microsoft Security para se defender contra ameaças, proteger agentes e proteger seu patrimônio digital. A postagem Segurança para a era agente, desenvolvida pela Microsoft Percept",
+      "category": "AMEAÇAS",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/17/security-for-the-agentic-era-powered-by-microsoft-perception/",
+      "published": "2026-11-17T18:14:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Tor lança atualização de emergência em meio a ataque DDoS em andamento",
+      "summary": "O Projeto Tor lançou uma atualização de segurança para seu software de retransmissão de rede para aumentar as defesas contra um ataque contínuo de negação de serviço distribuído que, segundo ele, sobrecarregou as retransmissões e afetou a maioria das operadora",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+      "published": "2026-11-17T18:04:15+00:00",
+      "image": ""
+    },
+    {
+      "title": "Oracle corrige 11 falhas de Java hoje à medida que surge relatório crítico do OpenJDK RCE (CVE-2026-114938)",
+      "summary": "A Oracle está se preparando para lançar patches de segurança para 11 vulnerabilidades no Java SE na terça-feira, 17 de novembro de 2026, todas as quais podem ser exploradas remotamente sem autenticação, já que relatórios separados alertam sobre uma falha poten",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+      "published": "2026-11-17T15:17:36+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw1l9jYXUC-XLNjqqVjPvFicpQvkj-fwml16Gl43nsTc5TrBGGzijFoCzpxHpfninWaxrDxoCW4J6FKkgO1rPsnVFgFAcMbm9hl9YxeVO6fM4sBrs_tvUOXG8MnKPqDXRal3qNJ2VY7RzqAlj5vJzYI6xVFOxVGV7TyDliY-AIBqKm2bst1d6rCNl2qkhv/s1600/java4shell.jpg"
+    },
+    {
+      "title": "Por dentro dos modernos kits de phishing criados para roubar sessões do Microsoft 365",
+      "summary": "Os pesquisadores da Huntress explicam como EvilTokens, Knight Office e Kali365 capturam e reproduzem tokens M365, além de como os defensores podem detectá-los e contê-los. [...]",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
@@ -11,8 +128,17 @@
       "image": ""
     },
     {
-      "title": "Market Research Giant Ipsos Investigating Breach of Internal System",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Os riscos da autenticação de código de dispositivo para agentes de codificação de IA",
+      "summary": "A pesquisa de laboratório mostra como o phishing de código de dispositivo, uma técnica que se aplica a qualquer cliente de fluxo de dispositivo, pode se estender aos agentes de codificação de IA, usando GitHub Copilot CLI como exemplo ilustrativo. A postagem O",
+      "category": "AMEAÇAS",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/17/the-risks-of-device-code-authentication-for-ai-coding-agents/",
+      "published": "2026-11-17T15:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Gigante de pesquisa de mercado Ipsos investiga violação de sistema interno",
+      "summary": "A empresa tornou o incidente público na segunda-feira, 16 de novembro, cinco dias depois de apresentar queixa às autoridades. O post Gigante de pesquisa de mercado Ipsos investigando violação de sistema interno apareceu pela primeira vez na SecurityWeek.",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/",
@@ -20,8 +146,8 @@
       "image": ""
     },
     {
-      "title": "Fandango Warns Ticket Buyers of Payment Card Data Exposure",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Fandango alerta compradores de ingressos sobre exposição de dados de cartões de pagamento",
+      "summary": "Números de cartões, CVVs, datas de validade e endereços de e-mail usados ​​na finalização da compra de ingressos do Fandango durante quatro dias em outubro podem ter sido expostos. A postagem Fandango alerta compradores de ingressos sobre exposição de dados de",
       "category": "DEFESA",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/",
@@ -29,138 +155,12 @@
       "image": ""
     },
     {
-      "title": "Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Pretxt emerge furtivamente com sementes de US$ 5 milhões e uma ferramenta de supervisão de IA",
+      "summary": "Pretxt fornece tecnologia para evitar que agentes de IA escapem de suas grades de proteção e causem danos não intencionais. A postagem Pretxt emerge furtivamente com sementes de US$ 5 milhões e uma ferramenta de supervisão de IA apareceu pela primeira vez na S",
       "category": "CLOUD & IA",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/",
       "published": "2026-11-17T14:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "MSP ScreenConnect Servers Targeted in Month-Long Campaign",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/",
-      "published": "2026-11-17T13:24:43+00:00",
-      "image": ""
-    },
-    {
-      "title": "Access Dental Management Data Breach Impacts Over 340,000",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/",
-      "published": "2026-11-17T12:59:04+00:00",
-      "image": ""
-    },
-    {
-      "title": "Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/",
-      "published": "2026-11-17T12:51:54+00:00",
-      "image": ""
-    },
-    {
-      "title": "N-able Kills Legacy APIs, Patches 17 N-central Zero-Days",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/",
-      "published": "2026-11-17T12:28:45+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-      "published": "2026-11-17T12:25:06+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYUhfLA6wixTr6AiVmOSa8uxO2mHxPqG7rHalDaUtYlOaTwUSIzi3JAP78cfEUhwwaoijNe8vJ0ZFiBqDmfrG9LVOzItxMxCYcTCbEc4f7W8iWgKSvzR6DrT0XtK_cM4eTKQ2Edvz-QG5P8iXF_GV_-k6CXMN_-D_QAJags-LpeuXmJ5C6DDz7mDRSBMY/s1600/git-actions.jpg"
-    },
-    {
-      "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
-      "published": "2026-11-17T12:14:36+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoRknesoqi26EwwYMrgBhBudDMiej0sO7-228OvrBIj2ivaPcOUo7GJgoIHAd9fI_VFlK4su0xn1L_BqUgFsldNJgAkQwE4wAvAZzUao-wHUHSoq8NQUo_UdyILYYFoshEgONLhibaGHRQ_cKFVo0Psl1kehyphenhyphenNjlCrkECk16huiU6WecKlpBr0YDN3nus/s1600/iphone-recording.jpg"
-    },
-    {
-      "title": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/",
-      "published": "2026-11-17T12:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "CLOUD & IA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
-      "published": "2026-11-17T11:20:18+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhGYnRRqAfAZ2q0dS56dC5lC86Kx69VT0moHy1Pxt67C0ic8RbLOL9LR68b4atQmvb7O6Gq3Btm1axv2aCRaNkhagPKbFHvThWlye3QPpK1xnEj4kovoJn8dsbTlCmAjXOIb8EHV3RJuhNQdVNKRxc4uwiuIfws_a63koiBaCQvs5jwbnTFG8EUwuA0RiA/s1600/git-share.jpg"
-    },
-    {
-      "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zQjNqQnhNSGtmYU42b1VvdUtuTjJIYVpnNDNfWjh2WC13WlRRd0tzNUZLaUNRNHB6THgyektjVjhINVVkWWphMmZMT0RkSnZTQ1g0S0RsdTE5dk43SElyY05EVjhzQnNJTzFQZDhvbGgwNDV6Y1hsRU1pMFYySEk?oc=5",
-      "published": "2026-11-17T11:20:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "CLOUD & IA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
-      "published": "2026-11-17T11:07:31+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpfVz_pnzHGcrDTsga77xG6yDhi_sMihXsGCjULyapjweerWHdHByPuWqWYmWQsDAAV37EfmctWtSZgYCHJ-2FMGEE6K94YRDVFjHVO0i1jZxn-TIewKbDqIn3y-pNMH7pqJ9SA1X2Sk_r_vn_SfRdxbPB2kH9-hHkNrigumGuQKXaA6xlHqCdWu4ZDAFH/s1600/apple-macos.jpg"
-    },
-    {
-      "title": "Optimizely Vulnerability Exploited to Serve Malware on Major Websites",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites/",
-      "published": "2026-11-17T10:22:20+00:00",
-      "image": ""
-    },
-    {
-      "title": "Optimizely Vulnerability Exploited to Serve Malware on Major Websites - SecurityWeek",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUFcyTFE0b2NfSjg4N3E4eG9VQ1IwWXBraEQ4TjY5YU9iVE96OVZNcGdtWGJJX1JBTmF1TWtXbkM3VGhndHBkU1Vpc0ktRXhpODJ6eHdaSEtDMjJtcy1hRV9fSkZGZDg1ZEdQSGJ3dzZJUjdIb2ZURDNUem4wcFQ1V2FfOUFMdXpjSXJfbHMwRmJrNjVJeXVkbVQ1Z1ZhQUN2?oc=5",
-      "published": "2026-11-17T10:22:20+00:00",
-      "image": ""
-    },
-    {
-      "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
-      "published": "2026-11-17T09:44:22+00:00",
-      "image": ""
-    },
-    {
-      "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
-      "published": "2026-11-17T08:35:42+00:00",
       "image": ""
     }
   ]
