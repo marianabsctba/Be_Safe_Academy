@@ -1,167 +1,167 @@
 {
-  "updated_at": "2026-11-19T11:53:27.471739+00:00",
+  "updated_at": "2026-11-19T20:48:09.462919+00:00",
   "items": [
     {
-      "title": "Splunk Patches Nearly 140 Flaws Across Three Core Products",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Navegando pela histeria da vulnerabilidade na era da IA",
+      "summary": "Esta parte da série de vídeos Reporters' Notebook examina as consequências das recentes divulgações de falhas de alta gravidade, explorando como os temores de explorações assistidas por IA desencadeiam pânico generalizado, interrupções operacionais e crescente",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
+      "published": "2026-11-19T19:46:44+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7d04c37959ab5304/6aff50a7d42cb182cb40c79e/panic_Kzenon_Alamy_REWORKED_FOR_16_BY_9_FORMAT.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Falha do VMware vCenter recém-corrigida explorada como dia zero pela APT chinesa",
+      "summary": "O Google diz que um grupo de espionagem ligado à China explorou um desvio crítico de autenticação do VMware vCenter antes que a Broadcom lançasse um patch. A postagem Falha do VMware vCenter recém-corrigida explorada como dia zero pelo APT chinês apareceu pela",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/",
-      "published": "2026-11-19T10:41:05+00:00",
+      "url": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/",
+      "published": "2026-11-19T19:21:06+00:00",
       "image": ""
     },
     {
-      "title": "Microsoft confirms app installation, launch issues after hotpatch",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "A internet precisa de uma soneca (e você também)",
+      "summary": "Bill faz uma pausa nas notícias ininterruptas para promover a priorização da consciência ambiental e da estabilidade da equipe em vez de patches reativos.",
       "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/",
-      "published": "2026-11-19T10:35:05+00:00",
-      "image": ""
+      "source": "Cisco Talos",
+      "url": "https://blog.talosintelligence.com/the-internet-needs-a-nap-and-you-do-too/",
+      "published": "2026-11-19T19:00:00+00:00",
+      "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/11/threat_source-2.jpg"
     },
     {
-      "title": "F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/",
-      "published": "2026-11-19T10:26:51+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "ThreatsDay: falhas de jailbreak do GPT-6.2, malware BubbleLoader PNG, demandas de resgate de US$ 500 milhões e mais 17 histórias",
+      "summary": "A maneira mais fácil de enganar alguém é dar-lhe algo que já espera. Uma oferta de emprego. Uma mensagem sobre uma interrupção do serviço. Um aplicativo familiar. Nada parece estranho à primeira vista. E esse é o problema. As histórias desta semana mostram com",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
-      "published": "2026-11-19T09:31:26+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjPpZ9yL9D7JBQvp4_ZmnP8S_U6HKdq3rSM_FVv_uDgT9Iz8D56tO6GNDNE4rs29pejUiKQlxi1HpZ38KYbaSB01PmgPItVL8N-Y9G9vcuJlnadltKvmGhvUKYntAEIVCXFixjdBMyu6S9-zEUlIgGf7E5euvodJbn9LIYWTkRpxwH0g7nz2xp2v5PGMdq/s1600/n-able-hacked.jpg"
+      "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
+      "published": "2026-11-19T18:47:58+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgTqUIWPjGeycl6xafh8Hx8n2UN3UCUgjhTpxUul68DHi7Y_IoHVYBvjDd5DpFg15sKI767hVEq-8CbGhK69JNusMh0OBBXfVMwJlZiKT2gNnTPAL9DyvTY85SB68WkvBxFCMF2_rNS9rUgYkQN8sKssDMBS8gO6YpMudQohf_JWnPztX_h8TdbSX6Vtfi/s1600/td.jpg"
     },
     {
-      "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "ThreatsDay: falhas de jailbreak do GPT-6.2, malware BubbleLoader PNG, demandas de resgate de US$ 500 milhões + mais 17 histórias - The Hacker News",
+      "summary": "ThreatsDay: falhas de jailbreak do GPT-6.2, malware BubbleLoader PNG, demandas de resgate de US$ 500 milhões + mais 17 histórias The Hacker News",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53UjFXTEZTWk5MVWpTOXFLUlhXeTlWaU5ZZjdXaElrRFBHZTl4a1dRSm1Na2w5Ti1oMFBIcFlzY0JoMENkVUNCdjJIV3JUdzk1RWxiT3lzSkg1UnRQXzhMN3JGMDl0Rk41dW9JUVh3ZEw5c1gtdV96aXVuVzg?oc=5",
+      "published": "2026-11-19T18:47:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Violação do Transport for London expõe dados de 265 mil usuários do cartão Oyster",
+      "summary": "A Transport for London (TfL) anunciou que cerca de 265.000 clientes do cartão fotográfico Oyster podem ter tido os detalhes de suas contas expostos em uma violação de dados. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
+      "published": "2026-11-19T18:20:01+00:00",
+      "image": ""
+    },
+    {
+      "title": "phpAfterShell explicado: como os hackers podem transformar uma falha de sessão PHP em execução de código",
+      "summary": "O armazenamento de sessão baseado em arquivo padrão do PHP pode ser feito para retornar objetos escolhidos por um invasor, cortando a gravação de uma sessão no momento certo. Quando combinados com uma segunda fraqueza, como uma cadeia de gadgets adequada no ap",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+      "published": "2026-11-19T16:59:56+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEEFyvreIQgAheXoKRJxLcNgyzFh0rlydmiMfaOBIlmM7zGPc_71mCSG6zWGlpFcRQg59gVUw6NbpmFiNKIcDB3AqVA5eKpjYExWhMu-uBD_W5xu1wiYRtX5MklAgxeuHOBJOI8H9LmaIoXv7IrvFMVHvVhor06lj_ljcIDjIDAPYJ8w01X-BTA51EpOU/s1600/php-after-shell.jpg"
+    },
+    {
+      "title": "As atualizações de segurança do PHP corrigem 18 falhas, incluindo bugs críticos de RCE",
+      "summary": "A equipe de desenvolvimento do PHP lançou atualizações de segurança abordando 18 vulnerabilidades, incluindo falhas críticas que poderiam permitir que invasores não autenticados executassem códigos remotamente em servidores vulneráveis. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
+      "published": "2026-11-19T16:28:23+00:00",
+      "image": ""
+    },
+    {
+      "title": "PHP corrige sete vulnerabilidades críticas de RCE",
+      "summary": "A exploração bem-sucedida pode permitir que invasores travem o processo de trabalho e executem código com os privilégios do trabalhador PHP. O post PHP corrige sete vulnerabilidades críticas do RCE apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/",
+      "published": "2026-11-19T15:54:20+00:00",
+      "image": ""
+    },
+    {
+      "title": "PHP corrige 7 falhas críticas, incluindo bugs que poderiam permitir a execução remota de código",
+      "summary": "A PHP Foundation lançou atualizações de segurança para solucionar várias falhas críticas de segurança que poderiam ser exploradas para obter execução remota de código em implantações afetadas, incluindo CVE-2026-115560. O lançamento do patch segue um aviso pré",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+      "published": "2026-11-19T15:18:07+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD2D26Hu7r43uUrdDxmsmmbBe2oMxd-L3_DIVLqAPyDrOnSmdvXfkIq1_lNmWqr49gbrIZ0NeTmA2OYgyWgdUjRf_RTRfflyXn3Vgujkb9tiByOPfej1OqEszpQf2FeozeSqmK5L7aSj28GLwzKmzehIp9zJyeJqgRvbVOW91_pVEMhs3KY9_oXjwf5BE/s1600/php-flawss.jpg"
+    },
+    {
+      "title": "Falha crítica do VMware vCenter (CVSS 9.8) permite que invasores de rede ignorem a autenticação",
+      "summary": "Uma falha crítica no VMware vCenter permite que um invasor com acesso à rede ignore a autenticação e obtenha acesso não autorizado ao sistema, disse a Broadcom, proprietária da VMware, em um comunicado publicado hoje. Versões corrigidas foram lançadas para tod",
       "category": "INCIDENTES",
       "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTWEwV09jQ1NVVjNhUnlLRE1pUU9TNEFrc2Q2cllMdi1iU1lWbzRPQzZZWWVzZVlTZTFHY1lXOGt1Vm8wRGVjUGlSMGxoa0ZWTkhONkk5RWxnZ2xzSDdtRHFmSTBTN0p4SDhlMGRBdUlFSXRDSFFaa3g3M19MY2gycUpuRQ?oc=5",
-      "published": "2026-11-19T09:31:00+00:00",
-      "image": ""
+      "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+      "published": "2026-11-19T15:11:06+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ5IDT81eb7KUE0LzwGJAzuAETft3pD5sOz2dJxnQin_-zR_hH8tDKFTsLNBNoe35KM4DhFJjP7K-0YwaMoVwz7xUhTiP2vKeNqmN3kenPgwflENu35qx-QlFj-rDFdyXx1HMz6ykegw6nlnPDXppYbotjoRj-ammlyUZ-Cr0JYLS5iyZXkJXkaIO5UAc/s1600/vmware.jpg"
     },
     {
-      "title": "NVIDIA investigating Gentlemen ransomware breach claims",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Cinco sinais de alerta de violação de ransomware antes da criptografia ou roubo de dados",
+      "summary": "Os ataques de ransomware geralmente envolvem roubo de credenciais, movimentação lateral e tentativas de desativar os controles de segurança muito antes do início da criptografia. A Acronis examina cinco sinais de alerta que podem ajudar os defensores a detecta",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/",
-      "published": "2026-11-19T09:23:21+00:00",
+      "url": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
+      "published": "2026-11-19T15:00:10+00:00",
       "image": ""
     },
     {
-      "title": "Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/",
-      "published": "2026-11-19T09:10:58+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
-      "published": "2026-11-19T08:42:11+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7rmcgZ7yffFsn_7SX4iQcfMhw1dgsxPFXXh6TUunbQ9VaxZh8O5-AFT2V3q0PE7Wx0rW9nLKuB73eluixYuM9N38Dvq_Gjs1nNOXVk3e71jjfhHoP7W97eeuc5AivI3CQNxIrwSaPR9IGV0f2NZ7900Ihtkdgiw1ZivTvgVrXWH2CrX2X5MZGjos6-bs/s1600/ruby.jpg"
-    },
-    {
-      "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
-      "published": "2026-11-19T08:14:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDE1pOkFxdtUcDqLptfhjaBnnEyzz2JfxUJICSOrW3vpcNlygN1XleKCdkv9CA3Zp901yQ884tOkPX9TmSYx5tpevenJw1CmW4oktkn2creXnB5-dvbiJB3crcILx4Kb8b6eVhiKjh-RRZTGnvWskqROJOjF3yaWFVK17fmh-tdT7WMas7MbdK-JsCBmw/s1600/database-rce.jpg"
-    },
-    {
-      "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
-      "published": "2026-11-19T08:00:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJc2bWATWnk5-O72K0n3cYlHuhhox3nVPELPst8c1bui3mTiwBZFUjAUSem14OyqLB6CTECCs9fc-iyng9KmY3jelZ2cqrHg4FKvP2qOZui8piIbYTZy9WdZD0NqiY4fXcLud5GYzmNEXR6DRNuQpjkFzfPvW4fIcDtwaFg4SM9xW-eG09WxFuEcmuKx7U/s1600/cisa.jpg"
-    },
-    {
-      "title": "Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/threat-intelligence/africa-top-spot-most-attacked-region-nigeria-surge",
-      "published": "2026-11-19T08:00:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcfa70452a477c780/6afe245fab384927766a0238/africa-da-kuk-Getty-1386416241.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb2oyeXRPU2JHWlhldk1wMEppd0k4bUliNFFvTkVFZ3RmS2pQbXQzRXpBQ1pGRXN4UFJ4UnVaYm1FVmQ2OGZpUXlCVS1Ba0daQ01xQ2dRWVM5azhCcXdUZFIybmJnT2s4UnRFbmhabTRkOFdXc21YUVNZTHNlQ2ZBS0xSVQ?oc=5",
-      "published": "2026-11-19T08:00:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "PHP Readies Critical Security Updates to Patch Another RCE Flaw",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/",
-      "published": "2026-11-19T07:45:17+00:00",
-      "image": ""
-    },
-    {
-      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
-      "published": "2026-11-19T04:33:46+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj86YA0ZvPrdlouN6GvSZ5P_I5HCaYLm2PBs_JA74wUDgHl8anwcqEN5_Z0kTlAggf0906enJmrtUnN_6jn9kqD8KguG8nOeh1yGS6AAPo1-JHORLQ5nZcpmS5Ss7liuqghFsq8Bb4ooabK29UcCbZlwWGM6HtyRPs4Ty5zv5d4FC5So6tVFUOaEhUylIFU/s1600/php-flaws.jpg"
-    },
-    {
-      "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19 - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVHVqd3hPX2Izb1MtRDlMaXVzdHNwMUszUHQtX3cyS29yNGFLa3dTekFrQmNhdktwYXNOYjUyYS03Sl9rcVhyTzJLZ25xLVVMVVdnLTdKbFZCdDVYWXh3emZlZ2d6V04wakdSWk9xX2xhMnFVX0hiQzQ0Y19MdjRXVw?oc=5",
-      "published": "2026-11-19T04:33:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/",
-      "published": "2026-11-19T03:25:23+00:00",
-      "image": ""
-    },
-    {
-      "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
+      "title": "Bugs críticos do NGINX ‘NGINX2Root’ permitem que invasores sequestrem servidores",
+      "summary": "Duas vulnerabilidades críticas do NGINX apelidadas de “nginx2root” permitem que invasores não autenticados executem código remotamente em servidores web vulneráveis, com pesquisadores demonstrando como as falhas podem ser encadeadas com um bug do kernel Linux ",
+      "category": "INCIDENTES",
       "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
-      "published": "2026-11-18T23:08:33+00:00",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
+      "published": "2026-11-19T14:57:24+00:00",
       "image": ""
     },
     {
-      "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Drupal corrige falha crítica do instalador que poderia dar controle de sites a invasores não autenticados",
+      "summary": "Sob condições específicas, uma vulnerabilidade crítica no núcleo do Drupal pode permitir que um invasor sem credenciais de login use o instalador integrado para tentar reinstalar um site. Isso pode levar ao controle do site ou à execução remota de código, e o ",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
+      "published": "2026-11-19T14:33:06+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4kxIzi1B-GPdS7pbaOI823BHxteL-8FbODKnAoDkr8tGhhjGYuRU9KIEAvOQ6kBZFQPCly3BIhQo6vkjxJy13zL7CxlRXsez_G_otFVaja2H5ObmzNMMilbewaweqqO5Paa0H49yaZdWB09xAIqeo7YLG0uyd05qjdbh2aLIRZd73_jwVGH26YexA3l8/s1600/drupal-flaws.jpg"
+    },
+    {
+      "title": "Nvidia responde à reivindicação de Gentlemen Ransomware",
+      "summary": "A Nvidia afirma não ter encontrado nenhuma indicação de que seus sistemas tenham sido comprometidos depois que o grupo de ransomware Gentlemen listou a empresa como vítima. A postagem Nvidia responde à reivindicação de Gentlemen Ransomware apareceu pela primei",
       "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/",
+      "published": "2026-11-19T14:17:32+00:00",
+      "image": ""
+    },
+    {
+      "title": "Por que a segurança do feriado não pode esperar pela Black Friday",
+      "summary": "Fraudes causadas por bots e ataques de engenharia social em feriados se estendem por muitas semanas, sobrecarregando tanto as equipes de segurança quanto as pequenas empresas.",
+      "category": "INCIDENTES",
       "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
-      "published": "2026-11-18T21:59:46+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0cf0a0b934852050/6afe1492ac3412795c5370fe/russia_Skorzewiak_shutterstoc.jpg?width=720&quality=80&disable=upscale"
+      "url": "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday",
+      "published": "2026-11-19T14:00:00+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3a97d098a9dd9e12/6afe0f2eb91ada7c366c492c/Holiday_shopping_tap_to_pay-Nastasic-GettyImages-2235710285.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Tráfego e ataques na Internet durante as eleições intermediárias de 2026 nos EUA",
+      "summary": "Em 3 de novembro de 2026, os eleitores dos EUA foram às urnas. Aqui está o que os dados da Cloudflare em mais de 1.400 sites protegidos nos dizem sobre o tráfego na Internet e os ataques cibernéticos no dia da eleição.",
+      "category": "INCIDENTES",
+      "source": "Cloudflare Security",
+      "url": "https://blog.cloudflare.com/internet-traffic-2026-us-election/",
+      "published": "2026-11-19T14:00:00+00:00",
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M7R61QF048WWQ6F9XZ3TXEG9.01M7R61R40AS8MPD7CDPFJVBQG.png"
+    },
+    {
+      "title": "Hackers exploram a vulnerabilidade do Cisco Expressway logo após o lançamento do PoC",
+      "summary": "Os invasores invadiram dispositivos Cisco Expressway em cluster em uma organização russa e prepararam ferramentas para movimentação lateral. A postagem Hackers exploram a vulnerabilidade do Cisco Expressway logo após o lançamento do PoC apareceu pela primeira ",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/",
+      "published": "2026-11-19T13:12:20+00:00",
+      "image": ""
     }
   ]
 }
