@@ -1,9 +1,153 @@
 {
-  "updated_at": "2026-11-20T11:54:33.868911+00:00",
+  "updated_at": "2026-11-20T20:32:01.919775+00:00",
   "items": [
     {
-      "title": "SBC Medical Group Data Breach Impacts Over 2 Million",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Como o Cloudflare WAF protege contra ruby2shell (CVE-2026-132825)",
+      "summary": "ruby2shell permite que invasores corrompam a memória em aplicativos Rails e Sinatra padrão sem fazer login. O Cloudflare WAF o bloqueia para todos os clientes, incluindo planos gratuitos. Atualize Ruby agora e use o WAF para cobrir a lacuna.",
+      "category": "VULNERABILIDADES",
+      "source": "Cloudflare Security",
+      "url": "https://blog.cloudflare.com/ruby2shell-waf-protection/",
+      "published": "2026-11-20T20:24:38+00:00",
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M7X91CB1DQF7DRZ96WG5VETW.png"
+    },
+    {
+      "title": "Bell Canada diz que hacker 'agente' roubou dados de clientes corporativos",
+      "summary": "A Bell Canada confirmou que um agente de ameaça “agente” violou seus sistemas em 17 de novembro de 2026 e roubou dados de clientes corporativos, incluindo informações de um sistema usado para solicitar e fornecer circuitos de telecomunicações. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+      "published": "2026-11-20T18:51:43+00:00",
+      "image": ""
+    },
+    {
+      "title": "Na segurança, as palavras são tão importantes quanto as ferramentas, talvez mais",
+      "summary": "Desde falar sobre segurança na nuvem até usar IA, os líderes cibernéticos estão descobrindo que a comunicação clara e disciplinada é agora uma capacidade de defesa de linha de frente em toda a empresa.",
+      "category": "CLOUD & IA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
+      "published": "2026-11-20T18:35:40+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt36f1afcfa92ff2c5/6af766db3c02eaba0a4aae0d/cyber_talk_ATHVisions_Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "WhatsApp corrige três falhas de segurança, incluindo bug do Android suspeito de uso em golpes",
+      "summary": "O WhatsApp, de propriedade da Meta, corrigiu vulnerabilidades de segurança, incluindo uma que afetava seu aplicativo Android, que suspeita ter sido explorada em conexão com mensagens fraudulentas. A vulnerabilidade, rastreada como CVE-2026-23871, foi descrita ",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+      "published": "2026-11-20T17:57:20+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUSbYUJJkBlZsaH90SXIaxYAv5iJN7ZEus7Q24A_Z9fDNNlnOjFnNZ3SnA6er-iuMgQnE6k73nwVwAEPPk1AjRT12N9o8cJft3_dPqMZKeJbpq6QIcGbN1z1UbE_Q3fXTyp1c0XmqynQu2lJPeIYoraqXFcgM-wQH4b1rIBrOKF221CIKLldJIZVJ4g7cr/s1600/whatsapp.jpg"
+    },
+    {
+      "title": "Hackers usam ferramenta autônoma de IA Cairn para encontrar dia zero e assumir o controle do servidor",
+      "summary": "Os atores da ameaça usaram a estrutura de teste de penetração de IA de código aberto Cairn para encontrar uma vulnerabilidade até então desconhecida em um aplicativo de imagens médicas. [...]",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
+      "published": "2026-11-20T17:30:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft nomeada líder no Gartner® Magic Quadrant™ de 2026 para SIEM",
+      "summary": "Estamos honrados que a Microsoft tenha sido mais uma vez reconhecida como líder no Gartner® Magic Quadrant™ de 2026 para gerenciamento de eventos e informações de segurança (SIEM). A postagem Microsoft nomeada líder no Gartner® Magic Quadrant™ de 2026 para SIE",
+      "category": "DEFESA",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/20/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/",
+      "published": "2026-11-20T17:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Bazuka Android Malware usa sobreposições de tela falsas para ocultar roubo de credenciais e controle de dispositivos",
+      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma estrutura de malware Android até então desconhecida, chamada Bazuka, que oferece integração de modelo de linguagem grande (LLM) para gerenciamento e controle de vítimas em escala. A empresa hola",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
+      "published": "2026-11-20T16:58:16+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMs4vBdivbF3Y-4yd3PWqjSTuG2PPDvCemM211pzVl2Jhkus9d14_2MzRgdrlNhRxaHa_2rlIN34kUGHAlV_Y2dMnfmYGlUEzUcab0c_s3N8Zoe8P3rcJ-RJmo2luVci9bVqmwtFhpL4rfR2Uo-ZwvqfqFMwRb_3WwoOvFIaunPd7WMOJ4yW9rjbHEKDwf/s1600/android-malware.jpg"
+    },
+    {
+      "title": "O malware Bazuka Android usa sobreposições de tela falsas para ocultar roubo de credenciais e controle de dispositivos - The Hacker News",
+      "summary": "Bazuka Android Malware usa sobreposições de tela falsas para ocultar roubo de credenciais e controle de dispositivos The Hacker News",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEdSb0Q3SGVkUlREZEZVaGRfX24yd2NlZmdzRWh1dW4yQWlEcDBFeDV6UnFLS3NHWmxHdzg5Vy03WFAtdHpSaTZpbENQWmcyb2ZBWS1WWTE3Q1lhSTlPampRVkh4SmRIQi02TTdhUFFDTjVmNHgtTXRJZzN2dm1XUFdWTzE?oc=5",
+      "published": "2026-11-20T16:58:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "WhatsApp corrige falha descoberta ao interromper campanha fraudulenta",
+      "summary": "Rastreada como CVE-2026-23871, a vulnerabilidade foi encontrada pela equipe de segurança do WhatsApp e pode ter sido usada para tornar as mensagens fraudulentas mais confiáveis. O post WhatsApp corrige falha descoberta ao interromper campanha fraudulenta apare",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/",
+      "published": "2026-11-20T16:01:02+00:00",
+      "image": ""
+    },
+    {
+      "title": "Violação de dados de fornecedores expõe informações de clientes Chase, Visa e Mastercard",
+      "summary": "O JP Morgan Chase alertou que sofreu uma violação de dados depois que um ataque cibernético a um provedor de serviços terceirizado expôs informações pessoais e dados de marketing de clientes. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+      "published": "2026-11-20T15:58:06+00:00",
+      "image": ""
+    },
+    {
+      "title": "Ainda rastreando senhas de empresas em planilhas? Você está voando às cegas.",
+      "summary": "Rastrear senhas de empresas em planilhas pode deixar os administradores de TI inconscientes de credenciais fracas, reutilizadas ou comprometidas, armazenadas e compartilhadas fora de sistemas aprovados. NordPass explica como o gerenciamento centralizado de sen",
+      "category": "PRIVACIDADE",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
+      "published": "2026-11-20T15:00:10+00:00",
+      "image": ""
+    },
+    {
+      "title": "Em outras notícias: ataques cibernéticos a empresas de energia norueguesas, hack de supercomputador, nova exploração do Nightmare Eclipse",
+      "summary": "Histórias dignas de nota que podem ter passado despercebidas: a UE adiciona NoName057(16) à lista de sanções cibernéticas, o malware tem como alvo CACs deixados em computadores pessoais, os agentes Gemini têm como alvo a Epoch AI. A postagem Em outras notícias",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/",
+      "published": "2026-11-20T14:56:23+00:00",
+      "image": ""
+    },
+    {
+      "title": "N-able diz que recente violação de segurança levou a uma grande interrupção do serviço",
+      "summary": "A N-able afirma que os invasores que violaram um de seus servidores causaram uma grande interrupção que afetou os serviços Mail Assure e SpamExperts Hosted Cloud em todo o mundo. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
+      "published": "2026-11-20T13:18:36+00:00",
+      "image": ""
+    },
+    {
+      "title": "Reações da indústria a grandes interrupções e debate sobre patches de IA: Feedback na sexta-feira",
+      "summary": "Os especialistas comentaram se os patches acelerados por IA desempenharam um papel, a necessidade de planos de reversão testados e a fragilidade dos sistemas interconectados. A postagem Reações da indústria a grandes interrupções e debate sobre patches de IA: ",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/",
+      "published": "2026-11-20T12:38:55+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falha KVM do Linux CVE-2026-99312 permite que VMs convidadas acessem a memória do host em hosts AMD",
+      "summary": "Uma falha no KVM, o hipervisor embutido no kernel do Linux, permitiu aos pesquisadores ler cerca de 127 GB da memória de um servidor em nuvem de dentro de uma máquina virtual própria na DigitalOcean. Em um servidor compartilhado, essa memória pode incluir máqu",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
+      "published": "2026-11-20T12:20:00+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg-jisyf4SWwWYA_RUtOoVqBviv2uNAUl6vEeGjsuBA0aOhfLYw7yHitbRBxAoWcf5ZP0UcGovNmyk-u-320fLFYIyUz7jtR77GiveyLdqsZWJ0DohwBfEFyN0KlNAIpIcpS9B6jHEZJybmTu7nuKM-PhSNPco-Z1QmacaSfwWyOWLXzT2WqaEdbZ810M/s1600/vms.jpg"
+    },
+    {
+      "title": "O caminho para a autonomia da IA ​​no SOC",
+      "summary": "Os líderes de segurança estão prestes a conceder muito mais autoridade aos agentes de IA. Num inquérito recente da a16z a CISOs de organizações com mais de 1.000 funcionários, 36% afirmaram que hoje se sentem confortáveis ​​em permitir que os agentes de IA atu",
+      "category": "CLOUD & IA",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
+      "published": "2026-11-20T12:00:00+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGn0ym0Vqfakc2h3h2W6AT6gf5qd6RPkfrgV-Z2UgwDErad91v-nJoIu3OYwEC3IvLQ6rVGm6FIQypMcoTahAgL5_62ipKE1aQsZvqGsdJzu_4ZGaiFlCYKEpg1N5z3FRSk7O5n4uRlfDuNz7i99Ls9z1Ysee3iV4OCMTxG2rF8YLgCtfTOL2KA-hSQXY/s1600/INT.png"
+    },
+    {
+      "title": "Violação de dados do SBC Medical Group impacta mais de 2 milhões",
+      "summary": "Os atores da ameaça acessaram bancos de dados contendo informações de clientes associadas a clínicas no Japão. A postagem Violação de dados do SBC Medical Group impacta mais de 2 milhões apareceu pela primeira vez na SecurityWeek.",
       "category": "AMEAÇAS",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/",
@@ -11,157 +155,13 @@
       "image": ""
     },
     {
-      "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "F5 lança patches de emergência para falhas críticas do BIG-IP RCE",
+      "summary": "A empresa norte-americana de segurança cibernética F5 alertou os clientes para corrigir cinco vulnerabilidades críticas do BIG-IP que os invasores podem explorar para acionar negação de serviço (DoS) ou obter execução remota de código. [...]",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
       "published": "2026-11-20T10:57:43+00:00",
       "image": ""
-    },
-    {
-      "title": "European Commission Confirms AI-Assisted Cyberattack Disrupted Services",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/",
-      "published": "2026-11-20T10:51:42+00:00",
-      "image": ""
-    },
-    {
-      "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
-      "published": "2026-11-20T10:38:22+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGn5oji8gd4l_d6wKemSflqTX-q-eiuu4CbbV2ROvzK6Gzpeq8zPsQyGb-UO80f_M8L2pDNNyNqF1ZIdyMPGReyW0KmPb7uuAuRu1M-ZVyNu-GJvx1CRaBsaEOVjV-asFG0P__0MK0Jp3WPJmcNxATiSd6NeBzcCmy-6dLvS5yvpen0cRrwLZvgVpYAvn0/s1600/sonicwall.jpg"
-    },
-    {
-      "title": "Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/",
-      "published": "2026-11-20T10:34:10+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
-      "published": "2026-11-20T10:32:50+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrMm7M_HyuVDt9NknngHSgyfGKu0DR8VTc_GYL-tr_hMhTmi3EAZnM8x5byJQRYEqcUAZlDTR_Xi4RcMm4lidmk9UR_iyTWpDa5Mn6xRBoNwAf3auen2u6guKxnvoIrcQOfq7Mm1clmsyBMYVcjaOqVFYiN4mXgYSyR5_DUSrmVOLDK5mQeAS8BBB3X5-5/s1600/cisco-cyberattacks.jpg"
-    },
-    {
-      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
-      "published": "2026-11-20T09:38:15+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTSAI-N-DRII1YA3I98ZVnKnG0SMgm97oEAqyiSXZB23DPwzvTk3figFLsTCKsMJRxRhjKEPFblxfcOuB_UXc_OAXJRiVI07Jxjn-CebJVHiRQ5sc43AifBpUPNfU5-LRD6QEGbX7Vnt_HAmJZiLojS32PtNWwIWeideJZnIpgjrstJ0Iy84lYd47bePk/s1600/chinese-vmware.jpg"
-    },
-    {
-      "title": "N-able Blames Service Disruption on Cyberattack",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/",
-      "published": "2026-11-20T09:08:35+00:00",
-      "image": ""
-    },
-    {
-      "title": "JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/",
-      "published": "2026-11-20T07:35:46+00:00",
-      "image": ""
-    },
-    {
-      "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
-      "published": "2026-11-20T07:11:39+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjugg63OPJwZuh94vDIg7MkA4YoeLKr5sjiqI6CEgjvDjUvJ-pBJOfUrUBxPUTbartqVwdldczbKSYo6lpkcVic1EDQYIDyWq12zMdMONjpDtK4NKCgkppAWvnOJpXe7prfmRG8WNpH0RrQ0bhX2nZKGpRy33y0OMZraBjEPoDorp9h3kNJSa-IQrJC7Nl5/s1600/cf.jpg"
-    },
-    {
-      "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZnQ1dUY5Y2Fla1Rpdy00SzZuMllIUE03eG5NbXJUMlRkb0ZpZjVrWUEzNFVrQ1NReFhwdEszWDRyTHFLcnN2UUFKSzhqWkpUNDhya01IREdkNm03aGE5OFJRYlhpVFhBNmp0c3ZtMEM5OUFjWXhVWGVrb1ZHemJjRQ?oc=5",
-      "published": "2026-11-20T07:11:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNmU0RTVlZkhSbi1kX2tyRGhaa0tjTmQtNzVGWjlKeUh5dkxtQkxiSGFNRFkzVF9HWTdzVVRqMExSbjlCSlJUc3FmcmlPOGNIVDAyd01RVllFdDZONkgzNVgwYUE3UVZYUURrR2ZVX1RGajVfbDVndVhuanJhc2VSQ1NR?oc=5",
-      "published": "2026-11-20T06:37:47+00:00",
-      "image": ""
-    },
-    {
-      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
-      "published": "2026-11-20T05:30:01+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRnUdcazdCteyaE1EC_aLit8CioDaJ5yvsWnawFVWQrJvYFktNRJXlW9MOJLimG_-aS1IZChVHJbjPI4CXjIbNFLjn5W686xynepfC0oWyEG81NX5CxdS-9ayumfRljgy32e2bYXDD72T6VpIFFzeCcPKwG48RDKiZExwNdF-4XDFicISSaaRtT3W2dt0/s1600/windows-lockscreen.jpg"
-    },
-    {
-      "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "Cloudflare Security",
-      "url": "https://blog.cloudflare.com/nginx2root/",
-      "published": "2026-11-20T01:58:29+00:00",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M7V6N9XSHCT1GMC5KHVYE692.01M7V6NAA3FDH1YV1552W4P5P7.png"
-    },
-    {
-      "title": "VMware patches vCenter zero-day exploited in attacks since September",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
-      "published": "2026-11-20T00:26:25+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
-      "published": "2026-11-19T22:25:42+00:00",
-      "image": ""
-    },
-    {
-      "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
-      "published": "2026-11-19T21:15:59+00:00",
-      "image": ""
-    },
-    {
-      "title": "Second Norwegian Energy Company Breached in Two Days",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
-      "published": "2026-11-19T20:14:15+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte4910babc7878a94/6aff5ad57ab982a4c314744c/Equinor-makasana-Getty.jpg?width=720&quality=80&disable=upscale"
     }
   ]
 }
