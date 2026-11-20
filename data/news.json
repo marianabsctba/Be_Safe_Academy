@@ -1,9 +1,63 @@
 {
-  "updated_at": "2026-11-19T20:48:09.462919+00:00",
+  "updated_at": "2026-11-20T02:25:15.019794+00:00",
   "items": [
     {
-      "title": "Navegando pela histeria da vulnerabilidade na era da IA",
-      "summary": "Esta parte da série de vídeos Reporters' Notebook examina as consequências das recentes divulgações de falhas de alta gravidade, explorando como os temores de explorações assistidas por IA desencadeiam pânico generalizado, interrupções operacionais e crescente",
+      "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "Cloudflare Security",
+      "url": "https://blog.cloudflare.com/nginx2root/",
+      "published": "2026-11-20T01:58:29+00:00",
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M7V6N9XSHCT1GMC5KHVYE692.01M7V6NAA3FDH1YV1552W4P5P7.png"
+    },
+    {
+      "title": "VMware patches vCenter zero-day exploited in attacks since September",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+      "published": "2026-11-20T00:26:25+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+      "published": "2026-11-19T22:25:42+00:00",
+      "image": ""
+    },
+    {
+      "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
+      "published": "2026-11-19T21:15:59+00:00",
+      "image": ""
+    },
+    {
+      "title": "Second Norwegian Energy Company Breached in Two Days",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached",
+      "published": "2026-11-19T20:14:15+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte4910babc7878a94/6aff5ad57ab982a4c314744c/Equinor-makasana-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Critical PHP Flaws Allow Code Execution, But Don't Panic 'PHP2Shell'-Style",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell",
+      "published": "2026-11-19T19:57:31+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt63f30aa2e4f7a5b8/6aff560d615b4f7719adda8c/source_code_background-scanrail-GettyImages-832282452.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Navigating Vulnerability Hysteria in the AI Era",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era",
@@ -11,8 +65,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7d04c37959ab5304/6aff50a7d42cb182cb40c79e/panic_Kzenon_Alamy_REWORKED_FOR_16_BY_9_FORMAT.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Falha do VMware vCenter recém-corrigida explorada como dia zero pela APT chinesa",
-      "summary": "O Google diz que um grupo de espionagem ligado à China explorou um desvio crítico de autenticação do VMware vCenter antes que a Broadcom lançasse um patch. A postagem Falha do VMware vCenter recém-corrigida explorada como dia zero pelo APT chinês apareceu pela",
+      "title": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/",
@@ -20,8 +74,17 @@
       "image": ""
     },
     {
-      "title": "A internet precisa de uma soneca (e você também)",
-      "summary": "Bill faz uma pausa nas notícias ininterruptas para promover a priorização da consciência ambiental e da estabilidade da equipe em vez de patches reativos.",
+      "title": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT - SecurityWeek",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlZYemlXQm1oNHZXUkpUNHlpT2VnZ09IVk5fSFdqXzNPcmVqVXhfWFk3cUJXN0hwdzRxTDJwSUlxbk1oRE42RlhReFJYR0Vic0xsTFhqRTc3aFZzVV9ENFk2NDV1REhucWdXSHpIRTNfR0dnYjdGTUY0aVlMMWc1bVNKNWg3djBEc01pbGhoMTRHM0FVaFNSd2hjYVBRVHhxQVE?oc=5",
+      "published": "2026-11-19T19:21:06+00:00",
+      "image": ""
+    },
+    {
+      "title": "The internet needs a nap (and you do, too)",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "Cisco Talos",
       "url": "https://blog.talosintelligence.com/the-internet-needs-a-nap-and-you-do-too/",
@@ -29,8 +92,8 @@
       "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/11/threat_source-2.jpg"
     },
     {
-      "title": "ThreatsDay: falhas de jailbreak do GPT-6.2, malware BubbleLoader PNG, demandas de resgate de US$ 500 milhões e mais 17 histórias",
-      "summary": "A maneira mais fácil de enganar alguém é dar-lhe algo que já espera. Uma oferta de emprego. Uma mensagem sobre uma interrupção do serviço. Um aplicativo familiar. Nada parece estranho à primeira vista. E esse é o problema. As histórias desta semana mostram com",
+      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
@@ -38,8 +101,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgTqUIWPjGeycl6xafh8Hx8n2UN3UCUgjhTpxUul68DHi7Y_IoHVYBvjDd5DpFg15sKI767hVEq-8CbGhK69JNusMh0OBBXfVMwJlZiKT2gNnTPAL9DyvTY85SB68WkvBxFCMF2_rNS9rUgYkQN8sKssDMBS8gO6YpMudQohf_JWnPztX_h8TdbSX6Vtfi/s1600/td.jpg"
     },
     {
-      "title": "ThreatsDay: falhas de jailbreak do GPT-6.2, malware BubbleLoader PNG, demandas de resgate de US$ 500 milhões + mais 17 histórias - The Hacker News",
-      "summary": "ThreatsDay: falhas de jailbreak do GPT-6.2, malware BubbleLoader PNG, demandas de resgate de US$ 500 milhões + mais 17 histórias The Hacker News",
+      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53UjFXTEZTWk5MVWpTOXFLUlhXeTlWaU5ZZjdXaElrRFBHZTl4a1dRSm1Na2w5Ti1oMFBIcFlzY0JoMENkVUNCdjJIV3JUdzk1RWxiT3lzSkg1UnRQXzhMN3JGMDl0Rk41dW9JUVh3ZEw5c1gtdV96aXVuVzg?oc=5",
@@ -47,8 +110,8 @@
       "image": ""
     },
     {
-      "title": "Violação do Transport for London expõe dados de 265 mil usuários do cartão Oyster",
-      "summary": "A Transport for London (TfL) anunciou que cerca de 265.000 clientes do cartão fotográfico Oyster podem ter tido os detalhes de suas contas expostos em uma violação de dados. [...]",
+      "title": "Transport for London breach exposes 265,000 Oyster card users' data",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
@@ -56,8 +119,8 @@
       "image": ""
     },
     {
-      "title": "phpAfterShell explicado: como os hackers podem transformar uma falha de sessão PHP em execução de código",
-      "summary": "O armazenamento de sessão baseado em arquivo padrão do PHP pode ser feito para retornar objetos escolhidos por um invasor, cortando a gravação de uma sessão no momento certo. Quando combinados com uma segunda fraqueza, como uma cadeia de gadgets adequada no ap",
+      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
@@ -65,8 +128,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEEFyvreIQgAheXoKRJxLcNgyzFh0rlydmiMfaOBIlmM7zGPc_71mCSG6zWGlpFcRQg59gVUw6NbpmFiNKIcDB3AqVA5eKpjYExWhMu-uBD_W5xu1wiYRtX5MklAgxeuHOBJOI8H9LmaIoXv7IrvFMVHvVhor06lj_ljcIDjIDAPYJ8w01X-BTA51EpOU/s1600/php-after-shell.jpg"
     },
     {
-      "title": "As atualizações de segurança do PHP corrigem 18 falhas, incluindo bugs críticos de RCE",
-      "summary": "A equipe de desenvolvimento do PHP lançou atualizações de segurança abordando 18 vulnerabilidades, incluindo falhas críticas que poderiam permitir que invasores não autenticados executassem códigos remotamente em servidores vulneráveis. [...]",
+      "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
@@ -74,8 +137,8 @@
       "image": ""
     },
     {
-      "title": "PHP corrige sete vulnerabilidades críticas de RCE",
-      "summary": "A exploração bem-sucedida pode permitir que invasores travem o processo de trabalho e executem código com os privilégios do trabalhador PHP. O post PHP corrige sete vulnerabilidades críticas do RCE apareceu pela primeira vez na SecurityWeek.",
+      "title": "PHP Patches Seven Critical RCE Vulnerabilities",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/",
@@ -83,85 +146,22 @@
       "image": ""
     },
     {
-      "title": "PHP corrige 7 falhas críticas, incluindo bugs que poderiam permitir a execução remota de código",
-      "summary": "A PHP Foundation lançou atualizações de segurança para solucionar várias falhas críticas de segurança que poderiam ser exploradas para obter execução remota de código em implantações afetadas, incluindo CVE-2026-115560. O lançamento do patch segue um aviso pré",
+      "title": "PHP Patches Seven Critical RCE Vulnerabilities - SecurityWeek",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOTFkYUN2QUowM09FT2J3ck9RRE1PcHBOREhRd19XZmVTb2pTT1BUcFcxeVdnRUxldDdwbTU2bXZra080WnVWV0ZPdFFxZVBycHRKQXBIcWwtWjlTb2JGdWUxRDY1WXA4VC1aYlJmWkdiNktoS0xqZHZaOXYzaTBtZVRn?oc=5",
+      "published": "2026-11-19T15:54:20+00:00",
+      "image": ""
+    },
+    {
+      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
       "published": "2026-11-19T15:18:07+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD2D26Hu7r43uUrdDxmsmmbBe2oMxd-L3_DIVLqAPyDrOnSmdvXfkIq1_lNmWqr49gbrIZ0NeTmA2OYgyWgdUjRf_RTRfflyXn3Vgujkb9tiByOPfej1OqEszpQf2FeozeSqmK5L7aSj28GLwzKmzehIp9zJyeJqgRvbVOW91_pVEMhs3KY9_oXjwf5BE/s1600/php-flawss.jpg"
-    },
-    {
-      "title": "Falha crítica do VMware vCenter (CVSS 9.8) permite que invasores de rede ignorem a autenticação",
-      "summary": "Uma falha crítica no VMware vCenter permite que um invasor com acesso à rede ignore a autenticação e obtenha acesso não autorizado ao sistema, disse a Broadcom, proprietária da VMware, em um comunicado publicado hoje. Versões corrigidas foram lançadas para tod",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
-      "published": "2026-11-19T15:11:06+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ5IDT81eb7KUE0LzwGJAzuAETft3pD5sOz2dJxnQin_-zR_hH8tDKFTsLNBNoe35KM4DhFJjP7K-0YwaMoVwz7xUhTiP2vKeNqmN3kenPgwflENu35qx-QlFj-rDFdyXx1HMz6ykegw6nlnPDXppYbotjoRj-ammlyUZ-Cr0JYLS5iyZXkJXkaIO5UAc/s1600/vmware.jpg"
-    },
-    {
-      "title": "Cinco sinais de alerta de violação de ransomware antes da criptografia ou roubo de dados",
-      "summary": "Os ataques de ransomware geralmente envolvem roubo de credenciais, movimentação lateral e tentativas de desativar os controles de segurança muito antes do início da criptografia. A Acronis examina cinco sinais de alerta que podem ajudar os defensores a detecta",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
-      "published": "2026-11-19T15:00:10+00:00",
-      "image": ""
-    },
-    {
-      "title": "Bugs críticos do NGINX ‘NGINX2Root’ permitem que invasores sequestrem servidores",
-      "summary": "Duas vulnerabilidades críticas do NGINX apelidadas de “nginx2root” permitem que invasores não autenticados executem código remotamente em servidores web vulneráveis, com pesquisadores demonstrando como as falhas podem ser encadeadas com um bug do kernel Linux ",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
-      "published": "2026-11-19T14:57:24+00:00",
-      "image": ""
-    },
-    {
-      "title": "Drupal corrige falha crítica do instalador que poderia dar controle de sites a invasores não autenticados",
-      "summary": "Sob condições específicas, uma vulnerabilidade crítica no núcleo do Drupal pode permitir que um invasor sem credenciais de login use o instalador integrado para tentar reinstalar um site. Isso pode levar ao controle do site ou à execução remota de código, e o ",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-      "published": "2026-11-19T14:33:06+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4kxIzi1B-GPdS7pbaOI823BHxteL-8FbODKnAoDkr8tGhhjGYuRU9KIEAvOQ6kBZFQPCly3BIhQo6vkjxJy13zL7CxlRXsez_G_otFVaja2H5ObmzNMMilbewaweqqO5Paa0H49yaZdWB09xAIqeo7YLG0uyd05qjdbh2aLIRZd73_jwVGH26YexA3l8/s1600/drupal-flaws.jpg"
-    },
-    {
-      "title": "Nvidia responde à reivindicação de Gentlemen Ransomware",
-      "summary": "A Nvidia afirma não ter encontrado nenhuma indicação de que seus sistemas tenham sido comprometidos depois que o grupo de ransomware Gentlemen listou a empresa como vítima. A postagem Nvidia responde à reivindicação de Gentlemen Ransomware apareceu pela primei",
-      "category": "AMEAÇAS",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/",
-      "published": "2026-11-19T14:17:32+00:00",
-      "image": ""
-    },
-    {
-      "title": "Por que a segurança do feriado não pode esperar pela Black Friday",
-      "summary": "Fraudes causadas por bots e ataques de engenharia social em feriados se estendem por muitas semanas, sobrecarregando tanto as equipes de segurança quanto as pequenas empresas.",
-      "category": "INCIDENTES",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday",
-      "published": "2026-11-19T14:00:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3a97d098a9dd9e12/6afe0f2eb91ada7c366c492c/Holiday_shopping_tap_to_pay-Nastasic-GettyImages-2235710285.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Tráfego e ataques na Internet durante as eleições intermediárias de 2026 nos EUA",
-      "summary": "Em 3 de novembro de 2026, os eleitores dos EUA foram às urnas. Aqui está o que os dados da Cloudflare em mais de 1.400 sites protegidos nos dizem sobre o tráfego na Internet e os ataques cibernéticos no dia da eleição.",
-      "category": "INCIDENTES",
-      "source": "Cloudflare Security",
-      "url": "https://blog.cloudflare.com/internet-traffic-2026-us-election/",
-      "published": "2026-11-19T14:00:00+00:00",
-      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M7R61QF048WWQ6F9XZ3TXEG9.01M7R61R40AS8MPD7CDPFJVBQG.png"
-    },
-    {
-      "title": "Hackers exploram a vulnerabilidade do Cisco Expressway logo após o lançamento do PoC",
-      "summary": "Os invasores invadiram dispositivos Cisco Expressway em cluster em uma organização russa e prepararam ferramentas para movimentação lateral. A postagem Hackers exploram a vulnerabilidade do Cisco Expressway logo após o lançamento do PoC apareceu pela primeira ",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/",
-      "published": "2026-11-19T13:12:20+00:00",
-      "image": ""
     }
   ]
 }
