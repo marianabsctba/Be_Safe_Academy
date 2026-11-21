@@ -1,9 +1,27 @@
 {
-  "updated_at": "2026-11-21T02:29:05.103727+00:00",
+  "updated_at": "2026-11-21T11:23:36.031569+00:00",
   "items": [
     {
-      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Hackers exploram falhas críticas de VMware, Cisco e Apache à medida que surgem ataques de espionagem",
+      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) adicionou na sexta-feira quatro falhas que afetam Apache Roller, Cisco Expressway, SAP NetWeaver e Broadcom VMware vCenter às suas Vulnerabilidades Exploradas Conhecidas (KEV), citando evidê",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+      "published": "2026-11-21T08:49:13+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFnWnBDigw8RogBTSInXktn1vUISbzwjHm5GuAFBNX0_ClLBk83WOa2BYiHUbgtva76TY8Oz2kJvEZtvEjqZlFFCuvQ-u-l-4l5dzo2MXw7zHLEuklv_Gn1mB-f5TL9GP_3n1NxQkzkZ-fAX7UpcqfZqUefQiRQZm21sq6IZOzmyuQ1hYs4AFHWQAj83WX/s1600/vmware-cisco.jpg"
+    },
+    {
+      "title": "Hackers exploram falhas críticas de VMware, Cisco e Apache à medida que surgem ataques de espionagem - The Hacker News",
+      "summary": "Hackers exploram falhas críticas de VMware, Cisco e Apache à medida que surgem ataques de espionagem The Hacker News",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ2w1cUFBU2VNb1VPZVRLV19uVS1xZS1Ya3JPOWxpbFF4dk5vVVdnenpqVElJMGN1T1VlVGpoaVhtLUJkb2Jid3F0RGVGUzhVQ0o3V0FUMFhwN2U3ZFREeGpXRTNsSFkzMUU3empZUV9qT1pfMFZEc2d0bmNNUDFCdGdB?oc=5",
+      "published": "2026-11-21T08:49:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "CTO da ‘RansomwareHelp’ indiciado por fraude eletrônica",
+      "summary": "O diretor de tecnologia e cofundador da ransomwarehelp.com, uma empresa de seis anos na Flórida que alegou usar “ferramentas criptográficas avançadas” para restaurar dados bloqueados por ransomware, foi acusado de fraude eletrônica depois que uma operação poli",
       "category": "AMEAÇAS",
       "source": "KrebsOnSecurity",
       "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
@@ -11,8 +29,8 @@
       "image": ""
     },
     {
-      "title": "China's 'Armory Castle' Lays Siege to VMware vCenter Zero-Day",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "O 'Castelo do Arsenal' da China sitia o VMware vCenter Zero-Day",
+      "summary": "Durante a última onda de grandes atualizações de segurança do VMware vCenter, um grupo de ameaças do nexo da China provavelmente já tinha o seu próximo dia zero na manga.",
       "category": "VULNERABILIDADES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day",
@@ -20,8 +38,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt911ff7b35a2a2c1d/6b009babdd63b308b3111bc2/Chinese_fortress-Lukas_Bischoff-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Como o Cloudflare WAF protege contra ruby2shell (CVE-2026-132825)",
+      "summary": "ruby2shell permite que invasores corrompam a memória em aplicativos Rails e Sinatra padrão sem fazer login. O Cloudflare WAF o bloqueia para todos os clientes, incluindo planos gratuitos. Atualize Ruby agora e use o WAF para cobrir a lacuna.",
       "category": "VULNERABILIDADES",
       "source": "Cloudflare Security",
       "url": "https://blog.cloudflare.com/ruby2shell-waf-protection/",
@@ -29,8 +47,8 @@
       "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M7X91CB1DQF7DRZ96WG5VETW.png"
     },
     {
-      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Bell Canada diz que hacker 'agente' roubou dados de clientes corporativos",
+      "summary": "A Bell Canada confirmou que um agente de ameaça “agente” violou seus sistemas em 17 de novembro de 2026 e roubou dados de clientes corporativos, incluindo informações de um sistema usado para solicitar e fornecer circuitos de telecomunicações. [...]",
       "category": "AMEAÇAS",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
@@ -38,8 +56,8 @@
       "image": ""
     },
     {
-      "title": "In Security, Words Matter as Much as Tools, Maybe More",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Na segurança, as palavras são tão importantes quanto as ferramentas, talvez mais",
+      "summary": "Desde falar sobre segurança na nuvem até usar IA, os líderes cibernéticos estão descobrindo que a comunicação clara e disciplinada é agora uma capacidade de defesa de linha de frente em toda a empresa.",
       "category": "CLOUD & IA",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
@@ -47,8 +65,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt36f1afcfa92ff2c5/6af766db3c02eaba0a4aae0d/cyber_talk_ATHVisions_Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "WhatsApp corrige três falhas de segurança, incluindo bug do Android suspeito de uso em golpes",
+      "summary": "O WhatsApp, de propriedade da Meta, corrigiu vulnerabilidades de segurança, incluindo uma que afetava seu aplicativo Android, que suspeita ter sido explorada em conexão com mensagens fraudulentas. A vulnerabilidade, rastreada como CVE-2026-23871 (pontuação CVS",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
@@ -56,17 +74,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUSbYUJJkBlZsaH90SXIaxYAv5iJN7ZEus7Q24A_Z9fDNNlnOjFnNZ3SnA6er-iuMgQnE6k73nwVwAEPPk1AjRT12N9o8cJft3_dPqMZKeJbpq6QIcGbN1z1UbE_Q3fXTyp1c0XmqynQu2lJPeIYoraqXFcgM-wQH4b1rIBrOKF221CIKLldJIZVJ4g7cr/s1600/whatsapp.jpg"
     },
     {
-      "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oS25tSDllLUNYQVNYZGhWTmxFdURQaHZDUGZfLWFiWGNLcXlBM1ZfaXA0WXpsZlM2OUJVNGE4MEg2VTkzNmZWcF9wZGdnWm5SRGdtUkxxVXREUm1Qbkx5bEFhcThkQ2ROWnkxRkswMmZwR0cwZWFOTnQwTmI?oc=5",
-      "published": "2026-11-20T17:57:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Hackers usam ferramenta autônoma de IA Cairn para encontrar dia zero e assumir o controle do servidor",
+      "summary": "Os atores da ameaça usaram a estrutura de teste de penetração de IA de código aberto Cairn para encontrar uma vulnerabilidade até então desconhecida em um aplicativo de imagens médicas. [...]",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
@@ -74,8 +83,8 @@
       "image": ""
     },
     {
-      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Microsoft nomeada líder no Gartner® Magic Quadrant™ de 2026 para SIEM",
+      "summary": "Estamos honrados que a Microsoft tenha sido mais uma vez reconhecida como líder no Gartner® Magic Quadrant™ de 2026 para gerenciamento de eventos e informações de segurança (SIEM). A postagem Microsoft nomeada líder no Gartner® Magic Quadrant™ para SIEM de 202",
       "category": "DEFESA",
       "source": "Microsoft Security",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/11/20/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/",
@@ -83,8 +92,8 @@
       "image": ""
     },
     {
-      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Bazuka Android Malware usa sobreposições de tela falsas para ocultar roubo de credenciais e controle de dispositivos",
+      "summary": "Pesquisadores de segurança cibernética divulgaram detalhes de uma estrutura de malware Android até então desconhecida, chamada Bazuka, que oferece integração de modelo de linguagem grande (LLM) para gerenciamento e controle de vítimas em escala. A empresa hola",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
@@ -92,8 +101,8 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMs4vBdivbF3Y-4yd3PWqjSTuG2PPDvCemM211pzVl2Jhkus9d14_2MzRgdrlNhRxaHa_2rlIN34kUGHAlV_Y2dMnfmYGlUEzUcab0c_s3N8Zoe8P3rcJ-RJmo2luVci9bVqmwtFhpL4rfR2Uo-ZwvqfqFMwRb_3WwoOvFIaunPd7WMOJ4yW9rjbHEKDwf/s1600/android-malware.jpg"
     },
     {
-      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "O malware Bazuka Android usa sobreposições de tela falsas para ocultar roubo de credenciais e controle de dispositivos - The Hacker News",
+      "summary": "Bazuka Android Malware usa sobreposições de tela falsas para ocultar roubo de credenciais e controle de dispositivos The Hacker News",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMEdSb0Q3SGVkUlREZEZVaGRfX24yd2NlZmdzRWh1dW4yQWlEcDBFeDV6UnFLS3NHWmxHdzg5Vy03WFAtdHpSaTZpbENQWmcyb2ZBWS1WWTE3Q1lhSTlPampRVkh4SmRIQi02TTdhUFFDTjVmNHgtTXRJZzN2dm1XUFdWTzE?oc=5",
@@ -101,8 +110,8 @@
       "image": ""
     },
     {
-      "title": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "WhatsApp corrige falha descoberta ao interromper campanha fraudulenta",
+      "summary": "Rastreada como CVE-2026-23871, a vulnerabilidade foi encontrada pela equipe de segurança do WhatsApp e pode ter sido usada para tornar as mensagens fraudulentas mais confiáveis. O post WhatsApp corrige falha descoberta ao interromper campanha fraudulenta apare",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/",
@@ -110,8 +119,8 @@
       "image": ""
     },
     {
-      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Violação de dados de fornecedores expõe informações de clientes Chase, Visa e Mastercard",
+      "summary": "O JP Morgan Chase alertou que sofreu uma violação de dados depois que um ataque cibernético a um provedor de serviços terceirizado expôs informações pessoais e dados de marketing de clientes. [...]",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
@@ -119,8 +128,8 @@
       "image": ""
     },
     {
-      "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Ainda rastreando senhas de empresas em planilhas? Você está voando às cegas.",
+      "summary": "Rastrear senhas de empresas em planilhas pode deixar os administradores de TI inconscientes de credenciais fracas, reutilizadas ou comprometidas, armazenadas e compartilhadas fora de sistemas aprovados. NordPass explica como o gerenciamento centralizado de sen",
       "category": "PRIVACIDADE",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
@@ -128,8 +137,8 @@
       "image": ""
     },
     {
-      "title": "In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Em outras notícias: ataques cibernéticos a empresas de energia norueguesas, hack de supercomputador, nova exploração do Nightmare Eclipse",
+      "summary": "Histórias dignas de nota que podem ter passado despercebidas: a UE adiciona NoName057(16) à lista de sanções cibernéticas, o malware tem como alvo CACs deixados em computadores pessoais, os agentes Gemini têm como alvo a Epoch AI. A postagem Em outras notícias",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/",
@@ -137,8 +146,8 @@
       "image": ""
     },
     {
-      "title": "N-able says recent security breach led to major service outage",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "N-able diz que recente violação de segurança levou a uma grande interrupção do serviço",
+      "summary": "A N-able afirma que os invasores que violaram um de seus servidores causaram uma grande interrupção que afetou os serviços Mail Assure e SpamExperts Hosted Cloud em todo o mundo. [...]",
       "category": "INCIDENTES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
@@ -146,22 +155,13 @@
       "image": ""
     },
     {
-      "title": "Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Reações da indústria a grandes interrupções e debate sobre patches de IA: Feedback na sexta-feira",
+      "summary": "Os especialistas comentaram se os patches acelerados por IA desempenharam um papel, a necessidade de planos de reversão testados e a fragilidade dos sistemas interconectados. A postagem Reações da indústria a grandes interrupções e debate sobre patches de IA: ",
       "category": "VULNERABILIDADES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/",
       "published": "2026-11-20T12:38:55+00:00",
       "image": ""
-    },
-    {
-      "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
-      "published": "2026-11-20T12:20:00+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg-jisyf4SWwWYA_RUtOoVqBviv2uNAUl6vEeGjsuBA0aOhfLYw7yHitbRBxAoWcf5ZP0UcGovNmyk-u-320fLFYIyUz7jtR77GiveyLdqsZWJ0DohwBfEFyN0KlNAIpIcpS9B6jHEZJybmTu7nuKM-PhSNPco-Z1QmacaSfwWyOWLXzT2WqaEdbZ810M/s1600/vms.jpg"
     }
   ]
 }
