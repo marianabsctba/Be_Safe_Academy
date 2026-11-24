@@ -1,167 +1,167 @@
 {
-  "updated_at": "2026-11-23T13:10:32.195153+00:00",
+  "updated_at": "2026-11-24T02:20:24.613434+00:00",
   "items": [
     {
-      "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "title": "Gateways seriais industriais transmitem que são inseguros",
+      "summary": "Dispositivos críticos de acesso TO geralmente informam a você e a qualquer outra pessoa se estão protegidos por autenticação — e muitos não estão.",
+      "category": "DEFESA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/ics-ot-security/industrial-serial-gateways-broadcast-insecure",
+      "published": "2026-11-23T22:02:46+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt301a7a187c53b85f/6b04a5d4187d8b84c6ba02e4/Serial_to_IP-Gri-spb-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "CrowdStrike promove segurança de IA com acordo Blockbuster Zscaler",
+      "summary": "A aquisição da Zscaler pela CrowdStrike por US$ 44 bilhões uniria a proteção de endpoint e a segurança de rede de confiança zero para obter maior controle sobre os agentes de IA.",
+      "category": "CLOUD & IA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/endpoint-security/crowdstrike-ai-security-push-zscaler-deal",
+      "published": "2026-11-23T21:21:42+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltffaa274e5fcd829e/68386b0dd0a57a8348fa8ace/Zscaler_SundryPhotography_Alamy.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "A gigante de energia da Coreia do Sul, KEPCO, confirma violação de dados que impactou 1,5 milhão",
+      "summary": "Um agente de ameaça violou a rede interna da Korea Electric Power Corporation (KEPCO) e acessou dois sistemas contendo dados de clientes, funcionários e contratados. [...]",
+      "category": "AMEAÇAS",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+      "published": "2026-11-23T20:54:51+00:00",
+      "image": ""
+    },
+    {
+      "title": "Diretor cibernético dos EUA escolhe sinais de mudança em direção à especialização",
+      "summary": "Trump nomeou Kirsten Davies como Diretora Nacional Cibernética Interina, trazendo maior experiência da indústria para a função em meio a interrupções recentes e tensões geopolíticas crescentes.",
+      "category": "DEFESA",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise",
+      "published": "2026-11-23T20:13:48+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9a0966356bb6bbf4/6b048a6e805d232dd3e79e51/white_house-uschools-GettyImages-160196566.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Falha do Microsoft Azure explorada para roubar credenciais de API dos clientes",
+      "summary": "A Microsoft está alertando os clientes que uma vulnerabilidade de segurança nas camadas clássicas do Azure API Management (APIM) foi explorada para roubar credenciais de API armazenadas, com as autoridades norueguesas vinculando a falha a ataques cibernéticos ",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+      "published": "2026-11-23T19:42:20+00:00",
+      "image": ""
+    },
+    {
+      "title": "LaLiga espanhola confirma que hackers roubaram dados pessoais de torcedores de futebol",
+      "summary": "A LaLiga, principal liga de futebol masculino da Espanha, divulgou uma violação de dados que expôs informações pessoais pertencentes a usuários de seus serviços e de alguns clubes afiliados. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
+      "published": "2026-11-23T18:38:40+00:00",
+      "image": ""
+    },
+    {
+      "title": "Por trás do pseudônimo: como um pesquisador desmascarou uma década de atores de ransomware",
+      "summary": "O ransomware não está desacelerando. Uma nova estrutura dá às equipes de segurança a vantagem de rastrear os invasores até sua origem.",
+      "category": "AMEAÇAS",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cybersecurity-operations/alias-researcher-unmasked-ransomware-actors",
+      "published": "2026-11-23T17:45:52+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt525c0b544f1eeec1/6afe238519e68185a02d38c2/GettyImages-1428094247.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Webworm suspeito de modificar VPN SoftEther para evitar detecção e ocultar acesso remoto",
+      "summary": "Suspeita-se que o agente de ameaças alinhado à China, conhecido como Webworm, esteja usando uma versão personalizada da ferramenta SoftEther VPN Bridge de código aberto na tentativa de remover impressões digitais de detecção reconhecíveis, enquanto a disfarça ",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
+      "published": "2026-11-23T17:45:15+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9_mXkFA2_QQWa_ajcGxgoc3rSAfxGJqP-uIREqPGAfJGM7D7-mLrjwSE_F1egX-pwVRvMRinRGs4QbcBE1yJrmHFw4Fa_ILg6ZuTIOy1bf86-wPQ-Zgsqa-6hqdBapRROk97rOeT-Vfa002vHuWF6fCSE1KPttjswyjUeBxjrJzrmVU9KY724e75Giq1T/s1600/chinese-malware.jpg"
+    },
+    {
+      "title": "GlobeTopper perde US$ 2,5 milhões depois que hackers roubam US$ 70 mil em vales-presente",
+      "summary": "Um ataque cibernético interrompeu as operações do provedor de soluções de recarga B2B GlobeTopper, causando uma perda estimada de US$ 2,5 milhões em receitas, enquanto o invasor resgatou cartões-presente digitais no valor de US$ 70.000. [...]",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
+      "published": "2026-11-23T16:50:01+00:00",
+      "image": ""
+    },
+    {
+      "title": "Agentes de IA passam da descoberta de falhas ao acesso root em 11 minutos",
+      "summary": "Um ator do nexo com a China usou a ferramenta de teste de penetração Cairn em ataques contra universidades do Leste Asiático, explorando um dia zero em um aplicativo de imagens médicas.",
+      "category": "VULNERABILIDADES",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes",
+      "published": "2026-11-23T16:17:21+00:00",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt068557e4f1edea18/6b0424213e73ecdcfb851a70/working-with-AI-agents-ImageFlow-shutterstock.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Falha do Azure explorada para atingir segredos em empresas de energia norueguesas",
+      "summary": "A Microsoft fechou uma falha de gerenciamento de API do Azure explorada para direcionar segredos a empresas de energia norueguesas, com outros setores também afetados. A postagem Falha do Azure explorada para atingir segredos em empresas de energia norueguesas",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/",
+      "published": "2026-11-23T15:47:40+00:00",
+      "image": ""
+    },
+    {
+      "title": "⚡ Recapitulação semanal: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell e muitos problemas de Shell",
+      "summary": "Uma chave roubada. Uma mensagem confiável. Uma atualização de rotina. Nada disso parece ser o início de um grande problema de segurança. Em parte é por isso que eles funcionam. Os invasores nem sempre precisam arrombar uma porta. Às vezes eles usam apenas um q",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
+      "published": "2026-11-23T15:10:48+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBkXdg7nYK3nVTpBuC9FL7mGBvzvUxU0VxYplArVFYSTg2d_6tFITemHBYRAOD29pVBKzfo2aZ9Jsy8avRdACCMqrVdlEER0zn2xIWDBdswcH_nZpnJYkfORK6CEaWwX3f-B8AvkUqbR2TLNa7odUG4PFu1uTk_cwsUt8DPGJBSjjF2wd8VPIa5ATJ4fo3/s1600/crecap.jpg"
+    },
+    {
+      "title": "Falha crítica do N-able Patches revelada após ataque cibernético do Mail Assure",
+      "summary": "A empresa restaurou o acesso aos serviços afetados e continua monitorando os ambientes afetados. A postagem Falha crítica do N-able Patches divulgada após ataque cibernético do Mail Assure apareceu pela primeira vez na SecurityWeek.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
+      "published": "2026-11-23T15:06:49+00:00",
+      "image": ""
+    },
+    {
+      "title": "Agentes de IA estão criando uma lacuna de responsabilidade compartilhada",
+      "summary": "Os agentes de IA operam em diversas plataformas, criando brechas de segurança quando nenhum fornecedor pode ver ou controlar suas ações. Token Security examina o problema da responsabilidade compartilhada e explica como as organizações podem gerenciar melhor a",
+      "category": "CLOUD & IA",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
+      "published": "2026-11-23T15:00:10+00:00",
+      "image": ""
+    },
+    {
+      "title": "Vulnerabilidade phpAfterShell revive o caminho de ataque do PHP2Shell",
+      "summary": "Se uma operação de substituição de sessão for interrompida, um invasor que controle os dados recentes poderá acionar a desserialização de dados e o RCE. A postagem Vulnerabilidade do phpAfterShell revive o caminho de ataque do PHP2Shell apareceu pela primeira ",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/",
+      "published": "2026-11-23T13:58:07+00:00",
+      "image": ""
+    },
+    {
+      "title": "Roteadores GL.iNet, KVMs comprometidos por falha no serviço de gerenciamento remoto",
+      "summary": "Os invasores abusaram de uma falha no serviço de gerenciamento remoto GoodCloud para enviar malware aos dispositivos, e limpá-los requer um novo firmware. A postagem Roteadores GL.iNet, KVMs comprometidos por falha no serviço de gerenciamento remoto apareceu p",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/gl-inet-routers-kvms-compromised-via-remote-management-service-flaw/",
+      "published": "2026-11-23T13:26:22+00:00",
+      "image": ""
+    },
+    {
+      "title": "Falha crítica no analisador binário permite injeção de JavaScript por meio de definições maliciosas do analisador",
+      "summary": "Uma falha crítica de segurança foi divulgada na popular biblioteca de analisador binário que poderia permitir que um invasor que controla as definições do analisador executasse código arbitrário. A vulnerabilidade, rastreada como CVE-2026-134814 (pontuação CVS",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
+      "published": "2026-11-23T13:22:20+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ_LYD1NyoPDf8MFXggODpgd2hvazxjShSZltgrLUVic7V-ZIQSjXIzFrkUx0FNoUjlxlIYocEd1AZwGx66uqGWEUyd1TMSlDmxUu8M_r6jdYkmWDZjbszL2WsK7LJzrwI-NgsI7EaLe9WkLwNLGKj8ww3tTOY4X4JPug3RWQqoypUiEpZjVXgBhhcLuZG/s1600/js-cve.jpg"
+    },
+    {
+      "title": "Hackers exploram falha crítica do ScreenConnect para sequestrar PCs técnicos MSP sem aviso prévio",
+      "summary": "Os agentes de ameaças estão explorando uma falha de segurança agora corrigida no ConnectWise ScreenConnect para atingir servidores de provedores de serviços gerenciados (MSP). A atividade gira em torno do CVE-2026-84869 (pontuação CVSS: 9,9), uma falha crítica",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
       "published": "2026-11-23T12:41:04+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWAI03mMW-UNs2bdUuZEiugVBMZq3speEoo8tbQ7TZVITD4fnXiK4l657Tn4-G9fX2w8xLz2zkP9-RTrg3QZPtNMHL_Lg7YRoruCnp8TJA4tbA5bW1YsBZU8QR2FIqSb3_IpN1Le-Xoq2MQ82ZQyRNmYxr8q70PPzijzypDcIDKMIOjrzBweBUiKJ_nuJY/s1600/screens.jpg"
-    },
-    {
-      "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
-      "published": "2026-11-23T12:28:09+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcXbCG8v5Kc2mTfNCFEiow0EHLJWtsrsrEodqvL8qF8awCnrDzw2TfxtPq7rYI3u78mviB8ekGNGL1Of8FZrSM6uZT1lhz2mfRHwHQyhQT8234u03WGZ9M4UZzmj2cYMs8qlsJ54PwNPvVMb2awEzinXAYL0Y25iOGjjikMvq4NQ-v03mqluZnI53PNdk/s1600/nables.jpg"
-    },
-    {
-      "title": "AI Inference Providers Failed to Detect Hacking and Prompt Theft, Says Dragos",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "CLOUD & IA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/ai-inference-providers-failed-to-detect-hacking-and-prompt-theft-says-dragos/",
-      "published": "2026-11-23T12:16:20+00:00",
-      "image": ""
-    },
-    {
-      "title": "BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/badbox-3-0-ad-fraud-operation-generating-40-billion-daily-bid-requests-disrupted/",
-      "published": "2026-11-23T11:44:18+00:00",
-      "image": ""
-    },
-    {
-      "title": "SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/sap-netweaver-cisco-expressway-flaws-exploited-in-attacks/",
-      "published": "2026-11-23T11:35:15+00:00",
-      "image": ""
-    },
-    {
-      "title": "CrowdStrike to Acquire Zscaler in $43.9 Billion Deal",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/crowdstrike-to-acquire-zscaler-in-43-9-billion-deal/",
-      "published": "2026-11-23T11:31:44+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
-      "published": "2026-11-23T09:11:56+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWv3LP9w9Iv-ZmqonS5mwf1jDE-lTLUcDPxCOvYn3RF87-n2epMtdhqH5xXf-bsIIyKXq6U9qU5T1OQ6_Y3VeytS0CCA4TLJtFDcfcHR-I2EHY3t2e94UPvppaaXG9jDQPj4wNwt6CdwQCmXm5uK16BAp5Fn12DmxUk-Wu5ZwPT2kPQFo37oxSeqc6hX7X/s1600/asp.net.jpg"
-    },
-    {
-      "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
-      "published": "2026-11-23T09:11:15+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdHpUWkxTSGhUY0lMWHExY1BsUVd3YTFoVjNkM3l6YzFWRmcxV3A1bVowWWY1TGN4TWJYaGdHVHNOcEJlYlQ3UVk3cExKSVh6RHloNnMwbXJUZDZzTHdwd2NFOTlkaFhvUW50TlFJbGczdXRKdWp6d29YMTdTN3ZBbQ?oc=5",
-      "published": "2026-11-23T09:11:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
-      "published": "2026-11-23T09:04:08+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6ctvKkiuJ-JViYFHxOV5w1CYjcopn7_YrQt2SnF6JC_SvdOugBSXLdVaMgnWhLCO1NfVgwru4ieWK8L3IeCP-OR75HltWOF5qNhOm9iH_VzJi3PSuUgCUtvhy0zkh_nZFv14tLCRsWly39aREkIphJtNMYUvsGS-CvIwunALU5KxtjFswov-lcS2iqzY/s1600/glinet.jpg"
-    },
-    {
-      "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices - The Hacker News",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLVF6aGtndHhqazFFZ3JKR083NWpoaElwaTZyNUp1bkEydWFnR05MaE40bTFtb0ttQzlsUlpVZW5hNGJwWlQ1WlBURmQzekd0VElaeUZWQTIyV0tmNm4xLXdKaXlFSVEyblUzUnEyblhEMUVKeDNzZ3lGc1M1MjJWOUVvTQ?oc=5",
-      "published": "2026-11-23T09:04:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
-      "published": "2026-11-23T08:24:15+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijDifo0ih-I06DQJbgdnt34Xg1qWdMibKByoJO-4vqa50M4yN0Lwu4fDe88GBtoiKHMJnRDYM0WXvYDEMyCWFHEbedl0wzwKI7juH9Q9xs3osQjZK0xPygeuGm0bm6jgpWPa7bca1EuZfTQiLxn-X3aNaAhbchhvemZrCqslieabzsGmz4ezqhrKuYhDyk/s1600/ai-india.jpg"
-    },
-    {
-      "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
-      "published": "2026-11-23T07:44:19+00:00",
-      "image": ""
-    },
-    {
-      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
-      "published": "2026-11-22T18:45:37+00:00",
-      "image": ""
-    },
-    {
-      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
-      "published": "2026-11-22T15:43:04+00:00",
-      "image": ""
-    },
-    {
-      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
-      "published": "2026-11-22T05:06:55+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEGP3P_elvK4C-QnSx5onZ67viDXCIgPCUYqtTF_RDNcLJfyQ4QMbegUmn8AJy5nEmnXfN4ACr6hHztG_DdqXlj54S21toacPQaZgRx2rgqZltN3lvREpZR2xlvgXF_iZ7zW0XT0b91mMiRDVaEB6TUvMFlWwaSa3_C7gwpxdKcNhLtIq15KqwaZrR3VI/s1600/openrouter.png"
-    },
-    {
-      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
-      "published": "2026-11-22T05:03:41+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1BiCJUIrSJXNfKPZEkM46ynK6Rs7gba2xMaTUdoJ7yOK6Y8kcKMqJ_6PhbUIog_U1E8gRCpbj2HrkQ9UEpbPi1HOvkxdxCE5Afa5LbkNhUPvgU7Sa60IVHAWqSvgJaX1p6frMAN335QncL5UTZ3a4v1-agyb8ZXIlMGZTOtzsC0Gll2qRI0NJNMHTsf8/s1600/ghostscript.jpg"
-    },
-    {
-      "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
-      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
-      "category": "DEFESA",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
-      "published": "2026-11-22T00:53:02+00:00",
-      "image": ""
     }
   ]
 }
