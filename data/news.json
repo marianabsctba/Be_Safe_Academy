@@ -1,9 +1,36 @@
 {
-  "updated_at": "2026-11-25T19:26:37.946950+00:00",
+  "updated_at": "2026-11-26T03:40:01.018042+00:00",
   "items": [
     {
-      "title": "Ah, é Dia de Ação de Graças? Eu não tinha notado!",
-      "summary": "No verdadeiro estilo do Dia de Ação de Graças, David tem alguns agradecimentos para agradecer à comunidade de segurança cibernética (e algumas palavras escolhidas para os atores da ameaça).",
+      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+      "published": "2026-11-25T22:05:09+00:00",
+      "image": ""
+    },
+    {
+      "title": "1Password customer data stolen after employee GitHub account breach",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+      "published": "2026-11-25T21:33:33+00:00",
+      "image": ""
+    },
+    {
+      "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+      "published": "2026-11-25T19:39:31+00:00",
+      "image": ""
+    },
+    {
+      "title": "Oh, is it Thanksgiving? I hadn’t noticed!",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "Cisco Talos",
       "url": "https://blog.talosintelligence.com/oh-is-it-thanksgiving-i-hadnt-noticed/",
@@ -11,8 +38,17 @@
       "image": "https://storage.ghost.io/c/af/a0/afa04ee3-414f-4481-8d23-7e7c146f192e/content/images/2026/11/threat_source-3.jpg"
     },
     {
-      "title": "Microsoft nomeada líder no Gartner® Magic Quadrant™ de segurança de e-mail de 2026",
-      "summary": "Temos a honra de anunciar que a Microsoft foi nomeada Líder no Gartner® Magic Quadrant™ de Segurança de E-mail de 2026, pelo segundo ano consecutivo. A postagem Microsoft nomeada líder no Gartner® Magic Quadrant™ de segurança de e-mail de 2026 apareceu pela pr",
+      "title": "What defenders need to know about ARTEX, the agentic AI framework threat actors abuse",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "Microsoft Security",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/",
+      "published": "2026-11-25T18:09:06+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Email Security",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "DEFESA",
       "source": "Microsoft Security",
       "url": "https://www.microsoft.com/en-us/security/blog/2026/11/25/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-email-security/",
@@ -20,8 +56,8 @@
       "image": ""
     },
     {
-      "title": "CISA alerta sobre falha crítica não corrigida nos controladores de refrigeração Danfoss",
-      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) está alertando sobre uma vulnerabilidade crítica nos controladores Danfoss AK-SM Série 8xxA usados ​​por varejistas de alimentos para gerenciar sistemas de refrigeração comercial, HVAC e ilu",
+      "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
@@ -29,8 +65,8 @@
       "image": ""
     },
     {
-      "title": "Os invasores têm como alvo os desenvolvedores .NET com avaliações de trabalho envenenadas",
-      "summary": "Os pesquisadores descobriram 13 pacotes NuGet maliciosos como parte de uma falsa campanha de recrutamento que espalha malware e dá aos invasores acesso às máquinas dos desenvolvedores.",
+      "title": "Attackers Target .NET Developers With Poisoned Job Assessments",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments",
@@ -38,8 +74,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt62eb1a39d76dff3b/6b06d44d51725d29015e8423/Gorodenkoff-developer-coding-shutterstock.png?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Duas vulnerabilidades recentemente divulgadas do GeoServer sob ataque",
-      "summary": "Os invasores estão investigando as instâncias do GeoServer em busca de duas falhas de alta gravidade que podem ser encadeadas com outros bugs de RCE não autenticado. A postagem Duas vulnerabilidades recentemente divulgadas do GeoServer sob ataque apareceram pe",
+      "title": "Two Newly Disclosed GeoServer Vulnerabilities Under Attack",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/",
@@ -47,8 +83,8 @@
       "image": ""
     },
     {
-      "title": "É um mundo bot. Estamos apenas vivendo nisso",
-      "summary": "A detecção de bots tornou-se um jogo perdido. As equipes de segurança precisam limitar igualmente o acesso privilegiado de humanos e máquinas.",
+      "title": "It's a Bot World. We're Just Living in It",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "DEFESA",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyber-risk/bot-world-just-living",
@@ -56,8 +92,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd16db4afaa70e4cc/6a91d9495d308674a5d86232/Bots-MASTER-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "InfraTrust alerta sobre falhas exploradas na cadeia de suprimentos em dispositivos de rede",
-      "summary": "O relatório InfraTrust de novembro da Eclypsium alerta que a maioria dos avisos de segurança de infraestrutura que tratam de vulnerabilidades exploradas no mês passado envolvem falhas em software de terceiros agrupados em produtos, em vez de código desenvolvid",
+      "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
@@ -65,8 +101,8 @@
       "image": ""
     },
     {
-      "title": "Seguradoras cibernéticas veem nova divisão: defesa de IA 'tem' e 'não tem'",
-      "summary": "Dark Reading Confidential Episódio 23: As seguradoras cibernéticas compartilham sua visão do cenário de ameaças impulsionadas pela IA e como os desafios crescentes estão pressionando ambos os lados da política, deixando o modelo atual insustentável.",
+      "title": "Cyber Insurers See New Divide: AI Defense 'Haves' & 'Have Nots'",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide",
@@ -74,8 +110,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "ShinyHunters reivindica retorno, novo grupo inicial rejeita supostos laços",
-      "summary": "Uma conta vinculada ao ShinyHunters anunciou o retorno do grupo, enquanto Okta identifica possíveis ligações entre os hackers do Inception e do ShinyHunters. A postagem ShinyHunters reivindica retorno, novo grupo inicial rejeita supostos laços apareceu pela pr",
+      "title": "ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "DEFESA",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/",
@@ -83,8 +119,8 @@
       "image": ""
     },
     {
-      "title": "América Latina vê ataques cibernéticos em portos, oleodutos e manufatura",
-      "summary": "Do porto de Santos, no Brasil, a um oleoduto na Argentina, os ataques cibernéticos estão afetando cada vez mais os sistemas industriais em toda a região.",
+      "title": "Latin America Sees Cyberattacks on Ports, Pipelines & Manufacturing",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "Dark Reading",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/latin-america-cyberattacks-ports-pipelines-manufacturing",
@@ -92,8 +128,8 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt436e3cfa4b9fe8b4/6b05fbef3e73ec0ee2851fe9/port-santos-brazil-ByDroneVideos-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "FinCEN do Tesouro dos EUA desconecta sistemas após incidente cibernético",
-      "summary": "O FinCEN estendeu os prazos para os arquivadores afetados pelas interrupções enquanto investiga o incidente. A postagem FinCEN do Tesouro dos EUA desconecta sistemas após incidente cibernético apareceu pela primeira vez na SecurityWeek.",
+      "title": "US Treasury’s FinCEN Disconnects Systems Following Cyber Incident",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/",
@@ -101,8 +137,8 @@
       "image": ""
     },
     {
-      "title": "FinCEN do Tesouro dos EUA desconecta sistemas após incidente cibernético - SecurityWeek",
-      "summary": "FinCEN do Tesouro dos EUA desconecta sistemas após incidente cibernético SecurityWeek",
+      "title": "US Treasury’s FinCEN Disconnects Systems Following Cyber Incident - SecurityWeek",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "INCIDENTES",
       "source": "SecurityWeek",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRlo0dHFnZjlwTXVxSUdNa1ZOSnFnMUp3cEItdkJSMHpWU1loSlUwSjZ4RGZnM0U0SEtSaVlkVDJ6N19jUWpPMFM5Vm5tdU9IOVpQRmVQZ0VtVnlCWG1mczRoSDNWUWhsa2lOUmRwUFp0R1Z5TVlCSXN3ay1qUGItX2UxYjg2c3RRa0l1T0JXS3Brdk9jWGswcktn?oc=5",
@@ -110,8 +146,8 @@
       "image": ""
     },
     {
-      "title": "Verdade fundamental: CISO Matt Martin sobre a construção de um programa de segurança real sem um orçamento empresarial",
-      "summary": "Matthew Martin é diretor de segurança da informação e privacidade da Western Carolina University. A postagem Verdade fundamental: CISO Matt Martin sobre a construção de um programa de segurança real sem um orçamento empresarial apareceu pela primeira vez na Se",
+      "title": "Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "PRIVACIDADE",
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/",
@@ -119,49 +155,13 @@
       "image": ""
     },
     {
-      "title": "Hackers exploram duas falhas do GeoServer enquanto pesquisadores alertam sobre cadeias RCE não autenticadas",
-      "summary": "Os agentes de ameaças estão explorando ativamente duas falhas de segurança recentemente corrigidas no GeoServer, de acordo com watchTowr. As vulnerabilidades em questão são CVE-2026-120705 e CVE-2026-129243, cujos detalhes estão abaixo - CVE-2026-120705 (pontu",
+      "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "VULNERABILIDADES",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
       "published": "2026-11-25T12:48:54+00:00",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi8jBS9UW1bUouUo2cLun5A5rtqPOFJoVQctV4ZsoX9uuMottAxM0HLjLZrvTVGU1GtrewszjOwVMBkvHgyFIBsOndc049nwMidNiVnnoKCOePOhy-XDsjiVjxFvubbxn-Z6ca8VJAxxgLmyQ9KGYBRMWV5GP2et02dmXzcG3jKJw1p_njPdaPuJAaxAz1/s1600/geoserver.png"
-    },
-    {
-      "title": "Agência de Crimes Financeiros do Tesouro dos EUA coloca alguns sistemas off-line após invasão cibernética",
-      "summary": "A Rede de Repressão a Crimes Financeiros (FinCEN) do Departamento do Tesouro dos EUA foi atingida por um incidente de segurança cibernética que resultou em “acesso não autorizado a um subconjunto limitado de seus sistemas”, disse a agência na terça-feira. Por ",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
-      "published": "2026-11-25T12:30:08+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJn89Gr-RFxS6UFEzrbUZ5Ys11fK1OwvmMYUPl29eJudnlmmp7Q34p8O0DqV8SvGu4whZke8tiysvZNQWeE4Tm3zRhJSpojYAagBXGUEVM5w6lAw2Z5C-lfRaC2IwOYrnwQSWxwso31woM4CSoluNEjA3N0gFe0RQpsV0r3MCobiKFArLMa1or-QTIBcQ/s1600/fincern.jpg"
-    },
-    {
-      "title": "Agência de Crimes Financeiros do Tesouro dos EUA coloca alguns sistemas off-line após invasão cibernética - The Hacker News",
-      "summary": "Agência de Crimes Financeiros do Tesouro dos EUA tira alguns sistemas do ar após invasão cibernética The Hacker News",
-      "category": "DEFESA",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZVVZSGhZemo1YmgwN0Y1MnYxWTgyYzFpcG9wVEFXYmQ3UlFlQ1p4VlpCNnFQbVBBNVA4dnRqb0VMQ0hmUTJaSURFaVlmWmZQQlRFbWIyYmFOeEhXTmdZU3ZSS05wbUVyLVJxWk9MSXc5S0ZnSTZzUUxyS3Q1SVV6R1A1bw?oc=5",
-      "published": "2026-11-25T12:30:00+00:00",
-      "image": ""
-    },
-    {
-      "title": "Detalhes de exploração do Drupal Fail2Install surgem quando uma falha crítica do RCE enfrenta exploração ativa",
-      "summary": "A Agência de Segurança Cibernética e de Infraestrutura dos EUA (CISA) adicionou na terça-feira uma falha crítica que afeta o Drupal ao seu catálogo de Vulnerabilidades Exploradas Conhecidas (KEV), exigindo que as agências federais apliquem as correções até 27 ",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
-      "published": "2026-11-25T11:23:26+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbChdPRqvJHt9cIG4Z1W9o12tl4thtxIDNNcntDjmIytSIC1PWvOytT0JjY0OJtnba6UVJcEmqNxgOMuWxX2pvNJzjQ70-CIeruqZEDdgaDG66Lv2T6lLMv8cEhrXRie1gcaLz6OoNw6f2822s2yz8jl958kok6WpHmZ7p_n3TRWTdEWSpr1le5T28kFQO/s1600/drupal.gif"
-    },
-    {
-      "title": "Detalhes de exploração do Drupal Fail2Install surgem quando uma falha crítica do RCE enfrenta exploração ativa - The Hacker News",
-      "summary": "Detalhes da exploração do Drupal Fail2Install surgem quando uma falha crítica do RCE enfrenta exploração ativa The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13SWgycEJ1NHdZWkFMOHlhYk9zQWRHdVBFMEhHRWRVdWtfdFZPYVJfakhKUTB4UDBYNVZLczBsYV9BRHlReGZfZnB3OS11OGVGTnZzUWktTTVNRzNhQjFtbjNZMzVsR1AtcGlhcHdOQ0hfUktFM24yNVpqdlZ3akk?oc=5",
-      "published": "2026-11-25T11:23:00+00:00",
-      "image": ""
     }
   ]
 }
