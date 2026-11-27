@@ -1,9 +1,153 @@
 {
-  "updated_at": "2026-11-27T01:49:02.644562+00:00",
+  "updated_at": "2026-11-27T12:44:16.397615+00:00",
   "items": [
     {
-      "title": "ThreatsDay: 10 milhões de serviços NGINX em risco, mais de 250 extensões maliciosas, sequestro de servidor de IA e mais 17 histórias",
-      "summary": "Um site pode parecer perfeitamente adequado para quem o administra. Saia, visite a mesma página e as coisas podem parecer diferentes. Algo semelhante está acontecendo com as extensões de navegador, onde até a maneira como você encontra e instala uma pode mudar",
+      "title": "In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/",
+      "published": "2026-11-27T11:00:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+      "published": "2026-11-27T10:32:18+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivjmF6SycZfBA1Red5jxgerBNr4pe7i8jIwZyZkF20Kxvw__-2oD3cO1hKSCGGQRqncukvouxIx-6KBQdRf5jz9eXb80yFmNyTo2sOsmW2TEXS4irdH7uPvWfZh66zxIa9h0RixfLZtaKO3rSo_riHT9hfbyBGC1m_Y0_FWRu_M0EADEFFZmXFB_NG72Q/s1600/anecdotes.jpg"
+    },
+    {
+      "title": "Drupal warns of new site takeover flaw exploited in attacks",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+      "published": "2026-11-27T10:10:15+00:00",
+      "image": ""
+    },
+    {
+      "title": "SAP confirms security incident after suspicious GitHub activity",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+      "published": "2026-11-27T09:56:36+00:00",
+      "image": ""
+    },
+    {
+      "title": "100,000 Potentially Impacted by Colorado Data Breach",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach/",
+      "published": "2026-11-27T09:30:54+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+      "published": "2026-11-27T09:29:30+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSXVfewkMqSKHEHRrAVXFHFOsMisOpBVnJ_sWbNNQQXuSWTHU5Y8AZW18gdQq7eI5N4l1dXoeBXVuqGGNClEK0U55LHgLYUxmopN9JHaMrYtrt4QrtWmk3uIvX8FzE2jL7Rf-oOG2fiDzj4g99wYn1Ih9uAOmyD0DtWN7ZqkG5UTd3xRYSRnIurQuT437O/s1600/trojan.jpg"
+    },
+    {
+      "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "AMEAÇAS",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbEZpckhIdTEyM1hzZ2hYcXlvNkU3SF9iUjFOTVpMUExBVnpDOVNMSUg5SXZPN0VzNDIzRmlFQ3ZRa3M5LW1udXU4VXVlNVRwSW0waEV3WDluTGRUb2xUcThzbjJTOFNSUEtETkRicmxuS3Y5UWZCSGp1dkNXTXgwRA?oc=5",
+      "published": "2026-11-27T09:29:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
+      "published": "2026-11-27T09:08:16+00:00",
+      "image": ""
+    },
+    {
+      "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+      "published": "2026-11-27T08:06:58+00:00",
+      "image": ""
+    },
+    {
+      "title": "Hex Package Manager Warns of Potential Data Breach",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/hex-package-manager-warns-of-potential-data-breach/",
+      "published": "2026-11-27T07:44:49+00:00",
+      "image": ""
+    },
+    {
+      "title": "SAP Confirms Cyberattack, Source Code Reportedly Compromised",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/",
+      "published": "2026-11-27T07:36:14+00:00",
+      "image": ""
+    },
+    {
+      "title": "SAP Confirms Cyberattack, Source Code Reportedly Compromised - SecurityWeek",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "SecurityWeek",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQampVdTJ4NnQ0Qlc4OHlZV25GTVBkWmFaaExVcTE1dVdMUThTUV92azJJdEdJa294R3VvQzNVb3BneTdfMDN3X1VBb3p5MnFEbW1wZ2lpa2E4WjVqQVR1Mjd4SzFkM25CRXBhNDl6VVJHOC1XVkZEbElpMHFWaEN1SjZBemd2Yzh3alBLN05zMWVsd0k?oc=5",
+      "published": "2026-11-27T07:36:14+00:00",
+      "image": ""
+    },
+    {
+      "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+      "published": "2026-11-27T06:04:20+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjviiPK0v6Kpjxjo_jDNE9vaZ8-JKiq6Oct4uU6qPDfTXq66QnxuV2iExRo2Rx2FyHhyphenhyphenDquMIoxmlfo5GwxfKoEXRG8Pj38FDOzEKitDdhXBNOGN7b6sddsMozMuhI44c-3mimoE4OxU-Xg7h8IzhDiyrXmP6qBO-wW6xmitkIEv_EkU-FJUJBTNtQ8uY/s1600/swiss.jpg"
+    },
+    {
+      "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "INCIDENTES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pekhob0J5dDJOZzdPaHN4T3Y2WTdhUzhrVl9HVWhSV3RObnhLN3cxSHV1SV9MMGR1Vkw5MDN4Z25OYnJFRUdpOWpNTVNBQWMtaHpmSm9aSkxvNjNSVWtmM19vZkJXaURNclV2cW9KT201Vk1RTGRocG4tZw?oc=5",
+      "published": "2026-11-27T06:04:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
+      "published": "2026-11-27T05:48:20+00:00",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy4kFFGLYGbyvO7M_M1gKBjBUm5TF_eT6dIHtCmXKz_cGyC6orRw9XupBLbcQlJTQEEqjZ3q73Cv_Sn9ncPKxOJYU8Poi8Q54-bWKIro4Sp4JYi9hjUjYy71OR1LOV6B5nX8dHK0jYSRJ1p4O1pdMWomZGhCiTKE7MkvrC-gfeINrM-GOab64Bw_MzxA6Z/s1600/cacti.png"
+    },
+    {
+      "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access - The Hacker News",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
+      "category": "VULNERABILIDADES",
+      "source": "The Hacker News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOS1VUmpJcEM5SHNNX09PYlZaQWstSGNyQnpEbWt5TXlVcVdkakhyS0p1NjQ5em5PRGpTLUVYVzhsZE5xSWRhMHpYUDZ6UDctcUhtaUl4VENGc01jN09sX29Ta05Cdkw3LXJfVlk4MzVkb3RlUTBuNnJBX0tUMHVOMVpxdV8?oc=5",
+      "published": "2026-11-27T05:48:00+00:00",
+      "image": ""
+    },
+    {
+      "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "AMEAÇAS",
       "source": "The Hacker News",
       "url": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
@@ -11,156 +155,12 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlwb4cL2xbF38yynT-hp8rHaGntsYzuQwL4-68g3SxEW4Taw6_Kl4WFfL4CuNRNXGxO_KS9prZaqk0A6SA6fib3k8j9miTymP8PzABv9OA21eSDsRv1j9NEgbIEVMR7u1C7VmFyFxdBf0Zcj2sckIyHDkRSjm76oFMDd10drUHa1ctv6190vdYHhuVuRPk/s1600/thday.jpg"
     },
     {
-      "title": "Oferta NordVPN Black Friday: ganhe 78% de desconto em planos VPN em 2026",
-      "summary": "O acordo Black Friday e Cyber ​​​​Monday 2026 da NordVPN já está ativo, oferecendo economia de até 78% em assinaturas VPN, além de três meses extras de proteção. [...]",
+      "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
+      "summary": "Notícia de cibersegurança publicada pela fonte original. Acesse o link para consultar os detalhes técnicos.",
       "category": "DEFESA",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
       "published": "2026-11-26T17:58:42+00:00",
-      "image": ""
-    },
-    {
-      "title": "Entrevistas falsas com especialistas pagos se fazem passar por marcas para roubar logins do Google",
-      "summary": "Uma campanha de phishing em andamento apelidada de “GoodGuys” se faz passar por grandes marcas, incluindo Google, Nvidia, Accenture e SpaceX, para roubar credenciais corporativas do Google e Okta usando convites falsos para entrevistas pagas com especialistas ",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
-      "published": "2026-11-26T17:15:27+00:00",
-      "image": ""
-    },
-    {
-      "title": "FIFA afirma ter sido vítima de ataque cibernético com acesso a ‘informações pessoais e comerciais’",
-      "summary": "A FIFA não informou quando ocorreu o ataque cibernético nem a natureza precisa das informações hackeadas. A postagem FIFA afirma que foi vítima de um ataque cibernético que acessou ‘informações pessoais e comerciais’ apareceu pela primeira vez na SecurityWeek.",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/",
-      "published": "2026-11-26T17:06:55+00:00",
-      "image": ""
-    },
-    {
-      "title": "O malware Remus rouba mensagens do Gmail por meio de uma extensão falsa do Planilhas Google",
-      "summary": "O infostealer Remus está roubando mensagens do Gmail por meio de uma extensão furtiva e maliciosa do Chrome, um recurso que os operadores de malware comercializaram como uma exploração de dia zero no serviço de e-mail do Google. [...]",
-      "category": "VULNERABILIDADES",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
-      "published": "2026-11-26T15:23:28+00:00",
-      "image": ""
-    },
-    {
-      "title": "PolinRider, ligado à Coreia do Norte, envenena mais de 7.600 repositórios GitHub para espalhar malware",
-      "summary": "Os atores da ameaça por trás da campanha PolinRider foram observados plantando um carregador Python em repositórios GitHub, à medida que surgem evidências de que a atividade pode ter começado já em fevereiro de 2025. “O carregador se esconde em um pequeno paco",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
-      "published": "2026-11-26T15:13:41+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgquhPuqGJrSE3xNpn5ZUELVAv-Y7qXqkHgpw7nbVqCay4gyraYO5NNE12rAGzuqk_zhreNwcyzjZf3vZZB5C4teohyuppUP-JlP41PQiLu-hGEFCsqMZO0T6MoaVk-uY818yaTaiJaX-d2O0h0RER22knXbUQc7qnwIcVbleLQrEspMQ8btNa4Q9mFrmue/s1600/gitcat.jpg"
-    },
-    {
-      "title": "Falha crítica do condutor inteligente da sessão Juniper explorada em ataques",
-      "summary": "Rastreada como CVE-2026-103406, a vulnerabilidade permite que invasores remotos executem comandos arbitrários como root. A postagem Falha crítica do condutor inteligente da sessão Juniper explorada em ataques apareceu pela primeira vez na SecurityWeek.",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/",
-      "published": "2026-11-26T13:04:06+00:00",
-      "image": ""
-    },
-    {
-      "title": "Malware SYS010 abusa do gerenciamento do navegador para espionar Gmail e Outlook",
-      "summary": "Uma nova versão do malware infostealer SYS01 entregue por meio de anúncios Meta está inscrevendo os navegadores no gerenciamento de estilo empresarial para forçar a instalação de uma extensão que rouba dados confidenciais, incluindo e-mails do Gmail e do Outlo",
-      "category": "AMEAÇAS",
-      "source": "BleepingComputer",
-      "url": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
-      "published": "2026-11-26T11:50:17+00:00",
-      "image": ""
-    },
-    {
-      "title": "Mitel MiCollab Zero-Days explorado em suspeitos de ataques assistidos por IA",
-      "summary": "A Accenture diz que os hackers exploraram as falhas do MiCollab antes do aconselhamento da Mitel, provavelmente auxiliados pela IA, em uma suposta campanha de extorsão. A postagem Mitel MiCollab Zero-Days explorada em suspeitos de ataques assistidos por IA apa",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/",
-      "published": "2026-11-26T11:35:25+00:00",
-      "image": ""
-    },
-    {
-      "title": "Mitel MiCollab Zero-Days explorado em suspeitos de ataques assistidos por IA - SecurityWeek",
-      "summary": "Mitel MiCollab Zero-Days explorado em suspeitas de ataques assistidos por IA SecurityWeek",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOY2l3ZXdBVnFzV0kxRFpPb0VfVHRzQmpZald5RGtpWGVmbTJld0dZSi03RG81bWhWTlR2eEhnZER2a1MwTFJFYmp6OTZZdVhSY2YyTVRtV3YwanNCTEkwcm5uYWVUZWtGRnEtTXl5TVZkNXdlcnNxWW9ZU1Y1a3JKNzZHTzF3ZTRuODRaTmZMSWliakdCcU5EVXZfNHpvdw?oc=5",
-      "published": "2026-11-26T11:35:25+00:00",
-      "image": ""
-    },
-    {
-      "title": "Mais procurados: os kits e técnicas de phishing que superam os controles de segurança",
-      "summary": "Todo ataque de phishing precisa passar pela segurança de e-mail, filtragem da web e navegação segura antes de chegar a um funcionário. Alguns kits gerenciam isso com muito mais frequência do que outros, e esses são os kits que as equipes de segurança precisam ",
-      "category": "AMEAÇAS",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
-      "published": "2026-11-26T10:57:55+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOYXUiExbrrmBGGBgTjOFcDJSrLYJuITQwZY-l1mOzzkes21-mR0My9ikeCM7cI6VDXuBIE9BZPnKazemiuZf7A4w_xeeMy_IUUlNVTKX3PmW-Xt7FA9UI8JoICZDPW4ZWSspztPv_Mo4Zf7G_fXEw_phMe4uc89O38ugIlQJJKmc6VD7QN3NzU0n0SQU/s1600/push-most.jpg"
-    },
-    {
-      "title": "1. Senha hackeada, dados de clientes e código-fonte roubados em violação de conta do GitHub",
-      "summary": "O popular software de gerenciamento de senhas 1Password divulgou na quarta-feira um incidente de segurança envolvendo seus sistemas de back-end que levou ao acesso não autorizado de algumas informações do cliente, mas enfatizou que os cofres de senhas dos clie",
-      "category": "INCIDENTES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
-      "published": "2026-11-26T10:57:25+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbu9vulg5_P2PLmwCbF5nNRu8UujJDFNLLCGackgRWjz4lmkQcAom8TerCouyPh1pF8sgBAiJTwO7qAQN3kLVd-_0e7czxqhyphenhyphenUQuSG6WyCJvoNsI92X7tl1ukE6h8QDLmQBUBJaKBCyTYXjaGMUeaczy-sTIjMvDHdQjphWmWyCsUyIG4Y7WD4J2FoQfgY/s1600/1password.jpg"
-    },
-    {
-      "title": "O patch do instalador do Drupal deixou uma lacuna que os invasores já estão explorando",
-      "summary": "O Drupal alerta que seu patch de instalação anterior deixou alguns sites vulneráveis ​​ao controle, com invasores já explorando a lacuna. A postagem O patch do instalador do Drupal deixou uma lacuna que os invasores já estão explorando apareceu pela primeira v",
-      "category": "VULNERABILIDADES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/",
-      "published": "2026-11-26T09:12:26+00:00",
-      "image": ""
-    },
-    {
-      "title": "1. Violação de senha expõe dados do cliente e código-fonte interno",
-      "summary": "Um hacker usou uma conta comprometida do GitHub de um funcionário para enviar código malicioso e roubar registros de clientes, mas os cofres não foram acessados. A postagem 1Password Breach expõe dados do cliente, código-fonte interno apareceu pela primeira ve",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/",
-      "published": "2026-11-26T08:32:10+00:00",
-      "image": ""
-    },
-    {
-      "title": "1Violação de senha expõe dados do cliente e código-fonte interno - SecurityWeek",
-      "summary": "1Violação de senha expõe dados de clientes, código-fonte interno SecurityWeek",
-      "category": "INCIDENTES",
-      "source": "SecurityWeek",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUDJzb3RxdDh6SFRhcW5NazRCS2VVNk1iSlNjeTFVRmI5TGFxZ1JvVTVoRTBudjdQQkJBamNhdFB4Q2NsUHp1Qm5xT1FCZTNsbmdBQkZtSGtNLTh6N2VhVU5CVWp4ci1ZMS1yWDhZcVNJZExOblp5bklyczI3bWxwTUFmc014WF9fUV85blJ5N3paSFU?oc=5",
-      "published": "2026-11-26T08:32:10+00:00",
-      "image": ""
-    },
-    {
-      "title": "Chipre se torna alvo de espionagem para hackers iranianos",
-      "summary": "Um grupo de ameaça iraniano, anteriormente não documentado, chamado “Volant Manticore”, tem como alvo organizações cipriotas como parte de um esforço de recolha de informações para Teerão.",
-      "category": "AMEAÇAS",
-      "source": "Dark Reading",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers",
-      "published": "2026-11-26T08:00:00+00:00",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt08316e419aab95b8/6b071dfb870042f8e04904af/cyprus-tunart-GettyImages-961759390.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Drupal alerta sobre nova vulnerabilidade altamente crítica de aquisição de site sob exploração ativa",
-      "summary": "O Drupal alertou sobre uma nova falha de segurança “altamente crítica” que afeta o núcleo do Drupal e que, segundo ele, foi explorada em estado selvagem. A vulnerabilidade, rastreada como CVE-2026-136716 (pontuação CVSS: N/A), foi descrita como um caso de veri",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
-      "published": "2026-11-26T07:02:34+00:00",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy2EcytpsKiKLhUfvQEADKBG6Ht2NprR2VIhIXPJcNQMIGqKT20l0afBPUVhehKFhRzpkHvl3Qu_qaPjFL3L4UsLYH3L4C1DM63zqskhJV1UAjaPqONaEbNkBFsxVDX2jpPZrMym52WvBx2pHktUiRfdXOcp_23xjTdUOxxjxJtI906XLMmw258Bjah1J2/s1600/drupal-rce.png"
-    },
-    {
-      "title": "Drupal alerta sobre nova vulnerabilidade altamente crítica de aquisição de site sob exploração ativa - The Hacker News",
-      "summary": "Drupal alerta sobre nova vulnerabilidade altamente crítica de aquisição de site sob exploração ativa The Hacker News",
-      "category": "VULNERABILIDADES",
-      "source": "The Hacker News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCWTlxUXYyVjU2M0VwTkM2R1VCQ1hWVVlvdm9qWEdrbHNXZE9LWTdUano2b3pSSDkxbmVPLWRncE9BUU85eXFWV3hDSkZoeml3WEowdG5VNm96TmRSekViVzJ4UDZXNDZWaXN5VHBjYWhuX21uWlYzOVRMaHplQ00?oc=5",
-      "published": "2026-11-26T07:02:00+00:00",
       "image": ""
     }
   ]
